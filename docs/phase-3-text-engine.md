@@ -100,3 +100,17 @@ These draw `FontChar` sprites with their own fixed-pitch layout and need the sam
 - Exact `LogLine`, `NameEntryEdit` and `DeckView` layout code.
 - Whether any hard-coded strings in the ELF are drawn through a separate native path (Phase 4).
 - Whether the type-5 text constant loader treats single bytes `>= 0x80` (half-width kana) specially. English does not need them.
+
+## Gate: English test lines in the emulator — pass
+
+Build: `tools/qa/make_en_test_text.py text build/test/text`, then `tools/build/build.sh <clean.iso> build/test/kimikiss_en_test.iso build/test/text`. Played in PCSX2 via `tools/qa/emu.sh`: New Game → default name → prologue. Screenshots are in `qa/` (gitignored).
+
+- **Boot:** the patched image boots. `GRAPH0.PAC` was relocated to LBA 608695, and the font and UI load from it. This confirms that files can be relocated through the ISO9660 directory.
+- **Rendering:** English glyphs are legible, spaced by the width table, sit on the Japanese baseline, and mix correctly with Japanese (`「キス」？`).
+- **Wrapping:**
+  - The word-wrapped line breaks at the inserted `／` and fits in 3 lines.
+  - The unbroken over-long word is broken by the patched per-character overflow test at the right edge.
+  - All 95 printable ASCII glyphs render across three lines.
+- **Backlog:** `LogLine` shows the same lines with variable width and the same wrap behaviour, and scrolls.
+
+Not yet covered: menus and choices (`TextLine`/`TextLineC`), name entry, `DeckView` (Phase 4), and the UDF bridge records (D-014).

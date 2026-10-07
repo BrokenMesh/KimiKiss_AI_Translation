@@ -69,3 +69,8 @@
 - Word wrap: the reinserter inserts `／` at word boundaries using the same width table and the window geometry (552 px line, continuation indent 92 px, 3 lines). This matches how the original script already breaks lines by hand.
 - The engine's overflow check in `putChar:` stays as a safety net. It is changed to test the glyph's real width.
 - Dynamic text (`Nn`/`Nm` names, `dispName`) is measured at its worst case: the longest name the name-entry screen allows. That limit is to be read in Phase 4.
+
+## D-014: UDF bridge left stale for now
+
+- `tools/build/iso_patch.py` updates only ISO9660 directory records. PS2 hardware (`sceCdSearchFile`) and PCSX2 read ISO9660, and the Phase 3 gate passed with a relocated `GRAPH0.PAC`.
+- The image's UDF descriptors still point at the old extents. This matters only for PC tools that read UDF. Update them before release.
