@@ -113,4 +113,4 @@ Build: `tools/qa/make_en_test_text.py text build/test/text`, then `tools/build/b
   - All 95 printable ASCII glyphs render across three lines.
 - **Backlog:** `LogLine` shows the same lines with variable width and the same wrap behaviour, and scrolls.
 
-Not yet covered: menus and choices (`TextLine`/`TextLineC`), name entry, `DeckView` (Phase 4), and the UDF bridge records (D-014).
+Not yet covered: menus and choices (`TextLine`/`TextLineC`), name entry, `DeckView` (Phase 4). The UDF bridge records are updated and checked since D-014 was resolved.

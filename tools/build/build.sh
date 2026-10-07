@@ -9,7 +9,10 @@
 #    patches in patches/scripts, repacks SCRIPT.IMG.
 # 4. Writes the English glyphs into GRAPH0.ARC/PAC.
 # 5. Copies the clean ISO to out.iso and replaces those files (relocating
-#    any that outgrew their slot).
+#    any that outgrew their slot) in both the ISO9660 and the UDF
+#    descriptors.
+# 6. Runs tools/qa/check_iso_udf.py on the result; the build fails if the
+#    ISO9660 and UDF trees disagree or any UDF tag/CRC is invalid.
 # The clean ISO is only ever read. Nothing here writes inside the repo
 # except the gitignored build/ directory.
 set -euo pipefail
@@ -39,3 +42,6 @@ python3 tools/build/iso_patch.py "$iso" "$out" \
   "SCRIPT.IMG=$work/SCRIPT.IMG" \
   "GRAPH/GRAPH0.ARC=$work/GRAPH0.ARC" \
   "GRAPH/GRAPH0.PAC=$work/GRAPH0.PAC"
+
+# 6. The ISO9660 and UDF views of the image must agree (decision D-014).
+python3 tools/qa/check_iso_udf.py "$out"

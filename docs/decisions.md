@@ -70,10 +70,14 @@
 - The engine's overflow check in `putChar:` stays as a safety net. It is changed to test the glyph's real width.
 - Dynamic text (`Nn`/`Nm` names, `dispName`) is measured at its worst case: the longest name the name-entry screen allows. That limit is to be read in Phase 4.
 
-## D-014: UDF bridge left stale for now
+## D-014: UDF bridge kept in step with ISO9660 (resolved)
 
-- `tools/build/iso_patch.py` updates only ISO9660 directory records. PS2 hardware (`sceCdSearchFile`) and PCSX2 read ISO9660, and the Phase 3 gate passed with a relocated `GRAPH0.PAC`.
-- The image's UDF descriptors still point at the old extents. This matters only for PC tools that read UDF. Update them before release.
+- Originally `tools/build/iso_patch.py` updated only the ISO9660 directory records, which is all PS2 hardware (`sceCdSearchFile`) and PCSX2 read, and the UDF file entries kept pointing at the old extents. Fixed before release.
+- The image is a UDF 1.02 bridge (NSR02). File data is shared: UDF block = ISO9660 LBA - 265, same length. Every file has one File Entry with one short_ad. Layout and tag rules are in `docs/formats/iso.md`.
+- `iso_patch.py` now also rewrites, for each patched file, the FE information length, logical blocks recorded and short_ad, then recomputes the tag CRC (CRC-ITU-T, using the CRC length stored in the tag) and checksum. The UDF code is in `tools/build/udf.py`.
+- The relocation limit was wrong: it was the ISO9660 volume size (618,944), but the UDF partition ends at 618,943 and the last sector is the trailing Anchor. It is now the partition end. If a build outgrows it, the image grows (ISO9660 volume size, both partition descriptors, LVID size table, trailing Anchor moved). Current builds relocate about 1.8 K sectors into 10.2 K free ones, so growth is not triggered; it was tested with synthetic files.
+- `tools/qa/check_iso_udf.py <iso>` walks both trees and checks LBA and size agreement, tag checksums and CRCs, anchors, both VDS copies, partition bounds, LVID, extent overlaps. `tools/build/build.sh` runs it as its last step and fails the build on any problem. It passes on the clean image and on the test build.
+- No independent UDF reader (7z, isoinfo, xorriso, kernel udf driver) is installed in the cloud container, so the check is by our own parser only. To cross-check outside the container: `7z l <iso>` or `isoinfo -i <iso> -l -R` on a PC, plus mounting the image on Windows or Linux (both prefer UDF).
 
 ## D-015: Proportional menu text through one helper method
 
