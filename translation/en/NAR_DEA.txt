@@ -167,7 +167,7 @@ Girl
 "I've been a few times. The udon had a great chew, and it was delicious."
 
 @NAR_DEA:105 NAR 1993ac48
-"{V0016}That place,{W20} it's my home."
+"{V0016}That shop?{W20} It's my family's!"
 
 @NAR_DEA:106 PLY eb3d440d
 "Oh, is it? ...Now that you mention it, your name is the same as the shop's."
@@ -473,10 +473,10 @@ Slurrrrrp...{W10} Phew.
 "{V5018}I'm an udon shop's daughter, after all."
 
 @NAR_DEA:240 NAR 9146b005
-"{V5019}Do you{W4} know{W4} the shop{W4} on the shopping street,{W25} Sanuki udon{W4}{W4} Satonaka,{W4}{W20} by any{Ti1} chance?"
+"{V5019}Do you{W4} know{W4} Satonaka,{W4} the{W25} Sanuki udon{W4}{W4} shop{W4} on the shopping street,{W20} by any{Ti1} chance?"
 
 @NAR_DEA:241 NAR 671dc7f9
-"{V5020}That place,{W20} {Ec}it's my home."
+"{V5020}That shop?{W20} {Ec}It's my family's!"
 
 @NAR_DEA:242 PLY f596f20c
 "Huh? Really?"
