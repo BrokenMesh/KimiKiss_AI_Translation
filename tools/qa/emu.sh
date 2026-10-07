@@ -4,6 +4,11 @@
 #   tools/qa/emu.sh start <iso>          start Xvfb + PCSX2 (background)
 #   tools/qa/emu.sh key <key> [hold_ms] [count]
 #                                         press a key (X keysym) in the game window
+#   tools/qa/emu.sh spam <key> <seconds> [out.png] [interval_ms]
+#                                         press <key> repeatedly for <seconds>
+#                                         (default every 80 ms), then optionally
+#                                         capture; for skipping long text runs
+#   tools/qa/emu.sh turbo                toggle PCSX2 turbo (unthrottled speed)
 #   tools/qa/emu.sh shot <out.png>       capture the 640x480 game area
 #   tools/qa/emu.sh stop                 stop PCSX2 and Xvfb
 #
@@ -40,6 +45,25 @@ case "${1:?command}" in
       xdotool keydown --window "$w" "$k"; sleep "$(awk "BEGIN{print $hold/1000}")"
       xdotool keyup --window "$w" "$k"; sleep 0.25
     done
+    ;;
+  spam)
+    k="${2:?key}"; secs="${3:?seconds}"; out="${4:-}"; gap="${5:-80}"
+    w=$(win); [[ -n "$w" ]] || { echo "error: no PCSX2 window" >&2; exit 1; }
+    xdotool windowfocus "$w" 2>/dev/null || true
+    end=$(( $(date +%s%N) + secs * 1000000000 )); n=0
+    while (( $(date +%s%N) < end )); do
+      xdotool keydown --window "$w" "$k"; sleep 0.04
+      xdotool keyup --window "$w" "$k"; sleep "$(awk "BEGIN{print $gap/1000}")"
+      n=$((n + 1))
+    done
+    echo "pressed $k $n times"
+    [[ -z "$out" ]] || "$0" shot "$out"
+    ;;
+  turbo)  # PCSX2 default hotkey for Toggle Turbo / Fast Forward
+    w=$(win); [[ -n "$w" ]] || { echo "error: no PCSX2 window" >&2; exit 1; }
+    xdotool windowfocus "$w" 2>/dev/null || true
+    xdotool key --window "$w" Tab
+    echo "turbo toggled"
     ;;
   shot)
     out="${2:?out.png}"
