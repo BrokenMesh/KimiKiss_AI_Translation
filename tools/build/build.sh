@@ -16,7 +16,7 @@
 # 4. Writes the English glyphs and the redrawn textures into GRAPH0.ARC/PAC
 #    (tools/texture/apply_graph0.py; needs Pillow and numpy).
 #    Hand-edited textures (D-020): every GRAPHn_NNNN.png in
-#    $KIMIKISS_OVERRIDES (default ../kimikiss-private/texture_overrides)
+#    $KIMIKISS_OVERRIDES, else <repo>/texture_overrides (git-ignored), else ../kimikiss-private/texture_overrides
 #    replaces that entry of GRAPH0 (instead of the redraw), GRAPH1 or GRAPH2
 #    (apply_graph12.py writes GRAPH1.ARC / GRAPH2.ARC only for archives that
 #    have overrides). No directory or no PNGs: the build is as without the feature.
@@ -102,6 +102,15 @@ step "inserting the text and applying the script patches" bash -c '
   "$@" tools/reinsert/reinsert_text.py '"$work/script_orig $work/text $work/script"'
   "$@" tools/reinsert/apply_script_patches.py '"$work/script"' patches/scripts
   "$@" tools/reinsert/img_pack.py '"$work/script $work/SCRIPT.IMG"'' _ "${PY[@]}"
+# Hand-made textures (D-020) are game art and are not in the repository: say whether any are used.
+"${PY[@]}" -c "
+import sys; sys.path.insert(0, 'tools/texture')
+import overrides
+d = overrides.default_dir()
+n = sum(len(v) for v in overrides.find().values())
+print(f'hand-made textures: {n} PNG(s) from {d}' if n else
+      f'hand-made textures: none (put GRAPHn_NNNN.png files in {d}); the release xdelta includes the maintainers set')
+"
 step "drawing the English font and textures" bash -c '
   set -e
   "$@" tools/texture/apply_graph0.py build/orig/GRAPH/GRAPH0.ARC '"$work/GRAPH0.ARC $work/GRAPH0.PAC"' --report '"$work/graph0_textures.json"'

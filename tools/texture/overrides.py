@@ -65,9 +65,13 @@ class OverrideError(Exception):
 
 
 def default_dir():
+    """$KIMIKISS_OVERRIDES, else <repo>/texture_overrides (ignored by git), else ../kimikiss-private/texture_overrides."""
     d = os.environ.get('KIMIKISS_OVERRIDES')
     if d:
         return d
+    local = os.path.join(REPO, 'texture_overrides')   # git-ignored, next to build.bat
+    if os.path.isdir(local):
+        return local
     private = os.environ.get('KIMIKISS_PRIVATE_DIR') or os.path.join(os.path.dirname(REPO), 'kimikiss-private')
     return os.path.join(private, 'texture_overrides')
 
