@@ -959,7 +959,7 @@
 "{V2209}{W8}Your time is{W15} still ahead of you, {Nm}."
 
 @MIT_MW2_A:377 PLY ba6869b1
-"Come to think of it, if I'd joined a sports club in Year 1, they would have taught me from the basics, tennis or basketball."
+"Come to think of it, if I'd joined a sports club in Year 1, they'd have taught me tennis or basketball from the basics."
 
 @MIT_MW2_A:378 PLY 017efc6d
 "Maybe I wasted a chance."
@@ -1106,7 +1106,7 @@
 "{V2237}{W8}Running,{W55} I am not very fast at."
 
 @MIT_MW2_A:427 MIT 34422b6d
-"{V2238}{W8}I am confident{W8} about my balance and flexibility,{W15} though..."
+"{V2238}{W8}I am confident{W8} about my balance and flexibility,{W15}{Ec}{Sp} though..."
 
 @MIT_MW2_A:428 PLY 25d428f8
 "Now that the worst of the heat has passed, PE in the schoolyard is easier."

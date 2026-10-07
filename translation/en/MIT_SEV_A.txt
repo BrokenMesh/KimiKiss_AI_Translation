@@ -242,7 +242,7 @@ a girl
 "What about you, Shijou?"
 
 @MIT_SEV_A:171 MIT a09168d3
-"{V0058}{W10}I{W6} saw you{W35} heading to the rooftop,{W10}{W5} so{W20} I followed you."
+"{V0058}{W10}I{W6} saw you,{W3} {Nm},{W35} heading to the rooftop,{W10} so{W5}{W20} I followed you."
 
 @MIT_SEV_A:172 PLY e43f389d
 "I see."
@@ -377,7 +377,7 @@ a girl
 "{V0079}{W10}Hm?"
 
 @MIT_SEV_A:222 PLY 5f042b45
-"There's a girl one year older in my neighborhood, and in elementary school I really cared about her. Looking back, maybe I liked her."
+"There's a girl a year older in my neighborhood. In elementary school I really noticed her. Maybe I liked her."
 
 @MIT_SEV_A:223 PLY 780291a8
 "But I think it was more like admiration."
@@ -509,7 +509,7 @@ Someday, I want to see her in a real dress...
 "I see..."
 
 @MIT_SEV_A:279 PLY a68749a5
-(A bento from leftovers, so is she being thrifty? But they're the three great delicacies, so is it extravagant? I can't figure out rich people...)
+(A bento of leftovers... is she being thrifty? But they're delicacies, so is that extravagant? Rich people confuse me...)
 
 @MIT_SEV_A:280 PLY 056a93b0
 "I've never had any of those..."
@@ -545,7 +545,7 @@ Someday, I want to see her in a real dress...
 "{V100}...{W3}Is{W1} that{W1} so?{W1}{W1}"
 
 @MIT_SEV_A:291 PLY 790e665e
-"Ham cutlet buns, croquette buns and matcha danishes are the three great delicacies of the cafeteria. You don't know them?"
+"Ham cutlet buns, croquette buns and matcha danishes are the cafeteria's three delicacies. Don't you know?"
 
 @MIT_SEV_A:292 MIT ac6846be
 "{V101}{W10}This is the{W3} first time{W5} I have heard of them.{F3}{W28} I{W3} always{W3} have a bento."
@@ -641,7 +641,7 @@ Shijou liked the ham cutlet bun a lot too, which makes me happy somehow.
 "{V110}{W10}I saw{W5} him{W3} from class,{W20} so{W3} I hurried down...{W30}{Ec} I am sorry,{W10} I do not know how to apologize...{Eo}"
 
 @MIT_SEV_A:343 PLY ec18031e
-"It's fine, it's fine, I jumped to conclusions. And where he bit me, the dog must have held back, because I'm not hurt."
+"It's fine, I jumped to conclusions. The dog held back when he bit me, so I'm not hurt."
 
 @MIT_SEV_A:347 MIT e46a3aa3
 "{V0111}{W10}No.{W35} Just because you were not hurt,{W10} does not mean it is settled.{W40} I am sorry.{W35} What{W6} should{W15} I do..."

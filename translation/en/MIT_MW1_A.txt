@@ -335,7 +335,7 @@
 "{V1677}No,{W28} only Kibina High School."
 
 @MIT_MW1_A:165 MIT e075eb58
-"{V1678}I attended a girls' academy{W35} that ran from elementary school to university,{W30} so normally{W25} I would have moved straight up to its high school."
+"{V1678}I attended{W35} an all-girls school from elementary on,{W30} so I would normally{W35}{W25} have moved up to its high school."
 
 @MIT_MW1_A:166 MIT f00f7746
 "{V1679}But{W35} I truly wanted to attend a co-ed high school,{W30} so I persuaded Father{W15} and took the Kibina High School exam."
@@ -1589,7 +1589,7 @@
 "{V1920}{W10}Y{W3}es,{W3} indeed..."
 
 @MIT_MW1_A:630 MIT 8d5d3e1a
-"{V1921}{W8}I attended a girls' academy{W3} that{W3} runs{W10} through university,{W45} so when I started high school,{W40} I alone{W5} had to part from everyone..."
+"{V1921}{W8}I{W30} attended{W3}{W3}{W10} a{W3}{W3}{W3}{W10} girls'{W5} school{W3}{W3} through college,{W45} so for high school,{W40} I alone{W5} had to leave everyone behind..."
 
 @MIT_MW1_A:631 MIT 2995269f
 "{V1922}{W8}I felt very lonely."
