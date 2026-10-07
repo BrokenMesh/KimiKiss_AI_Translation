@@ -2,7 +2,7 @@
 # Format: docs/translation-format.md
 
 @MIT_DAT_A:16 PLY 52214aa4
-(It's not even 11:20 yet. Maybe I'm too early.)
+(It's still twenty minutes before eleven. Maybe I'm a bit too early.)
 
 @MIT_DAT_A:32 MIT bb7eae56
 "{V1042}{W10}{Fe4}Ah, {Nm}."

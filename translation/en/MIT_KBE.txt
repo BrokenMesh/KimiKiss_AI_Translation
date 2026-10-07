@@ -236,7 +236,7 @@
 "{V6524}{W12}I am{W5} sad{W1}{W1}{W1}...{W75} {Eo}To think you, Master{W2}{W3}{W4}, were that kind of person{W4}..."
 
 @MIT_KBE:140 MIT c182c4b8
-"{V6525}{W12}Any girl{W9} will do{W1}{W1}{W1}{W1}{W6}{W1}{W1}{W1},{W30} {Fe8}and so insincere{W4}{W4}{W5}{W1}{W1}{W1}{W1}..."
+"{V6525}{W12}Any girl{W9} at all{W1}{W1}{W1}{W1} would do{W6}{W1}{W1}{W1} for you...{W30} {Fe8}To think you were{W4} so{W4} faithless{W5}{W1}{W1}{W1}{W1}..."
 
 @MIT_KBE:141 MIT 0bef92ab
 "{V6526}{W15}I{W8}...{W105} do not want to see you again..."
@@ -254,10 +254,10 @@
 "{V0652}{W12}I{W10}...{W75} I no longer understand you, {Nm}..."
 
 @MIT_KBE:147 MIT 676a6dd6
-"{V0653}{W15}A{W5} different{W2} girl{W5}{W2}{W1}{W1}...{W72} a girl different{W6} from{W1} the other{W4} day..."
+"{V0653}{W15}Another{W5} girl{W2}{W5}{W2}{W1}{W1}...{W72} Not even{W6} the{W1} same girl{W4} as the other day..."
 
 @MIT_KBE:148 MIT b87771a2
-"{V0654}{W12}I am{W5} sad{W2}{W1}{W1}...{W45} {Eo}To think you, {Nm}, were that kind of person..."
+"{V0654}{W12}It makes{W5} me{W2} so sad{W1}{W1}...{W45} {Eo}To think you were that kind of person, {Nm}..."
 
 @MIT_KBE:149 MIT 30a01661
 "{V0655}{W8}Any girl{W8} will do{W1}{W1}{W1}{W1}{W4}{W1}{W1}{W1},{W45} {Fe8}and so insincere{W4}{W4}{W1}{W4}{W1}{W1}..."
