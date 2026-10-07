@@ -1,0 +1,85 @@
+entry	japanese	english	notes
+1	食べ物	Food	
+2	校舎裏	Back Lot	REVIEW: literally "behind the school building"
+9	校庭	Schoolyard	
+12	履歴	History	
+14	読書	Reading	
+16	菜々	Nana	REVIEW: given name only; surname unknown
+23	おまけ	Extras	extras/bonus menu; the old TSV read おまかせ
+28	昼休み	Lunch	"Lunch Break" does not fit the tab; CHECK-ART: tab overlaps the panel border
+31	保健室	Infirmary	nurse's office; the old TSV read 親備室
+34	食事	Meal	
+35	食べ物	Food	
+36	成績	Grades	
+37	理科	Science	
+38	アルバム	Album	
+41	ストーリーイベントを見よう！	Watch the story event!	hint banner
+45	次へ進む	Next	line 1 of 2
+45	決定	OK	line 2 of 2 (beside the button icon)
+46	セーブ	Save	
+48	あり	Yes	REVIEW: あり/なし option value (with/without)
+52	運動	Sports	
+321	はい	Yes	
+330	委員	Committee	REVIEW
+331	準備室	Prep Room	
+333	保健	Health	
+335	ドリンク	Drinks	
+336	保健	Health	
+337	恋愛	Romance	
+340	オプション	Options	
+341	アタックを成功させよう！	Make your attack a success!	hint banner
+342	自動文字送り	Auto Advance	
+343	火	Tue	weekday (火 = Tuesday)
+345	枠メモ	Memo	REVIEW: first kanji hard to read (枠 or 終)
+347	レベル|アップ!!	LEVEL|UP!!	two lines in an oval
+350	セーブ	Save	
+351	壁紙	Wall|paper	REVIEW: 40 px wide, two lines; CHECK-ART: two lines in 40x32, 10 px
+354	花壇	Garden	REVIEW: 花壇 = flower bed; "Garden" fits the map tag
+360	食堂	Cafeteria	
+361	体	Body	REVIEW: single-kanji stat name
+362	映像	Video	REVIEW
+366	決定	OK	
+367	見つめる	Gaze	
+375	恋愛	Romance	
+376	休み2	Break 2	CHECK-ART: tab overlaps the panel border (teal dash under the old text removed)
+380	世間話	Small Talk	
+386	水着	Swimsuit	the old TSV read this as a character name
+387	屋上	Rooftop	
+388	おしゃれ	Stylish	REVIEW: おしゃれ (fashion sense)
+390	自宅学習	Home Study	
+392	理科	Science	
+393	つづきから	Continue	
+395	好感度ゲージをあげよう！	Raise the affection gauge!	hint banner
+421	将来	Future	
+422	再生	Play	
+424	全員	Everyone	REVIEW
+426	いいえ	No	
+429	菜々	Nana	REVIEW: given name only; surname unknown
+432	体育館	Gym	
+433	おしゃれ	Stylish	REVIEW; CHECK-ART: 80x32, heavy outline
+436	体育館	Gym	map tag; "Gymnasium" is too wide for it
+437	ファッション	Fashion	
+438	英数記号	ABC 123	REVIEW: name-entry tab for letters, digits and symbols
+441	勉強	Study	
+447	手を握る	Hold Hands	
+449	音楽	Music	
+451	編集	Edit	
+453	スキ	LIKE	REVIEW: small italic caption on art; CHECK-ART: caption over heart/note art, smeared background
+453	ナカヨシ	FRIENDS	REVIEW: small italic caption on art; CHECK-ART: caption over heart/note art, smeared background
+476	イタリア語	Italian	
+477	3年	Year 3	
+481	花壇	Garden	REVIEW: same place as entry 354
+483	戻る	Back	
+486	好きな話題が変わりました	Favorite topic changed!	hint banner
+487	咲野 明日夏	Sakino Asuka	REVIEW: name order and romanization
+491	勉強	Study	
+496	食堂	Cafeteria	
+500	漢字	Kanji	
+526	健康	Health	
+527	理科	Science	
+529	手料理	Cooking	
+532	行動	Action	
+537	パターン	Pattern	
+539	星乃 結美	Hoshino Yumi	REVIEW: name order and romanization
+542	観察	Observe	
+551	文字速度	Text Speed	

@@ -7,7 +7,8 @@
 # 2. Extracts the disc once into build/orig (reused while its manifest exists).
 # 3. Reinserts text from text_dir (default: text/), applies the bytecode
 #    patches in patches/scripts, repacks SCRIPT.IMG.
-# 4. Writes the English glyphs into GRAPH0.ARC/PAC.
+# 4. Writes the English glyphs and the redrawn textures into GRAPH0.ARC/PAC
+#    (tools/texture/apply_graph0.py; needs Pillow and numpy).
 # 5. Copies the clean ISO to out.iso and replaces those files (relocating
 #    any that outgrew their slot) in both the ISO9660 and the UDF
 #    descriptors.
@@ -37,7 +38,8 @@ python3 tools/extract/img.py unpack build/orig/SCRIPT.IMG "$work/script_orig"
 python3 tools/reinsert/reinsert_text.py "$work/script_orig" "$text_dir" "$work/script"
 python3 tools/reinsert/apply_script_patches.py "$work/script" patches/scripts
 python3 tools/reinsert/img_pack.py "$work/script" "$work/SCRIPT.IMG"
-python3 tools/font/apply_en_font.py build/orig/GRAPH/GRAPH0.ARC "$work/GRAPH0.ARC" "$work/GRAPH0.PAC"
+python3 tools/texture/apply_graph0.py build/orig/GRAPH/GRAPH0.ARC "$work/GRAPH0.ARC" "$work/GRAPH0.PAC" \
+  --report "$work/graph0_textures.json"
 python3 tools/build/iso_patch.py "$iso" "$out" \
   "SCRIPT.IMG=$work/SCRIPT.IMG" \
   "GRAPH/GRAPH0.ARC=$work/GRAPH0.ARC" \

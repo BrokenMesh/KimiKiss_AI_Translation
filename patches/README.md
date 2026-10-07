@@ -38,6 +38,10 @@ A file headed `; add: <Class> <method> argc=<n> table=...` adds a new method ins
 | `ShioriListItem.initialize2.asm` | 184 bytes | 296 bytes | Save list: names measured with `xOf:`, text scale 1 / 0.75 / 0.5 by total width, second name placed after the first (was a table for 0-3 characters) (D-016) |
 | `ShioriData.serialize0.asm`, `cut1` | 112 bytes, new | 203, 51 bytes | Slot header must stay within 256 bytes: while it is longer, the longer name of the header copy loses its last character (D-016) |
 
+## Textures
+
+Not bytecode and not data in the repo: `tools/texture/` redraws the Japanese UI text of 82 `GRAPH0` textures into English at build time (D-019). `labels.tsv` holds the English labels, `layout.tsv` the text boxes and background rules. The redrawn TIM2 files keep the original palette and size, so the ARC offsets do not change; `apply_graph0.py` writes them together with the font into `GRAPH0.ARC` and the LZSS `GRAPH0.PAC`. Method and review list: `docs/phase-4-textures.md`.
+
 ## ELF
 
 None so far (D-011).
