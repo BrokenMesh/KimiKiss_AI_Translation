@@ -41,3 +41,6 @@ kimikiss-private/
 
 # Python bytecode.
 __pycache__/
+
+# Hand-edited textures are game art (D-020); they live outside the repo.
+texture_overrides/

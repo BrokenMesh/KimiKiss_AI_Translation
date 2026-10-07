@@ -9,6 +9,11 @@
 #    patches in patches/scripts, repacks SCRIPT.IMG.
 # 4. Writes the English glyphs and the redrawn textures into GRAPH0.ARC/PAC
 #    (tools/texture/apply_graph0.py; needs Pillow and numpy).
+#    Hand-edited textures (D-020): every GRAPHn_NNNN.png in
+#    $KIMIKISS_OVERRIDES (default ../kimikiss-private/texture_overrides)
+#    replaces that entry of GRAPH0 (instead of the redraw), GRAPH1 or GRAPH2
+#    (apply_graph12.py writes GRAPH1.ARC / GRAPH2.ARC only for archives that
+#    have overrides). No directory or no PNGs: the build is as without the feature.
 # 5. Copies the clean ISO to out.iso and replaces those files (relocating
 #    any that outgrew their slot) in both the ISO9660 and the UDF
 #    descriptors.
@@ -40,10 +45,14 @@ python3 tools/reinsert/apply_script_patches.py "$work/script" patches/scripts
 python3 tools/reinsert/img_pack.py "$work/script" "$work/SCRIPT.IMG"
 python3 tools/texture/apply_graph0.py build/orig/GRAPH/GRAPH0.ARC "$work/GRAPH0.ARC" "$work/GRAPH0.PAC" \
   --report "$work/graph0_textures.json"
-python3 tools/build/iso_patch.py "$iso" "$out" \
-  "SCRIPT.IMG=$work/SCRIPT.IMG" \
-  "GRAPH/GRAPH0.ARC=$work/GRAPH0.ARC" \
-  "GRAPH/GRAPH0.PAC=$work/GRAPH0.PAC"
+python3 tools/texture/apply_graph12.py build/orig/GRAPH "$work"
+patches=("SCRIPT.IMG=$work/SCRIPT.IMG"
+         "GRAPH/GRAPH0.ARC=$work/GRAPH0.ARC"
+         "GRAPH/GRAPH0.PAC=$work/GRAPH0.PAC")
+for n in GRAPH1 GRAPH2; do
+  if [[ -f "$work/$n.ARC" ]]; then patches+=("GRAPH/$n.ARC=$work/$n.ARC"); fi
+done
+python3 tools/build/iso_patch.py "$iso" "$out" "${patches[@]}"
 
 # 6. The ISO9660 and UDF views of the image must agree (decision D-014).
 python3 tools/qa/check_iso_udf.py "$out"

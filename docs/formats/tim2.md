@@ -22,3 +22,8 @@ Edited PNGs must stay 8-bit indexed. Any filter type and palette are accepted on
 ## Verification
 
 `tools/qa/test_texture_roundtrip.py` passes for every texture: TIM2 → PNG → TIM2 is byte-identical, and all four ARCs repack byte-identical.
+
+## Hand-edited PNGs
+
+`tools/texture/overrides.py` (D-020) converts a PNG of any mode back to the TIM2 of its entry: an indexed PNG with a full-size palette is taken literally (its palette becomes the CLUT, with the alpha convention above), anything else is mapped onto the entry's existing palette. Header, size and palette order stay.
+

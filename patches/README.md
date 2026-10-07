@@ -42,6 +42,8 @@ A file headed `; add: <Class> <method> argc=<n> table=...` adds a new method ins
 
 Not bytecode and not data in the repo: `tools/texture/` redraws the Japanese UI text of 216 `GRAPH0` textures into English at build time (D-019). `labels.tsv` holds the English labels, `layout.tsv` the text boxes and background rules. The redrawn TIM2 files keep the original palette and size, so the ARC offsets do not change; `apply_graph0.py` writes them together with the font into `GRAPH0.ARC` and the LZSS `GRAPH0.PAC`. Method and review list: `docs/phase-4-textures.md`.
 
+Hand-edited textures are not in the repo either: PNGs named `GRAPH0_0453.png` / `GRAPH1_0058.png` / `GRAPH2_NNNN.png` in `$KIMIKISS_OVERRIDES` (default `../kimikiss-private/texture_overrides`) replace those entries at build time, GRAPH0 through `apply_graph0.py` (ARC and PAC), GRAPH1/2 through `apply_graph12.py` (raw TIM2 inside the ARC, no PAC) (D-020). Without the directory the build is unchanged. How to make them: `docs/phase-4-textures.md`, "Hand-edited textures".
+
 ## ELF
 
 None so far (D-011).

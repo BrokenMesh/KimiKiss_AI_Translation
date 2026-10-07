@@ -393,6 +393,26 @@ def paint(dst_rgb, dst_a, rgb, cov):
     return out, out_a
 
 
+def nearest_palette(t_rgb, t_a, cp_rgb, cp_a, chunk=2048):
+    """Nearest palette colour for each target colour.
+
+    t_rgb (n, 3) in 0..255 and t_a (n,) in 0..1; cp_* the same for the
+    candidates. Distance = squared difference of the premultiplied RGB plus
+    0.6 x (255 x alpha difference)^2. -> (index into the candidates (n,),
+    distance (n,)). Chunked so a whole picture of distinct colours fits in memory.
+    """
+    pick = np.zeros(len(t_a), int)
+    dist = np.zeros(len(t_a))
+    cp = (cp_rgb * cp_a[:, None])[None]
+    for i in range(0, len(t_a), chunk):
+        r, a = t_rgb[i:i + chunk], t_a[i:i + chunk]
+        d2 = (((r * a[:, None])[:, None, :] - cp) ** 2).sum(-1)
+        d2 += (255 * (a[:, None] - cp_a[None])) ** 2 * 0.6
+        pick[i:i + chunk] = d2.argmin(1)
+        dist[i:i + chunk] = d2.min(1)
+    return pick, np.sqrt(dist)
+
+
 def draw_text(tex, box, idx_sub, info, line, report):
     x0, y0, x1, y1 = box
     bw, bh = x1 - x0, y1 - y0
@@ -487,9 +507,7 @@ def draw_text(tex, box, idx_sub, info, line, report):
     cp_rgb, cp_a = tex.rgb[cand], tex.a[cand]
     ys, xs = np.nonzero(touched)
     t_rgb, t_a = rgb[ys, xs], al[ys, xs]
-    d2 = (((t_rgb * t_a[:, None])[:, None, :] - (cp_rgb * cp_a[:, None])[None]) ** 2).sum(-1)
-    d2 += (255 * (t_a[:, None] - cp_a[None])) ** 2 * 0.6
-    pick = cand[d2.argmin(1)]
+    pick = cand[nearest_palette(t_rgb, t_a, cp_rgb, cp_a)[0]]
     clear = tex.clear_idx
     if clear is not None:
         pick = np.where(t_a < 0.02, clear, pick)
@@ -537,13 +555,13 @@ def redraw_texture(blob, lines, debug=None):
 
 # ---------------------------------------------------------------- driver
 
-def redraw_arc(arc_data, entries=None, preview=None, debug=False):
-    """-> ({entry: new TIM2 bytes}, [reports])."""
+def redraw_arc(arc_data, entries=None, preview=None, debug=False, skip=()):
+    """-> ({entry: new TIM2 bytes}, [reports]); entries in `skip` (hand-made overrides) are left out."""
     labels = load_labels()
     a = arc.parse(arc_data)
     new, reports = {}, []
     for e, lines in sorted(labels.items()):
-        if entries and e not in entries:
+        if (entries and e not in entries) or e in skip:
             continue
         ent = a['entries'][e]
         blob = arc_data[ent['offset']:ent['offset'] + ent['size']]

@@ -25,9 +25,14 @@
 | GRAPH2.ARC | 1980 | 988 TIM2 + 992 float32 records (coordinates; probably sprite layouts) |
 | MUSIC.ARC | 102 | 68 `IECS` (Sony sound-bank headers) + 34 entries without a magic (probably the matching sample bodies) |
 
-`GRAPH0.PAC` is the LZSS-compressed GRAPH0.ARC. Which of the two the engine loads is not yet known (Phase 3). Any change to GRAPH0.ARC must also be applied to the PAC.
+## How the archives are stored and loaded
+
+- **GRAPH0**: `GRAPH0.ARC` is the directory and `GRAPH0.PAC` is the same archive LZSS-compressed ([lzss.md](lzss.md)). `LoadGraph0` (`0x00104410`) reads the directory from the ARC and the data from the PAC, so a change to a GRAPH0 entry must be made in both files (`tools/texture/apply_graph0.py` writes both).
+- **GRAPH1 and GRAPH2**: no PAC and no compression. Every TIM2 entry is the raw texture inside `GRAPH1.ARC` / `GRAPH2.ARC` (the entry starts with `TIM2`; there is no per-entry LZSS either). `LoadGraph1` (`0x00104738`) and `LoadGraph2` (`0x00104928`) open the `.ARC` as a stream, like `LoadGraph0` opens its ARC; the string `GRAPH\GRAPH0.PAC` is referenced only by `LoadGraph0` (at `0x00104540`), and the other two loaders have no decompression step. This was read from the disassembly and is not yet seen in the emulator with a changed GRAPH1/2 entry.
+- Replacing an entry with a same-size TIM2 therefore moves nothing: write the new bytes at the entry's offset and leave the directory alone. `tools/texture/apply_graph12.py` does that for hand-edited textures (D-020); `iso_patch.py` then writes the whole file back in place (same size), which also leaves the UDF entry unchanged apart from its CRC.
 
 ## Tools
 
 - `tools/extract/arc.py list|unpack`
+- `tools/texture/overrides.py`, `apply_graph12.py`: PNG overrides for single entries ([../phase-4-textures.md](../phase-4-textures.md), D-020)
 - `tools/reinsert/arc_pack.py <dir> <out.arc>`: keeps hashes and buckets and recomputes offsets. Unchanged input is byte-identical for all four archives.
