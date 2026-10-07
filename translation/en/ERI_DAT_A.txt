@@ -8,13 +8,13 @@
 "Oh, Futami."
 
 @ERI_DAT_A:36 ERI b16fb3c9
-"{V0859}{W8}You are{W3} right{W3} on time.{W45}{Fe9m3} Did{W1} I{W1} by{W1} chance{W1},{W30} keep you waiting?"
+"{V0859}{W8}Right{W3} on{W3} time.{W45}{Fe9m3} Did{W1} I{W1} keep{W1} you{W1} waiting,{W30} by any chance?"
 
 @ERI_DAT_A:37 PLY a3ec15aa
 "No, I just got here too."
 
 @ERI_DAT_A:39 ERI 3c066a0f
-"{V0860}{W8}I see,{W41} {Fm3}good."
+"{V0860}{W8}I see.{W41} {Fm3}Good."
 
 @ERI_DAT_A:40 PLY fd30e69a
 "Shall we go, then?"
@@ -170,7 +170,7 @@
 "{V0883}{W8}I{W1} suppose{W1} so.{W72} It was{W3} fun..."
 
 @ERI_DAT_A:120 ERI 38c1deaf
-"{Nm}, {V0884}{W8}For today{W3}...{W30} thank you..."
+"{Nm}, {V0884}{W8}for today{W3}...{W30} thank you..."
 
 @ERI_DAT_A:121 PLY 72a0db88
 (I want to be with Futami a little longer...)
