@@ -149,3 +149,7 @@ Written after D-017; the number was reserved for the name-entry work of `docs/ph
 - `build.sh` runs `apply_graph12.py` after `apply_graph0.py` and adds `GRAPH/GRAPH1.ARC` / `GRAPH2.ARC` to the `iso_patch.py` list only if the step wrote them. Tests: `tools/qa/test_graph_overrides.py`.
 - Cost of the choice: a build with GRAPH1/GRAPH2 overrides handles a 172 MB or 239 MB copy and rewrites it into the image; builds without them are unchanged. Pillow and numpy were already needed for D-019.
 
+
+## D-021: Wrapping runs in the build, not in the reinserter
+
+- D-013 said the reinserter inserts the `／` breaks; it never did (only the test-text builder wrapped). `build.sh` now runs `tools/translate/batch.py prepare` on the text directory first (dialogue wrapped with `en_text.wrap` and the speaker-indent rule, ConfirmDialog lines wrapped), and `reinsert_text.py` reads the prepared copy in `build/work/text`. Translators write unwrapped English; the checker (`tools/qa/check_translation.py`) measures the prepared form. Already-wrapped lines pass through unchanged.

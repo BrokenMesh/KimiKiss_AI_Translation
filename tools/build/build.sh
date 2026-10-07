@@ -40,7 +40,9 @@ fi
 rm -rf "$work"
 mkdir -p "$work"
 python3 tools/extract/img.py unpack build/orig/SCRIPT.IMG "$work/script_orig"
-python3 tools/reinsert/reinsert_text.py "$work/script_orig" "$text_dir" "$work/script"
+# Word-wrap translations (D-013): dialogue and dialog lines get ／ / \n breaks.
+python3 tools/translate/batch.py prepare "$text_dir" "$work/text"
+python3 tools/reinsert/reinsert_text.py "$work/script_orig" "$work/text" "$work/script"
 python3 tools/reinsert/apply_script_patches.py "$work/script" patches/scripts
 python3 tools/reinsert/img_pack.py "$work/script" "$work/SCRIPT.IMG"
 python3 tools/texture/apply_graph0.py build/orig/GRAPH/GRAPH0.ARC "$work/GRAPH0.ARC" "$work/GRAPH0.PAC" \
