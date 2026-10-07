@@ -139,6 +139,8 @@ The brief a translator model gets is `tools/translate/TRANSLATOR.md`; it restate
 
 ## Limits and how the check measures them
 
+Pages: the scene scripts let several short messages share the 3-row window; the engine patch of D-024 turns the page when the next message does not fit, so the check only measures each record on its own.
+
 All widths are summed from `en_widths.json` at the consumer's scale (message window and `TextLine` 1.0, ConfirmDialog 0.75); `{Nm}`/`{Nn}` count `en_text.NAME_PX` (120 px, scaled); other braced codes count 0; any remaining Japanese character counts 23 px (window), 24 px (`TextLine`) or 18 px (ConfirmDialog).
 
 - **Dialogue.** `en_text.wrap` is run with the record's `first_px` and `cont_px`, then every line is measured. `first_px = 552 - label_px`, `cont_px = 552 - 115 = 437` for a named speaker; 552 and 552 for `SYS` and for narration without label. `label_px` is where line 1 starts: `max(115, plate + 6)`, with the plate the width of the translated `K2_Script` label of the speaker (`SPEAKER_LABEL_ID` in `rules.py`), or 115 if that label is not translated yet; for `PLY` the plate is `NAME_PX` because it becomes the player's surname at run time; a joint speaker (`ERI/PLY`) takes the widest. Rows are counted with the engine's overflow wrap: a line wider than its limit adds `ceil(px / limit) - 1` rows, and trailing lines holding only codes draw nothing. More than 3 rows is `FIT_LINES`.

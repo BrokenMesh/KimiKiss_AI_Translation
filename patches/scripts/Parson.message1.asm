@@ -2,7 +2,12 @@
 ; original-sha1: 994f301622215139bddd9cba46bcdc629ccb31c4 (518 bytes)
 ; reason: continuation lines after a speaker plate start at 5 cells (115 px) instead of 4 (92 px), so the English
 ; surname plates (Mizusawa 107 px, Satonaka/Kirishima 100 px) fit the indent. Glossary D9, D-023.
+; Also first asks the window to start a new page when this message would not fit the rows left (D-024).
 push_nils 4
+push_classvar.b idx:0 7
+push_temp 0
+send 1 #pageFor
+pop
 push_const.b idx:171
 push_temp 0
 send.b 1 idx:5

@@ -8975,16 +8975,16 @@
  },
  "GameParam:166": {
   "display": "NameEntryEdit",
-  "max_px": 72,
+  "max_px": 120,
   "lines": 1,
   "translate": true,
-  "note": "Default surname given to GameParam>>setMyouji at start-up (also feeds the speaker label of PLY). NameEntryEdit holds 3 cells for the surname and 3 for the given name (24 px FontChar cells); Parson>>setDispName: keeps only the first 3 chars. Names printed with {Nm}: message window, backlog, save list (ShioriListItem), credits. Max 3 chars / 72 px."
+  "note": "Default surname for GameParam>>setMyouji at start-up; also the PLY speaker plate. Name entry holds 8 characters per name (D-016): at most 8 characters and 120 px (en_text.NAME_PX)."
  },
  "GameParam:167": {
   "display": "NameEntryEdit",
-  "max_px": 72,
+  "max_px": 120,
   "lines": 1,
   "translate": true,
-  "note": "Default given name for GameParam>>setNamae (printed by {Nn}). 3 cells in NameEntryEdit; max 3 chars / 72 px."
+  "note": "Default given name for GameParam>>setNamae (printed by {Nn}). Name entry holds 8 characters per name (D-016): at most 8 characters and 120 px (en_text.NAME_PX)."
  }
 }
