@@ -37,6 +37,8 @@ A file headed `; add: <Class> <method> argc=<n> table=...` adds a new method ins
 | `Parson.setDispName1.asm` | 142 bytes | 40 bytes | Name plate = the whole surname (was padded to 3 cells and cut at 3) (D-016) |
 | `ShioriListItem.initialize2.asm` | 184 bytes | 296 bytes | Save list: names measured with `xOf:`, text scale 1 / 0.75 / 0.5 by total width, second name placed after the first (was a table for 0-3 characters) (D-016) |
 | `ShioriData.serialize0.asm`, `cut1` | 112 bytes, new | 203, 51 bytes | Slot header must stay within 256 bytes: while it is longer, the longer name of the header copy loses its last character (D-016) |
+| `Parson.message1.asm` | 518 bytes | 518 bytes | Indent after a speaker plate 5 cells (115 px) instead of 4 (92 px), so English surname plates fit (glossary D9, D-023) |
+| `TextWindow.output0.asm` | 231 bytes | 288 bytes | The indent command also moves the pen: line 1 of a spoken line starts at the indent column like lines 2-3, or 6 px after a wider plate (D-023) |
 
 ## Textures
 
