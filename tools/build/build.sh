@@ -139,7 +139,7 @@ step "checking the disc structure" "${PY[@]}" tools/qa/check_iso_udf.py "$out"
 if command -v xdelta3 >/dev/null; then
   step "writing and verifying the xdelta patch" bash -c '
     set -e
-    xdelta3 -e -9 -f -s "$1" "$2" "$2.xdelta"
+    xdelta3 -e -9 -f -A= -s "$1" "$2" "$2.xdelta"
     xdelta3 -d -f -s "$1" "$2.xdelta" "$3/verify.iso"
     cmp "$2" "$3/verify.iso"
     rm -f "$3/verify.iso"' _ "$iso" "$out" "$work"
