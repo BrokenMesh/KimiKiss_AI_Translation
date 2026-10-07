@@ -48,3 +48,24 @@
 ## D-010: PINE is used serially only
 
 - `pine_get_info` pipelines opcodes; one dropped reply desyncs mcp-pine's reply queue. QA scripts use only serial PINE calls and keep modal dialogs off (null audio), see `docs/phase-0-status.md`.
+
+## D-011: Font and layout patch in script bytecode, not ELF assembly
+
+- The brief's Phase 3 step 4 assumes assembly patches. In this engine the control-code parser (`Parson >> message:`), layout, advance and wrap (`TextWindow >> putChar:`, `crlf`), menus (`TextLine >> setText:`) and backlog (`LogLine`) are all SCF bytecode in `SCRIPT.IMG`. The native glyph lookup (`SjisToGlyphIndex`, `0x0017f750`) already maps every Shift-JIS row into the font texture.
+- The variable-width patch is therefore a rewrite of those script methods plus a new font texture. `SCRIPT.IMG` is rebuilt anyway for the translation, so this costs no extra ELF patching and no code cave.
+- Script patches are recorded in `patches/` in the same way: class, method, original bytecode, new bytecode, reason.
+- ELF assembly patches stay the fallback if a native limit turns up, for example in Phase 4 for hard-coded strings.
+
+## D-012: English encoding
+
+- Printable ASCII `0x20`–`0x7E` (95 characters) is stored as Shift-JIS codes in row 9/10 of the font: character index `i = c − 0x20`, code `0x85 << 8 | t`, with `t = 0x40 + i` for `i < 63` and `t = 0x41 + i` otherwise (skipping trail `0x7F`). For example, space is `0x8540`, `A` is `0x8561` and `~` is `0x859F`.
+- Reason: single-byte codes are control codes or dropped (see `docs/formats/scf.md`), and these rows hold only placeholders. Keeping the original full-width Latin and Japanese glyphs intact keeps untranslated text and debug strings readable.
+- Control codes stay plain ASCII exactly as in the original, so `{V0858}`-style tokens pass through the reinserter unchanged.
+- Rows 11–12 and 14–15 stay free for extras (italics, ellipsis, accented letters).
+
+## D-013: Width table in script, word wrap at reinsertion, pixel fallback in the engine
+
+- Each English glyph is drawn left-aligned in its 24 × 28 cell. A width table, stored as an array constant in each patched class, gives its advance in pixels at scale 1.0. `putChar:` advances by `width·fontSclW` for English codes and keeps `fontW·fontSclW + pitchX` for everything else.
+- Word wrap: the reinserter inserts `／` at word boundaries using the same width table and the window geometry (552 px line, continuation indent 92 px, 3 lines). This matches how the original script already breaks lines by hand.
+- The engine's overflow check in `putChar:` stays as a safety net. It is changed to test the glyph's real width.
+- Dynamic text (`Nn`/`Nm` names, `dispName`) is measured at its worst case: the longest name the name-entry screen allows. That limit is to be read in Phase 4.
