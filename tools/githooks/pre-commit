@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+# Reject staged disc images, ELF/IRX binaries, and anything over 5 MiB.
+# Enable with: git config core.hooksPath tools/githooks
+set -euo pipefail
+
+max_bytes=$((5 * 1024 * 1024))
+status=0
+
+while IFS= read -r -d '' path; do
+  size="$(git cat-file -s ":$path")"
+  if (( size > max_bytes )); then
+    echo "blocked: $path is $size bytes (limit $max_bytes)" >&2
+    status=1
+    continue
+  fi
+  if [[ "$(git cat-file blob ":$path" | head -c 4 | od -An -tx1 | tr -d ' \n')" == 7f454c46 ]]; then
+    echo "blocked: $path is an ELF binary" >&2
+    status=1
+  fi
+  if (( size >= 32774 )) && [[ "$(git cat-file blob ":$path" | head -c 32774 | tail -c 5 | od -An -tx1 | tr -d ' \n')" == 4344303031 ]]; then
+    echo "blocked: $path is an ISO9660 image" >&2
+    status=1
+  fi
+done < <(git diff --cached --name-only -z --diff-filter=ACMR)
+
+exit $status
