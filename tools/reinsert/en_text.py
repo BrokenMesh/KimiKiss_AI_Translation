@@ -21,7 +21,7 @@ TOKEN = re.compile(r'\{[^{}]*\}|.', re.S)
 LINE_PX = 552            # 586 - 2 * 17
 INDENT_PX = 92           # putIndent: 4 after a speaker name, 4 * (24 - 1)
 FULL_PX = 23             # Japanese advance: fontW 24 + pitchX -1
-NAME_PX = 13 * 12        # worst case for {Nn}/{Nm}: placeholder until Phase 4 reads the name limit
+NAME_PX = 120            # {Nn}/{Nm}: 8 typical English letters (D-016); wider names fall back to the engine overflow wrap
 
 
 def widths():

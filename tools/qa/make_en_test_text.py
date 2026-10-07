@@ -14,6 +14,8 @@ Phase 4 adds NameEntry:3, the name-entry confirm dialog (centred
 TextLineC): narrow and wide letters, to check proportional menu text.
 NameEntry:4 is a two-line ConfirmDialog message ('\\n' kept): the box must
 follow the pixel width of the longer line (D-017).
+GameParam:166/167 and K2_Script:13 are the default surname, given name and name
+plate (D-016): English codes, 6 letters each.
 """
 import json
 import os
@@ -33,6 +35,10 @@ LINES = {
     'PLY_PRO:45': 'Will time just keep flowing by like this?{W15}',
     'NameEntry:3': 'Use this name? little WWW',
     'NameEntry:4': 'Quit name entry and return\nto the main menu?',
+    # Default names (D-016): surname, given name, and the protagonist's name plate.
+    'GameParam:166': 'Aihara',
+    'GameParam:167': 'Koichi',
+    'K2_Script:13': 'Aihara',
 }
 
 

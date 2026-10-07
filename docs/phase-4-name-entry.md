@@ -6,7 +6,7 @@ How the player's name is entered, stored, saved and drawn, and the smallest scri
 
 - The name is two `String`s of 16-bit codes: surname (`{Nm}`, `GameParam getMyouji`) and given name (`{Nn}`, `getNamae`). Defaults: `"相原"` and `"光一"`, constants 166/167 of `GameParam >> initialize` (0x0015, 0x001c).
 - "3 characters" is not one constant. It is 3 slots per name inside a 6-slot layout (`nameStr`/`nameChar`/`waku` arrays of 6, slot table of 8 x-positions, cursor range 0..7), repeated as literals in about 60 operands across `NameEntryEdit` and `NameEntry`. Dialogue, backlog and credits print any length. Only the name plate (`Parson >> setDispName:`) and the save list (`ShioriListItem >> initialize:`) cap at 3.
-- The save header has a hard 256-byte stride per slot. It holds both names. Fixed content is 216 bytes, so the two names may use at most 40 bytes (about 20 two-byte characters in total). This, not the screen, is the binding limit.
+- The save header has a hard 256-byte stride per slot. It holds both names. Fixed content is 200 bytes plus 3 bytes for each non-nil `bad` entry of the 8 `FavorBase` records (0 to 16 entries, so 200 to 248 bytes; measured in D-016, this section first assumed 216), leaving `56 - 3k` bytes for the two names. With 8 + 8 characters (32 bytes) it fits for k <= 8; the implementation (D-016) shortens the header copy of the names when it does not.
 - The grid is plain text: six pages of `String` rows stored as constants of `NameEntryList >> openPage:`. `英数記号` is full-width (`０-９`, `Ａ-Ｚ`, `ａ-ｚ`, symbols), so English codes can be produced by mapping on input. The grid itself needs no change.
 - No validation exists. An empty name keeps the previous one. `履歴` is the list of names in the 20 save slots, not a typing history.
 - Correction to `docs/phase-3-text-engine.md`: `K2_Script >> zenkaku:` has nothing to do with name entry. It builds event class names (`getEvCode:`, A-Z to `0x8260+`, `_` to `0x8151`). The name is full-width only because the grid is.
@@ -25,6 +25,8 @@ How the player's name is entered, stored, saved and drawn, and the smallest scri
 | System data | does not contain the names. |
 
 ### Serialization and size
+
+> Correction (D-016): the table below counts four ints per girl in `lastFavor` and gives 216 bytes. Running the real serializer gives `200 + 3k + 2 (chars Nm + chars Nn)` with k = 0..16 non-nil `bad` entries; the slot writer copies exactly 256 bytes from the header buffer (`MemoryCard` primitive 6, handler `0x0010ae00`), so a longer header is cut. `toByteArray` and `newFromByteArray` round-trip 0x85xx codes as two bytes.
 
 `SerializeData >> serialize:` writes each element as 1 type byte plus data, and ends the array with a 0 byte. Types: nil `N` (+1 byte), Boolean `B` (+1), Integer `I` (+4), Float `F` (+4), String `S` (+4-byte length, then `toByteArray`, 0x00d2-0x0162), array `A` (recursive). Strings are variable length. A double-byte code is 2 bytes (inferred from `Integer >> asChar`, native `0x00119358`, which builds a 1- or 2-byte C string from the code).
 

@@ -16,7 +16,10 @@ A patch is refused if the method in <script_dir> matches neither the
 original hash nor the patched result (so applying twice is a no-op).
 `@EN_WIDTHS` is replaced by a float array constant holding the advance
 widths of codes 0x8540..0x859F from tools/font/en_widths.json (trail 0x7F,
-which does not exist, gets 0). Members are modified in place.
+which does not exist, gets 0). `@EN_SYMBOLS` is replaced by an int array
+constant of 0x5F entries indexed by (code - 0x8140): the English code of each
+full-width symbol 0x8140..0x819E that has an ASCII twin (name entry, D-016),
+0 for the others. Members are modified in place.
 """
 import glob
 import hashlib
@@ -42,7 +45,24 @@ def width_array():
     return (8, out)
 
 
-def apply(script_dir, patch_path, widths):
+# full-width symbol (Shift-JIS row 1/2) -> ASCII character with an English glyph.
+# The slash, backslash and bar are left out: 0x815E and 0x8162 are the engine's
+# line-break and pause codes.
+SYMBOLS = {'　': ' ', '，': ',', '．': '.', '：': ':', '；': ';', '？': '?', '！': '!', '＾': '^', '＿': '_',
+           '‐': '-', '～': '~', '‘': "'", '’': "'", '“': '"', '”': '"', '（': '(', '）': ')', '［': '[',
+           '］': ']', '＋': '+', '－': '-', '＝': '=', '＜': '<', '＞': '>', '＄': '$', '％': '%', '＃': '#',
+           '＆': '&', '＊': '*', '＠': '@'}
+
+
+def symbol_array():
+    table = [0] * 0x5F
+    for full, ascii_ch in SYMBOLS.items():
+        code = int.from_bytes(full.encode('cp932'), 'big')
+        table[code - 0x8140] = encoding.code_of(ascii_ch)
+    return (8, [(1, struct.pack('<i', v)) for v in table])
+
+
+def apply(script_dir, patch_path, widths, symbols):
     text = open(patch_path, encoding='utf-8').read()
     m = re.search(r'^; (target|add): (\S+) (\S+) argc=(\d+) table=(methods2?)$', text, re.M)
     h = re.search(r'^; original-sha1: ([0-9a-f]{40})', text, re.M)
@@ -58,6 +78,10 @@ def apply(script_dir, patch_path, widths):
             consts.append(widths)
             idx = len(consts) - 1
         text = text.replace('@EN_WIDTHS', f'idx:{idx}')
+    if '@EN_SYMBOLS' in text:
+        if symbols not in consts:
+            consts.append(symbols)
+        text = text.replace('@EN_SYMBOLS', f'idx:{consts.index(symbols)}')
     new = scfasm.assemble(text, consts)
     hits = [i for i, (n, a, _) in enumerate(d[table]) if n == meth and a == argc]
     if kind == 'add':
@@ -82,9 +106,9 @@ def apply(script_dir, patch_path, widths):
 
 def main():
     script_dir, patch_dir = sys.argv[1:3]
-    widths = width_array()
+    widths, symbols = width_array(), symbol_array()
     for p in sorted(glob.glob(os.path.join(patch_dir, '*.asm'))):
-        print(apply(script_dir, p, widths))
+        print(apply(script_dir, p, widths, symbols))
 
 
 if __name__ == '__main__':
