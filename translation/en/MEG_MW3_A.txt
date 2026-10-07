@@ -1,0 +1,26 @@
+# MEG_MW3_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MEG_MW3_A:9 PLY 8b51fd78
+(Kuryuu...)
+
+@MEG_MW3_A:30 MEG 079a58d1
+"...{E}......{E}?"
+
+@MEG_MW3_A:31 PLY 9e21761b
+(I-I was imagining things right in front of her...)
+
+@MEG_MW3_A:32 PLY f91b3fc4
+(Not good... I have to pull myself together...)
+
+@MEG_MW3_A:33 PLY 0304f087
+(Huh...? What is this feeling...?)
+
+@MEG_MW3_A:35 PLY 618d61ad
+(What...? It feels like something's about to happen right here...)
+
+@MEG_MW3_A:37 PLY 6f3c9fdd
+(Whoa!)
+
+@MEG_MW3_A:38 PLY 112e988a
+(Huh? What was I doing...?)

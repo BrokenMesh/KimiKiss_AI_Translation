@@ -1,0 +1,68 @@
+# LoadMenu -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@LoadMenu:44.1 - 8874353d
+The "PlayStation 2" memory card (8MB) in\nMEMORY CARD slot 1\nis not inserted correctly.
+
+@LoadMenu:44.2 - bd8f7857
+The "PlayStation 2" memory card (8MB) in\nMEMORY CARD slot 1\nis not formatted.
+
+@LoadMenu:44.3 - 88111472
+The "PlayStation 2" memory card (8MB) in\nMEMORY CARD slot 1\ndoes not have enough free space.
+
+@LoadMenu:44.4 - 8df6b1ac
+The "PlayStation 2" memory card (8MB) in\nMEMORY CARD slot 1\ndoes not have enough free space.\nCreating save data requires at least 240KB of free space.
+
+@LoadMenu:44.5 - 6fb42231
+The "PlayStation 2" memory card (8MB) in\nMEMORY CARD slot 1\ncontains no save data for "KimiKiss PLUS".
+
+@LoadMenu:44.6 - 848671ce
+The "PlayStation 2" memory card (8MB) in\nMEMORY CARD slot 1\ncontains no save data for "KimiKiss".
+
+@LoadMenu:44.7 - 9c37465c
+The "PlayStation 2" memory card (8MB) in\nMEMORY CARD slot 1\nis not formatted.\nDo you want to format it?
+
+@LoadMenu:44.8 - a9bf9417
+Formatting the "PlayStation 2" memory card (8MB) in\nMEMORY CARD slot 1.\nDo not turn off or reset the "PlayStation 2" console,\nor insert or remove memory cards (PS2)\nor controllers.
+
+@LoadMenu:44.9 - 9e0d1d59
+Formatting failed.
+
+@LoadMenu:44.10 - 871af71c
+Creating save data on the "PlayStation 2" memory card (8MB) in\nMEMORY CARD slot 1.\nDo not turn off or reset the "PlayStation 2" console,\nor insert or remove memory cards (PS2)\nor controllers.
+
+@LoadMenu:44.11 - 5f17fb05
+Save data already exists.\nDo you want to overwrite it?
+
+@LoadMenu:44.12 - 329b32ed
+Save complete.
+
+@LoadMenu:44.13 - dcf537f5
+Save failed.
+
+@LoadMenu:44.14 - 221b3703
+Data will be loaded from the "PlayStation 2" memory card (8MB) in\nMEMORY CARD slot 1.\nUnsaved data will be lost. Is that okay?
+
+@LoadMenu:44.15 - 99a2c169
+Loading.\nDo not turn off or reset the "PlayStation 2" console,\nor insert or remove memory cards (PS2)\nor controllers.
+
+@LoadMenu:44.16 - 365f9690
+Load complete.
+
+@LoadMenu:44.17 - de8efd75
+Load failed.
+
+@LoadMenu:44.18 - ef688be2
+Checking the save data on the "PlayStation 2" memory card (8MB) in\nMEMORY CARD slot 1.\nDo not turn off or reset the "PlayStation 2" console,\nor insert or remove memory cards (PS2)\nor controllers.
+
+@LoadMenu:44.19 - f00cd9c5
+To save "KimiKiss PLUS" data, you need a\n"PlayStation 2" memory card (8MB)\nwith at least 240KB of free space.\nStart the game without saving?
+
+@LoadMenu:44.20 - 80ad7f36
+Settings have been changed.\nDo you want to save?
+
+@LoadMenu:44.21 - 1e842499
+Save your clear data?
+
+@LoadMenu:44.22 - 01cce3f7
+System data loaded.

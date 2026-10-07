@@ -1,0 +1,149 @@
+# MAO_KBE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_KBE:38 MAO 1e457e2f
+"{Nn}..."
+
+@MAO_KBE:40 PLY d3733648
+"Ah! M-Mao!"
+
+@MAO_KBE:43 MAO d889a7ec
+"{V0744}{W15}I saw{W2}{W2}{W2} it...{W22} just now{W4}..."
+
+@MAO_KBE:45 MAO af91c8f2
+"{V0745}{W15}You looked{W1}{W1}{W1} awfully close{W4}. {W84}Who{W3} is{W1}{W1} {W25}{Ec}that{W1} girl{W1}?"
+
+@MAO_KBE:46 PLY c63a356f
+"W-who, you ask..."
+
+@MAO_KBE:47 MAO d7c148f9
+"{V0746}{W5}...{W3}You can't answer?"
+
+@MAO_KBE:48 PLY 0d80b9d5
+"......"
+
+@MAO_KBE:53 MAO 3f5e3f74
+"{V0747}{W15}Well, fine. {W48}It's not as if you're{W8} going out with me{W3}, {W45}{Fe6}so it's not my place to complain {W20}any more..."
+
+@MAO_KBE:56 MAO a100998a
+"{V0748}{W12}But, {W3}remember{W3} this. {W42}{Ec}If you keep this up{W4}, {W48}{Fe6}{Eo}I{W8} will get hurt, {W63}{Fe9}and so will she{W3}{W4}. {W73}You understand, right?"
+
+@MAO_KBE:57 PLY 7d68aa58
+"Y-yeah..."
+
+@MAO_KBE:58 MAO 9e1a46e7
+"{V0749}{W3}...{W2}It's fine as long as you understand. {W63}{Ec}As for today{W1}, {W36}I'll forget it{W4}."
+
+@MAO_KBE:59 MAO d6622a96
+"{V0750}{W8}{Nn}{W3}, you're{W2} not{W2}{W2}{W2}{W5} that kind of person{W2}{W2}{W2}, {W90}{Eh}and today's{W2}{W1}{W1} thing, {W63}{Fe9}{Ec}I think{W5} you just{W1}{W1} had a moment of weakness{W4}."
+
+@MAO_KBE:61 MAO 35510d64
+"{V0751}{W12}See you, {W15}{Nn}. {W75}Being indecisive{W5}{W7}{W3}{W5} is a{W18} {Ec}sin{W5}, you know."
+
+@MAO_KBE:64 PLY 5ad65645
+"Ah... Mao..."
+
+@MAO_KBE:65 PLY 9cede81b
+(I'm sorry... What a terrible guy I am...)
+
+@MAO_KBE:66 PLY 772be3f3
+(I have to sort out my feelings soon, before it's too late to fix...)
+
+@MAO_KBE:69 MAO bedbd0bd
+"{V0753}{W18}How awful{W3}{W5}! {Ti2}{W90}That's too{W2}{W3}{W2}{W1} awful! {W105}{Ec}{W5}{Fe8}{Eo}You're still{W1} hanging out{W1}{W1}{W1}{W1}{W4}{W1}{W1}{W1}{W1}{W1} with that girl{W1}, aren't you!"
+
+@MAO_KBE:72 MAO 8c53bdb4
+"{V0754}{W12}That girl, {W80}she's in your class,{W3} {Nn}{W5}, isn't she?"
+
+@MAO_KBE:73 MAO fd082e83
+"{V0755}{W12}Good for you. {W75}{Ec}She's meek{W3}{W1}{W1}, {W57}gentle-looking{W4}{W1}{W1}, {W123}{F9}{Eo}a good match{W3}{W1}{W2}{W2}{W2} for {Nn}{W4}."
+
+@MAO_KBE:74 MAO 7b8f77a1
+"{V0756}{W15}That girl, {W72}she's Nana's friend{W3}{W3}, isn't she?"
+
+@MAO_KBE:75 MAO a0f6b817
+"{V0757}{W15}Good for you. {W42}{Ec}Tiny, {W45}adorable, {W85}{F9}{Eo}a good match for {Nn}{W3}."
+
+@MAO_KBE:76 MAO d404f844
+"{V0758}{W12}That{W1} girl{W1}, {W63}she's in the soccer club{W1}{W1}{W1}{W1}{W1}, right?"
+
+@MAO_KBE:77 MAO c4df4146
+"{V0759}{W15}Good for you. {W90}{Ec}She's lively{W5}{W6}, {W58}healthy{W4}{W4}{W4}. {W90}{Eo}The complete opposite{W10} of me{W5}{W6}{W6}{W6}."
+
+@MAO_KBE:78 MAO 6dac4dd4
+"{V0760}{W8}A good match{W3} for{W1} {Nn}."
+
+@MAO_KBE:79 MAO f1242490
+"{V0761}{W12}That girl, {W87}she's the one famous for being a genius{W4}{W4}{W21}{W3}, right?"
+
+@MAO_KBE:80 MAO 800ef8c6
+"{V0762}{W12}Good for you. {W48}{Ec}Cool{W1}, {W18}intellectual{W4}, {W70}{F9}{Eo}a good match{W3}{W1}{W1} for {Nn}."
+
+@MAO_KBE:81 MAO 6d199f3c
+"{V0763}{W12}That girl, {W84}she's the famous rich young lady{W6}{W5}{W1}{W4}{W4}{W1}{W1}, right?"
+
+@MAO_KBE:82 MAO db8b462d
+"{V0764}{W12}Good for you. {W43}{Ec}Refined{W4}, {W30}demure{W3}{W1}, {W109}{F9}{Eo}a good match{W3}{W3}{W1}{W2}{W3}{W3} for {Nn}."
+
+@MAO_KBE:83 MAO ccf465ac
+"{V0765}{W12}Good for you. {W60}That girl, {W45}being on the Discipline Committee{W4}{W1}{W1}{W3}{W1}{W1}, {W24}{Ec}she's serious, {W45}and has a sense of responsibility{W3}{W3}{W4}{W1}."
+
+@MAO_KBE:84 MAO 323edb5d
+"{V0766}{W8}A good match{W1} for {Nn}."
+
+@MAO_KBE:86 MAO a9aba96c
+"{V0767}{W15}But, {W75}{Ec}if that's how it is{W1}{W1}, tell me{W4}{W1} sooner! {W75}{Eo}I{W8} would get hurt, {W51}{Fe9}and so would that{W1} girl{W1}{W1}{W5}{W1}{W1}, you know!"
+
+@MAO_KBE:87 PLY 80decc91
+"Mao..."
+
+@MAO_KBE:88 MAO a9ee12c2
+"{V0768}{W18}I hate you{W21} {Ec}so{W4} much{W3}{Eo}! {W105}Don't {W39}ever talk to me again{W3}!"
+
+@MAO_KBE:90 MAO 6daf0ba1
+"{V0769}{W15}Goodbye{W1}{W1}{W1}!"
+
+@MAO_KBE:91 PLY 471fac2d
+(...I did something I can never take back...)
+
+@MAO_KBE:92 PLY a8656e7a
+(I'm sorry... Mao...)
+
+@MAO_KBE:93 MAO 4f5f4fb1
+"{V0771}{W8}You never learn{W3}{W2}{W2}{W2}{W5}, do you. {W120}{Ec}Is it a different girl{W4}{W1}{W5} this time?"
+
+@MAO_KBE:94 PLY 6b410038
+"Ugh..."
+
+@MAO_KBE:95 MAO 08ee9ba5
+"{V0772}{W18}Just{W2}{W6} how many{W4}{W4}{W1} girls{W8}{W1}{W1} will you hurt{W4} before you're satisfied?!"
+
+@MAO_KBE:96 PLY 1886b376
+"Mao, I didn't mean to..."
+
+@MAO_KBE:97 MAO cf989019
+"{V0773}{W13}Then what did you mean{W5} to do?! {Eo}{W30}Go ahead and{W2} say{W1} it!"
+
+@MAO_KBE:98 MAO 4f06a56e
+"{V0774}{W18}Goodbye, {Nn}. {W60}{Ec}I don't {W45}want to see{W4} your face{W1} anymore."
+
+@MAO_KBE:99 MAO b94ee45c
+"{V0775}{W12}Never talk{W1} to me{W1} again{W4}{W1}!"
+
+@MAO_KBE:100 PLY 63225729
+"Ah! Mao!"
+
+@MAO_KBE:101 PLY e0164981
+(I'm... I'm no good. I couldn't choose just one, and I dragged it out indecisively, all the way to this...)
+
+@MAO_KBE:102 PLY 7723c9cc
+(Mao... I'm sorry...)
+
+@MAO_KBE:103 PLY 4de7c50b
+(I... I...)
+
+@MAO_KBE:104 MAO 78a81f57
+"{V0777}{W21}Honestly, {W30}I won't let you{W5} say{W5} you{W2} forgot{W5} our promise{W2}{W1}{W1} as an {W60}excuse{W1}{W1}{W5}."
+
+@MAO_KBE:105 MAO bcc453ee
+"{V0777}{W21}Honestly, {W30}I won't let you{W5} say{W5} you{W2} forgot{W5} our promise{W2} as an {W60}excuse."

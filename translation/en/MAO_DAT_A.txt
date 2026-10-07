@@ -1,0 +1,338 @@
+# MAO_DAT_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_DAT_A:16 PLY e43e21f0
+(Uh-oh, it's already 11:45. I wonder if Mao's here yet?)
+
+@MAO_DAT_A:19 PLY 0c47014c
+(Let's see, where's Mao... Ugh, she's here already...)
+
+@MAO_DAT_A:32 MAO c011b118
+"{Nn},{V0979}{W12} you're {W5}la{W5}a{W6}ate{W7}!"
+
+@MAO_DAT_A:33 PLY 3372f00d
+"Sorry, I was making rice balls and it took longer than I thought..."
+
+@MAO_DAT_A:34 PLY 7fcaa522
+"It was rough, you know. Nana grilled me about who I was going with and where."
+
+@MAO_DAT_A:36 MAO 0c3ae2cc
+"{V0980}{W5}Then{W20} why{W1} not{W1} bring{W1} Nana{W1} along?{W1} {Fe9m3}Wouldn't{W1} that{W1} have{W2} been{W2} better?{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W2}{W2}"
+
+@MAO_DAT_A:37 PLY 7ecd2f04
+"Not today... it's fine..."
+
+@MAO_DAT_A:39 MAO 4dd85144
+"{V0981}{W3}Fufu,{W42} you're{W3} right.{W31} {Eo}Another{W1} time,{W1} then{W1}.{W3}"
+
+@MAO_DAT_A:41 MAO a7e3e5c9
+"{V0982}{W3}Shall{W1} we{W1} go,{W1} {Nn}?"
+
+@MAO_DAT_A:44 SYS c8ed9db8
+...And so, I headed to the pool with Mao.
+
+@MAO_DAT_A:49 MAO 5eaa2f1c
+"{V0983}{W10}Well then,{W5} see{W4} you{W3} inside."
+
+@MAO_DAT_A:50 PLY 234c3a3b
+"Okay. I'll wait right outside the locker room."
+
+@MAO_DAT_A:51 PLY dd85a585
+(I wonder what kind of swimsuit Mao has. My heart's racing...)
+
+@MAO_DAT_A:52 PLY f7b5c21c
+(There are quite a lot of people. The pool season's almost over, so maybe everyone's here for a last swim?)
+
+@MAO_DAT_A:54 MAO 2ece66f3
+"{V0984}{W5}Oh,{W4} {Nn},{W5} the{W1}re{W1} you{W1} are."
+
+@MAO_DAT_A:55 PLY 122df4f6
+"Huh?"
+
+@MAO_DAT_A:56 PLY 634f9920
+"Ah..."
+
+@MAO_DAT_A:59 MAO 8c74ce64
+"{V0985}{Br60t120}{W7}So{W1}? {W48}How do{W1} you like{W1} this{W3} swimsuit?{W42} Does it suit me?"
+
+@MAO_DAT_A:60.1 - a72a4679
+{Ti0}- It looks great on you／- I was mesmerized...／- The pool is the best!
+
+@MAO_DAT_A:61 PLY 058bac27
+"It looks great on you."
+
+@MAO_DAT_A:62 MAO 6dbc3002
+"{V0986}{W3}Fufu,{W39} tha{W2}nk{W2} yo{W2}u."
+
+@MAO_DAT_A:63 PLY 86b41b51
+"I was mesmerized..."
+
+@MAO_DAT_A:64 MAO c77a8c6f
+"{V0987}{Bt120}{W9}Really?{W1}"
+
+@MAO_DAT_A:65 PLY 0a9c0df3
+"Yeah. Mao, you have such a great figure..."
+
+@MAO_DAT_A:66 MAO 4fe14567
+"{V0988}{W6}Fufu,{W41} thanks."
+
+@MAO_DAT_A:67 PLY 2a10d942
+"{Ts3}The pool is the best!"
+
+@MAO_DAT_A:69 MAO 129d826f
+"{V0989}{Br0t60}{Ts2}{W3}Ahahaha,{W51} what{W1} has{W2} got{W1} into you{W1} all of a sudden?"
+
+@MAO_DAT_A:70 PLY 47c5bebf
+"Well, I just think you should come to the pool with a girl. It's not this much fun with a guy."
+
+@MAO_DAT_A:71 MAO 448c5cfd
+"{V0990}{W4}Fu{W4}fu,{W23} may{W2}be{W2} you're{W2} right.{W4}{W1}"
+
+@MAO_DAT_A:72 PLY 548bf4de
+"Though some guys insist on coming with other guys."
+
+@MAO_DAT_A:73 MAO 0e45efd1
+"{V0991}{W10}Why's that?"
+
+@MAO_DAT_A:74 PLY 89beaf9c
+"You know, they pick up girls on the spot."
+
+@MAO_DAT_A:76 MAO d2e56be4
+"{V0992}{W14}Oh{W4} I{W4} see{W4}...{W41} They're{W6} so{W5} lively{W6}~{W3}!"
+
+@MAO_DAT_A:77 PLY 7aa469c1
+"Hahaha..."
+
+@MAO_DAT_A:78 MAO 9fec95f3
+"{V0993}{W8}Come on,{W30} let's{W5} go{W5} swim,{W4} {Nn}."
+
+@MAO_DAT_A:80 MAO 0a76f989
+"{V0994}{Br0t120}{W8}Here I gooo!"
+
+@MAO_DAT_A:85 SYS 1cc0f698
+...Mao swimming was so beautiful that she was the center of attention at the pool.
+
+@MAO_DAT_A:86 SYS c4be9b75
+And Mao's eyes were always on me...
+
+@MAO_DAT_A:87 SYS 9a5168a9
+I'm glad I came.
+
+@MAO_DAT_A:88 MAO c6c44b16
+"{Nn}~!{W1} {V0995}{W9}Don't{W1} just{W1} spa{W1}ce{W1} out{W3} over{W2} there.{W17} Let's{W2} go{W2} round{W2} the{W1} lazy{W1} river{W2} once!{W1}{W1}{W1}{W1}{W2}{W2}{W2}{W2}{W2}{W2}"
+
+@MAO_DAT_A:89 PLY 627b25a8
+"Okay, it's a race!"
+
+@MAO_DAT_A:90 SYS 809b4e32
+...And so, I swam to my heart's content with Mao.
+
+@MAO_DAT_A:91 MAO 73cb66d8
+"{V0996}{W5}Phew{W2}.{W50} Hey,{W5} {Nn},{W9} want{W1} to{W1} take{W1} a{W1} break?{W2}"
+
+@MAO_DAT_A:92 PLY 7b80275e
+"Sure. I swam so much I'm starving."
+
+@MAO_DAT_A:93 MAO b5201a7b
+"{V0997}{W8}I'm{W2} really{W2} excited{W2} for{W1} {Nn}'s{W2} rice{W1} balls{W1}.{W1}{W15}{Fe4m3} Can't{W3} wait{W2}!"
+
+@MAO_DAT_A:94 PLY 432249ae
+"No guarantees on the taste, though."
+
+@MAO_DAT_A:95 MAO de5bdebd
+"{V0998}{W7}I{W4} asked{W3} you{W4} to{W3} make{W2} them.{W21} {Ec}{W5}{Fe1m3}{Eo}Even{W1} if{W1} they{W2} were{W1} covered{W1} in{W2} su{W1}gar{W1} I'd{W1} eat{W1} them.{W1}{W12}"
+
+@MAO_DAT_A:96 PLY 8b6ada48
+"No, they're not that bad..."
+
+@MAO_DAT_A:97 MAO 94328755
+"{V0999}{W3}Fufufu."
+
+@MAO_DAT_A:98 MAO 3a914c8e
+"{V1000}{W6}I{W4} made{W2} the{W1} side{W1} dis{W1}hes,{W3} so{W2} eat{W2} lots,{W2} okay?{W2}{W2}{W2}{W7}"
+
+@MAO_DAT_A:99 PLY 1ed4ed84
+"Huh? Mao..."
+
+@MAO_DAT_A:100 MAO b8f62239
+"{V1001}{W3}Hm?"
+
+@MAO_DAT_A:101 PLY c99febb7
+"So I wasn't the only one who had to cook."
+
+@MAO_DAT_A:102 MAO 9cab3b80
+"{V1002}{W4}Geez,{W45} I{W4} would{W2}n't{W3} make{W2} only{W2} the{W3} boy{W3} do{W3} the{W2} cook{W3}ing.{W25} {Fe9m3}This{W1} kind{W2} of{W3} thing{W3} is{W3} fun{W3} because you do it together."
+
+@MAO_DAT_A:103 PLY 80decc91
+"Mao..."
+
+@MAO_DAT_A:104 MAO 42827b21
+"{V1003}{W7}Come on,{W36} let's get our things from the locker {W29}{Ec}and have lunch."
+
+@MAO_DAT_A:107 PLY 44f447da
+"Wow, octopus sausages. I ate these all the time as a kid. What a throwback!"
+
+@MAO_DAT_A:108 MAO e1a8c933
+"{V1004}{W6}When{W5} we{W5} were{W4} kids,{W5} remember?{W17} We{W1} all{W2} came{W1} here{W1} together,{W1}{W1}{W1}{W1}{W1}{W1}{W20} I{W1} remade{W1} the{W1} meal{W1} we{W1} had,{W1}{W1} so{W2} dig{W2} in{W2} now,{W1} okay?{W2}{W1}{W2}{W1}"
+
+@MAO_DAT_A:109 PLY fe694e47
+"Oh... I see. Right... that did happen once..."
+
+@MAO_DAT_A:111 MAO ca5f4f3f
+"{V1005}{W8}Look,{W8} {Nn}!{W8} Octopus sausages!"
+
+@MAO_DAT_A:112 PLY b07841a1
+"You're right!"
+
+@MAO_DAT_A:113 NAN 138f8a44
+"{V0463}{W6}Ah,{W43} Ma{W2}o,{W2} that{W3} looks{W2} so{W2} good,{W25} lu{W3}cky{W3} you{W3}~!{W2}"
+
+@MAO_DAT_A:114 MAO f95c3621
+"{V1007}{W4}Well?{W31} Are the octopus sausages{W14} good?"
+
+@MAO_DAT_A:115 PLY f1b399b7
+"They're good, Mao."
+
+@MAO_DAT_A:117 MAO 2ea27a42
+"{V1008}{W4}I'm{W3} glad.{W3}{W2}"
+
+@MAO_DAT_A:118 MAO 80fa4e4a
+"{V1009}{W3}Fufu,{W50} {Nn}'s{W5} rice{W4} balls{W4} are{W4} huge{W1}~.{W28} They{W1} must{W3} be{W3} two{W2} bowls{W2} of{W2} rice{W1} each.{W4}{W4}{W1}{W1}{W1}{W1}{W1}{W1}{W2}{W2}"
+
+@MAO_DAT_A:119 PLY 85ebeb51
+"Sorry."
+
+@MAO_DAT_A:120 MAO ceddbca8
+"{V1010}{W7}No,{W23} they're delicious, {Nn}."
+
+@MAO_DAT_A:121 SYS dac7b896
+...And so I had a lovely time at the pool with Mao.
+
+@MAO_DAT_A:122 MAO 17ba4295
+"{V1011}{W8}That{W2} was{W2} fun,{W1} wasn't{W1} it{W2}~,{W1} {Nn}?{Eo}"
+
+@MAO_DAT_A:123 PLY eb93e8ae
+"Yeah, it was really fun."
+
+@MAO_DAT_A:124 MAO 61d216cc
+"{V1012}{W5}Hm?"
+
+@MAO_DAT_A:125 PLY 36087785
+"Want to stop by Hilltop Park on the way home?"
+
+@MAO_DAT_A:126 MAO 1e7d7707
+"{V1013}{W3}Fu{W3}fu,{W31} sure.{W3}"
+
+@MAO_DAT_A:127 MAO 4a405a12
+"{V1014}{W6}That's{W1} a{W1} pret{W1}ty{W1} good{W1} route,{W1} {Fe3}{Nn}.{W1}{W1}"
+
+@MAO_DAT_A:128 PLY fec6c656
+"Y-you think?"
+
+@MAO_DAT_A:129 MAO 43f62f43
+"{V1015}{Bt120}{W3}Yes,{W23} you{W7} pass.{W1}{W7}"
+
+@MAO_DAT_A:130 MAO a5f5a671
+"{V1016}{W14}Hold{W1}...{W55} my{W2} hand{W2}...{W2} {Nn}.{W1}"
+
+@MAO_DAT_A:131 PLY 6d6e5644
+".........Like this?"
+
+@MAO_DAT_A:132 MAO ac6be66d
+"{V1017}...Fufu,{W48} such{W4} a{W4} big{W4} hand.{W74} If{W1} you{W1} make{W2} rice{W4} balls{W1} with{W1} it,{W28} they'd be huge too, right~?"
+
+@MAO_DAT_A:133 PLY b30f713a
+"Shut up."
+
+@MAO_DAT_A:134 MAO 37e75b71
+"{V1018}{W3}Fufufufu."
+
+@MAO_DAT_A:137 MAO 6e3c8568
+"{V1019}{W4}Wow{W5}~,{W90} {Fe3}the{W3} sun{W2}set{W2} is{W1} beautiful~!{W5}"
+
+@MAO_DAT_A:138 PLY a9bebc32
+"Yeah..."
+
+@MAO_DAT_A:139 MAO 6639edab
+"{V1020}{W3}Hm?"
+
+@MAO_DAT_A:140 PLY ee478147
+"I don't really get you anymore, Mao..."
+
+@MAO_DAT_A:141 MAO 4126204e
+"{V1021}{W7}Why not?"
+
+@MAO_DAT_A:142 PLY c5b5b1ae
+"Well... I thought you were an older woman who knew all about love, but then you're oddly childish sometimes..."
+
+@MAO_DAT_A:143 PLY 5c97edd5
+"You're selfish, and then you turn out to be really kind..."
+
+@MAO_DAT_A:144 PLY 838142c0
+"Which one is the real Mao?"
+
+@MAO_DAT_A:145 MAO a62026fd
+"{V1023}{W8}You don't know?"
+
+@MAO_DAT_A:146 PLY 0c4f4495
+"I don't..."
+
+@MAO_DAT_A:147 MAO 1d27bbf9
+"{V1024}{W7}Do{W1} you{W1} want to know?"
+
+@MAO_DAT_A:148 PLY b81065be
+"Of course."
+
+@MAO_DAT_A:149 MAO 13da0190
+"{V1025}{W4}Then{W1}...{W1}{W1}"
+
+@MAO_DAT_A:150 MAO 0889ff43
+"{V1026}{W7}Which{W7} me{W27} do{W3} you{W4} like{W3} best,{W3} {Nn}?{W3}{W3}{W13}"
+
+@MAO_DAT_A:151.1 - b6b64e30
+{Ti0}- Womanly Mao　- Childish Mao／- Selfish Mao　- Kind Mao
+
+@MAO_DAT_A:152 PLY f8739ef1
+"Womanly Mao."
+
+@MAO_DAT_A:153 MAO 4de6c0e5
+"{V1027}{W2}Fu{W2}fu,{W47} then{W5} that's{W2} the{W2} real{W5} me.{W2}{W6}{W6}{W4}{W4}"
+
+@MAO_DAT_A:154 PLY 842dd0d8
+"Childish Mao."
+
+@MAO_DAT_A:155 MAO a33de25e
+"{V1028}{W2}Heh{W3}e,{W54} then{W10} that's{W3} the{W2} real{W5} me{W5}.{Eo}{W4}"
+
+@MAO_DAT_A:156 PLY a9a1582b
+"Selfish Mao."
+
+@MAO_DAT_A:157 MAO ff0a71c2
+"{V1029}{W4}Okay!{W33} Then{W7} that's{W2} the{W2} real{W4} me{W4}!"
+
+@MAO_DAT_A:158 PLY b0e17c5a
+"Kind Mao."
+
+@MAO_DAT_A:159 MAO 7eaf3866
+"{V1030}{W4}Mm...{W44} then,{W25} that's{W3} the{W3} real{W6} me...{W3}{W6}{W6}"
+
+@MAO_DAT_A:160 PLY 2ac946dc
+"That's not fair."
+
+@MAO_DAT_A:162 MAO ed02163e
+"{V1031}{Bt150}{W9}It's{W1} not{W1} unfair.{W60} {Fe7}{Ec}A{W3} girl{W1} wants{W2} to{W2} be{W22} the{W1} kind{W1} of{W1} girl{W1} the{W1} one{W1} she{W1} likes{W1} likes."
+
+@MAO_DAT_A:163 PLY 1e54f061
+"A girl wants to be what the one she likes likes... Is that a Mao Check?"
+
+@MAO_DAT_A:164 MAO af81f570
+"{V1032}{Br60t120}{W4}Right.{W34} That's{W5} number{W5} 9{W9}."
+
+@MAO_DAT_A:167 PLY 7c72e5b8
+(I feel like she just casually confessed to me... Mao...)
+
+@MAO_DAT_A:168 PLY dd407a5b
+(Mao, to me, you're...)
+
+@MAO_DAT_A:169 SYS e0fb995f
+There's only one.

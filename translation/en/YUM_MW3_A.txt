@@ -1,0 +1,26 @@
+# YUM_MW3_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@YUM_MW3_A:10 PLY 2555cff3
+(Hoshino...)
+
+@YUM_MW3_A:30 YUM 079a58d1
+"...{E}......{E}?"
+
+@YUM_MW3_A:31 PLY 9e21761b
+(I-I was fantasizing right in front of her...)
+
+@YUM_MW3_A:32 PLY f91b3fc4
+(No... I have to pull myself together...)
+
+@YUM_MW3_A:33 PLY 0304f087
+(Huh...? What is this feeling...?)
+
+@YUM_MW3_A:36 PLY 618d61ad
+(What...? It feels like something is about to happen here...)
+
+@YUM_MW3_A:38 PLY 6f3c9fdd
+(Whoa!)
+
+@YUM_MW3_A:39 PLY 112e988a
+(Huh? What was I doing? I was...)

@@ -1,0 +1,1214 @@
+# PLY_FEV -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@PLY_FEV:58 ERI d1c2a9fc
+""
+
+@PLY_FEV:112 AKI b8493afb
+"{V0090}{W4}Hey,{W10} {Nm}."
+
+@PLY_FEV:113 PLY af40900f
+"Oh, Hiiragi."
+
+@PLY_FEV:115 AKI 1f80a957
+"{V0113}{W3}What{W2} are{W2} your lunch break{W2} plans?"
+
+@PLY_FEV:116 PLY 91469994
+"Nothing special. Why?"
+
+@PLY_FEV:117 AKI e25dc5dd
+"{V0114}{W6}Then{W42} want to{W8} study together in the Library?"
+
+@PLY_FEV:118 PLY c5443954
+"Study? I'll pass..."
+
+@PLY_FEV:120 AKI 49dc82e4
+"{V0197}{W5}I see...{W38} {Eo}Then{W13} I'll ask someone{W2} else."
+
+@PLY_FEV:122 AKI 46a57908
+"{V0124}{W4}Later,{W10} {Nm}."
+
+@PLY_FEV:125 PLY 4567b88c
+(Studying, huh... What a serious guy.)
+
+@PLY_FEV:127 AKI 1f047df1
+"{V0028}{W4}What{W2} are{W2} you{W2} having for lunch?"
+
+@PLY_FEV:128 PLY 7d4556ac
+"Hmm... I'll just grab whatever."
+
+@PLY_FEV:129 AKI 83126230
+"{V0175}{W4}Eating alone is boring.{W36} Want to eat together?{Ec}"
+
+@PLY_FEV:130 PLY c34f150e
+"Together? ...Sure, let's do that."
+
+@PLY_FEV:132 SYS 09733dd9
+...And so I had lunch with Hiiragi.
+
+@PLY_FEV:134 AKI d9246de6
+"{Nm},{V0069}{W8} what{W3} are you spacing out for?"
+
+@PLY_FEV:135 PLY c0d60d55
+"Oh, Hiiragi. ...Is that a problem? It's not like I have anything to do..."
+
+@PLY_FEV:136 AKI 5caec23e
+"{V0000}{W5}Hon{W4}est{W4}ly...{W60} you{W4} never change,{Ec} do you?"
+
+@PLY_FEV:137 PLY 7aa469c1
+"Hahaha..."
+
+@PLY_FEV:138 PLY 66c63f1e
+"Yeah. Later."
+
+@PLY_FEV:139 PLY a2eadfe9
+(Ah... isn't that...)
+
+@PLY_FEV:140 PLY 1d678168
+"Hey, Hiiragi!"
+
+@PLY_FEV:142 AKI ba39b9a0
+"{V0188}{W5}Hm?{W36} What is it,{W10} {Nm}?"
+
+@PLY_FEV:143 PLY 83d907be
+"...Ah, no. I don't really need anything..."
+
+@PLY_FEV:145 PLY 3ec1bde1
+(Ah... he's gone...)
+
+@PLY_FEV:146 PLY e469a747
+"Oh, Ms. Kawada."
+
+@PLY_FEV:150 TOM 665bf0bb
+"{V0003}{W6}Oh,{W3} {Nm}.{W6} What is it?"
+
+@PLY_FEV:151 PLY 7477f7f1
+"Do you have a moment?"
+
+@PLY_FEV:152 TOM 841dc6d8
+"{V0004}{W2}Sure.{W30} What is it?"
+
+@PLY_FEV:153 PLY 2b5a87fe
+"Lately, I've been thinking..."
+
+@PLY_FEV:154 TOM 4b71e499
+"{W4}...{W4}..."
+
+@PLY_FEV:155 TOM 571ee671
+"{V0032}{W3}Fu{W3}fu,{W52} that's{W3} nice, isn't it?"
+
+@PLY_FEV:156 PLY 731c4560
+"You think so too, Sensei?"
+
+@PLY_FEV:157 TOM 8e44bbaf
+"{V0092}Yes."
+
+@PLY_FEV:158 TOM 6a025ccc
+"{V0138}{W2}Well, see you."
+
+@PLY_FEV:159 PLY d9ce4426
+"Yes. Excuse me."
+
+@PLY_FEV:162 PLY 7ee7683d
+(Hm? The sky looks ominous.)
+
+@PLY_FEV:165 PLY 0308c77c
+"Uh-oh! An evening shower! I have to hurry home!"
+
+@PLY_FEV:166 SYS 61e19b8c
+Splash! Splash! Splash! Splash!
+
+@PLY_FEV:168 PLY 4b472bff
+"Brr, it's cold. Nana, I'm home!"
+
+@PLY_FEV:169 PLY ec55d40a
+"Great... I'm soaked down to my underwear. Nana, bring me a towel!"
+
+@PLY_FEV:170 PLY 0d80b9d5
+"......"
+
+@PLY_FEV:171 PLY f7056747
+(She's not home yet. What a pain...)
+
+@PLY_FEV:172 PLY f3131e1f
+(What now?{W15} ...I'll just take a bath and warm up. Yes! Let's do that!)
+
+@PLY_FEV:173 PLY b0f37bfc
+(Toss the wet clothes in the washer, and...)
+
+@PLY_FEV:175 PLY d1e4d12d
+"Brr, cold, cold."
+
+@PLY_FEV:177 PLY 5d292aeb
+"{Ts3}Cold!"
+
+@PLY_FEV:178 PLY 60850e4e
+(Ugh... yesterday's water has turned cold, of course. Reheat, reheat...)
+
+@PLY_FEV:179 PLY 78a1cfb4
+"Ugh... warm up already, warm up..."
+
+@PLY_FEV:180 PLY 9358d5b3
+"Brrr, shiver shiver shiver..."
+
+@PLY_FEV:181 PLY 8085bac5
+(Water that's been heated once warms up fast. Just hang in there a bit.)
+
+@PLY_FEV:182 PLY 61563086
+"Shiver shiver shiver shiver..."
+
+@PLY_FEV:183 PLY e5238417
+(...Oh, it's getting a little warmer.)
+
+@PLY_FEV:184 PLY e69e653d
+(...Yeah, the temperature's getting just right.)
+
+@PLY_FEV:185 PLY c82de11b
+"Aaaaah, I feel alive again."
+
+@PLY_FEV:186 PLY 68e1c64b
+"Nice and toasty, this feels great..."
+
+@PLY_FEV:187 PLY 29d39fa0
+(Phew... now that I'm warm, I'm getting sleepy.)
+
+@PLY_FEV:188 PLY e802c440
+(Ah! No! I can't fall asleep! ...But just a little...)
+
+@PLY_FEV:189 PLY aca19409
+"Zzzz, zzzz."
+
+@PLY_FEV:190 SYS 82bdff36
+......
+
+@PLY_FEV:192 NAN c65a67a8
+"{V0853}Big Bro,{W30} I'm home~!"
+
+@PLY_FEV:194 NAN c37ad5ad
+"{V0854}Aww,{W45} I'm{W2} soaking wet."
+
+@PLY_FEV:196 NAN 4e3cba16
+"{V0855}Big Bro,{W35} get me a{W5} towel~!"
+
+@PLY_FEV:198 NAN 5fa506a0
+"{V0856}Oh,{W40} he's not home yet..."
+
+@PLY_FEV:199 NAN 87c56caf
+"{V0857}Ugh...{W50} What do I do?{W60} I'm freezing."
+
+@PLY_FEV:201 NAN 0b94f328
+"{V0858}I know!{W20} I'll take a bath!{W23} Big Bro will probably be home while it's still{W3} warm,{W15} so that's{W5} two{W15} birds{W5} with one stone."
+
+@PLY_FEV:202 NAN c0777479
+"{V0859}Heave,{W35} heave.{W55} ...It's hard to take off{W30} when everything's wet..."
+
+@PLY_FEV:203 NAN cfc3fb3a
+"{V0860}Got it off~!"
+
+@PLY_FEV:204 NAN e369064a
+"{V0861}{W5}Huh?{W40} Why is there steam..."
+
+@PLY_FEV:205 NAN cdeab59d
+"{V0862}{Ts3}Eek!{W20} Big Bro!"
+
+@PLY_FEV:206 PLY 122df4f6
+"Huh?"
+
+@PLY_FEV:212 NAN ed09b61f
+"{V0863}Geez!{W30} If you're in there,{W3} say{W3} so!"
+
+@PLY_FEV:213 PLY 2495158f
+"S-sorry, I fell asleep."
+
+@PLY_FEV:214 PLY 96073b10
+"S-sorry, here, let's switch. You must be cold."
+
+@PLY_FEV:215 NAN 8617dfb9
+"{V0865}Geez!{W20} I'm keeping my eyes{W20} closed,{W30} so get{W5} out~!"
+
+@PLY_FEV:216 PLY 2037793c
+"O-okay, okay."
+
+@PLY_FEV:217 PLY 40c7ce75
+"Nana..."
+
+@PLY_FEV:218 NAN b0cc20df
+"{V0866}What?"
+
+@PLY_FEV:219 PLY 97ce6917
+"Take your time warming up."
+
+@PLY_FEV:220 NAN 97a2564f
+"{V0867}Enough!{W30} Just{W5} get{W3} out!{W10} You{W2} pervert!"
+
+@PLY_FEV:221 SYS f2829d1e
+...And so I warmed up in the bath.
+
+@PLY_FEV:222 NAN d8406204
+"{V7016}{W12}Ah! Big Bro!"
+
+@PLY_FEV:223 PLY d843393d
+"Oh, Nana."
+
+@PLY_FEV:224 NAN 16fde806
+"{V7017}{W12}What's up? Did you come to see me?{Ec}"
+
+@PLY_FEV:225 PLY 9fcf9438
+"O-of course not."
+
+@PLY_FEV:226 NAN ee541619
+"{V7018}{W12}Hmph,{W30} but this is the{W15} Year 1 hallway.{W35} {F6}What else would you be here for{W10} besides me?"
+
+@PLY_FEV:227 PLY 215c402e
+"That's... I was just passing through."
+
+@PLY_FEV:228 NAN ce29a66d
+"{V7019}{W12}...Oh,{W30} how boring.{Ec}"
+
+@PLY_FEV:229 PLY 3326c010
+"Come on, class is about to start. Go back to your classroom."
+
+@PLY_FEV:230 NAN 751d7fb9
+"{V7020}{W12}Okaay.{W5} See you,{W5} Big Bro."
+
+@PLY_FEV:231 PLY 3695183e
+"Yeah, see you."
+
+@PLY_FEV:232 NAN 6b3f5a8f
+"{V7021}{W12}Big Bro!"
+
+@PLY_FEV:233 PLY 82ec306b
+"Oh, Nana. What are you doing here?"
+
+@PLY_FEV:234 NAN 4c2db039
+"{V7022}{W12}Ehehe,{W40} school's over.{W20} {Ec}Let's walk home together!"
+
+@PLY_FEV:235 PLY 429b9ef6
+"Huh... D-don't joke around."
+
+@PLY_FEV:237 NAN 16a0a405
+"{V7023}{W12}I'm not joking!{W20} I'm serious!{W30} I'm going home{W5} with Big Bro!{Ec}"
+
+@PLY_FEV:238 PLY 204150f6
+"Okay, okay. Next time."
+
+@PLY_FEV:239 NAN 4675e04f
+"{V7024}{W12}Aww, next time?{W30} Why~?"
+
+@PLY_FEV:240 PLY b10f0b48
+"Just because. Now go on home ahead of me."
+
+@PLY_FEV:241 NAN e90ec38c
+"{V7025}{W12}Hmph.{W40} It's definitely{W20} next time, okay?{W30} Promise."
+
+@PLY_FEV:242 PLY 67e99a54
+"Yeah, yeah, I promise."
+
+@PLY_FEV:243 NAN 9c974010
+"{V7026}{W12}It feels like{W30} you're brushing me off..."
+
+@PLY_FEV:244 PLY e55d37c2
+"I am not..."
+
+@PLY_FEV:245 NAN ef437626
+"{V7027}{W12}Really?{W40} Then,{W10} you promised.{W20} {F3}See you, Big Bro.{W20} See you at home."
+
+@PLY_FEV:246 PLY 2e010d09
+"Yeah, get home safe."
+
+@PLY_FEV:247 NAN d72ac122
+"{V7028}{W12}Okay!{Ec}"
+
+@PLY_FEV:248 NAN a77a9786
+"{V7029}{W12}Ah, Big Bro!{F3}"
+
+@PLY_FEV:249 PLY 3677050f
+"Nana, what are you doing here?"
+
+@PLY_FEV:250 NAN 593a4755
+"{V7030}{W12}What are you doing, Big Bro?"
+
+@PLY_FEV:251 PLY aae73bf0
+"Well... I'm, um..."
+
+@PLY_FEV:252 NAN 8b39cb49
+"{V7031}{W12}Ehehe...{W40} {Sp}I'm{W40} um..."
+
+@PLY_FEV:253 PLY 6f91d9d6
+(...I see, Nana's worried about Mao too...)
+
+@PLY_FEV:254 NAN 598aad38
+"{V7032}{W12}W-well, see you, Big Bro.{Ec}"
+
+@PLY_FEV:255 PLY b144314a
+"A-ah. See you."
+
+@PLY_FEV:256 PLY de897d6c
+(...I always just walk right past. The Year 3 classrooms are so intimidating, I can't go in...)
+
+@PLY_FEV:257 PLY 832c277a
+(Mao... I feel like I often see her on the Terrace...)
+
+@PLY_FEV:258 NAN d151e53a
+"{V7033}{W12}Big Bro, what are you doing?"
+
+@PLY_FEV:259 NAN 37cce8a9
+"{V7034}{W12}Reading?{W30} Or studying?"
+
+@PLY_FEV:260 PLY 84046b5c
+"Neither. I'm just cooling off."
+
+@PLY_FEV:261 NAN c7d4ccd4
+"{V7035}{W12}Really?{Ec} Yay~!"
+
+@PLY_FEV:262 PLY d9a22e50
+"Yay? What for?"
+
+@PLY_FEV:263 NAN e25c93dc
+"{V7036}{W12}Hey, hey, teach me English~!{W30} Since I started high school,{W20} {F9}{m3}the grammar's super hard,{W20} and I don't get it~!"
+
+@PLY_FEV:264 PLY be9833f8
+"Ugh... English... Another time."
+
+@PLY_FEV:265 NAN b6c21fa1
+"{V7037}{W12}Aww,{W30} why?"
+
+@PLY_FEV:266 PLY 8c65f494
+"Why... Ah! Right! I just remembered something! I have to go."
+
+@PLY_FEV:267 NAN 0047aa4e
+"{V7038}{W12}Ah, Big Bro,{W30} wait up!"
+
+@PLY_FEV:268 PLY 674639e7
+"Well, so busy, so busy..."
+
+@PLY_FEV:269 NAN 3e24af31
+"{V7039}{W12}Geez,{W20} Big Bro, you meanie~!"
+
+@PLY_FEV:270 SYS f5454996
+...And so I left the Library.
+
+@PLY_FEV:271 NAN c73df799
+"{V7040}{W12}Ah! Big Bro~!"
+
+@PLY_FEV:272 PLY 489157db
+(Hm? That voice is Nana...)
+
+@PLY_FEV:273 PLY df2574c9
+"What is it? ...Wait, where are you?"
+
+@PLY_FEV:274 NAN ce294ee7
+"{V7041}{W12}Over here! The Home Ec Room!"
+
+@PLY_FEV:275 PLY 011a634e
+"The Home Ec Room?"
+
+@PLY_FEV:276 PLY 20733136
+"Whoa! W-why are you in gym clothes?!"
+
+@PLY_FEV:277 NAN ee8a4844
+"{V7042}{W12}Ehehe,{W30} {F9}{Eo}I forgot my apron...{W20} The teacher said I'd get dirty,{W30} so I should cook in gym clothes."
+
+@PLY_FEV:278 PLY 3a2fa858
+"I-I see..."
+
+@PLY_FEV:279 PLY 8dc15f9a
+(Nana in gym clothes...)
+
+@PLY_FEV:288 NAN 7ad45dad
+"{V7043}{W12}What's wrong, Big Bro? You're staring."
+
+@PLY_FEV:290 PLY 0b450334
+"Ah... no, it's nothing. Good thing you had your gym clothes."
+
+@PLY_FEV:291 NAN 9a4e9ba8
+"{V7044}{W12}Yeah! If I hadn't,{W30} it might've been my school swimsuit."
+
+@PLY_FEV:292 PLY c26607c6
+"Hahaha... no way."
+
+@PLY_FEV:293 NAN 91cfc7b9
+"{V7045}{W12}Ehehe,{W30} right?"
+
+@PLY_FEV:294 PLY 26e527c2
+(Cooking in a school swimsuit, huh...)
+
+@PLY_FEV:295 PLY 97e963c7
+(...Something like this, maybe.)
+
+@PLY_FEV:296 NAN 813583b6
+"{V7046}{W12}What's wrong, Big Bro? Staring again."
+
+@PLY_FEV:297 PLY e78c39be
+"Nothing... Good luck with the cooking. See you."
+
+@PLY_FEV:298 NAN c86ad8b7
+"{V7047}{W12}Okay! If it turns out tasty,{W5} I'll make it at home too!{Ec}"
+
+@PLY_FEV:299 PLY e50959fa
+"...I'll wait without expecting much."
+
+@PLY_FEV:300 NAN 65d3e2af
+"{V7048}{W12}Hmph,{W30} I'm{W5} good at cooking, you know~!{Ec}"
+
+@PLY_FEV:301 PLY 8fd06201
+"Hahaha, see you."
+
+@PLY_FEV:302 NAN d84bb7bd
+"{V7049}{W12}Big{W10} Bro!"
+
+@PLY_FEV:303 PLY 2d4e68f6
+"Oh, Nana. Heading to P.E. now?"
+
+@PLY_FEV:304 NAN 26c7f0b5
+"{V7050}{W12}Yep! Right!"
+
+@PLY_FEV:305 PLY c2b365f2
+(Nana in gym clothes, huh...)
+
+@PLY_FEV:306 PLY 29a6ab11
+(Staaare...)
+
+@PLY_FEV:307 PLY 5c8dac6c
+"Nana... you haven't changed much since you were little."
+
+@PLY_FEV:308 NAN 5c0a0d09
+"{V7051}{W12}Whaat?! {W10}That's not true!{W40} I'm growing every day!"
+
+@PLY_FEV:309 PLY f5fa7a47
+"Where?"
+
+@PLY_FEV:310 NAN 8a6d72f2
+"{V7052}{W12}That's... {W30}{F8}Grr, {W30}I won't tell you!"
+
+@PLY_FEV:311 PLY 5f1b08e1
+"It's not that you won't tell me, it's that there's nothing to tell, right?"
+
+@PLY_FEV:312 NAN 73e5b70d
+"{V7053}{W12}You're so mean, Big Bro!{Ec}"
+
+@PLY_FEV:313 PLY 4093680b
+"Yeah, yeah. Good luck in P.E."
+
+@PLY_FEV:314 PLY 0dac1adf
+(I ended up at the pool for no reason...)
+
+@PLY_FEV:315 PLY eb7ff0c0
+(Hm? Isn't that...)
+
+@PLY_FEV:316 PLY c6272253
+"Hey, Nana."
+
+@PLY_FEV:317 NAN 77d0c2b2
+"{V7054}{W12}Oh, Big Bro!"
+
+@PLY_FEV:318 PLY e65c1031
+"Swimming next?"
+
+@PLY_FEV:319 NAN 183bb7f0
+"{V7055}{W12}Yep!"
+
+@PLY_FEV:320 NAN a72188eb
+"{V7056}{W12}It's hot,{W30} so I'm going to swim as hard as I can~!"
+
+@PLY_FEV:321 PLY 170b838b
+"Hahaha, do your best."
+
+@PLY_FEV:322 NAN e874d1c5
+"{V7057}{W12}Okay!"
+
+@PLY_FEV:323 PLY 0daeab72
+"See you."
+
+@PLY_FEV:324 NAN d1775d45
+"{V7058}{W12}Oh, Big Bro."
+
+@PLY_FEV:325 PLY 012390ca
+"What is it?"
+
+@PLY_FEV:326 NAN 849a95bc
+"{V7059}{W12}Why were you at the pool?"
+
+@PLY_FEV:327 PLY caebc109
+"That's... I just stopped by on a whim."
+
+@PLY_FEV:328 NAN 4306f5d6
+"{V7060}{W12}I see.{W20} See you{Ec}"
+
+@PLY_FEV:329 PLY aa468b0a
+"Yeah, see you."
+
+@PLY_FEV:330 NAN 55667fc7
+"{V7061}{W12}Oh, Big Bro.{W40} {F3}Is your class{W15} having music{W5} next?"
+
+@PLY_FEV:331 PLY 650a069d
+"W-well, yeah."
+
+@PLY_FEV:332 NAN 03138dbd
+"{V7062}{W12}I see.{W10} Hey, where's your seat?{W30} Mine is{W20} right in front of the{W5} piano."
+
+@PLY_FEV:333 PLY 9958aa2a
+"That's because you're short, Nana."
+
+@PLY_FEV:334 NAN 0dde3828
+"{V7063}{W12}It is not.{W30} It's because I sing well!{Ec}"
+
+@PLY_FEV:335 PLY 314715c9
+"Is that so? Were you that good at singing..."
+
+@PLY_FEV:336 NAN 44f4788a
+"{V7064}{W12}Aww,{W20} you don't remember, Big Bro?{W30} We used to sing together in the bath all the time when we were little."
+
+@PLY_FEV:337 PLY 736658f1
+"D-did we..."
+
+@PLY_FEV:338 NAN b594917a
+"{V7065}{W12}We did!{W10} I was{W30} {F3}way better than you."
+
+@PLY_FEV:339 PLY e65be89f
+"I see. I think I sort of remember that."
+
+@PLY_FEV:340 NAN d7cab92c
+"{V7066}{W12}I'll sing for you again sometime{Ec}"
+
+@PLY_FEV:341 PLY 1910fd92
+"What?! In the bath?!"
+
+@PLY_FEV:343 NAN 19841541
+"{V7067}{W12}O-{W30}of course not!{W30} {F6}In my room, or the{W20} living room..."
+
+@PLY_FEV:344 PLY a3668234
+"Right, of course. Hahaha..."
+
+@PLY_FEV:345 NAN 3f939724
+"{V7068}{W12}Honestly...{W50} W-{W40}well, see you, Big Bro{F6}"
+
+@PLY_FEV:346 PLY f7da55ba
+"Ah, Nana..."
+
+@PLY_FEV:347 PLY 19698869
+(She's gone... Maybe I teased her too much.)
+
+@PLY_FEV:349 TOM 52a81816
+"{V7900}Oh, {Nm}.{W20} What's wrong?"
+
+@PLY_FEV:350 PLY 110dfc03
+"Nice weather again today, isn't it?"
+
+@PLY_FEV:351 TOM e9b453b7
+"{V7901}Fufu,{W30} it is.{W30} As the Swim Club adviser, I couldn't be happier."
+
+@PLY_FEV:352 PLY 05c22c8e
+"Even though the pool has a roof?"
+
+@PLY_FEV:353 TOM 87bb1e9d
+"{V7902}Even with a roof,{W20} it gets damp when it rains..."
+
+@PLY_FEV:354 PLY d905bbbf
+"I see."
+
+@PLY_FEV:355 TOM 90b28155
+"{V7903}Well, see you, {Nm}.{W30} Don't be late for class."
+
+@PLY_FEV:356 PLY ee4a211e
+"Yes... I'll be careful."
+
+@PLY_FEV:357 PLY ad8ca567
+(Uh-oh... class is about to start, and I suddenly desperately need the bathroom...)
+
+@PLY_FEV:358 PLY 21157b7d
+(Okay! I'll make a dash for it!)
+
+@PLY_FEV:360 TOM 54d01b6e
+"{V7904}Eek!{Sd}"
+
+@PLY_FEV:361 PLY 3bbd8112
+"Whoa!"
+
+@PLY_FEV:362 PLY bf50d18e
+"M-Ms. Kawada."
+
+@PLY_FEV:363 TOM c8e9d53d
+"{Nm}...{V7905} Honestly,{W30} running is{W10} dangerous."
+
+@PLY_FEV:364 PLY 2358f480
+"S-sorry."
+
+@PLY_FEV:365 TOM 1dd7d1bc
+"{V7906}And{W20} where are you going?{W30} {Eh}Class{W10} is about to start."
+
+@PLY_FEV:366 PLY f9e4be70
+"W-well, I need to go to the bathroom..."
+
+@PLY_FEV:367 TOM 34fbc6d4
+"{V7907}The bathroom..."
+
+@PLY_FEV:368 TOM 170c36a8
+"{V7908}Honestly!{W20} You should take care of that{W20} ahead of time, shouldn't you?"
+
+@PLY_FEV:372 PLY eec242c6
+"Ah... the bell... Ugh..."
+
+@PLY_FEV:374 TOM f252a991
+"{V7909}...Oh, all right.{W30} Go and get it over with."
+
+@PLY_FEV:375 PLY 524bf020
+"Yes."
+
+@PLY_FEV:376 SYS 52c25b88
+...And so I hurried to the bathroom and took care of business.
+
+@PLY_FEV:377 PLY 8edc440e
+(Ugh... I still haven't done my modern Japanese summer homework... I wonder if Ms. Kawada will wait for me...)
+
+@PLY_FEV:378 PLY 05fb1e61
+(Ms. Kawada is a kind, good teacher, but she's pretty scary when she's angry...)
+
+@PLY_FEV:379 TOM ae593b69
+"{Nm},{V7910} what are you doing?"
+
+@PLY_FEV:380 PLY 555342c9
+"Ah! M-Ms. Kawada!"
+
+@PLY_FEV:381 TOM a63c48d8
+"{V7911}W-{W30}what's wrong?{W10} Why so startled?"
+
+@PLY_FEV:382 PLY f069ddda
+"Ah... n-no, it's nothing..."
+
+@PLY_FEV:383 TOM 340db660
+"{V7912}Really?{W30} Sorry for speaking to you so suddenly."
+
+@PLY_FEV:384 TOM 70935770
+"{V7913}Are you{W10} thinking{W5} about something?"
+
+@PLY_FEV:385 PLY b94864fd
+"No, it's not really thinking, it's just..."
+
+@PLY_FEV:386 TOM 6b8dbd6f
+"{V7914}What is it?{W10} Tell me.{W20} If you need advice,{W5} I'm happy to help."
+
+@PLY_FEV:387 PLY d1c6bd1b
+(Ugh... with that look, she must think it's about love advice...)
+
+@PLY_FEV:388 PLY e98067d2
+"No, it's nothing."
+
+@PLY_FEV:389 TOM a4793ce9
+"{V7915}Honestly...{W40} if you start to say something and{W20} then don't, I only want to hear it more."
+
+@PLY_FEV:390 PLY d99bcdf2
+"Hahaha... sorry."
+
+@PLY_FEV:391 TOM dbe59717
+"{V7916}Fufu,{W30} if you ever want advice,{W20} just say so.{W20} {Ec}Well, see you."
+
+@PLY_FEV:392 PLY 01656428
+(If I told her I hadn't done my summer homework, she'd be furious...)
+
+@PLY_FEV:393 PLY 651648d6
+(Ah... isn't that who's standing in line over there...)
+
+@PLY_FEV:394 PLY d2d21591
+"Ms. Kawada."
+
+@PLY_FEV:395 TOM d3c803c4
+"{V7917}Oh, {Nm}."
+
+@PLY_FEV:396 PLY 8e7c1243
+"Are you having lunch now?"
+
+@PLY_FEV:397 TOM 14a00076
+"{V7918}Yes,{W5} I am."
+
+@PLY_FEV:398 PLY 142a9760
+"For a teacher, you often eat in the Cafeteria or on the Terrace, don't you?"
+
+@PLY_FEV:399 TOM 3625b8e1
+"{V7919}I do.{W50} {F7}It's more fun{W10} chatting with girls{W5} about{W20} clothes and love{W40} {F3}than talking shop with other teachers."
+
+@PLY_FEV:400 TOM f4dbfc0b
+"{V7920}Besides...{W50} the Staff Room{W10} is full of cigarette smoke..."
+
+@PLY_FEV:401 PLY f0824249
+"Does it bother you?"
+
+@PLY_FEV:402 TOM d0fc3675
+"{V7921}A little.{W70} {Eo}My desk{W10} is near the sofa..."
+
+@PLY_FEV:403 PLY c43a5153
+"Ah, that spot is practically a smoking area."
+
+@PLY_FEV:404 TOM b72b313e
+"{V7922}Exactly!{W40} It's a school,{W30} so I've proposed a total smoking ban many times, but it never{W20} goes anywhere..."
+
+@PLY_FEV:405 TOM 2740dd8f
+"{V7923}Fufu."
+
+@PLY_FEV:406 TOM 53db9bb8
+"{V7924}Well{W5} now,{W50} what shall I eat today?{W30} {Eo}You'd better line up soon, {Nm},{W20} or the popular menu items will sell out."
+
+@PLY_FEV:407 PLY eeb0c59a
+"R-right. Oh no!"
+
+@PLY_FEV:408 TOM 775e075d
+"{V7925}Fufu,{W30} see you."
+
+@PLY_FEV:409 TOM bcac1d9c
+"{V7926}Oh, {Nm}."
+
+@PLY_FEV:410 TOM 2a2b153a
+"{V7927}What are you doing?"
+
+@PLY_FEV:411 PLY b2569454
+"Oh... um, nothing in particular, just wandering around..."
+
+@PLY_FEV:412 TOM e3cbf6d3
+"{V7928}Is that so?{W40} Wandering is fine,{W20} but be back in class before the bell rings."
+
+@PLY_FEV:413 TOM afa79ec9
+"{V7929}Is that so?{W45} Wandering is fine,{W20} but it's almost time{W5} to head home."
+
+@PLY_FEV:414 PLY 20136e7d
+"You seem to be in a good mood. Did something good happen?"
+
+@PLY_FEV:415 TOM 7b0b2c48
+"{V7930}Can you tell?"
+
+@PLY_FEV:416 PLY d325f40d
+"With a smile that big, of course."
+
+@PLY_FEV:417 TOM 07408cb0
+"{V7931}Fufu,{W40} just now,{W30} {F7}a Year 1 girl{W45} praised me{W10} for being young{W5} and pretty.{F3}"
+
+@PLY_FEV:418 PLY 47c9543b
+"Oh, really?"
+
+@PLY_FEV:419 TOM 2a0fd0f9
+"{V7932}She asked, how can I become like you, Ms. Kawada?{F9} Hehe,{W30} {W20}it made me blush."
+
+@PLY_FEV:420 PLY 2a2c4cdf
+(Well, she really is young and pretty...)
+
+@PLY_FEV:421 PLY 6cce93fd
+"So what did you tell her?"
+
+@PLY_FEV:422 TOM ed78454a
+"{V7933}Naturally,{W40} always keep smiling,{W10} I said.{Ec}"
+
+@PLY_FEV:423 PLY 9e4068da
+"A smile, huh."
+
+@PLY_FEV:424 TOM 3fec8ac3
+"{V7934}Right.{W30} Come on,{W5} {Nm},{W10} smile, smile."
+
+@PLY_FEV:425 PLY 5d2888c6
+"Griiin..."
+
+@PLY_FEV:427 TOM 95be0a0b
+"{V7935}That's it.{W30} {Eo}Fufu,{W30} something good will surely happen."
+
+@PLY_FEV:428 TOM 3751fb0d
+"{V7936}Well, see you."
+
+@PLY_FEV:429 PLY b4be2667
+"Ah... yes. Excuse me."
+
+@PLY_FEV:430 PLY 5079b33f
+"A smile, huh... Griiin..."
+
+@PLY_FEV:431 TOM 9c79393d
+"{V7937}Oh, {Nm}. What are you doing?"
+
+@PLY_FEV:432 PLY 5e4c4af5
+"What about you, Ms. Kawada? What are you doing in the Schoolyard?"
+
+@PLY_FEV:433 TOM 45f3eee8
+"{V7938}I left something in my car,{W30} so I went to get it."
+
+@PLY_FEV:434 PLY a3a76804
+"Huh? You drive to work?"
+
+@PLY_FEV:435 TOM 298d612e
+"{V7939}I do.{W35} Didn't you know?"
+
+@PLY_FEV:436 PLY ff9b7712
+"No. What kind of car is it?"
+
+@PLY_FEV:437 TOM c8d11ea7
+"{V7940}A small French car.{W40} {F7}It's{W5} yellow,{W20} and so cute.{F3}"
+
+@PLY_FEV:438.1 - 95e73b11
+{Ti0}- It suits you perfectly／- Overreaching on a low salary...
+
+@PLY_FEV:439 PLY d5c9d03e
+"It suits you perfectly."
+
+@PLY_FEV:440 TOM 23d2d10a
+"{V7941}Fufu,{W30} {Ec}thank you."
+
+@PLY_FEV:441 TOM 6b05840d
+"{V7942}If I get the chance,{W30} shall I give you a ride sometime?"
+
+@PLY_FEV:442 PLY dbc89e58
+"Really? Please do."
+
+@PLY_FEV:443 TOM e6fa0687
+"{V7943}Fufu."
+
+@PLY_FEV:444 PLY 1a689c72
+"Overreaching on a low salary..."
+
+@PLY_FEV:445 TOM ffbf95f6
+"{V7944}Isn't that the truth.{W50} The inspections are expensive,{W45} {F6}and the fuel economy is{W5} lacking compared{W5} to Japanese cars..."
+
+@PLY_FEV:446 TOM 94619b00
+"{V7945}On top of that,{W40} it breaks down over little things all the time.{Sd}"
+
+@PLY_FEV:447 PLY 0325e3f2
+"Is that so?"
+
+@PLY_FEV:448 TOM 14bd25a6
+"{V7946}But{W30} that's its charm, you know,{W20} the cute part of it.{Ec}"
+
+@PLY_FEV:449 TOM 51d41d87
+"{V7947}Well, see you, {Nm}."
+
+@PLY_FEV:450 PLY 5ec4b625
+(Ah... isn't that Ms. Kawada over there...)
+
+@PLY_FEV:452 PLY c2b6cfbc
+"Ms. Kawada, what are you doing?"
+
+@PLY_FEV:453 TOM ee3dfa9e
+"{V7948}Oh, {Nm}."
+
+@PLY_FEV:455 TOM c7930177
+"{V7949}I was looking at the distant scenery."
+
+@PLY_FEV:456 PLY 27fb006f
+"The distant scenery?"
+
+@PLY_FEV:457 TOM 63021e8b
+"{V7950}Yes.{W40} {Eo}I was going over the curriculum guidelines{W5} and{W30} my eyes got a little tired..."
+
+@PLY_FEV:458 PLY c480d85a
+"Ah, they say looking far away helps."
+
+@PLY_FEV:459 TOM 25615e8a
+"{V7951}Yes.{W50} I feel much better now."
+
+@PLY_FEV:460 PLY c0a50c2e
+"...Being a teacher is hard work too."
+
+@PLY_FEV:461 TOM c28100e3
+"{V7952}Fufu,{W40} what's this?{W30} {Eo}No student has ever said that to me before."
+
+@PLY_FEV:462 TOM 6a0f1c39
+"{V7953}You can be kind, can't you, {Nm}."
+
+@PLY_FEV:463 PLY 9f680212
+"N-not really..."
+
+@PLY_FEV:464 TOM 56f24ad5
+"{V7954}Fufu,{W40} thank you,{W10} {Eo}for thinking of me."
+
+@PLY_FEV:465 TOM 0d88c1e8
+"{V7955}Now then,{W30} back to{W5} class{W5} with you.{W55} {F3}Your next lesson{W5} is about to start{Ec}."
+
+@PLY_FEV:466 PLY a450dba4
+"Okay."
+
+@PLY_FEV:467 TOM 3408aa0b
+"{V7956}Oh, {Nm}."
+
+@PLY_FEV:468 PLY 4b67f9b4
+"Are you off to club activities?"
+
+@PLY_FEV:469 TOM ab254a2a
+"{V7957}That's right, Swim Club practice. I'm the adviser, after all."
+
+@PLY_FEV:470 PLY a5c770ad
+(I see... So she's going to change into her swimsuit now. My heart's pounding...)
+
+@PLY_FEV:471 TOM 7a42cac6
+"{V7958}Are you heading home already, {Nm}?"
+
+@PLY_FEV:472 PLY d4451d7a
+"Yes. I'm about to leave."
+
+@PLY_FEV:473 TOM c8b66827
+"{V7959}Get home safely. See you."
+
+@PLY_FEV:474 TOM 881eb2b5
+"{V7960}Oh, {Nm}."
+
+@PLY_FEV:475 PLY 206e9908
+"Are you looking for something to read?"
+
+@PLY_FEV:476 TOM 3b58ca94
+"{V7961}No,{W40} not that.{W20} I was helping a Year 3 student{W15} with entrance exam studying."
+
+@PLY_FEV:477 PLY 14366dc5
+"I-I see... That sounds tough."
+
+@PLY_FEV:478 TOM ced4ee15
+"{V7962}Not at all.{W40} When a student's grades go up,{W30} it makes me happy too."
+
+@PLY_FEV:479 PLY aeb7b3b5
+"I see..."
+
+@PLY_FEV:480 TOM ddd2c0f7
+"{V7963}Still, though..."
+
+@PLY_FEV:481 TOM 4f850d26
+"{V7964}"That sounds tough" isn't the right response, {Nm}."
+
+@PLY_FEV:482 TOM 83b423aa
+"{V7965}If you take this lightly,{W15} you'll struggle{W5} this time next year,{W25} {Ec}so start studying hard{W10} now..."
+
+@PLY_FEV:483 PLY fc523cda
+"Eep... Sensei, excuse me!"
+
+@PLY_FEV:484 TOM 83c3b85f
+"{V7966}Hey! Wait!{W40} {F8}I'm not finished talking to you!"
+
+@PLY_FEV:485 SYS 8ecbf2ff
+And so I ran away from Ms. Kawada.
+
+@PLY_FEV:486 PLY c99c3ae5
+(...Huh? The nurse isn't here...)
+
+@PLY_FEV:487 TOM 7d6cae7f
+"{V7967}Zzz,{W180} zzz..."
+
+@PLY_FEV:488 PLY 358ac6a6
+(Hm? Someone's breathing in their sleep in the back... Who is it...)
+
+@PLY_FEV:489 PLY f31c2e12
+"Ah...!"
+
+@PLY_FEV:490 PLY 61ef70e1
+(Ms. Kawada. Is she feeling unwell...)
+
+@PLY_FEV:491 TOM 3ec8f489
+"{V7968}Mmm... {Nm}..."
+
+@PLY_FEV:492 PLY 71aecc19
+(What?! M-my name...? What kind of dream is she having... Could it be...)
+
+@PLY_FEV:501 PLY 13bffb9d
+"Ms. Kawada..."
+
+@PLY_FEV:502 TOM 963057f0
+"{V7969}{Ec}Fufu,{W60} don't call me Ms. Kawada.{W40} {Eh}{Fm4}Call me... Tomoko{Fm3}."
+
+@PLY_FEV:503 PLY 20369a9c
+"T-Tomoko... san."
+
+@PLY_FEV:504 TOM 9f62bc94
+"{V7970}{F4}{Ec}No,{W40} {Eh}{Fe4m3}that's not good enough. {Fm4}{W30}To,{W10} mo,{W10} ko,{W30} {Fm3}just like that."
+
+@PLY_FEV:505 PLY f52795bb
+"T-Tomoko..."
+
+@PLY_FEV:506 TOM 485a74bd
+"{V7971}{Ec}{F3}Fufu,{W40} well done."
+
+@PLY_FEV:507 TOM 0762895d
+"{V7972}{Eh}{Fm4}Now I'll give you a reward{F3}.{W60} {Fm3}Come on,{W50} {F3}close your eyes."
+
+@PLY_FEV:508 PLY 21e4acd1
+"What?!"
+
+@PLY_FEV:509 TOM 81fc7f8f
+"{V7973}{Ec}{Fe3m4}A grown-up kiss...{W60} {Eh}{F3}is what I'll give you."
+
+@PLY_FEV:510 PLY af2b8ebd
+"M-Ms. Kawada..."
+
+@PLY_FEV:513 PLY 8aaf0682
+(As if that would happen. Hahaha...)
+
+@PLY_FEV:514 PLY be3a6220
+(Ms. Kawada... if she has a fever, I should cool her down... The thermometer... Ugh, too much trouble.)
+
+@PLY_FEV:515.1 - e455b486
+{Ti0}- Forehead to forehead...／- Go all out, with my lips!
+
+@PLY_FEV:516 PLY a66ffa65
+(Forehead to forehead...)
+
+@PLY_FEV:517 PLY 2c4d759c
+(Go all out, with my lips! ...Yeah, like I could do that. Just forehead to forehead, normally...)
+
+@PLY_FEV:518 TOM 2b2f3001
+"{V7974}Mm..."
+
+@PLY_FEV:519 PLY 27688c6f
+(No fever, it seems...)
+
+@PLY_FEV:520 PLY 6a228046
+"Ah!"
+
+@PLY_FEV:521 TOM 04aafc08
+"{V7975}Ah, {Nm}!"
+
+@PLY_FEV:523 TOM c75e2bf8
+"{V7976}{Fe8m4}W-{W30}what are you doing there?"
+
+@PLY_FEV:524 PLY 1d2a46a7
+"N-nothing. You were sleeping, Ms. Kawada, so I wondered if you had a fever..."
+
+@PLY_FEV:525 TOM 7ecc1c42
+"{V7977}{F4}Oh...{W30} {E}{Fe9m6}I-I see. {Ec}{F3}{W60}Thank you for worrying about me."
+
+@PLY_FEV:526 TOM f457a0bd
+"{V7978}{Eo}{Fe9m3}But I'm fine.{W40} I just got sleepy."
+
+@PLY_FEV:527 TOM a71cdf50
+"{V7979}These past few days,{W40} {E}{Fe9m3}I've been up late checking summer vacation homework."
+
+@PLY_FEV:528 PLY 347ee467
+"I see... That sounds tough."
+
+@PLY_FEV:529 TOM cb2120ce
+"{V7980}{Ec}It is...{W90} {Eo}I was even grading in my dream just now."
+
+@PLY_FEV:530 TOM a421f8a6
+"{V7981}Oh! {Nm},{E}{Fe8m3}{W10} you still haven't handed in your homework, have you?!{W30} {Fe8m4}You're the only one in 2-A!"
+
+@PLY_FEV:531 PLY 92833d57
+"Uh-oh. Excuse me, Ms. Kawada!"
+
+@PLY_FEV:532 TOM a10e1a26
+"{V7982}Hey!{W20} Get back here!"
+
+@PLY_FEV:533 PLY b13fa073
+(That was close... Ms. Kawada is scary when she's angry. Running is best.)
+
+@PLY_FEV:535 PLY 802c9fd5
+(At lunch break Hiiragi is going to teach me how to talk to girls behind the school...)
+
+@PLY_FEV:536.1 - c2499863
+{Ti0}- Right! Behind the school／- I get cold feet when it comes down to it...
+
+@PLY_FEV:538 PLY cc90eb2c
+(...I get cold feet when it comes down to it. Sorry, Hiiragi, but I'll skip it.)
+
+@PLY_FEV:539 PLY ec9ceb19
+(I can just apologize properly later...)
+
+@PLY_FEV:540 PLY d7e45478
+(Behind the school, behind the school, let's see...)
+
+@PLY_FEV:541 AKI 2accd510
+"{V0010}Oh,{W30} you made it, {Nm}."
+
+@PLY_FEV:542 PLY 77c9fb2b
+"Yeah."
+
+@PLY_FEV:543 PLY 662bb778
+"As always, no one's around behind the school."
+
+@PLY_FEV:544 AKI afc4c984
+"{V0011}Right.{W45} {Ec}Perfect for{W3} embarrassing talk."
+
+@PLY_FEV:545 PLY 4fa555c8
+"So, let's get right to the tips for talking to girls..."
+
+@PLY_FEV:546 AKI 0b61797c
+"{Nm},{V0012} hold on,{W10} don't rush."
+
+@PLY_FEV:547 AKI 02dde88d
+"{V0013}Before I teach you{W5} the tips,{W40} we start with{W15} how important{W3} the place is."
+
+@PLY_FEV:548 PLY 6f138af3
+"The place?"
+
+@PLY_FEV:549 AKI 66ef160a
+"{V0014}Right."
+
+@PLY_FEV:550 AKI 68942f1d
+"{V0015}When you talk{W3} to a girl,{W60} for ordinary{W2} chat any place is fine, but for something{W30} more intimate..."
+
+@PLY_FEV:551 AKI 575feea8
+"{V0016}In other words,{W40} when you want to seize your chance...{W30} {F9}wouldn't people around be{W10} a nuisance?"
+
+@PLY_FEV:552 PLY d26de510
+"Y-yeah, they would."
+
+@PLY_FEV:553 AKI e9cc43fb
+"{V0017}So{W45} when you talk to a girl,{W20} choosing a place where no one's around is one trick."
+
+@PLY_FEV:554 PLY ba7339d2
+"A place where no one's around... Like where?"
+
+@PLY_FEV:555 AKI f0a323f3
+"{V0018}As you can see,{W15} behind the school{W30} {F3}{Eo}is always empty."
+
+@PLY_FEV:556 AKI d308a656
+"{V0019}There are other places{W5} that are empty depending on the time of day,{W20} so{W20} first,{W5} look around the school carefully."
+
+@PLY_FEV:557 PLY 098940da
+"...I'd never thought about that."
+
+@PLY_FEV:558 AKI 7f52ca07
+"{V0020}Hahaha,{W70} that's so like you, {Nm}."
+
+@PLY_FEV:559 AKI 66177f42
+"{V0021}Of course,{W25} if you only pick{W3} empty places,{W30} you're just a suspicious guy, so be careful."
+
+@PLY_FEV:560 PLY 00daeddf
+"Hahaha, right."
+
+@PLY_FEV:561 AKI 18606626
+"{V0022}Now,{W30} next{W5} are the talking{W2} tips..."
+
+@PLY_FEV:562 AKI 69ff659f
+"{V0023}I put them together in this memo.{W5} {Ec}Take a look."
+
+@PLY_FEV:563 PLY 6120c506
+"Let's see..."
+
+@PLY_FEV:564 PLY d62676fe
+"...I see, this is really helpful."
+
+@PLY_FEV:565 AKI 7eab830e
+"{V0024}I also{W30} wrote down tips{W3} for every{W10} situation I could think of..."
+
+@PLY_FEV:566 AKI fce9c6d2
+"{V0025}When you're thrown by{W2} a new situation,{W5} open it up.{W40} It should{W3} help."
+
+@PLY_FEV:567 PLY 2de3d6cd
+"You're a lifesaver, Hiiragi... Thanks."
+
+@PLY_FEV:568 AKI 08256e0d
+"{V0026}Don't mention it,{W10} it's nothing."
+
+@PLY_FEV:569 AKI f3f5fb5a
+"{V0027}Later,{W15} good luck."
+
+@PLY_FEV:576 PLY 973e714e
+(...Okay, I'll do my best!)
+
+@PLY_FEV:591 PLY c392dee2
+(There's some surprisingly useful stuff written in here...)
+
+@PLY_FEV:592 PLY 70e7bd02
+(Now, which section should I look at...)
+
+@PLY_FEV:594 - 2cead1b3
+I'll look at it slowly later
+
+@PLY_FEV:595 - 96ed0089
+I'll look at the rest later
+
+@PLY_FEV:596 - 7db6886d
+Okay, done checking!
+
+@PLY_FEV:597 - 6b60ef88
+It was helpful
+
+@PLY_FEV:599 - 5d79e667
+{Ti0}- Matching 1    - Matching 2／- Topic Bag    - Area Select 1／- Area Select 2    -

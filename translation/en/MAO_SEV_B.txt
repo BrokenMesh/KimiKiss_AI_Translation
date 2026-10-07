@@ -1,0 +1,1097 @@
+# MAO_SEV_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_SEV_B:30 PLY 9ff304c9
+(Huh? Isn't that... Mao?)
+
+@MAO_SEV_B:33 PLY d6b0e750
+"Hey, Mao... Ah, she's gone. Is she off to another classroom?"
+
+@MAO_SEV_B:34 PLY bf8ca46e
+(Huh? She dropped something.)
+
+@MAO_SEV_B:44 PLY 5989cc50
+(A textbook. She's so careless.)
+
+@MAO_SEV_B:45 PLY 7a13279f
+(Still, this textbook has no creases at all. It looks brand new.)
+
+@MAO_SEV_B:46 PLY 6d37b740
+(Anyway, I'll take it to her...)
+
+@MAO_SEV_B:52 PLY 439f97f3
+"Mao."
+
+@MAO_SEV_B:62 MAO 87e34f51
+"{V0218}Huh?{W40} {F3}Oh, {Nn},{W10} did you want something?"
+
+@MAO_SEV_B:63 PLY 05946145
+"Didn't you drop a textbook just now? I brought it."
+
+@MAO_SEV_B:65 MAO 3260545b
+"{V0219}What?!"
+
+@MAO_SEV_B:66 PLY b73ffd63
+"Here."
+
+@MAO_SEV_B:78 MAO b8838a6c
+"{V0220}Eek!"
+
+@MAO_SEV_B:84 MAO fddddc75
+"{V0221}W-{W15}why{W5} do you,{Nn},{W15} have my textbook?!"
+
+@MAO_SEV_B:85 PLY ef50f6c7
+"Like I said, you dropped it."
+
+@MAO_SEV_B:86 MAO 0f7e8cf1
+"{V0222}{Sp}I-{W30}it slipped out{W2} of{W2} its{W2} cover!{Fe2}{Ec}{W10} D-{W5}{Ti1}don't{W2} come{W2} near{W2} me!"
+
+@MAO_SEV_B:87 PLY 98bf1f16
+"Don't come near you? But then I can't give it to you..."
+
+@MAO_SEV_B:91 MAO cc5dcc71
+"{V0223}Eek!{W20} {Fe9}{Ec}I said don't come near me!"
+
+@MAO_SEV_B:92 PLY 8825eb82
+"Then how am I supposed to give it to you?"
+
+@MAO_SEV_B:93 MAO 30848ecd
+"{V0224}H-{W20}here.{W10} Put this vinyl cover on it!"
+
+@MAO_SEV_B:94 PLY f013a154
+"Like this?"
+
+@MAO_SEV_B:95 MAO f369bec9
+"{V0225}Yes, that's{W10} it.{W40} {F9}{Ec}...{W10}Phew,{W45} I feel calmer."
+
+@MAO_SEV_B:96 PLY 69b2769e
+"Here, Mao, your textbook."
+
+@MAO_SEV_B:97 MAO 22c39bc6
+"{V0226}{W10}Thanks.{W25} You saved me."
+
+@MAO_SEV_B:98 PLY 1c513dd6
+"Could it be that you can't touch textbooks directly?"
+
+@MAO_SEV_B:100 MAO 84eef387
+"{V0227}W-{W75}well, yeah."
+
+@MAO_SEV_B:101 PLY 19726852
+"No wonder it looks brand new. But then you can't really study, can you?"
+
+@MAO_SEV_B:102 MAO 835c7834
+"{V0228}{W10}Study?{W40} {Fe6}Who{W5} cares about that."
+
+@MAO_SEV_B:103 PLY d12b2618
+"Who cares? You were so devoted to studying back in middle school."
+
+@MAO_SEV_B:105 MAO d573466d
+"{V0229}Haaah...{W81} That's{W10} exactly{W10} why I ended up like this."
+
+@MAO_SEV_B:106 PLY 122df4f6
+"Huh?"
+
+@MAO_SEV_B:110 MAO 9d5f55fa
+"{V0230}Oh,{W37} class{W1} is{W1} about to start.{W28} Come on, off you go.{W25} {Ec}Thanks for bringing my textbook."
+
+@MAO_SEV_B:111 PLY 0fefba85
+"Ah... okay. See you."
+
+@MAO_SEV_B:114 PLY 72f7edde
+(Mao, what happened to you...?)
+
+@MAO_SEV_B:116 PLY 24efd538
+(Well, time to head home...)
+
+@MAO_SEV_B:117 MAO 60d5ecca
+"{Nn},{V0231} you're still here."
+
+@MAO_SEV_B:118 PLY baa292c1
+"Oh, Mao. I was just about to go home."
+
+@MAO_SEV_B:119 MAO bbc93ceb
+"{V0232}{W10}{Ec}I see,{W35} {F3}{Eo}do you{W1} have{W40} anything to do?"
+
+@MAO_SEV_B:120 PLY a44b1d87
+"No, why?"
+
+@MAO_SEV_B:121 MAO c692d100
+"{V0233}...Then,{W50} {Fe6}could you{W5} give me some advice{Fe3}?"
+
+@MAO_SEV_B:122 PLY da783cb5
+"Advice? You want advice from me?"
+
+@MAO_SEV_B:123 MAO 7a571efd
+"{V0234}{W5}{Ec}{W5}{F9}{Eo}Is that strange?"
+
+@MAO_SEV_B:124 PLY f893c76d
+"No, it just hardly ever happens..."
+
+@MAO_SEV_B:125 MAO 631a2801
+"{V0235}{Nn},{W3}{W1}{W1}{W1}{W2}{W1}{W1}{W1} you're the only one I can{W1} ask,{W50} {Ec}please."
+
+@MAO_SEV_B:126 PLY 1781297b
+(Mao seems really worried about something...)
+
+@MAO_SEV_B:127 PLY 9b856156
+"Sure, I guess?"
+
+@MAO_SEV_B:128 MAO 730c5744
+"{V0236}...{W10}Then{W20} come to the Library."
+
+@MAO_SEV_B:129 PLY c6dde88f
+"The Library?"
+
+@MAO_SEV_B:130 PLY cee751b7
+"Mao, what's this advice you need in a place like this?"
+
+@MAO_SEV_B:131 MAO 16805258
+"{V0237}{B}{r}{t}{1}{2}{0}{W5}...{W5}Um,{W1} {Nn}.{W83}{Ec}{W5}{F9}{Eo} I{W30} want{W30} you{W1} {F6}{Ts1}...{W50}{Ec}...{W50}{Eh}...{W50}...{W50}{Ec}to me{Ts2}"
+
+@MAO_SEV_B:132 PLY 8153d8d1
+"Huh? I can't hear you."
+
+@MAO_SEV_B:133 MAO 8bbde2aa
+"{V0238}{W35}Geez...{W40} fine.{W50} {Ec}{Fe8}{Ti1}I'll{W4} say{W4} it{W4} properly.{W4}{W4}{W4}{W4}"
+
+@MAO_SEV_B:135 MAO 5ad82c23
+"{V0239}{W10}I want you to{W95} {Ec}{W5}{Fe9}{Eo}teach me how to study!"
+
+@MAO_SEV_B:136 PLY 9d492cbe
+"What?!"
+
+@MAO_SEV_B:137 PLY 9b5ff45f
+"Study... me, teaching you, Mao?"
+
+@MAO_SEV_B:138 MAO 2c31f4ae
+"{V0240}{W10}Yes."
+
+@MAO_SEV_B:139 PLY 7b1d3eff
+"I-I can't do that!"
+
+@MAO_SEV_B:140 PLY 03b558fe
+"You were the super famous bookworm in middle school, with grades I could never even touch..."
+
+@MAO_SEV_B:141 MAO cfadeed1
+"{V0241}{W10}That's{W4} why,{W40} {Ec}it's{W10} actually{W4} my{W4} trauma~!"
+
+@MAO_SEV_B:142 PLY 2eeb6f75
+"Trauma? Why?"
+
+@MAO_SEV_B:143 MAO 1055e093
+"{Nn},{V0242} bring me a study guide{W15} from the shelf."
+
+@MAO_SEV_B:144 PLY 4ddd6708
+"A study guide? Okay..."
+
+@MAO_SEV_B:145 PLY e30735c3
+(Let's see... will this one do?)
+
+@MAO_SEV_B:146 PLY f6b0e651
+"Here. A study guide for the hardest university entrance exams."
+
+@MAO_SEV_B:147 MAO ec0fc7de
+"{V0243}{Sp}{W10}Eeeeeek!{W10} {Ec}{W5}{Fe9}{Eo}Why{W1} such{W1} a{W1} hard{W1} one{W1} right{W3} away?!{W10} {Sd}{P5}It{W2} itch{W2}es!{W2} It{W2} itch{W2}es!{W5} {Ec}Hives!{Eo} I'm{W2} getting{W3} hives~!{W3}{W3}{W3}{W3}{W1}"
+
+@MAO_SEV_B:148 PLY 367971dd
+"W-whoa! Mao!"
+
+@MAO_SEV_B:149 MAO 05d5a0e1
+"{V0244}{W10}Put{W1} it back!{W24} {Ec}Put it back~!"
+
+@MAO_SEV_B:150 PLY 86593398
+"E-eep..."
+
+@MAO_SEV_B:159 PLY 2df4f6e1
+"Mao, I put it back."
+
+@MAO_SEV_B:160 MAO c64bca12
+"{V0245}Uuugh,{W60} {Ec}thanks.{W53} {F6}{Eo}...That{W10} was{W10} awful.{W10}{W10}"
+
+@MAO_SEV_B:161 PLY 9dea6abc
+"You reacted like that the other day too. What's going on?"
+
+@MAO_SEV_B:162 MAO 2d3b146c
+"{V0246}Uuu...{W140}{Eo} It's{W10} a{W10} tale{W7} of{W6} tears{W65} {Eh}to{W6} hear{W6} and{W6} tears{W6} to{W6} tell.{W6}"
+
+@MAO_SEV_B:175 MAO 5d2fc192
+"{V0247}{W5}{Nn},{W5} as you know,{W55}{W4}{W4}{W4}{W4}{W4} in middle school,{W40}{W20}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4} I was{W4} a{W4} super{W4} serious,{W20}{W20}{W1}{W1} {W20}{W5}{W5}{W10}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1} study-crazy girl aiming high."
+
+@MAO_SEV_B:176 PLY e3f8be68
+"Yeah, that's right."
+
+@MAO_SEV_B:177 MAO e230d3cb
+"{V0248}{W10}For{W5} all{W5} three{W5} years{W35} my{W5} grades{W4} were{W4} always{W4} at{W5} the{W5} top!{W45} Neither{W4} I,{W45} nor{W4} anyone{W4} around{W4} me,{W35} ever{W4} doubted{W4} I'd{W4} pass.{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W7}"
+
+@MAO_SEV_B:178 PLY 754117e7
+"Yeah. I thought so too."
+
+@MAO_SEV_B:179 MAO f02ab7d5
+"{V0249}...But{W70} I{W4} failed.{W95} Do{W4} you{W4} know{W4} why?{W4}"
+
+@MAO_SEV_B:180 PLY 697e3013
+"No, I thought it'd be rude to bring it up, so I never asked anyone."
+
+@MAO_SEV_B:181 MAO f79a6401
+"{V0250}{W20}I see.{W60} You're kind."
+
+@MAO_SEV_B:182 MAO e33c71e0
+"{V0251}{W10}But{W40} I{W2} don't{W2} think{W2} anyone{W2} could{W2} have{W2} answered.{W2} {W85}They{W2} felt{W2} too{W2} sorry{W2} for{W2} me,{W20} and{W2} my{W2} parents{W2} had{W2} sealed{W2} their{W2} lips.{W2}{W2}{W2}"
+
+@MAO_SEV_B:185 MAO edee9c02
+"{V0252}...{W10}The truth{W6} is,{W10} on{W75} exam{W6} day{W6} I{W53} came down with the flu{W28} and had a fever of 40 degrees."
+
+@MAO_SEV_B:186 PLY 1a84e001
+"What?! Is that what happened?!"
+
+@MAO_SEV_B:189 MAO 35aca104
+"{V0253}{W10}Yes,{W4} it{W4} was~!{W40} After{W4} all{W4} that,{W45} all{W4} that{W4} studying,{W57} I{W3} even{W3} marked{W3} the{W3} wrong{W3} answer{W3} boxes{W3} one{W3} by{W3} one...{W4}{W4}{W4}{W4}{W4}{W4}{W3}{W3}{W3}"
+
+@MAO_SEV_B:190 MAO c8433ed9
+"{V0254}{W10}And{W2} in{W2} the{W2} interview{W40} when{W1} they{W2} asked,{W2} 'What{W2} do{W2} you{W2} like{W2} about{W2} this{W10} school?'{W70} I{W2} answered{W2} 'I{W2} don't{W2} know'...{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@MAO_SEV_B:191 MAO 79ad01c5
+"{V0255}{W10}It{W6} was{W60} a{W10} total{W10} disaster...{W90} Give{W6} me{W6} back{W6} my{W12} youth~!{W12}"
+
+@MAO_SEV_B:192 MAO 5393a8da
+"{V0256}{W10}Ever{W2} since,{W35} I{W2} break{W2} out in hives just from holding a textbook.{W10} {Ec}It's a severe study allergy..."
+
+@MAO_SEV_B:193 PLY c14253cf
+"So that's what happened..."
+
+@MAO_SEV_B:194 MAO e407ff19
+"{V0257}{W10}But{W1} you{W1} know,{W100} {F6}it doesn't{W70} {Eh}really matter{W10} anymore if I study. {W70}{Ec}But..."
+
+@MAO_SEV_B:195 PLY b2207f21
+"But?"
+
+@MAO_SEV_B:196 MAO 444ce484
+"{V0258}{W15}I{W5} want{W5} to{W5} go{W2} to{W2} college~!{W5}{W2}{W2}{W2}"
+
+@MAO_SEV_B:197 PLY 697e5c4d
+"That's contradictory."
+
+@MAO_SEV_B:198 MAO 9d2a2584
+"{V0259}{W10}Well,{W30} don't you want to experience the glorious campus life?"
+
+@MAO_SEV_B:199 MAO 6b213d25
+"{V0260}{W10}Skipping lectures,{W20} {Fe2}joining clubs,{Fe7} working part-time jobs,{W10} {Fe2}agonizing{W2} over{W2} job{W1} hunting{W2}.{W2} I{W1} want{W1} to{W1} do{W1} all that!"
+
+@MAO_SEV_B:200 PLY cd35487c
+"I think you can agonize over job hunting even now..."
+
+@MAO_SEV_B:201 MAO e6ef6222
+"{V0261}Anyway!"
+
+@MAO_SEV_B:203 MAO ae83a8cc
+"{V0262}{W10}I{W2} want{W2} to{W2} cure{W2} my{W2} study{W2} allergy!{W25} {Ec}{W5}{F3}{Eo}Because{W20} once{W1} I{W1} cure{W1} it,{W1} I{W2} can{W2} go{W3} to{W3} college.{W3}{W3}{W3}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@MAO_SEV_B:204 PLY 665c073b
+(True, with Mao's brains, she could get into some university even if she started studying now. All right...)
+
+@MAO_SEV_B:205 PLY c711ea16
+"Okay. I'll help."
+
+@MAO_SEV_B:206 MAO 348d81e7
+"{V0263}{W10}Really?{W30} {Ec}Thank you!"
+
+@MAO_SEV_B:207 PLY 555b2cf6
+"But I don't know what to do either, so let me watch for a while to see how bad the allergy is."
+
+@MAO_SEV_B:208 MAO c711a2d3
+"{V0264}{W10}Sure.{W15} {Fe8}Watch{W5} closely."
+
+@MAO_SEV_B:209 PLY e512d139
+"Yeah. I hope it goes well..."
+
+@MAO_SEV_B:210 MAO 72dad8bf
+"{V0265}You'll do fine, {Nn}."
+
+@MAO_SEV_B:211 MAO bff03497
+"{V0266}{W10}After{W2} all,{W20} you've{W3} known{W2} me{W16} since{W2} I{W2} was{W2} little.{W2}{W2}"
+
+@MAO_SEV_B:212 PLY bad3355d
+"Yeah..."
+
+@MAO_SEV_B:213 MAO 23f31da6
+"{V0267}{W5}Then,{W40} I'm counting on you, {Nn}."
+
+@MAO_SEV_B:214 PLY 29758fa8
+"I'll give it a try."
+
+@MAO_SEV_B:215 MAO 9ec1382d
+"{V0268}{W10}Oh,{W40} keep my study allergy{W25} {Ec}a secret from everyone,{W40} {Eo}okay?"
+
+@MAO_SEV_B:216 PLY f3e6556e
+"Okay, got it."
+
+@MAO_SEV_B:217 MAO a200f6ba
+"{V0269}{W10}Thanks.{W41} {Ec}See you."
+
+@MAO_SEV_B:218 PLY 223ce72a
+(This has turned into a big deal. ...But I have to do something...)
+
+@MAO_SEV_B:221 PLY 895f6896
+(Right, time to launch Operation Cure Mao's Study Allergy!)
+
+@MAO_SEV_B:222 PLY 5659d9fe
+(I wonder if Mao's still here...)
+
+@MAO_SEV_B:223 PLY 3591e4b6
+(Ah, that back view... There she is.)
+
+@MAO_SEV_B:224 PLY 77f0011f
+(Good, almost nobody's left in the classroom either. It's my chance! Operation start!)
+
+@MAO_SEV_B:225 PLY c131a36b
+(I'll go around to the front, and...)
+
+@MAO_SEV_B:231 PLY f17d7e54
+"Hi, Ma-o! Hello!"
+
+@MAO_SEV_B:232 MAO d02743f0
+"{V0270}{W10}Wow~,{W5} so{W5} cute!{W60} Hel{W2}lo,{W2} Mr.{W10} Bear.{W5}{W2}{W2}"
+
+@MAO_SEV_B:233 MAO 5634c7bd
+"{V0271}{W10}What is it?{W25} Do{W6} you{W4} need{W4} something{W4} from{W4} me?"
+
+@MAO_SEV_B:234 PLY 50d73c07
+"Um, Mr. Bear wants to talk with Mao."
+
+@MAO_SEV_B:235 MAO 6956af77
+"{V0272}{W10}Hehe,{W32} sure.{W33} What could it{W3} be{W3} about?"
+
+@MAO_SEV_B:236 PLY e5ef3165
+"Um, I think you'll like it."
+
+@MAO_SEV_B:237 MAO 21c04e74
+"{V0273}{W5}What{W3} is it~?{W26} How{W10} exciting."
+
+@MAO_SEV_B:238 PLY 033a2ab5
+"Look, this study guide for the hardest university entrance exams is really fun."
+
+@MAO_SEV_B:240 MAO cce7bea9
+"{V0274}{W10}Eek!!"
+
+@MAO_SEV_B:247 MAO 36913d76
+"{V0275}{W10}Eeeeeeeeek!{W25} What{W10} are{W1} you{W1} bringing{W1} out,{W2} you{W2} stupid{W3} bear~!{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@MAO_SEV_B:249 MAO a7867393
+"{Nn}!{W1} {V0276}{W10}Sneaking{W1} into{W10} my{W30} classroom{W1} and{W1} going{W20} {Ec}{W5}{Eo}{Fe9}to{W1} all{W1} this{W1} trouble~!{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W2}{W2}"
+
+@MAO_SEV_B:250 PLY 410f9741
+"M-Mao, if you yell that loud, everyone will find out about your study allergy..."
+
+@MAO_SEV_B:251 MAO 2f45ec20
+"{V0277}Ugh{W10}...{W30} r-{W70}{Fe9}{Ec}right.{W85} {F6}{Eo}{Sp}Calm down~.{W36} {Ec}Stay calm, Mao..."
+
+@MAO_SEV_B:252 PLY 846a8d7f
+"Sorry, Mao... I thought maybe it'd be okay if a cute animal came along..."
+
+@MAO_SEV_B:253 MAO 2f382f5c
+"{V0278}{W10}Oh...{W40} I see...{W40} {Ec}{W5}{F9}{Eo}Thanks, {Nn}.{W25} {Ec}{W5}{F6}{Eo}But{W28} {Ec}it{W5} doesn't seem to work..."
+
+@MAO_SEV_B:254 PLY 90aafd00
+"Yeah... I'll think of another way."
+
+@MAO_SEV_B:255 MAO 4d044a75
+"{V0279}{W10}Sorry."
+
+@MAO_SEV_B:256 MAO ffad0425
+"{V0280}{W10}Anyway,{W20} that{W1} bear{W1} is{W1} {F3}cute.{W30} Where{W1} did{W1} you{W20} get it?"
+
+@MAO_SEV_B:257 PLY 7db716af
+"It's Nana's."
+
+@MAO_SEV_B:258 PLY 73426c4b
+"Her pillow is surrounded by stuff like this, so she won't notice if I borrow one."
+
+@MAO_SEV_B:259 MAO 234239c3
+"{V0281}{W10}I{W2} see,{W18} it's{W2} Nana's.{W30} {Ec}{Fm3}So fairy-tale~"
+
+@MAO_SEV_B:260 PLY 27098156
+"Hahaha, she still loves stuff like this."
+
+@MAO_SEV_B:261 MAO 4670ada2
+"{V0282}{W5}Fufu,{W40} {Ec}it's cute, so that's fine."
+
+@MAO_SEV_B:262 MAO d91ecda3
+"{V0283}{W10}I'd{W1} like{W1} to{W1} play{W1} with{W2} the{W2} three{W2} of{W2} us{W2} again.{W35} {F2}Say{W1} hi to her for me."
+
+@MAO_SEV_B:263 PLY adbab7ab
+"Sure. I'll tell her."
+
+@MAO_SEV_B:264 PLY eb1372ae
+"Well, see you, Mao."
+
+@MAO_SEV_B:265 MAO 0faf4408
+"{V0284}{W10}{Ec}Yes.{W25} {Eo}See you."
+
+@MAO_SEV_B:266 PLY a40cc486
+(...Now, what should I try next...)
+
+@MAO_SEV_B:267 PLY 6b497ee8
+(Huh? Something smells good from the Home Ec Room... Maybe after a cooking class?)
+
+@MAO_SEV_B:268 PLY 87cae08b
+(Let me take a peek...)
+
+@MAO_SEV_B:270 PLY 1f572bcf
+"Oh, Mao."
+
+@MAO_SEV_B:271 MAO 39b8edfe
+"{Nn},{V0285} what are you doing?"
+
+@MAO_SEV_B:272 PLY 7140d4bb
+(Mao in an apron... It looks really good on her...)
+
+@MAO_SEV_B:273 MAO d36dac0f
+"{V0286}What's wrong?{W10} You're spacing out."
+
+@MAO_SEV_B:274 PLY 394dba4a
+"Ah... no, I just thought it smells good..."
+
+@MAO_SEV_B:275 MAO 485f34d2
+"{V0287}{W10}Right~? {W20}{F3}{Ec}It was delicious~!"
+
+@MAO_SEV_B:276 PLY 4a04dbdf
+"Lucky. What did you make?"
+
+@MAO_SEV_B:277 MAO 1509b14f
+"{V0288}Omelet rice and corn soup."
+
+@MAO_SEV_B:278 MAO c9c3378d
+"{V0289}{W10}I blend the corn,{W20} {F3}then simmer{W5} it{W5} slowly{W5} in{W5} milk..."
+
+@MAO_SEV_B:279 MAO 6f0b6865
+"{V0290}{Ec}Fry the rice in {W10}plenty{W4} of{W4} {Eo}ketchup,{W20} {Fe4}wrap{W4} it{W5} softly{W2} in{W2} {F3}egg,{W20} and{W2} there{W2} you{W2} have{W4} {Ti1}omelet{W4} rice{W4} and{W4} corn{W4} soup{Ec}!"
+
+@MAO_SEV_B:280 PLY 880086cd
+"That sounds so good~!"
+
+@MAO_SEV_B:281 MAO 3ff9f68a
+"{V0291}{F3}Fufu,{W60} if{W2} I'd{W2} known{W2} {Nn}{W5} was{W2} coming,{W15} I should have saved you some."
+
+@MAO_SEV_B:282 PLY 3ef28517
+"...Mao, you can actually cook..."
+
+@MAO_SEV_B:283 MAO b2399d17
+"{V0292}{W10}How{W10} rude~.{W30} That{W10} much is only natural.{W50} {Fm9}...Or was it{W30} unexpected?"
+
+@MAO_SEV_B:284.1 - 1c5184d0
+{Ti0}- Unexpected／- No, it suits you／- I want you to cook for me
+
+@MAO_SEV_B:285 PLY 1424d7d6
+"It was unexpected."
+
+@MAO_SEV_B:286 MAO 1fde8eb3
+"{V0293}{W10}Sigh...{W15} I{W5} hear{W5} that{W1} a{W1} lot.{W40} {Eo}{Fm3}Maybe{W1} my{W1} looks{W1} work{W1} against{W1} me?{W1}"
+
+@MAO_SEV_B:287 PLY 46d3a83f
+"You look like someone who likes eating more than cooking."
+
+@MAO_SEV_B:288 MAO 04116d58
+"{V0294}{W10}I like cooking{W5} and eating."
+
+@MAO_SEV_B:289 MAO d9481da2
+"{V0295}...Hmm,{W40} {Fe3}what{W5} would{W5} I have to look like{W30} to seem good at cooking?"
+
+@MAO_SEV_B:290 MAO dbe70182
+"{V0296}{W10}Even{W1} with{W1} thick{W1} bottle-glasses{W1} like{W1} in{W1} middle{W1} school,{W30} {Ec}I'd{W1} still{W1} look{W1} bad{W1} at{W1} it...{W1}{W1}{W1}{W1}"
+
+@MAO_SEV_B:291 PLY a5029020
+"That's true..."
+
+@MAO_SEV_B:292 PLY d42043df
+"No, it suits you."
+
+@MAO_SEV_B:293 MAO dd79441c
+"{V0297}{W10}Right~?"
+
+@MAO_SEV_B:295 MAO 979e1fe1
+"{V0298}{W10}See,{W10} I'm a serious person, so {Fe3}since{W10} elementary school I've taken home ec class {Fe8}{Ec}really {W5}seriously{Fe3}{Eo}."
+
+@MAO_SEV_B:296 PLY d905bbbf
+"I see."
+
+@MAO_SEV_B:297 PLY ddc40b70
+(Serious... she used to be...)
+
+@MAO_SEV_B:298 MAO 71b01f32
+"{V0299}So I know that if I don't cut corners and make it properly, it turns out delicious."
+
+@MAO_SEV_B:299 PLY 72739cc3
+"Hmm."
+
+@MAO_SEV_B:300 PLY bc7215f9
+"I want you to cook for me."
+
+@MAO_SEV_B:301 MAO c8bf0843
+"{V0300}{Br70t5}{W5}What?!"
+
+@MAO_SEV_B:302 MAO 4eb49aaa
+"{V0301}...{W30}Hmm,{W100} so{W2} {Nn}{W2} has{W30} {Ec}that kind of taste."
+
+@MAO_SEV_B:303 PLY 107a5b69
+"Huh? It was just a joke..."
+
+@MAO_SEV_B:304 MAO 8573032d
+"{V0302}Sure,{W30} {Fe8}{Ec}next{W2} time{W2} I'll{W2} cook for you{W54} {Eo}plenty."
+
+@MAO_SEV_B:305 PLY 382810ca
+"Hahaha..."
+
+@MAO_SEV_B:307 MAO 851f89fe
+"{V0303}Be{W3} prepared,{W1} you{W10} hear?{W10}{W3}{W1}{W1}{W1}{W1}"
+
+@MAO_SEV_B:308 PLY 851e949b
+(W-what is she going to do to me... My heart is racing...)
+
+@MAO_SEV_B:309 MAO bf35b6a7
+"{V0304}{W20}Well,{W10} I have dishes to wash,{W10} so see you."
+
+@MAO_SEV_B:310 MAO 5437e516
+"{V0305}Hm?"
+
+@MAO_SEV_B:311 PLY f8c6d922
+"Home ec has a textbook too, right?"
+
+@MAO_SEV_B:312 MAO 33d94951
+"{V0306}{W10}It does."
+
+@MAO_SEV_B:313 PLY 007c93c4
+"Is that okay for you?"
+
+@MAO_SEV_B:314 MAO 204a5fed
+"{V0307}{W10}A{W1} home{W1} ec{W1} textbook{W1} is{W1} basically{W1} like{W1} a{W1} recipe{W1} book.{W1} {Ec}{W5}{F3}{Eo}It's{W1} fine.{W1}{W1}{W1}{W1}{W1}{W5}"
+
+@MAO_SEV_B:315 PLY bf975529
+(I see. So cooking is fine...)
+
+@MAO_SEV_B:316 PLY 4031d3a6
+"...Mao, I found another hint for curing your study allergy."
+
+@MAO_SEV_B:317 MAO 65fa089b
+"{V0308}{W20}Really?{W20} I'm so happy!"
+
+@MAO_SEV_B:318 MAO 97f3fc7e
+"{V0309}{W10}I'm counting on you, {Nn}."
+
+@MAO_SEV_B:319 PLY 1ba8f562
+"Yeah. See you, Mao."
+
+@MAO_SEV_B:320 MAO f43132e1
+"{V0310}{W10}Yes,{W20} see you."
+
+@MAO_SEV_B:322 PLY 7d415830
+(Is Mao still around? I thought of a good way to beat her study allergy...)
+
+@MAO_SEV_B:323 PLY 22207d57
+"Mao, about today's training..."
+
+@MAO_SEV_B:324 TOM d5a85877
+"{V0021}Oh, {Nm}."
+
+@MAO_SEV_B:325 PLY e469a747
+"Ah, Ms. Kawada."
+
+@MAO_SEV_B:329 TOM 5451229c
+"{V0022}{W10}"Mao"...{W38} {Fe3}you{W1} called{W1} Mizusawa{W1} that{W1} the{W1} other{W1} day{W1} too.{W17}"
+
+@MAO_SEV_B:330 TOM 1e107636
+"{V0023}{W10}You know,{W17} when {Nm} suddenly ran off,{W20} and Mizusawa chased after you."
+
+@MAO_SEV_B:331 PLY 027137ca
+"Oh, that time..."
+
+@MAO_SEV_B:332 TOM 1f41eba9
+"{V0024}{W5}What{W1} was{W1} that{W1} about?{W40} {F3}{W48}{Fe8}Could{W1} it{W1} be...{W15} {Fe3}trouble{W1} in{W1} love?{W1}"
+
+@MAO_SEV_B:333 PLY 2c873dcd
+"N-no, it's nothing like that."
+
+@MAO_SEV_B:334 PLY 16dc1191
+"We just had a bit of a misunderstanding..."
+
+@MAO_SEV_B:335 TOM 837fbffc
+"{V0025}{W10}Hmm...{W40} a{W2} misunderstanding,{W10} I{W2} see...{W2}"
+
+@MAO_SEV_B:336 TOM 21b81afe
+"{V0026}{W10}Mizusawa,{W20} is{W2} popular{W2} with{W2} the{W2} boys,{W10} {Ec}so{W1} things may be hard for her."
+
+@MAO_SEV_B:337 PLY d3059b02
+"Like I said, it's not like that."
+
+@MAO_SEV_B:338 PLY 9c17aa53
+"Mao lives right next door, and we grew up like siblings."
+
+@MAO_SEV_B:339 TOM 4afdf8f7
+"{V0027}Oh,{W15} really?"
+
+@MAO_SEV_B:340 TOM a5690f9c
+"{V0028}"Mao"...{W60} {F3}oh,{W15} you{W1} mean{W1} Mizusawa?{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@MAO_SEV_B:341 PLY d9a903d1
+"Y-yes."
+
+@MAO_SEV_B:342 TOM ca990827
+"{V0029}{W10}Hmm,{W40} {Ec}you two get along well,{W10} {Eo}you and Mizusawa."
+
+@MAO_SEV_B:343 PLY 2c673ed2
+"Our houses are right next to each other."
+
+@MAO_SEV_B:344 TOM a0440786
+"{V0030}Oh,{W20} really?"
+
+@MAO_SEV_B:345 TOM e75381f1
+"{V0031}{W5}Then{W10} you're{W1} childhood friends."
+
+@MAO_SEV_B:346 PLY 7d7fadc2
+"That's right."
+
+@MAO_SEV_B:347 TOM 6f36b163
+"{V0032}{F3}{Ec}Fufu,{W45} {Eo}how nice,{W10} that kind of thing."
+
+@MAO_SEV_B:348 TOM ec7068d3
+"{V0033}{W5}As{W1} for{W1} Mizusawa,{W15} it{W1} looked{W1} like she headed to the rooftop."
+
+@MAO_SEV_B:349 PLY acd7f675
+"The rooftop?"
+
+@MAO_SEV_B:350 TOM 7556a047
+"{V0034}{W5}She{W1} seemed{W1} a{W10} bit{W4} down.{W27} {F3}{Ti1}Why{W4} don't{W4} you{W4} go{W4} see{W4} her?"
+
+@MAO_SEV_B:351 PLY 75b75633
+"I will. Excuse me, Sensei."
+
+@MAO_SEV_B:352 TOM 72c89aaf
+"{V0035}{W5}Fufu,{W33} {Eo}good luck."
+
+@MAO_SEV_B:353 PLY cf7fdb98
+(Where's Mao... Ah, there she is.)
+
+@MAO_SEV_B:355 MAO 9f6a40e5
+"{V0311}Ah, {Nn}."
+
+@MAO_SEV_B:356 PLY caff5848
+"What's wrong, Mao? Up here all alone..."
+
+@MAO_SEV_B:358 MAO 73bb9919
+"{V0312}{W5}Just,{W37} {Fe6}feeling{W2} down...{W2}{W2}{W2}{W2}{W2}"
+
+@MAO_SEV_B:359 MAO 51595d1c
+"{Nn}, {V0313}{W5}you've been doing so much for me,{W35} {Ec}and{W4} my{W4} study{W4} allergy{W10} still{W5} {Ti1}isn't{W4} getting{W4} better..."
+
+@MAO_SEV_B:360 MAO 0ccb7136
+"{Nn}, {V0314}I feel bad about it..."
+
+@MAO_SEV_B:361 PLY 0bc6de3f
+"Cheer up, Mao. That's not like you."
+
+@MAO_SEV_B:362 MAO f51f0540
+"{V0315}{W5}Even I get down sometimes."
+
+@MAO_SEV_B:363 PLY 7aa469c1
+"Hahaha..."
+
+@MAO_SEV_B:364 PLY fee8ce1e
+"Oh, I know! I thought of the next step! This will definitely work..."
+
+@MAO_SEV_B:365 MAO cf434133
+"{Nn}, {V0316}thank you.{W90} {Eo}But,{W40} it's okay now."
+
+@MAO_SEV_B:366 PLY d9372ba1
+"Why?"
+
+@MAO_SEV_B:367 MAO a8ffbec7
+"{V0317}...The charm {Nn} did for me,{W48} {Ec}it made me so happy."
+
+@MAO_SEV_B:368 PLY 1736e67d
+"The kiss on your hand?"
+
+@MAO_SEV_B:369 MAO 56cd0cc5
+"{V0318}{W10}{F3}{Eo}Mm.{W51} {Ec}{W5}{F9}{Eo}It{W1} took courage, didn't it?"
+
+@MAO_SEV_B:370 PLY fdbb1848
+"W-well, yeah. I can't believe I dared to do it myself."
+
+@MAO_SEV_B:371 MAO 6e31f02d
+"{V0319}{W5}Fufu,{W70} {Eo}thanks."
+
+@MAO_SEV_B:372 MAO adf9493b
+"{V0320}...So{W65} {Fe2}I have{W3} to{W4} find{W3} my{W3} courage{W3} too."
+
+@MAO_SEV_B:373 MAO 64674d00
+"{V0321}{W5}Here,{W115} you keep this, {Nn}."
+
+@MAO_SEV_B:374 PLY 3d615cc3
+"Huh? This is the vinyl cover that protects you from your study allergy. If you take it off, Mao..."
+
+@MAO_SEV_B:375 MAO 6d295a28
+"{V0322}{W10}I'll{W2} touch{W2} the{W2} textbook.{W70} {Ec}I{W2} have{W2} to{W2} get used to it little by little.{W50} {Fe9}{Eo}I can't just keep depending on you, {Nn}."
+
+@MAO_SEV_B:376 PLY 80decc91
+"Mao..."
+
+@MAO_SEV_B:377 MAO 6e1e45d0
+"{V0323}But...{W88} if{W1} I{W1} can't stand it,{W80} {Ec}will you{W60} {Fe9}{Eo}do{W1} the{W1} charm{W1} for{W1} me{W1} again?"
+
+@MAO_SEV_B:378 PLY 7236d67d
+"Huh? Sure... But that's the same as asking for a kiss."
+
+@MAO_SEV_B:379 MAO 2761a0f9
+"{V0324}Hm? {Br100t15}{W40}...{W40}{F3}I see."
+
+@MAO_SEV_B:380 MAO 0d96d7fc
+"{V0325}{Br80t120}{W5}Then,{W67} if{W5} the{W5} {Ec}hives{W35} come{W1} out{W1} again,{W55} {Eo}will{W1} you{W20} kiss{W1} me?{W1}{W1}{W1}{W1}{W1}"
+
+@MAO_SEV_B:381.1 - d7c6bd69
+{Ti0}- Of course／- I'll give you something even better
+
+@MAO_SEV_B:382 PLY 90bff4a9
+"Of course."
+
+@MAO_SEV_B:383 MAO 99bc3b13
+"{V0326}Fufu,{W70} {Eo}thanks."
+
+@MAO_SEV_B:384 PLY b795d0ce
+"I'll give you something even better."
+
+@MAO_SEV_B:385 MAO 71a398cb
+"{V0327}{W10}Fufu,{W70} {Eo}I'm{W1} looking{W2} forward{W2} to{W1} it.{W1}{W1}"
+
+@MAO_SEV_B:386 MAO 7a1272dc
+"{V0328}{Br40t30}{W10}Well then,{W25} I'll{W25} do my best,{W35} so take care of me."
+
+@MAO_SEV_B:387 PLY cc4af171
+"Okay."
+
+@MAO_SEV_B:388 MAO 295ed877
+"{V0329}{W10}{Fe2}{Ec}See you, {Nn}."
+
+@MAO_SEV_B:389 PLY a6705248
+(Mao... she's serious...)
+
+@MAO_SEV_B:391 PLY 4d0e0889
+(Let's see, Class 1-A, Class 1-A...)
+
+@MAO_SEV_B:392 PLY 197bf48e
+(Where's Nana... Ah, there she is.)
+
+@MAO_SEV_B:393 PLY e5471f23
+"Hey, Nana. Got a minute?"
+
+@MAO_SEV_B:395 NAN 03569132
+"{V0165}Ah,{W20} {Fm3}Big Bro.{W20} What's up?"
+
+@MAO_SEV_B:396 PLY d8b0db3f
+"Nana, is there anything you don't get in your studies?"
+
+@MAO_SEV_B:397 NAN 85794bad
+"{V0166}What?!{W30} Big Bro,{W37} {Ec}{W5}{F3}{Eo}you'll{W1} teach me?"
+
+@MAO_SEV_B:399 NAN d0d79332
+"{V0167}{Ec}Yaaay!{W20} {Fe3}{Eo}You{W1} see,{W1} you{W1} see,{W20} Nana has{W10} {Fe7}some English{W7} homework{W5} {W5}that{W16} {Fe3}I don't understand..."
+
+@MAO_SEV_B:400 PLY 89a33c87
+"Nana, hold on, not me."
+
+@MAO_SEV_B:401 NAN 2000d2cc
+"{V0168}Huh?"
+
+@MAO_SEV_B:402 PLY 41121cf6
+"Ask Mao to teach you."
+
+@MAO_SEV_B:403 NAN cf8132c1
+"{V0170}Mao?{W55} {Ec}But...{W4}{W4}{W4}{W4}{W3}{W3}"
+
+@MAO_SEV_B:404 PLY 77dbaddd
+"What's wrong?"
+
+@MAO_SEV_B:405 NAN 7229914b
+"{V0171}{W8}{W1}{W1}{W1}{W1}{W1}{W1}Can you even study now, Mao?{W37}{W2}{W2}{W2}{W4}{W4}{W2}{W2}{W2}{W70} {Fe6}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W18} {Fe9}No{W1} swirly{W1} glasses,{W22} no desk..."
+
+@MAO_SEV_B:406 NAN 8b94a9cc
+"{V0172}Maybe{W1} she{W15} {Ti1}gave{W1} up{W1} studying{W1} altogether...{W4}{W4}{W5}{W5}{W5}{W5}{W5}{W5}"
+
+@MAO_SEV_B:407 PLY 079977f7
+(Right, Nana doesn't know about Mao's study allergy.)
+
+@MAO_SEV_B:408 PLY 74b6737b
+"It's true she doesn't seem to study, but teaching you is no problem. She's Mao, after all."
+
+@MAO_SEV_B:409 NAN 4d87d835
+"{V0173}Hmm...{W1}{W1}{W1}"
+
+@MAO_SEV_B:410 NAN 2e891d8f
+"{V0174}{W10}I{W1} see!{W30} You're{W1} right!{W30} {Ec}It's{W1} Mao!{W23} {Eo}{Fe6}Even{W1} if{W1} she{W1} looks{W1} different,{W27} she'll{W1} teach{W1} me{W1} kindly!"
+
+@MAO_SEV_B:411 PLY f57edbd8
+"Of course!"
+
+@MAO_SEV_B:412 NAN 6e11d456
+"{V0175}{W10}Then,{W20} {Ec}I'll ask her!"
+
+@MAO_SEV_B:413 PLY 0aa6eaac
+"Okay, let's go see Mao together. She's probably on the terrace at this time."
+
+@MAO_SEV_B:414 PLY fbf64f9b
+"Let's see... Ah, look, there she is."
+
+@MAO_SEV_B:415 NAN 7b01042f
+"{V0176}Maaao~"
+
+@MAO_SEV_B:417 MAO 5e3c9f0e
+"{V0330}{W10}Ah!{W5} {Nn},{W4} and{W10} {F3}{Ti1}Nana{W4} too!{W4}{W4}{W4}"
+
+@MAO_SEV_B:419 MAO 88069587
+"{V0331}{W10}{Ec}Eeeek!{W5} {Eo}Nana, it's been so long~!"
+
+@MAO_SEV_B:421 NAN 5932282e
+"{V0177}Yeah!{W10} Mao,{W20} {Ec}{Ti1}it's{W5} been{W5} so{W5} long~!{W5}{W5}{W5}{W5}"
+
+@MAO_SEV_B:422 NAN 46f563de
+"{V0178}......"
+
+@MAO_SEV_B:423 NAN 058935b6
+"{V0179}Um...{W50} Nana{W35} {Ec}has{W1} to{W1} apologize{W22} {Fe9}{Eo}to you, Mao."
+
+@MAO_SEV_B:424 MAO f627ec01
+"{V0332}Hm?{W30} {Ec}{W5}{F3}{Eo}Why?"
+
+@MAO_SEV_B:425 NAN 526c37c1
+"{V0180}{W10}Because{W40} I got into the same high school,{W22} {Ec}and never{W1} even{W1} showed{W1} my{W1} face..."
+
+@MAO_SEV_B:426 MAO b8a4fc89
+"{V0333}{W10}That's{W1} right~,{W30} that's{W1} so{W1} unfriendly.{W1}"
+
+@MAO_SEV_B:427 NAN 128160a6
+"{V0181}But,{W30} {Fe6}somehow{W45} {Ec}it{W1} was{W1} hard{W10} to{W1} talk{W1} to{W1} you..."
+
+@MAO_SEV_B:428 MAO e5470e6b
+"{V0334}{W10}Geez,{W50} you{W2} two{W2} siblings{W1} say{W1} the same thing~.{W40} {Ec}Why is that?"
+
+@MAO_SEV_B:429 NAN 2afd99cf
+"{V0182}Mao...{W10} you're{W1} totally{W1} different{W1} from{W1} middle{W1} school."
+
+@MAO_SEV_B:430 MAO 215e0ec1
+"{V0335}{Sp}{W10}Ahaha,{W30} that's{W10} true~.{W40} {Ec}I{W10} think so{W5} myself."
+
+@MAO_SEV_B:431 MAO 54debff4
+"{V0336}{W10}Nana, you haven't changed {W5}at all~.{W50} {Ec}I'm jealous, you're so cute."
+
+@MAO_SEV_B:432 NAN 9db4d9b3
+"{V0183}{W5}No, I'm not."
+
+@MAO_SEV_B:433 NAN 305cef93
+"{V0184}I want to be pretty{W23} {Fe6}and have a good figure{W5} like you, Mao."
+
+@MAO_SEV_B:434 MAO 3f3f3f6c
+"{V0337}{W10}Fufu,{W50} {F3}thanks for the compliment."
+
+@MAO_SEV_B:435 MAO e1e16900
+"{V0338}{W10}You'll{W4} get{W4} there{W4} without{W4} rushing.{W30} {Fe2}{Fm3}{Eo}{Ti1}You{W5} have{W5} such{W5} good{W5} potential,{W5} after{W4} all.{W4}{W4}{W4}"
+
+@MAO_SEV_B:436 NAN d3142269
+"{V0185}{W5}Really?{W1}"
+
+@MAO_SEV_B:437 MAO be714005
+"{V0339}{W10}Of{W4} course!{W40} {Ec}Aren't{W4} you{W4} lucky~,{W20} {Fe2}{Eo}{Ti1}not{W4} to{W4} look{W4} like{W4} your{W4} big{W4} brother."
+
+@MAO_SEV_B:438 NAN b792f6d9
+"{V0186}{W10}Yeah!"
+
+@MAO_SEV_B:439 PLY f9ddeaa2
+"Hey, hey..."
+
+@MAO_SEV_B:440 NAN c2e1093b
+"{V0187}Ehehe,{W50} even if you look{W1} different,{W30}{Fe2} you're{W1} still{W1} just{W1} Mao~.{W30}{Fe2} You're{W4} {W20}{Ec}kind{W4} and{W4} fun."
+
+@MAO_SEV_B:441 MAO 693aa6c3
+"{V0340}{W10}Fufu,{W45}{Fe3}{Eo} thank you."
+
+@MAO_SEV_B:442 PLY 966190a1
+"Hey... come on, Nana. You were going to ask her, right?"
+
+@MAO_SEV_B:443 NAN fcd44025
+"{V0188}Ah...{W30} Yeah!"
+
+@MAO_SEV_B:444 MAO 9e12d4f5
+"{V0341}{W10}Hm?{W60} Do you{W2} want{W8} to{W8} ask{W2} me{W2} for{W2} something?"
+
+@MAO_SEV_B:445 NAN 8280eca8
+"{V0189}{W10}Um, Mao.{W20}{Fe9} There's something in{W4} my{W5} English{W5} homework{W30} I don't get.{W30}{Ec}{W5}{Fe3}{Eo} Teach{W5} me{W30}{Ec} like you used to."
+
+@MAO_SEV_B:446 MAO b413d6b0
+"{V342}What?!"
+
+@MAO_SEV_B:449 MAO d4bfee0d
+"{V0343}I-{W50}I{W1} don't know{W55} if I'd{W15} understand it.{Sd}{W30}{Ec}{W5}{F9}{Eo} ...{W10} Look,{W30} I haven't studied{W15}{Ec} at all since I started high school..."
+
+@MAO_SEV_B:450 NAN 951c0d8a
+"{V0190}Uh{W5}...{W75} But{W1} I{W1} want{W20}{Ec} Mao{W1} to{W1} teach{W1} me.{W1}"
+
+@MAO_SEV_B:451 MAO 56a01409
+"{V0344}{W5}Nana...{W1}{W1}{W1}{W1}"
+
+@MAO_SEV_B:452 PLY 2cbb903e
+"Our Year 1 English is easier than what you studied for your Year 3 middle school exams, Mao, I think."
+
+@MAO_SEV_B:453 NAN 9895c86e
+"{V0191}Yeah!{W20}{Fe2}{Ec} Right~,{W10}{Fe3}{Eo} Big Bro!"
+
+@MAO_SEV_B:454 MAO 79aa31e3
+"{Nn}{W5}~{W5},{W5} {V0345}{W5}{Eh}you{W20} tricked{W10} me{W10}~{W5}"
+
+@MAO_SEV_B:455 PLY 86c5a917
+"You can do it, Mao."
+
+@MAO_SEV_B:456 NAN cebebf98
+"{V0192}{W10}Mao,{W25} teach me~"
+
+@MAO_SEV_B:457 MAO 961eaff5
+"{V0346}Ugh{W10}...{W100} When{W2} you{W2} both{W2} ask{W2} me{W2} like{W2} that,{W62} it's{W2} hard{W2} to{W2} say{W2} no.{W2}{W2}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@MAO_SEV_B:458 NAN f29cb941
+"{V0193}Maaao~"
+
+@MAO_SEV_B:459 MAO e13140e7
+"{V0347}{W20}Geez{W5}...{W52}{Eo} all{W5} right,{W1} I'll{W1} do{W1} it.{W1}{W1}"
+
+@MAO_SEV_B:461 MAO f707d5bc
+"{V0348}{W10}I{W1} haven't{W1} had{W1} a{W1} long talk with Nana{W35} in{W4} ages,{W4} and{W90}{Ec}{W5}{Fe2}{Eo} let's{W40}{Ti1} give{W4} it{W4} a{W4} try{W4} together,{W4} shall{W4} we?"
+
+@MAO_SEV_B:462 NAN 1cd1637f
+"{V0194}{W10}Yeah!"
+
+@MAO_SEV_B:463 MAO 7527f7ae
+"{V0349}{W10}Okay,{W95}{Ec}{W5}{F9}{Eo} get{W10} out{W10} your{W40} {Ec}textbook.{W70}{Eo} Which{W10} part don't you get?"
+
+@MAO_SEV_B:464 NAN ef3b5e44
+"{V0195}Um,{W1} um...{W1}{W1}{W1}{W1}"
+
+@MAO_SEV_B:465 SYS 6778e6ee
+...And so Mao started teaching Nana English.
+
+@MAO_SEV_B:466 SYS 20c91f13
+Because of her study allergy she scratched herself now and then, but by the end of lunch break it had calmed down quite a lot.
+
+@MAO_SEV_B:467 SYS a873acf4
+Looks like it went well. ...I'm glad, Mao.
+
+@MAO_SEV_B:468 PLY a48eb5ff
+(I wonder if Mao is still in class? Maybe we could have lunch together...)
+
+@MAO_SEV_B:469 PLY 7c38d9d5
+(Let's see... where's Mao...)
+
+@MAO_SEV_B:470 MAO aa5f2ed5
+"{V0350}Oh, {Nn}, what's up?"
+
+@MAO_SEV_B:471 PLY c725672f
+"Oh, Mao. If you're free, want to..."
+
+@MAO_SEV_B:472 MAO a493102b
+"{V0351}{Sp}Oh,{W10} sorry~,{W25}{Ec}{W5}{F3}{Eo} I{W4} already{Ti1} made{W4} plans{W4} with{W4} Tomo.{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}"
+
+@MAO_SEV_B:473 PLY fe7c4a37
+"Tomo? If you call her by a nickname, Ms. Kawada will get mad."
+
+@MAO_SEV_B:474 MAO b46b9125
+"{V0352}I{W1} know,{W1} right.{W25}{Ec}{W5}{Fe7}{Eo} I{W1} think{W1} it{W1} sounds{W1} friendly,{W5} though."
+
+@MAO_SEV_B:475 PLY 1dd15d19
+"Well, she is a teacher, after all..."
+
+@MAO_SEV_B:476 MAO 4b2e43ce
+"{V0353}Ahaha,{W30}{F9}{Eo} true.{W5}{W5}"
+
+@MAO_SEV_B:477 PLY dc47e5f2
+"...I see, so you promised to have lunch with Ms. Kawada."
+
+@MAO_SEV_B:478 MAO b47446a0
+"{V0354}{W10}Wrong.{W1}{W1}{W1}"
+
+@MAO_SEV_B:479 PLY 3b47c706
+"Huh? What is?"
+
+@MAO_SEV_B:480 MAO 73cf424e
+"{V0355}What{W2} I{W2} promised{W2} Ms.{W2} Kawada{W10}{Fe8}{Eo} is{W2} a{W2} Spartan{W2} crash{W2} course{W2} in{W2} modern{W2} Japanese.{W2}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@MAO_SEV_B:481 PLY 5f094b4a
+"What?! Really?!"
+
+@MAO_SEV_B:482 MAO 93eccb82
+"{V0356}Yes,{W2} really.{W30}{Ec} I'll{W2} study while nibbling on an anpan.{Eo}"
+
+@MAO_SEV_B:483 PLY 54845a94
+"...Mao giving up her lunch time to study... It feels weird."
+
+@MAO_SEV_B:485 MAO f9c9b43c
+"{V0357}Well, my hives have only just cleared up~"
+
+@MAO_SEV_B:486 PLY 560dad3e
+"No, that's not what I meant..."
+
+@MAO_SEV_B:487 MAO cb13e3da
+"{V0358}Hm?"
+
+@MAO_SEV_B:488 PLY 11e16181
+"Oh, nothing. Good luck studying."
+
+@MAO_SEV_B:489 MAO 93a03c5f
+"{V0359}{W5}What?{W40} Geez.{W55} Now{W10} I'm curious."
+
+@MAO_SEV_B:490 PLY fec73f9b
+"Never mind. See you, Mao."
+
+@MAO_SEV_B:491 MAO 08c0661f
+"{V0360}Se-{W35}see{W5} you,{W5} {Nn}.{W45}{Ec}{W5}{Fe9m3}{Eo}{Ti1} Next{W5} time,{W5} tell{W5} me{W5} what{W5} it{W5} was.{W5}"
+
+@MAO_SEV_B:492 PLY dfd63779
+(...Mao still seems to be missing something. I can't shake that feeling.)
+
+@MAO_SEV_B:494 MAO 1f3d2ebd
+"{Nn}, {V0361}what are you doing?"
+
+@MAO_SEV_B:495 PLY c5a7e05a
+"Oh, Mao. What are you doing here? ...Don't tell me, studying?"
+
+@MAO_SEV_B:496 MAO 4b946c8f
+"{V0362}Don't{W3} tell{W3} me?{W5} What's{W3} that{W3} supposed{W3} to mean,{W20}{F8}{Ec} "don't tell me"?"
+
+@MAO_SEV_B:497 MAO f1196dbd
+"{V0363}{W10}I'm preparing for exams,{W20} so studying in the Library at lunch break{W5} is normal, right?"
+
+@MAO_SEV_B:498 PLY da23bb7c
+"Y-yeah, but..."
+
+@MAO_SEV_B:499 PLY ff93cbf4
+"It just feels weird..."
+
+@MAO_SEV_B:500 MAO 6c4cec8b
+"{V0364}{W5}Well,{W40} it{W5} has{W1} been{W1} a{W1} while{W27}{F9}{Ec} since{W1} I{W1} did{W1} exam studying."
+
+@MAO_SEV_B:501 PLY eefe1735
+"No... that's not it..."
+
+@MAO_SEV_B:502 MAO 4ba1647c
+"{V0365}Hm?"
+
+@MAO_SEV_B:503 PLY 00474d8a
+"Nothing. I'll tell you another time."
+
+@MAO_SEV_B:504 MAO f7cb43c6
+"{V0366}Oh,{W35}{Ec}{W5}{F9}{Eo} come on, {Nn}!{W20} You said the same thing the other{W35} day! Geez! Now I'm curious!"
+
+@MAO_SEV_B:507 PLY 11e0e887
+"See you~, Mao."
+
+@MAO_SEV_B:508 MAO 9191e36c
+"{V0367}Wait, {Nn}!{W2}{Ec}{5}{W5}{F9}{Eo} What do you mean, weird?!{W30} Geeez!"
+
+@MAO_SEV_B:509 PLY a3d4e38c
+(I'm sure now. Mao hasn't noticed, but there's one thing she's missing...)
+
+@MAO_SEV_B:510 PLY 2bb72f26
+(I'll tell her properly next time...)

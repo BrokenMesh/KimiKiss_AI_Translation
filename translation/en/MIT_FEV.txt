@@ -1,0 +1,1706 @@
+# MIT_FEV -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MIT_FEV:65 PLY 26d4f9eb
+(Phew... it's hot this early in the morning...)
+
+@MIT_FEV:69 PLY 0a8eb042
+(Hm? What's that...)
+
+@MIT_FEV:76 PLY b22c8d39
+(Shijou... Coming to school in a limousine... Just like a young lady...)
+
+@MIT_FEV:88 PLY c0550403
+"Morning, Shijou."
+
+@MIT_FEV:92 MIT 5dc60a31
+"{V1206}{W10}Ah,{W20} good morning, {Nm}."
+
+@MIT_FEV:93.1 - 4687ca86
+{Ti0}- It must be nice, coming to school by car／- I don't see that kind of car often／- Coming to school in a car like that is a bit...
+
+@MIT_FEV:94 PLY b2f19c80
+"It must be nice, coming to school by car."
+
+@MIT_FEV:96 MIT 73bc9812
+"{V1207}{Ec}{W10}The air{W3} conditioning{W3} in{W3} the{W3} car{W8} keeps it cool,{W30}{Eo} so{W3} it{W3} helps{W10} on{W3} hot days."
+
+@MIT_FEV:97 PLY 1395c0fa
+"Hahaha... I see. Now I'm even more jealous."
+
+@MIT_FEV:98 MIT c352f0d9
+"{V1208}{W10}Hehe{W5}{W5}{W5}"
+
+@MIT_FEV:101 PLY 72f123c8
+"I don't see that kind of car often."
+
+@MIT_FEV:103 MIT 1bb0d777
+"{V1209}{W10}It is{W3} an{W3} old{W3} English{W5} limousine.{W5}{W30} {Ec}It is very comfortable to ride in{Eo}."
+
+@MIT_FEV:104 PLY 9b080a8d
+"Hmm, I see."
+
+@MIT_FEV:105 PLY 8fdb5b62
+"Coming to school in a car like that is a bit..."
+
+@MIT_FEV:106 MIT b2e35a7e
+"{V1210}{W10}Do you{W5} think{W3} so as well?"
+
+@MIT_FEV:108 MIT 771c56e6
+"{V1211}{W10}I{W6} would{W5} like to walk too,{W25} {Ec}but Father{W3}{W3} will{W3} not{W8} allow{W3} it{Eo}..."
+
+@MIT_FEV:109 PLY 60e29361
+"I-I see."
+
+@MIT_FEV:110 PLY 43e2ddd6
+"Do you go home by car too?"
+
+@MIT_FEV:111 MIT d6abf665
+"{V1212}{W8}No,{W20} I{W3} walk{W5} home."
+
+@MIT_FEV:113 MIT 4e70b78b
+"{V1213}{W10}If a car{W3} waits{W3} at the School Gate,{W5}{W6}{W5}{W25} it{W5} would trouble{W3} everyone."
+
+@MIT_FEV:114 PLY d905bbbf
+"I see."
+
+@MIT_FEV:116 MIT 30c458de
+"{V1214}{W10}Well then, {Nm},{Eo} excuse{W3} me.{W3}"
+
+@MIT_FEV:117 PLY e03a6130
+"Yeah, see you."
+
+@MIT_FEV:119 PLY 48a8f339
+(Huh? Isn't that...)
+
+@MIT_FEV:120 PLY d4b0c6b0
+"Shijou."
+
+@MIT_FEV:122 MIT d948776b
+"{V1215}{W10}Ah, {Nm}."
+
+@MIT_FEV:125 PLY af39d03b
+"What are you doing here?"
+
+@MIT_FEV:126 MIT e72fdfbb
+"{V1216}{W8}I was{W3} talking{W3} to the flowers."
+
+@MIT_FEV:127 PLY df6a92f7
+"To the flowers?"
+
+@MIT_FEV:129 MIT 1bd6af15
+"{V1217}{W10}{Ec}Yes.{W43}{Eo} When{W3} you talk to{W3} flowers,{W30} they become{W10} very healthy,{W28} and their colors grow vivid."
+
+@MIT_FEV:130 PLY 5e5e3a00
+"Wow, you know a lot about it."
+
+@MIT_FEV:131 MIT f6cc7d60
+"{V1218}{W10}Our mansion{W3} has{W30} a greenhouse{W3}{W3},{W20} and we grow all kinds of flowers."
+
+@MIT_FEV:132 PLY 55dfa392
+"I see, so that's why you know so much."
+
+@MIT_FEV:133 MIT 5009bb6d
+"{V1219}{Ec}{W10}Yes."
+
+@MIT_FEV:134 PLY abff54f7
+(Her house has a greenhouse... Well, with a mansion that big...)
+
+@MIT_FEV:135 PLY e24406e1
+"What do you think of the flowers here, Shijou?"
+
+@MIT_FEV:137 MIT 03302fb9
+"{V1220}{W10}They are very beautiful.{W50}{Eo} I can feel the{W3} kindness{W3} of whoever takes care of them."
+
+@MIT_FEV:138 PLY 876a2929
+"I see..."
+
+@MIT_FEV:139 MIT 6a6b4045
+"{V1221}{W5}Well then, {Nm}, I will be going."
+
+@MIT_FEV:140 MIT 23a83f69
+"{V1222}{Ec}{W10}Yes."
+
+@MIT_FEV:142 PLY b4f3f2dc
+"Hiiragi! Got a minute?"
+
+@MIT_FEV:144 AKI 651504df
+"{V0188}{W5}Hm?{W50} What is it, {Nm}?"
+
+@MIT_FEV:145 PLY 25780054
+"Do you know what kind of girl Shijou is?"
+
+@MIT_FEV:146 AKI 6736dce7
+"{V0189}{W5}Shi{W2}jou{W7}?{W53} Shijou Mitsuki?"
+
+@MIT_FEV:147 PLY 199d735a
+"Yeah, her."
+
+@MIT_FEV:149 AKI 3abfe834
+"{V0190}{W5}Are you after her?"
+
+@MIT_FEV:150 PLY 4015bc1d
+"N-no, we just got to know each other..."
+
+@MIT_FEV:151 AKI 5d1b0fd4
+"{V0191}{Ec}{W5}I{W3} see.{W3}{W3}"
+
+@MIT_FEV:152 AKI 0b67fb75
+"{V0192}{W5}Well{W3},{W60}{W2} I{W3} won't pry into how you met,{W5} but{W48} if{W2} you're{W2} serious,{W12} you{W2} should{W4} give{W5} up."
+
+@MIT_FEV:153 PLY d9372ba1
+"Why?"
+
+@MIT_FEV:154 AKI af2eef21
+"{V0143}{W10}Your{W3} family{W3} backgrounds{W3} are{W8} overwhelmingly{W3}{W3} different,{W3} right?"
+
+@MIT_FEV:155 PLY 145fbad0
+"Family background? That's a pretty old-fashioned thing to say."
+
+@MIT_FEV:157 AKI 45197151
+"{V0144}{W10}Old-fashioned{W3} or not,{W3} it's{W3} reality.{W35} Think{W6} about it."
+
+@MIT_FEV:158 AKI 71d9b547
+"{V0145}{W10}Born{W3} to a great family,{W7} she{W3} had{W5} academics{W3}{W3}, {W12}culture{W3}, {W10}arts{W3}{W5}, {W12}sports,{W10} ballet,{W12} every elite{W2} education{W2}{W3}...{W2}"
+
+@MIT_FEV:159 AKI 4eec5cc4
+"{V0146}{W10}A girl{W3} raised{W3} as a{W5} perfect{W3} young lady,{W5} and{W3} her{W3}{W3}..."
+
+@MIT_FEV:161 AKI d09333f4
+"{V0147}{W10}Born{W3} in an ordinary{W3} home,{W18} with an{W3} ordinary{W5} education{W3},{W18} just{W3} a{W3} commoner{W3} like{W3} {Nm},{W20} can you match her?"
+
+@MIT_FEV:162 PLY c3d846ad
+"Ugh... that's a bigger gap than I imagined."
+
+@MIT_FEV:164 AKI ebb4f51a
+"{V0148}{W10}Right?{W45} So{W18} you should give up on{W3} her.{W3}{W3}"
+
+@MIT_FEV:165 PLY 39259943
+"Well, there's nothing to give up, we only just met..."
+
+@MIT_FEV:166 AKI e6322ee7
+"{V0149}{W10}I see.{W60} Then{W10} you're fine.{W2}{W3}"
+
+@MIT_FEV:167 PLY c73cd26d
+(She really is some kind of ultimate young lady...)
+
+@MIT_FEV:168 PLY 8e88c451
+(Okay, lunch break. What should I do?)
+
+@MIT_FEV:169 PLY 772ab8e6
+(...Huh? Someone's in the Home Ec Room... Who is it?)
+
+@MIT_FEV:170 PLY 3b8220c0
+"Ah, Shijou."
+
+@MIT_FEV:172 MIT d907c1e0
+"{V1223}Ah, {Nm}."
+
+@MIT_FEV:173 MIT 1ce6e208
+"{V229}Ah, Master."
+
+@MIT_FEV:174 PLY 58b049d6
+"What are you doing here? Home ec class is already over, right?"
+
+@MIT_FEV:175 MIT ab867bc9
+"{V1224}{W10}Yes,{W12} it is over."
+
+@MIT_FEV:176 MIT d697caaa
+"{V1225}{W10}I was{W5} polishing{W3} the tableware.{W6}"
+
+@MIT_FEV:177 PLY 32d7cded
+"The tableware?"
+
+@MIT_FEV:178 MIT 36e96354
+"{V1226}{Ec}{W10}Yes{W2}."
+
+@MIT_FEV:179 MIT 0d4c679b
+"{V1227}{W10}It had{W3} gone dull,{W10} and I felt sorry for it..."
+
+@MIT_FEV:180 MIT a18b5aff
+"{V1228}{W10}If you rub it{W5} with baking{W3} soda,{W5}{W5} it becomes{W6}{W10} {F3}sparkling clean.{W50} Food tastes better{W5} on clean dishes,{W3}{W20} {Ec}after all."
+
+@MIT_FEV:181 PLY 851b6dc4
+"That's true."
+
+@MIT_FEV:182 PLY eb30f64f
+"...The tableware at your house must be a lot more expensive than this, right?"
+
+@MIT_FEV:183 MIT ea1f8f9f
+"{V1229}{W10}It is expensive,{W3} but{W35} {F3}it has been used{W6} since long{W5} before{W10} I was born..."
+
+@MIT_FEV:184 MIT 4f0180e7
+"{V1230}{W10}When you{W5} consider{W3} how{W3} many{W10} years{W3} it has been used,{W6}{W30}{Eo} it may actually be cheap."
+
+@MIT_FEV:185 PLY 4ffc8777
+"Well, see you, Shijou."
+
+@MIT_FEV:186 MIT eca67782
+"{V1231}{Ec}Yes.{W35} Until{W5} next time.{Eo}"
+
+@MIT_FEV:188 PLY 0f14e09a
+(Geez, being ordered by a teacher to set up the lab equipment... What a pain.)
+
+@MIT_FEV:189 PLY 3f0dfea5
+(Let's see, I need to prepare an alcohol lamp, beakers...)
+
+@MIT_FEV:190 MIT 5f946b47
+"{V1232}{W10}Master,{W3}{W3}{W58} what are you doing?"
+
+@MIT_FEV:191 PLY c1692cd0
+"Ah, Shijou. Why are you here?"
+
+@MIT_FEV:192 MIT fd8f6ef0
+"{V1233}{W8}I happened{W5} to be passing{W3} by in the hallway."
+
+@MIT_FEV:193 PLY 696225c1
+"I see."
+
+@MIT_FEV:194 PLY 86f6f097
+"The teacher told me to set up the lab equipment."
+
+@MIT_FEV:195 MIT 3ab0d330
+"{V1234}{W10}Ah,{W40} then I will help."
+
+@MIT_FEV:196 PLY 2cbaceb7
+"No, it's fine. It's not that much work."
+
+@MIT_FEV:197 MIT 7879cb20
+"{V1235}{W10}No{W2}{W2},{W20} please let me help.{W3}{W45} {Ec}{W5}{F3}{Eo}I want to be of some{W3} use{W25} to you, Master.{W3}{W3}{W3}"
+
+@MIT_FEV:198 PLY 7ed32378
+(Ugh... Master this, Master that...)
+
+@MIT_FEV:199 MIT 0bd36a6d
+"{V1236}{W10}Is it{W1} not{W1} all right?{W30} Master...{W3}{W3}{W3}"
+
+@MIT_FEV:200 PLY 24a33c29
+(If I refuse, she'll probably keep saying "Master" nonstop...)
+
+@MIT_FEV:201 PLY cd39f3e4
+"...Then, would you mind helping me?"
+
+@MIT_FEV:202 MIT c0185c13
+"{V1237}{W10}Yes,{W30} {Ec}with pleasure!{W6}"
+
+@MIT_FEV:203 SYS 9921d486
+...And so Shijou helped me prepare for the experiment.
+
+@MIT_FEV:204 SYS e685fbf2
+Shijou was so efficient that there was almost nothing left for me to do.
+
+@MIT_FEV:206 PLY 54c96bd7
+(...My nose is kind of itchy.)
+
+@MIT_FEV:207 PLY bd13133c
+"Achoo! Achoo!"
+
+@MIT_FEV:208 PLY fb3988f6
+(Ugh... something's stuck in my nose.)
+
+@MIT_FEV:209 PLY 1ef79ac7
+"Hmph! Hmph!"
+
+@MIT_FEV:210 PLY b23b3344
+(Ugh... it won't come out. So annoying. I'll check in a mirror... Let's see, where's the nearest mirror...)
+
+@MIT_FEV:211 PLY c5ce47c7
+(Good, good, no one's around. Perfect.)
+
+@MIT_FEV:212 PLY 79d97d45
+(Mirror, mirror...)
+
+@MIT_FEV:217 MIT 8b9700c5
+"{V1238}{W10}Master{W3}{W3}{W3}!{W15} Are you{W3} all{W5} right?!"
+
+@MIT_FEV:218 PLY a14682e8
+"Whoa! S-Shijou!"
+
+@MIT_FEV:220 MIT a57f9739
+"{V1239}{W10}I saw{W3} you enter the Infirmary{W3}{W3},{W10} so I rushed over.{W25} Are you feeling unwell?"
+
+@MIT_FEV:221 PLY e1a03c1f
+"N-no, I'm fine."
+
+@MIT_FEV:222 PLY fc0ed047
+(That was close. She almost saw me with my finger up my nose.)
+
+@MIT_FEV:223 MIT 33769f87
+"{V1240}{W13}But,{W35} you seemed to be sneezing too,{W28} so perhaps you{W5} caught a cold..."
+
+@MIT_FEV:224 PLY 378e3306
+"No, the sneezing has a different reason..."
+
+@MIT_FEV:225 MIT 1e19ece0
+"{V1241}{W10}Oh?"
+
+@MIT_FEV:226 PLY ad717222
+"...N-no, really, it's nothing. See you, Shijou."
+
+@MIT_FEV:227 MIT 64d3619b
+"{V1242}{W12}Ah,{W25} Master{W5}{W10}{W3}..."
+
+@MIT_FEV:228 PLY 7540df25
+(That startled me. Shijou showing up out of nowhere.)
+
+@MIT_FEV:229 PLY 09ab8df1
+(I'll go to the boys' bathroom. I should have done that from the start.)
+
+@MIT_FEV:230 SYS 068f298d
+...And so I cleared my nose to my heart's content.
+
+@MIT_FEV:232 PLY d769ab93
+(Maybe I'll read a book for once...)
+
+@MIT_FEV:233 PLY fdbb4ec6
+(Now... what should I read...)
+
+@MIT_FEV:237 MIT cf2a24d9
+"{Nm}."
+
+@MIT_FEV:238 MIT 2cf47fc8
+"{V1244}{W10}Mas{W2}ter{W5}{W5}{W5}."
+
+@MIT_FEV:240 MIT 4d547520
+"{V1245}{W10}Are you{W3} looking{W8} for a book?{W3}"
+
+@MIT_FEV:241 PLY 05405f64
+"Yeah, sort of."
+
+@MIT_FEV:242 MIT cbabea07
+"{V1246}{W10}What kind of books{W3} do{W3} you{W38} usually{W5} read?{Ec}"
+
+@MIT_FEV:243 PLY 4e4c41fa
+"Huh? Let's see..."
+
+@MIT_FEV:244.1 - b32a6e2f
+{Ti0}- Popular novels／- Study guides／- Manga
+
+@MIT_FEV:245 PLY 372ee65b
+"Popular novels."
+
+@MIT_FEV:246 MIT 277f3aa2
+"{V1247}{Ec}{W10}Is{W1} that{W1} so."
+
+@MIT_FEV:247 MIT 16aaf2cb
+"{V1248}{W8}Which book{W3} have{W3} you{W3} read{W33} recently?{W5}"
+
+@MIT_FEV:248 PLY e884b1c9
+"Huh? Um... Come to think of it, I haven't read anything lately..."
+
+@MIT_FEV:249 PLY a9171313
+"See, that's why I'm looking for something to read... hahaha..."
+
+@MIT_FEV:250 PLY d1e0bfbb
+(Is that excuse a bit weak...?)
+
+@MIT_FEV:252 MIT 6e0c5cec
+"{V1249}{W10}Fufu{W5}{W5},{W40}{Eo} is that so.{W52} I hope you{W3} find a{W5} good book."
+
+@MIT_FEV:253 PLY 74bb09c3
+"Y-yeah. Thanks..."
+
+@MIT_FEV:254 PLY 94667168
+"Study guides."
+
+@MIT_FEV:255 MIT 36480ffe
+"{V1250}{W13}You are{W3} diligent{W5} in your{W3} studies.{W3}"
+
+@MIT_FEV:256 PLY e10d6da8
+"No, not really..."
+
+@MIT_FEV:257 MIT db846d77
+"{V1251}{W10}Please{W3} teach{W28} me{W6} how{W5} to{W3} study sometime.{W3}"
+
+@MIT_FEV:258 PLY da1bc0db
+"Ah, well... I'm not good enough to teach anyone..."
+
+@MIT_FEV:259 MIT a9815814
+"{V1252}{W10}I am counting{W3} on you."
+
+@MIT_FEV:260 PLY 18bca7c3
+"S-sure..."
+
+@MIT_FEV:261 PLY 597724ab
+"Manga."
+
+@MIT_FEV:262 MIT 7aa54d8b
+"{V1253}{W13}Manga{W5}{W2}{W5}?{W63} I do not think{W3}{W5} the Library{W3}{W3} has{W3} any..."
+
+@MIT_FEV:263 PLY ee315066
+"Right. That's why I thought I'd read a real book for once."
+
+@MIT_FEV:264 MIT c42ab85d
+"{V1254}{W10}Ah,{W30} I see."
+
+@MIT_FEV:265 PLY 2332d741
+"What kind of books do you read, Shijou?"
+
+@MIT_FEV:266 MIT 5a4f2951
+"{V1255}{W12}I{W6} like{W48} old{W3} English{W3} literature{W7}{W3}{W3}.{W35} Shakespeare,{W15} Dickens...{W3}{W3}"
+
+@MIT_FEV:267 PLY f68b0e95
+"I do know Shakespeare."
+
+@MIT_FEV:268 MIT 61f6a27b
+"{V1256}{W12}{Ec}Fufu{W5}{W5},{W28}{Eo} he is famous, after all.{W3}{W7}"
+
+@MIT_FEV:269 MIT fe4eba72
+"{V1257}{W10}My favorite{W5} Shakespeare{W8} play is{W35} Romeo and Juliet."
+
+@MIT_FEV:270 PLY 828a60e9
+"Oh, I know that one. The one where the hero and heroine die at the end, right?"
+
+@MIT_FEV:271 MIT 28750550
+"{V1258}Yes...{W10}"
+
+@MIT_FEV:272 MIT 0d51f022
+"{V1259}...But{W20} I{W5} think{W6} the two of{W3} them{W50} were{W10} united with the{W3} one{W3} they{W3} loved{W25} for all eternity.{W3} {Ec}That is what I believe."
+
+@MIT_FEV:273 PLY 5bc303fb
+"Yeah, you're right..."
+
+@MIT_FEV:274 MIT 7efbe239
+"{V1260}Romeo{W10} and{W6} Juliet{W50} is{W5} a{W5} story{W25} that{W3} is{W3} very{W3} special{W3} to{W8} me."
+
+@MIT_FEV:275 PLY e99b521f
+"I see. It's the kind of story girls like, huh?"
+
+@MIT_FEV:276 MIT 6e70c19b
+"{V1261}Fufu,{W30} {Eo}I{W10} suppose{W5} so.{W5}{W5}"
+
+@MIT_FEV:278 MIT d721c045
+"{V1262}Oh,{W18} I{W10} am sorry to have disturbed you.{W15} Well then,{W20} until next time."
+
+@MIT_FEV:280 PLY cf9fe4a7
+(...Nobody's here.)
+
+@MIT_FEV:281 PLY afabe4fb
+(...Oh well, I'll go back to class.)
+
+@MIT_FEV:282 PLY 32c82d46
+(Hm? Is something lying under the table?)
+
+@MIT_FEV:284 PLY 6ea772e2
+(Ah... a handkerchief. It feels really nice.)
+
+@MIT_FEV:285 PLY 4f0476ef
+(Could this be...)
+
+@MIT_FEV:287 PLY f2675b42
+"Ah, Hoshino. There you are."
+
+@MIT_FEV:288 YUM 1997e041
+"{Nm},{V1342}{W18} what is it?"
+
+@MIT_FEV:289 PLY 82647a41
+"Is this maybe yours, Hoshino?"
+
+@MIT_FEV:292 YUM 549e058a
+"{V1343}{W15}It's a pretty handkerchief.{W40} {Ec}{W5}{F9}{Eo}No,{W15} it's not{W8} mine."
+
+@MIT_FEV:293 PLY 67919fb4
+"I-I see."
+
+@MIT_FEV:294 PLY 0524dbde
+(So it wasn't Hoshino's...)
+
+@MIT_FEV:295 PLY e2b3ed61
+"Well, see you."
+
+@MIT_FEV:296 YUM 66443100
+"{V1344}{W12}{Ec}Yes."
+
+@MIT_FEV:298 PLY e2bc9422
+(...So whose is it? I can't tell, so I'll put it in the lost-and-found box in the Staff Room.)
+
+@MIT_FEV:299 PLY f8e7c473
+"Ah, Narumi. There you are."
+
+@MIT_FEV:300 NAR 911785bf
+"{V5035}Ah, {Nm}!{W10} Do you need something?"
+
+@MIT_FEV:301 PLY 10059526
+"I just picked this up. Is it yours, Narumi?"
+
+@MIT_FEV:302 NAR 422cad35
+"{V1269}{W12}That{W3} looks{W3} like an expensive handkerchief...{W25} {Ec}{W5}{F9}{Eo}It's{W8} not mine, though."
+
+@MIT_FEV:303 PLY 6b52f633
+(So it wasn't Narumi's...)
+
+@MIT_FEV:304 PLY ee2b5073
+"Sorry to bother you, Narumi. See you."
+
+@MIT_FEV:305 NAR d84b4906
+"{V1270}{W15}Okay.{W15} Come by any time!{W13} {Ec}I'll be waiting!"
+
+@MIT_FEV:311 MAO 435258d6
+"{V1337}{W15}Boo!"
+
+@MIT_FEV:312 PLY ffc5cdbf
+"Whoa!"
+
+@MIT_FEV:313 PLY 6b600efe
+"M-Mao..."
+
+@MIT_FEV:314 MAO 1e457e2f
+"{Nn}..."
+
+@MIT_FEV:315 MAO f82254a9
+"{V1339}{W12}Don't startle me like that,{W30} honestly.{W30} We almost collided!"
+
+@MIT_FEV:316 PLY 6c1b2754
+"S-sorry."
+
+@MIT_FEV:317 MAO 2aca57de
+"{V1340}{W15}So,{W21} did you{W4} want{W4} something?"
+
+@MIT_FEV:318 PLY 122df4f6
+"Huh?"
+
+@MIT_FEV:319 MAO 9f2f092d
+"{V1341}{W15}You{W6} came to see me, didn't you?{W10} {Ec}{W5}{Fe9}{Eo}Or{W4} not?"
+
+@MIT_FEV:320 PLY 0321467c
+"Ah... no, I just picked this up. Is it yours, Mao?"
+
+@MIT_FEV:322 MAO 6a2eb370
+"{V1342}{W12}That looks like{W4} a pricey handkerchief.{W40} {Ec}{W5}{F9}{Eo}It's{W8} not mine."
+
+@MIT_FEV:323 PLY fec0464c
+(So it wasn't Mao's...)
+
+@MIT_FEV:324 PLY 45e65d03
+"Ah, Mao... she's gone."
+
+@MIT_FEV:325 PLY f65c3abe
+"Ah, Sakino. There you are."
+
+@MIT_FEV:326 ASU c6f43611
+"{V1168}{F4}{W15}Oh,{W30} what's up, {Nm}?"
+
+@MIT_FEV:327 PLY 46266d2a
+"I just picked this up. Is it yours, Sakino?"
+
+@MIT_FEV:328 ASU 3e11a6e3
+"{V1169}{W18}A{W2} handkerchief?{W37} {Ec}{W5}{F9}{Eo}Ahaha,{W33} not{W2} to{W2} brag,{W27} but{W2} I{W3} don't{W2} carry{W3} one.{W8}{W24}"
+
+@MIT_FEV:329 ASU 4ceddcc4
+"{V1170}{W15}See,{W24} I have my towel for club activities, right?{W15} I use that."
+
+@MIT_FEV:330 PLY dcfd2899
+"Ah, right."
+
+@MIT_FEV:331 ASU 06af52c9
+"{V1171}{W15}Besides,{W30} a pretty handkerchief like that{W36} probably{W6} doesn't{W2} soak{W1} up water,{W42} {Ec}so I'm not a{W2} fan..."
+
+@MIT_FEV:332 PLY 59b464a8
+"Hahaha."
+
+@MIT_FEV:333 ASU 9d4aabb7
+"{V1172}{W15}Well,{W10} I've{W6} got{W3} club{W1} activities."
+
+@MIT_FEV:334 PLY 9c66d7f8
+"Good luck."
+
+@MIT_FEV:335 ASU ddd2b130
+"{V1173}{W12}{Ec}Yeah!"
+
+@MIT_FEV:336 PLY 4004890a
+"Ah, Futami. There you are."
+
+@MIT_FEV:337 ERI 8563ec60
+"{Nm}...{V1217}{W15} do you need{W4} something?"
+
+@MIT_FEV:338 PLY 58ba92cc
+"I just picked this up. Is it yours, Futami?"
+
+@MIT_FEV:339 ERI 2af46fcd
+"{V1218}{W15}A{W1} handkerchief...{W60} {Ec}It{W1} is{W6} not mine."
+
+@MIT_FEV:340 PLY 2401dabb
+"I-I see..."
+
+@MIT_FEV:341 ERI 24f9158f
+"{V1219}{W15}An embroidered{W1} handkerchief{W33} is{W6} not{W3} my taste."
+
+@MIT_FEV:342 PLY 1a492510
+"Right... of course, hahaha..."
+
+@MIT_FEV:343 PLY e28cf22b
+"Ah, Shijou. There you are."
+
+@MIT_FEV:344 MIT 9cf566b6
+"{Nm}.{V1263} Is something the matter?"
+
+@MIT_FEV:345 MIT 6b503b44
+"{V1264}{W10}Master,{W43} is{W3} something{W3} the{W3} matter?"
+
+@MIT_FEV:346 PLY e2bcf758
+"I just picked this up. Is it yours, Shijou?"
+
+@MIT_FEV:347 MIT 9a4a8ba0
+"{V1265}{W10}Ah...{W45} my{W6} handkerchief.{W40} I{W3} was{W3} looking for it."
+
+@MIT_FEV:348 PLY de362cce
+"Oh, good. I thought it might be yours."
+
+@MIT_FEV:349 MIT 5308f612
+"{V1266}{W10}How did{W6} you know it was{W8} mine?"
+
+@MIT_FEV:350 PLY 2ec38e57
+"It looked expensive."
+
+@MIT_FEV:351 MIT 28e0da32
+"{V1267}{Sp}{W10}Oh,{W20} not{W6} really.{Sd}{W20} I{W10} embroidered{W10} this{W5} myself."
+
+@MIT_FEV:352 PLY cb593cc4
+"Really? It's so well done."
+
+@MIT_FEV:353 MIT f0104f38
+"{V1268}{W10}Not at all.{W30} If you look closely,{W23} there are many frayed threads."
+
+@MIT_FEV:354 PLY adaeb24e
+"Hahaha, I see."
+
+@MIT_FEV:355 PLY 56b77a81
+"I'm glad you found it."
+
+@MIT_FEV:356 MIT 344514ad
+"{V1269}{W10}Yes,{W25} thank you very much."
+
+@MIT_FEV:357 MIT 22f3e58e
+"{V1270}{W10}Yes.{W35} Thank{W3} you{W3} very{W3} much,{W5} Master."
+
+@MIT_FEV:358 PLY 5d25d4c7
+"Well, see you."
+
+@MIT_FEV:359 MIT bf404ba2
+"{V1271}{W10}Yes.{W40} Well then,{W8} until next time."
+
+@MIT_FEV:360 SYS 9bb6b62f
+...And so I returned the lost handkerchief to Shijou.
+
+@MIT_FEV:363 MIT 45af65fa
+"{V1273}{W10}Master.{W3}{W3}{W3}"
+
+@MIT_FEV:364 MIT 42f7c22c
+"{V1274}{W8}Are{W3} you{W3} free{W20} right now?"
+
+@MIT_FEV:365 PLY 9f483e16
+"I am. Why?"
+
+@MIT_FEV:366 MIT e371170e
+"{V1275}{W10}Then{W20} would{W3} you{W3} have{W3} afternoon{W3} tea{W3} with me?{W40} {F9}{Sp}Although{W5} it is{W5} already{W25} after{W3} school."
+
+@MIT_FEV:367 PLY cd334a7b
+"Tea, huh? Sounds good."
+
+@MIT_FEV:368 MIT f0b1caa7
+"{V1276}{W10}Please sit down.{W10} {Eo}I will prepare{W5} it right away."
+
+@MIT_FEV:371 SYS 82bdff36
+......
+
+@MIT_FEV:372 MIT 0686df61
+"{V1277}{W10}Thank you for waiting."
+
+@MIT_FEV:373 PLY 6006d6c7
+"Where did that teapot and those cups come from?"
+
+@MIT_FEV:374 MIT 04784117
+"{V1278}{W10}They{W7} let{W5} me keep them in the Cafeteria."
+
+@MIT_FEV:375 MIT a3e91e77
+"{V1279}{W10}I{W7} often{W5} have tea parties{W25} with the{W3} ladies{W3} in the Cafeteria, too."
+
+@MIT_FEV:376 PLY 5cf5173c
+"Oh, really?"
+
+@MIT_FEV:377 PLY e7d02ee4
+"And that cake?"
+
+@MIT_FEV:378 MIT dccf8a68
+"{V1280}{W10}It is a{W3} fruit cake{W30} I made myself.{W15} It{W3} goes{W3} well with tea."
+
+@MIT_FEV:379 PLY 47c9543b
+"Oh, nice."
+
+@MIT_FEV:380 MIT a409faf7
+"{V1281}{W8}Now,{W35} please try it."
+
+@MIT_FEV:381 PLY e669c122
+"Let's see."
+
+@MIT_FEV:382 PLY 677f98e4
+"Munch munch munch... Mm, this crumbly, simple cake goes really well with tea!"
+
+@MIT_FEV:383 MIT d20269d5
+"{V1282}{W15}I{W4} am{W4} so{W4} glad.{W4}"
+
+@MIT_FEV:384 MIT 0c4db44c
+"{V1283}{W10}I am good at{W3} making{W5} sweets.{W35} Though{W2} I cannot{W5} compete{W5} with the{W5} chef when it comes to cooking."
+
+@MIT_FEV:385 SYS 2b9037a1
+...And so I had tea with Shijou.
+
+@MIT_FEV:387 PLY 3a4caa2a
+(It's hot today...)
+
+@MIT_FEV:388 PLY f3b9e05a
+(If only a breeze would blow, it'd cool off a little...)
+
+@MIT_FEV:389 PLY 26ab2977
+(Well, it's not going to work out that easily...)
+
+@MIT_FEV:396 MIT 8732cc05
+"{V1284}Eek!"
+
+@MIT_FEV:397 PLY 79120d06
+"W-whoa!"
+
+@MIT_FEV:398 PLY 4fa82b16
+(A d-divine wind!!)
+
+@MIT_FEV:404 MIT 19b71b6e
+"{V1285}{Nm}."
+
+@MIT_FEV:405 MIT 53eab6b8
+"{V1286}{W15}Master...{W2}{W5}{W5}{W7}"
+
+@MIT_FEV:406 PLY 24e96c0a
+"S-Shijou. Hey..."
+
+@MIT_FEV:407 MIT 29355f46
+"{V1287}{W10}D-did{W70} you see?"
+
+@MIT_FEV:408.1 - ceda01f5
+{Ti0}- Y-yeah／- No, I didn't see anything
+
+@MIT_FEV:409 PLY 1ea1b704
+"Y-yeah."
+
+@MIT_FEV:410 MIT 2f41a21c
+"{V1288}{W10}Ah..."
+
+@MIT_FEV:411 PLY aa991cfa
+"...But only a glimpse."
+
+@MIT_FEV:412 MIT 256edd9d
+"{V1289}{W8}I-{W30}I do not know you!"
+
+@MIT_FEV:413 MIT 64bf5c2c
+"{V1290}{W8}Master,{W5} you{W2} pervert!{W2}{W2}"
+
+@MIT_FEV:414 PLY 7f206915
+(Ah, she's gone... I only told the truth.)
+
+@MIT_FEV:415 PLY 9a96e681
+"No, I didn't see anything."
+
+@MIT_FEV:416 MIT 1ef13991
+"{V1291}{W15}I see,{W65} {Ec}that is a relief..."
+
+@MIT_FEV:417 MIT 0ccee9ff
+"{V1292}{W10}Well then,{W20} until next time."
+
+@MIT_FEV:418 PLY d2269bca
+"Y-yeah, see you."
+
+@MIT_FEV:419 PLY 1547a9f2
+(Truth is, I did catch a glimpse...)
+
+@MIT_FEV:421 PLY ee1aba39
+(Now then, what should I eat today?)
+
+@MIT_FEV:422 MIT 0c9ec380
+"{V1293}Ah, {Nm}."
+
+@MIT_FEV:423 PLY 26a27dff
+"Ah, Shijou. Having lunch in the Cafeteria?"
+
+@MIT_FEV:424 MIT 592bc542
+"{V1294}Yes."
+
+@MIT_FEV:425 PLY e13371bc
+"That's unusual."
+
+@MIT_FEV:426 MIT 13c9113a
+"{V1295}{W10}The chef is{W6} busy,{W35} so there will be no lunch box{W5} for{W3} a while."
+
+@MIT_FEV:427 PLY e43f389d
+"I see."
+
+@MIT_FEV:428 MIT dd7878df
+"{V1296}{W10}So{W50} I thought I{W3} might eat with{W5} you, {Nm}."
+
+@MIT_FEV:429 PLY be2efcf8
+"...Were you maybe waiting for me?"
+
+@MIT_FEV:430 MIT 0f36395a
+"{V1297}{Ec}{W12}Yes."
+
+@MIT_FEV:431 PLY 9ef4b23d
+"I see. I'm happy we can eat together."
+
+@MIT_FEV:432 MIT 5b52a1aa
+"{V1298}{W15}So{W6} am I."
+
+@MIT_FEV:433 PLY 6f79a1ee
+(Shijou... she didn't turn down her bento just to eat with me... surely not.)
+
+@MIT_FEV:434 MIT d8ec063b
+"{V1299}{W5}{Nm}, what do you recommend on the menu?"
+
+@MIT_FEV:435 PLY 5506e327
+"What I recommend... let's see... Well, all sorts of things."
+
+@MIT_FEV:436 PLY 10f3d49b
+"Let's get in line for now."
+
+@MIT_FEV:437 MIT 02fad62b
+"{V1300}{Ec}{W10}Yes."
+
+@MIT_FEV:438 SYS 59298dad
+...And so I had lunch with Shijou.
+
+@MIT_FEV:440 PLY b5ae66f2
+(Shijou...)
+
+@MIT_FEV:441 PLY 170e17df
+(So differences in family background really exist. Some things really can't be helped.)
+
+@MIT_FEV:442 PLY 945499db
+(But... I can't give up. I feel about her...)
+
+@MIT_FEV:443 TOM 546ecd0e
+"{Nm},{V0124}{W15} what are you doing{W6} in{W8} a{W4} place like this?"
+
+@MIT_FEV:444 PLY 685a4b39
+"Huh? Ah... this is the Year 3 floor. When did I..."
+
+@MIT_FEV:445 TOM 1ca9bf9e
+"{V0125}{W15}When did you...{W45} you{W15} don't{W4} remember?"
+
+@MIT_FEV:446 PLY 4825d1fb
+"I was lost in thought..."
+
+@MIT_FEV:447 TOM 2afefe9f
+"{V0126}{W15}Hmm...{W66} something{W4} troubling{W4} you?{W60} If{W3} you{W3} like,{W3} your{W8} teacher{W8} can{W3} listen."
+
+@MIT_FEV:448 PLY 13bffb9d
+"Ms. Kawada..."
+
+@MIT_FEV:449 TOM f7073eb9
+"{V0127}{W12}...That{W4} look{W4} isn't{W4} about{W4} studying.{W39} {Ec}{W5}{Eh}Aha,{W48} is{W33} it{W8} a{W8} love{W4} problem?{W6}"
+
+@MIT_FEV:450 PLY eab98a1e
+"Can you tell?"
+
+@MIT_FEV:451 TOM bf28dfc5
+"{V0128}{W15}Of{W3} course.{W60} {F7}I{W2} worried{W8} a{W3} lot{W30} back{W3} in{W4} my{W4} student days, too."
+
+@MIT_FEV:452 PLY 2813cdab
+"Don't you worry about it anymore?"
+
+@MIT_FEV:453 TOM 5f3941b5
+"{V0129}I{W18} do{W6} worry.{W75} ...But{W2} never{W2} mind{W2} me,{W4} all{W4} right?{W15}"
+
+@MIT_FEV:454 PLY 15d55dd6
+"R-right."
+
+@MIT_FEV:455 TOM 1bd90c2f
+"{V0130}So,{W15} what{W15} is{W4} it?{W27} Tell me."
+
+@MIT_FEV:456 PLY 8b4a07f0
+"Well... Ms. Kawada, what would you do in a situation like this?"
+
+@MIT_FEV:457 TOM 13c66a2e
+"{V0131}A{W15} situation like{W4} what?"
+
+@MIT_FEV:458 PLY 21626c30
+"Say someone's parents object to her seeing the person she likes..."
+
+@MIT_FEV:459 TOM 6ced7183
+"{V0132}I{W18} wouldn't{W12} care{W3} about{W4} my parents.{W39} I'd ignore them and date anyway."
+
+@MIT_FEV:460 PLY 41674d9d
+"Um... some girls can't bear to make their parents sad. In that case, what should..."
+
+@MIT_FEV:461 TOM 8c6cfdd5
+"{V0133}Why{W15} not{W4} just steal her away?"
+
+@MIT_FEV:462 PLY 9d492cbe
+"What?!"
+
+@MIT_FEV:463 TOM c21f8110
+"{V0134}Why{W15} not?{W30} You{W4} like{W4} each{W2} other,{W2} right?{W36} I'd{W4} bet{W4} she{W3} wants{W4} it{W3} too."
+
+@MIT_FEV:464 PLY c1c90490
+"...That doesn't sound like something a teacher would say."
+
+@MIT_FEV:465 TOM b7b79240
+"{V0135}Of{W15} course,{W33} it{W3} all{W3} assumes{W3} a{W3} pure{W3} and{W3} proper{W3} relationship.{W5}{W6}{W6}{W6}"
+
+@MIT_FEV:466 TOM 774338e5
+"{V0136}...So,{W48} who{W15} is{W6} this{W5} girl?"
+
+@MIT_FEV:467 PLY 220550ff
+"I-I can't tell you that."
+
+@MIT_FEV:468 TOM fdb94ec3
+"{V0137}{Ec}Fufu,{W36} of course not.{W45}{Eo} Well,{W15} good{W15} luck, {Nm}."
+
+@MIT_FEV:469 TOM ebe89874
+"{V0138}See{W15} you."
+
+@MIT_FEV:470 PLY 625a2909
+(Ms. Kawada is so extreme...)
+
+@MIT_FEV:471 PLY eae348de
+(Steal her away, huh... Shijou...)
+
+@MIT_FEV:472 PLY d4f781aa
+(I ended up at the pool without really meaning to...)
+
+@MIT_FEV:473 PLY e936556c
+(I wonder if anyone's here...)
+
+@MIT_FEV:475 MIT a0a5ab37
+"{V1301}{W10}Oh, {Nm}."
+
+@MIT_FEV:476 PLY ad57fbe3
+"Oh, Shijou. Were you at the pool?"
+
+@MIT_FEV:477 MIT d6fe5e55
+"{V1302}{W10}Yes."
+
+@MIT_FEV:478 PLY 7a8cf659
+"Are you a good swimmer, Shijou?"
+
+@MIT_FEV:479 MIT db365c3b
+"{V1303}{W10}I would not say I am good,{W3}{W5} but{W30} I can{W5} swim{W3} well{W3} enough."
+
+@MIT_FEV:481 MIT 633d336e
+"{V1304}{W10}Father{W3} taught{W20} me{W3} to{W3} swim{W5} when{W3} I{W3} was{W10} little."
+
+@MIT_FEV:482 PLY 738358c4
+"Oh, really? At a public pool or something?"
+
+@MIT_FEV:483 MIT c310477b
+"{V1305}{W10}No,{W30} there is{W5} a{W3} small pool{W3} in our garden."
+
+@MIT_FEV:484 PLY 2f2b6283
+"I-I see. A pool in the garden..."
+
+@MIT_FEV:485 PLY 0cbfe029
+(A young lady's house really is different...)
+
+@MIT_FEV:486 MIT 8e0921d2
+"{V1306}{W10}Well then,{W25} I will{W6} be going{W5} now."
+
+@MIT_FEV:488 MIT 2287e111
+"{V1244}{W15}Master.{W1}{W4}{W4}{W4}"
+
+@MIT_FEV:489 MIT 65d1cf29
+"{V1308}{W10}What{W3} are{W10} you{W3} doing{W3} in the schoolyard?"
+
+@MIT_FEV:490 PLY 9951172c
+"Oh... just wandering around..."
+
+@MIT_FEV:491 MIT 6a21dc7a
+"{V1309}{Ec}{W10}Fufu,{W20}{Eo} is{W5} that{W5} so.{W5}"
+
+@MIT_FEV:492 PLY b1819d09
+"Do you have PE now, Shijou?"
+
+@MIT_FEV:493 MIT 49271467
+"{V1310}{W10}Yes.{W30} Today{W3} it is soft tennis."
+
+@MIT_FEV:494 MIT 51895f94
+"{V1311}{W10}I{W30} am{W6} good at tennis.{W35} Father{W3} taught{W3} me{W3} when{W3} I{W3} was{W3} little."
+
+@MIT_FEV:495 PLY 8986da29
+"Don't tell me you have a tennis court in your garden too, not just the pool?"
+
+@MIT_FEV:496 PLY b63a94ab
+"Don't tell me there's a tennis court in your garden?"
+
+@MIT_FEV:497 MIT 63107162
+"{V1312}{W10}Yes.{W3}{W3}{W30}{Eo} One grass court."
+
+@MIT_FEV:498 PLY 9b3091f0
+"I see... no wonder you're good."
+
+@MIT_FEV:499 MIT 3721268d
+"{V1313}{Ec}{W10}Yes."
+
+@MIT_FEV:500 MIT 47a4e52f
+"{V1316}{W10}Well then,{W25} I will be off."
+
+@MIT_FEV:501 MIT 4755ac1c
+"{V1317}{Ec}{W10}Yes."
+
+@MIT_FEV:503 PLY 9bc1a8a5
+(Now, what's my next class...)
+
+@MIT_FEV:504 SYS 58851f4c
+{Ti0}{Ti1}Crash!
+
+@MIT_FEV:505 PLY c2502b2a
+(Huh? What was that sound? It came from the Science Lab!)
+
+@MIT_FEV:509 MIT c83e338b
+"{V1318}{W10}Oh, {Nm}."
+
+@MIT_FEV:510 MIT c80627b8
+"{V1319}{W10}Oh,{W20} Master.{W3}{W3}{W3}"
+
+@MIT_FEV:511 PLY c4185cb8
+"Shijou! What was that sound?"
+
+@MIT_FEV:512 MIT 3d8fda65
+"{V1320}{W10}Oh,{W40} I found{W3} a beaker{W3} someone{W5} forgot to put away,{W15} and{W3} when I tried to put it on the{W3} shelf,{W10} I dropped it..."
+
+@MIT_FEV:513 PLY 7a556a80
+"Did it break? Are you hurt?"
+
+@MIT_FEV:514 MIT b14e04a6
+"{V1321}{W10}Yes.{W15} I am fine.{W2}{W3}"
+
+@MIT_FEV:515 MIT dbb365f5
+"{V1322}{W10}To break it...{W35} {Ec}I have only made things worse."
+
+@MIT_FEV:516 PLY 1803343a
+"Don't say that. Whoever left it lying around is at fault. It's not your fault, Shijou."
+
+@MIT_FEV:517 MIT dea4d03a
+"{V1323}{W10}{Nm}..."
+
+@MIT_FEV:518 MIT 3edabee0
+"{V1324}{W13}Master.{W2}{W5}{W5}..."
+
+@MIT_FEV:519 PLY 605c59c4
+"Come on, let's clean it up. I'll get a broom and dustpan."
+
+@MIT_FEV:520 MIT e8298569
+"{V1325}{W10}Oh,{W20} that is all right.{W2}{W3} I{W3} will{W6} do it{W5} by myself."
+
+@MIT_FEV:521 PLY 1cabeb77
+"No, broken glass is dangerous, so I'll do it. This is a guy's job."
+
+@MIT_FEV:522 MIT 159ad307
+"{V1326}...{W5}You are kind,{W3} {Nm}."
+
+@MIT_FEV:523 MIT a345f6a1
+"{V1327}{W10}You are so{W3} kind,{W3}{W60} Master.{W3}{W3}"
+
+@MIT_FEV:524 PLY c9569087
+"It's nothing special. I'll go get them, okay?"
+
+@MIT_FEV:525 MIT 4321870a
+"{V1328}{W10}Oh...{W45} then,{W5} I will{W3} help you."
+
+@MIT_FEV:526 SYS 24793187
+...And so Shijou and I cleaned up the broken beaker.
+
+@MIT_FEV:528 PLY b1131225
+(I wonder if Shijou is in the Music Room...)
+
+@MIT_FEV:529 PLY 427f5f4e
+(Huh? Not here. Maybe the prep room?)
+
+@MIT_FEV:530 PLY b742be32
+"Oh, Shijou, there you are."
+
+@MIT_FEV:531 MIT b171c830
+"{V1329}{W10}Oh, {Nm}."
+
+@MIT_FEV:532 MIT 8757a4cd
+"{V1330}{W10}Oh,{W30} Master.{W3}{W3}"
+
+@MIT_FEV:533 MIT d56a0365
+"{V1331}{W12}I am looking for{W3} the Chopin{W3} score.{W30} I am sure{W10} it{W3} was around{W3} here......{W53}{P1}{F5}{B80} Oh..."
+
+@MIT_FEV:534 PLY d2f9c260
+"Did you find it?"
+
+@MIT_FEV:535 MIT 0853d945
+"{V1332}{W12}N-{W48}no..."
+
+@MIT_FEV:536 PLY 0f4ebbe1
+"But it looked like you just found something."
+
+@MIT_FEV:537 MIT 9a911525
+"{V1333}{W15}Um...{W60} well...{W55} what I found{W20} is not{W7} the score...{W58} um..."
+
+@MIT_FEV:538 PLY 3150f24e
+"What is it?"
+
+@MIT_FEV:539 MIT f0d19c16
+"{Nm}{V1334}, {W3}please{W5} look{W10} down.{W48} I beg{W3} you."
+
+@MIT_FEV:540 MIT 7fc280b2
+"{V1335}{W13}Master,{W3}{W3}{W3}{W47} please look{W10} down.{W55} I beg you.{W3}{W3}"
+
+@MIT_FEV:541 PLY ab6a7d68
+"Down? ...Ah!"
+
+@MIT_FEV:542 PLY f262b453
+"W-when did my zipper..."
+
+@MIT_FEV:543 MIT ee89a325
+"{V1336}{W12}...{W12}...{W12}"
+
+@MIT_FEV:544 PLY 54a0fd3a
+"S-sorry, sorry. So it's not Chopin, it's white panties, huh?"
+
+@MIT_FEV:545 MIT 0b9133ef
+"{V1337}{W10}I{W2} do not{W2} want to hear it,{W5} Master!"
+
+@MIT_FEV:546 PLY 06e11cd1
+(Maybe that was one remark too many...)
+
+@MIT_FEV:547 PLY 4b01bbad
+(I wonder if Shijou is in the Music Room...)
+
+@MIT_FEV:548 PLY 4f22478f
+"Shijou, are you here?"
+
+@MIT_FEV:550 MIT 262cdce1
+"{V1338}{W10}Oh, {Nm}."
+
+@MIT_FEV:551 PLY 8f7eb314
+"What are you doing?"
+
+@MIT_FEV:552 MIT ee5555c9
+"{V1339}{W10}I was just{W5} sitting{W3} here.{W60}{Ec} Being near the piano{W25} calms me.{Eo}"
+
+@MIT_FEV:553 PLY 0d80b9d5
+"......"
+
+@MIT_FEV:554 MIT a012f1de
+"{V1340}{W13}{Ec}...{W13}...{W13}"
+
+@MIT_FEV:555 MIT 8a0ee752
+"{V1341}{W12}Yes."
+
+@MIT_FEV:556 PLY a75b72c5
+"Would you play the piano for me?"
+
+@MIT_FEV:557 MIT e87d2e1b
+"{V1342}{W10}Oh...{W25} Yes!{W25} {Ec}With pleasure."
+
+@MIT_FEV:559 MIT 47a1c01a
+"{V1343}{W13}Please listen{W3} over there.{W3}"
+
+@MIT_FEV:560 PLY cc4af171
+"Okay."
+
+@MIT_FEV:562 PLY 8cd15168
+(Shijou gave me such a lovely piece...)
+
+@MIT_FEV:563 PLY 5d0dee2c
+(I want to be her knight...)
+
+@MIT_FEV:564 PLY 6320d269
+(No matter when I hear it, it's a beautiful piece...)
+
+@MIT_FEV:565 SYS 8fa0e848
+...And so I listened to Shijou's piano for as long as I could.
+
+@MIT_FEV:568 PLY c74ff53f
+(Phew, PE is finally over...)
+
+@MIT_FEV:570 PLY 0490cafe
+(Ugh... I'm dizzy from the heat...)
+
+@MIT_FEV:572 AKI 32603550
+"{V0193}{W8}Man,{W1}{W1}{W1}{W72} today's{W1} PE{W1} was{W1} brutal.{W1}"
+
+@MIT_FEV:573 PLY 6896fbe6
+"Yeah..."
+
+@MIT_FEV:574 PLY bfe95b1d
+"A long-distance run when it's still this hot. I thought I'd collapse."
+
+@MIT_FEV:575 AKI 5a05b59c
+"{V0194}{W12}{Ec}Tell me about it{W8}{W3}{W5}..."
+
+@MIT_FEV:576 AKI aed8a843
+"{V0195}{W8}Phew...{W48} my gym clothes{W2}{W2}{W2} are{W10} soaked{W2}{W15} with sweat.{Sd}{F3} {Nm},{W15} want to{W2}{W2} splash{W2} off with water together?"
+
+@MIT_FEV:577 PLY 3f0a0c19
+"What?! W-water?!"
+
+@MIT_FEV:578 AKI 4b544123
+"{V0196}{W10}Yeah.{W30} Right there,{W40} at the{W3} water fountain.{W50}{Fe1}{Ec} It'll feel great."
+
+@MIT_FEV:579 PLY 12a5db34
+"I-I'll pass."
+
+@MIT_FEV:580 AKI 73b8f89b
+"{V0197}{W8}I see...{W48} then{W10} I'll ask someone{W3} else."
+
+@MIT_FEV:581 AKI 946043ef
+"{V0198}{W7}Later."
+
+@MIT_FEV:582 PLY c39be33d
+"L-later..."
+
+@MIT_FEV:583 PLY 948609bc
+(I don't think anyone will join him, though...)
+
+@MIT_FEV:584 MIT c1c5a85f
+"{V1345}{W10}Good{W3} work,{W3}{W3} {W15}Master.{W5}{W3}"
+
+@MIT_FEV:585 MIT 544c7814
+"{V1346}{W10}Please use{W28} this towel.{W3}"
+
+@MIT_FEV:586 PLY 6e848d09
+"Th-thanks."
+
+@MIT_FEV:587 SYS 8e53b364
+{Ti0}{Ti2}Rub rub...
+
+@MIT_FEV:588 PLY 49a94180
+"Phew, thanks. I feel refreshed now."
+
+@MIT_FEV:589 MIT a1f0b992
+"{V1347}{W10}I am glad.{W5}"
+
+@MIT_FEV:590.1 - 2ebbd238
+{Ti0}- Do you bring this towel every day?／- How do you know I had PE?／- This towel smells nice
+
+@MIT_FEV:591 PLY 0419c87c
+"Do you bring this towel every day?"
+
+@MIT_FEV:592 MIT a41f009a
+"{V1348}{W10}No,{W25} I have swimming this afternoon.{W3}{W3}"
+
+@MIT_FEV:593 PLY efaf78ea
+"Ah, that's why."
+
+@MIT_FEV:594 PLY 679981d6
+"Wait, then won't that be a problem for you, Shijou..."
+
+@MIT_FEV:595 MIT c99a47e5
+"{V1349}{W10}Why would it be?"
+
+@MIT_FEV:596 PLY aaf88aeb
+"Well, it's dirty with my sweat now..."
+
+@MIT_FEV:597 MIT ade120c0
+"{V1350}{W10}It is not dirty in the least.{W25} It is{W3} your{W3}{W3}{W3} sweat,{W5} Master.{W3}"
+
+@MIT_FEV:598 PLY a063a71c
+"R-really? I was going to wash it before returning it."
+
+@MIT_FEV:599 MIT 017e49f6
+"{V1351}{W8}Ab-{W30}absolutely not!"
+
+@MIT_FEV:600 MIT 83da59ce
+"{V1352}{W10}For you to wash{W3} it,{W3}{W3}{W3} Master...{W45} I will take care of that sort of thing,{W20}{W6} {W15}so please do not worry."
+
+@MIT_FEV:601 MIT 3faf6ebf
+"{V1353}{W10}Shall I wash{W3}{W3}{W3} those{W3} gym clothes{W5} too?"
+
+@MIT_FEV:602 PLY bd7b63b5
+"Ah, no! These are fine!"
+
+@MIT_FEV:603 MIT 366c200e
+"{V1354}{W13}Are{W1}{W1} you{W1} sure{W1}?{W1}"
+
+@MIT_FEV:604 PLY 8cef4b3d
+"How do you know I had PE?"
+
+@MIT_FEV:605 MIT f1ac19f2
+"{V1355}{W10}During{W3} class,{W5}{W5}{W15} I could{W5} {Ec}see you{W5} from the classroom.{W3}"
+
+@MIT_FEV:606 MIT feee613a
+"{V1356}{W10}A long-distance run{W3} in this heat,{W5}{W5}{W3} I{W3} thought{W3} it{W3} must be{W15} so{W3} hard..."
+
+@MIT_FEV:607 PLY 81ddc2fa
+"I see, so that's why you brought it."
+
+@MIT_FEV:608 MIT ce994dc9
+"{V1357}{Ec}{W10}Yes."
+
+@MIT_FEV:609 PLY 5fa80ae7
+"This towel smells nice."
+
+@MIT_FEV:610 MIT 84b8f04e
+"{V1358}{W10}Does{W1}{W1} it?{W1}{W1}{W35} I{W1} only wash it{W3}{W3}{W2} with ordinary{W3} powdered soap."
+
+@MIT_FEV:611 PLY d7bfe7d9
+(It smells like Shijou... My heart's pounding...)
+
+@MIT_FEV:612 PLY e02e4dcb
+"Um, well, see you."
+
+@MIT_FEV:613 MIT e09fb2e0
+"{V1359}{W10}Oh,{W20} Master,{W3}{W3}{W5}{W15} the towel!"
+
+@MIT_FEV:614 PLY bebcc7f2
+"Oh, sorry, sorry, I have to give it back."
+
+@MIT_FEV:615 PLY 2510a559
+(...Handing back a towel I've used as it is feels kind of wrong.)
+
+@MIT_FEV:616 MIT 7284c6a3
+"{V1360}{W13}Well then,{W25} excuse me.{W3}{W3}"
+
+@MIT_FEV:618 PLY b94a2fd8
+(Ah, that's... Shijou...)
+
+@MIT_FEV:619 PLY bb205deb
+(She hasn't noticed me. All right...)
+
+@MIT_FEV:620 PLY 1e910934
+(I'll sneak up quietly...)
+
+@MIT_FEV:629 PLY afdbab5c
+"{Ts3}Boo!{Ts2}"
+
+@MIT_FEV:630 MIT 0ac8b1f1
+"{V1361}{W10}Eek!"
+
+@MIT_FEV:631 MIT e4883258
+"{V1362}{Nm}!"
+
+@MIT_FEV:632 MIT f189e8b9
+"{V1363}{W10}M-{W45}Master!{W3}{W3}{W5}"
+
+@MIT_FEV:633 PLY 6202f118
+"Did I scare you?"
+
+@MIT_FEV:634 MIT 4206d4e5
+"{V1364}{W18}Yes.{W5}{W5}{W90} Thank you,{W10} you {Ec}saved{W3} me.{Eo}"
+
+@MIT_FEV:635 PLY 8c971452
+"Huh? Why?"
+
+@MIT_FEV:637 MIT 0b8ead88
+"{V1365}{W10}I had the hiccups{W5} and they{W10} would not stop."
+
+@MIT_FEV:638 PLY 18b0ca17
+"Oh, I see."
+
+@MIT_FEV:639 MIT 591e7a6c
+"{V1366}{W10}I feel{W5} much{W3} better now."
+
+@MIT_FEV:640 PLY 014075ce
+"Is that so. I turned out to be useful in an unexpected way."
+
+@MIT_FEV:641 MIT 6d6c8dc9
+"{V1367}{W10}Thank you {Ec}very much.{Eo}{W40}{Ec}{P1}{F5} ...Hic."
+
+@MIT_FEV:642 PLY 8563af85
+"Huh?"
+
+@MIT_FEV:643 MIT 14f06f03
+"{V1368}{W15}Ah...{W60} I thought they had stopped{W3}...{W50}{Ec}{F5} Hic.{W20} {F6}{Eo}They are back...{W50}{Ec}{F5} hic,{W50}{F6}{Eo} the hiccups...{W50}{Ec}{F5} hic."
+
+@MIT_FEV:644.1 - f78e7765
+{Ti0}- Want me to scare you again?／- They say tickling helps／- You're kind of cute
+
+@MIT_FEV:645 PLY 5a4e3f4f
+"Want me to scare you again?"
+
+@MIT_FEV:646 MIT 2679e30e
+"{V1369}{W10}P-{W80}please{W3}...{W55}do{W5}so{W5}...{W35}{Ec}{F5} hic."
+
+@MIT_FEV:647 MIT 870c48c2
+"{V1370}{W10}......"
+
+@MIT_FEV:648 PLY 35ca746a
+"Well?"
+
+@MIT_FEV:649 MIT df0146ee
+"{V1371}{W10}{Ec}{F5}...Hic."
+
+@MIT_FEV:650 PLY b6acb481
+"No good, huh..."
+
+@MIT_FEV:651 MIT b33f37d5
+"{V1372}{W15}The second time...{W55}{Ec}{F5} hic,{W65}{F9}{Eo} I was{W15} not surprised at all."
+
+@MIT_FEV:652 PLY 89d986db
+"Ahaha, I guess not."
+
+@MIT_FEV:653 MIT e40bafe1
+"{V1373}{W10}Fu{W5}fu{W5}...{Eo}{W30}{Ec}{F5} hic.{W5}"
+
+@MIT_FEV:654 SYS bcc629d3
+In the end, Shijou's hiccups did not go away for a while.
+
+@MIT_FEV:655 PLY 8d65bdff
+"They say tickling helps."
+
+@MIT_FEV:656 MIT 50c5933d
+"{V1374}{W8}What?"
+
+@MIT_FEV:659 PLY 1a6ac215
+"Here we go, tickle tickle tickle..."
+
+@MIT_FEV:660 MIT 75aa3c3a
+"{V1375}{Ec}{W10}Hehe,{W5}{W5}{W35}{Eo} those{W5} fingers.{W35} Hehe{W5}hehe{W5}...{W50}{Ec}{F5} hic{W20} hic...{W5}{W5}"
+
+@MIT_FEV:661 MIT 1e751aa1
+"{Nm}, {V1376}{W10}p-{W30}please{W3} stop...{W20}{Ec}{F5} hic,{W28} the{W3} hiccups{W8} mixed{F2}{Ec} with{W3} giggles{W3}{W10}{F9}{Eo} and{W10} laughter{W20} are{W3} a{W3} terrible{W3} mess...{W30}{Ec}{F5} hic."
+
+@MIT_FEV:662 MIT 5b3b7ad7
+"{V1377}{W13}Master,{W5}{W5}{W20} p-{W20}please{W5} stop...{W30}{Ec}{F5} hic,{W25} the{W3} hiccups{W10}{F2}{Ec} mixed{W3} with{W3} giggles{W3}{W7}{F9}{Eo} and{W13} laughter{W20} are{W3} a{W3} terrible{W3} mess...{W50}{Ec}{F5} hic.{W3}"
+
+@MIT_FEV:663 PLY 71241bbd
+"If you get past that, it gets easier. Here we go, tickle tickle tickle..."
+
+@MIT_FEV:664 MIT 3491ff16
+"{V1378}{W10}Fu{W3}fu{W3}fu{W3}fu{W3}fu{W3}fu{W3}...{W30}{Ec}{F5} hic{W10} hic,{W10}{F9}{Eo} p-{W12}please stop.{W38} I beg{W3} you...{W22}{W35}{Ec}{F5} hic{W18} hic..."
+
+@MIT_FEV:665 SYS f35fe71c
+In the end, Shijou's hiccups did not go away. Strange.
+
+@MIT_FEV:666 PLY 49654744
+"You're kind of cute."
+
+@MIT_FEV:667 MIT 6c534f1b
+"{V1379}{W13}I-{W40}I am not{W15}...{W40}{Ec}{F5} hic."
+
+@MIT_FEV:668 PLY 4c02405b
+"I wish there were a way to cure them..."
+
+@MIT_FEV:669 MIT 4261f428
+"{V1380}{W10}{Ec}{F5}Hic...{W55}{F9}{Eo} I will{W3} sit{W3} quietly{W35} in{W10} the{W5} classroom{W3}."
+
+@MIT_FEV:670 PLY 93d02cbc
+"Yeah, that's best."
+
+@MIT_FEV:671 MIT 7e0ff8e5
+"{V1381}{W10}Well then,{W48} excuse{W3} me{W3}...{W40}{Ec}{F5} hic...{W28}{F3}{Eo}"
+
+@MIT_FEV:672 PLY 64f95e73
+"See you~"
+
+@MIT_FEV:673 PLY 238cc764
+(I hope they go away soon...)
+
+@MIT_FEV:677 - 64c62dc2
+a girl
+
+@MIT_FEV:679 MIT 3ba2bbf8
+"{V6005}{W10}Yes,{W10} Sensei.{W3}{W3}{W45} Two more{W5} balls,{W5} then.{W45} I{W3} will fetch them right away."
+
+@MIT_FEV:680 PLY 0d0ab461
+(Huh?! That voice... Don't tell me class has already started?)
+
+@MIT_FEV:681 PLY 1851532d
+"{Ts1}Let's see what's going on outside..."
+
+@MIT_FEV:686 PLY f303d5d9
+({Ts3}Whoa!)
+
+@MIT_FEV:687 PLY a259b30b
+(B-bloomers, so close!)
+
+@MIT_FEV:688 MIT 59daeffc
+"{V6006}{W12}This{W8} ball{W12} seems{W3}{W3}{W3}...{W80} a{W8} little{W3} low{W8} on{W3} air.{W40} Another{W5} ball..."
+
+@MIT_FEV:689 PLY a7479877
+(Ugh... who is it? Should I peek at the other shelves too?)
+
+@MIT_FEV:690.1 - df527432
+{Ti0}- Upper shelf／- Lower shelf
+
+@MIT_FEV:691 PLY 8533d1ba
+(The upper shelf...)
+
+@MIT_FEV:698 PLY b2a3edad
+(Whoa! A-a chest!)
+
+@MIT_FEV:699 PLY 7be9123e
+(Pretty slender... huh.)
+
+@MIT_FEV:700 PLY 3f3ce258
+(The lower shelf...)
+
+@MIT_FEV:706 PLY 1e936bf8
+(Whoa! T-thighs!)
+
+@MIT_FEV:707 PLY b6e0bc7f
+(What very slim thighs.)
+
+@MIT_FEV:708 PLY 0a159107
+(Huh?! ...Wait, this is basically peeping!)
+
+@MIT_FEV:709 SYS dc2db933
+Clunk!
+
+@MIT_FEV:710 PLY 571cde3a
+(Oh no!)
+
+@MIT_FEV:711 MIT efe0267b
+"{V6007}{W8}Who is there?!"
+
+@MIT_FEV:712 MIT 83292789
+"{V6008}{W12}Is someone...{W72} inside{W3} the{W5} vaulting{W80} box{W3}?"
+
+@MIT_FEV:713 PLY f32cf92a
+(Th-this way of speaking, don't tell me...)
+
+@MIT_FEV:718 MIT 25ee4574
+"{V1382}{W15}No{W3} one{W3} is...{W77}{Eo} there...{W44} right?{W3}"
+
+@MIT_FEV:719 PLY 2b4bd544
+(It really is Shijou! This is bad...)
+
+@MIT_FEV:720 MIT 98bfdab5
+"{V1383}{W15}But{W55} I{W3} sense{W15} someone{W2}{W8}..."
+
+@MIT_FEV:721 MIT b218c171
+"{V1384}{W10}Mr.{W8}{W8}Sensei{W8}!"
+
+@MIT_FEV:722 PLY 2e47b50b
+(T-this is bad!)
+
+@MIT_FEV:723 PLY 95c03a49
+"Shijou, it's me, me."
+
+@MIT_FEV:724 MIT 16678936
+"{V1385}{V}{W8}What?! {Nm}?"
+
+@MIT_FEV:725 MIT 048cd96c
+"{V1386}{W8}What?!{W35} Master{W2}{W5}{W5}{W5}?"
+
+@MIT_FEV:726 MIT 53a1dadb
+"{V1387}{W10}Why{W2}{W2} are you{W5} in{W5} there{W6}..."
+
+@MIT_FEV:727 PLY 25dec948
+"It's a long story, but I was napping in here and before I knew it, class had started."
+
+@MIT_FEV:728 MIT ba8cc5e1
+"{V1388}{W17}I{W1}{W1}see{W1}{W1}{W1}.{W1}"
+
+@MIT_FEV:729 MIT 1d816049
+"{V1389}{W15}But{W25} if you are in{W3} there,{W20} you cannot{W5} complain{W6} if{W5} people suspect you{W12} of{W5} something{W1}{W1} improper."
+
+@MIT_FEV:730 PLY 377eac4c
+"I know. So please help me."
+
+@MIT_FEV:731 MIT 682f9783
+"{V1390}...{W5}Understood.{W40}{Eo} Leave{W6} it{W10} to{W3} me."
+
+@MIT_FEV:732 MIT c445683f
+"{V1391}{W10}{Nm},{W25} please stay hidden{W3} in there. {W35}I will make sure{W3}{W3} everyone{W3}{W3} stays{W8} away{W3} from{W3} the{W10} gym storeroom."
+
+@MIT_FEV:733 MIT 7cd1f032
+"{V1392}{W10}Master,{W3}{W3}{W3}{W25} please stay hidden{W3} in there.{W38} I will make sure{W3}{W3} everyone{W3}{W5} stays{W3} away{W3}{W10} from the gym storeroom."
+
+@MIT_FEV:734 PLY ce013078
+"I owe you one."
+
+@MIT_FEV:735 MIT 8b0485bd
+"{V1393}{W15}Now then,{W23} I will go.{W45} If I do{W5} not{W3} return{W5} soon,{W3}{W25}{F9} the{W3} teacher{W3}{W3} will{W5} become{W3} suspicious."
+
+@MIT_FEV:736 PLY 6ca0df4e
+"Okay. Do well in gym class."
+
+@MIT_FEV:737 MIT 813cc5d8
+"{V1394}{W13}{F3}{Ec}Yes."
+
+@MIT_FEV:739 MIT cd83790e
+"{V1395}{W10}Ah,{W30} Sensei.{W3}{W3}{W45} No,{W23} it is nothing.{W35} I{W3} am{W5} sorry{W3} I am late."
+
+@MIT_FEV:740 PLY ef27698c
+(Phew, that was close. I'm safe now.)
+
+@MIT_FEV:741 SYS 3b476999
+...And so I spent the time inside the vaulting box.
+
+@MIT_FEV:742 PLY df81f11b
+"Well then, time to head to school..."
+
+@MIT_FEV:743 PLY c361a264
+"Haaah, I'm still sleepy."
+
+@MIT_FEV:744 MIT 2d93de9d
+"{Nm}, {V1396}{W10}{Ec}good morning.{Eo}"
+
+@MIT_FEV:745 PLY 5a04e752
+"Ah, Shijou! G-good morning! Why are you here?"
+
+@MIT_FEV:746 MIT 74152591
+"{V1397}{W10}The limousine{W5} broke down,{W5} so{W25}{F2} today{W5}{W2} I{W8} am{W3} walking."
+
+@MIT_FEV:747 PLY 358b3c61
+"I see. That's unlucky."
+
+@MIT_FEV:748 MIT 31501c36
+"{V1398}{W12}{Ec}Yes."
+
+@MIT_FEV:749 PLY c97de550
+"But this is pretty far off your route to school, isn't it?"
+
+@MIT_FEV:750 MIT 4b72f25d
+"{V1399}{W10}You have{W3} walked me home{W13} a few{W3} times,{W3}{W10} so{W25}{Ec} today{W3} I{W5} wanted{W6} to{W5} meet{W3} you.{Eo}"
+
+@MIT_FEV:751 PLY cdfa8b55
+"I see... thank you."
+
+@MIT_FEV:752 MIT c648066f
+"{V1400}{W12}{Ec}You{W2} are{W2} wel{W1}come{W1}.{W1}{W1}{W1}{W65}{Eo}{F6} But...{W1}"
+
+@MIT_FEV:753 PLY 0a27434a
+"?"
+
+@MIT_FEV:754 MIT d6ab2e05
+"{V1401}{W10}We{W1}are{W1}quite{W1}{W5}late{W4}{W5} for{W4} school{W9}{W1}{W1}{W1}{W1}{W1}.{W50}{Sp} If we do not{W18} hurry{W4}{W1}{W1}{W1}{W1}{W1} we will{W1} be{W1}{W4} tardy{W1}{W1}."
+
+@MIT_FEV:755 MIT d8a83de8
+"{V1402}{W10}{Ec}Hehe,{W3}{W3}{W3}{W35}{Eo} come,{W25} let{W3} us hurry."
+
+@MIT_FEV:756 SYS c2bed783
+...And so I went to school with Shijou.
+
+@MIT_FEV:757 SYS 49aa6d18
+If I had known I could go with Shijou, I would have gotten up earlier... What a shame.
+
+@MIT_FEV:758 PLY 91c7a208
+"Shijou, what are you doing?"
+
+@MIT_FEV:759 MIT 87fde313
+"{V1403}{Fe2}{W10}Ah, {Nm}."
+
+@MIT_FEV:761 MIT e64a24a9
+"{V1404}{W13}Did{W5} you{W5} know?{W43} This{W3} summer,{W40} swallows{W5} built{W3} a{W3} nest{W25} under{W3} those{W3} eaves.{W2}"
+
+@MIT_FEV:762 PLY ace7b81f
+"Oh, really? I didn't know."
+
+@MIT_FEV:763 MIT f9ed9f2c
+"{V1405}{W10}Busily,{W8} the parent{W5} birds{W5} brought{W8} food{W3} to{W3} the chicks{W8} again{W3} and{W8} again,{W3}{W40}{F2} and{W3} the{W3} other{W3} day,{W33} they all flew off healthy."
+
+@MIT_FEV:764 PLY 5f741b75
+"I see. I wish I'd seen it."
+
+@MIT_FEV:765 MIT 6667208f
+"{V1406}{Ec}{W10}Fu{W5}fu{W5}{W5},{W35}{Eo} they{W2} were{W2} so{W5} very{W3} cute{3}{3}."
+
+@MIT_FEV:766 MIT bb4c113e
+"{V1407}{Ts1}{W10}I{W6} wish...{W65} I could{W3} leave{W8} the nest like that...{Ts2}"
+
+@MIT_FEV:767 MIT d347e12d
+"{V1408}{W13}Ah,{W37} it{W3} is nothing.{W28}{F6} I am sorry,{W28} I was talking to myself..."
+
+@MIT_FEV:768 MIT bdfb6e43
+"{V1409}{W15}Well then,{W40} I{W6}...{W38} will go now."
+
+@MIT_FEV:769 PLY bad3355d
+"Okay..."
+
+@MIT_FEV:770 MIT fe673923
+"{V1410}{W10}Well then,{W48} {Ec}until next time."
+
+@MIT_FEV:771 PLY 54290966
+(Shijou... I...)

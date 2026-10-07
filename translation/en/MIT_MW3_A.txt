@@ -1,0 +1,26 @@
+# MIT_MW3_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MIT_MW3_A:11 PLY b5ae66f2
+(Shijou...)
+
+@MIT_MW3_A:31 MIT 079a58d1
+"...{E}......{E}?"
+
+@MIT_MW3_A:32 PLY 9e21761b
+(I-I was imagining things right in front of her...)
+
+@MIT_MW3_A:33 PLY f91b3fc4
+(Not good... I have to pull myself together...)
+
+@MIT_MW3_A:34 PLY 0304f087
+(Huh...? What is this feeling...?)
+
+@MIT_MW3_A:37 PLY 618d61ad
+(What...? Right here... it feels like something is about to happen...)
+
+@MIT_MW3_A:39 PLY 6f3c9fdd
+(Whoa!)
+
+@MIT_MW3_A:41 PLY 112e988a
+(Huh? What was I doing? I was...)

@@ -1,0 +1,617 @@
+# PLY_JTG -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@PLY_JTG:15 PLY e5471f23
+"Hey, Nana. Got a minute?"
+
+@PLY_JTG:17 NAN 4fd7b7db
+"{V1087}{W15}Yeah,{W24} sure.{W30} Come in, come in~!"
+
+@PLY_JTG:36 NAN f26af9a1
+"{V1088}{W12}What's up,{W12} Big{W4} Bro?"
+
+@PLY_JTG:37 PLY 5189bbf2
+"Are you free right now?"
+
+@PLY_JTG:38 NAN ea2219a6
+"{V1089}{W12}Yeah,{W15} I'm{W3} free~!"
+
+@PLY_JTG:39 PLY 3adfa03c
+"All right! Then let's play putting golf!"
+
+@PLY_JTG:41 NAN 83490540
+"{V1090}{W15}Yeah!{W15} Let's play, let's play~!{Ec}"
+
+@PLY_JTG:42 NAN 6f7de1a9
+"{V1091}{W15}Then{W3}, I'm going to change,{W24} so{W15} wait outside{W4} for a bit."
+
+@PLY_JTG:43 PLY 506ec034
+"Huh? Change? Why?"
+
+@PLY_JTG:44 NAN 6b88d2de
+"{V1092}{W15}Never mind, never{W3} mind.{W30} Come{W3} on,{W15} hurry{W6} up{W5} and{W3} go{W3} out{W3}!"
+
+@PLY_JTG:48 PLY 259d015c
+"Ah... hey!"
+
+@PLY_JTG:49 PLY f3279056
+(What is this about...)
+
+@PLY_JTG:50 PLY 3d1b35e3
+(......)
+
+@PLY_JTG:51 NAN a4dd8750
+"{V1093}{W12}Big{W4} Bro{W2},{W15} you can come in~.{W12} Come{W4} in~"
+
+@PLY_JTG:61 PLY 910b0aef
+"Whoa! N-Nana, that outfit..."
+
+@PLY_JTG:62 NAN 433718d4
+"{V1094}{W12}Ehehehe,{W33} nice, right~?"
+
+@PLY_JTG:63 PLY da74666b
+"Where did you get that?"
+
+@PLY_JTG:64 NAN 80377e52
+"{V1095}{W5}They had a sale at the department store, so I bought{W2} it.{W30} The{W4} top{W4} and{W4} bottom{W30} were{W21} only{W21} 3,980{W4} yen{W4}!"
+
+@PLY_JTG:65 PLY 4ae974aa
+"That's cheap."
+
+@PLY_JTG:66 NAN 75c67a55
+"{V1096}{W15}Right~?{W30} With this kind of thing,{W15} you{W8} have to start{W4} with the look, you know."
+
+@PLY_JTG:67 PLY 2c4ad2f6
+"I wonder..."
+
+@PLY_JTG:68 NAN e284a2c7
+"{V1097}{W15}Hehe,{W30} I already{W3} feel like{W30} {Eo}a pro lady golfer!"
+
+@PLY_JTG:69 PLY 9d6abc0b
+"Hahaha, I see."
+
+@PLY_JTG:70 PLY 3fcb455c
+"Then let's get started."
+
+@PLY_JTG:71 NAN 11abdd08
+"{V1098}{W15}Yeah!"
+
+@PLY_JTG:72 PLY a04b76d8
+"First, mark your own ball."
+
+@PLY_JTG:74 NAN c5f5803f
+"{V1099}{W15}Mark{W8}ing?"
+
+@PLY_JTG:75 PLY aea21139
+"Right. You draw some mark on it so we don't mix up each other's balls."
+
+@PLY_JTG:77 NAN f353845d
+"{V1100}{W15}Hmm,{W51} I see.{W69} {F6}Then what{W4} should{W2} I{W3} draw{W3}..."
+
+@PLY_JTG:78 NAN be4c9753
+"{V1101}{W12}Maybe I'll draw{W2} a {Eo}portrait of Big Bro."
+
+@PLY_JTG:79 PLY 7c9feac6
+"Then it'd look like my ball, wouldn't it? Pick something else."
+
+@PLY_JTG:80 NAN 6ac01550
+"{V1102}{W15}Eh{W2}e{W2}he{W2}he,{W30} {Eo}okay.{W33} {F6}Then{W3}...{W15}"
+
+@PLY_JTG:81 NAN 7047793b
+"{V1103}{W5}A pink heart it is{W5}!"
+
+@PLY_JTG:82 PLY 144dca32
+"...I'll go with a blue star."
+
+@PLY_JTG:83 NAN 07ebc514
+"{V1104}{W12}Squeak,{W12} squeak{W15}!"
+
+@PLY_JTG:84 PLY 512419d8
+"Scribble scribble..."
+
+@PLY_JTG:85 NAN 9d93c2df
+"{V1105}{W15}All{W3} set!"
+
+@PLY_JTG:86 PLY c028a083
+"Right."
+
+@PLY_JTG:87 PLY 5d1d07cb
+"Now it's finally time for the real thing!"
+
+@PLY_JTG:88 PLY 1be29b77
+"The putting golf set came with a simple how-to book, so let's go by that."
+
+@PLY_JTG:89 NAN 32fb78c1
+"{V1106}{W15}Yeah!"
+
+@PLY_JTG:90 PLY f1cff402
+"Let's see, the stance is shoulder width..."
+
+@PLY_JTG:91 NAN e4b1d75f
+"{V1107}{W12}Big{W4} Bro,{W27} what{W2}'s{W2} a{W2} stance{W1}?{W3}{W21}"
+
+@PLY_JTG:92 PLY abf843ed
+"It's how far apart you put your feet."
+
+@PLY_JTG:93 NAN e525fdce
+"{V1108}{W15}I see,{W36} so I{W4} put{W4} my{W15} feet{W4} shoulder{W4} width apart."
+
+@PLY_JTG:94 PLY 5341122d
+"Right, right."
+
+@PLY_JTG:95 PLY 8198151c
+"Then, when you hold the putter, you look at the ball from straight above."
+
+@PLY_JTG:96 NAN 5ff62f4c
+"{V1109}{W12}L-{W33}Like{W3} this?"
+
+@PLY_JTG:97 PLY 6120c506
+"Let's see..."
+
+@PLY_JTG:98 NAN d4d38d51
+"{V1110}{W12}Ah..."
+
+@PLY_JTG:99 PLY 4905f60f
+"W-why are you blushing?!"
+
+@PLY_JTG:100 NAN b02fb337
+"{V1111}{W12}Because...{W30} Big{W3} Bro's face{W4} suddenly{W8} came{W6} right next to{W3} mine..."
+
+@PLY_JTG:101 PLY bb4424d5
+"I-I can't help it. If you look like that, it's hard to teach you."
+
+@PLY_JTG:102 NAN 2d5429f5
+"{V1112}{W12}S-{W30}sorry.{W30} I'll try my best!"
+
+@PLY_JTG:103 PLY 7ae4a07f
+"...Now, your right hand goes straight like this."
+
+@PLY_JTG:104 NAN 5586ea02
+"{V1113}{W12}Ah...{W30} Big{W4} Bro is{W30} holding{W6} my hand..."
+
+@PLY_JTG:105 PLY 17e3d77c
+"Geez... I can't teach you if you get embarrassed every time, can I?"
+
+@PLY_JTG:106 NAN 82c4ec56
+"{V1114}{W12}B-{W27}but{W5}..."
+
+@PLY_JTG:107 PLY 9065867c
+"Say that again and I won't teach you anymore."
+
+@PLY_JTG:108 NAN 0ab862b6
+"{V1115}{W15}Uuu~,{W42} I'm sorry.{W24} I won't say it again,{W12} so teach{W4} me~!"
+
+@PLY_JTG:109 SYS b3a31c3a
+...And so I taught Nana how to play putting golf.
+
+@PLY_JTG:111 NAN 73f7b71f
+"{V1116}{W12}Yeah,{W24} sure.{W24} Come{W3} in, come in~!"
+
+@PLY_JTG:112 NAN bcd8d8c5
+"{V1117}{W12}What's up?{W3} Big{W6} Bro?"
+
+@PLY_JTG:113 NAN a7ccaacc
+"{V1118}{W15}Yeah,{W18} I'm free{W4}~!"
+
+@PLY_JTG:114 NAN 492c25fc
+"{V1119}{W15}Yeah!{W8} Let's play, let's play~!"
+
+@PLY_JTG:116 NAN 2523616d
+"{V1120}{W15}Then,{W15} I'm going to change,{W24} so wait{W4} outside for a bit."
+
+@PLY_JTG:117 PLY 258ca90b
+"No, you don't really have to change..."
+
+@PLY_JTG:118 NAN 3a9d370f
+"{V1121}{W15}Never mind,{W3} never mind."
+
+@PLY_JTG:119 PLY 00614017
+(Honestly...)
+
+@PLY_JTG:120 PLY e9f9c526
+"Are you done yet~?"
+
+@PLY_JTG:121 NAN 66c8551f
+"{V1122}{W15}Yeah,{W18} you can come in~!"
+
+@PLY_JTG:122 NAN a2fc2faf
+"{V1123}{W12}Sorry{W3}{W3} to keep you waiting~,{W12} Big{W4} Bro."
+
+@PLY_JTG:123 PLY 3929b875
+"All right, today let's set up a course and play a real match."
+
+@PLY_JTG:124 NAN 4d9e0d9d
+"{V1124}{W15}Huh?{W30} A{W3} match?!{W39} {F3}Yeah,{W15} okay!"
+
+@PLY_JTG:125 NAN 2db8b61a
+"{V1125}{W15}But{W5}...{W33} what{W3} do{W3} you{W5} mean{W8} set{W8} up a course?{W30}"
+
+@PLY_JTG:126 PLY bc4c38e1
+"Hahaha, it means this."
+
+@PLY_JTG:131 NAN d21f8100
+"{V1126}{W15}Aah!{W12} My{W8} precious{W4} duckie is{W15} way over there~!"
+
+@PLY_JTG:132 PLY 0e870224
+"If you don't read the line well, the duckie will get hurt."
+
+@PLY_JTG:133 NAN b73ebfa8
+"{V1127}{W15}Uu{W3}u{W5}~,{W60} that's{W12} so much pressure."
+
+@PLY_JTG:134 PLY 0044e88d
+"Then you go first, Nana. I'll stand by the cup."
+
+@PLY_JTG:135 NAN e52a6b97
+"{V1128}{W8}Okay!"
+
+@PLY_JTG:137 NAN 8791ba3c
+"{V1129}{W15}I have to{W2} read{W5} the{W1} li{W1}ne{W1} properly...{W51} It'd be sad if I hit the duckie."
+
+@PLY_JTG:143 PLY 85b67d38
+(Uh...{W45} I-{W15}I can almost see...)
+
+@PLY_JTG:150 PLY 49a0597d
+"H-hey,{W15} Nana."
+
+@PLY_JTG:151 NAN 20ad5c49
+"{V1130}{W15}Shhhh!{W33} Be{W8} quiet{W33} during{W3} play{W12}.{W5}"
+
+@PLY_JTG:152 PLY 6c6b1e77
+"R-right..."
+
+@PLY_JTG:156 PLY 3a6bad9b
+(Then I guess it can't be helped...{W60} Yeah.)
+
+@PLY_JTG:157 NAN 184604fc
+"{V1131}{W15}Okay.{W33} Three ball{W3}s{W4} to the right{W60} of the duckie{W45},{W6} aim{W3} there{W6}..."
+
+@PLY_JTG:158 NAN 9671a38c
+"{V1132}{W12}Okay,{W8} Big{W4} Bro,{W30} I'm hitting."
+
+@PLY_JTG:159 PLY ebf0c840
+"O-okay."
+
+@PLY_JTG:160 NAN 80cbcad3
+"{V1133}...{W15}Here goes!"
+
+@PLY_JTG:162 NAN 23d7ed1b
+"{V1134}{W15}W-{W45}well?"
+
+@PLY_JTG:163 PLY ca6acfdb
+"Oh, it's on the line!"
+
+@PLY_JTG:164 NAN 9e85bddc
+"{V1135}{W15}Duck{W2}ie{W30} safely{W5} cleared{W3}!"
+
+@PLY_JTG:165 PLY 9aabab53
+"N-no way..."
+
+@PLY_JTG:167 PLY 728824a8
+"Aah!"
+
+@PLY_JTG:168 NAN 29bd9702
+"{V1136}{W15}I{W5} did it~~!{W15} It went{W4} in! {W8}Big{W6} Bro!"
+
+@PLY_JTG:169 PLY d8e44a78
+"Dang, you're good~."
+
+@PLY_JTG:170 NAN bc9789f9
+"{V1137}{W15}Now,{W36} it's{W4} Big{W3} Bro's{W4} turn{W4}."
+
+@PLY_JTG:171 PLY 78f1ee06
+"Okay, watch me~!"
+
+@PLY_JTG:172 PLY d6b192bf
+(Dang, the duckie's in the way. Who put it there? ...{W30}Me.)
+
+@PLY_JTG:173 NAN feb7b0f6
+"{V1138}{W15}Aim{W6} for{W3} three{W3} balls,{W30} to{W1} the{W1} right{W1} of{W1} the{W1} duck{W18}ie.{W1}{W1}{W5}{W2}{W21} {W5}{W1} {W45}Big{W2} Bro,{W15} remember{W2} what Nana{W21} did{W5} just now!"
+
+@PLY_JTG:174 PLY 8952c321
+"Huh... what Nana did just now...?"
+
+@PLY_JTG:175 PLY bb0c1384
+(Ah......)
+
+@PLY_JTG:176 PLY 1f060035
+(I-idiot! What am I remembering?! Focus! Focus!)
+
+@PLY_JTG:179 PLY c6dd2d85
+(Fo...{W60}cus...{W30})
+
+@PLY_JTG:182 PLY 91d35cb8
+(Wrong! What am I focusing on?!)
+
+@PLY_JTG:183 PLY 6f0e9d76
+"Ah! I hit it!"
+
+@PLY_JTG:184 NAN fb1d39c1
+"{V1139}{W15}Aah!{W12} Big{W6} Bro,{W24} that's{W6} too hard!"
+
+@PLY_JTG:185 NAN 2332fc4c
+"{V1140}{W15}No{W3}~! {W24}It's going to hit the duckie~!"
+
+@PLY_JTG:186 PLY fd3d5a01
+"...Direct hit, this one."
+
+@PLY_JTG:187 SYS 2ccaf2c6
+{Ti0}{Ts1}{Ts1}{Ts2}{Ts4}Thunk!
+
+@PLY_JTG:188 NAN 66c3d6d4
+"{V1141}{W15}Noooo!"
+
+@PLY_JTG:189 PLY 21cb19bb
+"Hahaha, the duckie went into the cup."
+
+@PLY_JTG:190 NAN 0f0f1c6a
+"{V1142}{W15}Aw{W5}~!{W42} That's mean{W2},{W21} Big{W4} Bro{W2}!"
+
+@PLY_JTG:191 PLY ef586f43
+"Sorry, sorry."
+
+@PLY_JTG:192 NAN bf3890ca
+"{V1143}{W15}Geez,{W45} Nana's mad now!{W45} On the next course,{W15} I'm putting{W4} something{W4} Big{W4} Bro{W4} treasures{W4} out{W4} there!"
+
+@PLY_JTG:193 PLY fbe67c56
+"N-Nana! Anything but that plastic model!"
+
+@PLY_JTG:194 NAN b98b1c8d
+"{V1144}{W15}No~~{W3}pe!{W36} I won't{W4} forgive{W3} you!"
+
+@PLY_JTG:195 SYS 3423bdbc
+And so, Nana and I had a putting golf match.
+
+@PLY_JTG:196 PLY 9c07a9f1
+(Man, it's a rare Sunday off and there's nothing to do.)
+
+@PLY_JTG:197 PLY 990f0bdc
+(I'm bored...)
+
+@PLY_JTG:198 PLY 2709e92d
+(...Well, I'll go see Nana's room for now.)
+
+@PLY_JTG:199 NAN d7260f73
+"{V1145}{W15}Oh,{W15} Big{W4} Bro!{W21} Sure,{W18} come in, come in~!"
+
+@PLY_JTG:200 NAN 3ec12143
+"{V1146}{W15}Big{W4} Bro,{W15} you came at{W2} the perfect time."
+
+@PLY_JTG:201 PLY 46d959e0
+"Perfect time? Why?"
+
+@PLY_JTG:202 NAN 9af278c6
+"{V1147}{W8}...{W3}Well, you see."
+
+@PLY_JTG:203 NAN 2f19f34b
+"{V1148}{W15}Nana wants{W30} a{W3} serious{W4} match{W4} with{W4} Big Bro{W15} at{W15} putting{W4} golf today."
+
+@PLY_JTG:204 PLY b8381652
+"A serious match?"
+
+@PLY_JTG:205 NAN a39e7e9b
+"{V1149}{W15}Yeah!{W8} I've gotten pretty good,{W15} so I want{W3} to{W12} test{W6} my{W4} skills."
+
+@PLY_JTG:206 PLY 8c10cc58
+"I see. ...Okay, I'm bored anyway, so let's do it! I'll go get the putting golf set."
+
+@PLY_JTG:207 NAN 0ae1ab2a
+"{V1150}{W15}Okay.{W27} {Ec}I'll change{W8} while{W21} you're gone{Eo}."
+
+@PLY_JTG:208 SYS 32ce2a20
+And so, I ended up having a serious putting golf match with Nana.
+
+@PLY_JTG:209 PLY 555fff2c
+"Nana, I'm coming in~!"
+
+@PLY_JTG:210 NAN 60ed24e8
+"{V1151}{W12}Okay,{W15} come in~"
+
+@PLY_JTG:211 NAN 2df5ece0
+"{V1152}{W15}Sorry{W1} to{W1} keep{W1} you waiting,{W15} Big Bro{W2}.{Ec}"
+
+@PLY_JTG:212 PLY dcd8c836
+"Right! Let's start right away. The first hole starts in your room."
+
+@PLY_JTG:213 NAN 76e8f963
+"{V1153}{W15}First{W9} hole{W9}?{W45} ...Hey,{W5} Big{W4} Bro.{W15} How{W4} many{W4} holes{W5} are{W5} there?"
+
+@PLY_JTG:214 PLY cef4376e
+"All 18 holes, of course."
+
+@PLY_JTG:215 NAN 7070925e
+"{V1154}{W8}What?!{W8} {Sp}That many?!"
+
+@PLY_JTG:216 PLY 89aed423
+"Naturally. It's a serious match."
+
+@PLY_JTG:217 NAN 601bbbc8
+"{V1155}{W15}Wow,{W45} a{W4} serious{W4} match{W30} is{W3} tough{W3}.{W3}{W3}"
+
+@PLY_JTG:218 PLY 019ef2c2
+"Hahaha, okay, let's begin!"
+
+@PLY_JTG:219 NAN 020cfff8
+"{V1156}{W15}Yeah!"
+
+@PLY_JTG:220 NAN 0a705a77
+"{V1157}{W15}Aaah,{W27} Big{W4} Bro,{W33} you're putting the duckie out again~?"
+
+@PLY_JTG:221 PLY f26e21c9
+"When it comes to obstacles on your room's course, it's got to be the duckie, right?"
+
+@PLY_JTG:222 NAN 58488cb3
+"{V1158}{W15}Ugh...{W105} Nana,{W33} won't lose!"
+
+@PLY_JTG:223 SYS b3ed8f81
+...And so we treated the whole house as a course and started going around the 18 holes.
+
+@PLY_JTG:225 PLY ae7aedfe
+"All right! The living room course is mine!"
+
+@PLY_JTG:227 NAN ec6d2bfa
+"{V1159}{W15}Aw{W5}~,{W45} so annoying!"
+
+@PLY_JTG:228 PLY ebd937f7
+"You've still got a ways to go, Nana."
+
+@PLY_JTG:229 NAN 5200ad10
+"{V1160}W-{W15}we're not{W3} done yet!{W30} I'll{W30} do my{W4} best in the{W15} bathroom next!"
+
+@PLY_JTG:230 NAN 9e8045f4
+"{V1161}{W12}Yay!{W24} It{W3} went in~!"
+
+@PLY_JTG:231 PLY e0b7cca2
+"I-I can't believe you used a washbasin... Not bad."
+
+@PLY_JTG:232 NAN 5cffd0e6
+"{V1162}{W15}Ehehehe,{W30} I think I'm{W3} getting into the groove."
+
+@PLY_JTG:233 NAN d003da3a
+"{V1163}{W15}Yay! {W15}It went in{W4} again~!{W30} Nana{W3} wins{W6} the{W15} kitchen course~!"
+
+@PLY_JTG:234 PLY 0c8554ac
+"Ugh... this is bad, she's catching up."
+
+@PLY_JTG:235 SYS 5c402838
+And so, the final hole.
+
+@PLY_JTG:236 PLY b5d7360d
+"Phew... We've tied the whole way and actually made it here..."
+
+@PLY_JTG:237 NAN a49f61e8
+"{V1164}{W15}The{W3} last one{W3} is Big Bro's room, right?"
+
+@PLY_JTG:238 PLY b27ffce2
+"Yeah. I never thought it would get this close. Not bad, Nana."
+
+@PLY_JTG:239 NAN c7c2004f
+"{V1165}{W15}Ehehehe,{W30} it's thanks{W4} to{W3} you{W15} teaching{W4} me{W4} so carefully,{W5} Big Bro."
+
+@PLY_JTG:240 PLY 40c7ce75
+"Nana..."
+
+@PLY_JTG:241 PLY ee118531
+"All right! I won't go easy on you. We settle this here!"
+
+@PLY_JTG:242 PLY ca267e0a
+"You go first this time, Nana."
+
+@PLY_JTG:243 NAN 83c1d4a2
+"{V1166}{W15}Okay!{W24} I'll{W3} sink{W4} it{W15} in one putt~!"
+
+@PLY_JTG:244 NAN b69b89bc
+"{V1167}{W21}The{W4} last{W3} one is a really{W4} tough course~."
+
+@PLY_JTG:245 PLY c4ad89cf
+"Of course. You won't win that easily."
+
+@PLY_JTG:246 NAN 6b41356c
+"{V1168}{W15}Let's{W30} see... {W39}I'll {W8}look{W3} {W8}carefully{W8} {W36}at{W3} the{W3} obstacles...{W60} and.{W48} Here goes!"
+
+@PLY_JTG:247 NAN 3b1a4170
+"{V1169}{W15}Ah,{W30} ahh!{W45} Don't go that way~!"
+
+@PLY_JTG:248 SYS 00515470
+Roll, roll, roll, roll...
+
+@PLY_JTG:249 NAN 82c947d8
+"{V1170}{W15}Awww,{W60} it{W8} went{W4} under{W4} the bed~!"
+
+@PLY_JTG:250 NAN 18765740
+"{V1171}{W15}Ehehehe,{W39} I'll go{W2} get the ball."
+
+@PLY_JTG:251 PLY 7650e9ce
+"A-all right..."
+
+@PLY_JTG:252 PLY 5a927627
+(...I put that away in the closet, and I already threw that out...)
+
+@PLY_JTG:253 PLY bb0bed8c
+(There's nothing dangerous under the bed, right...? Right.)
+
+@PLY_JTG:254 NAN 2831eb02
+"{V1172}{W15}Heave-{W3}ho,{W45} heave-ho...{W51} Mmm...{W15}{W60} I{W6} almost{W3} have{W6} it,{W2} but..."
+
+@PLY_JTG:255 NAN 5538e3b4
+"{V1173}{W15}Oh!"
+
+@PLY_JTG:256 PLY bac60903
+"What?! D-did you find something?!"
+
+@PLY_JTG:257 NAN be6b6791
+"{V1174}{W15}Y-{W30}yeah..."
+
+@PLY_JTG:258 PLY d295d858
+"W-what is it?! What did you find?!"
+
+@PLY_JTG:259 NAN 66da12e5
+"{V1175}{W15}Big{W4} Bro,{W30} look,{W36} this...{W45} It's the toy ring{W9} I lost{W5} when{W45} I{W2} was{W4} little."
+
+@PLY_JTG:260 PLY 634f9920
+"Oh..."
+
+@PLY_JTG:261 NAN 844dd400
+"{V1176}{W15}Hehe,{W63} so it was{W8} here all along~!"
+
+@PLY_JTG:262 PLY 67919fb4
+"I-is that so."
+
+@PLY_JTG:263 PLY 08980103
+(Phew, good thing it wasn't something dangerous...)
+
+@PLY_JTG:264 NAN a4fb1c5a
+"{V1177}{W18}Hey,{W45} do{W4} you remember?{W45} You{W39} gave{W15} this{W4} to{W8} me, Big Bro."
+
+@PLY_JTG:265 PLY b4ff6d44
+"D-did I?"
+
+@PLY_JTG:266 NAN c2884d41
+"{V1178}{W15}Geez!{W30} You{W4} don't remember~?!{W45} When{W4} we{W4} played{W4} wedding,{W27} you{W4} gave{W8} it {Ec}to me!"
+
+@PLY_JTG:267 PLY 382810ca
+"Hahaha..."
+
+@PLY_JTG:268 PLY 58f1f4d2
+(...I remember. I got embarrassed afterward and secretly hid it. I never thought it was under the bed...)
+
+@PLY_JTG:269 NAN 32973f7d
+"{V1179}{W15}Hehe,{W48} I'm so glad I found it~.{W60} This{W4} time{W15} I'll{W4} keep{W4} it safe~"
+
+@PLY_JTG:270 NAN 518a6950
+"{V1180}{W18}This ring is{W4} so{W3} tiny~.{W51} It{W51} really{W4} doesn't fit anymore~.{W60} {F9}I guess Nana grew up~!"
+
+@PLY_JTG:271 NAN 3b42e634
+"{V1181}{W12}Hm?"
+
+@PLY_JTG:272 PLY 19261206
+"Today, you're definitely the winner."
+
+@PLY_JTG:273 NAN 97fa968c
+"{V1182}{W12}Huh?"
+
+@PLY_JTG:274 PLY ad1d3040
+"That ring must be a souvenir of today's victory. The goddess of victory is blessing you, Nana."
+
+@PLY_JTG:275 NAN f7e8f5c4
+"{V1183}{W12}Ehehehe,{W36} you think so?{W51} {Ec}I'd be happy if that were true."
+
+@PLY_JTG:276 PLY 0d80b9d5
+"......"
+
+@PLY_JTG:277 PLY 47659f3a
+"All right! Now it's my turn. I won't go easy on you!"
+
+@PLY_JTG:278 NAN 0ec7867d
+"{V1184}{W15}Okay!{W15} Of course!{Ec}"
+
+@PLY_JTG:279 SYS 3f5b40f7
+After that, I missed my putts one after another, and Nana sank hers in one.
+
+@PLY_JTG:280 SYS 17ea655a
+As expected, Nana won.
+
+@PLY_JTG:281 SYS a8dcce8e
+We found the ring full of memories, and it was fun.
+
+@PLY_JTG:282 SYS ab8be79a
+And so, my days of putt-putt golf with Nana came to a close, for now.

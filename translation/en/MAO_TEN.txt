@@ -1,0 +1,56 @@
+# MAO_TEN -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_TEN:37 MAO a015d29b
+"{Nn}, {V0058}morning!"
+
+@MAO_TEN:39 PLY 412e0586
+"Oh, morning, Mao."
+
+@MAO_TEN:44 MAO 00aa1ff2
+"{V0059}Fufu, {W25}{Eo}see you~!"
+
+@MAO_TEN:48 MAO dcc7cc86
+"{V0060}Oh, {W10}morning, {Nn}."
+
+@MAO_TEN:49 PLY 4903851a
+"It's hot again today."
+
+@MAO_TEN:50 MAO 25db0076
+"{V0061}It sure is~, {W25}{Sp}I hate it~."
+
+@MAO_TEN:51 MAO e2cf914f
+"{V0062}{W5}Morning, {Nn}."
+
+@MAO_TEN:52 PLY 76c31c3a
+"Oh, Mao, morning."
+
+@MAO_TEN:53 MAO 75685857
+"{V0063}It's hot again today~!"
+
+@MAO_TEN:54 PLY 851b6dc4
+"Yeah."
+
+@MAO_TEN:56 MAO d75cd059
+"{V0064}{Fm4}I'm drenched in sweat just{W3} from going to school~, {W15}geez."
+
+@MAO_TEN:57 PLY 1b758669
+"Haha, yeah."
+
+@MAO_TEN:58 MAO 975cf819
+"{V0065}Morning... {Eo}{Nn}."
+
+@MAO_TEN:59 PLY abc97cdf
+"Oh, Mao, morning!"
+
+@MAO_TEN:60 MAO 685bf930
+"{V0066}{Eh}Aaah, {W5}geez, {W15}{Sd}you don't need to shout like that. {W25}{Eo}My blood pressure's low this morning, so I feel awful...{Ec}"
+
+@MAO_TEN:61 PLY 67919fb4
+"O-oh, okay."
+
+@MAO_TEN:62 MAO 405ef763
+"{V0067}See you~{Ec}"
+
+@MAO_TEN:63 PLY a11dced8
+"Take care..."

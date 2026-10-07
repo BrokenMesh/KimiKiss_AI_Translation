@@ -1,0 +1,662 @@
+# ASU_KIS_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_KIS_B:40 ASU a98f4db3
+"{V0376}{W12}Hey, {Nm}."
+
+@ASU_KIS_B:44 ASU 95afdea3
+"{V0377}{W12}That study guide you picked out the other day,{W2}{W3}{W35} {Ec}{Fe2}it was so easy to follow. It really helped."
+
+@ASU_KIS_B:45 PLY b627f6d6
+"Oh, good."
+
+@ASU_KIS_B:47 ASU d34da93b
+"{V0378}{W12}Thanks.{W45} I knew I could count on you, {Nm}."
+
+@ASU_KIS_B:48 PLY 627064ba
+"Ah... no, I didn't really..."
+
+@ASU_KIS_B:49.1 - 3ddf07ee
+{Ti0}- I'm not that smart...／- I only did what anyone would／- I didn't do anything
+
+@ASU_KIS_B:50 PLY f0d220ac
+"I'm not that smart..."
+
+@ASU_KIS_B:53 ASU e6eb6a3f
+"{V0379}{W15}Oh, come on~!"
+
+@ASU_KIS_B:54 PLY abe4c4ef
+"Hahaha... but it's true..."
+
+@ASU_KIS_B:55 PLY 9e97e092
+"I only did what anyone would."
+
+@ASU_KIS_B:56 ASU 6e328e5e
+"{V0380}{F4}{W12}As{W2}{W2}ex{W2}pected{W2} of you~! {W37}You re{W3}ally are{W3} different~!{Fe2m3}{Ec}"
+
+@ASU_KIS_B:57 PLY 7aa469c1
+"Hahaha..."
+
+@ASU_KIS_B:58 PLY eb45992e
+"I didn't do anything. ...If anything, I just enjoyed picking out study guides together..."
+
+@ASU_KIS_B:59 ASU ca542557
+"{V0381}{Fe2m3}{Ec}{W12}Hehe,{W20} me too."
+
+@ASU_KIS_B:61 ASU 5ae5f581
+"{V0382}...{W8}Hey,{W12} {Nm},{W13} can I{W3}{W5} ask you one thing?"
+
+@ASU_KIS_B:62 PLY 891022da
+"Sure, what is it?"
+
+@ASU_KIS_B:63 ASU 1f0d32ff
+"{V0383}{W12}{Nm},{W3} do you{W35} like people{W3} who are{W5} good at studying,{W3}{W5} after all?"
+
+@ASU_KIS_B:64 PLY e4676920
+"Huh? W-why are you asking that..."
+
+@ASU_KIS_B:66 ASU b269cecf
+"{V0384}{W12}{S}{Fe7m4}W-well,{W30} you know,{W25} {Ec}{F2}don't you wonder about that?{Sd}"
+
+@ASU_KIS_B:67 PLY 971b9178
+"Y-you think? My type is..."
+
+@ASU_KIS_B:68.1 - 310036ab
+{Ti0}- Someone smart, maybe...／- Someone athletic, maybe...／- Someone who's both, maybe...
+
+@ASU_KIS_B:69 PLY ee0b43ad
+"Someone smart, maybe..."
+
+@ASU_KIS_B:70 ASU 2a43029f
+"{V0385}{Fm6}{W12}Really? {W47}I kind of{W5} thought{W1} so{W1}...{W1}"
+
+@ASU_KIS_B:72 ASU 288adab0
+"{V0386}{F6}{Ec}{W10}I'll study{W3}{W3} hard{W6}..."
+
+@ASU_KIS_B:73 PLY 4e0e928f
+"Someone athletic, maybe..."
+
+@ASU_KIS_B:74 ASU cb0590db
+"{V0387}{W12}{F4}{Eo}Huh? {W15}Really?"
+
+@ASU_KIS_B:75 PLY bbe8e23e
+"It'd be nice to be good at sports, like you, Sakino."
+
+@ASU_KIS_B:77 ASU b71e35a7
+"{V0388}{B60}{W12}Ah{W5}{W3}ha, {W63}geez, {W15}saying things like that~!"
+
+@ASU_KIS_B:79 PLY ea8144ea
+"Someone who's both, maybe..."
+
+@ASU_KIS_B:80 ASU 6e9055b8
+"{V0389}{Eo}{F4}{W12}What?!"
+
+@ASU_KIS_B:82 ASU 894982e7
+"{V0390}{W12}Y-{W40}you have{W3} high{W5} standards{W3}, huh..."
+
+@ASU_KIS_B:84 PLY c876c46f
+"Hahaha... maybe..."
+
+@ASU_KIS_B:85 ASU da0fc642
+"{V0391}{W15}I'll study{W3}{W3} hard{W6}..."
+
+@ASU_KIS_B:87 ASU ff05c5c3
+"{Nm}, {V0392}{W8}keep{W3} teaching{W3} me{W8} {W3}studying, okay?"
+
+@ASU_KIS_B:88 PLY eea43c14
+"S-sure... as far as I understand it myself..."
+
+@ASU_KIS_B:89 ASU a9f5a768
+"{V0393}{W12}Then,{W45} shake{W3} on{W3} it.{Ec}"
+
+@ASU_KIS_B:90 PLY f725dd6d
+"Huh..."
+
+@ASU_KIS_B:95 ASU 7d693fb0
+"Mr. {Nm}{V0394}{W10},{W5}{W45} I'm counting on you from now on."
+
+@ASU_KIS_B:96 PLY ade2a147
+"M-Mr.?!"
+
+@ASU_KIS_B:97 ASU 7789da95
+"{V0395}{W12}Well,{W3} you're{W3} my teacher!{W3}"
+
+@ASU_KIS_B:98 PLY ad202743
+"I-I am...?"
+
+@ASU_KIS_B:106 ASU 5ec6f7fb
+"{V0396}{W12}See ya,{W20} {F2}{Ec}see you later!"
+
+@ASU_KIS_B:107 PLY e03a6130
+"Yeah, see you later."
+
+@ASU_KIS_B:109 PLY 2b50ccfa
+(Mr. {Nm}, huh... That's kind of nice...)
+
+@ASU_KIS_B:111 ASU f165edc5
+"{V0397}{W10}Hey, Mr. {Nm}."
+
+@ASU_KIS_B:112 PLY 97760d5b
+"Huh? M-Mister...? Are you going to keep calling me that?"
+
+@ASU_KIS_B:113 ASU 8db140f2
+"{V0398}{F2}{W12}Yep.{W38} {Eo}When{W3} we{W3} study{W3} together{W3}, anyway."
+
+@ASU_KIS_B:114 PLY 2401dabb
+"I-I see..."
+
+@ASU_KIS_B:115 ASU 60c020f5
+"{V0399}{W12}Ah{W3}...{W45} is it{W5} annoying?"
+
+@ASU_KIS_B:116 PLY a76adbce
+"No, it's not that it's annoying..."
+
+@ASU_KIS_B:117 ASU 88604169
+"{V0400}{W12}Then,{W2} Mr. {Nm}{W8}{W3} it is{W3}, okay?"
+
+@ASU_KIS_B:118 PLY 7d68aa58
+"Y-yeah..."
+
+@ASU_KIS_B:119 PLY 8547f790
+(I'm not even that good at studying...)
+
+@ASU_KIS_B:120 ASU 52e8db74
+"{V0392}{W8}Keep{W3} teaching{W3} me{W8} {W3}studying, okay?"
+
+@ASU_KIS_B:121 PLY 3357f7b0
+"Sure. As far as I understand it."
+
+@ASU_KIS_B:125 ASU 68fa1b5c
+"{V0402}{W12}See ya~!"
+
+@ASU_KIS_B:126 ASU 63700f96
+"{Nm}, {V0403}{W5}thanks{W3} for{W5} teaching{W3} me{W10} so much."
+
+@ASU_KIS_B:127 PLY 8fb63b1a
+"Your quiz is coming up soon, right?"
+
+@ASU_KIS_B:128 ASU 7e378422
+"{V0404}{W12}Yeah.{W30} {Eo}...{W3}It's my first time{W3} going into a test{W8} this{W3} confident.{W5}"
+
+@ASU_KIS_B:129 PLY e929764e
+"I see. That's great."
+
+@ASU_KIS_B:130 ASU ae50af8f
+"{V0405}{W12}Yeah,{W30} {Eo}thanks to you, {Nm}...{W25} {Ec}{W5}{Fe9}{Eo}Thank you{W3} so much."
+
+@ASU_KIS_B:131 PLY 6d423631
+"No, I had fun too."
+
+@ASU_KIS_B:132 PLY 066f4e99
+"Sakino, during the test..."
+
+@ASU_KIS_B:133 ASU 017fc6bd
+"{V0406}Yeah?"
+
+@ASU_KIS_B:134 PLY 9ecfd5c5
+"Don't rush in. Take a breath and look over the questions calmly first."
+
+@ASU_KIS_B:135 ASU 34110cd2
+"{V0407}{F3}{W12}Okay,{W30} got it."
+
+@ASU_KIS_B:136 ASU 2154a083
+"{Nm}, {V0410}{W12}what...{W50} should I do?"
+
+@ASU_KIS_B:137 PLY 4ef211f0
+"? What do you mean?"
+
+@ASU_KIS_B:138 ASU a8c0d436
+"{V0411}{W12}{Nm}, I{W5}...{W40} {Ec}no,{W1}{W1} {W11}{F9}{Eo}Mr.{Nm}{W5}{W3}{W3}, you've done so much for me, and I haven't paid you back at all...{W23}{F6}"
+
+@ASU_KIS_B:139 PLY 7fd080de
+"You don't have to."
+
+@ASU_KIS_B:140 ASU 231f2633
+"{V0412}{W12}Yes,{W1}{W1} {W24}I{W3} want{W10} to{W3} repay you...{W38}{F6} I've{W40} just been leaning on you..."
+
+@ASU_KIS_B:141 ASU b66f3367
+"{V0413}{W12}When I{W6} wanted to play soccer{W10} and was about to give up,{W36} {F6}if you hadn't scolded{W3} me,{W35} I...{W48} {Ec}I'd have fallen apart..."
+
+@ASU_KIS_B:142 PLY 98d86410
+"Sakino..."
+
+@ASU_KIS_B:143 PLY 55a74f7c
+"Really, it's fine. I had fun studying together too..."
+
+@ASU_KIS_B:144 ASU ed115b86
+"{V0414}{Nm}..."
+
+@ASU_KIS_B:145 ASU 6efe4de6
+"{V0415}{W12}......"
+
+@ASU_KIS_B:146 ASU 29f1e8ce
+"{V0416}{W15}Ah...{W25} look at that..."
+
+@ASU_KIS_B:147 PLY 1b0cafbc
+"Huh? What?"
+
+@ASU_KIS_B:152 ASU 73730d32
+"{V0417}{W12}Thanks..."
+
+@ASU_KIS_B:153 PLY 634f9920
+"Ah..."
+
+@ASU_KIS_B:160 PLY ec6ba1f1
+"S-Sakino..."
+
+@ASU_KIS_B:161 ASU 5141db26
+"{V0418}{W12}He{W5}he{W5},{W30} {Eo}I can't believe you fell for that..."
+
+@ASU_KIS_B:162 PLY 382810ca
+"Hahahaha..."
+
+@ASU_KIS_B:163 ASU 0e5cd8ba
+"{Nm}, {V0419}{W13}thanks{W3} so much.{W50} See ya."
+
+@ASU_KIS_B:164 PLY 09175319
+"Ah, Sakino..."
+
+@ASU_KIS_B:165 PLY 5095d38a
+(She's gone...)
+
+@ASU_KIS_B:166 PLY a2609a15
+(Sakino's cheek... was so soft...)
+
+@ASU_KIS_B:167 ASU 3629640c
+"{V0420}{W12}What?"
+
+@ASU_KIS_B:168 PLY fe1af2a5
+"Earlier... um... you surprised me."
+
+@ASU_KIS_B:170 ASU 611ac6a8
+"{V0421}{W15}Ah...{W36} {Sp}{F9}ahahahaha"
+
+@ASU_KIS_B:171 ASU dd1baa6b
+"{V0422}{W12}Don't worry about it,{W30} it was just a spur-of-the-moment thing."
+
+@ASU_KIS_B:172 ASU 1b56dc80
+"{V0423}{W12}It's{W6} my{W30} way{W3} of{W3} saying thanks.{W75} {Ec}Thank you so{W3} much,{W10} Mr. {Nm}{W5}."
+
+@ASU_KIS_B:174 ASU 939f3cf7
+"{V0424}{W12}Well,{W15} see you later."
+
+@ASU_KIS_B:175 ASU b3577575
+"{V0425}{W12}What?"
+
+@ASU_KIS_B:176 PLY c98f593e
+"...I have something important to say. Can we go somewhere we can be alone?"
+
+@ASU_KIS_B:177 ASU 298d3d0c
+"{V0426}{W12}Sure,{W3} I guess?"
+
+@ASU_KIS_B:178 PLY 7499d7c7
+"Then, shall we go behind the school?"
+
+@ASU_KIS_B:179 ASU cb733296
+"{V0427}{W12}Okay."
+
+@ASU_KIS_B:181 ASU edc1cf87
+"{V0428}...{W8}So,{W20} what did you want{W6} to talk about, {Nm}?"
+
+@ASU_KIS_B:182 PLY f54bb434
+"I'll be honest..."
+
+@ASU_KIS_B:183 PLY 7decd0f4
+"I was happy that you passed your quiz, but... I was a little sad too."
+
+@ASU_KIS_B:184 PLY 13b98a71
+"I thought we wouldn't be able to be together much anymore..."
+
+@ASU_KIS_B:185 ASU ee01865d
+"{V0429}{W8}Th-{W30}that's not true.{W45} {F8}We can see each other{W3} at break,{W25} at{W3} lunch break{W3}{W3},{W30} ...{F9}and after school..."
+
+@ASU_KIS_B:186 PLY 765a52cd
+"...Yeah. That's true, but I thought we'd get less close than when we studied together..."
+
+@ASU_KIS_B:187 ASU daeaaaf3
+"{V0430}{Nm}..."
+
+@ASU_KIS_B:188 PLY 9b0b857a
+"But that was just my own assumption."
+
+@ASU_KIS_B:189 PLY b7c20227
+"In the Library... when I heard that studying with me helped your soccer, I was really happy."
+
+@ASU_KIS_B:190 ASU a6ccc1d2
+"{V0431}{W12}{Fm3}Yeah,{W18} it did.{W62} Thanks to you, {Nm},{W7}{W33} my soccer style{W3} changed{W3}."
+
+@ASU_KIS_B:191 ASU b14f8538
+"{V0432}{W12}The Asuka Turn too,{W12} without that advice,{Ec} I couldn't have done it..."
+
+@ASU_KIS_B:192 PLY 6e0936b9
+"That was because you worked hard, Sakino..."
+
+@ASU_KIS_B:193 ASU c3eece64
+"{V0433}{Eo}{W12}No,{W3}{W3}{W35} the Asuka Turn{W50} exists thanks{W3} to you, {Nm}{W3}."
+
+@ASU_KIS_B:194 ASU 5a49c431
+"{V0434}{W12}It was born{W6} from {Nm} and me{W33} working{W3} together{W6} as one.{W5}{W57} {Fe6}{Eh}{B60}I{W3} want{W3} to{W3} believe{W1} that."
+
+@ASU_KIS_B:195 ASU 406f404f
+"{V0435}{W12}I{W6}...{W95} I'm{W5} really{W3} grateful{W3} to{W3} you,{W3} {Nm}..."
+
+@ASU_KIS_B:196 ASU 9851baf9
+"{V0436}{W18}No,{W3}{W3}{W80} {F7}{Eo}more than thanks...{W3}{W3}{W72} something important...{W3}{W3}{W88} {Fe6}a feeling{W3} I never knew...{W3}{W98} {Ec}That's why{W58} I watch you."
+
+@ASU_KIS_B:197 ASU 2dbbbf9f
+"{W12}{Nm}{W5}...{V0437}{W8} I..."
+
+@ASU_KIS_B:198 ASU 4b0500b9
+"{V0438}{W12}I{W6}...{W95} I don't know{W63} what to say at a time like this..."
+
+@ASU_KIS_B:200 ASU b81edeeb
+"{V0439}......"
+
+@ASU_KIS_B:201 PLY 6783394f
+"Is this okay?"
+
+@ASU_KIS_B:202 ASU 582cdb0f
+"{V0440}{W12}Yeah..."
+
+@ASU_KIS_B:207 ASU de7a45eb
+"{V0441}{W12}Ah..."
+
+@ASU_KIS_B:208 PLY d3c264f8
+(Sakino...)
+
+@ASU_KIS_B:209 PLY d8b7412a
+(What I feel for her...)
+
+@ASU_KIS_B:210 - 8075af29
+Pool
+
+@ASU_KIS_B:211 - 1cf88623
+Schoolyard
+
+@ASU_KIS_B:212 - 51706724
+(
+
+@ASU_KIS_B:213 - 7efd9e20
+ smell...)
+
+@ASU_KIS_B:216 ASU 594e5d1b
+"{V0442}......"
+
+@ASU_KIS_B:217 ASU 49b4486b
+"{V0443}{W12}Thank you...{W60} {Ec}I'm so{W3} happy."
+
+@ASU_KIS_B:218 PLY af85d10c
+"Me too..."
+
+@ASU_KIS_B:219 ASU ecf5a4a4
+"{V0444}{F3}...{W5}He{W3}he{W3},{W3}{W80} this{W3} is{W3} kind of embarrassing."
+
+@ASU_KIS_B:220 PLY 5bc303fb
+"Yeah, it is..."
+
+@ASU_KIS_B:221 ASU d270c2d9
+"{V0445}{W12}......"
+
+@ASU_KIS_B:222 PLY 0d80b9d5
+"......"
+
+@ASU_KIS_B:223 PLY 2ad4f76e
+"...Oh, right, Sakino. Want to do something this weekend?"
+
+@ASU_KIS_B:225 ASU f3be7d90
+"{V0446}{W12}Huh? {W18}This{W5} weekend{W3}?"
+
+@ASU_KIS_B:226 PLY d3da1ef0
+"Yeah. If you're up for it, let's go somewhere, just the two of us."
+
+@ASU_KIS_B:227 ASU f9a2d482
+"{V0447}{W12}Really?{W3} {W18}I'm so happy!"
+
+@ASU_KIS_B:228 PLY c3fed35d
+"What do you want to do? Anything you like is fine."
+
+@ASU_KIS_B:229 ASU fbb0fed2
+"{V0448}{W12}{F7}Le{W13}t's{W13} see{W85}...{F2} okay,{W40} fireworks!"
+
+@ASU_KIS_B:230 ASU 86857827
+"{V0449}{W12}{Fm3}Some are still left{W3}{W3} from{W8} what my family{W3} did{W15} over summer vacation.{W3}{W3}{W30} Want to set them off together?"
+
+@ASU_KIS_B:231 PLY 423dbe81
+"Fireworks... nice, let's do it!"
+
+@ASU_KIS_B:232 ASU 5b917f48
+"{V0450}{W12}What about{W3} the daytime?{W6} {W37}{F7}I picked{W3} the night,{W8}{W6}{W8} so{W55} {F3}you{W3} choose{W23} the day, {Nm}."
+
+@ASU_KIS_B:233 PLY ee5e4255
+"Then... want to go to the Pool? I'd like to really see you swim."
+
+@ASU_KIS_B:234 ASU ebb8e596
+"{V0451}{W12}{B100}{Ec}Okay,{W20} sure."
+
+@ASU_KIS_B:235 ASU e0d94d76
+"{V0452}{W12}I'll show you{W3} what{W3} the Swim{W3} Club's{W3} pest{W3} can do.{W35} {F2}{Ec}"
+
+@ASU_KIS_B:236 PLY 59b464a8
+"Hahaha."
+
+@ASU_KIS_B:237 PLY ce453f7f
+"Then, shall we meet on the shopping street at 10:30?"
+
+@ASU_KIS_B:238 ASU 315807f8
+"{V0453}{W12}Okay! {W15}I'm looking forward to it!"
+
+@ASU_KIS_B:239 ASU 5f13cc5b
+"{V0454}{W15}See ya, {Nm}."
+
+@ASU_KIS_B:240 ASU 7491d9ce
+"{V0459}{W12}What?"
+
+@ASU_KIS_B:241 PLY 3be50a7d
+"I'm looking forward to the fireworks."
+
+@ASU_KIS_B:242 ASU 4676e024
+"{V0460}Yeah!{W12} {W5}I can't wait!"
+
+@ASU_KIS_B:243 ASU e5b09e99
+"{V0461}It's{W12} not just{W3} sparklers,{W35} there are fountain{W3} fireworks{W20} and rockets too."
+
+@ASU_KIS_B:244 PLY adaeb24e
+"Hahaha, really?"
+
+@ASU_KIS_B:245 ASU 4ac49229
+"{V0462}Which{W12} should I light first?{W40} Probably{W10} the fountain ones."
+
+@ASU_KIS_B:246 PLY d263f100
+"I'm looking forward to the pool in the daytime too."
+
+@ASU_KIS_B:247 ASU 684d8d81
+"{V0463}Hehe,{W15} me{W12} too.{W3}{W3}"
+
+@ASU_KIS_B:248 ASU 5bd33d4e
+"{V0464}{Eo}{Fm4}I've{W12} got{W3} something{W3} nice planned{W50} for{W3} that{W50} day,{Fm3} so{W3} look forward to it."
+
+@ASU_KIS_B:249 PLY bc90a735
+"Huh? Something nice?"
+
+@ASU_KIS_B:250 ASU 7a7599d2
+"{V0465}Hehe,{W21} it's{W12} a secret.{W50}{Fm3}{Eo} See you later, {Nm}!"
+
+@ASU_KIS_B:251 PLY 51624adf
+"Ah... Sakino. She's gone..."
+
+@ASU_KIS_B:252 ASU b55e4963
+"{V5083}{W12}What?"
+
+@ASU_KIS_B:253 PLY 48eea6e3
+"Sorry I couldn't make it last weekend. If you're up for it... would you like to have the fireworks this time?"
+
+@ASU_KIS_B:254 ASU fb1244ff
+"{V5084}{W14}Ah..."
+
+@ASU_KIS_B:255 ASU 4792b18b
+"...{Nm}... {V5085}{W8}you won't{W5} stand me up again?"
+
+@ASU_KIS_B:256 PLY aa84666c
+"Of course not! I'll definitely be there!"
+
+@ASU_KIS_B:257 ASU 9d075025
+"{V5086}{W5}......"
+
+@ASU_KIS_B:258 ASU ac72906e
+"{V5087}{W8}Okay, then. {W12}Let's{W3} do{W3} fireworks{W3} together!"
+
+@ASU_KIS_B:259 PLY 5298ad1d
+"Great... So, Sunday at 10:30, meet on the shopping street?"
+
+@ASU_KIS_B:260 ASU bfc748e7
+"{V5088}{W14}Okay."
+
+@ASU_KIS_B:261 ASU 18f8ee71
+"{V5089}{W12}Hehe,{W13} I'm{W3} looking{W3} forward{W3} to it.{W38} See you."
+
+@ASU_KIS_B:262 ASU b02fc6d6
+"{V5090}{W12}What?"
+
+@ASU_KIS_B:263 PLY b00a85f9
+"I couldn't go last weekend, but if you're up for it, would you like to have fireworks together this weekend?"
+
+@ASU_KIS_B:264 ASU 2c145220
+"{V5091}{W14}Ah..."
+
+@ASU_KIS_B:265 ASU 4f3ee733
+"{V5092}{W12}Sorry,{W28} I couldn't make it{W6} last time{W6} because{W3} of my own plans..."
+
+@ASU_KIS_B:266 PLY 50f2557e
+"It's fine, don't worry about it."
+
+@ASU_KIS_B:267 ASU 4a284031
+"{V5093}{W12}I...{W66} want to do fireworks{W5} with{W3} you,{W3} {Nm}.{W55}{F9} I{W3} think{W5} this{W5} weekend{W3} should{W3} be okay..."
+
+@ASU_KIS_B:268 PLY fdc43470
+"I see... Great. So, Sunday at 10:30, meet on the shopping street?"
+
+@ASU_KIS_B:269 ASU 56a88760
+"{V5094}{W12}Yeah,{W15} okay!{W55}{Ec} Hehe,{W38}{Eo} I'm{W3} looking{W3} forward{W3} to it."
+
+@ASU_KIS_B:270 ASU 2f8cb270
+"{V5095}{W14}See you."
+
+@ASU_KIS_B:271 ASU f29a7cfe
+"{V0466}{W12}Hey, {Nm}, what are you doing for the school festival?"
+
+@ASU_KIS_B:272 PLY 23d77551
+"Huh? I haven't decided yet. Why?"
+
+@ASU_KIS_B:273 ASU 453eb3c7
+"{V0467}{W12}{Fm4}R{W2}-{W5}right.{W60}{P1}{F2}{W20} ...Then,{W25} want{W5} to cheer on the{W3} soccer{W3} club{W3} with{W3} me?"
+
+@ASU_KIS_B:274 PLY d00b36d9
+"Cheer them on?"
+
+@ASU_KIS_B:275 ASU 74cd2cc5
+"{V0468}{F3}{W12}Yeah.{W52}{Fm4} Remember,{W35} I{W3} told you before there's a match coming up?{W46}{Fe2} That's{W25}{Fm3} on the day{W5} of{W3} the{W3} school{W3} festival."
+
+@ASU_KIS_B:276 PLY d045f98a
+"Oh, right, the soccer club plays a match every year at the school festival, don't they? Who's the opponent?"
+
+@ASU_KIS_B:277 ASU b1b87654
+"{V0469}{W12}Kibito{W3} Commercial,{W30} a{W3} powerhouse{W6} that{W3} made{W3} the{W3} top{W5} eight{W20} at{W5} nationals."
+
+@ASU_KIS_B:278 PLY de151a73
+"That's a tough opponent..."
+
+@ASU_KIS_B:279 ASU 13af34f8
+"{V0470}{W14}Yeah."
+
+@ASU_KIS_B:280 PLY 1a413b94
+"Can you play, Sakino?"
+
+@ASU_KIS_B:281 ASU 95259adb
+"{V0471}{W12}No.{W40}{Eo} I{&}...{W2} {W42}can't,{W2} since{W2} I'm{W6} a{W5} girl..."
+
+@ASU_KIS_B:282 PLY 96d75df7
+"Even if it's not an official match?"
+
+@ASU_KIS_B:284 ASU 6abe37ad
+"{V0472}{W12}Yeah.{W50}{F9}{Eo} It's a{W5} match{W3} we're holding{W3} against a powerhouse{W3} team."
+
+@ASU_KIS_B:285 PLY 876a2929
+"I see..."
+
+@ASU_KIS_B:286 ASU e9b14013
+"{V0473}{W15}But{W8}...{W45} if{W8} I{W3} could play,{W10}{Fm3} I'd be so happy.{W70}{Ec}{Fm4} Maybe{W2} I{W2} wouldn't cut it,{W50}{Fe9m3}{Eo} but I want{W3} to{W5} test{W6} myself..."
+
+@ASU_KIS_B:287 PLY ae896288
+"I hope you get to play."
+
+@ASU_KIS_B:288 ASU 700d0ecb
+"{V0474}{W12}Yeah!"
+
+@ASU_KIS_B:289 ASU a603aed5
+"{V0475}{W12}Okay,{W60} nobody's watching...{W30} right?"
+
+@ASU_KIS_B:290 PLY bb7e51c0
+"W-what's wrong?"
+
+@ASU_KIS_B:291 ASU 1786e6a6
+"{V0476}...{W8}Hey,{W10} {Nm},{W72} do a good luck charm for me."
+
+@ASU_KIS_B:292 PLY 9dc9d971
+"A good luck charm?"
+
+@ASU_KIS_B:293 ASU 796694df
+"{V0477}{W12}{Fm6}Yeah.{W80}{Fe9}{Eo} If I get{W4} to{W1} play{W35}{Fe8}{Fm3} and{W1} I'm{W1} unsure{W1} what{W1} to{W3} do,{W5} I'll{W3} remember it..."
+
+@ASU_KIS_B:294 ASU bb3f9975
+"{V0478}{W12}So{W3} I{W3} can{W3} play smart,{W105}{Ec}{B100} on my forehead..."
+
+@ASU_KIS_B:297 PLY 18b0d556
+"It's okay, you can do it, Sakino. Have confidence."
+
+@ASU_KIS_B:298 ASU d51a1ade
+"{V0479}{W12}Yeah.{W40} Thanks..."
+
+@ASU_KIS_B:299 PLY 6056ea63
+"I'll definitely come to cheer you on."
+
+@ASU_KIS_B:300 ASU 29ce09d2
+"{V0480}{W14}Yeah."
+
+@ASU_KIS_B:301 ASU e45f4533
+"{V0481}{W12}See you, {Nm}."
+
+@ASU_KIS_B:302 ASU 5b81e5c8
+"{V0482}{W12}Hey,{W10} {Nm},{W55}{F6} do the charm{W35} one more time..."
+
+@ASU_KIS_B:303 PLY b8c85e4b
+"Huh? Sakino..."
+
+@ASU_KIS_B:304 ASU 513a42fe
+"{V0483}{W12}Is that a no?"
+
+@ASU_KIS_B:305 PLY 766704ac
+"No, it's not that I mind..."
+
+@ASU_KIS_B:306 PLY 2a618159
+(She's anxious thinking about what if she does get to play...)
+
+@ASU_KIS_B:307 PLY 34857b81
+(That's how serious she is...)
+
+@ASU_KIS_B:308 PLY 41dea839
+(Yeah... nobody's watching, right...)
+
+@ASU_KIS_B:309 PLY 650d3650
+"...Okay, close your eyes."
+
+@ASU_KIS_B:310 ASU 0d68a589
+"{V0484}{W12}Okay."
+
+@ASU_KIS_B:311 ASU ba1d1db3
+"{V0485}{W12}Okay{W10}...{W70} I{W6}...{W50} will do my best..."
+
+@ASU_KIS_B:312 ASU 84821745
+"{V0486}{W12}Ehehe,{W40}{F3} thanks.{W50} See{W3} you{W5} later, {Nm}."
+
+@ASU_KIS_B:313 PLY 0a3a7232
+"Hey, welcome to the No Way House. Yeah, it's KIS B."

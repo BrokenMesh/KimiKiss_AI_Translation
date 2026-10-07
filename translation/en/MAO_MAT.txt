@@ -1,0 +1,410 @@
+# MAO_MAT -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_MAT:18 PLY 0babda39
+"Mao... there's something I'd like you to teach me, if that's okay?"
+
+@MAO_MAT:22 MAO 5630ecfe
+"{V2666}{F4}{W5}Something{W4} you{W4} want{W4} me{W4} to teach{W3} you{W4}{W3}? {W33}{Fe9m3}...Oh, {W9}sorry, {W26}I have to go."
+
+@MAO_MAT:23 PLY 6407178a
+"...I see."
+
+@MAO_MAT:29 MAO 1fe85fbc
+"{V2667}{W7}See you, {Nn}."
+
+@MAO_MAT:30 PLY 7a6bbad7
+"O-okay. See you."
+
+@MAO_MAT:32 MAO 0f7bd896
+"{V0368}{F4}{W4}Something{W2} you{W1} want{W2} me{W1} to teach{W2} you{W1}{W2}{W1}? {W28}{P2}{Fe9m3}...Oh, {W2}sorry, {W15}I have to change."
+
+@MAO_MAT:33 PLY 6c6b1e77
+"R-right..."
+
+@MAO_MAT:35 MAO 83ec6e63
+"{V0369}{Fm4}{W5}Another{W1} time{W1}{W1}{W1}, okay."
+
+@MAO_MAT:36 MAO 38e928f7
+"{V0370}{W6}See you, {Nn}."
+
+@MAO_MAT:37 PLY e03a6130
+"Yeah, see you."
+
+@MAO_MAT:38 PLY 6caaa685
+"That's not fair TT Yeah, yeah. MATMAT"
+
+@MAO_MAT:40 PLY 15d8399b
+"Mao, got a minute?"
+
+@MAO_MAT:42 MAO 22c0f965
+"{V2668}{F4}{W3}Hm? {W30}{Fe9}Oh, {W20}sorry. {W23}{Fm3}I have to go."
+
+@MAO_MAT:43 MAO 7e1fd192
+"{V2669}{W10}See you, {Nn}. {W25}Later."
+
+@MAO_MAT:44 PLY 8a3c9b94
+"Mao... um..."
+
+@MAO_MAT:45 MAO 286946ae
+"{V0401}{F4}{W4}Hm?{W15}{P1}{F5}{W15} Aaah, {W20}look at{W2} the{W1} time{W1}{W1}! {W27}{Fe9m4}I have to change fast!"
+
+@MAO_MAT:46 MAO 591ba33d
+"{V0402}{Fm3}{W4}See you, {W38}later, {Nn}."
+
+@MAO_MAT:49 PLY 2d166d6d
+"Mao, are you prepared?"
+
+@MAO_MAT:50 MAO 899ba80f
+"{V0543}Huh? {W30}W-{W50}what?"
+
+@MAO_MAT:51 PLY 5e744602
+"To see how bad your study allergy is, Mao, I brought a bunch of textbooks."
+
+@MAO_MAT:52 MAO e3b6f68f
+"{V0544}{W3}Whaaat{W7}{W7}{W7}{W7}{W7}{W7}{W7}?!"
+
+@MAO_MAT:53 PLY 63a5bea6
+"I'll show them to you in order, so tell me what level you can stand."
+
+@MAO_MAT:54 MAO 0802df1e
+"{V0545}{Fe8m4}{W4}Hey, {W21}hold on{W1}! {W33}{Fe9}It's a nice thought, but {W60}{Fm3}you{W2} mean{W1} to do{W1} it{W1} now{W1}?"
+
+@MAO_MAT:55 PLY 733b13b8
+"Yeah, why?"
+
+@MAO_MAT:56 MAO 8b154e33
+"{V0546}{Fe4}{W3}Th-{W15}that's{W4} not{W4} possible{W4}{W4}{W4}. {W37}{F4}Look, {W10}I have to change, too."
+
+@MAO_MAT:57 PLY 07856da8
+"It'll be over quick, so it's fine."
+
+@MAO_MAT:58 MAO f4cde84b
+"{V0547}{Fe9}{W3}F-{W10}fine{W5}{W5}{W5}{W5}{W5}...? {W70}{P6}{F8}It may be fine for {Nn}{W2}, {W3}but not for{W3} me{W3}! {W3}{W3}{W3}{W41}Textbooks{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1} in this outfit? {W35}{Ec}{Fm4}No way."
+
+@MAO_MAT:59 PLY c8d07aa6
+"You think? I thought it'd be good for seeing exactly how the hives come out..."
+
+@MAO_MAT:61 MAO 29e9e2bf
+"{V0548}What..."
+
+@MAO_MAT:62 MAO 5e587768
+"{V0549}{Fe8}{W5}You{W1} really{W1} plan{W1} to{W3} stare{W1} at{W1} me, {W12}that intently?"
+
+@MAO_MAT:63 PLY cc4af171
+"Yeah."
+
+@MAO_MAT:64 MAO fbf48746
+"{V0550}{Ec}{F8}{W2}Pervert! {W30}Creep!"
+
+@MAO_MAT:65 MAO d0faf1b6
+"{V0551}{Eo}{Fm4}{W2}Isn't{W3} looking{W1} at{W2} my face{W1} enough{W2}{W1}{W2}{W1}{W2}{W1}?! {W26}{Ec}{Fm8}Why{W1} do I have to show{W1} you where on my body the hives come out!"
+
+@MAO_MAT:66 PLY b48abea4
+"No... I thought that might be better..."
+
+@MAO_MAT:67 MAO 255aac46
+"{V0552}{Eo}{Fm4}{W2}Geez{W5}{W5}! {W29}Your ulterior{W4} motive{W5} is{W3} totally{W4} obvious{W3}{W3}! {W65}{F8}Unless I'm in uniform, {W30}no way{W8}, {W8}never!"
+
+@MAO_MAT:68 PLY 537cd13c
+"Ah... she's gone..."
+
+@MAO_MAT:69 PLY a992a626
+(I guess that outfit makes it impossible... Right...)
+
+@MAO_MAT:70 PLY bed3fad2
+"Mao, if it's okay, want to walk home together today?"
+
+@MAO_MAT:72 MAO 627814e1
+"{V2670}{F3}{W3}Oh, {W25}sounds good. {W21}Let's go home."
+
+@MAO_MAT:73 PLY d2479fda
+"Really? Then shall we meet at the school gate after school?"
+
+@MAO_MAT:74 MAO 3c8f8844
+"{V2671}{W3}Sure{W1} thing."
+
+@MAO_MAT:76 MAO 3d706608
+"{V2672}{W2}Well then, {W10}see you after school."
+
+@MAO_MAT:77 MAO 806afb6e
+"{V2673}{F4}{W3}Huh? {W18}Today? {W43}{F9}Sorry~, {W15}I{W2} have{W2} something{W2} on{W2}{W2} today{W1}{W1}{W1}{W1}."
+
+@MAO_MAT:78 PLY e43f389d
+"I see."
+
+@MAO_MAT:79 MAO be7795ba
+"{V2674}{W3}Another{W2} time{W2}, {W2}{W2}okay. {W25}See you, {Nn}."
+
+@MAO_MAT:80 MAO d6c32c4f
+"{V2675}{F3}{W4}Oh, {W25}sounds{W1} good{W1}{W1}. {W10}Let's{W2} go home."
+
+@MAO_MAT:81 MAO d2a92dc9
+"{V2676}{Ec}{W2}Sure."
+
+@MAO_MAT:82 PLY b35cf4af
+"...Huh? Mao, didn't you say you had something to do today?"
+
+@MAO_MAT:84 MAO eb21de85
+"{V2677}{Eo}{F4}{W3}Oh, {W30}{Fm3}that got canceled. {W18}{F3}So{W2}{W2}{W2} it's{W3} fine{W3}."
+
+@MAO_MAT:85 PLY 696225c1
+"Oh, okay."
+
+@MAO_MAT:86 MAO a18c87eb
+"{V2678}{W4}Well then, {W8}see you after school."
+
+@MAO_MAT:87 PLY 2a7133fc
+"Yeah, see you, Mao."
+
+@MAO_MAT:88 PLY 30c6fd42
+"Mao... got a minute?"
+
+@MAO_MAT:89 MAO 036ad8b6
+"{V2679}{F9}{W3}Ah... {W15}sorry. {W25}{Fm3}I have to go."
+
+@MAO_MAT:90 PLY 542af83a
+"I see..."
+
+@MAO_MAT:91 MAO e87b5409
+"{V2680}{F3}{W5}We can{W5} continue{W4} our talk{W5}{W4} another{W10} time{W1}{W1}{W2}{W2}."
+
+@MAO_MAT:92 PLY bad3355d
+"Yeah..."
+
+@MAO_MAT:93 MAO de81ec30
+"{V2681}{W3}Well then, {W16}see you."
+
+@MAO_MAT:94 PLY ce2a2349
+"Mao, um... want to go behind the school?"
+
+@MAO_MAT:95 MAO d7a9e726
+"{V0588}{F4}{W2}Behind the school{W4}{W4}? {W41}{Fe9m3}Why?"
+
+@MAO_MAT:96 PLY 47820c47
+"There's something I want to give you."
+
+@MAO_MAT:97 MAO cdc76cc4
+"{V0589}{Fm4}...Can't it{W12} be here?"
+
+@MAO_MAT:98 MAO cec4315f
+"{V0590}{Ec}{W2}Hmm{W4}{W4}{W4}...{W35} I'd like to go{W1}{W1}, {W19}{Fm3}but in this{W2} outfit{W2}..."
+
+@MAO_MAT:99 PLY 3147b924
+"Oh... r-right..."
+
+@MAO_MAT:100 MAO 5a23bbc8
+"{V0591}{Eo}{Fm4}{W1}Is{W2} it{W2} something{W2} important?"
+
+@MAO_MAT:101 PLY bcf3e0d4
+"Yeah... it is, but another time is fine."
+
+@MAO_MAT:102 MAO bba21a13
+"{V0592}{Fm3}{W2}Are{W2} you{W2} sure{W2} that's{W2} okay{W3}?"
+
+@MAO_MAT:103 MAO 6422be68
+"{V0593}Yes, {W21}see you."
+
+@MAO_MAT:104 PLY 2b9897d2
+(In that outfit, going behind the school all of a sudden is impossible, I guess.)
+
+@MAO_MAT:105 MAO 5743c5cc
+"{V2682}{F3}{W2}Together{W2}{W2}? {W27}Sure."
+
+@MAO_MAT:106 MAO da70a4b7
+"{V2683}{Fm4}{W4}There's a place{W5} I'd{W1} like{W1} to{W1} stop{W1} by{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}, {W26}is that okay?"
+
+@MAO_MAT:107 PLY cb5ef80d
+"Yeah, that's fine."
+
+@MAO_MAT:108 MAO e673f74a
+"{V2684}{F3}{W8}Then, after school{W2}{W2}, {W19}let's meet{W2} at the{W2} school gate{W1}{W1}{W1}{W1}{W1}{W1}."
+
+@MAO_MAT:109 MAO b5c8bc30
+"{V2685}{Ec}{W12}See you, {Nn}."
+
+@MAO_MAT:110 PLY 78d7d2a1
+"Yeah. After school."
+
+@MAO_MAT:111 MAO 0cd721fd
+"{V2687}{Fm4}{W2}I want to stop by, {W5}the street{W2} in front of{W2} the station{W2}{W1}{W1}{W1}{W1}{W1} again, {W11}{Fm3}is that okay?"
+
+@MAO_MAT:112 PLY cf543578
+"Yeah, sure."
+
+@MAO_MAT:113 MAO d71ea426
+"{V2688}{W15}Then, after school{W2}{W2}{W2}, {W10}let's meet{W1} at the school gate{W1}."
+
+@MAO_MAT:114 MAO 292bd0ac
+"{V2689}{W4}See you, {Ec}{Nn}."
+
+@MAO_MAT:115 MAO 4d0a977f
+"{V2690}{F4}{W4}Together?{P1}{Fe7}{W50}...{Fe9m3}Sorry, {W34}I{W3} want{W3} to stop{W4} by somewhere{W3} alone{W3} today{W1}{W1}{W1}{W1}{W1}{W1}..."
+
+@MAO_MAT:116 MAO 47495c5a
+"{V2691}{Ec}{W4}Another{W4} time{W4}{W4}{W4}. {W40}{Eo}{F3}See you, {Nn}."
+
+@MAO_MAT:117 MAO 24331b39
+"{V2692}{W3}Together{W2}{W2}? {W57}{Fe7}Well{W1}{W1}{W1}..."
+
+@MAO_MAT:118 MAO 5ec6a373
+"{V2693}{W7}I{W2} wanted{W1} to stop{W1} by{W1} alone{W1}{W1}{W1}{W1}{W1}, but {W15}{F3}shall we go together?"
+
+@MAO_MAT:119 PLY 2c53b197
+"Really? ...So where to?"
+
+@MAO_MAT:120 MAO 14b1e2e2
+"{V2694}{Ec}{W2}Just a little place. {W28}{Eo}Follow me and{W2} you'll see."
+
+@MAO_MAT:121 PLY 876a2929
+"I see..."
+
+@MAO_MAT:122 MAO 6befd030
+"{V2695}{W10}Then, {W7}after school, {W25}let's meet{W1} at{W1} the school gate{W1}."
+
+@MAO_MAT:123 PLY 5337c558
+"Okay. See you, Mao."
+
+@MAO_MAT:124 MAO f73c49c7
+"{V2696}{W5}See you{W3}{W3}, {Nn}."
+
+@MAO_MAT:125 PLY 0177a518
+"That's not fair TT"
+
+@MAO_MAT:126 PLY 80decc91
+"Mao..."
+
+@MAO_MAT:127 MAO 38fa027a
+"{V2697}{F3}{W3}What?"
+
+@MAO_MAT:128 PLY 0e139d83
+"This coming weekend..."
+
+@MAO_MAT:129 MAO 4d196a9d
+"{V2698}{W3}Ah... {W8}sorry. {W17}I have to go."
+
+@MAO_MAT:130 MAO 368e6465
+"{V2699}{Ec}{Fe2m3}{W6}Let's{W5} continue{W4} our talk{W5}{W4} {W25}another time, nice and slow."
+
+@MAO_MAT:131 PLY 851b6dc4
+"Yeah."
+
+@MAO_MAT:132 MAO f2626597
+"{V2700}{F3}{Eo}{W4}See you, {Nn}."
+
+@MAO_MAT:133 MAO 23d7a6f5
+"{V2705}{Fe9m4}{W3}Oh... {W20}{P3}{Fe9m3}that{W2}'s{W2} the thing, {W22}it's just not going to work."
+
+@MAO_MAT:134 MAO b2c52d49
+"{V2706}{Ec}{W5}Let's do it{W2} another{W2} time{W3}{W12}, slowly{W1}{W1}{W1}{W1}."
+
+@MAO_MAT:135 PLY a9bebc32
+"Yeah..."
+
+@MAO_MAT:136 MAO 194f0aa8
+"{V2707}{Eo}{W10}See you, {W5}{Nn}."
+
+@MAO_MAT:137 PLY 4014cbea
+"See you, Mao."
+
+@MAO_MAT:138 PLY af47d27a
+"Mao, want to walk home together today?"
+
+@MAO_MAT:139 MAO 2e8052d8
+"{V2711}{Fe3m4}{W4}Together? {W26}{Fm3}Sure{W1}{W1}. {W33}I{W3} wanted{W2} to walk home with you{W2}, {Nn}{W3}{W3}{W2}{W2}{W2}{W2}{W1}{W1}, too."
+
+@MAO_MAT:140 PLY 8b34a7fa
+"Okay. Then shall we meet in front of the school gate after school?"
+
+@MAO_MAT:141 MAO a52b5311
+"{V2712}{W3}Sure. {W21}{Ec}I'm looking{W1} forward{W1} to it."
+
+@MAO_MAT:142 PLY 860a6a8f
+"See you, Mao."
+
+@MAO_MAT:143 MAO 8c07bc35
+"{V2713}{Eo}{W32}See you, {Nn}."
+
+@MAO_MAT:144 MAO 57b9286c
+"{V2714}{Fe9m4}{W2}Oh... {W25}what a shame. {W47}{Fm3}Today{W2} is... {W27}a bit{W2} of a{W1} no-go."
+
+@MAO_MAT:146 MAO ce445de3
+"{V2715}{W3}I'd like to go home{W17} with you{W2}{W1}{W1}{W1}{W1}{W1}{W1}{W1}, though. {W48}{Eo}{Fm3}Ask me{W1} again{W1} another{W2} time, {W18}{W1}{W1}{W1}okay?"
+
+@MAO_MAT:147 PLY e6f568ce
+"Okay, I will."
+
+@MAO_MAT:148 MAO 112f88e4
+"{V2716}{F3}{W5}Well then{W15}, see you, {Ec}{Nn}."
+
+@MAO_MAT:149 PLY 25a65886
+"Mao, you can't walk home together today, right?"
+
+@MAO_MAT:150 MAO a801360b
+"{V2717}{Ec}Fufu, {W36}{Eo}{Fm4}about that, {W8}just now, {W26}{Fm3}the plans{W1} I{W1} had{W1}{W1} got{W2} canceled{W2}{W1}{W1}{W1}{W1}{W1}."
+
+@MAO_MAT:151 PLY 18b0ca17
+"Oh, I see."
+
+@MAO_MAT:152 MAO 7fcfaca8
+"{V2718}{W6}I{W4} wanted{W4} to go{W4} home{W4} with{W3} you{W4}{W3}{W2}{W2}{W2}{W2}{W2}, too, {W11}so it worked out perfectly."
+
+@MAO_MAT:153 PLY 74273fe2
+"Then let's meet in front of the school gate after school."
+
+@MAO_MAT:154 MAO 897ad0c1
+"{V2719}{W6}Sure. {W24}See you, {Fe2}{Ec}{Nn}."
+
+@MAO_MAT:155 MAO 79d8d6b1
+"{V2720}{W5}Oh...{Fm3}{W57} sorry. {W31}That{W1}'s{W1} the thing, {W30}it's just{W1} not{W1} going to work."
+
+@MAO_MAT:156 MAO 4a214d41
+"{V2721}{Fm4}{W5}Let's do it{W1} another{W1} time{W2}{W2}, slowly{W1}{W2}{W2}, {W20}{Ec}{Fe2m3}okay?"
+
+@MAO_MAT:157 MAO 9ae77544
+"{V2722}{W6}See you, {Nn}."
+
+@MAO_MAT:158 MAO f85a1a95
+"{V2723}{F4}{W5}Together? {W20}{Ec}{F3}Fufu, {W22}sure{W1}{W1}{W1}. {W28}{Eo}I{W3} wanted{W2} to go home with you{W3}, {Nn}{W2}{W1}{W1}{W1}{W1}{W1}, too."
+
+@MAO_MAT:159 MAO c188f9da
+"{V2724}{W3}Sure{W1}. {W34}I'm looking{W1} forward to it."
+
+@MAO_MAT:160 MAO 6e42a26d
+"{V2725}{W5}See you, {Fe2}{Ec}{Nn}."
+
+@MAO_MAT:161 MAO e99ab94c
+"{V2726}{W3}Oh... {W76}what a shame{W4}. {W50}{Fm3}Today's {W18}not good{W7}."
+
+@MAO_MAT:162 MAO 7ad097d0
+"{V2727}{Fm6}{W3}I{W5} want{W5} to go home{W5} with {Nn}{W5}{W5}{W5}{W3}{W2}{W2}{W2}{W2}{W2}{W2} too~! {Ec}{W30}...{Eo}{Fm3}Ask me{W1} again{W1} another{W2} time, {W8}{W2}okay?"
+
+@MAO_MAT:163 MAO d5037517
+"{V2728}{W3}Well then, {W39}see{W1} you{W1}, {Nn}."
+
+@MAO_MAT:164 MAO 20c2d0f2
+"{V2729}{Fm4}{W2}Oh, {W18}{Fm3}it's fine{W2}{W2}. {W29}{Ec}Just now, {W10}the plans I had {W1}got canceled."
+
+@MAO_MAT:165 MAO 26e1477c
+"{V2730}Fufu, {W30}{Eo}lucky, huh? {W30}{P3}{W15}I wanted to{W28} go home with {Nn}{W1}{W1}{W2}{W2}{W1}{W1}, too."
+
+@MAO_MAT:166 PLY ee6db55f
+"Then shall we meet in front of the school gate after school?"
+
+@MAO_MAT:167 MAO bcfdec31
+"{V2731}{W3}Sure. {W25}See you, {Fe2}{Ec}{Nn}."
+
+@MAO_MAT:168 PLY 439f97f3
+"Mao."
+
+@MAO_MAT:169 MAO ef47cbf7
+"{V2653}What?"
+
+@MAO_MAT:170 PLY 3637eea5
+"I'm looking forward to walking home together."
+
+@MAO_MAT:171 MAO d030aaae
+"{V0810}{W10}{Fe2}{Ec}Fufu, {W20}{Fe3}{Eo}me too."
+
+@MAO_MAT:172 PLY 570f459d
+"Yeah. See you."

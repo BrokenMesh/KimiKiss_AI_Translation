@@ -1,0 +1,368 @@
+# MAO_DEA -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_DEA:19 PLY 663f1f6c
+(I've eaten lunch, so I might as well relax a bit...)
+
+@MAO_DEA:22 PLY 95bddd45
+(Nobody around, huh...)
+
+@MAO_DEA:23 PLY 5e1c22b4
+(Maybe I'll go check out the terrace.)
+
+@MAO_DEA:27 PLY 05e73ff0
+(Ah, that's...)
+
+@MAO_DEA:33 PLY 44cd1735
+(It's Mao...)
+
+@MAO_DEA:34 MAO 56dd5ac8
+"{V0000}{W5}Aaah...{W15} {W45}Even the date spots {W2}{W3}in front of the station {W5}never change, huh."
+
+@MAO_DEA:35 PLY 58e7a6b0
+(She's really changed, Mao. In junior high she was a total study nerd...)
+
+@MAO_DEA:56 PLY 7115686d
+(And she used to be like this...)
+
+@MAO_DEA:59 PLY e6f81249
+(Now she's totally stylish... I mean, she's changed way too much.)
+
+@MAO_DEA:60 PLY 5855a641
+(They say every boy in school has a crush on her, so it's kind of hard to talk to her... Let's go...)
+
+@MAO_DEA:67 MAO e92ec7bb
+"{V0001}{W10}Hey,{W5} hey,{W5}{W5} {Nn}! {F8}You can't just walk past me without a word, {W15}{F9}how cold of you~!"
+
+@MAO_DEA:68 PLY d094b683
+"Ah, Mao..."
+
+@MAO_DEA:70 MAO 2c5c1bea
+"{V0002}Don't just say, 'Oh,{W10} Mao{W2}{W2}{W2}{W2}{W2}.'{W5} Geez."
+
+@MAO_DEA:71 MAO d9f6fc99
+"{V0003}{W10}Back in elementary school{W3}{W3}{W3}{W30} {F7}you said, 'When I grow up,{W3}{W5} I'll marry Mao~'{W3}{W3}{W3}{W15} {W15}{F9}Such a cutie, back then."
+
+@MAO_DEA:72 PLY c11e33ba
+"Eep... You didn't have to say that here..."
+
+@MAO_DEA:73 MAO 5b40c1ca
+"{V0004}{W5}And now we go to the same high school, {W15}and you don't even say hello."
+
+@MAO_DEA:74 PLY 581945bc
+"W-well, that's..."
+
+@MAO_DEA:75.1 - f5fc7e57
+{Ti0}- Because you've changed, Mao...／- Our timing just never lined up...／- Sorry, but I'm not into older girls
+
+@MAO_DEA:76 PLY ef489c21
+"Because you've changed, Mao..."
+
+@MAO_DEA:78 MAO 4f65ee30
+"{V0005}{W10}Fufu{W5}, {W30}{Eo}what's this?{W5} {W30}Were you feeling shy?{W3} {W25}{Eh}Aw, how cute{W3}."
+
+@MAO_DEA:80 PLY 4a151914
+"I-I never said that!"
+
+@MAO_DEA:81 MAO 30e803c3
+"{V0006}{W5}Fufu{W3}, {W60}{Eo}look at you, denying it so hard.{W3} {W15}{Eh}Know what that's {W15}called?"
+
+@MAO_DEA:82 PLY 122df4f6
+"Huh?"
+
+@MAO_DEA:83 MAO 6382f015
+"{V0007}{W8}{W8}It's called{W2} giving{W15} yourself{W2} away.{W15}"
+
+@MAO_DEA:84 PLY b0b3b583
+"...That's it, I'm going!"
+
+@MAO_DEA:86 MAO 321ace7c
+"{V0008}{W3}Aaah! {W13}Sorry, sorry! {W15}{F9}I won't {W3}{W5}tease you anymore, {W20}{W3}so let's talk, {W3}just the two of us. {W25}Come on, it's been so long."
+
+@MAO_DEA:87 PLY f84c5698
+"Our timing just never lined up."
+
+@MAO_DEA:89 MAO 7cb07ad3
+"{V0009}{W15}Timing?{W1}{W1}{W1}{W1}{W1} {W45}{F7}We go to the same school{W3}{W3}{W3}{W3}, {W5}{W35}{F9}and we live{W8} right{W3} next door,{W3} don't we?"
+
+@MAO_DEA:91 PLY 7d68aa58
+"Y-yeah..."
+
+@MAO_DEA:92 MAO f85b7bf4
+"{V0010}{W8}{W8}Hmm{W8}, {W65}{F3}well, whatever."
+
+@MAO_DEA:94 MAO da3dde12
+"{V0011}{W3}Since our timing finally lined up, {W13}let's talk,{W3} just the two of us.{W3} {W20}Okay?{Ec}"
+
+@MAO_DEA:95 PLY a0063d73
+"Sorry, but I'm not into older girls."
+
+@MAO_DEA:96 MAO b987ed1a
+"{V0012}{W30}Oh, {W20}ooh?! {W15}{W3}{W2}Look who's talking big, {W8}{Nn}~"
+
+@MAO_DEA:97 MAO 8cd1ef3d
+"{V0013}{W8}So what?{W5} {W45}Do you like younger girls?{W5}{W3}{W3} {W45}Someone cute like Nana, {Eh}all sweet and cute{W3}{W3}{W5}{W5}~{W17}? {Ec}Is that your type?"
+
+@MAO_DEA:98 PLY 2142a2ac
+"N-Nana's my sister!"
+
+@MAO_DEA:99 MAO 53ced524
+"{V0014}Fufu{W8}, {W65}{Eo}look at you getting all defensive, {W3}so cute~!"
+
+@MAO_DEA:101 MAO 57a07b67
+"{V0015}{W3}Aaah! {W10}Sorry, sorry! {W15}{F3}I won't tease you{W3}{W5} anymore, {W5}so let's talk,{W3} just the two of us.{W3} {W15}{F2}Come on, it's been so long."
+
+@MAO_DEA:102 MAO ff741648
+"{V0016}{W5}{W5}Come on, {W18}{W1}{W1}{W1}sit right there, {Ec}sit."
+
+@MAO_DEA:104 SYS 93342ea8
+...And so, I was reunited with Mao.
+
+@MAO_DEA:105 SYS f7901d50
+Talking with Mao for the first time in ages, I found she'd changed for the better, in looks and in words. My heartbeat quickened as we talked.
+
+@MAO_DEA:106 SYS 7c3b6c32
+If only we could be close again, like we used to be...
+
+@MAO_DEA:107 PLY 8edc440e
+(Ugh... my summer vacation homework for modern Japanese class isn't done. Will Ms. Kawada wait?)
+
+@MAO_DEA:108 PLY 05fb1e61
+(Ms. Kawada is kind and a good teacher, but she's pretty scary when she gets angry...)
+
+@MAO_DEA:109 PLY af0892a1
+"Ah, Ms. Kawada!"
+
+@MAO_DEA:111 TOM 40451c6e
+"{V0003}{W8}Oh, {W10}{Nm}. {W15}What's the matter?"
+
+@MAO_DEA:112 PLY 06124870
+"Um... there's something I wanted to talk to you about..."
+
+@MAO_DEA:113 TOM 242b43d5
+"{V0004}{W5}Of course. {W33}{W5}What is it?{Eo}"
+
+@MAO_DEA:114 PLY 7e686423
+"It's... kind of hard to say..."
+
+@MAO_DEA:115 - 64c62dc2
+Girl
+
+@MAO_DEA:117 MAO 0b8383c9
+"{V5001}{W5}{W3}Ms. Kawada~! {W13}Let's have lunch {Ti1}together~!"
+
+@MAO_DEA:118 TOM 0b97d440
+"{V0005}{W5}Oh, {W30}{W5}Mizusawa{W5}."
+
+@MAO_DEA:119 PLY 33105d52
+"Huh? Mizusawa?"
+
+@MAO_DEA:123 PLY c70948dc
+"Ah!"
+
+@MAO_DEA:124 MAO 9d6bcb39
+"{V0017}{W5}{F4}Huh?"
+
+@MAO_DEA:125 MAO 2610da96
+"{V0018}{W5}Ah!"
+
+@MAO_DEA:126 MAO 1e457e2f
+"{Nn}..."
+
+@MAO_DEA:127 PLY 0d80b9d5
+"......"
+
+@MAO_DEA:128 TOM f5ff7bef
+"{V0006}{W3}Oh, {W60}{W3}do you two know each other?"
+
+@MAO_DEA:129 PLY 645c3846
+(M-Mao... of all places to run into her...)
+
+@MAO_DEA:130 PLY 804519b3
+"M-Ms. Kawada, I can talk to you about it later."
+
+@MAO_DEA:131 TOM 1643997e
+"{V0007}{W8}Huh?"
+
+@MAO_DEA:132 PLY 7bc85b58
+"See you!"
+
+@MAO_DEA:133 MAO f5682ca3
+"{V0020}{W5}Ah! {W15}Hey, {Nn}! {W5}Wait up!"
+
+@MAO_DEA:134 MAO 2109e9b6
+"{V0021}{W5}Tomo, {W5}sorry! {W5}Lunch another time{W1}!"
+
+@MAO_DEA:136 TOM 304d5759
+"{V0008}Ah, {W30}{W5}Mizusawa{W5}!"
+
+@MAO_DEA:137 TOM 8490e8f3
+"{V0009}{W8}{W2}Honestly, {W60}{W2}{W2}{W2}{W2}I keep telling her to stop calling me by a nickname..."
+
+@MAO_DEA:143 SYS 1c822439
+{Ti0}{Ti2}Pat-pat-pat...
+
+@MAO_DEA:144 PLY 4c9358e2
+(...She's changed, Mao. She's become so stylish, and she's every boy's crush...)
+
+@MAO_DEA:145 PLY deb3dc67
+(In junior high she was a total study nerd...)
+
+@MAO_DEA:146 PLY e1dc6b06
+(When you've known Mao since you were kids, you don't know what to do...)
+
+@MAO_DEA:147 MAO fa2e9c20
+"{V0022}Hey, hey, {Nn}! {W15}I said wait!"
+
+@MAO_DEA:148 PLY fa4aecbd
+"Huh?!"
+
+@MAO_DEA:149 MAO 8bf64444
+"{V0023}{W3}Huff{W45}... huff...{W60} You got so fast{W3}{W3} at running~. {W32}{Eo}{Sp}I thought I'd never catch up."
+
+@MAO_DEA:150 PLY 79cdd8d0
+"Mao, you came after me."
+
+@MAO_DEA:151 MAO 24ef427e
+"{V0024}{W3}Of course I came after you... {W30}You didn't have to run away."
+
+@MAO_DEA:152 PLY 617c711a
+"S-sorry. I just..."
+
+@MAO_DEA:154 MAO d60052df
+"{V0025}{W8}{W8}Honestly...{W50} you're so cold~."
+
+@MAO_DEA:155 MAO db68a659
+"{V0026}{W10}Back in elementary school{W3}{W3}{W3}{W2}{W45} {F7}you said, 'When I grow up,{W3}{W3} I'll marry Mao~'{W3}{W3}{W3}{W5}{F2}{W15} {F9}Such a cutie, back then."
+
+@MAO_DEA:156 PLY 6be503f5
+"Eep... Bringing up stuff from when we were kids..."
+
+@MAO_DEA:157.1 - f5fc7e57
+{Ti0}- Because you've changed, Mao...／- Our timing just never lined up...／- Sorry, but I'm not into older girls
+
+@MAO_DEA:158 MAO c1fec5a7
+"{V0028}{W10}Fufu{W5}, {W30}{Eo}what's this?{W5} {W30}Were you feeling shy?{W1} {W25}{Eh}Aw, how cute{W3}."
+
+@MAO_DEA:159 MAO 5c80642b
+"{V0029}{W5}Fufu{W3}, {W60}{Eo}look at you, denying it so hard.{W3} {W15}{Eh}Know what that {W15}is called{W1}{W1}{W1}?"
+
+@MAO_DEA:160 MAO 32b51231
+"{V0030}{W8}{W8}It's called{W2} giving{W15} yourself{W2} away{W3}, you know{W2}."
+
+@MAO_DEA:161 MAO 414cdb4e
+"{V0031}{W3}Aaah! {W15}Sorry, sorry! {W20}{F9}I won't tease you anymore, so let's have lunch together, just the two of us."
+
+@MAO_DEA:162 MAO 652f3776
+"{V0032}{W15}Timing?{W1}{W1}{W1}{W1} {W60}{F7}We go to the same school{W3}{W3}{W3}{W3}, {W5}{W30}{F9}and we live{W8} right{W3} next door,{W3}{W8} don't we?"
+
+@MAO_DEA:163 MAO 06582747
+"{V0033}{W8}{W8}Hmm{W8}, {W75}{F3}well, whatever."
+
+@MAO_DEA:164 MAO 66d3153d
+"{V0034}{W3}Since our timing finally lined up, {W5}let's have lunch{W3} together,{W3} just the two of us."
+
+@MAO_DEA:165 MAO e384bd45
+"{V0035}{W8}Oh, {W20}ooh?! {W15}{W3}{W2}Look who's talking big, {W8}{Nn}~"
+
+@MAO_DEA:166 MAO 7fe8cd4d
+"{V0036}{W5}So what?{W8} {W15}Do you like younger girls?{W3}{W3}{W3} {W30}Someone cute like Nana, {Eh}all sweet and cute{W8}~{W8}? Is that{W3} your type?"
+
+@MAO_DEA:167 MAO 3b62a2d2
+"{V0037}{W5}Fufu{W5}{W45}, {W60}{Eo}look at you getting all defensive, so cute{W3}~!"
+
+@MAO_DEA:168 MAO 93661da4
+"{V0038}{W3}Aaah! {W5}Sorry, sorry! {W15}{F3}I won't tease you anymore, so let's have lunch together, {W5}{W3}just the two of us."
+
+@MAO_DEA:169 MAO 5d79b20d
+"{V0039}{W5}Okay? {W4}Let's go!{Ec}"
+
+@MAO_DEA:170 SYS 97b8fdf2
+...And so, I was reunited with Mao, and we had lunch together.
+
+@MAO_DEA:171 PLY 2e07aee1
+(What should I do when I get home...)
+
+@MAO_DEA:172 PLY 8cf5a327
+(I don't really have anything to do...)
+
+@MAO_DEA:173 PLY 9c982baf
+(It's not like there's a TV show I want to watch, either...)
+
+@MAO_DEA:174 MAO 0ff871b0
+"{V0040}{W5}Ah...!"
+
+@MAO_DEA:175 PLY de71cdd6
+(Ah...)
+
+@MAO_DEA:176 PLY 84a52468
+(Mao... of all places to run into her...)
+
+@MAO_DEA:181 PLY b4117e26
+(...She's changed, Mao. She's become so stylish, and she gets all the boys' attention...)
+
+@MAO_DEA:182 MAO 1428fb24
+"{V0041}{W5}Hey,{W5} hey, {Nn}!"
+
+@MAO_DEA:183 PLY 21e4acd1
+"Huh?!"
+
+@MAO_DEA:185 MAO 99c2ef71
+"{V0042}{W5}Our eyes met, {W15}and you still walked right past me and ignored me!"
+
+@MAO_DEA:186 PLY 0b953703
+"S-sorry. I was thinking about something..."
+
+@MAO_DEA:187 MAO f5ee6541
+"{V0043}{W3}Thinking?{W8}{W3} {W65}{F9}Honestly,{W15} {W15}you're so cold~."
+
+@MAO_DEA:188 MAO 69ae5962
+"{V0044}{W10}Back in elementary school{W5}{W5}{W5}{W5}{W30} {F7}you said, 'When I grow up,{W5} I'll marry Mao{W3}~'{W5}{W5}{W15} {W15}{F9}Such a cutie, back then."
+
+@MAO_DEA:189 MAO d8f3a0fe
+"{V0045}{W8}{W8}And now we go to the same high school, {W3}{W15}{W2}{W5}and you don't even say hello."
+
+@MAO_DEA:190.1 - f5fc7e57
+{Ti0}- Because you've changed, Mao...／- Our timing just never lined up...／- Sorry, but I'm not into older girls
+
+@MAO_DEA:191 MAO f9238934
+"{V0046}{W10}Fufu{W5}, {W55}{Eo}what's this?{W5}{W5} {W20}Were you feeling shy?{W3} {W30}{Eh}Aw, how cute{W8}{W5}{W5}."
+
+@MAO_DEA:192 MAO b78b286e
+"{V0047}{W5}Fufu{W3}, {W53}{Eo}look at you, denying it so {W3}{W3}hard. {W25}{Eh}Know what that's {W25}called?"
+
+@MAO_DEA:193 MAO a5e428ab
+"{V0048}{W3}{W8}{W3}It's called{W5} giving {W15}yourself{W1}{W2}{W2}{W2} away."
+
+@MAO_DEA:194 MAO 453f5504
+"{V0049}{W5}Aaah! {F9}Sorry, sorry! {W15}I won't tease you anymore, so let's walk home together? {W15}{F3}Okay? {W15}{W3}{W3}We live close, after all."
+
+@MAO_DEA:195 MAO c476dc15
+"{V0050}{W5}Timing? {W60}{F7}{W5}{W3}{W3}{W3}We go to the same school, {W3}{W45}{F9}{W8}{W1}{W1}{W1}{W5}{W1}{W5}{W2}{W1}and we live right next door, don't we?"
+
+@MAO_DEA:196 MAO 5709ded2
+"{V0051}{W8}{W8}Hmm{W8}, {W75}{F3}well, whatever."
+
+@MAO_DEA:198 MAO e4ff6a35
+"{V0052}{W3}Since our timing finally lined up, {W10}let's walk home together. {W13}{F2}{Ec}Okay?"
+
+@MAO_DEA:199 MAO b5fb6b3d
+"{V0053}{W15}Oh, {W30}ooh?! {W10}{W2}Look who's talking big, {W8}{Nn}~"
+
+@MAO_DEA:200 MAO 520f3481
+"{V0054}{W8}So what? {W5}{W30}{W5}{W5}{W3}Do you like younger girls? {W45}Someone cute like Nana, {Eh}{W5}{W5}{W17}all sweet and cute~? {W15}{W3}Is that your type?"
+
+@MAO_DEA:201 MAO 74b9dc1e
+"{V0055}Fufu{W3}{W5}, {W60}{Eo}look at you getting all {W5}{W5}defensive, {W5}{W5}so cute~!"
+
+@MAO_DEA:202 MAO e95dd7ce
+"{V0056}{W5}Aaah! Sorry, sorry! {W15}{F3}I won't tease you anymore, {W8}so let's walk home together? {W18}{F2}Okay? {W22}{W3}{W3}We live close, after all."
+
+@MAO_DEA:203 PLY ba913894
+"Y-yeah. I guess that's fine..."
+
+@MAO_DEA:204 MAO 0ec306a1
+"{V0057}{W5}Fufu{W5}, {W48}it's been a while{W5} {W30}since the two of us{W3} walked{W3} together{Ec}."
+
+@MAO_DEA:205 SYS bad50af7
+...And so, I was reunited with Mao, and we walked home together.

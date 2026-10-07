@@ -1,0 +1,8 @@
+# GUN_PRO -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@GUN_PRO:16 - 81aabf91
+Onihei
+
+@GUN_PRO:19 GUN 1970404e
+"I'm Senior Sergeant Satonaka Onihei. If you understand, shout back, 'Oss!'"

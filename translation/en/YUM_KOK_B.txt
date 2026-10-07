@@ -1,0 +1,365 @@
+# YUM_KOK_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@YUM_KOK_B:19 PLY 5fcac7df
+(...I'm meeting Hoshino at the Walkway.)
+
+@YUM_KOK_B:39 PLY 724b0a53
+"Ah, Hoshino. Good thing it's sunny. It's perfect soccer weather."
+
+@YUM_KOK_B:41 YUM 2a21e65d
+"{V1434}{W9}Mm."
+
+@YUM_KOK_B:42 PLY 43402bfe
+"Our opponent is the powerhouse, Kibito Commercial, right? We'd better cheer our hardest."
+
+@YUM_KOK_B:43 YUM 3f8a9b05
+"{V1435}{W7}What{W1} should{W1} I{W1} do?{W1}{W42} {F9}My{W1} heart{W1} is{W1} starting{W1} to{W1} pound{W1}..."
+
+@YUM_KOK_B:44 PLY 0761d457
+"Just do what you practiced. Have confidence."
+
+@YUM_KOK_B:46 YUM b9959c71
+"{V1436}{W4}Yes."
+
+@YUM_KOK_B:48 YUM 893f6592
+"{V1437}{W3}Well then,{W20} I'm going."
+
+@YUM_KOK_B:49 PLY 57c3bcdb
+"Good luck! I'll be right here cheering."
+
+@YUM_KOK_B:50 YUM 1466e4bc
+"{V1438}{W5}Mm."
+
+@YUM_KOK_B:57 SYS 9032515b
+Kickoff at last!
+
+@YUM_KOK_B:58 SYS 81ad31b8
+Borrowing strength from everyone's cheers, the Kibina High School eleven put up a great fight against the stronger powerhouse.
+
+@YUM_KOK_B:63 YUM 5a6b333e
+"{V1439}{W10}Go, go!{W6} Go, go!{W34} Ki{W14}bi{W14}na!"
+
+@YUM_KOK_B:64 YUM 224ac683
+"{V1440}{W3}Go, go!{W3} Go, go!{W3} Ki{W5}bi{W5}na!{W8} Go, go! Go, go!{W6} Ki{W5}bi{W5}na!"
+
+@YUM_KOK_B:65 SYS 23f468e0
+After one close call after another... the match ended in a 1-1 draw.
+
+@YUM_KOK_B:66 SYS 37a514e4
+Everyone at school had braced for a loss, so the uproar was as if we had won.
+
+@YUM_KOK_B:67 PLY 9d25ace0
+(I'm glad, Hoshino. I think this became the best memory for you, and for everyone...)
+
+@YUM_KOK_B:68 AKI 14bb8b5f
+"{Nm}."
+
+@YUM_KOK_B:69 PLY af40900f
+"Ah, Hiiragi."
+
+@YUM_KOK_B:70 AKI 9f7cedd1
+"{V0206}{W10}Hoshino{W2} is{W1} awful{W1} too,{W1} isn't{W1} she?{W77} {Fe6}Keeping{W2} her{W1} transfer{W1} a{W1} secret{W1} the{W65} whole time."
+
+@YUM_KOK_B:71 PLY ef5c4f84
+"She couldn't bring herself to say it. You get that, right?"
+
+@YUM_KOK_B:72 AKI 5fe54461
+"{V0207}{W12}Yeah,{W20} of course.{W50} I understand."
+
+@YUM_KOK_B:75 AKI 66b52753
+"{Nm}..."
+
+@YUM_KOK_B:76 PLY bd09fe50
+"Hm?"
+
+@YUM_KOK_B:78 AKI 9c158d25
+"{V0209}{W10}Did{W3} you know?"
+
+@YUM_KOK_B:79 PLY 58e7e92f
+"Huh? ...W-well, yeah."
+
+@YUM_KOK_B:80 AKI 57fa78bb
+"{V0210}{W8}I see,{W67} I{W3} thought{W2} so{W1}."
+
+@YUM_KOK_B:81 PLY c54e685a
+"How could you tell?"
+
+@YUM_KOK_B:83 AKI a58ddfa2
+"{V0211}{W8}I can tell,{W7} that{W1} much{W1}."
+
+@YUM_KOK_B:84 AKI 3f7d1ee5
+"{V0212}{W7}While{W1} everyone{W1} was{W1} grieving,{W23} shocked,{W38} or{W1} crying,{W23} {Fe6m4}you{W2} were{W1} the{W2} only{W2} calm{W2} one.{W1}{W1}{W1}{W1}{W1}{W1}{W2}"
+
+@YUM_KOK_B:86 AKI 42c4fc0b
+"{V0213}{W5}As if{W66} you'd{W1} already{W5} cried{W1} all{W1} your{W1} tears..."
+
+@YUM_KOK_B:87 PLY 362d8253
+"...You're sharp, you know that?"
+
+@YUM_KOK_B:89 AKI c54921ed
+"{V0214}{W7}...Still,{W55} the{W4} way{W3} the{W3} girls{W3} close{W4} to{W3} Hoshino{W3} grieved{W4} was{W3} so{W3} sad,{W66} {Fe8m1}it{W1} made{W1} me{W1} feel{W1} for{W1} them.{W4}{W4}{W4}{W3}{W3}{W3}{W2}{W2}{W19}"
+
+@YUM_KOK_B:90 PLY 6896fbe6
+"Yeah..."
+
+@YUM_KOK_B:91 AKI c147cf4d
+"{V0215}{W12}Hoshino was...{W50} crying too."
+
+@YUM_KOK_B:92 AKI 78087a1b
+"{V0216}{W18}Hoshino{W1} has{W1} it{W1} hardest,{W33} after all..."
+
+@YUM_KOK_B:93 PLY bad3355d
+"Yeah..."
+
+@YUM_KOK_B:94 AKI f78fe255
+"{V0217}{W9}And...{W81} it's hard on you...{W12} too."
+
+@YUM_KOK_B:95 PLY e173df1b
+"Hiiragi..."
+
+@YUM_KOK_B:96 AKI e032926d
+"{V0218}{W5}What are you{W25} going{W1} to do{W1} after this?"
+
+@YUM_KOK_B:97 PLY 67d76379
+"I'm meeting Hoshino at the school gate. I thought I'd walk her home... one last time."
+
+@YUM_KOK_B:98 AKI d817fd3a
+"{V0219}{W7}I see...{W100} Good luck."
+
+@YUM_KOK_B:99 PLY 77c9fb2b
+"Yeah."
+
+@YUM_KOK_B:100 AKI b1c9ed9a
+"{V0220}{W4}Today{W66} isn't{W2} the end, right?"
+
+@YUM_KOK_B:101 PLY 1698eba4
+"Of course not... I don't want it to be the last..."
+
+@YUM_KOK_B:102 AKI f8d3b062
+"{V0221}{W5}Glad to hear it."
+
+@YUM_KOK_B:103 AKI 18ece527
+"{V0222}{W3}See you."
+
+@YUM_KOK_B:106 PLY 824c272c
+"Hoshino, sorry, did you wait long?"
+
+@YUM_KOK_B:107 YUM 7dce552b
+"{V1441}{W12}N{W2}o{W2}."
+
+@YUM_KOK_B:109 YUM 6f42cfc0
+"{V1442}{W12}Because{W1} I{W1} like{W1} waiting{W1} here like this.{W20}"
+
+@YUM_KOK_B:110 PLY 6cb186f9
+"Me too... Thinking Hoshino would be here, coming here was... always... fun..."
+
+@YUM_KOK_B:111 PLY cdb2d650
+(Ugh... no, I'm about to cry...)
+
+@YUM_KOK_B:112 PLY 42b5ed25
+"L-let's go."
+
+@YUM_KOK_B:113 YUM aae2213c
+"{V1444}{W8}Mm."
+
+@YUM_KOK_B:114 PLY 8331d188
+"Hoshino."
+
+@YUM_KOK_B:116 YUM 04f2afe0
+"{V1445}{W9}Yes?"
+
+@YUM_KOK_B:117 PLY 94b4f7a0
+"Before you go home, I'd like you to stop by Hilltop Park."
+
+@YUM_KOK_B:118 YUM 572f7514
+"{V1447}{W4}...Mm."
+
+@YUM_KOK_B:119 PLY 1257a384
+(Hoshino... even if we're far apart, I'll still...)
+
+@YUM_KOK_B:122 YUM 4eb4f2c0
+"{V1448}{Br30t60}{W7}Spending{W4} this{W4} last{W53} time{W1} with{W1} you,{W1} {Nm},{W33} {Fe3}makes{W1} me{W1} so{W1} happy...{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W2}"
+
+@YUM_KOK_B:123 PLY af85d10c
+"Me too..."
+
+@YUM_KOK_B:125 YUM 44d9720c
+"{Br50t60}{Nm}..."
+
+@YUM_KOK_B:126 PLY 4175bcad
+"...H-Hoshino... I love you!"
+
+@YUM_KOK_B:127 YUM 22c8bbbf
+"{V1450}{W8}Eh..."
+
+@YUM_KOK_B:128 PLY 54d8142f
+"You're about to move far away, so I know it's a bother to hear this..."
+
+@YUM_KOK_B:129 PLY 3e6a5ad8
+"But I love you, Hoshino!"
+
+@YUM_KOK_B:130 YUM 6ee6a74b
+"{Nm}...{V1451}{Ec}{Fe3}{W17} I'm{W1} so{W1} happy{W1}...{W1}"
+
+@YUM_KOK_B:131 YUM 7d05b893
+"{V1452}{W9}I{W20}...{W16} you know,{W60} {Nm},{W1} you{W1} didn't{W1} seem{W1} to{W1} notice{W1} it{W1} at{W1} all,{W1} but{W63} {Fe9}all along,{W57} {Nm}, I've loved you."
+
+@YUM_KOK_B:132 PLY 50f36002
+"What?! R-really?!"
+
+@YUM_KOK_B:133 YUM 66abb742
+"{V1453}{W3}Mm.{W75} Ever{W8} since{W2} Year{W2} 1.{W2}{W1}{W1}"
+
+@YUM_KOK_B:134 YUM ebb9edb0
+"{V1454}{W4}So{W2}...{W44} when{W2} you{W3} said{W3} in{W1} the{W4} library,{W52} "Can{W2} I{W2} talk{W2} to{W3} you{W4} from{W2} now{W2} on?"{W2} I{W1} was{W1} so{W1} happy.{W33} {Ec}Really{W4} happy.{W4}{W4}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W1}{W1}{W1}{W1}{W3}{W3}{W3}"
+
+@YUM_KOK_B:135 PLY f7c1d76f
+(So that's how it was... That's why she didn't refuse that much when I said I wanted a kiss...)
+
+@YUM_KOK_B:136 PLY a939c2fd
+"W-what is it about me that you liked?"
+
+@YUM_KOK_B:137 YUM bbe04b23
+"{V1455}{W3}Eh?"
+
+@YUM_KOK_B:138 YUM 681308d5
+"{V1456}{W14}If{W1} you{W1} ask{W1} me{W1} what...{W36} {Fe7m9}Well...{W48} it's{W1} not{W1} your{W1} looks.{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W2}"
+
+@YUM_KOK_B:139 PLY 48ae85c0
+"Not my looks, huh..."
+
+@YUM_KOK_B:140 YUM a877a1b9
+"{V1457}{W5}S-{W19}sorry.{W1}{W1}"
+
+@YUM_KOK_B:141 PLY 27b36b70
+"N-no, it's fine. Hahaha..."
+
+@YUM_KOK_B:142 YUM 064e4c2a
+"{V1458}{W2}...Your{W2} atmosphere,{W2} {Nm},{W2} kind{W3} of{W2} {W34}{F6}seemed{W2} gentle{W1} somehow...{W43} {Ec}and{W2} so......{W2}{W2}{W2}{W1}{W1}"
+
+@YUM_KOK_B:143 PLY 51a60eb2
+"My atmosphere... that's all?"
+
+@YUM_KOK_B:144 YUM 5afa0608
+"{V1459}{W5}Yes."
+
+@YUM_KOK_B:145 YUM be0dceca
+"{V1460}{W6}Since{W5} Year{W5} 1,{W40} I've{W5} wanted{W4} to{W4} tell{W9} you how I feel..."
+
+@YUM_KOK_B:146 YUM d14846d0
+"{V1461}{Br60t120}{W10}But,{W52} we{W1} only{W1} finally{W1} got{W1} to{W1} talk{W1} after{W1} it{W1} was{W1} decided{W30} {Fe9m1}{Br0t120}that{W1} we'd{W2} part...{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W2}"
+
+@YUM_KOK_B:147 YUM 293f6408
+"{V1462}{W8}I...{W91} didn't{W1} know{W1} what{W1} to{W3} do...{W1}{W1}{W1}{W1}{W1}"
+
+@YUM_KOK_B:148 PLY 5128afa1
+"Hoshino..."
+
+@YUM_KOK_B:149 YUM 19208125
+"{V1463}{W8}I{W2}...{W57} decided{W1} I'd{W1} do{W2} what{W1} {Nm}{W1} would{W1} want{W1}.{W59} {Ec}And if {Nm}{W1} didn't want it,{W2} I'd{W1} give{W1} up{W1}..."
+
+@YUM_KOK_B:150 PLY c14253cf
+"So that's how it was..."
+
+@YUM_KOK_B:151 YUM c0160875
+"{V1464}{W7}I like you so{W2} much{W2} that{W11} I{W1} couldn't{W1} tell{W1} you{W2} I{W1} was{W1} transferring."
+
+@YUM_KOK_B:152 YUM a9485e4e
+"{V1465}{W4}I'm{W4} sorry.{W73} When{W4} we{W4} talked{W4} in{W4} the{W3} library,{W50} if{W3} I{W3} had{W2} told{W1} you{W1} I{W2} was{W1} transferring...{W4}{W1}{W1}{W1}{W1}"
+
+@YUM_KOK_B:153 YUM 1be96ff0
+"{V1466}{W8}If{W1} I{W1} had...{W33} {Ec}we{W1} wouldn't{W1} have{W1} gotten{W1} so{W1} close...{W1}{W1}{W1}{W1}{W1}"
+
+@YUM_KOK_B:154 PLY 10ff9b8b
+"That's not true."
+
+@YUM_KOK_B:155 YUM 52fa3d6c
+"{V1467}{W12}Eh?"
+
+@YUM_KOK_B:156 PLY 37c3156d
+"Whether you transfer or not, my feelings won't change."
+
+@YUM_KOK_B:157 PLY 057110d3
+"Hoshino, I love you."
+
+@YUM_KOK_B:158 YUM d798ce87
+"{V1468}{W12}Ah{W5}...{Mh}"
+
+@YUM_KOK_B:159 PLY 3c20098a
+"I've loved you since Year 1, too. ...I'm sorry I couldn't say it until now."
+
+@YUM_KOK_B:161 YUM cdc735e8
+"{V1469}{W16}N{W1}o{W1}.{W51} {Eo}I'm{W1} so{W1} happy."
+
+@YUM_KOK_B:162 PLY f355bfc5
+"...I agonized over it too. I thought saying I loved you would hurt you..."
+
+@YUM_KOK_B:163 PLY 2e454cc5
+"But it's okay, right? Even if we can't see each other, I love you."
+
+@YUM_KOK_B:164 YUM 533e7780
+"{V1470}{W9}Mm.{W68} I{W4} love{W38} you{W2} too.{W58} {Ec}Even{W1} after{W1} I{W1} transfer,{W45} my{W3} heart{W3} will{W3} always{W3} be{W3} by{W3} your{W2} side.{W2}{W2}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W5}"
+
+@YUM_KOK_B:165 YUM d5052bb7
+"{Nm}."
+
+@YUM_KOK_B:168 YUM c565bbe7
+"{V1472}{W10}I{W3} love{W3} you...{W20}"
+
+@YUM_KOK_B:169 PLY 4aeb2e97
+"I love you, Hoshino...{W20}"
+
+@YUM_KOK_B:172 PLY 61bf1253
+"I'll get a part-time job, save up for the fare, and come see you in winter break.{W20}"
+
+@YUM_KOK_B:173 YUM 60e046bb
+"{V1473}{W4}Mm,{W51} thank you.{W45} I'll be waiting...{W20}"
+
+@YUM_KOK_B:174 YUM 84463fe7
+"{V1474}{W6}I'm...{W79} not{W2} lonely{W3} anymore.{W94} Because{W48} you're{W1} there...{W30}{W2}{W3}{W3}{W4}{W1}{W1}"
+
+@YUM_KOK_B:178 SYS c654afeb
+{V5019}{c1}{W12}The{W3} following{W5} week,{W48} I{W8} transferred.{W3}
+
+@YUM_KOK_B:179 SYS 360b2857
+{V5020}{c1}{W15}A{W5} new town,{W60} a new{W5} school...{W99} In a place{W4} with{W4} no friends or acquaintances,{W39} I{W6} was bewildered,{W30} and hung my head...
+
+@YUM_KOK_B:180 SYS 5bf549ff
+{V5021}{c1}{W12}But{W33} I didn't stay down.{W30} Just as he had taught me,{W30} I summoned my courage and spoke up,{W27} and eagerly{W8} joined everyone's circle.
+
+@YUM_KOK_B:181 SYS 62794014
+{V5022}{c1}{W8}...Even when I was hurt{W30} by some casual remark between strangers,{W45} I remembered his smile{W8} and kept going.
+
+@YUM_KOK_B:182 SYS cf9266ad
+{V5023}{c1}{W12}Before long...{W30} I made close friends,{W42} and got{W3} used to my new{W5} life{W3}.
+
+@YUM_KOK_B:183 SYS 5ae01850
+{V5024}{c1}{W12}But{W48} I couldn't see{W3} him{W4}...
+
+@YUM_KOK_B:184 SYS 13fd7d76
+{V5025}{c1}{W12}He{W30} worked a part-time job without telling school,{W30} and used the money to come see me{W6} again and again.
+
+@YUM_KOK_B:185 SYS f379e89a
+{V5026}{c1}{W8}I was so happy about that,{W36} and I{W8} leaned{W3} on{W4} him.{W3}
+
+@YUM_KOK_B:186 SYS 4f41c631
+{V5027}{c1}{W12}Every time I saw him,{W33} every time he supported me,{W45} I realized I couldn't live without him{W1}...
+
+@YUM_KOK_B:187 SYS 346a2f95
+{V5028}{c1}{W15}If you wish it,{W45} I{W6} will{W2}...
+
+@YUM_KOK_B:188 SYS d959aa70
+{V5029}{c1}{W12}And then,{W27} time{W3} passed{W5}...{W4}
+
+@YUM_KOK_B:190 SYS 808ea24a
+{V5030}{c1}"I{W6} swore{W54} eternal{W4} love{W5} to{W5} him.{W5}{W3}"
+
+@YUM_KOK_B:191 SYS aaf7ee5e
+{V5031}{c1}{W8}"I{W51} love{W4} you.{W2}"
+
+@YUM_KOK_B:192 SYS f2976ab3
+{V5032}{c1}{W8}"From now on,{W45} we can always be together. I'm{W45} so happy..."
+
+@YUM_KOK_B:193 SYS 2df314ba
+{V5033}{c1}{W8}"That{W15} summer{W3} at{W3} Kibina{W3} High{W3} School{W4} is{W54} my{W8} unforgettable,{W30} precious{W4} memory{W5}...{W3}{W4}"

@@ -1,0 +1,224 @@
+# MEG_MAT -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MEG_MAT:22 PLY bb5043a1
+"Kuryuu... got a minute?"
+
+@MEG_MAT:25 MEG fa1d5fe4
+"{V0771}{F4}Ah{P1}{F9}{W10}... {W50}I {W15}have to get going."
+
+@MEG_MAT:26 PLY df6b2731
+"S-sure, I see..."
+
+@MEG_MAT:31 MEG 2afbe7c0
+"{V0772}Well, see you later."
+
+@MEG_MAT:32 PLY e03a6130
+"Yeah, see you."
+
+@MEG_MAT:33 PLY a2c70223
+"Kuryuu, want to walk home together today?"
+
+@MEG_MAT:34 MEG 14a063a7
+"{V0773}{F4}Huh?! {W40}With {W5}me?"
+
+@MEG_MAT:35 PLY 019e9373
+"Is that a no?"
+
+@MEG_MAT:36 MEG a115b3b9
+"{V0774}I don't {W3}mind, but... {W50}I {W40}commute by train, {W3}you know?"
+
+@MEG_MAT:37 PLY 293fc5fb
+"Oh, I didn't know. Then let's walk to the station together."
+
+@MEG_MAT:38 MEG 078d3f9f
+"{V0775}O-{W60}okay, I guess..."
+
+@MEG_MAT:39 PLY ef1e81bd
+"Really? Then how about we meet at the school gate after school?"
+
+@MEG_MAT:40 MEG d3905adc
+"{V0776}Yes..."
+
+@MEG_MAT:41 PLY c95d5951
+"See you after school, then."
+
+@MEG_MAT:42 MEG 1f892867
+"{V0777}{F3}Yes... {W45}See you."
+
+@MEG_MAT:43 MEG 7c8566c3
+"{V0778}{F4}Huh? {W40}Together?"
+
+@MEG_MAT:44 MEG 3a34fe64
+"{V0779}I {W3}don't mind, but..."
+
+@MEG_MAT:45 MEG 534998ab
+"{V0780}Sure, I guess..."
+
+@MEG_MAT:46 PLY ce241c69
+"Great, I'm looking forward to it."
+
+@MEG_MAT:47 MEG ad3eefa2
+"{V0781}{F3}Y-yes... {W30}See you."
+
+@MEG_MAT:48 MEG 0b160752
+"{V0778}{F4}Huh?! {W40}Together{W3}?"
+
+@MEG_MAT:49 MEG 7e81ffa7
+"{V0783}Y-{W30}yes..."
+
+@MEG_MAT:50 MEG 564d66f5
+"{V0784}Why {W5}do I, {W20}have to go home with you, {Nm}? {W10}{Eo}I really don't get it..."
+
+@MEG_MAT:51 PLY 7aa469c1
+"Hahaha..."
+
+@MEG_MAT:52 MEG 1a73fb65
+"{V0785}Well, see you later."
+
+@MEG_MAT:54 PLY ee1d6efc
+"Ah... Kuryuu..."
+
+@MEG_MAT:55 PLY cf8f0e64
+(No luck... Should I have made it more exciting?)
+
+@MEG_MAT:56 MEG ae1878f2
+"{V0786}{F4}Huh? {W35}Together?"
+
+@MEG_MAT:57 MEG 3c301870
+"{V0787}...It's not like {W30}... I mind, but..."
+
+@MEG_MAT:58 MEG bc16f92d
+"{V0788}Sure, I guess..."
+
+@MEG_MAT:59 MEG ae3ffe60
+"{V0789}Y-{W55}yes... {W55}See you."
+
+@MEG_MAT:60 PLY c4b90c2b
+"That's not fair, TT Fuck!! MAT"
+
+@MEG_MAT:61 PLY 7273050e
+"Kuryuu... got a minute?"
+
+@MEG_MAT:62 MEG deabcaaf
+"{V0790}Ah... {W40}Sorry, but {W20}I {W3}have to go now."
+
+@MEG_MAT:64 MEG 807b00ab
+"{V0791}Is it important?"
+
+@MEG_MAT:65 PLY b9ff5e05
+"No, nothing like that."
+
+@MEG_MAT:66 MEG d8bada9d
+"{V0792}{F1}Oh? {W50}{Fm3}Then see you later."
+
+@MEG_MAT:67 PLY 4e88438d
+"Kuryuu, if you're free today, want to walk home together?"
+
+@MEG_MAT:68 MEG 9706590c
+"{V0793}{F4}Huh...?"
+
+@MEG_MAT:69 MEG f4ee6ac9
+"{V0794}It's not {W3}like I mind, {W30}but..."
+
+@MEG_MAT:70 MEG 2a080288
+"{V0795}{F3}Yes, {W5}that's fine."
+
+@MEG_MAT:71 MEG 3a3f0bbf
+"{V0796}Yes, {W30}see you."
+
+@MEG_MAT:72 MEG 62a12ba6
+"{V0797}{F4}Huh...?"
+
+@MEG_MAT:73 MEG 7b3b35c2
+"{V0798}Let {W3}me {W5}see... {W55}today's {W5}not really good..."
+
+@MEG_MAT:74 PLY 876a2929
+"I see..."
+
+@MEG_MAT:75 PLY 34fef8e2
+"Then I'll ask you again. See you."
+
+@MEG_MAT:76 MEG 8c8585ff
+"{V0799}Yes, {W10}see you."
+
+@MEG_MAT:77 MEG 154847ef
+"{V0800}{F4}Huh...?"
+
+@MEG_MAT:78 PLY d2155d36
+"I guess it's still a no?"
+
+@MEG_MAT:79 MEG 6f5ac5ec
+"{V0801}...It's not like {W30}... I mind, but..."
+
+@MEG_MAT:80 MEG cd9b4723
+"{V0802}Y-yes, {W20}{F3}that's fine."
+
+@MEG_MAT:81 MEG 21371772
+"{V0803}{Ec}Right. {W30}{Eo}See you."
+
+@MEG_MAT:82 PLY 0177a518
+"That's not fair, TT"
+
+@MEG_MAT:83 MEG 9fca29f7
+"{V0804}{F4}Ah..."
+
+@MEG_MAT:85 MEG 9caaa7dc
+"{V0805}I {W20}have something I want to talk about too, but {W20}I have to go now..."
+
+@MEG_MAT:86 MEG 5f881ea7
+"{V0806}{Ec}Another {W10}time, okay?"
+
+@MEG_MAT:87 PLY 851b6dc4
+"Sure."
+
+@MEG_MAT:88 MEG 52d84f6a
+"{V0807}{Eo}{F2}Well, {W3}see you."
+
+@MEG_MAT:89 MEG 3d342210
+"{V0808}{F3}Together? {W30}Sure."
+
+@MEG_MAT:90 MEG eeef73ee
+"{V0809}Yes, {W20}our usual spot."
+
+@MEG_MAT:92 MEG 515972aa
+"{V0810}Well, see you later."
+
+@MEG_MAT:93 MEG 616c923d
+"{V0811}Ah... {W65}Today {W20}is kind of..."
+
+@MEG_MAT:94 MEG f97e8c60
+"{V0812}Yes, {W20}see you."
+
+@MEG_MAT:95 MEG c59d055d
+"{V0813}{F4}Huh...?"
+
+@MEG_MAT:96 MEG 884762a2
+"{V0814}{Ec}{F6}...Honestly,{W5} {W65}ask me that many times and {W10}{Eo}I can't keep refusing, can I?"
+
+@MEG_MAT:97 PLY 97ab9f4e
+"Huh? Then..."
+
+@MEG_MAT:98 MEG f4272f66
+"{V0815}Yes. {W10}Fine, {W20}we can walk home together."
+
+@MEG_MAT:99 MEG 5f3bd054
+"{V0816}Yes, {W20}the usual spot."
+
+@MEG_MAT:100 MEG 38e1f411
+"{V0817}Right. {W30}See you."
+
+@MEG_MAT:101 PLY 28e8605b
+"Kuryuu."
+
+@MEG_MAT:102 MEG 000ed78d
+"{V0153}What?"
+
+@MEG_MAT:103 PLY 37d43682
+"You haven't forgotten our promise to walk home together, have you?"
+
+@MEG_MAT:106 MEG b4a8c3ed
+"{V0783}Y-{W40}yes..."
+
+@MEG_MAT:107 MEG 43892f6e
+"{V0777}{F3}Yes... {W40}See you."

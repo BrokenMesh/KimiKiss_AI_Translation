@@ -1,0 +1,335 @@
+# YUM_DAT_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@YUM_DAT_B:16 PLY 5e847be7
+(Ten to twelve. That's about right.)
+
+@YUM_DAT_B:31 YUM 98282b21
+"{V0996}{Fe4}{W8}Oh, {Nm}."
+
+@YUM_DAT_B:32 PLY 017ee3e3
+"Oh, Hoshino, you're already here."
+
+@YUM_DAT_B:37 YUM 6b62c0ef
+"{V0997}{W10}Yes.{W25} {Eo}I just got here."
+
+@YUM_DAT_B:38 PLY 987e8deb
+(Hoshino in her own clothes... I've never seen that before...)
+
+@YUM_DAT_B:41 YUM 4377afa6
+"{Nm}, {V0998}{W5}what's wrong?"
+
+@YUM_DAT_B:42.1 - 45147cc7
+{Ti0}- That's a cute outfit／- That outfit looks great on you
+
+@YUM_DAT_B:43 PLY 7dfb6b03
+"That's a cute outfit."
+
+@YUM_DAT_B:45 YUM 51d272d5
+"{V0999}{W10}Thank you.{W25} It's one of my favorites."
+
+@YUM_DAT_B:46 PLY a3af4d63
+"That outfit looks great on you."
+
+@YUM_DAT_B:47 YUM 933101f8
+"{V1000}{Bt90}{W12}Oh,{W60} thank you."
+
+@YUM_DAT_B:48 PLY b3376227
+"So, shall we go?"
+
+@YUM_DAT_B:49 YUM cb37ea01
+"{V1001}{W10}Yes."
+
+@YUM_DAT_B:55 PLY 739c6dc9
+"Hoshino, are you good at singing?"
+
+@YUM_DAT_B:56 YUM 9580236d
+"{V1002}{W15}I{W2} guess{W2} I'm{W2} okay{W2}...{W60} I think?{W63} {Fe6}I've hardly ever sung{W3} in{W3} front{W3} of people."
+
+@YUM_DAT_B:57 YUM 96f5c577
+"{V1003}What about you, {Nm}?"
+
+@YUM_DAT_B:58 PLY b209f0bb
+"I'm just average too."
+
+@YUM_DAT_B:59 PLY 0ae563e8
+"There's even a stage. It's a nice room."
+
+@YUM_DAT_B:60 YUM 2fc1298b
+"{V1004}{W10}Yes."
+
+@YUM_DAT_B:61 PLY 9ac18516
+"Now then, what should I sing first?"
+
+@YUM_DAT_B:63 YUM 4c7a9bb6
+"{V1005}{W12}Eh?{W35} Today{W3} is{W3} for{W15} {Fe7m9}cheering{W3} practice,{W3} so{W3}...{W3}{W5}"
+
+@YUM_DAT_B:64 PLY 41e864f7
+"You're not going to sing?"
+
+@YUM_DAT_B:65 YUM 6b73f260
+"{V1006}{W12}We're{W6} going{W3} to sing{W3}?"
+
+@YUM_DAT_B:66 PLY 716526c5
+"We came all this way, so it'd be a waste not to sing, I think..."
+
+@YUM_DAT_B:68 YUM 8d6faf4a
+"{V1007}{W10}But,{W43} we're{W3} here to{W3} practice{W3} speaking{W5} up{W7} loudly{W2}...{W2}"
+
+@YUM_DAT_B:69 PLY 2cc26516
+"Why not sing a little to warm up your throat? I think it'd build your nerve too..."
+
+@YUM_DAT_B:70 YUM b6ac9c78
+"{V1008}{W12}If you say so, {Nm}..."
+
+@YUM_DAT_B:72 PLY 3453f5ee
+"Nice, Hoshino! You're good, really good!"
+
+@YUM_DAT_B:73 PLY a22b6eb0
+"You put idols to shame!"
+
+@YUM_DAT_B:74 YUM 3ffabca7
+"{V1009}{Bt120}{W10}R-{W40}really{W5}?{W57} {Fe6}That's{W12} too much praise,{W3} I think..."
+
+@YUM_DAT_B:75 PLY 59b464a8
+"Hahaha."
+
+@YUM_DAT_B:76 YUM 6f346f0c
+"{V1010}{W12}Here,{W25} now{W3} it's your turn,{W3} {Nm}.{Br0t150}"
+
+@YUM_DAT_B:77 PLY bff64efd
+"All right, I'm gonna sing!"
+
+@YUM_DAT_B:79 SYS 61e61ec8
+...And so, we sang together for about an hour.
+
+@YUM_DAT_B:80 PLY 305f003c
+"Now then, shall we start practicing the cheers?"
+
+@YUM_DAT_B:81 YUM 302a141e
+"{V0938}{W8}Mm."
+
+@YUM_DAT_B:85 YUM 8cb6c436
+"{V1012}{W10}Go,{W5} go,{W5} go!{W5} {W8}Go,{W5} go,{W5} go!{W5} {W12}Go,{W21} Kibina,{W21} go!"
+
+@YUM_DAT_B:86 PLY d8adb11b
+"Go for it, Hoshino!"
+
+@YUM_DAT_B:87 YUM f55766cb
+"{V1013}{W12}Go{W2} go!{W2} {W1}Go{W2} go!{W2} Go,{W8} go,{W8} Kibina!{W21} Go{W2} go!{W2} {W1}Go{W2} go!{W2} {W2}Go,{W8} go,{W8} Kibina!"
+
+@YUM_DAT_B:88 PLY 60ecd3e1
+"Louder!"
+
+@YUM_DAT_B:89 YUM 27b49518
+"{V1014}{W20}Go,{W11} go,{W11} go,{W11} Kibina!{W13}{W44} Go,{W11} go,{W11} go,{W11} Kibina!{W13}{W20}"
+
+@YUM_DAT_B:90 PLY 8b522dd8
+"That's it! Keep it up!"
+
+@YUM_DAT_B:91 PLY 90fa94a4
+"Phew, that was fun."
+
+@YUM_DAT_B:92 YUM b83b897e
+"{V1015}{W12}Yes,{W3}{W3} {W28}very{W3} much."
+
+@YUM_DAT_B:93 PLY f8dc23cb
+"If you can shout that loud, I think you're all set."
+
+@YUM_DAT_B:94 YUM a0085682
+"{V1016}{W10}Thank you."
+
+@YUM_DAT_B:95 PLY 4ca2bc71
+"What do you want to do now?"
+
+@YUM_DAT_B:96 YUM 2d050b83
+"{V1017}{W12}Um...{W80} I{W6}..."
+
+@YUM_DAT_B:97 PLY c0bdaccc
+"What's wrong?"
+
+@YUM_DAT_B:99 YUM d8248236
+"{V1018}{W10}I...{W105} {Nm}...{W35} There's something{W3} I have to tell you."
+
+@YUM_DAT_B:100 PLY 122df4f6
+"Huh?"
+
+@YUM_DAT_B:102 YUM 65577492
+"{V1019}{W8}So,{W52} I want to go somewhere where the two{W3} of us can be alone..."
+
+@YUM_DAT_B:103 PLY a4a5e4f0
+"A place where we can be alone..."
+
+@YUM_DAT_B:104 PLY 738adcd7
+(She says that so suddenly... A back alley is out of the question... I know!)
+
+@YUM_DAT_B:105 PLY f351558a
+"It's a bit far, but how about the park? It's evening already, so I bet no one's there."
+
+@YUM_DAT_B:106 YUM b4676304
+"{V1020}{W10}Yes."
+
+@YUM_DAT_B:107 YUM b96bf8b2
+"{V1021}{W10}Fufu,{W58} when{W3} I was little,{W3}{W30} I often played here{W3}.{W42} {Fe6m2}I played{W3} in the sandbox,{W3}{W30} and played house..."
+
+@YUM_DAT_B:108 YUM 04bd61b4
+"{V1022}{W10}I couldn't get down from the{W3} slide,{W3}{W40} and{W40} {Eo}I even cried once..."
+
+@YUM_DAT_B:109 PLY 5128afa1
+"Hoshino..."
+
+@YUM_DAT_B:110 YUM e45a3182
+"{V1023}{W8}Eh?"
+
+@YUM_DAT_B:111 PLY a91a974c
+"What's wrong? You look kind of sad..."
+
+@YUM_DAT_B:112 YUM 54905882
+"{V1024}{W20}...{W20}..."
+
+@YUM_DAT_B:113 PLY 40cab7fb
+"You were so cheerful at karaoke..."
+
+@YUM_DAT_B:114 PLY 88caa152
+"What is it you have to tell me?"
+
+@YUM_DAT_B:115 YUM 859e2338
+"{W8}{Nm}..."
+
+@YUM_DAT_B:116 YUM 860a2f43
+"{V1026}{W10}Listen..."
+
+@YUM_DAT_B:117 YUM 6a5bd677
+"{V1027}{W12}I{W6}...{W15}...{W85} {Eo}I'm{W3} transferring{W3} schools."
+
+@YUM_DAT_B:118 PLY 21e4acd1
+"What?!"
+
+@YUM_DAT_B:120 YUM bb5034ad
+"{V1028}{W8}About this...{W52} I kept thinking{W23} I had to tell you...{W60} {F6}But,{W55} I just couldn't say it..."
+
+@YUM_DAT_B:121 YUM 4ab9d0dc
+"{V1029}{W8}I'm sorry..."
+
+@YUM_DAT_B:123 PLY 15d6510e
+"There you go with the jokes again..."
+
+@YUM_DAT_B:124 YUM f6fa08b9
+"{V1030}{W10}No,{W5}{W10} {W52}it's not{W5} a joke.{W13} It's{W3} true."
+
+@YUM_DAT_B:125 PLY 589301fc
+"N-no way..."
+
+@YUM_DAT_B:126 YUM a30fc10c
+"{V1031}{W8}I{W6}...{W65} {Nm}, when you{W3} said{W3} you wanted{W5} to be friends{W3} with me,{W3}{W33} {Fe6}I was{W5} so happy."
+
+@YUM_DAT_B:128 YUM 4a8332fd
+"{V1032}...{W3}But,{W3}{W3}{W64} by then{W3} it was{W5} already{W45} {F6}{Ec}decided{W3} that I'd{W3} be transferring."
+
+@YUM_DAT_B:129 PLY 3865080b
+"No way... why?"
+
+@YUM_DAT_B:130 YUM 25790161
+"{V1033}{W15}In{W3} August{W3},{W50} my father{W3} got{W3} transferred{W3}.{W60} {F6}He's{W3} alone{W10} for{W3} now{W3}, but{W3}{W45} {Fe6}our house{W3} has a buyer{W3},{W35} {Ec}so we'll all live together..."
+
+@YUM_DAT_B:131 PLY 2401dabb
+"R-right..."
+
+@YUM_DAT_B:132 PLY 329d5ab6
+"...When... are you transferring?"
+
+@YUM_DAT_B:133 YUM cc5714f0
+"{V1034}{W10}My mother{W3} said,{W28} until the school festival{W3}{W3}{W3} is over, I can{W5} stay..."
+
+@YUM_DAT_B:134 PLY fdd286eb
+"The school festival?! That's right around the corner!"
+
+@YUM_DAT_B:135 YUM 7e7ef4bf
+"{V1035}{W10}Mm...{W75} {Fe9m6}{Eo}So,{W45} I knew I had to tell you{W3} soon...{W65} {F6}{Ec}But,{W63} I just...{W25} couldn't say it..."
+
+@YUM_DAT_B:136 YUM 259cdcfc
+"{V1036}...The reason I{W10} wanted to be cheerful...{W65} was{W3} so that,{W70} {Ec}{6}{m3}even when I{W3} transfer,{W3}{W30} everyone would{W3} remember me..."
+
+@YUM_DAT_B:138 YUM f570ab08
+"{V1037}{W10}Even after I{W6} was gone,{W65} at the very least...{W60} {Ec}I wanted to stay in everyone's memories."
+
+@YUM_DAT_B:140 YUM 1265e682
+"{V1038}{W12}But,{W58} the more{W3} friends I made{W8}...{W40} {Fe9m7}the closer{W3} we got{W10}...{W15} {Fm6}the harder it was to face not seeing them..."
+
+@YUM_DAT_B:141 YUM ff179968
+"{V1039}{W12}Would it{W6} have been better{W85} {Ec}if I'd just{W3} transferred{W3} quietly, on my own{W3}?"
+
+@YUM_DAT_B:142 PLY 0d271172
+"T-that's not true! That's not true at all!"
+
+@YUM_DAT_B:144 YUM f27a253a
+"{V1040}{W12}I..."
+
+@YUM_DAT_B:145 YUM 93a2abe1
+"{V1041}{W8}I won't{W3} forget you, {Nm}.{W70} {Ec}I won't{W3} forget the others.{W68} {Fe6}{Eo}So...{W97} {Fe9}{Nm}, you too,{W60} please{W6} {Fe6}{Ec}don't forget me..."
+
+@YUM_DAT_B:149 PLY 1da5b54d
+"Of course! As if I could forget! Because I..."
+
+@YUM_DAT_B:150 PLY 001bf4da
+"I...!"
+
+@YUM_DAT_B:151 PLY 38aab975
+(Say it! Just say it! That I like Hoshino!)
+
+@YUM_DAT_B:152 PLY ca575a42
+(...But if I say I like her here, won't I just be putting Hoshino in a tough spot...)
+
+@YUM_DAT_B:153 PLY 10b219d2
+(...Won't it only make her even sadder when we say goodbye...)
+
+@YUM_DAT_B:154 PLY 442e8392
+"I...... I want to help you, Hoshino..."
+
+@YUM_DAT_B:155 PLY faede536
+"There isn't much time left before you transfer, but I want to do something for you, Hoshino."
+
+@YUM_DAT_B:156 YUM 7196dab7
+"{V1043}{W12}{Br50t120}No{W3}...{W5}{W52} Just be{W3} normal."
+
+@YUM_DAT_B:157 PLY dcdb4884
+"Normal? Is that... really enough?"
+
+@YUM_DAT_B:158 YUM cfb4a354
+"{V1044}{W10}{Br0t120}Yes."
+
+@YUM_DAT_B:159 YUM fbca3a88
+"{V1045}{W10}{Br80t120}I{W6}...{W70} want things to stay the same as{W3} before.{W50} {Fe6}As long as I can be by your side, {Nm},{W35} {Ec}that's enough for me.{Br0t120}"
+
+@YUM_DAT_B:161 YUM 539d7caf
+"{V1046}{W12}So...{W85} about this,{W78} please keep it a secret from everyone."
+
+@YUM_DAT_B:162 PLY acb49aee
+"...Okay. I'll do as you say, Hoshino."
+
+@YUM_DAT_B:163 YUM d721f8e9
+"{V1047}{W10}Thank you, {Nm}."
+
+@YUM_DAT_B:164 YUM 60e78ca6
+"{V1048}{W10}Well then,{W25} see you{W3} tomorrow,{W5} at{W3} school{W3}.{Fe9}"
+
+@YUM_DAT_B:165 PLY 1bd5373e
+"Yeah... see you..."
+
+@YUM_DAT_B:166 SYS 525bf387
+Hoshino is transferring...
+
+@YUM_DAT_B:167 SYS 073de95e
+Today... I realized it clearly.
+
+@YUM_DAT_B:168 SYS b54f61bc
+That I like Hoshino... That this feeling is stronger than any mere admiration...
+
+@YUM_DAT_B:169 SYS c4f93e9c
+Should I tell her how I feel? Or... should I keep it in my heart and see her off?
+
+@YUM_DAT_B:170 SYS 9f807054
+What's best for Hoshino is...
+
+@YUM_DAT_B:171 SYS e0fb995f
+There's only one, you know.

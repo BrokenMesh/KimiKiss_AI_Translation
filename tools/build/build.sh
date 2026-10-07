@@ -1,11 +1,17 @@
 #!/usr/bin/env bash
 # Build a patched disc image from the clean ISO.
 #
-# Usage: tools/build/build.sh <clean.iso> <out.iso> [text_dir]
+# Usage: tools/build/build.sh <clean.iso> <out.iso> [text_dir] [trans_dir]
+#
+#   text_dir   Japanese records (default: text/, local, gitignored). May also be a directory that
+#              already carries "translation" fields (a prepared or test directory).
+#   trans_dir  English translation store (default: translation/en, committed). A line there wins
+#              over a "translation" field in text_dir. "none" = use text_dir as it is.
 #
 # 1. Verifies the clean ISO against tools/build/iso.sha1 (iso_patch.py).
 # 2. Extracts the disc once into build/orig (reused while its manifest exists).
-# 3. Reinserts text from text_dir (default: text/), applies the bytecode
+# 3. Merges text_dir with the translation store, word-wraps (batch.py prepare),
+#    reinserts the text into the scripts, applies the bytecode
 #    patches in patches/scripts, repacks SCRIPT.IMG.
 # 4. Writes the English glyphs and the redrawn textures into GRAPH0.ARC/PAC
 #    (tools/texture/apply_graph0.py; needs Pillow and numpy).
@@ -24,9 +30,10 @@
 set -euo pipefail
 cd "$(dirname "$0")/../.."
 
-iso="${1:?usage: $0 <clean.iso> <out.iso> [text_dir]}"
-out="${2:?usage: $0 <clean.iso> <out.iso> [text_dir]}"
+iso="${1:?usage: $0 <clean.iso> <out.iso> [text_dir] [trans_dir]}"
+out="${2:?usage: $0 <clean.iso> <out.iso> [text_dir] [trans_dir]}"
 text_dir="${3:-text}"
+trans_dir="${4:-translation/en}"
 work=build/work
 
 want=$(cut -d' ' -f1 tools/build/iso.sha1)
@@ -40,8 +47,9 @@ fi
 rm -rf "$work"
 mkdir -p "$work"
 python3 tools/extract/img.py unpack build/orig/SCRIPT.IMG "$work/script_orig"
-# Word-wrap translations (D-013): dialogue and dialog lines get ／ / \n breaks.
-python3 tools/translate/batch.py prepare "$text_dir" "$work/text"
+# Merge Japanese (text_dir) with the English store (D-022) and word-wrap (D-021): dialogue and
+# dialog lines get ／ / \n breaks.
+python3 tools/translate/batch.py prepare "$text_dir" "$work/text" --trans "$trans_dir"
 python3 tools/reinsert/reinsert_text.py "$work/script_orig" "$work/text" "$work/script"
 python3 tools/reinsert/apply_script_patches.py "$work/script" patches/scripts
 python3 tools/reinsert/img_pack.py "$work/script" "$work/SCRIPT.IMG"

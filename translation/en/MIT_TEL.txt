@@ -1,0 +1,284 @@
+# MIT_TEL -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MIT_TEL:15 MIT a63f8c98
+"{V1432}{W8}I{W3} apologize{W3} for{W3} the{W5} late{W3} call.{W3}{W50} This{W2} is{W13} Shijou{W5} Mitsuki{W5} speaking.{W5}{W3}{W1}{W1}{W1}{W35} Is this the home of {Nm}{W5}{W3}{W3}?"
+
+@MIT_TEL:18 PLY 448eaf45
+"Oh, Shijou, it's me."
+
+@MIT_TEL:19 MIT 33c741fd
+"{V1423}{W8}Ah{W3}...{W45}{Nm}."
+
+@MIT_TEL:20 PLY 28c5d3a3
+"What's up? It's rare for you to call."
+
+@MIT_TEL:21 MIT 3aeb1347
+"{V1424}{W8}Y-{W45}yes..."
+
+@MIT_TEL:22 MIT 59494530
+"{V1425}{W8}Um...{W40} {Nm}, I am sorry..."
+
+@MIT_TEL:26 MIT e3a61b14
+"{V1426}{W8}I{W6}...{W70} this{W5} weekend{W3}, I will not be able to go."
+
+@MIT_TEL:27 PLY ebfb2f05
+"Huh? You can't?"
+
+@MIT_TEL:29 MIT 8eec9a8a
+"{V1427}{W8}Y-{W50}yes.{W15} I am sorry...{W70} I do not know how{W3} to apologize..."
+
+@MIT_TEL:30 MIT f5b3d5a0
+"{V1428}{W8}Something that I absolutely must do has come up..."
+
+@MIT_TEL:31 PLY 6c6b1e77
+"R-right..."
+
+@MIT_TEL:33 MIT b04cb8e6
+"{Nm},{V1429} if you would,{W20} please ask me{W5} again{W6}.{W65} I might,{W25} perhaps, be able to go."
+
+@MIT_TEL:35 PLY a05e8dfd
+"Okay. Got it..."
+
+@MIT_TEL:36 MIT 924bfe36
+"{V1430}{W8}I am{W3} truly{W3} sorry.{W8}"
+
+@MIT_TEL:38 MIT abeb0643
+"{V1431}...Well then,{W30} excuse{W3} me{W3}.{W45} Good night."
+
+@MIT_TEL:39 PLY 54db2b27
+"Good night."
+
+@MIT_TEL:42 PLY f75d6b6c
+(What a letdown...)
+
+@MIT_TEL:44 MIT 61bc8f65
+"{V1432}{W8}I{W3} apologize{W3} for{W3} the{W3} late{W3} call.{W55} This{W2} is{W13} Shijou{W5} Mitsuki{W5} speaking.{W5}{W3}{W1}{W1}{W1}{W30} Is this the home of {Nm}{W5}{W3}{W3}?"
+
+@MIT_TEL:45 MIT 4bcfc4cb
+"{V1433}{W8}Ah{W3}...{W70} Master.{W3}{W3}{W3}"
+
+@MIT_TEL:46 MIT 00175462
+"{V1434}{W8}Um...{W80} Master,{W3}{W3}{W3}{W45} I am sorry..."
+
+@MIT_TEL:48 MIT 372d6764
+"{V1435}{W8}I{W6}...{W80} I will not be able{W3} to{W5} perform{W3} in{W3} this{W3} weekend's{W5} recital{W3}.{W15}"
+
+@MIT_TEL:49 MIT 6dabb349
+"{V1436}{W8}Yes.{W70} I{W6} invited you myself,{W3} and yet,{W5} I am sorry...{W50} I do not know{W3} how to apologize..."
+
+@MIT_TEL:50 PLY bc7c1d33
+"I see... That's a shame. I was looking forward to it..."
+
+@MIT_TEL:51 MIT d6651586
+"{V1437}{W8}I am sorry..."
+
+@MIT_TEL:53 MIT bf1c90fe
+"{Nm},{V1438} if you would,{W20} please try inviting me{W3} again."
+
+@MIT_TEL:54 MIT 6049a26c
+"{V1439}{W8}Perhaps,{W30} I might be able to perform after all..."
+
+@MIT_TEL:56 MIT 9b5933db
+"{V1440}{W8}The{W3} recital{W5} is{W3} held,{W30} for a while{W5} to come, every{W3} week{W5}."
+
+@MIT_TEL:57 PLY e43f389d
+"Is that so?"
+
+@MIT_TEL:58 MIT 6c98098d
+"{V1441}{W8}I am truly{W3} sorry.{W10}{W65} ...Well then,{W40} excuse{W3} me{W3}.{W45} Good night."
+
+@MIT_TEL:59 MIT a57281e7
+"{V1463}{W8}I{W3} apologize{W3} for{W3} the{W3} late{W3} call.{W55} This{W2} is{W13} Shijou{W5} Mitsuki{W5} speaking.{W5}{W3}{W1}{W1}{W1}{W30} Is this the home of {Nm}{W5}{W3}{W3}?"
+
+@MIT_TEL:60 MIT ccb75c36
+"{V1443}{W8}Ah{W3}...{W45}{Nm}."
+
+@MIT_TEL:61 MIT 525618d0
+"{V1444}{W8}Y-{W60}yes..."
+
+@MIT_TEL:62 MIT f80d790d
+"{Nm},{V1445}{W5} ...Today,{W3}{W60} do you remember{W3} what{W5} day{W3} it is?"
+
+@MIT_TEL:63 PLY 10f1c832
+"Huh? ...Ah!"
+
+@MIT_TEL:64 PLY 7b185718
+(That's right... I made a promise with Shijou...)
+
+@MIT_TEL:65 MIT 3e01c0f2
+"{V1446}{W8}I{W6}...{W75} have been waiting all this time..."
+
+@MIT_TEL:66 PLY 8558ec39
+"S-sorry, Shijou."
+
+@MIT_TEL:67 MIT 90a83086
+"{V1447}{W8}Did you forget{W3}?"
+
+@MIT_TEL:68 PLY cba2ffba
+"No... well... how do I put it... Sorry... Anything I say would just be an excuse..."
+
+@MIT_TEL:69 PLY f8e04961
+"I'll never do this again! I'll invite you again next time, so please forgive me! I'm begging you!"
+
+@MIT_TEL:70 MIT ae3f0da9
+"{V1448}{Nm}..."
+
+@MIT_TEL:72 MIT 05c0609e
+"{V1449}...I understand.{W65} I no longer mind."
+
+@MIT_TEL:73 PLY c9918b04
+"Really?"
+
+@MIT_TEL:74 MIT a8bd46d0
+"{V1450}{W10}Yes..."
+
+@MIT_TEL:75 MIT 613aab5d
+"{Nm},{V1451}{W5} ...please{W8} invite me{W3} again.{W57} I{W6}...{W45} want to go to the beach together with {Nm}{W5}{W3}{W3}{W3}..."
+
+@MIT_TEL:76 PLY 2a778299
+"Okay. Thank you..."
+
+@MIT_TEL:77 MIT 5683bbed
+"{V1452}{W5}Well then,{W40} good night."
+
+@MIT_TEL:78 PLY e0e23e60
+"Good night, Shijou."
+
+@MIT_TEL:79 PLY 3c27ee02
+(I really shouldn't stand her up...)
+
+@MIT_TEL:80 MIT beef7ad7
+"{V1453}{W8}I{W3} apologize{W3} for{W3} the{W3} late{W3} call.{W50} This{W2} is{W13} Shijou{W5} Mitsuki{W5} speaking.{W5}{W3}{W1}{W1}{W1}{W35} Is this the home of {Nm}{W5}{W3}{W3}?"
+
+@MIT_TEL:81 MIT e6450fe5
+"{V1454}{W8}Ah{W3}...{W70} Master.{W3}{W3}{W3}"
+
+@MIT_TEL:82 MIT b5e9835c
+"{V1455}{W8}Y-{W60}yes..."
+
+@MIT_TEL:83 MIT 11ab4c9c
+"{V1456}{W8}Master...{W3}{W3}{W3}{W100} today,{W3}{W10} what{W3} day it is,{W35} do you remember{W3}?"
+
+@MIT_TEL:84 MIT a51900ba
+"{V1457}{W8}I{W6}...{W95} have been waiting all this time..."
+
+@MIT_TEL:86 MIT aee173e7
+"{V1458}{W8}Did you forget{W3}?"
+
+@MIT_TEL:87 MIT a2f1fcbf
+"{V1459}{W12}Master...{W1}{W4}{W4}{W4}"
+
+@MIT_TEL:88 MIT 26061f07
+"{V1460}...I understand.{W65} I no longer mind."
+
+@MIT_TEL:89 MIT bd6579a4
+"{V1461}{W8}Yes.{W70} If it is convenient{W3} for you,{W20} please{W8} invite me{W3} again.{W30} The{W3} recital{W5} will{W3} be held for a while,{W25} every{W3} week{W5}."
+
+@MIT_TEL:90 MIT f8dde66c
+"{V1462}{W5}Well then,{W45} good night."
+
+@MIT_TEL:91 PLY 255aa7cd
+"Okay. Good night, Shijou."
+
+@MIT_TEL:92 MIT ec797e74
+"{V1464}{W8}Ah{W3}...{W45}{Nm}."
+
+@MIT_TEL:93 MIT a064fb10
+"{V1465}{W8}Yes..."
+
+@MIT_TEL:94 PLY 464680e2
+"Is something urgent?"
+
+@MIT_TEL:95 MIT 58b2b857
+"{V1466}{W8}No,{W15} it is not that."
+
+@MIT_TEL:96 MIT d18bb813
+"{V1467}{W8}Only...{W120} I wanted to say good night to {Nm}{W3}..."
+
+@MIT_TEL:97 PLY 7cb658b8
+"Eh...?"
+
+@MIT_TEL:99 MIT 5aca3cb6
+"{V1468}{W8}Was it a{W3} bother{W3} to you?"
+
+@MIT_TEL:100 PLY cea95ec0
+"N-not at all. ...I'm happy."
+
+@MIT_TEL:101 MIT 790f88d6
+"{V1469}{W8}I am glad..."
+
+@MIT_TEL:102 MIT 7b89fd45
+"...{V1470}{Nm},{W48} how do you plan{W3} to spend{W3} tonight,{W8} from now{W5} on?"
+
+@MIT_TEL:103 PLY 3501323d
+"I'm going to bed, why?"
+
+@MIT_TEL:104 MIT 4026d0d6
+"{V1471}{W10}Is that so..."
+
+@MIT_TEL:105 MIT a088be4b
+"{V1472}{W8}Then...{W48} just one{W3} thing,{W75} may I{W6} ask{W3} a favor{W8} of you?"
+
+@MIT_TEL:106 PLY 891022da
+"Sure, what is it?"
+
+@MIT_TEL:107 MIT cfa8aef0
+"{V1473}{W8}Um...{W3}{W3}"
+
+@MIT_TEL:108 MIT 16923996
+"{V1474}{W10}With me{W6}...{W75} would you fall{W3} asleep{W3} together{W3}?"
+
+@MIT_TEL:109 PLY 9d492cbe
+"Eeh?!"
+
+@MIT_TEL:110 MIT bc198bae
+"...{V1475}With {Nm}, I want to go to bed at the same{W3} time{W3},{W50} and drift{W35} off{W3} to{W3} sleep{W3} together."
+
+@MIT_TEL:111 PLY 8b81d394
+(Oh, that's what she meant... hahaha)
+
+@MIT_TEL:112 MIT 97fa671c
+"{V1476}{W12}And then...{W95} if we could see the same{W3} dream{W3},{W45} I{W6}..."
+
+@MIT_TEL:113 MIT f9c1af00
+"{V1477}{W8}I will run{W3} into your arms,{W5}{W35} and tell{W3} you how I feel{W3}..."
+
+@MIT_TEL:114 MIT 07142ce5
+"{V1478}{W8}What the Shijou{W6} family's daughter{W6} cannot{W8} convey{W3},{W82} the feelings{W6} in{W8} my{W3} heart{W8}{W5}..."
+
+@MIT_TEL:115 PLY 5248279b
+"Shijou..."
+
+@MIT_TEL:116 MIT f43e52db
+"{V1479}{W12}In a{W3} dream,{W3}{W70} no one{W3} can stop us..."
+
+@MIT_TEL:117 PLY c8f91d75
+"...Thank you."
+
+@MIT_TEL:118 PLY bf801641
+"I'll hold you too. And I'll never let go."
+
+@MIT_TEL:119 MIT 0aa8565f
+"{V1480}{W8}...{W8}...{W8}"
+
+@MIT_TEL:120 MIT 8979d43b
+"{W8}...{W8}...{W8}"
+
+@MIT_TEL:121 PLY 0d80b9d5
+"......"
+
+@MIT_TEL:122 PLY 31b3f615
+"...Then, shall we go to sleep?"
+
+@MIT_TEL:123 MIT e2555beb
+"{V1481}{W8}Yes."
+
+@MIT_TEL:124 PLY f9722310
+"See you in our dreams in ten minutes."
+
+@MIT_TEL:125 MIT 8ce406b6
+"{V1482}{W8}Yes.{W55} In ten minutes{W3}..."
+
+@MIT_TEL:126 MIT 93f4eeb4
+"{V1483}{W8}Good night, {Nm}."

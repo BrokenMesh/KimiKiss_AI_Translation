@@ -1,0 +1,350 @@
+# ASU_MW3_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_MW3_A:10 PLY 0e6de23c
+"If you had to choose between love and soccer, which would you pick?"
+
+@ASU_MW3_A:12 ASU 95edf759
+"{V2385}{F4}Eh...{W60} {Fe9}I{W5} can't decide something like that..."
+
+@ASU_MW3_A:18 ASU b13f4c94
+"{V2386}...A month ago,{W40} {B100}{Eh}I'd have said soccer{W3} without a second thought..."
+
+@ASU_MW3_A:20 ASU 488cf1de
+"{V2387}Hey, last night,{W40} I dreamed about you, {Nm}."
+
+@ASU_MW3_A:21 PLY b7b6b41c
+"Huh? What kind of dream?"
+
+@ASU_MW3_A:22 ASU eea60b56
+"{V2388}{Fe2}{Ec}Hehe,{W30} it's a secret."
+
+@ASU_MW3_A:23 PLY 674108be
+"A secret? Now I'm curious."
+
+@ASU_MW3_A:26 ASU c6c22470
+"{V2389}{B60}Don't worry,{W30} {B100}{Ec}{F2}you were cool in it."
+
+@ASU_MW3_A:27 PLY f94435fb
+"Love is... I mean, the other person's feelings, or..."
+
+@ASU_MW3_A:28 ASU 46d11385
+"{V2390}......"
+
+@ASU_MW3_A:29 ASU c8ecf689
+"{V2391}Yeah...{W40} {Ec}you should{W3} cherish them."
+
+@ASU_MW3_A:30 PLY 2c649393
+"Sakino, what's the thing you cherish most?"
+
+@ASU_MW3_A:31 ASU 704ee8f6
+"{V2392}{W3}The thing I{W5} cherish{W3} most?{W70} {Fe7m3}...Let's see."
+
+@ASU_MW3_A:32 ASU 5490d0c5
+"{V2393}...Every{W10} single{W10} moment{W5} right now."
+
+@ASU_MW3_A:33 ASU fef78c29
+"{V2394}Just kidding.{W10} {Eo}Was that a little too cool?"
+
+@ASU_MW3_A:34 PLY dc751dd1
+"No, not at all."
+
+@ASU_MW3_A:35 PLY 7ee83281
+"I think it's very you."
+
+@ASU_MW3_A:37 ASU 812d5356
+"{Nm}...{V2395}{Ec}Thanks."
+
+@ASU_MW3_A:38 PLY 0e032166
+"Sakino, what's your favorite place?"
+
+@ASU_MW3_A:39 ASU 36f0b69f
+"{V2396}The riverbank{W5} where we{W5} practiced, {Nm}."
+
+@ASU_MW3_A:40 PLY 634f9920
+"Ah..."
+
+@ASU_MW3_A:42 ASU 0c775e6b
+"{V2397}{Fm4}I{W55} will never forget practicing with you, {Nm}...{W45} {Ec}{Fe2m3}ever."
+
+@ASU_MW3_A:43 PLY 44f8c176
+"Is there anywhere you'd like to go?"
+
+@ASU_MW3_A:44 ASU bd9b303e
+"{V2398}Somewhere I'd like to go...{W30} {F3}Okinawa!"
+
+@ASU_MW3_A:45 PLY e07da6bc
+"Hahaha, since we never made it."
+
+@ASU_MW3_A:46 ASU 9d02cfc7
+"{V2399}Someday,{Ec} let's definitely go."
+
+@ASU_MW3_A:47 PLY d9372ba1
+"Why there?"
+
+@ASU_MW3_A:48 ASU dffcf77f
+"{V2400}{Fm4}It's hot, {Fm3}the sea is beautiful,{Ec} {F2}and it'd probably cheer me up!"
+
+@ASU_MW3_A:49 PLY 62edbd3c
+"Do you have a secret you can't tell anyone?"
+
+@ASU_MW3_A:50 ASU 2c14a2b6
+"{V2401}{Fe7m4}{W5}A secret{W5} I can't{W15} tell anyone...{W40} huh.{W75} {P6}{Fe9m3}Promise{W3} you won't{W3} tell anyone?"
+
+@ASU_MW3_A:51 PLY e39e5566
+"I won't."
+
+@ASU_MW3_A:53 ASU 6492d2e0
+"{V2402}Okay, then..."
+
+@ASU_MW3_A:58 ASU 972d3dab
+"{V2403}{Ts1}...{Eh}{Fe6m4}Well,{W40} {Fe9}the truth is,{W45} I got four failing grades{W40} on my first-term finals."
+
+@ASU_MW3_A:59 PLY 18e2fcea
+"{Ts3}Four?! That's a lot!"
+
+@ASU_MW3_A:61 ASU 5ca1d700
+"{V2404}{Ts3}Ahh! Not so loud!{W10} {Ts1}{B100}{Fe9m8}You never know who's listening!"
+
+@ASU_MW3_A:62 PLY 0ad8a606
+"Ah... sorry, I just..."
+
+@ASU_MW3_A:63 ASU 2e56da94
+"{V2405}{Fe4m9}N-{W30}no,{W30} {Fe6}it's fine..."
+
+@ASU_MW3_A:64 ASU 873b9115
+"{V2406}{Fe9}Running from one remedial lesson to the next is{Fm8}{Ec} so{Eo} embarrassing...{W60} I'm never getting one again!"
+
+@ASU_MW3_A:65 PLY a5733591
+"I'll help you."
+
+@ASU_MW3_A:66 ASU 8bb676fb
+"{V2407}{Ec}{Fm3}Thanks,{Eo} {Nm}."
+
+@ASU_MW3_A:67 PLY a28ca6d2
+"This is a secret from everyone, but..."
+
+@ASU_MW3_A:68 ASU 431d9f95
+"{V2408}......"
+
+@ASU_MW3_A:69 ASU 075fb2ca
+"{V2409}{Fe2m3}{Ec}Hehe,{W30} so that's how you are, {Nm}.{W50} {F3}{Eo}Thanks for telling me."
+
+@ASU_MW3_A:70 PLY 1f417802
+"Sakino, when did your chest get bigger?"
+
+@ASU_MW3_A:71 ASU 24b760d3
+"{V2410}What?!{W30} {B100}W-{W20}{Fe9m4}why would you ask that..."
+
+@ASU_MW3_A:72 PLY 32c975da
+"N-no, I don't mean it in a dirty way, I just... wondered when it was..."
+
+@ASU_MW3_A:73 ASU ff781e82
+"{V2411}{B80}{Fe8}......"
+
+@ASU_MW3_A:75 ASU 55f46450
+"{V2412}{W3}Year{W3} 5 of elementary school.{W55} {Fe9}Some boys teased me and I noticed.{W40} That I've got quite a bit."
+
+@ASU_MW3_A:76 PLY 5deba3f5
+"I-I see..."
+
+@ASU_MW3_A:77 PLY c76ef0c0
+"Is it true that big breasts give you stiff shoulders?"
+
+@ASU_MW3_A:78 ASU 8cd38b47
+"{V2413}{F4}Is it?{W30} {Fe9m3}Mine aren't that big,{W5} {Ec}so I don't really know."
+
+@ASU_MW3_A:79 PLY b1d45777
+"No, I think they're plenty big..."
+
+@ASU_MW3_A:80 ASU 2e8c2946
+"{V2414}R-{W30}really?{W50} {Fe9m3}Anyway,{W30} my{W10} shoulders{W10} aren't stiff."
+
+@ASU_MW3_A:81 PLY 492d7ab9
+"Your thighs are really pretty, Sakino."
+
+@ASU_MW3_A:83 ASU 14d68747
+"{V2415}Huh?{W30} R-{W20}really?"
+
+@ASU_MW3_A:84 PLY 19a4c592
+"Yeah. Is it from playing soccer?"
+
+@ASU_MW3_A:86 ASU e6086cc1
+"{V2416}{F9}Hmm...{W50} They're more muscular{W5} than they look,{W20} {Ec}{Fm3}so I don't think they're pretty..."
+
+@ASU_MW3_A:87 PLY ddef73b1
+"No, I think they're pretty..."
+
+@ASU_MW3_A:88 ASU 807b7cd7
+"{V2417}{B100}{Fm2}{S}Ahaha,{W30} {Fm3}th-{W50}thanks.{Ec}"
+
+@ASU_MW3_A:89 PLY eb1ac015
+"Sakino, could you turn sideways a little?"
+
+@ASU_MW3_A:90 ASU ce132a2b
+"{V2418}Huh?{W30} Like this?"
+
+@ASU_MW3_A:99 PLY aabaaf13
+"...You have a great figure, Sakino."
+
+@ASU_MW3_A:101 ASU 4a5d4143
+"{V2419}{F4}{B60}What?!{W30} {Fe9}Y-{W10}you think?"
+
+@ASU_MW3_A:102 PLY 1d8cf443
+"Yeah. Especially from the side, how do I put it... um..."
+
+@ASU_MW3_A:105 ASU 466cfbfe
+"{B100}{Nm},{V2420}{W10} you perv..."
+
+@ASU_MW3_A:106 PLY f54a3ed5
+"All guys are perverts, I mean... um..."
+
+@ASU_MW3_A:107 ASU 6f17dde6
+"{V2421}{F4}Eh..."
+
+@ASU_MW3_A:109 ASU c0c1d255
+"{V2422}If you keep saying things like that,{W30} {Eo}{Fm4}I'll start to dislike you."
+
+@ASU_MW3_A:110 PLY af3f2ce0
+"If you get married, would you prefer a love match or an arranged marriage?"
+
+@ASU_MW3_A:111 ASU 5f30abbe
+"{V2423}{F4}{W3}I've never even{W3} thought about it."
+
+@ASU_MW3_A:112 PLY 4313bc9f
+"If you had to pick one?"
+
+@ASU_MW3_A:113 ASU f1f06b2b
+"{V2424}Hmm...{W85} {Eo}A love{W3} match,{W20} I guess.{W80} {S}{Ec}{P5}{Fm2}In an emergency{W5} an arranged one{W5} would be fine, though."
+
+@ASU_MW3_A:114 PLY 289f2aad
+"If you got married and had kids, would you make them play soccer?"
+
+@ASU_MW3_A:115 ASU 183e2595
+"{V2425}{Ec}{Fe2}Of course!"
+
+@ASU_MW3_A:116 PLY f4d495f6
+"Then have eleven kids and you've got a soccer team."
+
+@ASU_MW3_A:117 ASU 014a2978
+"{V2426}Eeh,{W10} {Eo}no way."
+
+@ASU_MW3_A:118 ASU b5b814df
+"{V2427}{Fe3m4}...But{W20} with two,{Fe7} they could pass to each other,{W10} {F3}so maybe that'd be nice."
+
+@ASU_MW3_A:119 PLY 39a5a98a
+"I can't know what's ahead, but..."
+
+@ASU_MW3_A:120 ASU 2d3b32e6
+"{V2428}{Fe7m6}......"
+
+@ASU_MW3_A:121 ASU ad10857d
+"{V2429}You're right...{W40} That's why{W20} {Ec}I have to give it everything."
+
+@ASU_MW3_A:122 PLY cf999ca9
+"Do you have any fond memories?"
+
+@ASU_MW3_A:123 ASU 91ff886b
+"{V2430}Hehe,{W30} {Eo}lots.{W20} {F2}They're all about soccer, though.{Ec}"
+
+@ASU_MW3_A:124 PLY 23ecf654
+"When I'm with you, Sakino, I get energized too."
+
+@ASU_MW3_A:125 ASU e763281f
+"{V2431}{Fm4}Really?{W30} {Ec}{Fe2m3}I'm glad."
+
+@ASU_MW3_A:127 PLY 98d86410
+"Sakino..."
+
+@ASU_MW3_A:130 SYS 9b3cbf89
+{Ti0}{Ti2}Stare......
+
+@ASU_MW3_A:131 ASU d936022c
+"{V2432}Ah..."
+
+@ASU_MW3_A:132 ASU 5a2e70c1
+"{V2433}{Nm}...{B80}if you st-{W3}stare at me like that..."
+
+@ASU_MW3_A:133 PLY a5ece806
+"Sakino."
+
+@ASU_MW3_A:134 ASU ffdb4844
+"{V2434}What?"
+
+@ASU_MW3_A:136 SYS a77d0776
+{Ti0}Smile!
+
+@ASU_MW3_A:137 ASU b400b97a
+"{V2435}{F4}Ah..."
+
+@ASU_MW3_A:138 ASU 75e798e6
+"{V2436}{Ec}{Fe2m3}Hehe,{W50} {Eo}when I see your smile, {Nm},{W30} {Ec}I somehow feel relieved..."
+
+@ASU_MW3_A:139 PLY 7bcaa667
+(Okay, I'll put on my cool face and nail it!)
+
+@ASU_MW3_A:140 ASU dba53203
+"{V2437}What?"
+
+@ASU_MW3_A:141 SYS c2ab9f12
+{Ti0}Smolder!
+
+@ASU_MW3_A:142 ASU 9340d103
+"{V2438}{F4}Ah..."
+
+@ASU_MW3_A:143 ASU 07fe002c
+"{V2439}U-{W40}um...{W50} {Ec}{Fe9m3}what{W5} were we{W3} talking about?"
+
+@ASU_MW3_A:144 PLY 0d80b9d5
+"......"
+
+@ASU_MW3_A:145 ASU c3a52591
+"{V2440}{Eo}Geez...{W60} say something,{W3} would you?{W50} {F3}It's embarrassing."
+
+@ASU_MW3_A:146 PLY 6a0ce4d0
+(Okay, here goes, I'll take her hand...)
+
+@ASU_MW3_A:151 SYS 1ffe4b9d
+{T0.0}Squeeze
+
+@ASU_MW3_A:152 ASU 61687ffa
+"{V2441}{B100}Ah..."
+
+@ASU_MW3_A:153 ASU c786da22
+"{V2442}{F3}Yeah..."
+
+@ASU_MW3_A:154 ASU 0f158a50
+"{V2443}{Fe9}I shouldn't{W10} worry about{W3} everyone around us.{W25} {Fe6m3}Because..."
+
+@ASU_MW3_A:155 ASU 79a88022
+"{V2444}{B100}Ah..."
+
+@ASU_MW3_A:156 ASU 15e3733c
+"{V2445}{F3}{Ec}Yeah..."
+
+@ASU_MW3_A:157 ASU 1f616755
+"{V2446}{Fe3}it's just{W3} the two{W3} of us..."
+
+@ASU_MW3_A:162 PLY d3c264f8
+(Sakino...)
+
+@ASU_MW3_A:174 ASU 079a58d1
+"...{E}......{E}?"
+
+@ASU_MW3_A:175 PLY 9e21761b
+(I-I was imagining things right in front of her...)
+
+@ASU_MW3_A:176 PLY f91b3fc4
+(Not good... I have to pull myself together...)
+
+@ASU_MW3_A:177 PLY 0304f087
+(Huh...? What is this feeling?)
+
+@ASU_MW3_A:179 PLY 618d61ad
+(What...? It feels like something's about to happen here...)
+
+@ASU_MW3_A:180 PLY 6f3c9fdd
+(Whoa!)
+
+@ASU_MW3_A:181 PLY 112e988a
+(Huh? What was I doing? Me...)

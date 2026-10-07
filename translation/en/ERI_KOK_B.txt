@@ -1,0 +1,395 @@
+# ERI_KOK_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_KOK_B:22 PLY 8f1ac622
+(Let's see... where's Futami...)
+
+@ERI_KOK_B:41 PLY e3b6b378
+"Ah, Futami."
+
+@ERI_KOK_B:43 ERI bd855563
+"{V1348}{W8}Ah, {Nm}."
+
+@ERI_KOK_B:44 PLY 0961581e
+"The school festival's really lively."
+
+@ERI_KOK_B:47 ERI c3b4e073
+"{V1349}{W12}{W1}{W1}{W1}It seems so."
+
+@ERI_KOK_B:48 PLY 270ab059
+"Is there anywhere you want to go?"
+
+@ERI_KOK_B:50 ERI c8cfe627
+"{V1350}{W12}Not{W6} really,{W8}{W2}{W1}{W1}{W1}{W1}{W33} {F3}but I brought{W1} this{W1}."
+
+@ERI_KOK_B:51 PLY a0402b0e
+"Oh, a camera?"
+
+@ERI_KOK_B:53 ERI 38029557
+"{V1351}{W13}Yes,{W36} a digital camera."
+
+@ERI_KOK_B:54 PLY 7bbe513e
+"And it's an SLR type, too."
+
+@ERI_KOK_B:56 ERI a91b0757
+"{V1352}{W15}{W2}{W2}{W2}{W1}{W2}{W2}Impressive, isn't it?{Ti0} {Ti2}{W42}{W5}{W2}{W5}{W5}{W2}Ms. Kawada{W2}{W2}{W2}{W2}{W2}{W2} lent it to me.{W40}{Ec}{W5}{Fe9}{Eo}{W5}{W5}{W2}{W2}{W5}{W2}{W2} It's school equipment,{W15}{W2}{W4}{W1}{W1}{W1}{W1}{W2}{W2}{W2} so I have to return it{W2} soon."
+
+@ERI_KOK_B:58 ERI ccaddf7a
+"{V1353}{W10}{W1}{W1}{W33}{W4}{W4}{W4}Shall we take a commemorative photo with it?"
+
+@ERI_KOK_B:59 PLY 13d9daee
+"Sure."
+
+@ERI_KOK_B:64 ERI a7890157
+"{V1354}{W12}{Fe9m4}Now then,{W3}{W84}{W3}{W3}{W2}{W3}{W1}{W1}{W1}{W1} where is the power switch?{W25}{Ec}{W5}{Fe4m3}{Eo}...{W15} Ah,{W22} here it is.{W37} Now,{W58}{Eh}{Fe6m4}{W1}{W4}{W4}{W7}{W11}{W15}{W3}{W3} switch the mode to shooting..."
+
+@ERI_KOK_B:66 ERI ea16cb4c
+"{V1355}{W33}{Fe9}Huh?{Ti0} {Ti2}{W42}{Fm9}{W1}{W5}{W1}{W1}{W1}{W6}{W2}{W1}{W1}The screen is still{W4} black.{W63}{Eo} Is{W1} it{W1} broken..."
+
+@ERI_KOK_B:67 PLY b5e35983
+"Futami, the lens cap is still on."
+
+@ERI_KOK_B:69 ERI e06d6c40
+"{V1356}{W15}{B100}Ah...{W48}{W21}{W5}{W5}You're right."
+
+@ERI_KOK_B:70 ERI 6ce19070
+"{V1357}{W13}{Fe9}{W1}{W2}{W1}{W3}Of course the screen is black{W30} {Eh}{Fm3}{B60}{W2}{W1}{W2}{W1}{W1}{W1}{W3}if the lens cap is on.{W42}{Ec}{B40} Heh,{W36} honestly,{W27}{W7} me..."
+
+@ERI_KOK_B:71 PLY cf732c9f
+"Futami... are you bad with cameras?"
+
+@ERI_KOK_B:73 ERI 55a9d003
+"{V1358}{W16}Yes,{W54}{Fe6m4}{W2}{W2}{W18}{W1}{W1}{W1}{W1}{W1}{W1}{W6}{W5}for some reason I'm hopeless with this sort of thing."
+
+@ERI_KOK_B:74 PLY 876a2929
+"I see..."
+
+@ERI_KOK_B:75 PLY 1b1b8fd0
+"So you're tech-clumsy, Futami."
+
+@ERI_KOK_B:76 ERI e314b59f
+"{V1359}{Eo}{F4}{B100}What?"
+
+@ERI_KOK_B:77 ERI 45856bef
+"{V1360}{W15}N-{W36}{W3}{W2}{W1}that's not{W1} true!{W39}{Ec} I{W2} can{W1} use a{W8} computer,{W3} you know!"
+
+@ERI_KOK_B:78 PLY 449a99bc
+"There are different types of tech-clumsy. Some can use a computer but are bad with video or cameras."
+
+@ERI_KOK_B:79 PLY 028be774
+"You're probably the type who can't schedule a video recording, right?"
+
+@ERI_KOK_B:80 ERI 3bfd5ccd
+"{V1361}{W12}{W5}{W2}{W1}{W1}{W3}{W1}{W1}{W1}{W1}{W1}{W1}{W1}I don't watch recordings anyway, so it doesn't matter."
+
+@ERI_KOK_B:82 ERI bfd959c5
+"{V1362}{W9}{Eh}{Fm8}...{W3}{W2}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W8}Besides, remote buttons are small,{W3}{W15} and there are so many,{W30}{Eo}{W2}{W1} you don't{W1} feel like{W1} pressing{W2} them."
+
+@ERI_KOK_B:83 PLY 64011a7a
+"I see, so you can't schedule recordings."
+
+@ERI_KOK_B:84 ERI e1c854f6
+"{V1363}{W12}But{W40} I{W1} can{W1}{W1}{W1}!{Ti0} {Ti2}{W24}{Fm4}Surely!{W30}{Eh}{Fe7} I{W2} just...{W24} don't{W1} even{W1} try{W2}."
+
+@ERI_KOK_B:85 PLY 98a31c76
+"Hmm... so an IQ of 190 isn't much use in real life."
+
+@ERI_KOK_B:86 ERI 645b893e
+"{V1364}{W15}Ugh...{W66}{W5}{W1}{W32}{W1}{W1}{W1}that's a real{W3} shock...{W63}{Eh}{W9}{W1}{W48}{W4}{W4}{W4}{W33}{W4}{W1}{W1}{W4}Am I just useless{W1} in real life?"
+
+@ERI_KOK_B:87 PLY ff763c73
+"Maybe."
+
+@ERI_KOK_B:88 ERI e7a8e647
+"{V1365}{W12}{Fm4}{W1}{W1}I never noticed...{W75} {F6}{W1}{W3}I was out of{W1} touch with the world, {W8}wasn't I."
+
+@ERI_KOK_B:89 PLY deaa49ba
+"You're only realizing that now..."
+
+@ERI_KOK_B:90 AKI 7ff7dc50
+"{V0223}{W12}{W4}{W1}{W2}{W2}{W3}{W4}{W1}{W1}What are you two doing, looking like you're having fun?"
+
+@ERI_KOK_B:93 PLY 733c7e54
+"Oh, Hiiragi. Nothing, we were going to take a commemorative photo."
+
+@ERI_KOK_B:96 ERI 76f7855b
+"{V1366}{W12}{Nm},{W48}{Fm3} a friend{W4} of{W3} yours?"
+
+@ERI_KOK_B:97 PLY 6a95d081
+"Oh, have you two not met? This is Hiiragi Akira, from my class. He's my friend."
+
+@ERI_KOK_B:98 AKI f673509f
+"{V0224}{W12}{Ec}{W2}Nice to meet you,{W32}{W1} Futami Eriko.{Eo}"
+
+@ERI_KOK_B:99 ERI ba96393c
+"{V1367}{W8}{Ec}{W3}Nice to meet you,{W15} Hiiragi.{W12}"
+
+@ERI_KOK_B:100 PLY c0d01708
+(Ugh... she just calls Hiiragi by his bare name. That's Futami for you...)
+
+@ERI_KOK_B:102 AKI e9784f98
+"{V0225}{W13}{Fe4}{W3}{W8}{W4}{W6}A commemorative photo, huh?{W59} {F3}Then{W5} I'll{W2} take it.{W48} {W2}You two{W5} just stand{W2}{W2} in front of the fountain.{W2}{W3}"
+
+@ERI_KOK_B:103 PLY 4b484713
+"Really? Thanks, Hiiragi."
+
+@ERI_KOK_B:104 ERI e27a22bf
+"{V1368}{W12}Thank you,{W18} Hiiragi."
+
+@ERI_KOK_B:105 AKI 0e1e62de
+"{V0226}{W12}{W3}{W3}You're welcome."
+
+@ERI_KOK_B:106 PLY c4c625c7
+"Come on, Futami. Over here."
+
+@ERI_KOK_B:107 ERI 0cf0c61d
+"{V0155}Yes."
+
+@ERI_KOK_B:112 NAR e419bec7
+"{V1384}{W8}{Fm4}Ah,{W6} {Nm},{W4}{W4}{W18} Futami,{W2}{W2}{W2}{W33}{Fm3} a commemorative{W4} photo{W4}{W4}?{Ti0} {Ti2}{W27}{F2}Let me{W8} join, too!"
+
+@ERI_KOK_B:113 PLY 545bd259
+"Sure."
+
+@ERI_KOK_B:115 ERI d3321862
+"{V1369}{W8}That's fine."
+
+@ERI_KOK_B:117 ETG 2c5eba30
+"{V0205}Ah,{W5} Eri,{W24} a photo?{W2}{W3}{W24} Can we join,{W6}{W3} too?"
+
+@ERI_KOK_B:119 ERI dffc95f0
+"{V1370}{W12}Ah,{W30} everyone.{W50} That's fine,{W10} come in.{W3}"
+
+@ERI_KOK_B:121 AKI fd60db91
+"{V0227}{W12}{W1}{W5}{W2}Anyone else want to join?{Ti0} {Ti2}{W67}{F3}...{W15}{W1}{W1}{W2}{W3}Nobody."
+
+@ERI_KOK_B:123 AKI 0851adbc
+"{V0228}{W12}{W2}{W2}All right,{W42} then{W2}{W8} I'll press the shutter.{W1}{W1}{W2}"
+
+@ERI_KOK_B:124 PLY ccb6a628
+"Okay."
+
+@ERI_KOK_B:125 AKI f37ef2a6
+"{V0229}{W12}{W8}{W1}{W1}{W1}{W2}{W2}What's four times one half?"
+
+@ERI_KOK_B:126 PLY 122df4f6
+"Huh?"
+
+@ERI_KOK_B:128 NAR e58b1bad
+"{V1385}{W10}{W30}Four{W1}{W2}times...?"
+
+@ERI_KOK_B:129 ERI 171f3d8e
+"{V1371}{W8}Two!"
+
+@ERI_KOK_B:139 PLY d90aa0a5
+"Hiiragi, use a more normal signal."
+
+@ERI_KOK_B:140 NAR a92d0a6d
+"{V1386}{W12}{W1}{W1}{W1}{W4}{W4}I can't do math like{W1} that on the spot~!"
+
+@ERI_KOK_B:142 AKI 171be7ff
+"{V0230}{Ec}{F4}{W12}{W8}What are you talking about?{W33}{Eo}{Fe3m4}{W3} Futami{W9} smiled properly and made a V sign.{W1}{W1}"
+
+@ERI_KOK_B:145 ERI 4fbcd485
+"{V1372}{W12}{Ec}{W3}{W1}Heh,{W36}{Eh}{W4}{W3}{W3}{W13}{W4} real life came in handy."
+
+@ERI_KOK_B:146 PLY ace5c426
+"Hahaha, you win, Futami."
+
+@ERI_KOK_B:148 SYS 5668eaba
+...And so we all had a fun time together.
+
+@ERI_KOK_B:149 ERI 766c5887
+"{V1373}{W8}Ah, {Nm}."
+
+@ERI_KOK_B:150 PLY 1c05a338
+"Sorry to keep you waiting, Futami."
+
+@ERI_KOK_B:151 PLY bb2ce505
+"The school festival was fun, wasn't it?"
+
+@ERI_KOK_B:152 ERI e7ba4e6f
+"{V1374}{W15}{Ec}Yes.{W45}{Eh}{Fe6} {W3}{W3}It's the first time in my life{W2}{W30}{W3} school has been this fun."
+
+@ERI_KOK_B:153 ERI 6ce61293
+"{V1375}{W12}Every{W1}one{W1} together{W1}{W1}, taking{W5} photos{W5}{W1}{W1}{W36} looking{W1} around{W1} at{W1} everything{W1}{W4}{W1}...{W42}{Ec}{Fe6}They{W1} became{W1} good{W3} memories{W1}{W1}{W1}."
+
+@ERI_KOK_B:154 PLY 3de07a96
+(Futami... calling it a memory...)
+
+@ERI_KOK_B:155 ERI 285d132e
+"{V1376}{W12}{Eh}{W1}{W1}{W1}{W1}{W51}{W4}{W5}{W4}{W1}{W1}{W1}I will never forget today.{W63}{Fm6}{W1}{W1}{W1}{W1}The others,{W70} {F3}{Eo}{Nm}{W3}{W1}too..."
+
+@ERI_KOK_B:156 PLY 058402b3
+"Futami, want to stop by the park on the way home? There's something I want to tell you."
+
+@ERI_KOK_B:157 ERI 8e29d170
+"{V1377}{W8}{Ec}That's fine."
+
+@ERI_KOK_B:159 ERI 597b17e8
+"{Nm}, {V1378}{W13}{W3}what is it{W1}{W36} {Fe1m4}{Eo}you want to tell me?{W4}"
+
+@ERI_KOK_B:160 PLY 2ca64493
+"Futami..."
+
+@ERI_KOK_B:161 PLY f51d50aa
+"...Are you going to turn me, and all the girls you've finally made friends with, into just memories?"
+
+@ERI_KOK_B:162 ERI cf3ee132
+"{V1379}{W12}{F4}{Eo}What?"
+
+@ERI_KOK_B:163 PLY c9a30046
+"We might not be able to see each other after we graduate, but..."
+
+@ERI_KOK_B:164 PLY 503ef205
+"At least I don't want you to become a memory."
+
+@ERI_KOK_B:165 PLY 23ef840a
+"Only meeting in memories would be too lonely."
+
+@ERI_KOK_B:167 ERI f936a350
+"{V2226}{W12}{Ec}{Nm}..."
+
+@ERI_KOK_B:169 PLY 3c258d6f
+"Futami, I love you."
+
+@ERI_KOK_B:170 ERI 8b62a834
+"{V1381}{F4}{W15}{Mh}Ah..."
+
+@ERI_KOK_B:171 ERI 4e28acbf
+"{V1382}{W12}{Mc}{Fe9m3}{Nm},{W47} {W4}{W6}{W2}{W2}{W2}don't force yourself.{W28}{Eh} {W1}{W1}{W8}It's because I told you the other day{W18} {W6}that I love you...{W1}{W1}"
+
+@ERI_KOK_B:172 PLY de4b008b
+"That's not why! It's not for that reason! I love you!"
+
+@ERI_KOK_B:174 ERI eceb5f02
+"{V1383}{W12}{Eo}{Fe9m4}{Nm}..."
+
+@ERI_KOK_B:175 ERI e6618fed
+"{V1384}{W18}{Ec}{Fm6}{W6}{W1}Are you serious?"
+
+@ERI_KOK_B:176 PLY d296876a
+"I'm serious."
+
+@ERI_KOK_B:177 PLY fd0d8ad6
+"It might trouble you, but I can't stop how I feel about you."
+
+@ERI_KOK_B:179 PLY 73ca076f
+"Don't... make me... a memory."
+
+@ERI_KOK_B:180 ERI bcffa8d8
+"{V1385}{W15}Ah...{W60}{W60}{W10}{Nm}...{W60}{W60}{W60}{W60}{W13} I'm sorry."
+
+@ERI_KOK_B:181 ERI 9ebfd222
+"{V1386}{W11}{W1}{W1}{W1}I did not mean{W48} {W5}{W1}{W1}{W3} to hurt you.{W66}{Fe2m6} I only...{W65} {W1}{W1}tried to give{W1} you{W1} up..."
+
+@ERI_KOK_B:182 PLY d9372ba1
+"Why?"
+
+@ERI_KOK_B:183 ERI 4d6ed687
+"{V1387}{W12}{Fe4m8}Because{W45} I cannot stay by your side.{W46}{Eh}{Fe2m4} I want to be beside you, but...{W63}{Ec}{W1}{W1}{W1}I{W1} cannot..."
+
+@ERI_KOK_B:184 ERI 9714bb95
+"{V1388}{W15}{Eh}{W3}{W4}I had never thought about the future.{W45}{Fe6m3}{W4}{W47}{W2}{W2}{W1}{W1}{W2} More than that,{W75}{Ec}{Fm6}{W1} I wanted to disappear somewhere..."
+
+@ERI_KOK_B:185 ERI f3ad70ff
+"{V1389}{W12}But...{W71} you{W1}{W2}{W2} changed that.{W1}{W90}{Fm1} I fell in love with you,{W66}{Fm4}{W10}{W3} and I{W1} changed.{W1}{W1}"
+
+@ERI_KOK_B:186 ERI b5087f0e
+"{V1390}{W15}{Fe9m3}{Eo}Thank you,{W27} {Nm}.{W60} {F6}{Ec}I...{W8}{W135}{W1}{W1}{W1} {W50}{Eo}{F3}love you.{W1}"
+
+@ERI_KOK_B:188 ERI 1bf1bd45
+"{V1391}{W30}...{W5}..."
+
+@ERI_KOK_B:189 PLY 0d80b9d5
+"......"
+
+@ERI_KOK_B:190 PLY e05a7835
+(I hate the thought of being apart from Futami. What on earth should I do...)
+
+@ERI_KOK_B:191 PLY 3d1b35e3
+(......)
+
+@ERI_KOK_B:192 PLY f08b069c
+(...If we got married... we could stay together...)
+
+@ERI_KOK_B:193 PLY fcba892d
+(Marriage... that's... No, it might be hard in many ways, but if we support each other...)
+
+@ERI_KOK_B:194 ERI 92c46d33
+"{V1392}{Eh}{Fe9m4}{W12}What is it, {Nm}?"
+
+@ERI_KOK_B:195 PLY 86acb7a1
+"Futami... let's get married."
+
+@ERI_KOK_B:196 ERI 91b317fe
+"{V1393}{W15}{Eo}{F4}What?"
+
+@ERI_KOK_B:197 PLY a62e92f0
+"We're still young and it may seem reckless, but let's get married and live together."
+
+@ERI_KOK_B:198 ERI 2848276e
+"{V1394}{W15}{Ec}{Nm}...{W90}{Eh} That is......"
+
+@ERI_KOK_B:199 PLY 776aa6bf
+"Ugh... is it too reckless after all?"
+
+@ERI_KOK_B:201 ERI d534e27f
+"{V1395}{W12}No,{W39} it is not{W1}{W1} reckless.{Fe9m3}{Eh}{W31} I think{W8} what matters most{W24}{W3}{W3}{W3}{W3} is how we{W3} two{W1}{W1}{W1} feel.{W3}"
+
+@ERI_KOK_B:202 PLY 8333be75
+"Then..."
+
+@ERI_KOK_B:204 ERI 0ed82490
+"{V1396}{W10}{F3}{Eo}Yes.{W93} I...{W8}{W56} am happy...{W62} {Fe9m3}To be proposed to...{W32}{Ec} I have never been this happy in my life.{W37}{W4}"
+
+@ERI_KOK_B:205 ERI 73474bd6
+"{V1397}{W15}Make{W8} me{W87} {F2}{Eo}your bride.{W3}"
+
+@ERI_KOK_B:206 PLY 42466d81
+"Futami, let's go on the swings!"
+
+@ERI_KOK_B:208 ERI 21c097c1
+"{V1398}{W12}{F4}What?{Ti0} {Ti2}{W77}{W1}{W1}On the swings?"
+
+@ERI_KOK_B:209 PLY 89ebd008
+"I'll hold you steady. ...The past, being bad at sports, we'll be fine together."
+
+@ERI_KOK_B:210 ERI 78404daf
+"{V1399}{W10}{F3}{Ec}{W3}{W1}Fufu,{W87}{Fe8m2}{Eh}{W6}{W6}{W6}{W3}{W1}{W3}{W7} you did not need to mention that."
+
+@ERI_KOK_B:217 ERI 9c9c2e2b
+"{V1400}{W10}Do not{W3} let{W19} go{W4} of my hand."
+
+@ERI_KOK_B:219 PLY 5e4d218c
+"I know.{W15} I'll never let go."
+
+@ERI_KOK_B:221 ERI ae6b1ac7
+"{Nm}...{W33}{V1401}{W14} I love you......"
+
+@ERI_KOK_B:225 SYS 47ffc422
+{V5049}{c5}...Right after graduating from high school,{W45} we{W6} got{W4} married.{W4}
+
+@ERI_KOK_B:226 SYS 0600a8cc
+{V5050}{c5}The adults objected,{W45} but they could not stop us{W3} from becoming adults.{W30}
+
+@ERI_KOK_B:227 SYS 20fa5302
+{V5051}{c5}I{W8} went on to a university in America,{W3}{W3}{W3}{W57} and he studies English{W3}{W45}{W3}{W3} while working as a waiter in a small restaurant in that town.{W30}{W1}{W2}
+
+@ERI_KOK_B:228 SYS 25c860c7
+{V5052}{c5}Life is hard,{W2}{W2}{W3} but we have a dream.{W39}{W4}{W66} Someday, together, we will make it{W3} come true...{W3}{W45}{W3}
+
+@ERI_KOK_B:229 SYS f3d1837c
+{V5053}{c5}Today, too, I{W6} study{W3}{W4}{W45} in a corner of the restaurant{W3}{W3} where{W45} he works.{W3}{W5}
+
+@ERI_KOK_B:230 SYS fe565758
+{V5054}{c5}"The hamburger you made me,{W3}{W45} with plenty of ketchup and mustard,{W12} is delicious."
+
+@ERI_KOK_B:231 SYS 1a6c0a9d
+{V5055}{c5}"Fufu,{W48} this reminds me{W3}{W51} of the pizza we ate together.{W5}{W4}"
+
+@ERI_KOK_B:232 SYS 51d5187b
+{V5056}{c5}"I miss the Science Prep{W45} Room{W3}{W2} where we spent time together...{W4}{W3}{W39}{W4}"
+
+@ERI_KOK_B:233 SYS 66761bd5
+{V5057}{c5}"Thank you for your hard work.{W4}{W4}{W60} I{Ti0} {Ti2}love{Ti0} {Ti2}you,{W24} darling."

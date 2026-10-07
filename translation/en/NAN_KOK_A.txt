@@ -1,0 +1,350 @@
+# NAN_KOK_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_KOK_A:52 TOM 61e5a585
+"{V0193}{W4}Welcome,{W43} to the Fortune-Telling House."
+
+@NAN_KOK_A:54 PLY 24346ce8
+"M-Ms. Kawada, that outfit..."
+
+@NAN_KOK_A:56 NAN 4d87af79
+"{V0638}{W4}Wooow{W4}...{W4} wow{W4}!{W40} Ms. Kawada,{W50} you look{W4} like{W4} the real{W4} thing~"
+
+@NAN_KOK_A:58 TOM 3d0cc452
+"{V0194}{W4}When{W5} it comes{W4} to fortune-telling,{W20} the atmosphere{W4} is{W3} what{W3} really{W3} matters."
+
+@NAN_KOK_A:59 TOM 3191adab
+"{V0195}{W4}Fu{W4} fu{W4}...{W40} {Ec}A brother{W3} and sister{W3} as customers{W3} is{W3} rare, isn't it?{W65} {Eo}What would you like me to read for you?"
+
+@NAN_KOK_A:61 NAN c9f447c6
+"{V0639}{W4}Um{W8}...{W8} well,{W57} the past lives{W5} of me and Big Bro!"
+
+@NAN_KOK_A:62 TOM ccbd80e7
+"{V0196}{W5}What?!{W35} Past lives?!"
+
+@NAN_KOK_A:63 PLY 9d492cbe
+"Eeh?!"
+
+@NAN_KOK_A:64 NAN 035af3b9
+"{V0640}{W4}Yes!{W51} Big Bro and I{W22} get along{W2} so{W3} very{W2} well,{W30} so I'm sure{W4} that in our{W4} past lives{W11} we were{W3} a{W3} couple{W3}, I{W1} think!"
+
+@NAN_KOK_A:65 TOM 108646a6
+"{V0197}{W6}R-{W30}{Ec}Really..."
+
+@NAN_KOK_A:66 PLY 75489886
+"Sigh... what are you saying, Nana..."
+
+@NAN_KOK_A:67 NAN ea3ae612
+"{V0641}{W4}What kind of couple we were,{W2} could you read that for me?"
+
+@NAN_KOK_A:68 TOM 7a962195
+"{V0198}{W5}I'm{W3} so{W3} sorry{W3}.{W37} {Eo}That's a bit...{W25} impossible to tell."
+
+@NAN_KOK_A:69 TOM c4fbc664
+"{V0199}{W6}I can read{W3} the{W3} future{W2} fine{W3}, but{W2}{W48} {Ec}the past...{W24} especially{W20} {F9}{Eo}before you were born, is beyond me."
+
+@NAN_KOK_A:70 NAN bb7e1e4e
+"{V0642}{W4}Oh, is that so...{W44} Bummer."
+
+@NAN_KOK_A:71 NAN 196ca2e8
+"{V0643}{W4}I{W2} wanted{W2} to{W2} know{W3} which{W2} country's{W3} prince{W3} and{W3} princess{W10} we{W3} were{W3},{W30} but..."
+
+@NAN_KOK_A:72 PLY 382810ca
+"Hahaha..."
+
+@NAN_KOK_A:73 TOM 68ebe278
+"{V0200}{W5}Fu{W3}fu{W3}...{W36} {Eo}I understand.{W34} It's{W3} the{W2} age{W2} for{W4} dreaming,{W4} after{W2} all."
+
+@NAN_KOK_A:74 TOM 45ecb7cb
+"{V0201}{W5}Aren't you lucky,{W8} {Nm},{W10} {Eo}to have such a cute little sister."
+
+@NAN_KOK_A:75 PLY 42e11f34
+"Hahaha... sorry for the trouble."
+
+@NAN_KOK_A:76 TOM c259d4b6
+"{V0202}{W5}It's quite all right,{W40} be good to each other always."
+
+@NAN_KOK_A:77 NAN af170c24
+"{V0644}{W8}Thank{W3} you{W3} so{W3} much,{W33} Ms. Kawada."
+
+@NAN_KOK_A:78 TOM e09af555
+"{V0203}{W4}Well{W3} then,{W40} next{W5} customer{W5}, please{W5}~"
+
+@NAN_KOK_A:87 PLY 7e620172
+(...I'm meeting Nana at the fountain.)
+
+@NAN_KOK_A:89 NAN 79e2328a
+"{V0627}{W2}Oh,{W34} Big Bro."
+
+@NAN_KOK_A:93 PLY 64811d90
+"Did I keep you waiting, Nana?"
+
+@NAN_KOK_A:94 NAN 0e2d917b
+"{V0628}{W4}No,{W36} {Eo}I just got here."
+
+@NAN_KOK_A:95 PLY 696225c1
+"I see."
+
+@NAN_KOK_A:96 PLY 9107be66
+"Now then, where should I start..."
+
+@NAN_KOK_A:99 NAN 16f1f29a
+"{V629}{W5}Oh,{W24} Big Bro,{W50} you see...{W56} there's{W30} a place I want to go."
+
+@NAN_KOK_A:100 PLY a27ed497
+"A place you want to go?"
+
+@NAN_KOK_A:101 NAN e355292b
+"{V0630}{W2}Yeah,{W34} Mao told me,{W40} {F7}Ms. Kawada{W4} is{W4} running{W4} fortune-telling{W4} {W29}in the pool{W3} equipment{W3} room{W3}, {W20}apparently{F3}"
+
+@NAN_KOK_A:102 PLY c5e122ef
+"Oh, is that so?"
+
+@NAN_KOK_A:103 NAN 2cc09cb2
+"{V0631}{W3}Yeah.{W30} And,{W31} {Ec}she's got a reputation{W7} for being super accurate, they say{Eo}"
+
+@NAN_KOK_A:104 NAN d85c33f8
+"{V0632}{W3}Can we go check it out,{W20} do{W4} you mind?"
+
+@NAN_KOK_A:105 PLY 42c2484b
+"Sure. Let's go check it out."
+
+@NAN_KOK_A:106 NAN 00a0721e
+"{V0633}{W4}Yay{W4}, yay{W4}!{W21} {Eo}Thanks,{W10} Big Bro!"
+
+@NAN_KOK_A:109 NAN 477c1e71
+"{V0634}{W4}Big Bro,{W44} {Ec}hurry{W5} up,{W5} hurry{W5} up{W5}!"
+
+@NAN_KOK_A:110 PLY e06913f7
+"Hahaha, you're awfully excited, but the fortune-telling might not go well, you know."
+
+@NAN_KOK_A:111 NAN 86ae3e7b
+"{V0635}{W4}Ugh{W3}...{W60} right..."
+
+@NAN_KOK_A:112 PLY 822db30e
+"What are you even going to ask about, anyway?"
+
+@NAN_KOK_A:114 NAN 2f837f84
+"{V0636}{W4}Ehehe{W4}{W4},{W40} {Eo}it's a{W20} surprise until we get there."
+
+@NAN_KOK_A:116 NAN ee63af14
+"{V0637}{W4}Come on,{W25} this way, this way!"
+
+@NAN_KOK_A:117 NAN ed7bc6dc
+"{V0645}{W8}That was so{W3} much{W2} fun, huh,{W12} Big Bro."
+
+@NAN_KOK_A:118 PLY d26de510
+"R-right."
+
+@NAN_KOK_A:119 NAN db85f8b0
+"{V0646}{W4}Where should we{W4} go next?"
+
+@NAN_KOK_A:120 PLY 8e363f96
+"It's almost lunchtime, so shall we go to the Home Ec Club?"
+
+@NAN_KOK_A:121 NAN b8788b50
+"{V0647}{W3}Yeah!{W3} Let's go~!{W40} I'm going to eat Naru's{W15} {Ec}udon~!"
+
+@NAN_KOK_A:122 SYS cd1aef39
+...And so, we enjoyed the school festival.
+
+@NAN_KOK_A:123 SYS f1da8c58
+And then...
+
+@NAN_KOK_A:125 NAN 2c8e5201
+"{V0648}{W4}It's{W4} already{W5} the{W5} evening{W5}, huh{W3}...{W74} {Fe9m3}It went by in a flash, Big Bro."
+
+@NAN_KOK_A:126 PLY c028a083
+"Yeah."
+
+@NAN_KOK_A:127 NAN b372d40e
+"{V0649}{W5}Thank{W4} you{W4} for{W4} the{W4} whole day.{W49} Really,{W36} {Eo}I had so much fun."
+
+@NAN_KOK_A:128 PLY 45486c0b
+"I had fun too."
+
+@NAN_KOK_A:129 NAN 07b0714f
+"{V0650}{W4}...{W4}..."
+
+@NAN_KOK_A:130 NAN 837d9313
+"{V0651}{W4}...The sunset,{W40} {Ec}it's beautiful."
+
+@NAN_KOK_A:131 NAN 607e1fba
+"{V0652}{W5}Hey,{W49} Big Bro."
+
+@NAN_KOK_A:132 PLY bd09fe50
+"Hm?"
+
+@NAN_KOK_A:133 NAN f1bb8383
+"{V0653}{W6}I wonder,{W78} did the two of us today{W40} {Eo}look like a couple?"
+
+@NAN_KOK_A:134 PLY 21e4acd1
+"What?!"
+
+@NAN_KOK_A:135 NAN fbfdb2c5
+"{V0654}{W6}To someone who{W20} didn't{W5} know{W15} we're siblings,{W40}{W70} {Ec}would{W2} we{W2} look{W1} like{W2} a{W2} couple{W2} having{W2} fun{W2}{W17} at{W4} the{W4} school festival{W4}{W2}?{W25}"
+
+@NAN_KOK_A:136 PLY 970e135c
+"That's..."
+
+@NAN_KOK_A:137 PLY 2937b6f1
+"I think... we did..."
+
+@NAN_KOK_A:139 NAN 96631e84
+"{V0656}{W4}Big Bro{W2},{W4}{W70} why are you{W32} so{W3} nice{W2} to{W3} me{W2} all{W2} the time?"
+
+@NAN_KOK_A:140 NAN bc0f33a3
+"{V0657}{W5}You took me to the sea,{W54} {F6}you went around the school festival{W4}{W4}{W4} with me{W36}...{W71} {Ec}I...{W70} I..."
+
+@NAN_KOK_A:141 PLY 8d925427
+"Nana, that's..."
+
+@NAN_KOK_A:142 NAN 4f892ad9
+"{V0658}...Yeah,{W44} you're right.{W86} We're siblings, after all.{W80} {Ec}I know..."
+
+@NAN_KOK_A:143 NAN 28e096b8
+"{V0659}{W4}Since I was{W3} little,{W52} I've been depending on{W8} you all the time, Big Bro..."
+
+@NAN_KOK_A:144 PLY 5d1f567c
+"That's not true."
+
+@NAN_KOK_A:145 PLY 96347c0d
+"If anything, you're too good a sister for me, Nana."
+
+@NAN_KOK_A:146 NAN 0d80b9d5
+"......"
+
+@NAN_KOK_A:147 NAN aab7978b
+"{V0661}{W4}Big Bro...{W104} {Fe9}You see,{W73} {Ec}there's something{W20} I want to tell you..."
+
+@NAN_KOK_A:149 NAN 16787184
+"{V0662}{W2}Big Bro,{W114} I love you."
+
+@NAN_KOK_A:150 PLY 3d47a7ac
+"What?! N-Nana..."
+
+@NAN_KOK_A:152 NAN 109771a7
+"{V0663}...I{W68} {Eo}know all your good points, Big Bro,{W35} and the not-so-good ones too,{W29} everything..."
+
+@NAN_KOK_A:153 NAN df2f6dd4
+"{V0664}{W3}Because,{W40} I've always been right by your side."
+
+@NAN_KOK_A:154 PLY bc011ca8
+"You were always following behind me, after all."
+
+@NAN_KOK_A:155 NAN c3e8bd1f
+"{V0665}...Yeah,{W48} I was."
+
+@NAN_KOK_A:156 NAN 390b375e
+"{V0666}...That's why,{W54} when you{W63} talk with other girls, Big Bro,{W51} {Ec}my{W3} heart{W1} gets{W3} so{W1} tight."
+
+@NAN_KOK_A:157 NAN b3f66996
+"{V0667}{W4}When I think that girl...{W38} knows a Big Bro I've never seen,{W36} it makes me sad."
+
+@NAN_KOK_A:158 NAN 15e07a0e
+"{V0668}{W4}Big Bro,{W20} the one who knows you best{W45} {Eo}should{W3} be{W2} me{W2}, after{W2} all..."
+
+@NAN_KOK_A:159 PLY 40c7ce75
+"Nana..."
+
+@NAN_KOK_A:160 NAN 1a116d33
+"{V0669}{W5}Being{W15} a little{W6} sister{W70} is no fun.{W100} I've been with you since birth,{W60} {Ec}{F6}but somehow{W38} I can't be anymore..."
+
+@NAN_KOK_A:161 NAN b19284f0
+"{V0670}{W5}I...{W110} why am I your sister...?{W94} When I love you,{W80} Big Bro, so much."
+
+@NAN_KOK_A:162 NAN 2f21eb27
+"{V0671}{W4}More than anyone...{W99} more than anyone...{W22} I love you..."
+
+@NAN_KOK_A:163 PLY 2adf6399
+"Ah... don't cry, Nana."
+
+@NAN_KOK_A:166 PLY 94d91c52
+"You can't cry..."
+
+@NAN_KOK_A:167 NAN 5adfc793
+"{V0672}{W5}Ah...{W98} A forehead kiss{W2}{W2}{W4}..."
+
+@NAN_KOK_A:168 NAN 4e9e4cd1
+"{V0673}{W4}Aww~,{W83} thank you,{W54} Big Bro."
+
+@NAN_KOK_A:169 NAN 5b420205
+"{V0674}{W4}Sorry,{W70} Big Bro.{W42} For saying weird things..."
+
+@NAN_KOK_A:170 PLY b3533bfb
+"You still stop crying when I give you a forehead kiss, huh."
+
+@NAN_KOK_A:171 NAN fc517a1f
+"{V0675}{W4}Ehehe{W5}{W5},{W39} looks like it."
+
+@NAN_KOK_A:172 PLY 0d88d1a7
+"...Nana, I'll be honest. There have been times I saw you not as my sister, but as a girl."
+
+@NAN_KOK_A:173 NAN 3b2faf89
+"{V0676}{W4}Huh?"
+
+@NAN_KOK_A:174 PLY 814ac644
+"You've become so cute... I thought, if only you weren't my sister..."
+
+@NAN_KOK_A:175 NAN d7079f1a
+"{V0677}{W5}Big Bro..."
+
+@NAN_KOK_A:176 PLY 859063db
+"Having a cute sister is rough, huh..."
+
+@NAN_KOK_A:177 PLY e6904fc5
+"A girl cuter than you, Nana, who understands me... isn't easy to find."
+
+@NAN_KOK_A:178 NAN 30ebc6e6
+"{V0679}{W5}Ehehe{W4}{W4},{W72} it's{W3} the same{W3} for me."
+
+@NAN_KOK_A:179 PLY 00daeddf
+"Hahaha, I guess so."
+
+@NAN_KOK_A:180 NAN 790bbded
+"{V0680}{W8}I...{W60} I have to graduate{W30} from you.{W90} {Ec}I can't keep{W49} saying 'Big Bro,{W17} Big Bro'{W18} and{W45} {Eo}acting{W3} so{W2} spoiled{W2} forever."
+
+@NAN_KOK_A:181 PLY 00a0b3a4
+"...Yeah. That would be lonely in its own way, though..."
+
+@NAN_KOK_A:182 NAN 5bfb04e3
+"{V0681}{W6}I...{W85} I'm glad I'm your sister,{W33} Big Bro."
+
+@NAN_KOK_A:183 PLY 1dd75dd0
+"I'm really glad to have a sister like you too, Nana."
+
+@NAN_KOK_A:184 NAN 52caa3f3
+"{V0683}{W6}Big Bro...{W50} One last{W32} time,{W116} a forehead kiss{W54} {Ec}for me."
+
+@NAN_KOK_A:185 PLY 545bd259
+"Okay."
+
+@NAN_KOK_A:189 NAN b6256ba5
+"{V0684}{W5}Big Bro...{W59} I{W3} love{W3} you...{W5}"
+
+@NAN_KOK_A:196 SYS 5cb32b5e
+{V5000}{c7}Deep in your heart{W30} there are feelings{W10} that have to stay hidden{W5}...{W45} I think.
+
+@NAN_KOK_A:197 SYS fe4c2019
+{V5001}{c7}I got a love letter{W20} for the first time,{W30} and I didn't know{W10} what to do...
+
+@NAN_KOK_A:198 SYS 2215403f
+{V5002}{c7}Before I knew it,{W30} that boy{W30} and Big Bro{W10} were being compared{W5} by me.
+
+@NAN_KOK_A:199 SYS dacb4b01
+{V5003}{c7}The more{W20} I compared them,{W40} the kinder{W10} Big Bro was,{W45} and the better{W20} he understood Nana...
+
+@NAN_KOK_A:201 SYS abed55db
+{V5004}{c7}Because I think things like that,{W20} I end up{W20} troubling Big Bro.
+
+@NAN_KOK_A:202 SYS 62ae6c86
+{V5005}{c7}Aaah,{W10} I wonder{W40} if there's a boy somewhere{W20} more wonderful than Big Bro.
+
+@NAN_KOK_A:203 SYS c5868cdb
+{V5006}{c7}"Good morning~, Big Bro! Let's go to school together~!"
+
+@NAN_KOK_A:204 SYS 23d548ec
+{V5007}{c7}"Huh?{W30} You're asking if I wasn't going to graduate from you?{W30} Ehehe,{W50} starting now,{W30} I'm enrolling{W10} again{W10}!"
+
+@NAN_KOK_A:205 SYS b3c09eaf
+{V5008}{c7}"Let's stay{W30} close{W20} forever,{W20} Big Bro."

@@ -1,0 +1,1655 @@
+# MAO_FEV -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_FEV:66 PLY 1f572bcf
+"Oh, Mao."
+
+@MAO_FEV:85 MAO 6e16c9d7
+"{V1095}{W10}Oh, {Nn},{W20} {F5}{Ec}{Mo}what are you...{W10} {F6}achoo!{Mc}"
+
+@MAO_FEV:86 PLY 612ca5ad
+"Just wandering around, why?"
+
+@MAO_FEV:88 MAO b54ad507
+"{V1096}{W20}I see,{W55} you've got nothing to do either, {Nn}.{W40} {F5}{Ec}{Mo}As for me...{W25} {F6}achoo!{W10} {F5}{Ec}{Mo}Achoo!{Mc}"
+
+@MAO_FEV:89 PLY 1a31e67e
+"What's wrong? Are you okay?"
+
+@MAO_FEV:91 MAO 066ec589
+"{V1097}{W20}I just started sneezing... {F5}{Ec}{Mo}Achoo!{Mc}{W50} {F9}{Eo}Somebody must be{W5} talking about me~{Sd}"
+
+@MAO_FEV:92 PLY fef86337
+"That's one persistent rumor."
+
+@MAO_FEV:93 MAO 6274a8a3
+"{V1098}{W10}If it's a handsome guy... {F5}{Ec}{Mo}achoo!{Mc}{W40} {F9}{Eo}he's more than welcome."
+
+@MAO_FEV:94 PLY 7aa469c1
+"Hahaha..."
+
+@MAO_FEV:96 MAO 33742d5d
+"{V1099}{W20}Well,{W25} I{W20} have somewhere to be. See you~...{W30} {F5}{Ec}{Mo}achoo!{Mc}"
+
+@MAO_FEV:97 PLY 623231a3
+"...Take care~"
+
+@MAO_FEV:103 MAO 2bdf0127
+"{V1100}{W20}Ugh,{W80} my{W35} head{W10} hurts...{W15}{W58} I can't take it..."
+
+@MAO_FEV:106 MAO d859f983
+"{V1101}{W10}Oh, {Nn}...{W10} perfect timing..."
+
+@MAO_FEV:109 MAO 67017865
+"{V1102}{W20}Take me{W20} to the Infirmary...{W15}"
+
+@MAO_FEV:110 PLY b13ad516
+"What's the matter?"
+
+@MAO_FEV:111 MAO fbf1f409
+"{V1103}{W20}Low blood pressure.{W70} My head{W20} hurts and{W45} I feel{W5} dizzy...{W40} {Eo}{Fm3}It happens sometimes."
+
+@MAO_FEV:112 MAO 7ec34e29
+"{V1104}{W20}I'll lie down{W30} in the Infirmary..."
+
+@MAO_FEV:113 PLY 8c8c7017
+"Mao, isn't that..."
+
+@MAO_FEV:114.1 - 16323df5
+{Ti0}- Maybe you stayed up too late...／- Maybe you skipped breakfast...／- Maybe you just want to skip class...
+
+@MAO_FEV:115 PLY a8c2b710
+"Maybe you stayed up too late..."
+
+@MAO_FEV:116 MAO 2e939402
+"{V1105}{W10}I did not stay up late.{W30} {Fe6}It was normal, {W20}normal..."
+
+@MAO_FEV:117 PLY 23393881
+"When did you go to bed yesterday?"
+
+@MAO_FEV:118 MAO 2acf98bd
+"{V1106}{W10}I watched the ten o'clock drama and{W25} {Fe3}went to bed."
+
+@MAO_FEV:119 PLY 404bef86
+"So around eleven... That's not late."
+
+@MAO_FEV:120 MAO f829238f
+"{V1107}{W10}Right~?"
+
+@MAO_FEV:121 PLY b1f674f6
+"What drama did you watch?"
+
+@MAO_FEV:122 MAO 679663f0
+"{V1108}{W10}Childhood friends{W5} reunite{W25} and fall in love, but{W20} {Fe9}both already have partners,{W20} {Fm3}and one{W10} gets in a car accident..."
+
+@MAO_FEV:123 MAO d78a7f12
+"{V1109}{W20}...Wait,{W30} why{W15} am I making a sick person{W15} explain all this?"
+
+@MAO_FEV:124 PLY 6c1b2754
+"S-sorry."
+
+@MAO_FEV:125 MAO 45710c4b
+"{V1110}{W10}It has{W15} so{W40} many{Fe9} good-looking guys in it~"
+
+@MAO_FEV:126 PLY 77ca92ba
+"Yeah, yeah."
+
+@MAO_FEV:127 PLY d4a78b3b
+"Maybe you skipped breakfast..."
+
+@MAO_FEV:128 MAO b7492a75
+"{V1111}{W10}I had some thi~{W45}n{W5} coffee~"
+
+@MAO_FEV:129 PLY 3adb1631
+"That's not enough."
+
+@MAO_FEV:130 MAO 8fe40d76
+"{V1112}...Fufu,{W25} thanks.{W38} You're worried about me."
+
+@MAO_FEV:131 MAO d0bdbcb6
+"{V1113}{W10}From now on I'll eat at least one croissant,{W55} {Ec}{Fe9}so for now{W35} take me to the Infirmary~"
+
+@MAO_FEV:132 PLY 5e0942fb
+"Ah... S-sorry."
+
+@MAO_FEV:133 PLY 0dc2a717
+"Maybe you just want to skip class..."
+
+@MAO_FEV:134 MAO 45f5fca0
+"{V1114}{W10}Geez,{W80} does this{W10} look{W10} fake to you?{W68} {Fe6}That hurts..."
+
+@MAO_FEV:135 MAO ea221cb8
+"{V1115}{W10}Well,{W38} not having to go to class{Eo} is lucky, though."
+
+@MAO_FEV:136 SYS 85e84bc1
+And so I took Mao to the Infirmary.
+
+@MAO_FEV:137 SYS 0a0fe1bd
+...Apparently Mao is a regular there.
+
+@MAO_FEV:139 PLY 39d20445
+(I've got time, so maybe I'll read a book...)
+
+@MAO_FEV:140 - 64c62dc2
+Girl
+
+@MAO_FEV:142 MAO 7a31af56
+"{V5004}{W40}Heave...{W10} ho,{W40} come on...{W60} Geez!{W35} It's just{W5} a little more..."
+
+@MAO_FEV:143 PLY 7376998a
+(Hm? That voice...)
+
+@MAO_FEV:145 PLY 439f97f3
+"Mao."
+
+@MAO_FEV:146 MAO 86c73c20
+"{V1116}{W20}Oh, {Nn}."
+
+@MAO_FEV:147 PLY 832fcb7f
+"What are you doing?"
+
+@MAO_FEV:148 MAO 1eee4fe6
+"{V1117}{W5}There's a book I want to read,{W5} {Fe7m1}but it's on the top shelf and I can't reach it."
+
+@MAO_FEV:149 PLY fecf978e
+"I'll get it for you. Which one?"
+
+@MAO_FEV:150 MAO 4b682d80
+"{V1118}Huh? {Nn},{W20} can you reach it?"
+
+@MAO_FEV:151 PLY ec4f901d
+"Of course I can."
+
+@MAO_FEV:152 PLY e36a26cd
+"So, which book?"
+
+@MAO_FEV:153 MAO a1bf7cfb
+"{V1119}{W20}Oh,{W30} that one,{W35} on the right{W20} shelf,{W20} at the very top...{Fe3}"
+
+@MAO_FEV:154 PLY 3d1df0dd
+"Let's see... this one? "New York Pop Art Collection"?"
+
+@MAO_FEV:155 MAO 6b1bc653
+"{V1120}{W15}Yes! That's the one!"
+
+@MAO_FEV:156 PLY 5efa3f91
+"Okay. Here we go... ugh, heavy..."
+
+@MAO_FEV:158 PLY 524bf020
+"Here."
+
+@MAO_FEV:160 MAO c8333bc8
+"{V1121}{W10}Thanks."
+
+@MAO_FEV:161 MAO 42213227
+"{V1122}That was easy.{W30} {Ec}{Fe9}And I couldn't get it no matter how far I stretched."
+
+@MAO_FEV:162 PLY 5363e9e7
+"This is nothing."
+
+@MAO_FEV:163 MAO 5614d742
+"{V1123}...You grew up before I knew it, {Nn}~"
+
+@MAO_FEV:164 MAO 9682423e
+"{V1124}{W10}Back in elementary school,{W30} {Fe3}you were{W5} way{W5} shorter than me..."
+
+@MAO_FEV:165 MAO 9e8e6e4a
+"{V1125}{Bt150}Fufu,{W50} so being passed can feel nice~.{W15} {z}{Fe2}I like it, {Nn}."
+
+@MAO_FEV:166 PLY 04e1e58f
+"I just grew taller, that's all."
+
+@MAO_FEV:167 MAO 6eee144b
+"{V1126}Fufu,{W60} it reminded me of when we were kids."
+
+@MAO_FEV:168 MAO 95fa09f3
+"{V1127}{W10}See you, {Nn}.{W30} {Fe4}Thanks for getting{W5} the book."
+
+@MAO_FEV:169 PLY e03a6130
+"Yeah, see you."
+
+@MAO_FEV:174 PLY 60c65098
+(It's hot again today...)
+
+@MAO_FEV:175 PLY e8982b69
+(If only it would cool down a little, it'd be easier to get through...)
+
+@MAO_FEV:176 PLY 5c2f7c33
+(Ah, that's...)
+
+@MAO_FEV:178 PLY 17419f64
+"Morning, Mao."
+
+@MAO_FEV:179 MAO 137fa916
+"{V1128}{W10}Oh, {Nn}.{W40} Morning..."
+
+@MAO_FEV:180 PLY 82160bb7
+"What's wrong? You seem down."
+
+@MAO_FEV:182 MAO 7aa80ef5
+"{V1129}{W10}Ahaha...{W70} I saw something{W25} unpleasant first thing this morning...{Sd}"
+
+@MAO_FEV:183 PLY 72973e83
+"Something unpleasant?"
+
+@MAO_FEV:184 MAO 62948cd9
+"{V1130}{W10}There was a letter{W20} in my shoe locker."
+
+@MAO_FEV:185 PLY d5445316
+"Huh? You mean... a love letter?"
+
+@MAO_FEV:186 MAO 3a2f6eb5
+"{V1131}{W10}Probably..."
+
+@MAO_FEV:187 PLY 876a2929
+"I see..."
+
+@MAO_FEV:188 PLY 590c64a9
+(As expected, Mao's popular.)
+
+@MAO_FEV:189 MAO 7e658a74
+"{V1132}{W10}I hate this sneaky stuff. {W50}{Ec}{Fm6}If you're a man,{W5} hand it over{W5} face to face."
+
+@MAO_FEV:190 MAO beeef8c2
+"{V1133}{W10}They should think about the reader.{W25} {Fe6}A letter when you don't even know who sent it..."
+
+@MAO_FEV:191 PLY 8f01ae8b
+"Oh... so you do read them properly."
+
+@MAO_FEV:192 MAO 1be2be95
+"{V1134}{W10}I can't just not read it, can I?{W50} {Fe6}Ugh,{W15} how depressing..."
+
+@MAO_FEV:193 MAO 02f70544
+"{V1135}{W20}See you, {Nn}."
+
+@MAO_FEV:194 PLY 760a43ab
+"Y-yeah, see you."
+
+@MAO_FEV:195 PLY 60afeba6
+(Being popular must be tough...)
+
+@MAO_FEV:196 PLY a1d27680
+"Mao~!"
+
+@MAO_FEV:197 MAO 2151bc91
+"{V1136}{W10}What is it, {Nn}?"
+
+@MAO_FEV:198 PLY d91eac50
+"Is it PE next?"
+
+@MAO_FEV:199 MAO f95d40ff
+"{V1137}{W10}It is."
+
+@MAO_FEV:204 PLY 5a922682
+(Mao in gym clothes...)
+
+@MAO_FEV:210 MAO 06330f70
+"{V1138}{W10}What{W10} is it?{W35} Staring{W5} at me like that."
+
+@MAO_FEV:211 PLY c6b97d41
+"Mao, you have a great figure."
+
+@MAO_FEV:212 MAO 32b98fcc
+"{V1139}{W10}What?!"
+
+@MAO_FEV:213 PLY 830c68e9
+(Oh no! It just slipped out...)
+
+@MAO_FEV:214 MAO 5cf47272
+"{V1140}{W10}Honestly{W15} now.{W10}{W40} Compliments{W35} don't make me happy when I'm dressed like this."
+
+@MAO_FEV:215 MAO 8a3192ca
+"{V1141}{W30}Still,{W30}{W35} it didn't feel bad.{W10} {F2}See you."
+
+@MAO_FEV:216 PLY 692d4e31
+"Y-yeah. See you."
+
+@MAO_FEV:217 PLY a13e1fa4
+(That was close, I said it out loud without thinking...)
+
+@MAO_FEV:219 PLY a7aa608c
+(Phew... it's hot today...)
+
+@MAO_FEV:220 PLY 6b9221da
+(Maybe it's a bit cooler by the Fountain? Let's go see...)
+
+@MAO_FEV:221 PLY 339ecc20
+"Yeah... it's a little cooler."
+
+@MAO_FEV:222 MAO c51b3bdb
+"{V1142}{Nn}, what are you doing?"
+
+@MAO_FEV:223 MAO 861a9c26
+"{V1143}{W10}Geez,{W20} look{W15} at that worn-out face~{W10}{W30} {Fm3}It's not a good look."
+
+@MAO_FEV:224 PLY df20adf4
+"Easy for you to say, it's so hot..."
+
+@MAO_FEV:225 MAO c814f6f0
+"{V1144}{W10}You're really slacking..."
+
+@MAO_FEV:226 PLY 4309b1fb
+"Girls wouldn't understand..."
+
+@MAO_FEV:227 MAO c54b25fc
+"{V1145}{W10}Hm?{W20} {Fe3}Why not?"
+
+@MAO_FEV:228 PLY 7abdc198
+"You have no idea how stuffy school uniform pants are. They soak up the heat and get insanely hot."
+
+@MAO_FEV:229 MAO e04c9da5
+"{V1146}{W10}Hmm, I see."
+
+@MAO_FEV:230 PLY 710e843c
+"Girls have it easy with skirts."
+
+@MAO_FEV:231 MAO 74cf1873
+"{V1147}{W10}Fufu,{W20} nice, right?"
+
+@MAO_FEV:232 MAO 53429515
+"{V1148}You can just flap them."
+
+@MAO_FEV:233 PLY 26aab493
+(Flap? Flap the hem of the skirt? Ugh... my heart's pounding...)
+
+@MAO_FEV:234 MAO 444b28e0
+"{V1149}{W10}The downside is{W20} that winter's freezing, though."
+
+@MAO_FEV:235 PLY 9d6abc0b
+"Hahaha, I guess."
+
+@MAO_FEV:236 MAO 71f6585b
+"{V1150}See you, {Nn}. {Fe9}Don't turn into a puddle{W10} just because it's hot."
+
+@MAO_FEV:237 PLY 928d9a44
+"I'll try..."
+
+@MAO_FEV:238 PLY b2c09927
+(Flapping... huh...)
+
+@MAO_FEV:240 PLY 652c0370
+(There's really no one around...)
+
+@MAO_FEV:241 - 73118c5f
+Boy A
+
+@MAO_FEV:242 ETB 5db4385e
+"{V1001}Hey,{W40} do you{W5} know{W3} Senior{W3} Mi{W3}zu{W3}sa{W3}wa{W3} in Year 3?"
+
+@MAO_FEV:243 - 7ca25f09
+Boy B
+
+@MAO_FEV:244 ETB 12b09e74
+"{V1101}{W10}Senior{W10} Mizusawa?{W10}{W70} No,{W30} who's that?"
+
+@MAO_FEV:245 PLY bc39b613
+(Hm? Gossip about Mao coming from a Year 1 classroom...)
+
+@MAO_FEV:246 ETB f3cf3ce3
+"{V1002}{W5}You don't know? {W30}She's super pretty{W30} and has an amazing figure!"
+
+@MAO_FEV:247 ETB da175881
+"{V1102}Really{W5}?! {W30}What class is she in?"
+
+@MAO_FEV:248 ETB b3ee29b3
+"{V1003}Let's{W30} see...{W50} I think it was{W30} 3-C."
+
+@MAO_FEV:249 PLY 80a6d1a6
+(Mao really is popular...)
+
+@MAO_FEV:252 MAO d5439d93
+"{V1151}{Nn}, what are you doing eavesdropping over there?"
+
+@MAO_FEV:258 PLY 01520874
+"{Ts3}Whoa! Mao!"
+
+@MAO_FEV:259 MAO 840a7e53
+"{V1152}{Sp}{W10}W-what?{W30} Why{W5} so startled?"
+
+@MAO_FEV:260 PLY acde5dd5
+"Ah, no... never mind, let's go over there together."
+
+@MAO_FEV:261 MAO 68e805a9
+"{V1153}{W10}W-{W10}why?{W5} {W30}We can talk here."
+
+@MAO_FEV:262 PLY 2e68078f
+"Come on, come on."
+
+@MAO_FEV:263 SYS c58bfe86
+...And so we moved somewhere else and I talked with Mao.
+
+@MAO_FEV:264 SYS ff59af53
+So Mao gets attention from the first-year boys too...
+
+@MAO_FEV:267 MAO e1d6f900
+"{V1154}Oh, {Nn}."
+
+@MAO_FEV:268 MAO 74b3a1d3
+"{V1155}{Bt90}Oh..."
+
+@MAO_FEV:269 PLY 7388f97f
+(Ah, Mao blushed when she saw me. Could she be interested in me...)
+
+@MAO_FEV:270 MAO 1e457e2f
+"{Nn}..."
+
+@MAO_FEV:271 PLY 6de96231
+"W-what...?"
+
+@MAO_FEV:272 MAO 7f9c46e9
+"{V1157}{Ts1}{W15}Down!{W35} Down!"
+
+@MAO_FEV:273 PLY 122df4f6
+"Huh?"
+
+@MAO_FEV:274 MAO 3963dfb5
+"{V1158}{Ts1}Just look,{W35} down!{W40} Down{W20}!"
+
+@MAO_FEV:275 PLY 384c972f
+"Ah! My zipper!"
+
+@MAO_FEV:276 MAO f3cfcd2d
+"{V1159}{Ts1}Why{W20} are you{W5} walking{W5} around{W10} wide open?!{W30} {Ec}Hurry up and zip it!"
+
+@MAO_FEV:277 PLY 1ea1b704
+"Y-yeah."
+
+@MAO_FEV:278 SYS 90d2eb2d
+Zzzzip!
+
+@MAO_FEV:279 PLY 08d40991
+"...It's fine now, Mao."
+
+@MAO_FEV:281 MAO 3bdf2590
+"{V1160}{Br0t120}Geez,{W20}{W40} how long was it open?"
+
+@MAO_FEV:282 PLY a0b83c10
+"Maybe since I went to the bathroom during break..."
+
+@MAO_FEV:283 MAO 8e9a41c6
+"{V1161}{W10}Since break?!{W30} It's been open ever since?"
+
+@MAO_FEV:284 PLY bb8aabee
+"Probably..."
+
+@MAO_FEV:285 MAO 641de683
+"{V1162}{W10}I'm{W10} speechless~.{W70} Honestly...{W30} you'll never be popular with girls like that."
+
+@MAO_FEV:286 MAO fd654041
+"{V1163}{W10}See you."
+
+@MAO_FEV:287 PLY 818092f1
+(Hahaha... I never thought it was all the way open...)
+
+@MAO_FEV:290 PLY a13079bb
+(It's hot already this morning...)
+
+@MAO_FEV:291 PLY f3b9e05a
+(If only a breeze would blow, it'd cool off a little...)
+
+@MAO_FEV:292 PLY 26ab2977
+(Well, things never work out that nicely...)
+
+@MAO_FEV:301 MAO ab5cb76d
+"{V1164}{W20}Kyaaaaah!"
+
+@MAO_FEV:302 PLY 79120d06
+"Wh-whoa!"
+
+@MAO_FEV:304 PLY 4fa82b16
+(A-a divine wind!!)
+
+@MAO_FEV:310 MAO e7491d1d
+"{V1165}{Br60t120}{Nn}... how long have you{W10} been there?"
+
+@MAO_FEV:311 PLY 9a862d1e
+"J-just now..."
+
+@MAO_FEV:312 MAO 48d3c9ff
+"{V1166}{Sp}{W20}D-{W40}did you see?"
+
+@MAO_FEV:313.1 - b3725500
+{Ti0}- Y-yeah...／- I-I didn't see anything
+
+@MAO_FEV:314 PLY 7d68aa58
+"Y-yeah..."
+
+@MAO_FEV:315 MAO 40779bf2
+"{V1167}{Bt90}{W10}Geez!{W15} Why were you standing there?!"
+
+@MAO_FEV:316 PLY 78c8e40a
+"W-well, you can't blame me for that..."
+
+@MAO_FEV:317 MAO 93bd7e7e
+"{V1168}{W10}Forget it!{W10} Erase it from your memory!"
+
+@MAO_FEV:318 PLY c33127f0
+"I-I can't, Mao..."
+
+@MAO_FEV:319 MAO 44ec9136
+"{V1169}{W10}Ugh{W10}...{W50} if I was going to be seen anyway,{W10} I should've worn something nicer...{Br0t90}"
+
+@MAO_FEV:320 PLY ef95f29f
+"H-hahaha..."
+
+@MAO_FEV:322 PLY a6039db7
+"I-I didn't see anything."
+
+@MAO_FEV:323 MAO a5777528
+"{V1170}{W10}Really?"
+
+@MAO_FEV:324 PLY cc4af171
+"Yeah."
+
+@MAO_FEV:325 MAO 08743c1e
+"{V1171}{Br0t60}{W10}Oh, okay~,{W50} what a relief."
+
+@MAO_FEV:326 MAO b600556e
+"{Nn}."
+
+@MAO_FEV:327 PLY bd09fe50
+"Hm?"
+
+@MAO_FEV:329 MAO 566349d4
+"{V1173}{W10}You missed{W5} a once-in-a-lifetime{W20} chance."
+
+@MAO_FEV:330 MAO cde67f58
+"{V1174}Fufufu."
+
+@MAO_FEV:331 MAO ca9c7feb
+"{V1175}{W10}See you, {Nn}."
+
+@MAO_FEV:332 PLY 7a6bbad7
+"Y-yeah. See you."
+
+@MAO_FEV:335 PLY 03631234
+(No one's here...)
+
+@MAO_FEV:336 PLY 13bb7e8d
+(...Oh well, I'll go back to class.)
+
+@MAO_FEV:337 PLY be0a0485
+(Hm? Is something on the floor?)
+
+@MAO_FEV:338 PLY 98a6d5fe
+(Ah... a hairbrush. It folds up, so it looks handy to carry around.)
+
+@MAO_FEV:339 PLY 4f0476ef
+(Could this be...)
+
+@MAO_FEV:342 PLY f2675b42
+"Ah, Hoshino. There you are."
+
+@MAO_FEV:343 YUM 4578b029
+"{Nm}, {V1333}{W17}what is it?"
+
+@MAO_FEV:344 PLY 82647a41
+"Is this yours, by any chance, Hoshino?"
+
+@MAO_FEV:345 YUM 56b3ce46
+"{V1334}{W15}A{W2} hair{W3}bru{W2}sh?{W2}{W45} {Fe9}No,{W25} it's{W6} not mine."
+
+@MAO_FEV:346 PLY 67919fb4
+"I-I see."
+
+@MAO_FEV:347 PLY 0524dbde
+(So it wasn't Hoshino's...)
+
+@MAO_FEV:348 PLY e2b3ed61
+"Well, see you."
+
+@MAO_FEV:349 YUM 7faf7555
+"{V1335}{W15}{Ec}Yes."
+
+@MAO_FEV:351 PLY e2bc9422
+(...So whose is it? I can't tell, so I'll put it in the lost-and-found box in the Staff Room.)
+
+@MAO_FEV:352 PLY f8e7c473
+"Ah, Narumi. There you are."
+
+@MAO_FEV:353 NAR 77c16b87
+"{V5034}{W15}Ah, {Nm}{W4}{W4}! {W15}Is{W4} there something{W4} you need?"
+
+@MAO_FEV:354 PLY 10059526
+"I just found this. Is it yours, Narumi?"
+
+@MAO_FEV:355 NAR 910f1720
+"{V1250}{W18}A hairbrush?{W48} {Fe9}No,{W8} it's{W4} not mine."
+
+@MAO_FEV:356 PLY 6b52f633
+(So it wasn't Narumi's...)
+
+@MAO_FEV:357 PLY ee2b5073
+"Sorry to bother you, Narumi. See you."
+
+@MAO_FEV:358 NAR 7a453d31
+"{V1251}{W15}Okay.{W15} Come by anytime.{W15} I'll be waiting!{Ec}"
+
+@MAO_FEV:360 MAO 6e44536e
+"{V1176}{W12}Boo!"
+
+@MAO_FEV:361 PLY ffc5cdbf
+"Whoa!"
+
+@MAO_FEV:362 PLY 6b600efe
+"M-Mao..."
+
+@MAO_FEV:363 MAO 33125051
+"{V1178}{W18}Don't{W2} sca{W1}re{W1} me,{W2} geez.{W45} {Fe8}{Eo}We almost collided!"
+
+@MAO_FEV:364 MAO 87da106c
+"{V1179}{W18}So,{W30} did{W4} you{W3} need{W4} something?"
+
+@MAO_FEV:365 MAO 480009b8
+"{V1180}{W15}You came to see{W6} me, didn't you? {Fe9}Or{W4} not?"
+
+@MAO_FEV:366 PLY 0321467c
+"Ah... no, I just found this, and I wondered if it's yours, Mao."
+
+@MAO_FEV:367 MAO 9f20b398
+"{V1181}{W15}Ah!{W21} My{W8} hairbrush!"
+
+@MAO_FEV:368 PLY d7dbe758
+"I knew it was yours, Mao."
+
+@MAO_FEV:369 MAO 6494ee63
+"{V1182}{W15}I've been looking{W4} for it~.{W30} Where was it?"
+
+@MAO_FEV:370 PLY f8ee92d2
+"It was on the floor in the Infirmary."
+
+@MAO_FEV:371 MAO 63745ea6
+"{V1183}{W15}Ah,{W15} I thought{W3} so."
+
+@MAO_FEV:372 MAO 3338cf5b
+"{V1184}{W15}I must have dropped it{W2} when I brushed{W2} my hair{W2} during break."
+
+@MAO_FEV:373 PLY 38a93676
+"You brushed your hair? In the Infirmary?"
+
+@MAO_FEV:374 MAO 891b1dc4
+"{V1185}{W15}Yes.{W30} The mirror there{W3} is always free,{W3} {Ec}so it's{W2} handy."
+
+@MAO_FEV:376 MAO 37f4cb9c
+"{V1186}{W15}The mirrors{W3} in the girls' bathrooms{W4} are{W30} always a battle{W3} for{W3} a{W2} spot{W3},{W2} it's awful."
+
+@MAO_FEV:377 PLY 5cf5173c
+"Oh, I see."
+
+@MAO_FEV:378 MAO fef1bc56
+"{V1187}{W15}Thanks for finding it.{W15} {Eo}See you."
+
+@MAO_FEV:379 PLY c75c06d3
+"Yeah, see you."
+
+@MAO_FEV:380 SYS 7d53b437
+...And so I returned the lost item to Mao.
+
+@MAO_FEV:383 PLY f65c3abe
+"Ah, Sakino. There you are."
+
+@MAO_FEV:384 ASU 59ddf4fa
+"{F4}{V0939}{W15}Ah,{W21} what's up, {Nm}?"
+
+@MAO_FEV:385 PLY 46266d2a
+"I just found this. Is it yours, Sakino?"
+
+@MAO_FEV:386 ASU cacd95fa
+"{V0940}{W15}Ah,{W30} a hairbrush..."
+
+@MAO_FEV:387 ASU a297187b
+"{V0941}{W15}Ahaha,{W30} not{W3} to brag,{W8}{W12} but{W33} once{W3} I tie{W3} my{W3} hair{W3} up{W6} in{W3} the morning, that's it."
+
+@MAO_FEV:388 ASU 7b9bc9c0
+"{V0942}{W12}See you,{W15} practice{W3} is{W3} about{W1} to start."
+
+@MAO_FEV:389 PLY 9c66d7f8
+"Good luck."
+
+@MAO_FEV:390 ASU fd1d248c
+"{V0943}{W12}{Ec}Yeah!"
+
+@MAO_FEV:391 PLY 4004890a
+"Ah, Futami. There you are."
+
+@MAO_FEV:392 ERI 6b10c267
+"{Nm}...{V1001}{W15} what{W4} do{W4} you want?"
+
+@MAO_FEV:393 PLY 58ba92cc
+"I just found this. Is it yours, Futami?"
+
+@MAO_FEV:394 ERI ae2726eb
+"{V1002}{W18}A hairbrush...{W50} {Ec}It's not{W6} mine."
+
+@MAO_FEV:395 PLY 2401dabb
+"I-I see..."
+
+@MAO_FEV:397 ERI 8fea83c3
+"{V1003}{W18}Do{W6} you{W1} think{W4} I{W4} would{W2} stand{W6} at{W1} a{W1} mirror{W1} at{W1} school?{W5}{W48} {Ec}I{W1} don't{W4} care about{W27} my hair."
+
+@MAO_FEV:398 PLY 6c6b1e77
+"R-right..."
+
+@MAO_FEV:399 PLY e28cf22b
+"Ah, Shijou. There you are."
+
+@MAO_FEV:401 MIT 3289d996
+"{Nm}. {V1181}{W12}Is something wrong?"
+
+@MAO_FEV:402 MIT 3dc09b30
+"{V1182}{W15}Master,{W2}{W3}{W4}{W33} is something wrong?"
+
+@MAO_FEV:403 PLY e2bcf758
+"I just found this. Is it yours, Shijou?"
+
+@MAO_FEV:404 MIT e3be3791
+"{V1183}{W15}Ah,{W36} a{W5} hairbrush..."
+
+@MAO_FEV:405 MIT db2e68d7
+"{V1184}{W15}Unfortunately,{W2}{W2}{W30} it{W3} is not{W6} mine."
+
+@MAO_FEV:406 MIT 0ee071cc
+"{V1185}{W15}Are you{W2} looking for{W3} its owner?"
+
+@MAO_FEV:407 PLY 94964548
+"Yeah, since I picked it up..."
+
+@MAO_FEV:408 MIT d0ecfd09
+"{V1186}{W12}That is very kind of you.{W60}{Ec} Please let me{W6} help{W2} you{W2} look{W3} as well.{Eo}"
+
+@MAO_FEV:409 PLY 003b8dfd
+"Oh, no need, no need. I just wondered if it might be yours, Shijou."
+
+@MAO_FEV:410 PLY f4a80c49
+"I think it's better to hand it in at the Staff Room than to go around looking."
+
+@MAO_FEV:411 MIT c61f5361
+"{V1187}{W15}That is... {W39}true."
+
+@MAO_FEV:412 MIT ef14a436
+"{V1188}{W18}If we missed{W2} each other,{W18} {W3}it would all be for nothing."
+
+@MAO_FEV:413 PLY e823566d
+"See you, Shijou."
+
+@MAO_FEV:414 MIT ac51cf15
+"{V1189}{W12}Yes.{W30} Take care."
+
+@MAO_FEV:415 PLY bb646514
+(Oh well... I'll put it in the lost-and-found box in the Staff Room.)
+
+@MAO_FEV:416 MAO f3961528
+"{V5005}{W20}Eeeeeeeeeek{W20}{W45}!"
+
+@MAO_FEV:417 PLY 21e4acd1
+"Huh?!"
+
+@MAO_FEV:418 PLY 681ad9d8
+"That scream was Mao! It came from the Home Ec Room!"
+
+@MAO_FEV:422 PLY 08cfef45
+"Mao! What happened?!"
+
+@MAO_FEV:423 MAO 31216f85
+"{V1188}{W10}Ah, {Nn}~,{W60} one showed{W20} up~{W5}!"
+
+@MAO_FEV:424 PLY 8dba8264
+"S-showed up... what did?"
+
+@MAO_FEV:425 MAO f2c29e3a
+"{V1189}{W10}A cockroach! A cockroach~{W10}!"
+
+@MAO_FEV:426 PLY f11b29b8
+"Oh, just a cockroach..."
+
+@MAO_FEV:427 MAO d05ffcac
+"{V1190}Don't say 'just'~! A cockroach! A cockroach! {Ec}{Fe9}It's black and shiny! {Eo}D-{W5}do something~{W15}!"
+
+@MAO_FEV:428 PLY 4453074a
+"Okay, but... where is it?"
+
+@MAO_FEV:429 MAO a509e1e9
+"{V1191}{W10}There, there! Right by{W20} your feet, {Nn}!"
+
+@MAO_FEV:430 PLY fa4aecbd
+"What?!"
+
+@MAO_FEV:431 MAO ac853d89
+"{V1192}{W10}Look!{W10} Hurry up and do something~{W15}!"
+
+@MAO_FEV:432 MAO/PLY 0d80b9d5
+"......"
+
+@MAO_FEV:433 MAO 5310ddfa
+"{V1193}{W10}What are you doing~! Hurry~{W15}!"
+
+@MAO_FEV:434 PLY 80decc91
+"Mao..."
+
+@MAO_FEV:435 PLY f3bc70c6
+"This is just a burn mark on the floor."
+
+@MAO_FEV:436 MAO 5619d51e
+"{V1194}Huh?{W10}"
+
+@MAO_FEV:437 PLY c0890ca7
+"The size and shape could pass for a cockroach, I guess... you panic so easily."
+
+@MAO_FEV:438 MAO 55d89366
+"{V1195}{Sp}{W20}Ha...{W60} haha...{W110} I-{W5}I see..."
+
+@MAO_FEV:439 MAO 703f1bf3
+"{V1196}{W10}Honestly, who did this?!{W20} Making a confusing burn mark in a place like this~! {W50}{Fe9}{Ec}What a nuisance!"
+
+@MAO_FEV:440 PLY 55c5dcf4
+"{Ts1}Well... I think you're the nuisance, Mao..."
+
+@MAO_FEV:442 MAO 62476b6d
+"{V1197}{W10}Did you say something?"
+
+@MAO_FEV:443 PLY e645d95c
+"N-no, nothing! Good thing it was a mistake."
+
+@MAO_FEV:444 MAO a98d6db6
+"{V1198}{W10}Seriously,{W15}{W30} geez~."
+
+@MAO_FEV:445 MAO e27fb99f
+"{V1199}Thanks, {Nn}. You saved me."
+
+@MAO_FEV:446 PLY 3e6b8a68
+"Hahaha, I didn't do anything, though."
+
+@MAO_FEV:447 SYS 7bed6065
+...And so I rescued Mao from danger? 
+
+@MAO_FEV:449 PLY 6ce23197
+(Ah, Mao... huh?!)
+
+@MAO_FEV:450 MAO 7a603b27
+"{V1201}{W20}Ah, {Nn}.{W5} What are you doing here?"
+
+@MAO_FEV:451 PLY 6fccf756
+"What about you, Mao? Why are you in gym clothes after school..."
+
+@MAO_FEV:452 MAO 9f0e7bec
+"{V1202}{W20}Well...{W30} listen,{W20} the Discipline Committee is being so mean."
+
+@MAO_FEV:453 MAO 45303ecd
+"{V1203}{W10}Just because I'm late a bit much,{W5} they told me to{W5} run ten laps of the Schoolyard after{W5} school..."
+
+@MAO_FEV:454 PLY 61dd5d6b
+"How many times were you late?"
+
+@MAO_FEV:455 MAO 58b42af1
+"{V1204}...{W10}Only twenty{W10} times."
+
+@MAO_FEV:456 PLY 7343e4f1
+"That's a lot..."
+
+@MAO_FEV:457 MAO 4c93d0b4
+"{V1205}It's not like I want to be late~.{W5} {Fe6m4}I have low blood pressure,{W5} so{W5} I can't help it."
+
+@MAO_FEV:458 PLY 58cf0544
+"Well, how do I put it, good luck."
+
+@MAO_FEV:459 MAO 89a898e1
+"{V1206}{W20}You're so cold, {Nn}.{W40} {Fe9m4}You could run with me, you know."
+
+@MAO_FEV:460 PLY 867e351b
+"Whaaat?! No way."
+
+@MAO_FEV:461 MAO e5c0007c
+"{V1207}{W20}Ugh...{W40} fine,{W45} I'll run{W5} alone.{W70} If I collapse{W5} halfway,{Eo}{W40} it's the Discipline Committee's{W20} and {Nn}'s fault."
+
+@MAO_FEV:462 PLY 6687c00d
+"Yeah, yeah, good luck."
+
+@MAO_FEV:463 MAO 2f3cc509
+"{V1208}{W20}Ugh...{W40} you're a demon,{W20} heartless~!"
+
+@MAO_FEV:464 PLY 75e36031
+"Have a nice run~!"
+
+@MAO_FEV:466 PLY 65404fe1
+(...Nobody in particular around. Guess I'll go back to class...)
+
+@MAO_FEV:467 PLY 4ed3d069
+(Huh? Isn't that...)
+
+@MAO_FEV:468 PLY e36ee95a
+"Mao!"
+
+@MAO_FEV:469 MAO 834e2809
+"{V1209}{W10}Eh?!"
+
+@MAO_FEV:470 MAO 4e486570
+"{V1210}{W20}{Sp}Oh, {Nn}."
+
+@MAO_FEV:471 PLY ac36d723
+"Why are you coming from between the Gym and the Pool..."
+
+@MAO_FEV:472 MAO c2e9e814
+"{V1211}{W20}W-{W30}well, you know...{W15}{Fe7} Who cares about that?"
+
+@MAO_FEV:473 PLY bae30c40
+"Oh, your bag! ...Does that mean you're only getting to school now?!"
+
+@MAO_FEV:474 MAO 8be405bd
+"{V1212}{W10}{Ts1}...Busted."
+
+@MAO_FEV:476 MAO 9224a869
+"{V1213}{W10}W-{W30}well, yeah."
+
+@MAO_FEV:477 MAO 617e4701
+"{V1214}{W10}Look,{W20} I have low{W10} blood pressure,{W20}{Fe3} so there are mornings when I just can't get up~."
+
+@MAO_FEV:478 PLY bc4bd47f
+"Hmm... Even so, at this hour..."
+
+@MAO_FEV:479 MAO 03946aab
+"{V1215}{W20}Doing my hair took forever.{W25}{Eo}{Fm3} Curly hair is hard work, you know!"
+
+@MAO_FEV:481 MAO 97baf74f
+"{V1216}{W20}See you~!"
+
+@MAO_FEV:482 PLY a1f1c8e5
+(Ah, she's gone... How does she manage being an exam student like that?)
+
+@MAO_FEV:484 ETB 51671fb7
+"{V1004}I got to see{W20} Mizusawa{W5} for the first time in ages today~!"
+
+@MAO_FEV:485 ETB 66f3c61b
+"{V1103}Whoa! {W20}Seriously?!"
+
+@MAO_FEV:486 PLY 0076d4df
+(Hm? Gossip about Mao from the Year 2 classroom...)
+
+@MAO_FEV:487 ETB 0a5d8bd8
+"{V1005}In the Cafeteria,{W5}{W40} I happened to{W10} step aside for her{W10} and{W20} she nodded to me~!"
+
+@MAO_FEV:488 ETB 69a6a844
+"{V1104}Whoaaaa,{W40} I'm so{W5} jealous~!"
+
+@MAO_FEV:489 MAO 19e5a729
+"{Nn}, {V1217}{W10}what are you doing eavesdropping{W10} over there?"
+
+@MAO_FEV:490 MAO 51edf776
+"{V1218}{W10}{Sp}W-what?{W20} Why are you so startled?"
+
+@MAO_FEV:491 MAO 9aecaf58
+"{V1219}{W10}W-{W10}why? {W25}We can talk right here, can't we?"
+
+@MAO_FEV:492 SYS ffa6a480
+Even the Year 2 boys have their eyes on her, huh, Mao...
+
+@MAO_FEV:494 MAO 2f04b084
+"{V1220}{W20}Hey~~{W15}! {W10}You, boy over there!{W25} Don't move~~{W15}!"
+
+@MAO_FEV:495 PLY 46f2c9a9
+(Huh? That voice is Mao's...)
+
+@MAO_FEV:496 PLY 19ed67dc
+(Don't move... does she mean me?)
+
+@MAO_FEV:497 MAO 6c57a895
+"{V1221}{W20}Ah?! {Nn}!"
+
+@MAO_FEV:498 PLY d2727751
+"W-why are you so surprised?"
+
+@MAO_FEV:499 MAO fda673c5
+"{V1222}{W20}I can't believe...{W50} the culprit{W30} was you..."
+
+@MAO_FEV:500 PLY aa54ce5a
+"The culprit? Of w-what?"
+
+@MAO_FEV:501 MAO d5bc4337
+"{V1223}{W10}Peeping! {W30}You were looking up my skirt{W5} from the bottom of the stairs!"
+
+@MAO_FEV:502 PLY f368bec4
+"I-I did no such thing!"
+
+@MAO_FEV:503 MAO ec05a266
+"{V1224}{W20}Really~?"
+
+@MAO_FEV:504 PLY eb99610c
+"Really! I just got here."
+
+@MAO_FEV:505 MAO febf9434
+"{V1225}{W20}Then,{W15} did anyone come running past?"
+
+@MAO_FEV:506 PLY b32a26bb
+"No, nobody came..."
+
+@MAO_FEV:507 MAO 6db9f5c0
+"{V1226}{W20}Hmmmm~?"
+
+@MAO_FEV:508 PLY dc787f5f
+"W-what's with that suspicious look?!"
+
+@MAO_FEV:509 PLY bc3c191f
+"Honestly..."
+
+@MAO_FEV:510 MAO f7414dd1
+"{V1227}{W20}Honestly,{W15} what?"
+
+@MAO_FEV:511.1 - debbb5de
+{Ti0}- Your skirt is too short!／- It's wrong to suspect people!／- You wear bloomers under it anyway, right?
+
+@MAO_FEV:512 PLY 975279f0
+"Your skirt is too short, Mao!"
+
+@MAO_FEV:513 MAO 0d5fd3a9
+"{V1228}{W15}Even so,{W10} peeping is a crime!"
+
+@MAO_FEV:514 PLY d3e78897
+"I told you, I didn't peek!"
+
+@MAO_FEV:515 MAO 703998c0
+"{V1229}...{W20}I-{W30}I see.{W30} If you insist,{W30} I'll believe you."
+
+@MAO_FEV:516 MAO 0f4834e3
+"{V1230}{W20}...Come to think of it,{W10}{Fe2m3} there's no way {Nn} would do that."
+
+@MAO_FEV:517 PLY e77f5460
+"Right. Honestly..."
+
+@MAO_FEV:518 MAO 7c78f1fd
+"{V1231}{W20}{Sp}Sorry, {Nn}."
+
+@MAO_FEV:519 PLY 0008eb50
+"It's fine. Don't worry about it."
+
+@MAO_FEV:520 PLY 8be822b1
+"It's wrong to suspect people!"
+
+@MAO_FEV:521 MAO 6f54d118
+"{V1232}{Sp}{W20}Ugh...{W40} that hits a sore spot..."
+
+@MAO_FEV:522 PLY 04182875
+"Mao, do I look like the kind of guy who'd peek up skirts?"
+
+@MAO_FEV:523 MAO a34a2314
+"{V1233}...{W10}No."
+
+@MAO_FEV:524 PLY a588dcd5
+"See? You must be out of your mind to suspect me."
+
+@MAO_FEV:525 MAO c0b83374
+"{V1234}{W20}S-{W20}sorry.{W30} You're right.{W50}{Fe6m3} {Nn} would never{W10} do that."
+
+@MAO_FEV:526 MAO 4d36c93b
+"{V1235}{W10}I must have panicked...{W30}{Fe9m2} Sorry, {Nn}. Suspecting you..."
+
+@MAO_FEV:527 PLY 52640209
+"You wear bloomers under it anyway, right?"
+
+@MAO_FEV:528 MAO 03c6b281
+"{V1236}{W10}No way!{W20} I'm not wearing any!"
+
+@MAO_FEV:529 PLY c73c7cac
+"Huh?! You're not wearing any?!"
+
+@MAO_FEV:530 MAO ad41c8cb
+"{V1237}{W20}{Sp}N-{W20}not that!{W30} I'm not wearing{W20} bloomers!"
+
+@MAO_FEV:531 PLY 71f5f0dd
+"O-oh, right. Whew, that startled me."
+
+@MAO_FEV:532 MAO e54dabaa
+"{V1238}{W10}Honestly,{W30} geez..."
+
+@MAO_FEV:533 PLY 6ab0f122
+"But now you know I didn't peek, right? I don't even know what you wear under there."
+
+@MAO_FEV:534 MAO f44deffb
+"{V1239}{W10}I-{W40}I guess."
+
+@MAO_FEV:535 MAO 3ee3c45f
+"{V1240}...{W20}Come to think of it,{W30} there's no way {Nn} would do that,{W30}{Fe9m3} so I must have panicked."
+
+@MAO_FEV:536 PLY 851b6dc4
+"Yeah."
+
+@MAO_FEV:537 MAO a92782d5
+"{V1241}{W20}Sorry, {Nn}."
+
+@MAO_FEV:538 PLY c34c489e
+"It's fine. Don't worry."
+
+@MAO_FEV:539 MAO d5283847
+"{V1242}{W10}Peepers show up on these stairs a lot."
+
+@MAO_FEV:540 PLY 47c9543b
+"Really?"
+
+@MAO_FEV:541 MAO 7ecc538a
+"{V1243}{W10}Next time I spot one,{W20} I'll definitely catch him!"
+
+@MAO_FEV:542 PLY 24cf5210
+"Don't do anything reckless..."
+
+@MAO_FEV:544 PLY 8689e8f2
+(Nobody in particular here... Ah!)
+
+@MAO_FEV:545 MAO 36f01cc4
+"{V1244}{W10}Huh? {W40}Is music next for{W30} {Nn}'s class?"
+
+@MAO_FEV:546 PLY 3ae2b87b
+"No, I was just wandering around..."
+
+@MAO_FEV:547 MAO d5609626
+"{V1245}{W20}Hmm,{W60} wandering around, huh..."
+
+@MAO_FEV:548 PLY 141fd7b4
+"Mao, are you good at music?"
+
+@MAO_FEV:549 MAO 51875cba
+"{V1246}{W10}Who do you think you're asking?{W30}{Fe4} You know I'm a good singer, right?"
+
+@MAO_FEV:550 PLY aba3c0e5
+"R-right. You love karaoke."
+
+@MAO_FEV:551 MAO ed32a483
+"{V1247}{W10}Yep.{W25} {Fe7}Textbooks,{W15} surprisingly, have recent hits in them,{W20} {Fe3}and with the teacher on piano,{W10} it's like karaoke."
+
+@MAO_FEV:552 MAO 2f1a5fc6
+"{V1248}{W10}Fufu,{W30} see you, {Nn}."
+
+@MAO_FEV:554 PLY 8b52b0c9
+(Time to go back to class...)
+
+@MAO_FEV:556 PLY 41eb87fd
+(Hm? What was that sound...?)
+
+@MAO_FEV:557 PLY 14181071
+(A shutter sound. Who on earth...)
+
+@MAO_FEV:558 PLY 63225729
+"Ah! Mao!"
+
+@MAO_FEV:559 MAO 6d259eb0
+"{V1249}{Sp}{W10}Ahaha,{W25} you caught me."
+
+@MAO_FEV:560 PLY 56d70ab7
+"That sound just now, was it a camera?"
+
+@MAO_FEV:561 MAO 1267bbb5
+"{V1250}{W10}Yep.{W20} I took it with my phone."
+
+@MAO_FEV:562 PLY bf5a5d8b
+"Took what?"
+
+@MAO_FEV:563 MAO 81e2fe51
+"{V1251}{W10}You, of course,{W20} {Nn}."
+
+@MAO_FEV:564 PLY 72d7bc5c
+"What?! Me?! ...Ask first before doing that."
+
+@MAO_FEV:565 MAO 584d55ee
+"{V1252}{W10}Sorry, sorry.{W15}{Ec}{W5}{F3}{Eo} I wanted a natural expression."
+
+@MAO_FEV:566 PLY 55f10f7c
+"What are you going to do with a photo of me?"
+
+@MAO_FEV:567 MAO b3a641a2
+"{V1253}{W10}I thought it might make a nice phone wallpaper~{Fe3}"
+
+@MAO_FEV:568 PLY 16782ab3
+"What?! W-well, that's a bit..."
+
+@MAO_FEV:569 MAO 81706cdc
+"{V1254}{W10}Come on, it's not like it costs you anything.{W20}{F2}{Ec} See you~!"
+
+@MAO_FEV:570 PLY 65bdf801
+"Ah, she's gone... She's pushy..."
+
+@MAO_FEV:572 MAO e0608570
+"{V1255}{W10}Oh, {Nn}, just the person I wanted."
+
+@MAO_FEV:573 PLY a3f844a9
+"Oh, Mao. What is it?"
+
+@MAO_FEV:574 MAO 97978b7e
+"{V1256}{W10}I'm heading up to the Rooftop.{W15} Want to come along?"
+
+@MAO_FEV:575 PLY 4120e6f3
+"Sure, but why?"
+
+@MAO_FEV:576 MAO d282a4ae
+"{V1258}{W20}Just come on!"
+
+@MAO_FEV:577 MAO 785c8e0e
+"{V1259}{W10}Look,{W30} {Nn},{W10} the sunset is beautiful!"
+
+@MAO_FEV:578 PLY 0363db10
+"You're right."
+
+@MAO_FEV:579 MAO 477b7a9d
+"{V1261}{W10}Fufu,{W50} don't you think a sunset seen with me{W30} is {Ec}extra beautiful?"
+
+@MAO_FEV:580 PLY 752bc6cc
+"Huh? Why?"
+
+@MAO_FEV:581 MAO 54f74dff
+"{V1262}{W10}Why,{W5}{W15} you ask...{W60}{Fe7} how to put it,{W40}{F3} doesn't it make you feel romantic?"
+
+@MAO_FEV:582 PLY ae3fc27b
+"...R-romantic, huh..."
+
+@MAO_FEV:583 MAO f2b06626
+"{V1263}{W10}You're so cold.{W55}{Ec}{W5}{Fe3}{Eo} Come on,{W30} let's go closer to the fence."
+
+@MAO_FEV:584 MAO dbeeab0c
+"{V1264}{W10}Now...{W40} hold{W40} my hand."
+
+@MAO_FEV:585 MAO f2909633
+"{V1265}{W10}It's fine, right?{W30} It's not like it costs you anything."
+
+@MAO_FEV:586 PLY 0d5d16d3
+(...Yeah, I think I did feel romantic.)
+
+@MAO_FEV:588 PLY 6a398650
+"Oh, Mao. What are you doing?"
+
+@MAO_FEV:589 MAO cadbcd8e
+"{V1266}{W10}Oh, {Nn}."
+
+@MAO_FEV:590 MAO c96bb9d7
+"{V1267}{W10}I have PE next."
+
+@MAO_FEV:591 PLY de087971
+"PE? Why are you still in uniform... Ah! Oh... I see..."
+
+@MAO_FEV:592 MAO f582a70a
+"{V1268}{W10}{Sp}W-{W30}what's with that knowing look?!{W30}{Fe9} Wrong!{W20} I'm feeling unwell!"
+
+@MAO_FEV:593 PLY e8d76415
+"Not feeling well, huh... Girls have it rough..."
+
+@MAO_FEV:594 MAO 4ccc52f6
+"{V1269}{W10}Geez{W20}! {W20}I said,{W10} that's not it!{W50}{Eo}{Br0t120} My blood pressure's been low since morning,{W30} and I'm a bit anemic!"
+
+@MAO_FEV:595 PLY 12ead286
+"Hmm..."
+
+@MAO_FEV:596 PLY 808a1484
+"You look pretty energetic for that, though?"
+
+@MAO_FEV:597 MAO 282a7c64
+"{V1270}{W10}Oh,{W55} raising my voice made me{W15} dizzy...{W30} Wobble, wobble..."
+
+@MAO_FEV:598 PLY 9c0c6edf
+"{Ts1}That's so fake..."
+
+@MAO_FEV:599 MAO 6a9e2970
+"{V1271}{W10}I can hear you, {Nn}."
+
+@MAO_FEV:600 PLY f3cbff5a
+"Hahaha... well, see you."
+
+@MAO_FEV:602 ETB 00c9528c
+"{V1006}Man,{W40} Mizusawa{W5} is so{W5} great{W5}~"
+
+@MAO_FEV:603 ETB 1e01b500
+"{V1105}Right?~{W40} She really{W5} is{W5}~"
+
+@MAO_FEV:604 PLY 70631e92
+(Hm? Gossip about Mao from the Year 3 classroom...)
+
+@MAO_FEV:605 ETB 60c11e35
+"{V1007}How do I put it...{W20} pheromones?{W45} There's something{W10} in the air around her{W5} that makes your{W5} heart race."
+
+@MAO_FEV:606 ETB 56ddfcfd
+"{V1106}Yes, exactly!{W5} During PE,{W5} I can't help sneaking looks~"
+
+@MAO_FEV:607 MAO e746987a
+"{V1272}{Nn}, what are you doing eavesdropping over there? Why{W5} not come in?"
+
+@MAO_FEV:608 MAO 6032f5f4
+"{V1273}{W10}{Sp}W-{W10}why,{W5} are you so startled?"
+
+@MAO_FEV:609 PLY b13e6efc
+"N-no, it's nothing."
+
+@MAO_FEV:610 PLY bdd2c51d
+"L-let's go over there!"
+
+@MAO_FEV:611 MAO 5bde188a
+"{V1274}{W10}W-{W10}why?{W20} If we're going to talk, my desk is fine."
+
+@MAO_FEV:612 SYS 51de65c5
+To think the boys in her own class gossip about her like that... I can't relax...
+
+@MAO_FEV:616 MAO 711e9c8e
+"{V5006}{W10}Let's{W30} see,{W45} volleyballs,{W30} volleyballs...{W15}"
+
+@MAO_FEV:617 MAO 90e64f68
+"{V5007}{W10}I can't carry them all at once...{W70} Three should do for now, I guess."
+
+@MAO_FEV:618 PLY 0d0ab461
+(Ah! That voice... Don't tell me class has already started?)
+
+@MAO_FEV:619 PLY 1851532d
+"{Ts1}Let's see outside..."
+
+@MAO_FEV:627 PLY f303d5d9
+({Ts3}Whoa!)
+
+@MAO_FEV:628 PLY e4f37074
+(B-bloomers, so close!)
+
+@MAO_FEV:629 PLY a7479877
+(Ugh... w-who is it? Should I peek at the other shelves too?)
+
+@MAO_FEV:630.1 - df527432
+{Ti0}- Upper shelf／- Lower shelf
+
+@MAO_FEV:631 PLY 8533d1ba
+(The upper shelf...)
+
+@MAO_FEV:638 PLY 83b963eb
+(Whoa! A-a chest! They're pretty big!)
+
+@MAO_FEV:639 PLY 3f3ce258
+(The lower shelf...)
+
+@MAO_FEV:643 PLY 888f80c6
+(Whoa! Th-thighs! They're slender and look nice...)
+
+@MAO_FEV:644 PLY 0a159107
+(Huh?! Wait, this is basically peeping!)
+
+@MAO_FEV:645 SYS dc2db933
+Clunk!
+
+@MAO_FEV:646 PLY 571cde3a
+(O-oh no!)
+
+@MAO_FEV:647 MAO 87cd6f84
+"{V5008}{W10}Who's there?! {W30}Is {W5}someone in there?!"
+
+@MAO_FEV:648 PLY 5c10325b
+(Uh-oh... she noticed me...)
+
+@MAO_FEV:651 MAO 8269700a
+"{V1275}{W10}I don't know who you are,{W40} but you'd better come out quietly, for your own sake!"
+
+@MAO_FEV:652 PLY 09373901
+(M-Mao! This is bad! What will she say if she sees me here...)
+
+@MAO_FEV:653 MAO eafc49fc
+"{V1276}{W10}{Eh}A peeping tom? {W30}Or {W5}a thief? {W60}{Eo}Either way,{W25} I'm handing you over to the police."
+
+@MAO_FEV:654 MAO 3ae47ac7
+"{V1277}{W10}Teacher! {W30}Could you come here, please~{W10}!"
+
+@MAO_FEV:655 PLY edca7ef7
+(T-this is bad... if this keeps up...)
+
+@MAO_FEV:656.1 - 396f2d67
+{Ti0}- Stay still／- Come forward
+
+@MAO_FEV:657 PLY f28f2269
+(What do I do... what do I do...)
+
+@MAO_FEV:658 MAO 6dd7bacf
+"{V1278}{W10}Teacher! {W10}Hurry! {W10}Over here, over here!"
+
+@MAO_FEV:659 PLY f10b6985
+(Eep, if I stay here, the teacher will come! Then I have no choice...)
+
+@MAO_FEV:660 PLY 95ddcf6e
+"{Ts1}M-Mao, it's me..."
+
+@MAO_FEV:662 MAO 20827184
+"{V1279}{W10}Hm? {W20}I don't recall knowing any peeping toms."
+
+@MAO_FEV:663 PLY 4a05b90e
+"It's me, {Nn}."
+
+@MAO_FEV:664 MAO 055b9572
+"{V1280}{W10}What?! {W30}{Nn}{W45}, is that{W15} you?! {W20}Why are you in there?!"
+
+@MAO_FEV:665 PLY d672ff64
+"Well, I was taking a nap and class started... I couldn't get out."
+
+@MAO_FEV:666 MAO 7ea82b58
+"{V1281}{W10}You're{W15} such an idiot~.{W50} Why would you sleep in a place like that?"
+
+@MAO_FEV:667 PLY 7cfed960
+"It was dark and comfortable..."
+
+@MAO_FEV:668 MAO 46692f73
+"{V1282}{W10}Sigh...{W70} {Eo}I always thought you were a little strange,{W35} but this is something else..."
+
+@MAO_FEV:669 PLY c82ead0f
+"You don't have to put it like that."
+
+@MAO_FEV:670 MAO 8be1924b
+"{V1283}{W10}Acting tough{W20} in a spot like that{W20} just looks uncool."
+
+@MAO_FEV:671 PLY 6fe25cb5
+"Ugh... help me out, Mao."
+
+@MAO_FEV:672 MAO fe50898c
+"{V1284}{W10}Oh, what am I going to do with you.{W50} I'll smooth it over for you,{W15} {F0}so sneak out at the next break."
+
+@MAO_FEV:673 PLY 7ec1f4b0
+"Th-thank you! I owe you one, Mao."
+
+@MAO_FEV:674 MAO 4fb0c83d
+"{V1285}{W10}See you, {Nn}."
+
+@MAO_FEV:675 MAO 185a39ea
+"{V1286}{W10}Oh,{W10} teacher,{W20} it's nothing! {W20}I got the {W5}volleyball~!"
+
+@MAO_FEV:678 PLY 6e3c476b
+(That was close...)
+
+@MAO_FEV:680 SYS 3b476999
+...And so I spent the time inside the vaulting box.
+
+@MAO_FEV:681 MAO a0fd7de6
+"{V1287}{W10}Oh, {Nn}."
+
+@MAO_FEV:682 PLY 4a15370f
+"Were you looking at the flowers?"
+
+@MAO_FEV:683 MAO c7df53a3
+"{V1288}{W10}Sort of.{W45} They were blooming so nicely,{Fe6} I was peeking at them, but..."
+
+@MAO_FEV:684 MAO 9a8ede62
+"{V1289}{W10}I'm bad with flower bed flowers.{W40} So{W20} I{W20} can't get close..."
+
+@MAO_FEV:685 PLY d9372ba1
+"Why?"
+
+@MAO_FEV:686 MAO 053dbc49
+"{V1290}{W10}Sometimes,{W35} on the backs{W20} of{W15} leaves or on the{W20} stems,{W30} {Ec}{Fm8}there are tiny bugs packed{W10} on, right?"
+
+@MAO_FEV:687 PLY dcd386ad
+"Oh yeah, that happens."
+
+@MAO_FEV:688 MAO 1d307374
+"{V1291}{W10}{Sp}I can't stand that.{W25} Just imagining it{W15} gives me goosebumps."
+
+@MAO_FEV:689 PLY 5ac2db0a
+"Hahaha, I see."
+
+@MAO_FEV:690 MAO d3fc993a
+"{V1292}{W10}Growing them in my room is {Fe9m3}fine, though."
+
+@MAO_FEV:691 MAO 389bb758
+"{V1293}See you, {Nn}."
+
+@MAO_FEV:693 PLY 04743d81
+(Okay, swimming next. I'm going to swim as hard as I can~)
+
+@MAO_FEV:694 PLY a0c3e9af
+(Huh? Who's that over there...?)
+
+@MAO_FEV:698 PLY 1d0023b4
+"Mao. What's wrong?"
+
+@MAO_FEV:699 MAO 06a05730
+"{V1294}{W10}Oh,{W20} that voice... {Nn}."
+
+@MAO_FEV:700 PLY 1d0cadf1
+"Huh? You don't have your contacts in."
+
+@MAO_FEV:701 MAO f354076d
+"{V1295}{W10}Right~,{W40} class ended and when I tried to put them in, I dropped one..."
+
+@MAO_FEV:702 PLY 30dc7903
+"What?! Here?"
+
+@MAO_FEV:703 MAO 611ceb74
+"{V1296}{W10}Yeah.{W30} Please look for it{W5} before it washes away~!"
+
+@MAO_FEV:704 PLY bd0da711
+"O-okay!"
+
+@MAO_FEV:705 PLY c4bd4dab
+"Didn't your classmates help you look?"
+
+@MAO_FEV:706 MAO 40a11966
+"{V1297}{W10}I was the last one{W5} out of the pool~."
+
+@MAO_FEV:707 MAO cfd0ba04
+"{V1298}{W10}While I was putting my contacts in, everyone went to the Locker Room..."
+
+@MAO_FEV:708 MAO 8dce181a
+"{V1299}I thought about going to get them, but{W10} when you drop a contact lens,{W8} it's best not to move around much."
+
+@MAO_FEV:709 PLY 4aec9a8b
+"Right. You'd lose track of where you dropped it."
+
+@MAO_FEV:710 MAO 453c70bf
+"{V1300}{W10}Exactly~.{W40} And{W10} it could wash away any time..."
+
+@MAO_FEV:711 PLY 34274b44
+"Okay, I'll look seriously!"
+
+@MAO_FEV:712 MAO 177caf06
+"{V1301}{W10}Please~!"
+
+@MAO_FEV:713 SYS 7399ba53
+.／.／.
+
+@MAO_FEV:714 PLY bcfb5c3f
+"I-I can't find it..."
+
+@MAO_FEV:715 MAO b2682695
+"{V1302}{W10}What do I do~?{W40} They're expensive,{W15} you know~{W5}!"
+
+@MAO_FEV:716 MAO 5b70bc4d
+"{V1303}{W10}What? Did you find it?!"
+
+@MAO_FEV:717 PLY 0e626548
+"Could it be......"
+
+@MAO_FEV:718 PLY d8f42aba
+"Mao... isn't that on your chest?"
+
+@MAO_FEV:719 MAO 895b19ba
+"{V1304}{W10}Huh?"
+
+@MAO_FEV:720 MAO c7aa81e4
+"{V1305}{W10}Oh! {W30}I{W10} found it~{W20}! {W30}{Fe9}Thanks, {Nn}!"
+
+@MAO_FEV:721 PLY e7c3e7ec
+"You're welcome."
+
+@MAO_FEV:722 MAO 08753300
+"{V1306}{W10}{Br100t120}Fufu,{W30} it was caught on my chest. {W30}{Ec}They're big, after all~"
+
+@MAO_FEV:723 PLY 0cfb720d
+"Hahaha... yeah..."
+
+@MAO_FEV:724 MAO b5f351e1
+"{V1307}{W10}What's{W10} with{W30} that half-hearted answer?"
+
+@MAO_FEV:725 PLY 296dab54
+"No, I do think they're big, yeah."
+
+@MAO_FEV:726 MAO 2e8973d5
+"{V1308}{W10}Right~{W15}?"
+
+@MAO_FEV:727 SYS 9a81ae9a
+...And so I searched for Mao's contact lens together with her.
+
+@MAO_FEV:729 ETB 6751f17a
+"{V1008}H-hey, isn't that..."
+
+@MAO_FEV:730 ETB 1779ef02
+"{V1107}...Yeah. What does she want in our classroom?"
+
+@MAO_FEV:731 PLY ad553fe2
+(Huh? The classroom is kind of buzzing.)
+
+@MAO_FEV:732 PLY 8e109137
+"Oh, Hiiragi. Everyone's so noisy, what's going on?"
+
+@MAO_FEV:733 AKI 38888e6d
+"{V0171}{W10}It's because of the visitor you've got."
+
+@MAO_FEV:734 PLY f560b1d7
+"Huh? For me?"
+
+@MAO_FEV:737 MAO d9a82498
+"{V1309}{W10}Fufu,{W30} I came to hang out."
+
+@MAO_FEV:738 PLY b38dace0
+"Oh, Mao!"
+
+@MAO_FEV:739 AKI 87bdab0d
+"{V0172}{W10}{Eh}Later, {Nn}."
+
+@MAO_FEV:740 PLY 5c77db49
+"Oh, Hiiragi..."
+
+@MAO_FEV:741 MAO bb100ae9
+"{V1310}Thanks for showing me the way."
+
+@MAO_FEV:742 AKI 41e2e3ee
+"{V0173}{Eo}Please, take your time."
+
+@MAO_FEV:743 PLY d8fc75d4
+"W-what do you need, Mao?"
+
+@MAO_FEV:744 MAO ee698ca4
+"{V1311}{W10}What do I{W15} need...{W40} {Eh}Geez,{W20} you're so cold~.{W40} Was it a bother that I came?{Eo}"
+
+@MAO_FEV:745 PLY 6fcf7608
+"N-no, not at all. I was just surprised..."
+
+@MAO_FEV:746 PLY 7f7d4b49
+(Ugh... everyone's staring...)
+
+@MAO_FEV:747 MAO 0ac83a57
+"{V1312}{W10}Hey,{W10} did you know? {W20}In my second year, {W35}this was my classroom too."
+
+@MAO_FEV:748 PLY 50005edf
+"Huh? Really?"
+
+@MAO_FEV:749 MAO c46a673f
+"{V1313}{W10}Yep.{W30} My favorite was the{W10} back{W5} window seat.{W25} Even after seat changes,{W30} I'd ask people to swap.{W30} {Ec}So nostalgic~"
+
+@MAO_FEV:750 PLY 5d402ccb
+"Hahaha, that's so like you, Mao."
+
+@MAO_FEV:751 MAO 31453bf1
+"{V1314}{W10}...Actually,{W30} in the corner of the window{W10} I secretly{W20} carved{W5} M-a-o{W5} into it.{W10}{Ec}"
+
+@MAO_FEV:752 PLY 025762e0
+"I never noticed. Where is it?"
+
+@MAO_FEV:753 MAO 3083a9ac
+"{V1315}{W10}Fufu,{W30} th{W5}is way, this way."
+
+@MAO_FEV:754 SYS 55ec12f2
+...And so I went with Mao to check the carving.
+
+@MAO_FEV:755 SYS 911c42ae
+There, sure enough, "Mao" was carved where it wouldn't stand out.

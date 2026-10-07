@@ -1,0 +1,65 @@
+# MIT_TEN -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MIT_TEN:40 MIT 3a74a8bb
+"{V0010}Ah,{W40} Master,{W45} good morning."
+
+@MIT_TEN:42 MIT 4dc3e384
+"{V0009}Ah,{W25} {Nm},{W30} good morning."
+
+@MIT_TEN:43 PLY a04abc40
+"Morning, Shijou."
+
+@MIT_TEN:46 PLY 6e569c57
+"Ah, morning, Shijou."
+
+@MIT_TEN:48 MIT e7d258db
+"{V0012}Ah,{W40} good morning,{Ec} Master."
+
+@MIT_TEN:49 MIT 7dc99375
+"{V0011}Ah,{W40} good morning, {Nm}."
+
+@MIT_TEN:50 MIT 695d0357
+"{V0013}{W2}It is another{Ec} lovely day, is it not?"
+
+@MIT_TEN:51 PLY e3f8be68
+"Yeah, it is."
+
+@MIT_TEN:53 MIT 1bd791ba
+"{V0015}Master,{W50}{Ec} good morning.{Eo}"
+
+@MIT_TEN:54 MIT 09be039f
+"{Nm},{V0014}{Ec} good morning.{Eo}"
+
+@MIT_TEN:56 MIT 9b876e85
+"{V0016}{Ec}{W2}I hope it will be another{Eo} good day."
+
+@MIT_TEN:60 MIT a09a02ce
+"{V0018}Master,{W50}{Ec} good{W2} morning.{Eo}"
+
+@MIT_TEN:61 MIT bb0fbd22
+"{Nm},{V0017}{Ec} good morning.{Eo}"
+
+@MIT_TEN:62 MIT 269da751
+"{V0019}{Ec}Well then,{W20}{Eo} excuse me."
+
+@MIT_TEN:63 PLY e03a6130
+"Yeah, see you."
+
+@MIT_TEN:66 MIT d5a2ebc0
+"{V0021}Ah...{W45} Master,{W44}{F3} good morning."
+
+@MIT_TEN:67 MIT 45f89868
+"{V0020}{W5}Ah{W10}...{W60} {Nm},{W20}{F3} good morning."
+
+@MIT_TEN:68 MIT 762627f2
+"{V0022}{W2}Today, too,{W30}{Ec} it looks like it will{Eo} be a good day."
+
+@MIT_TEN:69 PLY 851b6dc4
+"Yeah, it does."
+
+@MIT_TEN:72 MIT 99932d73
+"{V0012}{F4}Ah,{W40}{F3} good morning,{W30}{Ec} Master."
+
+@MIT_TEN:73 MIT bf1234a7
+"{V0011}{F4}Ah,{W40}{F3} good morning, {Ti1}{Nm}."

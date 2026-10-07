@@ -1,0 +1,323 @@
+# ASU_DEA -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_DEA:17 - 64c62dc2
+girl
+
+@ASU_DEA:20 ASU 5804e612
+"{V5000}{W5}Here goes!"
+
+@ASU_DEA:26 ASU 11f581e7
+"{V5001}{W10}Take that!"
+
+@ASU_DEA:27 PLY cc9ab29d
+(Hm? What's that sound? Is it coming from the schoolyard?)
+
+@ASU_DEA:28 PLY 1d059b7d
+"There's nobody..."
+
+@ASU_DEA:29 ASU 3768843b
+"{V5002}Ah!"
+
+@ASU_DEA:30 PLY 21e4acd1
+"Huh?!"
+
+@ASU_DEA:49 ASU fa057d82
+"{V5003}{W5}Watch{W3} out!{W8} Get out of the way!"
+
+@ASU_DEA:50 PLY b06e61ff
+"Waaah!"
+
+@ASU_DEA:85 SYS 9769f239
+{Ti0}{Ts1}{Ts2}{Ts4}Thud!{As0}{b0}
+
+@ASU_DEA:92 PLY 3cd6a13a
+"Ow ow ow ow ow ow ow ow"
+
+@ASU_DEA:93 ASU 302fb7cd
+"{V5004}S-{W10}sorry!{W15} Are you okay?{W35} Did you get hurt?"
+
+@ASU_DEA:94 PLY 5437332b
+"I-I'm okay... What about you?"
+
+@ASU_DEA:95 ASU 31b11849
+"{V5005}I-{W30}I{W5} am{W2} used to it..."
+
+@ASU_DEA:98 ASU 65bbcaab
+"{V5006}I'm really sorry.{W30} I got so caught up in practice..."
+
+@ASU_DEA:99 PLY 5a48415c
+"Practice? Practice with that ball... Soccer?!"
+
+@ASU_DEA:101 ASU 25cfcac8
+"{V5007}Yeah.{W10} {F3}{Eo}What about it?"
+
+@ASU_DEA:102 PLY 8001be83
+"But you're a girl?"
+
+@ASU_DEA:104 ASU e4d6da0e
+"{V5008}Ahaha,{W5}{W3}{W30} I get that a lot.{W35} {F3}{Eo}'Why is a girl playing soccer?'"
+
+@ASU_DEA:105 PLY bd9c58ef
+"Oh... Sorry, I didn't mean it like that..."
+
+@ASU_DEA:106 ASU 7110aa32
+"{V5009}{W5}It's{W3} fine,{W3} it's{W3} fine.{W10} {F3}It's true, after all."
+
+@ASU_DEA:107 ASU 1823f9ab
+"{V5010}{W10}Phew...{W60} I'm{W5} so{W5} close to getting the Asuka Turn down..."
+
+@ASU_DEA:108 PLY 55609dd8
+"Asuka Turn?"
+
+@ASU_DEA:109 ASU 564216df
+"{V5011}Yeah."
+
+@ASU_DEA:110 ASU 81a96c79
+"{V5012}It's a feint for dodging a defender in front of the goal.{W15} I came up with it myself, of course."
+
+@ASU_DEA:111 PLY d0496004
+"H-hmm..."
+
+@ASU_DEA:112 PLY ae9b0641
+(She's a bit of an odd girl.)
+
+@ASU_DEA:113 PLY 61a42a57
+"...Huh? Wait a second. Do we even have a girls' soccer club?"
+
+@ASU_DEA:114 ASU 177fc5cf
+"{V5013}We don't."
+
+@ASU_DEA:115 PLY e35832b2
+"You don't? Then..."
+
+@ASU_DEA:116 ASU 1ceb04b9
+"{V5014}We don't,{W20} so I'm in the boys' soccer club!"
+
+@ASU_DEA:117 PLY 2bfaf72b
+"Huh?! But you're a girl?"
+
+@ASU_DEA:118 ASU 0925a931
+"{V5015}That's right,{W10} even though I'm a girl."
+
+@ASU_DEA:120 ASU 9d1167e0
+"{V5016}Ahaha,{W60} {Eo}it's fine, really.{W10} Don't worry about it."
+
+@ASU_DEA:121 PLY 71d274fa
+"Still, I'm amazed your adviser let you join."
+
+@ASU_DEA:122 ASU 25e740d7
+"{V5017}Hehe,{W28} I can't play in matches,{W10} but {F2}I'm a good{W3} practice partner."
+
+@ASU_DEA:123 ASU 349dcb1f
+"{V5018}I know it's odd to say so myself,{W30} but {F2}{Ec}I'm good,{W5} really."
+
+@ASU_DEA:124 PLY d96b6acc
+"Wow."
+
+@ASU_DEA:125 PLY f3c948fc
+(Now that she says it, she does look athletic.)
+
+@ASU_DEA:126 ASU c1093b99
+"{V5019}I'm{W40} in Class 2-C,{W10} Sakino Asuka."
+
+@ASU_DEA:127 PLY a873d287
+"Oh... I'm {Nm} {Nn}, from Class 2-A."
+
+@ASU_DEA:129 ASU e178bdca
+"{Nm}, huh? {V0000}Nice to meet you.{Ec}"
+
+@ASU_DEA:130 PLY 325676ce
+"Nice to meet you, too."
+
+@ASU_DEA:131 ASU a05da4c3
+"{V0001}If you're free, come watch the soccer club practice.{W10} {F2}{Ec}Hehe,{W45} {Eo}I get jostled around by all the boys."
+
+@ASU_DEA:132 PLY 2c343937
+(J-jostled around...?)
+
+@ASU_DEA:133 ASU 5107916a
+"{V0002}See ya!"
+
+@ASU_DEA:135 PLY 706f6b1b
+(Sakino, huh... What an energetic girl.)
+
+@ASU_DEA:136 PLY 8172339e
+(Another nice day today...)
+
+@ASU_DEA:137 PLY 9ef91818
+(Or rather, it's scorching out here. P.E. on a day like this must be rough.)
+
+@ASU_DEA:139 PLY a4390daa
+(Hm? A soccer ball rolled over here.)
+
+@ASU_DEA:140 ASU e49879bf
+"{V5020}Ah! Sorry! Could you grab that for me?"
+
+@ASU_DEA:141 PLY 122df4f6
+"Huh?"
+
+@ASU_DEA:143 ASU 5e8cb0b2
+"{V5021}I messed up while I was juggling.{W20} {F9}I'd gotten up to fifty, too."
+
+@ASU_DEA:144 PLY 2401dabb
+"R-right..."
+
+@ASU_DEA:145 PLY 924f5a22
+"Here you go."
+
+@ASU_DEA:146 ASU 937eeb4b
+"{V5022}Thanks."
+
+@ASU_DEA:147 PLY 8d789d57
+"Is your next class P.E.?"
+
+@ASU_DEA:148 ASU a2d6e7a0
+"{V5023}Yeah.{W10} Why?"
+
+@ASU_DEA:149 PLY c6fb8adf
+"Do the girls even have soccer in P.E.?"
+
+@ASU_DEA:150 ASU 75edc605
+"{V5024}Oh,{W25} no, no.{W30} {Ec}This is my own ball."
+
+@ASU_DEA:151 ASU 6c179af9
+"{V5025}I've got time before P.E.,{F3} so I was practicing.{W20} {F2}{Ec}I'm,{W10} like, in the soccer club."
+
+@ASU_DEA:152 PLY 5cf5173c
+"Oh, really?"
+
+@ASU_DEA:153 PLY 69b7528c
+"...Huh? Do we even have a girls' soccer club?"
+
+@ASU_DEA:154 ASU 096752b2
+"{V5026}We don't."
+
+@ASU_DEA:155 PLY d007d9c9
+(Whew, I'm finally done tidying up the gym storeroom.)
+
+@ASU_DEA:159 PLY 6f3e476c
+(When Ms. Kawada asks me for something, I just can't say no...)
+
+@ASU_DEA:160 PLY 845a09ce
+(It's hard to say no when Ms. Kawada asks...)
+
+@ASU_DEA:161 PLY 6afe1ef7
+(Hm? A soccer ball in a place like this...)
+
+@ASU_DEA:162 ASU 6d8e13c3
+"{V5027}Oh, sorry. That's mine."
+
+@ASU_DEA:164 ASU f3e5dd37
+"{V5028}Thanks for picking it up.{W20} It rolled away while I was changing{W10} my shoes."
+
+@ASU_DEA:165 PLY 696225c1
+"I see."
+
+@ASU_DEA:166 ASU c68d0acd
+"{V5030}I'm on my way to practice."
+
+@ASU_DEA:167 PLY 16ac93a2
+"H-huh..."
+
+@ASU_DEA:168 ASU 365c5d90
+"{V5031}What's wrong?{W20} You're staring."
+
+@ASU_DEA:169 PLY 6da78073
+"You're... a girl, right?"
+
+@ASU_DEA:170 ASU 8dbb1ae1
+"{V5032}Of course!{W30} Do I look like a boy?"
+
+@ASU_DEA:171.1 - 4695f1b7
+{Ti0}- N-no...／- For a second I couldn't tell／- For a guy, that chest is...
+
+@ASU_DEA:172 PLY f2be48a0
+"N-no... But that's a soccer ball, isn't it?"
+
+@ASU_DEA:173 ASU 1de8ae2c
+"{V5033}Yeah.{W15} Why?"
+
+@ASU_DEA:174 PLY 0db77a58
+"Do we even have a girls' soccer club?"
+
+@ASU_DEA:175 PLY d031477c
+"For a second I couldn't tell."
+
+@ASU_DEA:177 ASU c7f32152
+"{V5034}Ahaha,{W35} I get that a lot.{W45} {Ec}People say I look like a boy."
+
+@ASU_DEA:179 PLY 21ae4586
+"Ah, no, um... sorry."
+
+@ASU_DEA:180 ASU ddb716b4
+"{V5035}It's fine, really.{W5} It's true, after all."
+
+@ASU_DEA:181 PLY cd97426c
+"Still, do we even have a girls' soccer club?"
+
+@ASU_DEA:182 PLY 34eb593a
+"For a guy, that chest is..."
+
+@ASU_DEA:183 ASU fffcc46f
+"{V5036}{E}Huh?!{E}"
+
+@ASU_DEA:184 ASU 7b8fb8ef
+"{V5037}......"
+
+@ASU_DEA:185 PLY 0d80b9d5
+"......"
+
+@ASU_DEA:186 ASU d47da898
+"{V5038}People do say I look like a boy,{W45} {F9}but this is the first time{W30} anyone's told by my chest."
+
+@ASU_DEA:187 PLY 6c1b2754
+"S-sorry."
+
+@ASU_DEA:189 ASU e91ba208
+"{V5039}We don't."
+
+@ASU_DEA:190 ASU ff40460f
+"{V5040}We don't,{W15} so I'm in the boys' soccer club!{Ec}"
+
+@ASU_DEA:191 ASU 54b7d8dd
+"{V5041}That's right,{W10} even though I'm a girl."
+
+@ASU_DEA:192 ASU 0701fc50
+"{V5042}Ahaha,{W15} it's fine, really.{W10} {Eo}Don't worry about it."
+
+@ASU_DEA:193 ASU fd5578d3
+"{V5043}Hehe,{W20} I can't play in matches,{W20} but I'm a good practice partner."
+
+@ASU_DEA:194 ASU 768b1f30
+"{V5044}I know it's odd to say so myself,{W20} but I'm good,{W5} {Ec}really."
+
+@ASU_DEA:195 ASU aa06697c
+"{V5045}Once the Asuka Turn is perfected,{W5} I won't lose to any boy."
+
+@ASU_DEA:196 ASU 89f7bfc2
+"{V5046}Yeah."
+
+@ASU_DEA:197 ASU ca0f3948
+"{V5047}It's a feint for dodging a defender in front of the goal. I came up with it myself, of course."
+
+@ASU_DEA:198 ASU 0dc4a090
+"{V5040}We don't,{W20} so I'm in the boys' soccer club!"
+
+@ASU_DEA:199 ASU 2ba268a7
+"{V5041}That's right,{W20} even though I'm a girl."
+
+@ASU_DEA:200 ASU 3d24db50
+"{V5042}Ahaha,{W25} it's fine, really.{W8} Don't worry about it."
+
+@ASU_DEA:201 ASU 08205ca7
+"{V5043}Hehe,{W30} I can't play in matches,{W15} but I'm a good practice partner."
+
+@ASU_DEA:202 ASU 3e908cdb
+"{V5044}I know it's odd to say so myself,{W20} but I'm good,{W5} {Ec}really."
+
+@ASU_DEA:204 ASU a5a722e8
+"{V5045}Once the Asuka Turn is perfected,{W10} I won't lose to any boy."
+
+@ASU_DEA:205 ASU a5561097
+"{V5047}It's a feint for dodging a defender in front of the goal.{W35}{Ti2} I came up with it myself, of course."

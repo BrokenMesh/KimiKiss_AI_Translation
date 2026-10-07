@@ -1,0 +1,203 @@
+# YUM_MST -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@YUM_MST:15 - 961bdeb8
+Protagonist's remaining cards:
+
+@YUM_MST:27 PLY 6f2a417d
+(Ah... that's Hoshino)
+
+@YUM_MST:30.1 - 5814483a
+{Ti0}- Talk to Hoshino／- Don't talk to her now
+
+@YUM_MST:31 PLY 10e9cedb
+"Hoshino, what are you doing?"
+
+@YUM_MST:45 YUM 80622a55
+"{V1475}{W10}Oh, {Nm}."
+
+@YUM_MST:46 PLY bea7c236
+"Do you have a moment?"
+
+@YUM_MST:48 YUM 12c2c930
+"{V1476}Yes,{W40} that's fine, but..."
+
+@YUM_MST:50 YUM d7d76111
+"{V1477}I'm sorry.{W40} I have to go somewhere...{Ec}"
+
+@YUM_MST:51 PLY 308d3155
+"I see... what a shame."
+
+@YUM_MST:53 YUM e7d6aa43
+"{V1481}Well then...{W35} I{W15} need to hurry, so I'll be going."
+
+@YUM_MST:54 PLY 60b7a65c
+"Okay. See you."
+
+@YUM_MST:56 YUM 14fc5272
+"{V1482}Yes,{W25} see you."
+
+@YUM_MST:57 YUM 6aac859f
+"{V1483}Ah...{W60} I'm sorry.{W20} {F6}I have to go back and change now..."
+
+@YUM_MST:58 PLY c6ead430
+"Oh, right..."
+
+@YUM_MST:59 PLY ff7c139b
+"See you, Hoshino."
+
+@YUM_MST:60 YUM 76a2b9e7
+"{V1484}Yes,{W40} see you."
+
+@YUM_MST:61 PLY ec90c3a4
+(I'll talk to Hoshino another time, I guess...)
+
+@YUM_MST:72 YUM 3414bf6a
+"{V1485}{W5}Ah... {Nm}."
+
+@YUM_MST:73 PLY 0122c884
+"Oh, Hoshino."
+
+@YUM_MST:76 YUM bfb712f9
+"{V1486}......"
+
+@YUM_MST:77 PLY c0bdaccc
+"What's wrong?"
+
+@YUM_MST:78 YUM 1bbb24e8
+"{V1487}...Um,{W90} if you have time,{W25} I was wondering if we could talk a little...{W15}"
+
+@YUM_MST:80.1 - ebc8ac86
+{Ti0}- Sure, okay／- Sorry, I can't right now
+
+@YUM_MST:81 PLY cf543578
+"Sure, okay."
+
+@YUM_MST:82 YUM 932f696d
+"{V1488}{W5}Really?{W50} I'm glad..."
+
+@YUM_MST:84 PLY 66aff371
+"Sorry, I can't right now."
+
+@YUM_MST:85 YUM aab35243
+"{V1489}{W10}I{W20} see..."
+
+@YUM_MST:86 YUM 5d1bcfee
+"{V1490}Sorry,{W15} for talking to you out of the blue..."
+
+@YUM_MST:87 PLY 6efdb696
+"No... I'm the one who's sorry."
+
+@YUM_MST:88 YUM 84c78612
+"{V1491}No, not at all.{W6}{Eo}{0} Then,{W15} I'll be going."
+
+@YUM_MST:89 PLY ca2ae96b
+"Okay. See you."
+
+@YUM_MST:91 YUM d5052bb7
+"{Nm}."
+
+@YUM_MST:92 PLY 8fab94c5
+"If you're free, want to talk for a bit?"
+
+@YUM_MST:93 YUM 6014e036
+"{V1494}Yes.{W45} I{W20} wanted to talk with you too, {Nm}{Ec}."
+
+@YUM_MST:95 YUM 58ef96b7
+"{V1495}{W10}Ah...{W55} I'm sorry.{W25} There's something I really have to do..."
+
+@YUM_MST:96 PLY f514ff83
+"I see. ...Then it can't be helped."
+
+@YUM_MST:97 YUM 238b2292
+"{V1496}Just when I can finally talk with you, {Nm},{W30} {Eo}what a shame..."
+
+@YUM_MST:98 PLY e2b3ed61
+"See you, then."
+
+@YUM_MST:99 YUM 155528a8
+"{V1498}Mm.{W30} See you..."
+
+@YUM_MST:100 YUM 8f133130
+"{V1499}Ah...{W70} But...{W30} {F6}I have to change already..."
+
+@YUM_MST:101 PLY aa8381d7
+"I see... then it can't be helped."
+
+@YUM_MST:102 YUM 1fd45810
+"{V1500}Mm."
+
+@YUM_MST:103 YUM 0092c6f2
+"{V1501}Yes,{W25} see you."
+
+@YUM_MST:107 YUM 7a1274b8
+"{V1503}What are you doing?{W55} If you don't mind...{W25} could we talk{W10} a little?"
+
+@YUM_MST:108.1 - 4a90b521
+{Ti0}- Sure, okay／- Sorry, I can't right now
+
+@YUM_MST:109 YUM 9d823ee7
+"{V1504}{W5}Really?{W35} {F2}{Ec}I'm glad..."
+
+@YUM_MST:110 PLY 9130a981
+"Sorry, I can't right now."
+
+@YUM_MST:111 YUM ed5da579
+"{V1505}{W10}I{W10} see...{W45} {Fe9}{Ec}What a shame..."
+
+@YUM_MST:112 YUM 71be6aac
+"{V1506}Well then,{W25} see you."
+
+@YUM_MST:113 PLY e03a6130
+"Okay, see you."
+
+@YUM_MST:114 PLY 5128afa1
+"Hoshino..."
+
+@YUM_MST:115 PLY c3c269c7
+"If you don't mind... want to talk for a bit?"
+
+@YUM_MST:116 YUM 715ae7b5
+"{V1508}Yes.{W45} I wanted to talk too."
+
+@YUM_MST:117 YUM 8d773480
+"{V1509}Ah...{W60} I'm sorry.{W30} I have something I really have to do..."
+
+@YUM_MST:118 PLY 66be392e
+"I see... Then it can't be helped."
+
+@YUM_MST:119 YUM 5827dfd4
+"{V1510}Mm..."
+
+@YUM_MST:120 PLY 1c093381
+"See you, Hoshino."
+
+@YUM_MST:121 YUM 5d9e5bf9
+"{V1511}Yes.{W45} See you..."
+
+@YUM_MST:122 YUM e9bf1196
+"{V1512}{W10}Ah...{W60} I'd like to talk too, but...{W60} I have to change now..."
+
+@YUM_MST:123 PLY 876a2929
+"I see..."
+
+@YUM_MST:124 YUM 5f2b4461
+"{V1513}{W5}Yes,{W30} see you..."
+
+@YUM_MST:129 YUM 4c6ce84f
+"{V1515}Right now...{W55} do you have a moment?"
+
+@YUM_MST:130.1 - 4a90b521
+{Ti0}- Sure, okay／- Sorry, I can't right now
+
+@YUM_MST:131 YUM 7ec9ad01
+"{V1516}{Ec}{W5}I'm glad..."
+
+@YUM_MST:132 YUM bebf9cd5
+"{V1517}Ah..."
+
+@YUM_MST:134 YUM 0902f625
+"{V1518}I{W10} see...{W55} Well then,{W30} {Ec}see you...{W10}"
+
+@YUM_MST:135 PLY fccf9db2
+"Okay... see you."

@@ -1,0 +1,143 @@
+# NAR_GKE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_GKE:26 SYS 1b192009
+A mirror match?! Impossible!
+
+@NAR_GKE:54 NAR b9434712
+"{V0639}{W8}{F3}Ah!{Ti0} {Ti2}{Nm}{W3}{W6}{W6}!"
+
+@NAR_GKE:55 PLY c7fc9177
+"Oh, Narumi. Are you on your way to the school gate?"
+
+@NAR_GKE:58 NAR 7461c68d
+"{V0640}{W8}Yes,{W5} that's{W1} right!"
+
+@NAR_GKE:59 PLY e3d28766
+"I see. Good timing, then."
+
+@NAR_GKE:60 NAR 2b35fcc7
+"{V0642}{W8}{F3}Ah!{Ti0} {Ti2}{W15}Senpai!{W12}{W12}"
+
+@NAR_GKE:61 PLY 4209ef93
+"Narumi, sorry, were you waiting long?"
+
+@NAR_GKE:62 NAR 459c347e
+"{V0643}{W8}No,{W8} {Ec}not at{W3} all."
+
+@NAR_GKE:64 PLY 759bf107
+"Shall we go, then?"
+
+@NAR_GKE:66 NAR f009aa8d
+"{V0641}{W12}Yes!"
+
+@NAR_GKE:67 PLY 3e1dc7fb
+"I see, good. Then let's go."
+
+@NAR_GKE:68 NAR fd326b41
+"{V0644}{W8}Yes!"
+
+@NAR_GKE:71 NAR 95f9bd0c
+"{V0645}{W8}{F3}Ah!{Ti0} {Ti2}{W5}{Nm}{W3}{W8}{W8}!"
+
+@NAR_GKE:72 NAR 8c973da2
+"{V0646}{W8}Yes,{W8} that{W1} is{W1} right!"
+
+@NAR_GKE:73 NAR dc63c69c
+"{V0647}{W8}Meeting{W3} you{W1} here,{W15} {F3}what{W6} a{W6} coincidence{W1}, isn't{W1} it?"
+
+@NAR_GKE:74 PLY 1b758669
+"Hahaha, you're right."
+
+@NAR_GKE:75 NAR be521dc7
+"{V0649}{W12}{F3}Ah!{Ti0} {Ti2}{W12}{Nm}{W3}{W6}{W8}~!"
+
+@NAR_GKE:76 PLY fe3d464f
+"Narumi, did I keep you waiting?"
+
+@NAR_GKE:77 NAR 7851c48d
+"{V0650}{W8}No{W2}{W2},{W24} {Ec}I{W8} just{W3} got here too."
+
+@NAR_GKE:78 NAR 179a3d47
+"{V0648}{W8}{Ec}{F2}Yes!"
+
+@NAR_GKE:79 PLY 6b83e6fc
+"Then let's walk home together."
+
+@NAR_GKE:80 NAR 2869b372
+"{V0651}{W8}{Ec}{F2}Yes!"
+
+@NAR_GKE:81 NAR d0846661
+"{V0652}{W8}{F3}Ah!{Ti0} {Ti2}{W3}{Nm}{W3}{W6}{W8}!"
+
+@NAR_GKE:82 PLY 93deb735
+"Oh, Narumi."
+
+@NAR_GKE:83 NAR 07450b81
+"{V0653}{W12}{F4}Meeting{W1} you{W1} here,{W16} {Ec}{F2}what{W5} an{W3} amazing{W3} coincidence{W7}{W7}~!"
+
+@NAR_GKE:84 PLY 851b6dc4
+"You're right."
+
+@NAR_GKE:85 NAR 67058d07
+"{V0655}{W15}{F4}Ah!{Ti0} {Ti2}{W15}{Fe9}{Nm}{W5}{W6}{W8}~{W3}!"
+
+@NAR_GKE:87 NAR bbbf2abc
+"{V0656}{W15}{Fe6}{Ec}Senpai,{W6}{W6}{W8} you're{W12} late{W6}{W6}~{W3}~{W3}.{W30} {Eo}{Fe9}I've{W1} been waiting{W2} a really long{W1} time."
+
+@NAR_GKE:88 PLY b353762c
+"Sorry, sorry..."
+
+@NAR_GKE:89 PLY bb59555c
+"S-sorry, sorry."
+
+@NAR_GKE:90 NAR 014771e1
+"{V0654}{W8}Yes!"
+
+@NAR_GKE:91 NAR 7711822e
+"{V0657}{W12}No{W1}{W3},{W24} {Eo}{Fm3}it's fine{W1}.{W39} {F2}Well,{W15} {Ec}let's go."
+
+@NAR_GKE:95 NAR cedab6a2
+"{V0658}{W12}Ah!{Ti0} {Ti2}{W3}{Nm}{W15}{W12}!"
+
+@NAR_GKE:96 NAR 3177b061
+"{V0659}{W8}{Ec}Yes,{W12} that's right!"
+
+@NAR_GKE:97 PLY a8a36c90
+"I see, then it's good timing."
+
+@NAR_GKE:98 NAR b96d4e64
+"{V0660}{W12}Senpai,{W5}{W5} I{W2} got{W1} to{W1} meet{W4} you{W1} a little early,{W18} so I'm lucky."
+
+@NAR_GKE:99 NAR 251f6332
+"{V0662}{W8}Oh,{W5} {Nm}{W3}{W3}{W3}"
+
+@NAR_GKE:100 PLY 8903da6d
+"Sorry, did I keep you waiting?"
+
+@NAR_GKE:101 NAR 4cd021fc
+"{V0663}{W8}{Ec}No,{W18} it's{W1} all{W2} right.{W15} {Eo}I just{W5} got{W1} here."
+
+@NAR_GKE:102 PLY 69236d6c
+"Hahaha, then let's go."
+
+@NAR_GKE:104 NAR 01f28d3d
+"{V0661}{W5}Yes!"
+
+@NAR_GKE:105 PLY 990144d4
+"I see. Then let's go."
+
+@NAR_GKE:106 NAR 8c3b8e32
+"{V0664}{W8}Yes."
+
+@NAR_GKE:111 NAR 2c1deb7d
+"{V0669}{Nm}{W4}{W5},{W12} is something the matter?"
+
+@NAR_GKE:112 PLY 91107df6
+"Huh? Oh, no, it's nothing."
+
+@NAR_GKE:113 PLY 3850afdd
+"Well, let's go!"
+
+@NAR_GKE:114 NAR d05a54e3
+"{V0670}{W12}{Ec}{Fe2}Yes!"

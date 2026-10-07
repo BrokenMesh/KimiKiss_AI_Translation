@@ -1,0 +1,206 @@
+# ASU_TEL -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_TEL:10 PLY 31318805
+"Hello, {Nm} speaking."
+
+@ASU_TEL:12 ASU 271a92b5
+"{V1181}I'm sorry to call so late at night.{W25} This is Sakino{W5} speaking..."
+
+@ASU_TEL:14 PLY c508d813
+"Oh, Sakino? It's me."
+
+@ASU_TEL:15 ASU 23747486
+"{V1182}Oh, {Nm}?"
+
+@ASU_TEL:16 PLY 28c5d3a3
+"What's up? It's rare for you to call."
+
+@ASU_TEL:17 ASU 6de7439c
+"{V1183}Yeah,{W5} well..."
+
+@ASU_TEL:18 ASU bcd19617
+"{V1184}It's just...{W50} this weekend,{W30} I can't make it anymore..."
+
+@ASU_TEL:21 PLY 122df4f6
+"Huh?"
+
+@ASU_TEL:23 ASU 4f316211
+"{V1185}Something came up that I really...{W15} have to do.{W13} So..."
+
+@ASU_TEL:24 PLY 6c6b1e77
+"R-right..."
+
+@ASU_TEL:25 ASU 3aa1d65f
+"{V1186}I'm sorry.{W43} I{W2} was looking forward to it, too..."
+
+@ASU_TEL:26 PLY 43c3660c
+"...That's a shame, but it can't be helped..."
+
+@ASU_TEL:27 ASU 56560f35
+"{V1187}Yeah..."
+
+@ASU_TEL:29 ASU 4ae3a35f
+"{V1188}{Nm}, if you don't mind,{W10} ask me again.{W60} Maybe,{W5} by then I'll be able to go."
+
+@ASU_TEL:30 PLY f3ccaf7c
+"I see... Okay."
+
+@ASU_TEL:34 ASU c4e66449
+"{V1189}Well then...{W40} good night, {Nm}."
+
+@ASU_TEL:35 PLY 25bbb138
+"Yeah, good night, Sakino."
+
+@ASU_TEL:37 PLY f75d6b6c
+(What a letdown...)
+
+@ASU_TEL:38 ASU 80f0c93c
+"{V1190}I'm sorry{W3} for calling{W3} so late.{W35} This is Sakino{W3} speaking..."
+
+@ASU_TEL:39 ASU d78c8f06
+"{V1191}Oh, {Nm}?"
+
+@ASU_TEL:40 ASU 364d1936
+"{V1192}...The reason I'm calling,{W30} don't you know?"
+
+@ASU_TEL:41 PLY 7cb658b8
+"Huh...?"
+
+@ASU_TEL:42 ASU 7ba7909c
+"{V1193}Today,{W30} why{W3} didn't you come?"
+
+@ASU_TEL:43 PLY 10f1c832
+"Huh? ...Ah!"
+
+@ASU_TEL:44 PLY 0e63234c
+(That's right... I'd made plans with Sakino...)
+
+@ASU_TEL:45 ASU 18478e67
+"{V1194}I...{W45} I've never arranged to meet a boy in front of the station before,{W43} so I didn't know how long I should wait..."
+
+@ASU_TEL:46 ASU 257b8bc8
+"{V1195}I waited about two hours..."
+
+@ASU_TEL:47 PLY 45e5ab21
+"Ugh... I'm sorry..."
+
+@ASU_TEL:48 ASU c3664be9
+"{V1196}Did something{W5} happen?"
+
+@ASU_TEL:49 PLY cba2ffba
+"No... it's just... how do I say this... I'm sorry... Whatever I say will just be an excuse..."
+
+@ASU_TEL:50 PLY f8e04961
+"I'll never do this again! I'll ask you out again, so please forgive me! Please!"
+
+@ASU_TEL:51 ASU 18cab289
+"{V1197}......"
+
+@ASU_TEL:52 ASU 9e6f2650
+"{V1198}{W3}This time{W5} only{W3}..."
+
+@ASU_TEL:53 PLY b7f60c52
+"You'll forgive me?"
+
+@ASU_TEL:54 ASU 86aa800a
+"{V1199}Yeah.{W60} If you promise me you'll never do it again,{W3} then yes."
+
+@ASU_TEL:55 PLY 93c39d98
+"I promise. I'll never do it again, ever!"
+
+@ASU_TEL:56 ASU cdb97730
+"{V1200}Then I'll forgive you."
+
+@ASU_TEL:57 PLY ffe6a6e8
+"Thank you, Sakino."
+
+@ASU_TEL:58 ASU 41bf6feb
+"{V1201}No worries.{W30} I'll call it a rare experience,{W30} and go to sleep now."
+
+@ASU_TEL:59 ASU 9c794cb8
+"{V1202}Good night, {Nm}."
+
+@ASU_TEL:60 PLY 9cc16be4
+"Good night... Sakino."
+
+@ASU_TEL:61 PLY 3c27ee02
+(I really shouldn't stand her up again...)
+
+@ASU_TEL:62 ASU e4bbe64e
+"{V1204}I'm{W3} sorry for calling so late.{W30} This is Sakino{W2} speaking..."
+
+@ASU_TEL:63 ASU 7c38fd08
+"{V1205}Oh, {Nm}?"
+
+@ASU_TEL:64 ASU 9f95af0e
+"{V1206}Yeah.{W63} ...For some reason,{W48} {Nm}, I{W17} just wanted to hear your voice."
+
+@ASU_TEL:65 ASU af408a01
+"{V1207}...Sorry,{W5} for suddenly{W2} calling."
+
+@ASU_TEL:66 PLY 8e7199a3
+"N-no, it's fine. I'm glad you called."
+
+@ASU_TEL:67 ASU da037a11
+"{V1208}...Lately,{W30} it's gotten{W3} so cool, hasn't it?"
+
+@ASU_TEL:68 PLY 73d802df
+"Yeah. It's easier to sleep now."
+
+@ASU_TEL:69 ASU 93811ff0
+"{V1209}{Nm}, do you{W20} have trouble falling asleep?"
+
+@ASU_TEL:70 PLY 36bdb01f
+"When it's too hot, yeah."
+
+@ASU_TEL:71 ASU c102ce26
+"{V1210}I see.{W40} I play soccer,{W30} so hot or cold,{W20} I crawl under the covers and I'm out like a light."
+
+@ASU_TEL:72 PLY 04733997
+"Hahaha."
+
+@ASU_TEL:73 PLY bb864bf6
+"...But you're up late tonight."
+
+@ASU_TEL:74 ASU 6de0db10
+"{V1211}Yeah."
+
+@ASU_TEL:75 ASU 1ca920be
+"{V1212}Since I met {Nm},{W20} so much has happened, I was thinking..."
+
+@ASU_TEL:76 ASU f7fea489
+"{V1213}While I was thinking about that,{W30} I couldn't fall asleep..."
+
+@ASU_TEL:77 PLY 876a2929
+"I see..."
+
+@ASU_TEL:78 ASU 2ab347f2
+"{V1214}I close my eyes and try to sleep, but{W45} {Nm} keeps{W15} popping into my head, one thing after another..."
+
+@ASU_TEL:79 ASU 854a7903
+"{V1215}This is bad, I can't sleep like this.{W40} So I thought,{W30} I'd call{W3} you."
+
+@ASU_TEL:80 ASU 4426f1a0
+"{V1216}I thought if I heard {Nm}'s voice,{W65} maybe I could sleep,{W5} I figured..."
+
+@ASU_TEL:81 PLY 98d86410
+"Sakino..."
+
+@ASU_TEL:82 PLY 6040ddc5
+"So? Do you think you can sleep?"
+
+@ASU_TEL:83 ASU 87921ec1
+"{V1217}Yeah.{W73} I'm kind of{W3} getting sleepy..."
+
+@ASU_TEL:85 ASU d29a5c84
+"{V1218}Thanks, {Nm}.{W25} For keeping me company this late at night."
+
+@ASU_TEL:86 PLY db12ca47
+"I had fun talking, too."
+
+@ASU_TEL:87 ASU 692759d3
+"{V1219}Well then,{W35} good night..."
+
+@ASU_TEL:88 PLY 5310461a
+"Yeah, good night."

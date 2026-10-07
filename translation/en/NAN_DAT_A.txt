@@ -1,0 +1,326 @@
+# NAN_DAT_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_DAT_A:17 PLY 58bd35ab
+"Hey, Nana, time to go."
+
+@NAN_DAT_A:21 NAN/PLY 0d80b9d5
+"......"
+
+@NAN_DAT_A:22 PLY 0da271f1
+"No answer... Is she downstairs?"
+
+@NAN_DAT_A:38 NAN 6e1598a5
+"{V0476}{W20}Oh,{W20} Big Bro!"
+
+@NAN_DAT_A:39 PLY 508e3fa2
+"Oh, you were here."
+
+@NAN_DAT_A:40 NAN bf0326c5
+"{V0477}{W10}Yeah!{W10} {Eo}I was waiting for you{W5} to come down,{W5} Big Bro."
+
+@NAN_DAT_A:41 PLY ab29319f
+"I see. Then let's go."
+
+@NAN_DAT_A:42 NAN 748ebbbc
+"{V0478}Yeah!{W14} Yay!{W15} {Ec}The sea! The sea{W5}~!"
+
+@NAN_DAT_A:44 NAN 7f61a782
+"{V0479}{W20}We're{W10} off~!"
+
+@NAN_DAT_A:45 PLY 91f6971d
+"We're off!"
+
+@NAN_DAT_A:49 NAN b4d57a7d
+"{V0480}{W10}Good thing{W15} the weather turned out nice,{W5} Big Bro."
+
+@NAN_DAT_A:50 PLY 1647112d
+"Yeah. We should be able to swim in this."
+
+@NAN_DAT_A:51 PLY dc746b98
+"Did you forget anything?"
+
+@NAN_DAT_A:52 NAN 7d2054b2
+"{V0481}{W10}Yep!{W20} I've got my swimsuit,{W10} the beach ball,{W20} {Eo}my swim ring, the bento,{W20} I'm all set!"
+
+@NAN_DAT_A:53 PLY d74cc5f7
+"Okay, then let's head out."
+
+@NAN_DAT_A:57 NAN d37f3ad6
+"{V0482}{W10}Let's{W20} go!"
+
+@NAN_DAT_A:64 SYS f58af05c
+...And so, I headed to the sea with Nana.
+
+@NAN_DAT_A:68 NAN ff795ac6
+"{V0483}{W10}Look,{W20} Big Bro,{W40} the sea!{W30} {F2}{Ec}It's the sea~{W10}!"
+
+@NAN_DAT_A:70 NAN 0bfe83b4
+"{V0484}{W5}Wooow{W20}...{W10}!{W60} {F3}It's so big~!"
+
+@NAN_DAT_A:71 PLY 27b3a4d5
+"Hahaha, of course it is."
+
+@NAN_DAT_A:72 NAN b91d45e8
+"{V0485}{W20}Hhhhh{W20}...{W60} Hooooo{W20}...{W10}"
+
+@NAN_DAT_A:73 NAN b3046af7
+"{V0486}{W10}Wow{W40}!{W60} I{W3} can{W3} smell{W3} the{W3} salt{W3} in{W3} the{W3} air{W3}~"
+
+@NAN_DAT_A:74 PLY 81653326
+"Yeah. It feels great."
+
+@NAN_DAT_A:75 PLY 15f814f5
+"Want to change right away?"
+
+@NAN_DAT_A:76 NAN f6f2158d
+"{V0487}{W10}Yeah!{W25} Let's meet on the sand,{W30} okay?"
+
+@NAN_DAT_A:77 PLY a61237a5
+(...Nana's not here yet.)
+
+@NAN_DAT_A:78 PLY 39b72636
+(What kind of swimsuit will Nana come in? Surely not her school swimsuit...)
+
+@NAN_DAT_A:79 NAN 4449a412
+"{V0488}{W10}Big Bro,{W20} sorry to keep you waiting."
+
+@NAN_DAT_A:82 PLY 7ae49937
+"Oh..."
+
+@NAN_DAT_A:84.1 - f893f0db
+{Ti0}- It suits you／- I thought you'd come in your school swimsuit／- You don't have much of a chest
+
+@NAN_DAT_A:85 PLY 478fbfe0
+"It suits you. You look cute."
+
+@NAN_DAT_A:86 NAN 7d90c881
+"{V0490}{W10}Really?{W30} Thanks,{W20} Big Bro."
+
+@NAN_DAT_A:87 PLY db365668
+"I thought you'd show up in your school swimsuit."
+
+@NAN_DAT_A:89 NAN c2b1fb6a
+"{V0491}{W10}Aww,{W30} no way,{W20} {F9}I wouldn't come in a school swimsuit.{W25} {Sd}Nana's{W10} already{W10} in Year 1 of high school."
+
+@NAN_DAT_A:90 PLY 09a11ba6
+"Right. That's a relief."
+
+@NAN_DAT_A:91 PLY 323ab9da
+"You don't have much of a chest, huh."
+
+@NAN_DAT_A:93 NAN 2e8baaa2
+"{V0492}{W10}Geez{W15}!{W20} And I'm self-conscious about it~!{W30} {Ec}Big Bro, you pervert!"
+
+@NAN_DAT_A:94 PLY 5b466241
+"Hahaha, sorry, sorry."
+
+@NAN_DAT_A:96 PLY c6ba6f14
+"All right, then let's swim!"
+
+@NAN_DAT_A:97 NAN 08136ea6
+"{V0493}{W10}Yeah!"
+
+@NAN_DAT_A:101 NAN b77b329e
+"{V0494}{W10}Big Bro,{W30} let's try going farther out."
+
+@NAN_DAT_A:102 PLY 5c7fcb2a
+"Out where your feet can't touch the bottom? Will you be okay?"
+
+@NAN_DAT_A:103 NAN 9ded9a67
+"{V0495}{W10}Swim ring,{W20} pull me~!"
+
+@NAN_DAT_A:104 PLY 4d172722
+"Oh, all right..."
+
+@NAN_DAT_A:105 NAN 03ae6b20
+"{V0496}{W10}Yay!{W10} So easy,{W5} so easy!"
+
+@NAN_DAT_A:106 SYS 81cc7052
+...And so, Nana and I swam together for a while.
+
+@NAN_DAT_A:108 PLY d86d76d4
+"We've swum a lot, Nana. Let's take a little break."
+
+@NAN_DAT_A:109 NAN e6ae68c5
+"{V0498}{W10}Yeah!"
+
+@NAN_DAT_A:110 NAN 486dd789
+"{V0499}{W10}Hey,{W40} want to get some ice cream{W5} or something?"
+
+@NAN_DAT_A:111 PLY fc549e4e
+"Oh, I was just thinking I wanted some. I think they sell it at the entrance to the beach..."
+
+@NAN_DAT_A:112 NAN e68d9937
+"{V0500}{W10}Oh,{W35} I'll go buy it.{W30} {F3}{Ec}Big Bro,{W10} stay here{W5} and wait."
+
+@NAN_DAT_A:113 PLY 6ecd168d
+"Sure? ...Then get me a sherbet kind."
+
+@NAN_DAT_A:114 NAN 352798ef
+"{V0502}{W5}A sherbet one, okay.{W10} Yeah,{W5} got it."
+
+@NAN_DAT_A:117 PLY 53a5d912
+(Hahaha, she ran right off.)
+
+@NAN_DAT_A:118 PLY e8ec8581
+(Nana seems to be having fun. Good, good.)
+
+@NAN_DAT_A:119 PLY f423d9e1
+(Now I've made up for making her sad for a while.)
+
+@NAN_DAT_A:120 PLY ff95be4b
+(...Still, she can't let go of her swim ring at the sea. She hasn't changed since she was little.)
+
+@NAN_DAT_A:121 PLY 49985eac
+(She probably panics whenever a big wave comes.)
+
+@NAN_DAT_A:122 PLY 9059cce7
+(...She's taking a long time.)
+
+@NAN_DAT_A:123 PLY 0af40022
+(Don't tell me she dropped her money...? I'll go check on her.)
+
+@NAN_DAT_A:124 NAN f8f5282c
+"{V0503}{W10}Oh,{W40} Big Bro."
+
+@NAN_DAT_A:125 PLY d721a441
+"You took so long I got worried. Did something happen?"
+
+@NAN_DAT_A:126 NAN d26958a3
+"{V0505}{W10}Huh?{W50} Ummm{W30}...{W40} Well,{W10} the thing is..."
+
+@NAN_DAT_A:127 NAN 5f1b8704
+"{V0506}{W10}Well...{W50} {Sp}I was being persistently{W5} hit on,{W30} and I didn't know what to do."
+
+@NAN_DAT_A:128 PLY 305fb73e
+"What?! Is that true?!"
+
+@NAN_DAT_A:129 NAN b554a8f5
+"{V0507}{W10}Y-{W30}yeah."
+
+@NAN_DAT_A:130 PLY c9e35aad
+"Where?! Where did the guy who hit on you go?!"
+
+@NAN_DAT_A:131 NAN 172e5a15
+"{V0508}{W10}Ah...{W30} Um{W10}...{W30} he already{W10} went across the street{W17} and left."
+
+@NAN_DAT_A:132 PLY 3a2fa858
+"R-right..."
+
+@NAN_DAT_A:133 PLY 2b13b438
+"Damn, if only I'd been with you... Did he do anything weird to you, Nana?"
+
+@NAN_DAT_A:134 NAN 7375899c
+"{V0509}{W10}Y-{W20}yeah.{W30} I'm fine."
+
+@NAN_DAT_A:135 PLY c2b71337
+"I see, thank goodness... To think it happened the moment I looked away..."
+
+@NAN_DAT_A:136 PLY eaad4e05
+"Don't leave my side for the rest of the day. Got it, Nana?"
+
+@NAN_DAT_A:137 NAN a4cbf7c9
+"{V0510}{W10}Okay..."
+
+@NAN_DAT_A:138 PLY 5f9814df
+"Someone hit on Nana... damn it! It was a real possibility. Why did I let her go alone..."
+
+@NAN_DAT_A:139 NAN c470e35b
+"{V0512}{W10}...{W10}..."
+
+@NAN_DAT_A:140 NAN 23540d83
+"{V0513}{W10}...Um,{W60} {Eo}you see,{W30} Big Bro."
+
+@NAN_DAT_A:141 PLY 0e1dcb2b
+"Hm? What is it?"
+
+@NAN_DAT_A:142 NAN 33aa3865
+"{V0514}{W10}Well...{W70} about getting hit on{W10}...{W80} {Eo}that was a lie..."
+
+@NAN_DAT_A:143 PLY 21e4acd1
+"What?!"
+
+@NAN_DAT_A:144 NAN c6702f0e
+"{V0515}{W10}Sorry,{Ec}{W30} the truth is{W10} I was in the restroom.{W25} I was too embarrassed{W10} to say so,{W30} {Eo}so I{W10} said I got hit on{W5}..."
+
+@NAN_DAT_A:145 PLY dbf0f501
+"I see..."
+
+@NAN_DAT_A:146 NAN 1a9c4b73
+"{V0516}{W10}I'm{W30} an idiot, aren't I...{W40} {Eo}I never thought{W5} you'd worry that much, Big Bro...{Ec}"
+
+@NAN_DAT_A:147 PLY 9da4c1e6
+"Of course I worry. Obviously."
+
+@NAN_DAT_A:148 NAN 5cb8dc18
+"{V0517}{W10}You're right,{W25} you'd{W10} worry.{W70} I'm sorry,{W45} {Ec}I'm sorry, Big Bro."
+
+@NAN_DAT_A:149 PLY 4a6703c9
+"...It's all right. But from now on, don't say things like that... even as a joke."
+
+@NAN_DAT_A:150 NAN 0797bda2
+"{V0518}{W15}Okay,{W55} I won't.{W45} I{W5} promise{W5} you."
+
+@NAN_DAT_A:151 PLY 18b4ea8c
+"Come on, don't look so down. Let's eat our ice cream and swim some more."
+
+@NAN_DAT_A:152 PLY 384467f6
+"Hey, cheer up."
+
+@NAN_DAT_A:153 NAN c3861dcc
+"{V0520}{W15}Okay..."
+
+@NAN_DAT_A:154 NAN 0363b961
+"{V0521}{W10}...You're right.{W30} {F9}If we don't eat it quick,{W5} it'll melt."
+
+@NAN_DAT_A:155 PLY 5341122d
+"That's right."
+
+@NAN_DAT_A:157 NAN 2d716cd2
+"{V0522}{W10}It's so good,{W15} Big Bro."
+
+@NAN_DAT_A:158 PLY c028a083
+"Yeah."
+
+@NAN_DAT_A:173 NAN 5683962c
+"{V0523}{W10}It's{W10} already{W10} evening{W10}...{W60} We had fun, huh,{W5} Big Bro."
+
+@NAN_DAT_A:174 NAN d6dbc862
+"{V0524}{W10}Earlier...{W30} I made you{W10} worry,{W20} and I'm sorry."
+
+@NAN_DAT_A:175 PLY cbdf360f
+"It's all right, don't worry about it."
+
+@NAN_DAT_A:176 NAN fb6e6b04
+"{V0526}{W10}Listen,{W40} Nana...{W45} was really happy."
+
+@NAN_DAT_A:177 PLY 122df4f6
+"Huh?"
+
+@NAN_DAT_A:178 NAN a0a2acb7
+"{V0527}{W10}I was so happy{W5} you worried about me,{W30} Big Bro...{W80} It felt like{W5} you were{W40} watching{W5} over me{W20}..."
+
+@NAN_DAT_A:179 PLY 4ce32307
+"Of course. That's obvious."
+
+@NAN_DAT_A:180 NAN bbb10716
+"{V0529}{W10}...{W10}..."
+
+@NAN_DAT_A:181 NAN fb212002
+"{V0535}{W10}Hey,{W35} Big Bro,{W70} if this{W20} were a desert island,{W40} and we were{W20} the only two{W5} left,{W40} what would you do?"
+
+@NAN_DAT_A:182 PLY 6b418d34
+"What would I do...?"
+
+@NAN_DAT_A:183 PLY 7dc7e74a
+"I'd cherish you. I'd cherish you, Nana, just like I always have."
+
+@NAN_DAT_A:184 NAN b588d843
+"{V0536}{W10}Yeah.{W80} ...Thank you,{W30} Big Bro."
+
+@NAN_DAT_A:185 SYS 0c8b2c60
+...And so, I spent the day at the sea with Nana.
+
+@NAN_DAT_A:186 SYS e0fb995f
+There's only one, you know.

@@ -1,0 +1,302 @@
+# ASU_GKD_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_GKD_B:23 ASU d85753d8
+"{V0750}Hey, {Nm},{W10} I have a favor to ask."
+
+@ASU_GKD_B:25 PLY 3150f24e
+"What is it?"
+
+@ASU_GKD_B:27 ASU d59d74f6
+"{V0751}Could you recommend{W5} an easy-to-follow{W15} study guide?"
+
+@ASU_GKD_B:29 PLY e952ab99
+"A study guide? Why?"
+
+@ASU_GKD_B:30 ASU f4775395
+"{V0752}I think I told you before,{W70} but if my grades{W45} drop any further,{W30} the coach said{W30} I'm banned from club activities..."
+
+@ASU_GKD_B:31 ASU a769adc6
+"{V0753}So I have to study,{W10} or I'm in trouble."
+
+@ASU_GKD_B:32 PLY 876a2929
+"I see..."
+
+@ASU_GKD_B:33 PLY 8c385135
+"Then want to go to the bookstore together and look for one?"
+
+@ASU_GKD_B:34 ASU 8511b28c
+"{V0754}Yeah! {W10}Thank you, {Nm}."
+
+@ASU_GKD_B:49 ASU 526824f0
+"{V0755}Hey,{W55} where do they{W45} keep the study guides{W5} anyway?"
+
+@ASU_GKD_B:50 PLY adc08c30
+"Hahaha, you don't even know that?"
+
+@ASU_GKD_B:51 ASU a9bbf343
+"{V0756}Ahaha,{W60} {Ec}{Sp}not really,{W10} no."
+
+@ASU_GKD_B:52 PLY c7bba279
+"They're farther back. I hope you find a good one."
+
+@ASU_GKD_B:54 ASU e626146e
+"{V0757}Yeah."
+
+@ASU_GKD_B:57 SYS 407d0d5b
+...And so I helped Sakino look for a study guide.
+
+@ASU_GKD_B:58 SYS 368a3e1b
+There were so many study guides that it was hard to choose, but I found one that seemed just right, so I bought one for myself too.
+
+@ASU_GKD_B:59 SYS cbab0ac8
+...Even shopping for study guides can be fun when you're with a girl.
+
+@ASU_GKD_B:62 ASU d01d0b92
+"{V0758}Hey, {Nm},{W20} will you come to the bookstore with me again?"
+
+@ASU_GKD_B:63 PLY 0ff1956d
+"Sure, but another study guide?"
+
+@ASU_GKD_B:64 ASU 8d1b41bb
+"{V0759}Nope.{W40} This time, a workbook.{W50} I thought I'd try{W30} solving problems{W5} with the study guide in hand."
+
+@ASU_GKD_B:65 PLY 4167803a
+"Wow, you're working hard, Sakino."
+
+@ASU_GKD_B:67 ASU b9766762
+"{V0760}Ahaha,{W15} not really..."
+
+@ASU_GKD_B:68 ASU 0f0989da
+"{Nm}, {V0761}don't you feel like you've studied{W15} {F7}just by buying a study guide or workbook?"
+
+@ASU_GKD_B:69 PLY 7a2498dc
+"Ah, totally."
+
+@ASU_GKD_B:71 ASU 7659f9fd
+"{V0762}Ahaha,{W35} I just want to get{W20} the whole set{F7}{Eo} before I study, you know?"
+
+@ASU_GKD_B:72 PLY 0d80b9d5
+"......"
+
+@ASU_GKD_B:73 ASU ec253a10
+"{V0763}Workbooks{W5} are in{W35} the same place as study guides,{W15} right?{W30} {F2}{Ec}Let's go!"
+
+@ASU_GKD_B:74 PLY bad3355d
+"Yeah..."
+
+@ASU_GKD_B:75 SYS 9ba8a349
+...And so I helped Sakino look for a workbook.
+
+@ASU_GKD_B:76 SYS df42f420
+Maybe it's just more stuff piling up on her desk?
+
+@ASU_GKD_B:79 ASU 78712b09
+"{V0764}I've never{W55} been to the library,{W25} so I'm excited~!"
+
+@ASU_GKD_B:80 PLY 5743c68e
+"I've only been a few times myself."
+
+@ASU_GKD_B:81 ASU 891b8caa
+"{V0765}Really?"
+
+@ASU_GKD_B:82 PLY cc4af171
+"Yeah."
+
+@ASU_GKD_B:83 PLY c22ff274
+"When I was little, I went to read books with my sister, maybe?"
+
+@ASU_GKD_B:84 ASU 67ee68e4
+"{V0766}Oh,{W40} I see."
+
+@ASU_GKD_B:86 SYS bcbc044c
+...And so the two of us headed to the library.
+
+@ASU_GKD_B:89 ASU 69728551
+"{V0767}Hey, hey, Mr. {Nm},{W35} I tried solving{W20} this one,{W38} can you check it for me?"
+
+@ASU_GKD_B:90 PLY 4e63b450
+"Let's see, which one?"
+
+@ASU_GKD_B:91 PLY 7c1b678d
+"...Yeah, looks right."
+
+@ASU_GKD_B:92 ASU 17a440d6
+"{V0768}Ehehe,{W30} yay!{W30} Then{W15} how about this one?"
+
+@ASU_GKD_B:93 PLY 5aec8ed3
+"Let's see, that one is..."
+
+@ASU_GKD_B:94 PLY 31132156
+"Ah... Sakino, you made the same mistake again..."
+
+@ASU_GKD_B:96 ASU 53e609f4
+"{V0769}Huh? {W65}Oh,{W30} you're right..."
+
+@ASU_GKD_B:97 PLY b70132ee
+"You shouldn't keep making the same mistake. I think it's the same in soccer, isn't it?"
+
+@ASU_GKD_B:98 ASU 9ce746d6
+"{V0770}Yeah.{W48} I'm not{W10} focused enough..."
+
+@ASU_GKD_B:99 ASU 423206b5
+"{V0771}In soccer too,{W20} if you keep making the same mistake,{W5} nobody passes to you."
+
+@ASU_GKD_B:100 ASU 73cbf6d8
+"{V0772}I have to learn this properly{W30} before Mr. {Nm} gets fed up."
+
+@ASU_GKD_B:101 PLY 6135ac35
+"No, I'm not going to get fed up, but..."
+
+@ASU_GKD_B:102 PLY 0ad01491
+(She's really eager today. Maybe it's because the place is different?)
+
+@ASU_GKD_B:103 SYS 2ac50b1e
+...And like that, I studied with Sakino at the library.
+
+@ASU_GKD_B:105 ASU db35d61b
+"{V0773}Okaay,{W10} then,{W40} time to study hard{W5} again today."
+
+@ASU_GKD_B:106 PLY 40e3c689
+"You're really motivated."
+
+@ASU_GKD_B:107 ASU 9f9c8916
+"{V0774}Of course!{W30} Studying{W5} at the library{W40} is like{W10} staying late for soccer practice,{W30} so it's fun!"
+
+@ASU_GKD_B:108 PLY e3630f8c
+"Hahaha, that's the spirit."
+
+@ASU_GKD_B:109 ASU 04b5bdee
+"{V0775}Uh-huh,{W15} I see.{W70} So that's how{W10} you solve this one.{W70} I never noticed."
+
+@ASU_GKD_B:110 ASU 2f7c5c29
+"{V0776}And next?{W100} ...Oh,{W80} I{W3} see~,{W80} right,{W5} right~,{W65} as expected of Mr. {Nm}."
+
+@ASU_GKD_B:111 PLY 32ef5c6f
+(She's so motivated again today, Sakino. I have to work hard too.)
+
+@ASU_GKD_B:112 SYS 5cbfe4e9
+...And so I studied with Sakino at the library.
+
+@ASU_GKD_B:114 PLY 75e13989
+"Hey, Sakino, want to stop by the game center?"
+
+@ASU_GKD_B:115 ASU b5be6f8f
+"{V0804}The game center?{W30} Sure?"
+
+@ASU_GKD_B:116 PLY 02200f4a
+"All right, let's go!"
+
+@ASU_GKD_B:117 ASU ec49f56e
+"{V0805}It's been ages since I've been to one.{W35} I'm not{W10} that interested..."
+
+@ASU_GKD_B:118 PLY 6c6b1e77
+"R-right..."
+
+@ASU_GKD_B:119 PLY 3193ba45
+"They have soccer games too."
+
+@ASU_GKD_B:120 ASU cc7284b2
+"{V0806}With soccer,{W10} I'd rather actually play it{F9}..."
+
+@ASU_GKD_B:121 PLY 2ab78297
+"Right, of course..."
+
+@ASU_GKD_B:122 PLY 1f8e5dae
+(Hmm, what should I suggest...)
+
+@ASU_GKD_B:123 ASU c74df2d3
+"{V0807}Oh! {W40}Hey!{W30} What's{W3} that?"
+
+@ASU_GKD_B:124 PLY fb289011
+"Huh? Oh, that's a taiko drum game. You hit the drum to the music."
+
+@ASU_GKD_B:126 ASU 18d5e06e
+"{V0808}Wow,{W40} that looks{W5} fun!{W30} {Ec}I want to try it!"
+
+@ASU_GKD_B:127 PLY 18d1b3c8
+"Okay!"
+
+@ASU_GKD_B:128 PLY fb2d0953
+(I'm glad she found something she likes...)
+
+@ASU_GKD_B:129 PLY 2a117c9e
+(Next year, I want to go to the festival with her...)
+
+@ASU_GKD_B:130 SYS fd6c39d9
+...And so I had a great time with Sakino.
+
+@ASU_GKD_B:132 ASU 3cd15152
+"{V0817}Hey, {Nm},{W20} want to stop by{W5} the game center?"
+
+@ASU_GKD_B:133 PLY bf9eb24d
+"The game center?"
+
+@ASU_GKD_B:134 PLY 9e4c8420
+"Oh, are you going to play the taiko game again?"
+
+@ASU_GKD_B:135 ASU b4828124
+"{V0818}Yeah!{W10} I'm hooked!"
+
+@ASU_GKD_B:136 ASU 2a95bb6b
+"{V0819}Want to play too, {Nm}?"
+
+@ASU_GKD_B:137 PLY 11f9547f
+"I'll go after you."
+
+@ASU_GKD_B:138 ASU b2391a6c
+"{V0820}Yeah?{W50} {F3}Then..."
+
+@ASU_GKD_B:139 ASU d349f8ae
+"{V0821}In goes{W5} a hundred yen,{W10} and..."
+
+@ASU_GKD_B:146 ASU aa76f636
+"{V0822}{W15}Here we go!{W39} It's the Kibina{W3} Ondo,{W15}{W10}{W3}{W12} da-da-DON!{W24}"
+
+@ASU_GKD_B:148 ASU f58aa824
+"{V0823}{W15}Everybody{W3} gather round,{W8} {W23}it's{W10} a{W3} festival,{W21} don-don!{W12}"
+
+@ASU_GKD_B:149 PLY d66ebeb4
+"Nice, Sakino!"
+
+@ASU_GKD_B:151 PLY aabdc9cc
+"Okay, put in a hundred yen."
+
+@ASU_GKD_B:152 ASU 6973b381
+"{V0809}Let's{W50} see..."
+
+@ASU_GKD_B:153 ASU 6aa0db9a
+"{V0810}There.{W30} Is that okay?"
+
+@ASU_GKD_B:154 PLY c7fdbbc4
+"Yeah. ...Now you pick a song."
+
+@ASU_GKD_B:155 ASU a77389db
+"{V0811}The song{W15} is...{W120} the Kibina{W40} Ondo,{W5} of course!"
+
+@ASU_GKD_B:156 PLY 58489967
+"Huh? Not a pop song or something?"
+
+@ASU_GKD_B:157 ASU f5e3e01b
+"{V0812}Well,{W10} taiko means{W10} festivals, right?"
+
+@ASU_GKD_B:158 PLY ff5d18e9
+"True, but... oh, it's starting!"
+
+@ASU_GKD_B:159 ASU 1849f633
+"{V0813}All right!"
+
+@ASU_GKD_B:160 ASU dca29cc9
+"{V0814}{W15}Here we go!{W30} It's the Kibina{W3} Ondo,{W15}{W8}{W3}{W12} da-da-DON!{W24}"
+
+@ASU_GKD_B:161 PLY 1470dd56
+"Ahahahaha, you're good, Sakino, really good!"
+
+@ASU_GKD_B:163 ASU 8a5b8033
+"{V0815}{W15}Everybody{W5} gather round,{W23} {W8}it's a festival,{W30} don{W10}-don!"
+
+@ASU_GKD_B:164 PLY d895d8fd
+"Ahahahahaha"
+
+@ASU_GKD_B:166 ASU 3af04ded
+"{V0816}{W15}One more{W8} for{W3} good{W3} meas{W3}ure,{W24} da-da-{W15}DON!{W15}"

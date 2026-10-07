@@ -1,0 +1,329 @@
+# ALL_GKE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ALL_GKE:1 - 85f743ef
+Control number
+
+@ALL_GKE:4 - 4bc8d72b
+Remainder when divided by 50
+
+@ALL_GKE:5 - f21c53e9
+Remainder when divided by 8
+
+@ALL_GKE:6 - 45431ea1
+Partner character
+
+@ALL_GKE:7 - 6f6004b6
+Main character
+
+@ALL_GKE:8 - 3db07f4a
+Yuumi
+
+@ALL_GKE:9 - 6c99dfb5
+Asuka
+
+@ALL_GKE:10 - 4bbee15a
+Mao
+
+@ALL_GKE:11 - 34641364
+Master
+
+@ALL_GKE:24 - cf3a2302
+Hoshino
+
+@ALL_GKE:25 - a6a0b189
+Narumi
+
+@ALL_GKE:26 - 0e688034
+Mao
+
+@ALL_GKE:27 - 1b734b38
+Sakino
+
+@ALL_GKE:28 - 79f76ab3
+Futami
+
+@ALL_GKE:29 - 5c0ee812
+Shijou
+
+@ALL_GKE:30 - 5e2c14c8
+Kuryuu
+
+@ALL_GKE:35 - f2aaf3b1
+"
+
+@ALL_GKE:36 - 978ea4a2
+...{W15} there's no way she'd come...{W15} right?"
+
+@ALL_GKE:40 PLY 0d80b9d5
+"......"
+
+@ALL_GKE:41 PLY f5093314
+"Can't be helped... I'll go home alone today..."
+
+@ALL_GKE:43 PLY ce345269
+"...Not that there's anything in particular I want to do..."
+
+@ALL_GKE:44 - 2fb332a1
+I'll go home and read some manga
+
+@ALL_GKE:45 - f0cb6d0d
+Maybe I'll stop by the bookstore
+
+@ALL_GKE:46 - c2e94f35
+I'll go home and watch some TV
+
+@ALL_GKE:47 - 6ae233ed
+Maybe I'll drop by the game center
+
+@ALL_GKE:48 - eebc6ee9
+"That's it,
+
+@ALL_GKE:49 - 2954d35f
+..."
+
+@ALL_GKE:52 SYS 98cfcee3
+And so I spent the day alone and lonely...
+
+@ALL_GKE:54 PLY 284f4b34
+(Ah... isn't that Nana and Hoshino over there...)
+
+@ALL_GKE:55 PLY c0bb054e
+(Ah... isn't that Nana and Narumi over there...)
+
+@ALL_GKE:56 PLY b85afcb5
+(Ah... isn't that Nana and Mao over there...)
+
+@ALL_GKE:57 PLY bf70aaa6
+(Ah... isn't that Nana and Sakino over there...)
+
+@ALL_GKE:58 PLY bf67545e
+(Ah... isn't that Nana and Futami over there...)
+
+@ALL_GKE:59 PLY 48e6c492
+(Ah... isn't that Nana and Shijou over there...)
+
+@ALL_GKE:60 PLY 65e1f556
+(Ah... isn't that Nana and Kuryuu over there...)
+
+@ALL_GKE:61 PLY 80880607
+(Oh no! I made a promise to Nana too...)
+
+@ALL_GKE:62 PLY 060715fc
+(Sorry, Nana, but I'm going home with Narumi today...)
+
+@ALL_GKE:63 PLY 76cadd40
+(I'll apologize properly once I'm home...)
+
+@ALL_GKE:64 PLY cfe53a38
+(What do I do... I guess I have to send Nana home ahead of me...)
+
+@ALL_GKE:65 PLY 40c7ce75
+"Nana..."
+
+@ALL_GKE:82 NAN c62966d6
+"{V0310}{W12}Ah,{W39} Big{W4} Bro!{Ti0} {Ti2}{W36} Fancy meeting you here,{W18} what a coincidence.{W4} {W30}Come{W4} on,{W15} let's{W3} go home!"
+
+@ALL_GKE:83 NAN 1b2a3f20
+"{V0311}{W5}Ah,{W30} Big Bro!{Ti0} {Ti2}{W30} I{W4} was waiting for you. {W30}Come on,{W12} let's{W3} go home!"
+
+@ALL_GKE:84 PLY f8184979
+"Nana, about that... something came up..."
+
+@ALL_GKE:90 NAN ca019eb5
+"{V312}{W12}Oh..."
+
+@ALL_GKE:92 PLY afcf63fb
+"Sorry, but could you go home by yourself?"
+
+@ALL_GKE:94 NAN 2dfebbe6
+"{V0313}{Ec}...Okay,{W48} I get it.{W48}{Eo} Then,{W15} I'll{W4} go{W3} on ahead."
+
+@ALL_GKE:97 NAN c81b905f
+"{V0314}{W8}See you,{W36} Big Bro{W1}{W6}{W1}{W2}"
+
+@ALL_GKE:98 PLY 2e010d09
+"Yeah, be careful going home."
+
+@ALL_GKE:99 NAN 9e4a146a
+"{V0315}{W12}{F3}{Ec}Okay."
+
+@ALL_GKE:101 PLY 5831cac5
+(Sorry... Nana...)
+
+@ALL_GKE:106 YUM 4ab07922
+"{V0744}{W12}Oh...{W63} you{W6} promised{W9} to{W3} go{W4} home{W2} with{W32} me{W4}..."
+
+@ALL_GKE:108 PLY db3eeca9
+(Ah... Hoshino... R-right! I promised Hoshino too...)
+
+@ALL_GKE:112 NAR 7ab802e6
+"{V0665}{Nm}{W5}...{W63} you{W5} promised{W9} to{W2} go{W5} home{W2} with{W1} me{W7}...{W60} that's{W1} mean{W2}...{W5}{W1}{W7}{W4}"
+
+@ALL_GKE:114 PLY 05588b10
+(Ah... Narumi... R-right! I promised Narumi too...)
+
+@ALL_GKE:118 MAO 0c25391d
+"{Nn},{V0803}{W18} you{W1} promised{W7} me,{W1} and{W4} now{W4} you're{W1} with{W51} another{W3} girl{W1}...{W6}"
+
+@ALL_GKE:119 MAO 346ac43e
+"{V0804}{W12}I{W8} won't{W5} stand for it!"
+
+@ALL_GKE:120 PLY 27c0b716
+(Eep... Mao...)
+
+@ALL_GKE:122 ASU cd4adf57
+"{V0585}{W15}Huh?{Ti0} {Ti2}{W45} I thought{W8} we{W3} had{W3} a{W3} promise to go home together..."
+
+@ALL_GKE:123 PLY 08efa296
+(Ah... Sakino... R-right! I promised Sakino too...)
+
+@ALL_GKE:124 ERI a8d86a68
+"{V0648}{W12}Ah, {Nm}..."
+
+@ALL_GKE:125 ERI 202603bb
+"{V0649}{W8}Hmm{W3}...{W43} so{W3} that's{W1} how{W1} it{W1} is..."
+
+@ALL_GKE:126 PLY 65d8b191
+(Ah... Futami... R-right! I promised Futami too...)
+
+@ALL_GKE:127 MIT 76a9ae94
+"{V0711}{W8}Ah,{W60} Master{W73}...{W7} you{W1} promised{W12} me{W1}{W5}...{W7}{W2}{W7}"
+
+@ALL_GKE:128 MIT c8f156a3
+"{V0710}{W8}Ah, {Nm}{W100}...{W4} you promised{W12} me{W1}{W7}...{W9}"
+
+@ALL_GKE:129 PLY 4ce26926
+(Ah... Shijou... R-right! I promised Shijou too...)
+
+@ALL_GKE:131 MEG 64226185
+"{Nm}...{W8} {V0323}{W12}I thought{W9} we{W3} had{W4} a{W4} promise..."
+
+@ALL_GKE:133 MEG 4bcad541
+"{V0324}{W12}Breaking{W3} a promise{W3} is{W3} the{W12} lowest{W6} thing{W8} you can do!"
+
+@ALL_GKE:134 PLY 7b9e0b59
+(Ugh... Kuryuu...)
+
+@ALL_GKE:135 PLY 24911312
+(It's too late now... nothing I can do...)
+
+@ALL_GKE:137 YUM 5f3f43c1
+"{V0745}{W12}Ah... {Nm}..."
+
+@ALL_GKE:138 PLY af98917b
+(H-Hoshino!)
+
+@ALL_GKE:140 YUM a4dd4cd6
+"{V0746}{W12}You{W6} promised{W8} to{W5} go{W4} home{W3} with{W36} me{W4}..."
+
+@ALL_GKE:141 PLY 1888c766
+(Ah... R-right! I promised Hoshino too...)
+
+@ALL_GKE:142 NAR 6058dd1e
+"{V0666}{W12}Ah...{W62} {Nm}{W12}...{W10}"
+
+@ALL_GKE:143 PLY 8d1288a6
+(Ah! N-Narumi!)
+
+@ALL_GKE:144 NAR 14390768
+"{V0667}{W15}You{W1} promised{W9} to{W2} go{W6} home{W1} with{W2} me,{W5}{W5}{W1}{W1}{W1} and{W36} that's{W1} mean{W1}..."
+
+@ALL_GKE:145 PLY 702bab9c
+(R-right... I promised Narumi too...)
+
+@ALL_GKE:146 MAO 59a6f169
+"{V0805}{W15}Ah...{Nn}..."
+
+@ALL_GKE:147 MAO 85adc787
+"{V0806}{W12}You promised{W8} me,{W2}{W5}{W4}{W1} and{W75} you're with{W5} another{W2} girl{W6}..."
+
+@ALL_GKE:148 PLY f9fedd15
+(M-Mao!)
+
+@ALL_GKE:149 MAO 40c40413
+"{V0807}{W12}I{W6} won't{W3} stand{W1} for it!"
+
+@ALL_GKE:150 ASU 3305a399
+"{V0586}{W12}Huh? {Nm}..."
+
+@ALL_GKE:151 PLY 079f7329
+(Ah! Sakino!)
+
+@ALL_GKE:152 ASU 63165b5f
+"{V0587}{W12}I thought{W8} we{W12} had{W4} a promise{W3} to go home{W3} together..."
+
+@ALL_GKE:153 PLY cc568331
+(R-right! I promised Sakino too...)
+
+@ALL_GKE:154 ERI 7e072e31
+"{V0650}{W8}Ah, {Nm}..."
+
+@ALL_GKE:155 PLY 2a8ad7df
+(Ah... Futami...)
+
+@ALL_GKE:157 ERI 4561114c
+"{V0651}{W18}Hmm{W2}{W3}...{W45} so that's how it is..."
+
+@ALL_GKE:158 PLY acafe1b0
+(R-right! I promised Futami too...)
+
+@ALL_GKE:159 ERI 69faea6b
+"{V0652}{W12}You're{W2} showing{W3} off,{W1} aren't you."
+
+@ALL_GKE:160 MIT 3c322003
+"{V0714}{W12}Ah...{W105} Master{W1}...{W4}{W8}{W9}"
+
+@ALL_GKE:161 MIT 84363013
+"{V0712}{W12}Ah... {Nm}..."
+
+@ALL_GKE:162 PLY 3e2562a9
+(Ah! Shijou!)
+
+@ALL_GKE:163 MIT ec3c9fd0
+"{V0713}{W15}I thought{W8} we{W1} had{W4} a promise{W4} to go home{W4} together...{W54} how{W4} could{W1} you..."
+
+@ALL_GKE:164 PLY b541e507
+(R-right! I promised Shijou too...)
+
+@ALL_GKE:165 MEG c76be29e
+"{V0325}{W15}Ah... {Nm}..."
+
+@ALL_GKE:166 PLY 1db54238
+(Ah! Kuryuu!)
+
+@ALL_GKE:167 MEG 07ad1c29
+"{V0326}{W15}Breaking{W5} a promise{W5} is{W5} the lowest{W24} thing{W14} you{W10} can do."
+
+@ALL_GKE:168 PLY 0c796eb6
+(R-right! I promised Kuryuu too...)
+
+@ALL_GKE:169 YUM 25197d8a
+"{Nm}, {V0747}{W18}you're{W4} late{W2}..."
+
+@ALL_GKE:171 NAR 5426d2e3
+"{V0668}{Nm}{W5}{W8}, {W30}he's taking so{W1} long{W1} to come{W1}..."
+
+@ALL_GKE:172 MAO 9f1c5179
+"{V0808}{W12}You're{W3} taking{W1} your{W2} time,{W3} {W5}{Nn}~{W1}{W2}"
+
+@ALL_GKE:173 PLY 5ec14fe1
+(Ah... Mao... R-right! I promised Mao too...)
+
+@ALL_GKE:175 ASU 3f2e8dc9
+"{Nm}, {V0588}{W18}you're{W19} late{W3}. {W46}What{W4} are you{W2} up to?"
+
+@ALL_GKE:177 ERI f52a94ba
+"{V0653}{W15}You{W2} are{W1} keeping me waiting a long time, {Nm}..."
+
+@ALL_GKE:178 MIT 8dca2188
+"{V0716}{W12}You're{W8} late{W4}, {W45}Master{W3}{W5}{W5}"
+
+@ALL_GKE:179 MIT 03b68ba8
+"{V0715}{W12}You're{W8} late{W6}, {Nm}"
+
+@ALL_GKE:180 MEG d31b48f3
+"{V0327}{W12}You're{W8} late{W5}{W5}, {Nm}..."
+
+@ALL_GKE:181 PLY ac06280e
+(Ah... Kuryuu... R-right! I promised Kuryuu too...)

@@ -1,0 +1,125 @@
+# ASU_MKI -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_MKI:49 ASU 898bd6b0
+"{V1355}Sorry,{W5}{W5}{W52} that topic{W33} is too hard for me.{Ec}"
+
+@ASU_MKI:52 ASU fce696f7
+"{V1356}Ahaha...{W10}{W5}{W50} I have no idea what we're even talking about...{F2}{Ec}"
+
+@ASU_MKI:53 ASU 0cbf0ae9
+"{V1357}Hmm...{W12}{W64} That{W1} sort{W2} of{W1} topic{W4} might{W6} be hard for me..."
+
+@ASU_MKI:55 ASU 2048bdcd
+"{V1358}Sorry...{Sd}{W65} that topic,{W50} isn't it kind of boring?"
+
+@ASU_MKI:56 ASU f3411c0d
+"{V1359}Hey,{W10} instead of that,{W30} let's talk about something more fun!"
+
+@ASU_MKI:58 ASU 4ac833b9
+"{V1360}H-huh?!{F8} Geez! Stop talking about that stuff."
+
+@ASU_MKI:59 ASU 7236ba51
+"{V1350}Hmm...{W5}{W70} I thought it sounded like a fun topic, though."
+
+@ASU_MKI:61 ASU 17b00a27
+"{V1351}Oh,{W10} I see...{W60} Sounds like a good topic, but{W60} {F9}{Sp}I'm just not in the mood right now..."
+
+@ASU_MKI:62 ASU 1f4205cf
+"{V1352}I do think it's a good topic,{W45} but {F3}{Ec}{Sp}not right now..."
+
+@ASU_MKI:63 ASU edae5959
+"{V1353}Hmm...{W10}{W62} I thought it sounded like fun, though."
+
+@ASU_MKI:69 ASU 45f77cfe
+"{V1354}What?!{W40} {Fe9m6}{Sp}N-{W40}now? You can't bring that up now..."
+
+@ASU_MKI:73 ASU 8eaa93a8
+"{V1373}Huh?!{W5} {F9}S-{W30}suddenly saying a thing like that..."
+
+@ASU_MKI:74 PLY 6c1b2754
+"S-sorry."
+
+@ASU_MKI:79 ASU 0d80b9d5
+"......"
+
+@ASU_MKI:80 ASU ca00502d
+"{V1645}W-{W20}what's wrong?{W50} {F5}{B60}...Oh,{W35} don't tell me{W10} I've got sleep in my eyes?!{W20}{S}{Ec}{Fe9m3} I did doze off a bit earlier..."
+
+@ASU_MKI:81 PLY 1c80789b
+"N-no, that's not it..."
+
+@ASU_MKI:82 ASU 8371ef4d
+"{V1646}{B0}{Sd}{Eo}{F4}Really?{W40} {Fe9m3}Then{W10} what is it?"
+
+@ASU_MKI:83 PLY b13e6efc
+"N-no, it's nothing."
+
+@ASU_MKI:85 ASU c49fdd41
+"{V1647}Hmm...{W5}{W35} How strange..."
+
+@ASU_MKI:86 PLY a5ece806
+"Sakino."
+
+@ASU_MKI:87 ASU e5d71d61
+"{V1648}What?"
+
+@ASU_MKI:92 ASU 2bce8e7a
+"{V1649}W-{W40}why are you laughing?{W60} {Fe4m3}...Oh,{W15} do I have something on my face?{Fe9m3}"
+
+@ASU_MKI:93 PLY ed921692
+"N-no, that's not it..."
+
+@ASU_MKI:94 ASU 1a971509
+"{V1650}{F4}Then why?"
+
+@ASU_MKI:95 PLY 6e1f8bf0
+"No, it's okay... It's nothing..."
+
+@ASU_MKI:96 ASU ebfb9d95
+"{V1651}...Really?"
+
+@ASU_MKI:98 ASU d89b6667
+"{V1652}What?"
+
+@ASU_MKI:100 ASU f08968d2
+"{V1653}......"
+
+@ASU_MKI:101 ASU 2801deef
+"{Nm}, {V1654}if you need the bathroom,{W20}{B20}{Sp} I think you shouldn't hold it in."
+
+@ASU_MKI:102 PLY 599cdb77
+(W-why would she think that...?)
+
+@ASU_MKI:108 ASU 75eb4f7e
+"{V1655}Hm?"
+
+@ASU_MKI:109 ASU 99137a09
+"{Nm}, {V1656}why are you holding my hand?"
+
+@ASU_MKI:110 PLY 6014b260
+"Ah... no, no reason, really..."
+
+@ASU_MKI:112 ASU 93e91260
+"{V1657}I see..."
+
+@ASU_MKI:113 ASU cc67229c
+"{V1658}...Hey,{W15} could you let go?{W35} It's hard to{W5} talk like this."
+
+@ASU_MKI:114 PLY 9ee89583
+"Y-yeah, you're right, hahaha..."
+
+@ASU_MKI:115 ASU a0ae417a
+"{V1361}Sorry...{W5}{W45} Talking{W1} to me,{W10} {F9}it's kind of boring, isn't it?"
+
+@ASU_MKI:117 PLY c95d71b5
+(The conversation isn't taking off... I need a topic that suits Sakino better...)
+
+@ASU_MKI:118 ASU 76854210
+"{V1362}Hmm...{W5}{W10}{W60} The conversation's kind of flat, huh?"
+
+@ASU_MKI:119 PLY fec6c656
+"Y-you think?"
+
+@ASU_MKI:120 PLY 1436da25
+(It really isn't taking off... I need a topic that suits Sakino better...)

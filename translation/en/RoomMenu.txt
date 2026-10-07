@@ -1,0 +1,5 @@
+# RoomMenu -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@RoomMenu:75 - 201c1cc5
+Returning to the title screen.\nAny unsaved data will be lost.\nIs that okay?

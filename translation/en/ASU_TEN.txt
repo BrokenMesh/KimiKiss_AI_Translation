@@ -1,0 +1,65 @@
+# ASU_TEN -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_TEN:37 ASU eb4c308a
+"{Nm}! {V0003}{Ec}Morning!"
+
+@ASU_TEN:39 PLY 2bffe542
+"Good morning, Sakino."
+
+@ASU_TEN:42 PLY daa6e99c
+"Oh, good morning, Sakino."
+
+@ASU_TEN:43 ASU 236db5ea
+"{V0004}Oh, {F3}morning, {Nm}!"
+
+@ASU_TEN:45 ASU 2c0ee6c2
+"{V0005}Let's have another energetic day today!"
+
+@ASU_TEN:48 ASU de6e6f04
+"{V0006}See ya!"
+
+@ASU_TEN:50 ASU b6c1b329
+"{V0007}Oh, {Nm}! {F3}Morning!"
+
+@ASU_TEN:51 PLY 36a89d32
+"Good morning, Sakino."
+
+@ASU_TEN:53 ASU 5736976d
+"{V0008}Mmm,{W10}{W50} {F2}another beautiful day today!{Ec}"
+
+@ASU_TEN:54 PLY 851b6dc4
+"Yeah, it is."
+
+@ASU_TEN:55 ASU 22dc1a2c
+"{Nm}, {V0009}morning!"
+
+@ASU_TEN:57 ASU 5f434c51
+"{V0010}Oh,{W1} come{W1} on,{W30}{W2} with a{W2} sleepy face{W1} first thing{W2} in the morning.{W50} {F2}Come on!{W10} You've got to perk up{Ti0}!"
+
+@ASU_TEN:58 PLY 1b758669
+"Hahaha, you're right."
+
+@ASU_TEN:59 ASU a8e70929
+"{V0011}See ya!"
+
+@ASU_TEN:60 ASU c65aa84b
+"{Nm}, {V0012}morning!"
+
+@ASU_TEN:61 PLY 9b5bacff
+"Oh, good morning, Sakino!"
+
+@ASU_TEN:63 ASU fca1691f
+"{V0013}See you later!"
+
+@ASU_TEN:64 PLY 537cd13c
+"Ah... she's gone..."
+
+@ASU_TEN:65 ASU 4f1df5c9
+"{V0014}Oh, {Nm},{W10} good morning."
+
+@ASU_TEN:66 ASU 5bbfc90d
+"{V0015}I hope today...{W30} turns out to be a good day again."
+
+@ASU_TEN:67 ASU 8dc80203
+"{V0016}W-{W30}well, see you."

@@ -1,0 +1,206 @@
+# ASU_GKE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_GKE:25 SYS 1b192009
+A same-character match?! Impossible!
+
+@ASU_GKE:53 ASU be874bbb
+"{V0539}{W12}{F4}Oh, {Nm}!{Fm3}"
+
+@ASU_GKE:54 PLY bb483a4d
+"Sakino, did you just finish club?"
+
+@ASU_GKE:55 ASU be2ca745
+"{V0540}{W15}{F3}Yeah.{W45} I was just{W4} about{W1} to{W1} head{W3} for{W3} the{W1} School Gate{W1}."
+
+@ASU_GKE:56 PLY 696225c1
+"I see."
+
+@ASU_GKE:57 ASU 538dc77c
+"{V0547}{W12}{Fm4}Oh, {Nm}!"
+
+@ASU_GKE:58 PLY 855e16a3
+"Oh, Sakino. Heading to the School Gate?"
+
+@ASU_GKE:60 ASU 102433ef
+"{V0548}{W15}{F3}Yeah,{W3} I am."
+
+@ASU_GKE:61 ASU 4a0bbf9f
+"{V0552}{W12}{Fm4}Oh, {Nm}!{Fm3}"
+
+@ASU_GKE:62 PLY a0722d95
+"Sakino, were you waiting long?"
+
+@ASU_GKE:64 ASU 3caf3f28
+"{V0553}{W12}Nope,{W30} I{W8} just{W2} finished club{W4} too,{W12} and I{W4} only{W1} just got here."
+
+@ASU_GKE:65 PLY c51d6bad
+"I see. Good."
+
+@ASU_GKE:67 PLY 68ca5ba8
+"Huh? Sakino, you're going home dressed like that?"
+
+@ASU_GKE:68 ASU b506bc7d
+"{V0541}{W12}Yeah.{W27} Today{W1} after this,{W3} {Fm4}I want{W3} to practice{W3} at the{W3} riverbank."
+
+@ASU_GKE:69 PLY 17303918
+"Huh? You practiced with the club, and you're still going to practice?"
+
+@ASU_GKE:71 ASU 863e1e0f
+"{V0542}{W5}{Fe9m3}...{W3}Yeah.{W42}{Ec}{Fe7m4} Just{W2} now,{W2} when I got{W1} past{W1} the{W1} defender,{W1}{W4}{W30} I felt{W1} like{W1} I'd{W1} grasped{W2} a{W2} hint{W2} of{W1} {Fe6m7}{Eo}the Asuka Turn{W1}{W1}{W1}{W1}{W1}{W1}."
+
+@ASU_GKE:72 ASU 1347960e
+"{V0543}{W5}{Fe9m4}...{W3}Sorry,{W15}{Fe6} I{W1} know we{W3} promised{W3} to go home{W4} together,{W4} but..."
+
+@ASU_GKE:73 PLY d567623f
+"No, it's fine. If that's the reason, I'll help you."
+
+@ASU_GKE:74 ASU f2297548
+"{V0544}{W12}Huh?{W21} Really?{W1}{W1}"
+
+@ASU_GKE:75 PLY af223242
+"Yeah. I can't be much help, but two people beat one, right?"
+
+@ASU_GKE:76 ASU fe61057b
+"{V0545}{W12}{F3}Thanks{W1}{W1}{W1}...{W45}{Ec}{F2} That really{W3} helps..."
+
+@ASU_GKE:77 PLY b6fbbbb2
+"Okay, shall we go?"
+
+@ASU_GKE:78 ASU d1f7b70d
+"{V0570}{W8}{Ec}{F2}Yeah!{W3} Let's go!"
+
+@ASU_GKE:79 PLY 380a44e1
+"Since you're dressed like that, are you practicing at the riverbank again today?"
+
+@ASU_GKE:80 ASU 2fa1e339
+"{V0549}{W12}Yeah.{W33}{Fe9m4} That's what I was planning..."
+
+@ASU_GKE:81 PLY 569b99f1
+"Then I'll help."
+
+@ASU_GKE:83 ASU d9452c64
+"{V0550}{W12}Thank{W1} you,{W1} {Nm}."
+
+@ASU_GKE:84 PLY 94406078
+"Okay, shall we go?"
+
+@ASU_GKE:85 ASU d2843391
+"{V0551}{W12}Yep!"
+
+@ASU_GKE:86 ASU 49738779
+"{V0554}{W12}Yeah.{W36} Today{W1} after this,{W3}{W15} {Fm4}I want{W1} to practice{W4} at the{W1} riverbank{W4}{W4}."
+
+@ASU_GKE:87 ASU 105a2fa3
+"{V0555}{W5}{Fe9m3}...{W3}Yeah.{W42}{Ec}{Fe7m4} Just{W2} now,{W2} when I got{W1} past{W1} the{W1} defender,{W1}{W4}{W30} I felt{W1} like{W1} I'd{W1} grasped{W2} a{W2} hint{W2} of{W1} {Fe6m7}{Eo}the Asuka Turn{W1}{W1}{W1}{W1}{W1}{W1}."
+
+@ASU_GKE:88 ASU a0d24688
+"{V0556}{W5}{Fe9m4}...Sorry,{W18}{Fe6} I know we{W3} promised{W4} to go home{W4} together,{W4} but..."
+
+@ASU_GKE:89 ASU e2251ee2
+"{V0557}{W15}Huh?{W36} Really?{W1}{W1}"
+
+@ASU_GKE:90 ASU b63b558b
+"{V0558}{F3}{W12}Thanks...{W24}{Ec}{F2} That really{W3} helps..."
+
+@ASU_GKE:92 ASU 2ac60e95
+"{V0562}{W12}Yeah.{W42}{Fe9m4} That's what I was planning..."
+
+@ASU_GKE:94 ASU 75d852ce
+"{V0563}{W8}Thank you, {Nm}."
+
+@ASU_GKE:96 ASU 5dd2a4e3
+"{V0565}{W12}Oh, {Nm}!"
+
+@ASU_GKE:100 PLY f19e8b04
+"Oh, Sakino. Did you just get here?"
+
+@ASU_GKE:101 ASU 4e1fbdcd
+"{V0572}{W12}Yeah,{W3} I did."
+
+@ASU_GKE:103 PLY 7f302857
+"Sakino, heading to the School Gate?"
+
+@ASU_GKE:104 ASU bd6b9b67
+"{V0566}{W12}{Fe2}{Ec}Yeah.{W18}{Eo}{F3} Club{W3} just finished{Ti1},{Ti2}{W3} and I just got here."
+
+@ASU_GKE:105 PLY e3d28766
+"I see. Perfect timing, then."
+
+@ASU_GKE:106 ASU 62b3c277
+"{V0568}{W5}Oh, {Nm}!"
+
+@ASU_GKE:107 ASU 0380fa3c
+"{V0576}{W8}{Ec}Nope,{Fe2} not at all."
+
+@ASU_GKE:108 ASU 0a3f2706
+"{V0569}{W8}{Ec}Nope,{W21}{Eo} I{W8} finished club{W2} too{Ti1},{Ti2} and I{W4} just got here."
+
+@ASU_GKE:109 ASU 5936df1f
+"{V0567}{W12}{Ec}{F2}Yeah! Let's go!"
+
+@ASU_GKE:110 ASU 7a679081
+"{V0571}{W8}Oh, {Nm}!"
+
+@ASU_GKE:111 ASU ec89fa15
+"{V0573}{W15}Sorry,{W8} for making you{W4} join{W4} my practice{W2}."
+
+@ASU_GKE:112 PLY 50f2557e
+"It's fine, don't worry about it."
+
+@ASU_GKE:113 ASU f3ebc871
+"{V0575}{W12}Oh, {Nm}!"
+
+@ASU_GKE:114 PLY b23d9c4d
+"Sakino, sorry, were you waiting long?"
+
+@ASU_GKE:115 ASU ba42a4d4
+"{V0577}{W12}{Eo}{Fe9m4}I'm{W8} the one{W4} who should be sorry,{W18} for making you{W4} join{W4} my practice{W1}."
+
+@ASU_GKE:116 PLY b3376227
+"Okay, shall we go?"
+
+@ASU_GKE:117 ASU a815a18a
+"{V0574}{W12}{Ec}{Fe2}Yeah!{W15} I'm counting on you!"
+
+@ASU_GKE:118 ASU 596ad53e
+"{V0578}{W8}{Ec}{Fe2}Yeah!{W5} I'm counting on you!"
+
+@ASU_GKE:122 ASU 275ee62b
+"{V0579}{W12}{F2}Oh, {Nm}!"
+
+@ASU_GKE:123 PLY da10ac2f
+"Oh, Sakino, heading to the School Gate?"
+
+@ASU_GKE:125 ASU 7c0b4164
+"{V0580}{W15}{Ec}Yeah,{W3} that's right! {P3}{Ec}{F3}{W42}Hehe,{W30} nice timing, huh?"
+
+@ASU_GKE:126 PLY 1b758669
+"Hahaha, yeah."
+
+@ASU_GKE:127 ASU 08d984b9
+"{V0582}{W8}Oh, {Nm}!"
+
+@ASU_GKE:128 ASU 16070f41
+"{V0583}{W12}Nope{W1}{W1},{Eo} not{W1} at all.{W30} {F3}I{W8} just{W1} got here{W4}, too."
+
+@ASU_GKE:129 PLY b627f6d6
+"I see, good."
+
+@ASU_GKE:130 ASU 52c7c440
+"{V0581}{W8}{Ec}Yeah! Let's go!"
+
+@ASU_GKE:131 ASU 8351c08c
+"{V0584}{W8}{Ec}Yeah! Let's go!"
+
+@ASU_GKE:137 ASU 131a2ec2
+"{Nm}, {V0589}{W10}is something wrong?"
+
+@ASU_GKE:138 PLY 91107df6
+"Huh? Ah, no, it's nothing."
+
+@ASU_GKE:139 PLY 3850afdd
+"Come on, let's go!"
+
+@ASU_GKE:140 ASU c7ca91f7
+"{V0590}{W8}{Fe2m4}{Ec}Okay!{Fm3}"

@@ -1,0 +1,407 @@
+# MIT_DAT_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MIT_DAT_B:15 PLY 1fced0ae
+(Ten minutes to eleven. That's just about right.)
+
+@MIT_DAT_B:31 MIT af83e29a
+"{V1099}{W8}Hello,{W15} Master.{W3}{W3}{W3}"
+
+@MIT_DAT_B:32 PLY 74c73950
+"Hello, Shijou."
+
+@MIT_DAT_B:33 PLY aced7ffa
+(Shijou in her own clothes... She really does look like a young lady.)
+
+@MIT_DAT_B:36 MIT f86f6c3f
+"{V1100}{W10}Thank{W10} you for coming today.{W27}{W50} {Ec}I{W6}{W45} will do my very best{W3}{W3}{W3}{W8}{W3} to dance."
+
+@MIT_DAT_B:37 PLY f6d375b4
+"Do your best. I'm rooting for you."
+
+@MIT_DAT_B:38 MIT 03872700
+"{V1101}{W8}Yes."
+
+@MIT_DAT_B:39 MIT e1e2937e
+"{V1102}{W8}Well then,{W40} shall we go?"
+
+@MIT_DAT_B:40 PLY 851b6dc4
+"Sure."
+
+@MIT_DAT_B:44 MIT 0d7464ef
+"{V1103}{W8}Well then,{W30} I{W6} will{W5} go in{W3} through{W3} the back entrance,{W3}{W15} so here is where we part."
+
+@MIT_DAT_B:45 PLY 94ba405c
+"I'll watch from the audience."
+
+@MIT_DAT_B:47 MIT b379fae2
+"{V1104}{W8}Yes."
+
+@MIT_DAT_B:49 PLY 631bee2f
+(...That's it! I'll buy flowers. I'll give them to her in the dressing room after the recital.)
+
+@MIT_DAT_B:50 SYS 0aba9607
+...So I bought a bouquet at the flower shop and took my seat in the audience of the community hall.
+
+@MIT_DAT_B:51 SYS 2a58d187
+...Shijou's dancing was truly beautiful, and she stood out from every other girl.
+
+@MIT_DAT_B:52 SYS b1676182
+To think a girl like this looks up to me as her Master...
+
+@MIT_DAT_B:53 SYS 2c3acf89
+I wish this moment could last forever...
+
+@MIT_DAT_B:54 SYS c88e5dec
+And then the recital ended...
+
+@MIT_DAT_B:58 PLY d4b0c6b0
+"Shijou."
+
+@MIT_DAT_B:59 MIT fe65c9af
+"{V1105}{W8}Ah!{W15} Master!{W2}{W3}"
+
+@MIT_DAT_B:60 PLY 924f5a22
+"Here, this is for you."
+
+@MIT_DAT_B:71 MIT 08d32659
+"{V1106}{W10}Ah{W5}...{W60}{F3}{Ec} Thank you very much."
+
+@MIT_DAT_B:72 PLY be2b1514
+"You were really beautiful."
+
+@MIT_DAT_B:74 MIT 74515877
+"{V1107}{W15}No...{W27} not at all..."
+
+@MIT_DAT_B:76 MIT 9ee61114
+"{V1108}{W12}Such a{W7} beautiful{W5} bouquet{W3}{W3}...{W55}{F3}{Eo} I{W6}{W5} am so happy..."
+
+@MIT_DAT_B:77.1 - 9b3fbf01
+{Ti0}- It's not much of a bouquet／- You're prettier, Shijou
+
+@MIT_DAT_B:78 PLY 51e9331a
+"It's not much of a bouquet. You're exaggerating."
+
+@MIT_DAT_B:79 MIT e24197ae
+"{V1109}{W10}No...{W35} no...{W77}{F3}{Eh} I have never seen{W3}{W3} such a{W73} beautiful bouquet..."
+
+@MIT_DAT_B:80 PLY 5248279b
+"Shijou..."
+
+@MIT_DAT_B:81 PLY 29e25ae6
+"You're prettier, Shijou."
+
+@MIT_DAT_B:84 MIT 21680535
+"{V1110}{W10}Master{W2}{W5}{W5}{W5}...{W105} Thank you."
+
+@MIT_DAT_B:85 PLY a4270442
+"Can you leave with me after this?"
+
+@MIT_DAT_B:86 MIT 82faa3b3
+"{V1111}{W8}Yes,{W15} that is{W3}{W5} fine."
+
+@MIT_DAT_B:87 PLY 12fb7a6c
+"Then I'll wait in front of the station."
+
+@MIT_DAT_B:88 MIT 6caa709e
+"{V1112}{W12}Yes."
+
+@MIT_DAT_B:90 MIT f4a5e2c6
+"{V1113}{W10}I am sorry to have kept you waiting."
+
+@MIT_DAT_B:91 PLY 92c571e0
+"Oh? That was faster than I expected."
+
+@MIT_DAT_B:92 MIT 8f3fa6ab
+"{V1114}{W10}I could not keep Master{W3}{W3}{W3} waiting.{W8}{W5}{W40} {Ec}I hurried{W5} as much as{W3} I could."
+
+@MIT_DAT_B:93 PLY 2fbb7b6f
+"You didn't have to worry about that..."
+
+@MIT_DAT_B:94 MIT 0109f50d
+"{V1115}{W8}I wanted to bring the bouquet{W8}{W3}{W3} you gave me{W35} too,{W30}{F9} but it might get damaged,{W30} so I had the car{W6}{W3} take{W3} it{W3} home{W5} ahead{W3} of me."
+
+@MIT_DAT_B:95 PLY b919eae4
+"I see. ...Then let's walk a little."
+
+@MIT_DAT_B:96 MIT 48c48f77
+"{V1116}{W8}Yes."
+
+@MIT_DAT_B:97 PLY 8dbb82ab
+"It was my first time seeing classical ballet. Everyone moved in perfect unison. Amazing."
+
+@MIT_DAT_B:98 MIT 4d8b5ce1
+"{V1117}{W8}Everyone has{W8} practiced{W3}{W6} for this day.{W70} A stage{W3}{W45} is something everyone builds together."
+
+@MIT_DAT_B:99 PLY 630e364d
+"Yeah, I could tell. Everyone danced with all their heart."
+
+@MIT_DAT_B:100 MIT afc12f4c
+"{V1118}{W8}Yes."
+
+@MIT_DAT_B:102 MIT a87d30e9
+"{V1119}...{W5} I{W6}{W100} am glad{Ec} my Master{W3}{W3}{W3}{W5} is you."
+
+@MIT_DAT_B:103 PLY 122df4f6
+"Huh?"
+
+@MIT_DAT_B:104 MIT 309314c4
+"{V1120}{W12}I..."
+
+@MIT_DAT_B:106 MIT 9b08d8a8
+"{V1121}{W10}I{W6}...{W100}{Ec} I like you!"
+
+@MIT_DAT_B:107 PLY 865cb39c
+(Ah... Shijou is confessing to me...)
+
+@MIT_DAT_B:108 PLY 6c3f0879
+"I... you're..."
+
+@MIT_DAT_B:109 PLY 0d80b9d5
+"......"
+
+@MIT_DAT_B:110 MIT bbc97884
+"{V1122}{W15}Master{W5}{W9}{W9}{W9}?"
+
+@MIT_DAT_B:111 PLY 40c086f3
+"Sorry... Hiiragi told me once. He said your family and mine are too different. So I should give up on you..."
+
+@MIT_DAT_B:112 PLY be1423c4
+"Family background sounded old-fashioned, but knowing you, I feel how differently we were raised..."
+
+@MIT_DAT_B:113 PLY e821bc43
+"You're too good for me, Shijou."
+
+@MIT_DAT_B:114 MIT 35676e1f
+"{V1123}{W8}No,{W20} not someone{W3} like me...{W60}{Ec} You are the{W6} one{W25} who is{W10} too good{W3} for me."
+
+@MIT_DAT_B:115 MIT ef4222e9
+"{V1124}{W10}Father{W3}{W3} chose you,{W7}{W25} so I believed you were a wonderful person,{W1}{W4}{W1}{W1}{W1}{W4}{W10}{W3}{W50}{F2} but{W6} you are far kinder{W3}{W58} than I{W3} imagined...{W55}{Eh} and{W3} lovely{W3}{W3}..."
+
+@MIT_DAT_B:116 MIT 1e4b82e7
+"{V1125}{W8}I am looking forward to{W3}{W3}{W3}{W5}{W3} our engagement ceremony,{W50} Master.{W3}{W3}{W3}"
+
+@MIT_DAT_B:117 PLY 3ce35e2f
+"E-engagement ceremony?! With who?!"
+
+@MIT_DAT_B:118 MIT 767fe10d
+"{V1126}{W10}With you,{W40} of course."
+
+@MIT_DAT_B:119 PLY 38e54607
+"What?! I haven't heard anything about it!"
+
+@MIT_DAT_B:120 MIT da8a3e95
+"{V1127}{W10}Oh?{W35} Is that so?"
+
+@MIT_DAT_B:121 MIT ac618ea6
+"{V1128}{W8}No word reached you...{W3}{W3}{W5}{W50}{F7} it must be{W10} some kind of{W3} mistake.{W3}{W3}"
+
+@MIT_DAT_B:122 MIT 3bac0eed
+"{V1129}{W5}Tonight,{W3}{W3}{W15} I will check{W3}{W3} and{W3} call you."
+
+@MIT_DAT_B:123 PLY b427b9e6
+"Okay... I'll be waiting."
+
+@MIT_DAT_B:124 MIT 68c6343d
+"{V1130}{W8}Yes.{W35} Excuse me{W3}{W3}{W3} for today."
+
+@MIT_DAT_B:125 PLY e03a6130
+"Yeah, see you."
+
+@MIT_DAT_B:127 MIT b3ca4f10
+"{V1132}{W8}Master,{W3}{W3}{W3}{W45} please get home safely.{W3}{W3}"
+
+@MIT_DAT_B:128 PLY b39098f5
+"You too, Shijou."
+
+@MIT_DAT_B:129 MIT 6324ece9
+"{V1133}{W8}Yes."
+
+@MIT_DAT_B:131 SYS 7fe550bc
+An engagement ceremony... My parents have never told me anything like that.
+
+@MIT_DAT_B:132 SYS 21447b6c
+She doesn't seem to know anything either...
+
+@MIT_DAT_B:133 SYS c5166d98
+...I have a bad feeling. Like everything is about to end...
+
+@MIT_DAT_B:135 PLY ac462f44
+(The phone...)
+
+@MIT_DAT_B:138 MIT 18686e4c
+"{V1134}{W8}I apologize for the late{W3}{W3}{W3}{W5} call.{W3}{W50} This is{W2}{W13} Shijou{W5} Mitsuki{W5}{W5}{W3}{W1}{W1}{W1} speaking.{W35} Is this{W3} the home of {Nm}?{W5}{W3}{W3}"
+
+@MIT_DAT_B:139 PLY 8f4e0c47
+"Shijou, it's me."
+
+@MIT_DAT_B:140 MIT 15bda9c4
+"{V1135}{W10}Ah..."
+
+@MIT_DAT_B:141 PLY ea61f95f
+"So what happened with the engagement ceremony?"
+
+@MIT_DAT_B:142 MIT 3efdba67
+"{V1136}{W18}Well..."
+
+@MIT_DAT_B:143 MIT af4cf0fc
+"{V1137}{W10}I{W6}...{W100} must apologize to you."
+
+@MIT_DAT_B:144 PLY 8a9b2c14
+"Apologize?"
+
+@MIT_DAT_B:145 MIT c57f88e8
+"{V1138}{W10}Yes.{W100} I{W3}...{W105} mistook{W3}{W3} the person.{W8}"
+
+@MIT_DAT_B:146 MIT 728caa09
+"{V1140}{W10}My{W6}{W10} fiance{W3}{W3}{W3}{W70} is not at Kibina{W1}{W1}{W3} High School,{W5}{W7} {W55}but at Kibina{W1}{W1}{W1} University.{W3}{W3}{W10}{W80} His{W3} name{W30} differed{W3} a{W3} bit{W10}{W3}..."
+
+@MIT_DAT_B:147 PLY fcfe1549
+"I see... So you thought I was your fiance all along."
+
+@MIT_DAT_B:148 MIT 21214543
+"{V1141}{W10}Yes."
+
+@MIT_DAT_B:149 PLY f64516f7
+"So that's what it was..."
+
+@MIT_DAT_B:150 PLY ead380d4
+"Making such a big mistake isn't like you, Shijou."
+
+@MIT_DAT_B:151 MIT 78eac652
+"{V1142}{W12}I think{W1}{W3} I{W6}...{W90} when{W3} Father told{W3} me{W6} the{W3} name...{W3}"
+
+@MIT_DAT_B:152 MIT 08b54134
+"{V1143}{W10}I must have{W45} been{W6} convinced{W3}{W3}{W3} it was the person who{W3} praised my piano{W10} in the Music{W3} Room.{W35}{W3}"
+
+@MIT_DAT_B:154 MIT eccdff45
+"{V1144}{W12}No...{W95} perhaps I{W70} wished{W3} it to be so."
+
+@MIT_DAT_B:155 PLY a848c618
+"...So you have another fiance?"
+
+@MIT_DAT_B:156 MIT 805cb25b
+"{V1145}{W12}Yes."
+
+@MIT_DAT_B:157 MIT 56caf352
+"{V1146}{W10}I{W6} have...{W100} a fiance{W3}{W3}{W3} who was decided{W30} from the time I was born.{W3}"
+
+@MIT_DAT_B:158 PLY 052c53ad
+"Since you were born?!"
+
+@MIT_DAT_B:159 MIT 013bb270
+"{V1147}{W10}Yes.{W60} The daughters{W5} of the Shijou{W5} family{W6}{W45} receive, from birth,{W40} an education{W5}{W3} fit to present{W3} anywhere..."
+
+@MIT_DAT_B:160 MIT 242f7cec
+"{V1148}{W8}and{W2}{W2}{W5}{W5}{W5}{W3} it is{W3} custom{W3}{W40} to marry{W3}{W3} the heir of a more{W3} distinguished family."
+
+@MIT_DAT_B:161 PLY 277e1e6e
+"Like an old-time political marriage... Are you okay with that, Shijou?"
+
+@MIT_DAT_B:162 MIT b3fc3989
+"{V1149}{W10}The person{W3} Father{W3}{W3} chose{W3}{W55} cannot{W3} be a mistake."
+
+@MIT_DAT_B:163 PLY 47496912
+"...I see."
+
+@MIT_DAT_B:164 MIT 7d896afc
+"{V1150}{W10}Looking at you...{W95} spending time with you...{W55} I thought{W23} that{W3} Father{W3}{W3} was right{W3} after all."
+
+@MIT_DAT_B:165 MIT 7f1770bd
+"{V1151}{W10}I{W6}...{W70} have{W3} done something irreversible...{W63} I{W6}...{W85} have come to like you."
+
+@MIT_DAT_B:166 PLY f4265b0a
+"Shijou... I'm glad. Your feelings make me so happy! I... I feel the same..."
+
+@MIT_DAT_B:167 PLY 54d333aa
+(Say it! Tell her you like her!)
+
+@MIT_DAT_B:168 PLY cfd1e56f
+(...But if I say that when she has a fiance, I'll only end up hurting her...)
+
+@MIT_DAT_B:169 PLY e3826a36
+"...I have something to apologize for too."
+
+@MIT_DAT_B:170 PLY 4ed2c3dc
+"You suddenly called me Master. I kept thinking you had to be mistaking me for someone."
+
+@MIT_DAT_B:171 PLY da3dc0b5
+"But I was enjoying my time with you so much that I couldn't bring myself to ask."
+
+@MIT_DAT_B:173 MIT 5411619f
+"{V1152}{W12}That...{W20} is all right.{W35} Please{W6} do not apologize."
+
+@MIT_DAT_B:174 PLY 8bca9604
+"Hiiragi was right. With a fiance since birth, you and I live in different worlds."
+
+@MIT_DAT_B:175 PLY 6d0318be
+"And two people like that became close because of a small mistake."
+
+@MIT_DAT_B:176 MIT c6a0bc23
+"{V1153}{W8}{Nm}{W2}{W2}...{W2}"
+
+@MIT_DAT_B:177 PLY ad07a3ef
+"Can't the engagement be called off?"
+
+@MIT_DAT_B:178 MIT 122e31ee
+"{V1154}...{W5} Father{W3}{W3} decided it,{W15}{W83} so{W6} I{W6}{W10} cannot refuse."
+
+@MIT_DAT_B:179 MIT d6913014
+"{V1156}{W10}I{W6} have only{W3}{W3}{W3}{W40} one Master.{W3}{W5}{W60} I{W6}{W80} will live with that{W3} person.{W3}{W110} Even if...{W130} whatever{W3} happens..."
+
+@MIT_DAT_B:180 MIT 4eb9a828
+"{V1157}{W10}For me,{W6}{W5}{W35} this past month{W3}{W3} has been{W85} like{W5} a{W3} dream.{W3}"
+
+@MIT_DAT_B:181 MIT 649b949e
+"{V1158}{W10}I believe{W3}{W5} you have given me{W3}{W110} a lifetime of{W3} happiness.{W6}"
+
+@MIT_DAT_B:182 PLY c77a7252
+(Even if you say that... I... ugh...)
+
+@MIT_DAT_B:183 PLY 366935f1
+"...When is the ceremony?"
+
+@MIT_DAT_B:184 MIT df1fbdeb
+"{V1159}{W10}After the{W5} school{W5} festival{W5} ends{W5}..."
+
+@MIT_DAT_B:185 PLY ff535872
+"What?! That soon?!"
+
+@MIT_DAT_B:186 MIT ffdb32e4
+"{V1160}{W10}Yes..."
+
+@MIT_DAT_B:187 PLY 1863f748
+"That's so sudden... Until then, we can be together, right?"
+
+@MIT_DAT_B:188 MIT 827fa104
+"{V1161}{W10}Y{W2}es{W2}.{W45} If you are willing, {Nm},{W45} please{W5}{W6}{W3} be{W1}{W1}{W1}{W1}{W1}{W1} my{W5} conversation{W3} partner."
+
+@MIT_DAT_B:189 PLY cc198c23
+"Yeah. Whatever it takes, I want to be with you."
+
+@MIT_DAT_B:190 MIT 3d91738f
+"{V1162}{W12}So{W6} do I."
+
+@MIT_DAT_B:191 MIT 791d7010
+"{V1163}{W10}...{W15}...{W12}"
+
+@MIT_DAT_B:192 PLY e0e23e60
+"Good night, Shijou."
+
+@MIT_DAT_B:193 MIT c47de407
+"{V1164}{W10}Good night."
+
+@MIT_DAT_B:195 SYS 01408f7f
+...I did my best to act calm, but my heart is a mess.
+
+@MIT_DAT_B:196 SYS e0cccd32
+I don't want to lose Shijou... But what can I do?
+
+@MIT_DAT_B:197 SYS 41e4f810
+An engagement ceremony?! It's too early! Way too early!
+
+@MIT_DAT_B:198 SYS a171696e
+I don't want her to call me {Nm}. ...I used to hate being called Master so much, but now...
+
+@MIT_DAT_B:199 SYS bd905f23
+There is only one of it, so please give up on it.

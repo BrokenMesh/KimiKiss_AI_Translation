@@ -1,0 +1,221 @@
+# MEG_KBE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MEG_KBE:37 MEG 47775706
+"{V0247}{W15}Who {W4}was {W4}that {W15}just {W4}now?! {W45}{B40}{Eh}Carrying {W3}on {W3}at school like that, {W30}some {W4}improper {W3}boy-girl {W4}fraternizing{W4}!"
+
+@MEG_KBE:39 PLY 2ab6f903
+"N-no... it's not like that..."
+
+@MEG_KBE:44 MEG 37548094
+"{V0248}{W15}Then... {W3}what is it?!"
+
+@MEG_KBE:45 PLY 7b90bd0d
+"Well..."
+
+@MEG_KBE:47 MEG c3b357d0
+"{V0249}{W15}You can't {W4}answer me?!"
+
+@MEG_KBE:48 PLY 6b410038
+"Ugh..."
+
+@MEG_KBE:50 MEG 25e306e2
+"{V0250}{W15}...{W3}..."
+
+@MEG_KBE:52 MEG bec2534d
+"{V0251}{W21}I {W8}... {W90}I was starting to think better of you, {Nm}, {W1}and {W3}yet..."
+
+@MEG_KBE:53 PLY 7cb658b8
+"Huh...?"
+
+@MEG_KBE:55 MEG 2a5108ea
+"{V0252}{W15}Maybe... {W30}you weren't {W3}a wimp{W5}, but {W17}{Eo}a man {W4}with a gentle {W6}heart{W3}... {W3}{W45}{Eh}I'd {W3}started {W3}to think so..."
+
+@MEG_KBE:57 MEG b8c9234a
+"{V0253}{W15}And yet... {W66}{B40}to do something like that {W3}on {W3}school grounds..."
+
+@MEG_KBE:58 PLY 1e7f8ab0
+"Kuryuu..."
+
+@MEG_KBE:59 MEG 2bedee50
+"{Nm}... {V0254}{W18}that girl {W4}from {W4}just now... {W66}do you like her?"
+
+@MEG_KBE:60 PLY 970e135c
+"That's..."
+
+@MEG_KBE:61 MEG 9f9b46d5
+"{V0255}{W15}If you do, say so {W6}like a man!"
+
+@MEG_KBE:62 PLY 0d80b9d5
+"......"
+
+@MEG_KBE:63 PLY b18b49ce
+"...Kuryuu. That's a misunderstanding."
+
+@MEG_KBE:64 MEG 9dfec25c
+"{V0256}{W15}Huh?"
+
+@MEG_KBE:65 PLY f186b4c3
+"You misread it. Between that girl and me, well... there's nothing like what you're thinking, Kuryuu."
+
+@MEG_KBE:66 MEG 83c7d92d
+"{V0257}{W18}Is that {W5}true?"
+
+@MEG_KBE:67 PLY 751ce1bc
+"Yeah... it's true."
+
+@MEG_KBE:70 MEG 80fdbfae
+"{V0258}{W12}...{W8}I {W15}see. {W111}That's {W1}a {W1}bit {W1}of {W1}a {W1}relief{W1}. {W60}{Fe2m3}You'd never do something like that, {Nm}."
+
+@MEG_KBE:71 MEG 61db2246
+"{V0259}{W15}I was {W4}far away, {W30}so I {W8}must have {W4}seen wrong..."
+
+@MEG_KBE:72 MEG 780a317c
+"{V0260}{W15}But {W51}don't ever do anything that {W2}could cause {W2}a misunderstanding again. {W95}{Ec}Next {W4}time I see that, {W24}I {W8}..."
+
+@MEG_KBE:73 PLY ce7e3739
+"Yeah, I know."
+
+@MEG_KBE:74 MEG 5ef728c5
+"{V0261}{W15}See you, {Nm}."
+
+@MEG_KBE:77 PLY f17183f0
+(I'm sorry... Kuryuu. ...What a terrible guy I am...)
+
+@MEG_KBE:78 PLY aec2d14d
+(I have to sort out my feelings soon. Before it's too late to fix anything...)
+
+@MEG_KBE:80 MEG 94509eb1
+"{V0262}{W15}I saw you, {Nm}..."
+
+@MEG_KBE:81 PLY 6b8275f9
+"Ah! K-Kuryuu!"
+
+@MEG_KBE:83 MEG b0274352
+"{V0263}{W15}The other day, {W80}I wasn't seeing things after all."
+
+@MEG_KBE:84 MEG 6a8fd156
+"{V0264}{W15}I told you there'd be no second time, {W45}and here you are again, {W4}with some improper {W3}boy-girl {W3}fraternizing {W3}..."
+
+@MEG_KBE:87 MEG bdcbe9ac
+"{V0265}{W15}You like her, don't you? {W45}Hoshino{W3}."
+
+@MEG_KBE:88 MEG d0a2b59d
+"{V0266}{W15}Meek {W3}and quiet, {W57}gentle {W4}and kind, {W66}{Ec}so girlish... {W6}{W90}{Fe9}{Eo}To a boy, {W6}she's {W3}the ideal, isn't she?"
+
+@MEG_KBE:89 MEG 2f04a12d
+"{V0267}{W18}You like her, don't you? {W48}The {W4}Year 1 girl, {W5}{W39}Satonaka{W5}{W5}."
+
+@MEG_KBE:90 MEG fd9fbb7c
+"{V0268}{W18}Innocent, {W42}cheerful {W4}and bright, {W36}{Ec}full {W3}of energy... {W78}{Fe9}{Eo}To a boy, {W6}{W12}she must be {W3}impossibly cute, right?"
+
+@MEG_KBE:91 MEG 0cb6e785
+"{V0269}{W15}You like her, don't you? {W63}Mizusawa{W3}{W3}{W3}{W3}."
+
+@MEG_KBE:92 MEG 954d51b3
+"{V0270}{W15}Beautiful, {W30}great figure, {W30}{Ec}so {W4}sexy... {W81}{Fe9}{Eo}To a boy, {W6}{W6}she's someone to admire, right?"
+
+@MEG_KBE:93 MEG 572ae7eb
+"{V0271}{W18}You like her, don't you? {W45}Sakino{W3}."
+
+@MEG_KBE:94 MEG 6fc28091
+"{V0272}{W18}Lively {W3}and {W4}energetic, {W45}{Ec}healthy {W3}and {W3}fit, {W2}supple... {W51}{Fe9}{Eo}Even to {W6}another girl like {W6}me, {W2}she's really {W4}something."
+
+@MEG_KBE:95 MEG 206a2832
+"{V0273}{W15}You like her, don't you? {W36}Futami{W3}."
+
+@MEG_KBE:96 MEG 5e8344c9
+"{V0274}{W15}Sharp, {W8}{W45}beautiful, {W33}{Ec}with a hint of {W4}shadow... {W60}{Fe9}{Eo}To a boy, {W6}{W12}she's hard to ignore, isn't she?"
+
+@MEG_KBE:97 MEG e3f39ff4
+"{V7800}{W15}You like her, don't you? {W48}Shijou{W4}."
+
+@MEG_KBE:98 MEG 77ef5245
+"{V7801}{W15}Beautiful, {W45}graceful, {W45}{Ec}reserved{W4}... {W90}{Fe9}{Eo}With a young lady{W3} like{W2} that, {W15}a {W6}boy can't {W4}help noticing, right?"
+
+@MEG_KBE:99 PLY 8b148453
+"Kuryuu, I'm sorry... I..."
+
+@MEG_KBE:101 MEG 4e1e7875
+"{V0277}{W15}Haah{W27}... {W48}I{W8}, {W8}what an idiot. {W70}{Ec}{W5}{Fe3}{Eo}I thought you might like me a little, {Nm}."
+
+@MEG_KBE:102 MEG e9d518ed
+"{V0278}{W18}But {W40}I guess {W8}it was {W4}all in my head."
+
+@MEG_KBE:103 MEG c277599a
+"{V0279}{W12}Goodbye, {Nm}. {W21}Try to keep {W4}your {W4}dating {W3}wholesome{W3}."
+
+@MEG_KBE:104 PLY d89f9635
+"Kuryuu, wait..."
+
+@MEG_KBE:105 MEG a79aaaae
+"{V0280}{W15}Now {W4}there's nothing {W6}you can say to me, {W21}{F8}nothing {W4}at all!"
+
+@MEG_KBE:107 MEG bc1cf5a7
+"{V0281}{W18}Goodbye..."
+
+@MEG_KBE:108 PLY f158c16a
+"Ah... Kuryuu...!"
+
+@MEG_KBE:109 PLY 471fac2d
+(I... I've done something I can never take back...)
+
+@MEG_KBE:110 PLY 9b5501a5
+(Kuryuu... I'm sorry...)
+
+@MEG_KBE:111 MEG f5af9a4f
+"{V0282}{W18}I {W3}saw {W2}you{W2}, {Nm}!"
+
+@MEG_KBE:112 MEG 3cc1f833
+"{V0283}{W15}I told you to stop the improper {W4}boy-girl {W3}fraternizing{W3}{W3}, {W30}{Eh}and you... {W4}honestly..."
+
+@MEG_KBE:113 PLY 05f4a1b8
+"S-sorry... I..."
+
+@MEG_KBE:114 MEG 421701a7
+"{V0284}{W15}I don't want to hear {W3}excuses! {W54}{Eo}That girl {W4}just now, {W45}she's not the {W6}girl from the {W3}other day!"
+
+@MEG_KBE:115 MEG 7f2cca1e
+"{V0285}{W15}You are {W4}really {W4}a terrible {W4}person. {W51}Is any {W6}girl {W3}fine {W4}with you?"
+
+@MEG_KBE:116 MEG e7f5c216
+"{V0286}{W15}I thought {W3}better of you!"
+
+@MEG_KBE:118 MEG 540fdc2c
+"{V0287}{W15}Goodbye! {W45}Don't ever come {W6}near {W3}me again!"
+
+@MEG_KBE:119 PLY 870ecdc9
+"Ah! Kuryuu!"
+
+@MEG_KBE:120 PLY e0164981
+(I'm hopeless. I couldn't pick one girl, and I dragged it out indecisively until it came to this...)
+
+@MEG_KBE:121 PLY 4de7c50b
+(I... I...)
+
+@MEG_KBE:122 MEG 69e89df7
+"{V0288}{W15}I saw you, {Nm}..."
+
+@MEG_KBE:123 MEG b420c112
+"{V0289}{W15}You said you'd {W6}forgotten {W3}our {W3}promise {W3}to go home {W3}together, {W42}{Ec}but it was a {W3}lie..."
+
+@MEG_KBE:124 MEG fe3f6968
+"{V0290}{W15}I won't {W2}let you make excuses this time."
+
+@MEG_KBE:125 MEG bfc40ade
+"{V0291}{W15}I saw you, {Nm}!"
+
+@MEG_KBE:126 MEG dc41a801
+"{V0292}{W15}You {W6}ditched me and went {W3}home, {W3}and now {W39}{Eh}this {W2}time, with a {W1}different girl, you're doing that..."
+
+@MEG_KBE:127 MEG f981e538
+"{V0293}{W15}You {W1}are {W1}really {W1}such {W5}a {W8}horrible {W8}person{W1}! {W1}{W1}{W1}{W4}{W45}{Fe9}Is any {W8}girl {W5}okay {W5}with you?!"
+
+@MEG_KBE:128 MEG 2beced8e
+"{V0294}{W15}Don't make {W2}excuses! {W60}Are {W1}you {W1}going {W6}to {W1}lie {W5}to {W1}me {W1}again{W1}{W1}{W1}?!"
+
+@MEG_KBE:130 MEG c38d221a
+"{V0295}{W15}You... {W63}I don't even want to see your {W4}face..."
+
+@MEG_KBE:131 MEG ad0ebfd3
+"{V0296}{W18}Goodbye!{W1}{W1}{W1} {W57}Don't ever come {W6}near {W3}me again!"

@@ -1,0 +1,236 @@
+# ALL_MKI -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ALL_MKI:3 PLY fa0af360
+"Come to think of it, the other day..."
+
+@ALL_MKI:5 PLY 035711b0
+"Our club activities..."
+
+@ALL_MKI:6 PLY fcae64ea
+"Our school uniforms..."
+
+@ALL_MKI:7 PLY b83452d6
+"Committee work..."
+
+@ALL_MKI:8 PLY 2a86fdf8
+"Our school rules..."
+
+@ALL_MKI:9 PLY f3ac2102
+"The teachers at our school..."
+
+@ALL_MKI:10 PLY c5e8e879
+"About transferring schools, I think..."
+
+@ALL_MKI:11 PLY dba15c21
+"Studying every day, preparing and reviewing..."
+
+@ALL_MKI:12 PLY 6fd166b7
+"School grades..."
+
+@ALL_MKI:13 PLY 58937a97
+"Entrance exams..."
+
+@ALL_MKI:14 PLY 47dcf14d
+"Italian..."
+
+@ALL_MKI:15 PLY 89a9c4a8
+"P.E...."
+
+@ALL_MKI:16 PLY 7be60acf
+"Swimming..."
+
+@ALL_MKI:17 PLY c39f2784
+"Speaking of sports..."
+
+@ALL_MKI:18 PLY 7b556cc8
+"Dancing..."
+
+@ALL_MKI:19 PLY 2de06c77
+"Music..."
+
+@ALL_MKI:20 PLY d1a2eb2d
+"I saw this on TV the other day..."
+
+@ALL_MKI:21 PLY 1fc52982
+"Speaking of reading..."
+
+@ALL_MKI:22 PLY 2762ca82
+"Shopping..."
+
+@ALL_MKI:23 PLY 25315087
+"Fashion..."
+
+@ALL_MKI:24 PLY 98c31404
+"Accessories..."
+
+@ALL_MKI:25 PLY 469ef48d
+"Makeup..."
+
+@ALL_MKI:26 PLY 2f7d4b87
+"Swimsuits..."
+
+@ALL_MKI:27 PLY dbe3a72d
+"I ate something the other day..."
+
+@ALL_MKI:28 PLY d256f6a2
+"Sweets..."
+
+@ALL_MKI:29 PLY 3a414ec2
+"Speaking of drinks..."
+
+@ALL_MKI:30 PLY b5957922
+"Home cooking..."
+
+@ALL_MKI:31 PLY 942b9a23
+"Udon..."
+
+@ALL_MKI:32 PLY 86ca9e87
+"Junk food..."
+
+@ALL_MKI:33 PLY c621d57f
+"Health..."
+
+@ALL_MKI:34 PLY c7080522
+"Dieting..."
+
+@ALL_MKI:35 PLY 789947ac
+"The body..."
+
+@ALL_MKI:36 PLY f4cfdd77
+"Love..."
+
+@ALL_MKI:37 PLY 9f3ff6fa
+"Private life..."
+
+@ALL_MKI:38 PLY 25f1729f
+"This is a bit of a naughty topic, but..."
+
+@ALL_MKI:39 PLY 6f294ba6
+"The future..."
+
+@ALL_MKI:40 PLY a89c495d
+"Childhood..."
+
+@ALL_MKI:42 PLY e3bde0a6
+(She doesn't seem interested...)
+
+@ALL_MKI:43 PLY 9d1c8d5e
+(She doesn't seem totally uninterested...)
+
+@ALL_MKI:44 PLY cdd65816
+(Maybe that was too sudden, no matter how you look at it...)
+
+@ALL_MKI:45 PLY fa2b8ab6
+"N-no, it's nothing like that..."
+
+@ALL_MKI:46 - cf3a2302
+Hoshino
+
+@ALL_MKI:47 - a6a0b189
+Narumi
+
+@ALL_MKI:48 - 0e688034
+Mao
+
+@ALL_MKI:49 - 1b734b38
+Sakino
+
+@ALL_MKI:50 - 79f76ab3
+Futami
+
+@ALL_MKI:51 - 5c0ee812
+Shijou
+
+@ALL_MKI:52 - 97ea3ba4
+Nana
+
+@ALL_MKI:53 - 5e2c14c8
+Kuryuu
+
+@ALL_MKI:55 - f2aaf3b1
+"
+
+@ALL_MKI:56 - 2d08cb9e
+, I think..."
+
+@ALL_MKI:57 - 364b1e99
+ has good points, like..."
+
+@ALL_MKI:58 - 2954d35f
+..."
+
+@ALL_MKI:65 SYS 9b3cbf89
+{Ti0}{Ti2}Stare......
+
+@ALL_MKI:66 SYS a77d0776
+{Ti0}Smile!
+
+@ALL_MKI:67 PLY 7bcaa667
+(Okay, I'll put on a cool face and nail it!)
+
+@ALL_MKI:71 - 4c02bd05
+"
+
+@ALL_MKI:72 SYS c2ab9f12
+{Ti0}Sharp!
+
+@ALL_MKI:73 PLY 6a0ce4d0
+(Okay, here goes, I'll take her hand...)
+
+@ALL_MKI:74 SYS 1ffe4b9d
+{T0.0}Squeeze
+
+@ALL_MKI:75 - e16ac32a
+The conversation isn't taking off, is it...
+
+@ALL_MKI:76 - 93a2cb41
+ could talk about...
+
+@ALL_MKI:77 - 8e540769
+ would like to talk about...)
+
+@ALL_MKI:78 - 51706724
+(
+
+@ALL_MKI:79 - 467d7ded
+ more
+
+@ALL_MKI:80 - fabce914
+
+
+@ALL_MKI:81 - d07a4ccb
+(Ugh...
+
+@ALL_MKI:82 - d1134aa6
+ wants to talk about...)
+
+@ALL_MKI:84 - a1ec2f3c
+School Life
+
+@ALL_MKI:86 - a709b05c
+Studies
+
+@ALL_MKI:88 - d5d3ea28
+Sports
+
+@ALL_MKI:90 - ba2ff14d
+Fun
+
+@ALL_MKI:92 - c27a843c
+Fashion
+
+@ALL_MKI:94 - caf1f189
+Food
+
+@ALL_MKI:96 - 62c1ad78
+Beauty & Health
+
+@ALL_MKI:98 - e2a0ced1
+Romance
+
+@ALL_MKI:99 - 99966bab
+(Okay! 
+
+@ALL_MKI:100 - c0383a06
+ topic or something...)

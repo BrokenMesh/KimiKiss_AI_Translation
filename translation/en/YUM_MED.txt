@@ -1,0 +1,176 @@
+# YUM_MED -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@YUM_MED:41 YUM c1097266
+"{Nm}, {V1539}{W25}um...{W75} {Eo}for a while now{W10} it's been all about that..."
+
+@YUM_MED:44 PLY f125d3df
+"R-right. Sorry."
+
+@YUM_MED:45 YUM 0049fc11
+"{V1541}Fufu,{W55}{Eo} talking with you, {Nm},{W20} is so much fun."
+
+@YUM_MED:46 YUM fa71d000
+"{V1542}Fufu,{W50}{Eo} every one of those stories is so lovely."
+
+@YUM_MED:47 YUM cf3f5e02
+"{V5034}{Nm}, you{W15} know so many fun stories{Ec}."
+
+@YUM_MED:48 YUM bc4d764a
+"{V1543}{Nm}, you{W10} know so many{W5} lovely stories{Ec}."
+
+@YUM_MED:50 YUM fe59f55b
+"{Nm}, {V1552}{W15}could we keep{W25} talking together{F3} a little while longer?"
+
+@YUM_MED:51 PLY f12907f7
+"Of course. Then..."
+
+@YUM_MED:52 SYS abf93941
+{Ti0}.{W15} .{W15} .
+
+@YUM_MED:53 SYS a1c6df68
+And so, the two of us had a wonderful time together.
+
+@YUM_MED:55 YUM d10593f3
+"{Nm}, {V1544}{W10}if possible,{W35} I'd like you to talk about something different."
+
+@YUM_MED:56 PLY 5fd660a1
+"Something different?"
+
+@YUM_MED:57 YUM fc353404
+"{V1545}Yes,{W50} a totally different mood.{W80} ...I,{W60} {Nm}, can't keep up{W30} {F9}with what you want to talk about..."
+
+@YUM_MED:58 PLY 2037793c
+"I-I understand."
+
+@YUM_MED:59 PLY eb4f502b
+(Okay! Switch gears and think of a different topic!)
+
+@YUM_MED:60 YUM c3af8e74
+"{V1546}Ah..."
+
+@YUM_MED:65 PLY bb7e51c0
+"W-what's wrong?"
+
+@YUM_MED:66 YUM 60589a89
+"{V1547}{W5}There was a bit of thread on your shoulder..."
+
+@YUM_MED:67 PLY 9fb1b843
+"Oh... thanks."
+
+@YUM_MED:69 YUM 06d74e05
+"{V1548}{W5}You're welcome."
+
+@YUM_MED:70 PLY bdc3466d
+(Ugh... Hoshino suddenly came so close that I forgot what to say.)
+
+@YUM_MED:71 YUM 53b9dae5
+"{V1549}{Nm}, your eyes are{W45} lovely."
+
+@YUM_MED:72 PLY f70bbbcf
+"Huh? R-really?"
+
+@YUM_MED:73 YUM 1c092783
+"{V1550}Mm.{W35} They look so{Eo} gentle."
+
+@YUM_MED:74 PLY 6e848d09
+"T-thanks."
+
+@YUM_MED:75 YUM 188fd893
+"{V1551}Fufu."
+
+@YUM_MED:76 PLY 8cd45916
+(Ugh... my heart's pounding and I can't think of what to say.)
+
+@YUM_MED:77 YUM 918a3e73
+"{Nm}, {V2339}{W10}I'm sorry.{W10} I just remembered something I have to go do..."
+
+@YUM_MED:78 PLY f596f20c
+"Huh? Really?"
+
+@YUM_MED:79 YUM 8cf92621
+"{V2340}{W5}Yes..."
+
+@YUM_MED:81 YUM aa944636
+"{V2341}I'm sorry.{W35} I...{W25} I'll be going."
+
+@YUM_MED:82 PLY 7d68aa58
+"Y-yeah..."
+
+@YUM_MED:83 PLY 1f144e40
+(Ah... she left... The conversation wasn't going well, I guess...)
+
+@YUM_MED:84 YUM bd3a7e22
+"{Nm}, {V2342}{W10}I...{Eo}{W50} I,{W90} somehow, I've started to feel embarrassed..."
+
+@YUM_MED:85 YUM 23605890
+"{V2343}S-{W5}sorry!"
+
+@YUM_MED:87 PLY 11856e65
+"Ah... Hoshino..."
+
+@YUM_MED:88 PLY 3d796206
+(She left... Did I tell too many embarrassing stories?)
+
+@YUM_MED:89 YUM 6c9a41be
+"{V2344}Oh,{W50} it's almost time for class.{W85} {F6}I wanted a little more{W20} time to talk with you, {Nm}..."
+
+@YUM_MED:90 PLY 62605447
+"It can't be helped. See you, Hoshino."
+
+@YUM_MED:91 YUM 88b74312
+"{V2345}Yes,{W45} {Ec}see you."
+
+@YUM_MED:92 YUM 8da84a51
+"{V2346}Ah...{W60} I,{W15} I should be{F6} going soon..."
+
+@YUM_MED:93 YUM 915d4051
+"{V2347}Mm...{W75} I'd like to talk a little more{W35} with you, {Nm}, but..."
+
+@YUM_MED:94 YUM 55f1c97f
+"{V2348}I'll go now,{W20} then."
+
+@YUM_MED:95 PLY 05a82dc7
+"Okay. See you, Hoshino."
+
+@YUM_MED:96 YUM 5175f120
+"{V2349}Yes,{W40} see you."
+
+@YUM_MED:97 YUM e7c5940b
+"{V2350}Oh,{W45} it's almost time for class.{W40} {F3}See you, {Nm}."
+
+@YUM_MED:98 PLY e03a6130
+"Yeah, see you."
+
+@YUM_MED:99 YUM 2c1112ab
+"{V2351}Ah...{W45} I should be {F3}going soon."
+
+@YUM_MED:100 YUM ae4acfa9
+"{V2352}{W5}See you, {Nm}."
+
+@YUM_MED:101 PLY 9a4353dc
+"Hoshino, sorry. I need to get going..."
+
+@YUM_MED:102 YUM 2991e56a
+"{V2353}{W5}Eh?{W60} {F6}Oh, I see..."
+
+@YUM_MED:103 YUM 871e7cd7
+"{V2354}I wanted a little more time,{W35} to talk with you..."
+
+@YUM_MED:104 PLY a002148c
+"Sorry. Let's continue next time."
+
+@YUM_MED:105 YUM 3c99e961
+"{V2355}Mm."
+
+@YUM_MED:106 PLY 6cf810de
+"See you, Hoshino."
+
+@YUM_MED:107 YUM 33257ce8
+"{V2356}Yes,{W40} see you, {Nm}."
+
+@YUM_MED:108 YUM c7d33fbf
+"{V2357}Ah...{W35} I see...{F1}"
+
+@YUM_MED:109 YUM d1e193e0
+"{V2358}Well then,{W5} see you, {Nm}."

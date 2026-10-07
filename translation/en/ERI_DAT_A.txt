@@ -1,0 +1,338 @@
+# ERI_DAT_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_DAT_A:16 PLY 6617146b
+(11:20. That's just about right.)
+
+@ERI_DAT_A:32 PLY e3b6b378
+"Oh, Futami."
+
+@ERI_DAT_A:36 ERI b16fb3c9
+"{V0859}{W8}Right{W3} on{W3} time.{W45}{Fe9m3} Did{W1} I{W1} keep{W1} you{W1} waiting,{W30} by any chance?"
+
+@ERI_DAT_A:37 PLY a3ec15aa
+"No, I just got here too."
+
+@ERI_DAT_A:39 ERI 3c066a0f
+"{V0860}{W8}I see.{W41} {Fm3}Good."
+
+@ERI_DAT_A:40 PLY fd30e69a
+"Shall we go, then?"
+
+@ERI_DAT_A:42 ERI 2787fbbb
+"{V0861}{W5}Yes."
+
+@ERI_DAT_A:45 SYS 321d6fdb
+...And so, Futami and I headed to the beach.
+
+@ERI_DAT_A:51 ERI e6a1939a
+"{V0862}{W8}Fufu{W5}{W3}{W3},{W30} the smell{W3} of the sea{W3},{W30} it's been{W3} so long."
+
+@ERI_DAT_A:52 PLY 9d6abc0b
+"Hahaha, I see."
+
+@ERI_DAT_A:53 PLY 3b26593c
+"Summer's almost over, so there really aren't many people."
+
+@ERI_DAT_A:55 ERI dfb255f3
+"{V0863}{W10}A small{W4} crowd is nice,{W30} {Fm3}you can relax."
+
+@ERI_DAT_A:56 PLY 851b6dc4
+"True."
+
+@ERI_DAT_A:57 ERI 7117de1b
+"{V0864}{W5}{Ec}{F3}Well then,{W30} I'll go change."
+
+@ERI_DAT_A:58 PLY 71d2fc10
+"Okay. Shall we meet on the sand?"
+
+@ERI_DAT_A:59 ERI dc1bfb1a
+"{V0865}{W8}{Eh}That's fine.{W30} Well then,{W30} later."
+
+@ERI_DAT_A:63 PLY 3d1b35e3
+(......)
+
+@ERI_DAT_A:64 PLY 2ddf64ef
+(What kind of swimsuit will Futami wear...? I can't picture it.)
+
+@ERI_DAT_A:65 ERI cfacc169
+"{V0866}{W5}Sorry to keep you waiting, {Nm}."
+
+@ERI_DAT_A:66 PLY 634f9920
+"Ah..."
+
+@ERI_DAT_A:71 PLY 1288d210
+(What a bold{W40} swimsuit...)
+
+@ERI_DAT_A:73 ERI aeab9aef
+"{V0867}{W5}What's wrong?{W11} Staring at me like that."
+
+@ERI_DAT_A:75 PLY d20d7d7d
+"Ah, no... it's nothing..."
+
+@ERI_DAT_A:76 ERI 975786a4
+"{V0868}{W5}Heh{W3}{W3},{W66} {F9}{Eo}I{W8} am{W5} flat,{W72} {Fe6}{Ec}aren't{W4} I?"
+
+@ERI_DAT_A:77 PLY 83644ba0
+"Huh? ...T-true, maybe there's not much..."
+
+@ERI_DAT_A:78 ERI 6bb6ce66
+"{V0869}{W12}{Eh}{Fm4}It{W2} must be,{W39} that I{W4} am{W4} short on female hormones{W5}."
+
+@ERI_DAT_A:79.1 - 32d2fb77
+{Ti0}- Does it bother you?／- Bigger is better, right?／- Flat is better!
+
+@ERI_DAT_A:80 PLY 0d9ee5c7
+"Does it bother you?"
+
+@ERI_DAT_A:81 ERI e391d2d9
+"{V0870}{W10}{Fe4}A{W4} little.{W45} {Eh}{Fe6}Because{W8} my body{W30} is{W4} weak."
+
+@ERI_DAT_A:82 PLY 876a2929
+"I see..."
+
+@ERI_DAT_A:83 PLY 990dee72
+"Bigger is better, right?"
+
+@ERI_DAT_A:84 ERI c375a3d7
+"{V0871}{W15}True.{W45} {F2}{Ec}That{W3} way{W15} looks more{W3} feminine{W3}, doesn't it?"
+
+@ERI_DAT_A:85 PLY 7ca5b0a2
+"Flat is better!"
+
+@ERI_DAT_A:86 ERI 7ef89b4c
+"{V0872}{W8}{Eo}{F4}Why?"
+
+@ERI_DAT_A:87 PLY 706c42c0
+"W-why, well... I mean, I kind of like slim girls, you know..."
+
+@ERI_DAT_A:88 ERI 2470ed6a
+"{V0873}{W8}{Eh}{Fe1m3}Hmm{W3}{W3}.{W60} {Nm}{W5}, huh{W1}...{W15} so that's your type."
+
+@ERI_DAT_A:89 ERI 63a60305
+"{V0874}{W8}Being{W1} thin{W1} turns{W1} out{W33} to have {Ec}benefits."
+
+@ERI_DAT_A:90 PLY 1fa425b6
+"Still... the wind is pretty cold. Aren't you cold?"
+
+@ERI_DAT_A:91 ERI cc4837bd
+"{V0875}{W5}I{W3} am{W3} fine.{W30} It's better{W3} than being hot."
+
+@ERI_DAT_A:92 PLY 25e2e286
+"Do you not like the heat?"
+
+@ERI_DAT_A:93 ERI 0d74579b
+"{V0876}{W8}{Fe9}Yes.{W45} {Ec}{Fm4}I get dazed{W3}, and{W30} {Eh}{Fm3}cannot{W4} think{W4} at all."
+
+@ERI_DAT_A:94 PLY d905bbbf
+"I see."
+
+@ERI_DAT_A:95 PLY 945fc327
+"The water looks cold too. No wonder so few people are swimming."
+
+@ERI_DAT_A:96 ERI 60d3e4f8
+"{V0877}{W5}Really?{W30} {Nm},{W33} are you{W3} sensitive to the cold?"
+
+@ERI_DAT_A:97 PLY f8abe429
+"It's not that, but I'm only in swim trunks..."
+
+@ERI_DAT_A:98 ERI 836fcfd6
+"{V0878}{W10}{Fe7m4}I see..."
+
+@ERI_DAT_A:99 ERI 22cddef8
+"{V0879}{W9}{Eh}{Fe1m4}So{W7} you{W5} are{W3} cold{W3}...{W81} {Fm3}That's{W1} good to know."
+
+@ERI_DAT_A:100 PLY 99ce1ae2
+(Uh-oh... I've got a bad feeling...)
+
+@ERI_DAT_A:110 ERI de90d290
+"{V0880}{W8}Take that!{W8} Take that!"
+
+@ERI_DAT_A:112 PLY 861cc3ed
+"Whoa! Cold!"
+
+@ERI_DAT_A:113 ERI f22b7c57
+"{V0881}{W8}Ahahaha!{W5} Take that!{W5} Take that!"
+
+@ERI_DAT_A:114 PLY 80a85192
+"A-{W15}at least let me warm up first..."
+
+@ERI_DAT_A:115 ERI b7d3ce6d
+"{V0882}{W5}Hehe{W3}{W5}{W3}{W5},{W45} I won't{W5} let{W3} you{W2} escape!"
+
+@ERI_DAT_A:117 SYS dc2a7ed5
+...Just like that, I enjoyed the beach with Futami.
+
+@ERI_DAT_A:118 PLY 47fd39be
+"...Should we... head home soon?"
+
+@ERI_DAT_A:119 ERI 44603ddf
+"{V0883}{W8}I{W1} suppose{W1} so.{W72} It was{W3} fun..."
+
+@ERI_DAT_A:120 ERI 38c1deaf
+"{Nm}, {V0884}{W8}for today{W3}...{W30} thank you..."
+
+@ERI_DAT_A:121 PLY 72a0db88
+(I want to be with Futami a little longer...)
+
+@ERI_DAT_A:122 PLY adb2ade6
+"...Futami, want to stop by somewhere quiet?"
+
+@ERI_DAT_A:123 ERI 53221def
+"{V0885}{W10}{Fe3m4}{Eh}A{W6} quiet{W3} place{W5}?{W10}"
+
+@ERI_DAT_A:124 PLY 319b27a9
+"Let's see... how about Hilltop Park?"
+
+@ERI_DAT_A:125 ERI e61f932d
+"{V0886}{W8}{F3}That's fine."
+
+@ERI_DAT_A:129 PLY 2ca64493
+"Futami..."
+
+@ERI_DAT_A:130 ERI 0c9f06a9
+"{V0887}{W8}{Eo}{F3}What{W4}?"
+
+@ERI_DAT_A:131 PLY 30296049
+"You're going on to college, of course, right, Futami?"
+
+@ERI_DAT_A:132 ERI 79e3524d
+"{V0888}{W8}{E}{Fe6}Yes."
+
+@ERI_DAT_A:133 PLY 22f85400
+"Where will you go? One of the top universities?"
+
+@ERI_DAT_A:134 ERI de38a4ed
+"{V0889}{W8}{Fe4}{Ec}I have not decided."
+
+@ERI_DAT_A:135 PLY d9372ba1
+"Why?"
+
+@ERI_DAT_A:136 ERI 93c3c277
+"{V0890}{W5}{Eh}{Fm1}Do you want to know?"
+
+@ERI_DAT_A:137 PLY 4278876f
+"Yeah. If you don't mind..."
+
+@ERI_DAT_A:138 ERI a261a960
+"{V0891}{W8}{Eh}{Fe6m1}Back{W8} then,{W45} when{W3} I{W3} was in junior high{W3},{W36} I{W3} put{W3} a physics{W10} paper{W3} up{W3} on the net{W3}."
+
+@ERI_DAT_A:139 PLY f231e4db
+"A paper?"
+
+@ERI_DAT_A:140 ERI c6f00d85
+"{V0892}{W8}{E}{F3}Yes.{W51} {Ec}{Fe6}It was just a summary of what I'd noticed,{W15}{W24} {Fe9}{Eh}but it{W15} was{W3} unexpectedly{W2} well{W2} received."
+
+@ERI_DAT_A:141 ERI 2cb60d4a
+"{V0893}{W8}Researchers{W4} from{W1} all{W1} kinds{W5} of universities{W5},{W36} and{W1} from{W4} companies{W1} too{W4}{W4}{W4},{W15} started{W4} inviting{W3} me."
+
+@ERI_DAT_A:142 PLY 4376d628
+"W-wow..."
+
+@ERI_DAT_A:143 ERI 3aec62a9
+"{V0894}{W8}Heh{W3}{W3},{W60} {Eo}When{W8} they{W1} learned{W4} I{W4} was{W4} a{W2} junior{W1} high{W1} student{W2},{W30} everyone{W6} was shocked."
+
+@ERI_DAT_A:144 PLY c7dc7ea0
+"I bet."
+
+@ERI_DAT_A:145 ERI 94c945cd
+"{V0895}{W8}{E}{Fe6m4}So I{W8}..."
+
+@ERI_DAT_A:146 ERI bb294682
+"{V0896}{W12}At{W1} universities{W4} and{W4} institutes{W1} worldwide{W4}{W4}{W1}{W4}{W4},{W27} I{W4} will{W4} study{W1} and{W1}{W57} research{W2} for{W4} life{W3}{W4}{W3}{W4}.{W60}{Fe1} I{W3} just{W2} haven't picked a first stop{W12}."
+
+@ERI_DAT_A:147 PLY 0d80b9d5
+"......"
+
+@ERI_DAT_A:148 ERI 392a2dd8
+"{V0897}{W8}{Ec}{Fe7m1}I{W8}...{W45} never{W3} gave{W3} my{W1} future{W1} a{W1} thought{W1}{W1},{W42} but{W80} {Eh}{Fm3}meeting{W1} you{W1}{W1}{W1}{W1}{W33} changed{W1} me{W1}{W1}."
+
+@ERI_DAT_A:149 PLY 13303ddd
+"Futami, you..."
+
+@ERI_DAT_A:150 ERI 25ac2b82
+"{V0898}{W5}{Eo}{F4}Eh?"
+
+@ERI_DAT_A:151 PLY b460a6b2
+"Thinking about it again, you're incredibly smart."
+
+@ERI_DAT_A:152 ERI c56eb826
+"{V0899}{W5}{Ec}{F3}Heh,{W65} {Eh}{Fe9}I'm just strange."
+
+@ERI_DAT_A:153 ERI 9169826b
+"{V0900}{W8}Back then{W8},{W60} while{W3} ordinary{W3} kindergartners{W3} drew{W20} pictures{W3},{W55} {Fe9m3}{Eo}I was obsessively{W42} calculating{W3} pi{W3}{W3}{W3}{W4}."
+
+@ERI_DAT_A:154 PLY 2f728cc5
+"Pi? The 3.14 thing you use to find the length around a circle?"
+
+@ERI_DAT_A:155 ERI 6ef147d8
+"{V0901}{W12}Yes."
+
+@ERI_DAT_A:157 ERI ca0d9e55
+"{V0902}{W10}{Ec}{F4}3{W8}.{W8}1{W3}4{W3}1{W3}5{W2}9{W3}2{W2}6{W3}5{W2}3{W3}5 {W3}897932 38{W1}4{W2}6{W3} {W8}2643383{W2}2{W3}7{W3}9{W3} {W9}5{W1}0{W2}2{W1} 8{W1}8{W1}4{W1}1{W2}9{W3}7{W3}1{W3}..."
+
+@ERI_DAT_A:158 ERI 0d96fae6
+"{V0903}{W8}Even now{W4},{W39} I can recite 100 digits{W2} or so{W6}, from{W2} memory{W3}."
+
+@ERI_DAT_A:159 PLY 7f742846
+"That's amazing. ...But why pi?"
+
+@ERI_DAT_A:160 ERI 77f2f034
+"{V0904}{W8}{Fe4}Because{W1} compared{W1} to{W1} drawing{W1}{W1},{W30} it{W1} was{W4} much more fun."
+
+@ERI_DAT_A:161 ERI b3ce09ec
+"{V0905}{W12}{F6}Since{W2} it{W2} is{W5} irrational{W1}{W1},{W25} there{W4} would{W1} never{W1} be{W1} an{W1} answer{W12}, I{W8} knew, but..."
+
+@ERI_DAT_A:162 ERI 39dd6690
+"{V0906}{W8}{Fe9m4}Using{W1} drawing{W3} paper{W1} and{W1} crayons{W1}{W1}{W1}{W1}{W1}{W4},{W15} for{W2} a{W3} month{W3}, I{W1} was{W4} lost{W1} in{W3} calculations{W3}."
+
+@ERI_DAT_A:163 ERI 05ccdf34
+"{V0907}{W5}{Eo}{Fm3}See?{W30} Strange{W3}, isn't it?"
+
+@ERI_DAT_A:164 PLY a547cf22
+"...It's not strange at all. I think it's amazing."
+
+@ERI_DAT_A:166 PLY 7e8cea0c
+"I hope you get to use that talent..."
+
+@ERI_DAT_A:168 ERI 37763317
+"{W15}{Nm}{W15}...{W60}{V0908}{E}{W5}{Eh}{Fe9m3}Thank you."
+
+@ERI_DAT_A:170 ERI 4fda5877
+"{V0909}{W5}{Eo}{Fe6m1}{Nm}{W3}, you..."
+
+@ERI_DAT_A:171 PLY 122df4f6
+"Huh?"
+
+@ERI_DAT_A:172 ERI fdd548f1
+"{V0910}{W10}{Ec}No,{W24} {Fm3}it's nothing."
+
+@ERI_DAT_A:173 PLY a6225307
+"Starting to say something and not finishing isn't like you, Futami. Say it properly."
+
+@ERI_DAT_A:174 ERI ffcf2274
+"{V0911}{W12}{Fe8m4}You're right...{W30} {Eo}{Fe6m3}It's{W12} not{W1} like{W1} me{W1}.{W66} {E}{F1}Fine,{W21} I'll say it."
+
+@ERI_DAT_A:177 ERI d41dde99
+"{V0912}{W8}{Nm}{W3}...{W78} If I{W8} disappeared,{W48} what would you do?"
+
+@ERI_DAT_A:178 PLY 752bc6cc
+"Huh? Why?"
+
+@ERI_DAT_A:179 ERI 5e29e877
+"{V0913}{W8}If I{W8} went{W45} to{W3} a{W3} university{W3} abroad{W3},{W39} we would be{W3} separated."
+
+@ERI_DAT_A:180 PLY ee70b276
+"I see, so that could happen too... I hadn't thought of that..."
+
+@ERI_DAT_A:181 ERI f1525c95
+"{V0914}{E}{Fe6}...Keep it in mind.{P6}{Ec}{Fm8}{W45} I{W8} may not,{W54} be able to stay{Fm6}{W24} by your side...{Eh}"
+
+@ERI_DAT_A:184 SYS 2bc70949
+...And so I spent the day with Futami.
+
+@ERI_DAT_A:185 SYS f91f0838
+Futami...
+
+@ERI_DAT_A:186 SYS e0fb995f
+There's only one, you know.

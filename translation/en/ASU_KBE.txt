@@ -1,0 +1,239 @@
+# ASU_KBE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_KBE:38 ASU f1b83597
+"{V0487}{Nm}..."
+
+@ASU_KBE:40 PLY b681e81b
+"Ah! S-Sakino!"
+
+@ASU_KBE:42 ASU 096aad23
+"{V0488}{W15}Just{W4} now...{W66} what{W4} were you doing?"
+
+@ASU_KBE:43 PLY 581945bc
+"T-that's..."
+
+@ASU_KBE:47 ASU ba6d099e
+"{V0489}{W15}I{W1} was{W1} too{W1} far{W4} away{W1} to{W1} see{W1} clearly{W1}{W1}, but{W1}...{W84} {Eh}you and{W1} that{W1} girl{W1},{W36} you{W1} seem awfully{W4} close, huh?"
+
+@ASU_KBE:48 PLY 0d80b9d5
+"......"
+
+@ASU_KBE:52 ASU 77259885
+"{V0490}{W3}...{W3} {Nm},{W1} to{W1} you,{W2} am{W1} I{W9}...{W57} still{W1} just{W1} a{W1} friend{W4}{W4}?{W42} {Fm6}{Ec}Are you saying we should stay good{W3} friends{W3}?"
+
+@ASU_KBE:53 PLY 98d86410
+"Sakino..."
+
+@ASU_KBE:54 ASU 61a9ba4c
+"{V0491}{W12}See,{W1}{W75} I{W8}...{W6} I'm{W4} dense about that sort of thing... {W45}{Fe9}{Eo}If you don't say it plainly,{W25} {Ec}I just don't get it..."
+
+@ASU_KBE:56 ASU 1f1ed8cb
+"{V0492}{W5}...{W3}Don't{W5} worry,{W5}{W51} I'm used to being told{W3} to stay{W3} friends..."
+
+@ASU_KBE:57 ASU c9c325e7
+"{V0493}{W12}I'll do it right,{W81} I'll be a good{W9} friend{W5}{W6}...{W40} {Ec}I promise..."
+
+@ASU_KBE:58 PLY 560aa0d7
+"That... you just saw it wrong."
+
+@ASU_KBE:60 ASU f2e42aa9
+"{V0494}{W8}Huh?"
+
+@ASU_KBE:61 PLY 1c8be33b
+"There's nothing between me and that girl... It's not what you're thinking, Sakino..."
+
+@ASU_KBE:62 ASU ac261dde
+"{V0495}{W12}Really?{W6}"
+
+@ASU_KBE:63 PLY 751ce1bc
+"Yeah... really."
+
+@ASU_KBE:64 ASU 088f3a12
+"{V0496}{W8}{Nm}..."
+
+@ASU_KBE:65 ASU f2e94798
+"{V0497}{W12}...{W3}Oh{W2}...{W8} I see,{W30} sorry.{W30} I made{W4} a big{W3} fuss."
+
+@ASU_KBE:66 ASU bea8d5b6
+"{V0499}{W12}Okay! {Ti2}{W60}I believe you, {Nm}!"
+
+@ASU_KBE:67 ASU d5e40e24
+"{V0500}{W5}...{W3}But,{W72} I never{W1} want{W1} to{W1} see that again.{W78} {Fe9}You{W1} understand,{W1} right?{W1}"
+
+@ASU_KBE:68 PLY 7f2390da
+"Yeah, I understand."
+
+@ASU_KBE:71 ASU c4764870
+"{V0501}{W8}See ya,{W6} {Nm}.{W30} {Ec}Later."
+
+@ASU_KBE:75 PLY d8abd815
+(Sorry... Sakino. ...What a terrible guy I am...)
+
+@ASU_KBE:76 PLY 772be3f3
+(I have to sort out how I feel, fast. Before it's too late...)
+
+@ASU_KBE:77 ASU 606ce7df
+"{V0502}{W12}{Nm}..."
+
+@ASU_KBE:78 ASU b7503ddc
+"{V0503}{W12}I shouldn't{W4} have{W1} trusted you,{W60} {Nm}..."
+
+@ASU_KBE:79 PLY f725dd6d
+"Huh..."
+
+@ASU_KBE:81 ASU ebbc7859
+"{V0504}{W12}You're a terrible{W4} person,{W23} {Nm}.{W97} {F6}Just because{W8} I'm{W5} clueless{W4} about{W4} love...{W58} {Ec}to think you'd deceive me."
+
+@ASU_KBE:83 ASU fe9be493
+"{V0505}{W12}If{W5} you{W2} like{W1} someone{W1} else{W1},{W5} why{W1} not{W1} just{W1} say{W1} so?{W60} Be{W1} honest{W2} about it{W1}{W5}{W5}{W1}!"
+
+@ASU_KBE:84 ASU d38ff86c
+"{V0506}{W13}That girl{W1} earlier{W1}...{W48} she's{W1} really{W1} pretty{W1}, isn't she?{W59} {Fe9}And,{W60} she seems so quiet{W3},{W42} and kind{W3}..."
+
+@ASU_KBE:85 ASU 8eab982c
+"{V0507}{W10}I'm{W8} nothing{W4} like her{W3}..."
+
+@ASU_KBE:86 ASU 4071fdf1
+"{V0508}{W12}That girl{W1} earlier{W1},{W60} she's{W4} in{W3} Year 1,{W3} right?{W102} Small,{W45} and so cute..."
+
+@ASU_KBE:87 ASU 9cdf6dda
+"{V0509}{W10}I'm{W8} nothing{W3} like her{W4}..."
+
+@ASU_KBE:88 ASU 8d82a634
+"{V0510}{W12}That woman earlier{W3},{W43} that{W3} was{W3} Mizusawa{W3} from{W3} Year 3, right?{W77} {Ec}She's beautiful{W3} and famous{W2}, isn't she{W2}?"
+
+@ASU_KBE:90 ASU abe02e39
+"{V0511}{W12}Fair{W3}-skinned{W3},{W45} a great figure,{W45} so feminine..."
+
+@ASU_KBE:91 ASU b6bb4c99
+"{V0512}{W10}I'm{W8} nothing{W4} like her{W4}..."
+
+@ASU_KBE:92 ASU 2b834fbd
+"{V0513}{W12}That girl{W1} earlier{W1},{W33} that's Futami{W3}, right?{W1}{W1}{W1}{W87} {Ec}She's really{W12} smart{W8} and famous{W15}{W4}{W4}, isn't she?"
+
+@ASU_KBE:93 ASU 35730b16
+"{V0514}{W3}...I knew it,{W9} {Nm}.{W54} You like{W1} girls{W8} who are smart{W1}, huh?"
+
+@ASU_KBE:94 ASU c09381cd
+"{V0515}{W15}Someone like{W8} me{W24} wouldn't{W4} stand{W3} a{W1} chance{W4} from{W1} the{W1} start{W1}{W1}{W1}..."
+
+@ASU_KBE:95 ASU 615d7cb1
+"{V0516}{W12}That girl earlier,{W49} she's the famous{W3} young lady,{W6}{W4} Shijou,{W3}{W3} right?{W4}"
+
+@ASU_KBE:96 ASU ed5d33df
+"{V0517}{W8}Neat{W4} and{W1} refined, graceful,{W60} so delicate..."
+
+@ASU_KBE:97 ASU e4939057
+"{V0518}{W12}I'm{W8} nothing{W2} like{W4} her..."
+
+@ASU_KBE:98 ASU 092e2fa3
+"{V0519}{W12}That girl{W1} earlier{W1},{W75} that's Kuryuu{W1} from the Discipline Committee{W3}{W3}{W4}, right?"
+
+@ASU_KBE:99 ASU 19fdf5e3
+"{V0520}{W10}Serious, cute,{W48} and{W1} what's{W1} more{W1}, a judo{W5} black{W5} belt{W1}{W3}{W3}..."
+
+@ASU_KBE:100 ASU e62238e2
+"{V0521}{W12}I'm{W9} nothing{W1} like{W1} her{W1}{W24}{W3}{W3}..."
+
+@ASU_KBE:101 PLY 6216afbe
+"Sakino, I'm sorry... I..."
+
+@ASU_KBE:102 ASU f7bee6bb
+"{V0522}{W8}Don't make{W3} excuses!"
+
+@ASU_KBE:103 ASU e751bac1
+"{V0523}{W12}No{W1} matter{W1} how{W3} dense{W9} I{W1} am...{W84} I won't{W10} be fooled again."
+
+@ASU_KBE:105 ASU 9c8742b6
+"{V0524}{W15}I{W8} can't{W51} be good friends with you{W60} anymore, {Nm}..."
+
+@ASU_KBE:107 ASU 789acdba
+"{V0525}{W10}Never{W3} talk to me again!"
+
+@ASU_KBE:109 ASU c2fffb76
+"{V0526}{W10}Goodbye!"
+
+@ASU_KBE:110 PLY 34bde391
+"Ah... Sakino...!"
+
+@ASU_KBE:111 PLY 471fac2d
+(...I've done something I can't take back...)
+
+@ASU_KBE:112 PLY 60f1a751
+(Sakino... I'm sorry...)
+
+@ASU_KBE:113 ASU deb86a5b
+"{V0527}{W12}{Nm}..."
+
+@ASU_KBE:114 ASU 6876a9b8
+"{V0528}{W15}I shouldn't{W5} have{W1} trusted{W1} you,{W1}{W1}{W59} {Nm}{W1}{W1}{W1}{W1}..."
+
+@ASU_KBE:115 ASU 304f1b03
+"{V0529}{W15}You're{W1} a{W1} terrible{W1} person{W4}, {Nm}.{W1}{W9}{W78} Just because{W9} I'm{W5} clueless{W4} about{W1} love{W4}{W1}{W1}{W1}...{W48} {Eh}you'd do this to me..."
+
+@ASU_KBE:116 ASU 092619d0
+"{V0530}{W12}And a different girl{W8} from the one the other day{W3}{W1}{W1}...{W83} {Ec}Doing that with so{W3} many{W3} girls{W8}...{W42} {Fe9}{Eo}I can't{W3} believe it!"
+
+@ASU_KBE:117 PLY 0ceaf3ba
+"Sakino... I..."
+
+@ASU_KBE:118 ASU 153c5735
+"{V0531}{W5}I've{W3} had{W2} enough{W1}!{W45} I don't want to hear any{W3} excuses!"
+
+@ASU_KBE:119 ASU 4dc69cd4
+"{V0532}{W12}No matter how dense I{W8} am{W1}...{W84} {Fe9}{Eo}I won't be fooled again!"
+
+@ASU_KBE:120 ASU aa87fc9f
+"{V0533}{W12}I{W8}...{W45} {Nm}, I can't{W60} be good{W3} friends{W3} with you anymore..."
+
+@ASU_KBE:121 ASU bd690e56
+"{V0534}{W10}Never{W3} talk to me again!"
+
+@ASU_KBE:122 ASU f5c36c7d
+"{V0535}{W12}Goodbye!"
+
+@ASU_KBE:123 PLY aa968cf8
+"Ah! Sakino!"
+
+@ASU_KBE:124 PLY e0164981
+(I'm... I'm hopeless. Unable to choose just one, wishy-washy, dragging it out until now...)
+
+@ASU_KBE:125 PLY 4de7c50b
+(I'm... I'm...)
+
+@ASU_KBE:126 ASU 5f470bb0
+"{V0536}{W12}{Nm}..."
+
+@ASU_KBE:127 ASU 02ae7239
+"{V0537}{W12}Surely,{W1} {W90}you're not going to say{W4} you{W4} forgot{W2} our{W4} promise{W1}{W1}{W1}, right?"
+
+@ASU_KBE:128 PLY b2ecf847
+"Ugh..."
+
+@ASU_KBE:129 ASU 3edfacfe
+"{V0538}{W12}You're a terrible{W4} person,{W18} {Nm}.{W126} Just because{W8} I'm{W5} clueless{W3} about{W3} love...{W37} {Ec}doing this..."
+
+@ASU_KBE:130 ASU b234e3d4
+"{V0505}{W12}If{W5} you{W2} like{W1} someone{W1} else{W1},{W5} why{W2} not{W1} just{W1} say{W1} so,{W60} just{W1} tell{W2} me{W2} honestly{W4}{W4}{W1}{W1}{W1}{W1}!"
+
+@ASU_KBE:131 ASU f0024ba7
+"{V0537}{W12}Surely,{W1}{W93} you're not going to say{W4} you{W4} forgot{W3} the{W4} promise, right?"
+
+@ASU_KBE:132 ASU 675f4397
+"{V0538}{W10}You're a terrible{W4} person,{W15} {Nm}.{W124} {Ec}{W5}{Fe6}{Eo}Just because{W12} I'm{W8} clueless{W4} about{W4} love...{W27} {Ec}doing this..."
+
+@ASU_KBE:133 ASU 9fe4db14
+"{V0627}{W12}And on top of that,{W60} a different girl{W6} from the other day{W3}...{W47} {Fe9}I can't{W4} believe it!"
+
+@ASU_KBE:134 ASU 708e4a06
+"{V0628}{W8}I've{W3} had{W1} enough!{W48} I don't want to hear any{W3} excuses!"
+
+@ASU_KBE:135 ASU a03eec66
+"{V0629}{W12}No matter how dense I{W8} am...{W63} {Fe9}{Eo}I won't be fooled again!"
+
+@ASU_KBE:136 ASU c1cd1ffa
+"{V0630}{W5}Never{W3} talk to me again!"
+
+@ASU_KBE:137 ASU 8219400d
+"{V0631}{W12}Goodbye!"

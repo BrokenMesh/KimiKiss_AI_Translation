@@ -239,7 +239,7 @@ def speaker_labels(index):
 
 
 def label_px_for(speaker, labels):
-    """Width reserved for the speaker label in front of line 1 (0 = no label)."""
+    """Where line 1 starts after the speaker label (0 = no label)."""
     if not speaker or speaker == 'SYS':
         return 0
     px = 0
@@ -251,7 +251,8 @@ def label_px_for(speaker, labels):
         if sp == 'PLY':
             lab = max(lab, en_text.NAME_PX)  # replaced by the player's surname at run time
         px = max(px, lab)
-    return px
+    # D-023: line 1 starts at the indent column, or PLATE_GAP_PX after a plate wider than the indent
+    return max(en_text.INDENT_PX, px + en_text.PLATE_GAP_PX)
 
 
 def dialogue_limit(speaker, labels, lines=3):
@@ -293,7 +294,9 @@ def limit_for(rec, limits, labels=None):
                 'cont_px': CONFIRM_PX, 'scale': 1.0, 'jp_px': 24, 'note': 'no entry in limits.json', 'unknown': True}
     if rec.get('speaker'):
         return dialogue_limit(rec['speaker'], labels)
-    if '.' in rec['id'].split(':', 1)[1]:
+    if '.' in rec['id'].split(':', 1)[1] or (BREAK in rec['text'] and re.match(r'(\{Ti\d\})?・', rec['text'])):
+        # sub-records are choice lists; so is a speakerless bullet list with row breaks (PLY_FEV:599,
+        # the rows of a menu whose last item is appended at run time)
         n = rec['text'].count(BREAK) + 1
         return {'kind': 'choice', 'display': 'TextWindow', 'lines': n, 'choices': n, 'max_px': en_text.LINE_PX,
                 'first_px': en_text.LINE_PX, 'cont_px': en_text.LINE_PX, 'scale': 1.0, 'jp_px': en_text.FULL_PX,

@@ -1,0 +1,785 @@
+# MIT_KIS_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MIT_KIS_B:40 PLY 76d1e568
+(Shijou... she's a good girl, but she won't stop calling me Master...)
+
+@MIT_KIS_B:43 PLY a183b8b0
+(And she says dangerous things like "anything you want me to do, just say so"...)
+
+@MIT_KIS_B:45 PLY ae6f9144
+(Maybe I'll trouble her a little, so she realizes what she's doing...)
+
+@MIT_KIS_B:46 PLY d3fba07b
+(Yeah, that's it. I just want to be normal friends with Shijou.)
+
+@MIT_KIS_B:47 PLY d4b0c6b0
+"Shijou."
+
+@MIT_KIS_B:51 MIT c02e36ae
+"{V0476}{W10}Yes,{W30} what is it?"
+
+@MIT_KIS_B:52 PLY 0ecfb675
+"Shijou, you said you would do anything I wanted, right?"
+
+@MIT_KIS_B:53 MIT 12fd3d66
+"{V0477}{W10}Y{W2}es.{W30} {Eo}If it is something I{W6} can do,{W20} I will do my very{W5} best."
+
+@MIT_KIS_B:54 PLY ccd9d025
+(Ugh... she says that so easily, with a smile...)
+
+@MIT_KIS_B:55 PLY 887b5906
+"Th-then... may I ask you for one thing?"
+
+@MIT_KIS_B:56 MIT 41bcf3e0
+"{V0478}{W13}Yes,{W25} with pleasure."
+
+@MIT_KIS_B:57.1 - c617abf0
+{Ti0}- Want to... kiss me?／- ...No, never mind
+
+@MIT_KIS_B:59 PLY 93548fa6
+"Would you... kiss me?"
+
+@MIT_KIS_B:60 PLY d1df50a8
+"...No, never mind."
+
+@MIT_KIS_B:61 MIT c74a2dc8
+"{V0479}{W13}Master{W3}{W3}..."
+
+@MIT_KIS_B:64 MIT f266f3c4
+"{V0480}{W10}Please{W3} do not{W5} hold back.{W30} Tell me anything."
+
+@MIT_KIS_B:66 MIT dd42dbe4
+"{V0481}{W10}When you hesitate,{W20} it troubles{W5} me more."
+
+@MIT_KIS_B:67 MIT/PLY 0d80b9d5
+"......"
+
+@MIT_KIS_B:68 PLY b605f8e2
+"Shijou... o-okay... I'll say it."
+
+@MIT_KIS_B:69 MIT 5f177b68
+"{V0482}{W12}Yes.{Eo}"
+
+@MIT_KIS_B:70 PLY 2412e9dc
+"Would you... um... kiss me?"
+
+@MIT_KIS_B:83 MIT a8e8d5c6
+"{V0483}{W12}What?!"
+
+@MIT_KIS_B:84 PLY 25f1c8e9
+"Hahaha, that's impossible, right?"
+
+@MIT_KIS_B:85 MIT d13d49ad
+"{V0484}...{W8}No,{W23} it is not impossible..."
+
+@MIT_KIS_B:86 PLY 1c679b90
+"What?! It's not impossible?!"
+
+@MIT_KIS_B:87 MIT 432c21f5
+"{V0485}{W13}No."
+
+@MIT_KIS_B:90 MIT 13760fac
+"{V0486}{W12}I was just{W8} a little{W5} surprised.{W45} It is that...{W65} I{W5} was{W6} not{W5} mentally{W5} ready{W8} for it..."
+
+@MIT_KIS_B:91 PLY 94ea4c51
+(O-of course she wasn't...)
+
+@MIT_KIS_B:97 MIT 84c8d398
+"{V0487}{W12}P-{W112}please..."
+
+@MIT_KIS_B:98 PLY 5248279b
+"Shijou..."
+
+@MIT_KIS_B:99 PLY 95d1618f
+(What have I done...)
+
+@MIT_KIS_B:100 PLY 577cbf83
+(Shijou... I don't know what her father told her, but to her, I'm an absolute presence.)
+
+@MIT_KIS_B:101 PLY 01302b55
+(If I told her to kiss me, she'd have to do it...)
+
+@MIT_KIS_B:102 PLY dfd8ab74
+(This is wrong. I want to be with her in a more normal way...)
+
+@MIT_KIS_B:103 PLY 000c68b2
+"Shijou, I'm sorry. It's fine."
+
+@MIT_KIS_B:104 MIT dcc11a77
+"{V0488}{W10}Huh?"
+
+@MIT_KIS_B:106 MIT 033bae15
+"{V0489}{W12}I am sorry.{W55} It is because I{W6} hesitated...{W10}"
+
+@MIT_KIS_B:107 PLY af6c7e69
+"No, that's not it..."
+
+@MIT_KIS_B:108 PLY 99aa1b30
+"I want to be normal friends with you, Shijou."
+
+@MIT_KIS_B:109 PLY bb7cc287
+"I don't know what your father told you, but kissing me just because he said I want it isn't right."
+
+@MIT_KIS_B:110 MIT 67a12a7b
+"{V0490}{W13}Master{W3}{W6}{W6}..."
+
+@MIT_KIS_B:111 PLY 08e6240a
+"Oh, and I'd really like you to do something about the "Master" thing too..."
+
+@MIT_KIS_B:112 MIT adda048b
+"{V0491}{W10}I{W6} am{W60} happy.{W70} {Ec}You are a kind{W3} person{W5}."
+
+@MIT_KIS_B:113 PLY 3fec8b61
+"Ugh... I'm not the kind of guy you should call kind, Shijou."
+
+@MIT_KIS_B:114 MIT 083f6b48
+"{V0492}{W15}No,{W45} you are{W3} kind.{W75} You{W3} cared{W3} for{W6} my{W8} feelings{W38} so much."
+
+@MIT_KIS_B:115 MIT 3116632d
+"{V0493}{W12}Someday{W6}...{W87}{B60} surely,{W3}{W55} {F2}{Ec}I will give you a kiss{W6} with{W5} all{W3} my{W3} heart{W5}.{W10}"
+
+@MIT_KIS_B:116 PLY 00218ddd
+"Th-thank you... I'm glad, but did you understand what I said?"
+
+@MIT_KIS_B:117 MIT b4b23dbb
+"{V0494}{W10}Yes."
+
+@MIT_KIS_B:119 MIT a1de4964
+"{V0495}{W10}I will not mind{W3} Father's{W3} orders.{W5}{W45} I am by{W5} your side{W5} of my own will.{W45} {W48}Because I{W3} want{W5} you{W6} to{W8} know{W3} the real{W3} me..."
+
+@MIT_KIS_B:120 PLY e71976c2
+"Y-yeah... right. Normal friends, okay?"
+
+@MIT_KIS_B:121 MIT 30129fdf
+"{V0496}{W12}Y{W5}es,{W40} Master.{W3}{W3}"
+
+@MIT_KIS_B:122 PLY 661f3255
+(Ugh... did she really get it?)
+
+@MIT_KIS_B:124 MIT d5d2a263
+"{V0497}{W10}I will be going now,{W36} soon."
+
+@MIT_KIS_B:125 PLY b65bc429
+"Oh, okay. See you."
+
+@MIT_KIS_B:126 MIT e083fa64
+"{V0498}{W10}Yes.{W42} {Eo}Well then,{W13} until next time."
+
+@MIT_KIS_B:128 PLY 58983cfa
+(I want to be normal friends with Shijou.)
+
+@MIT_KIS_B:129 PLY 8f3bef6f
+(I won't use "Master" as an excuse to force a kiss on her... That's what I decided...)
+
+@MIT_KIS_B:130 PLY 0decf63f
+(I won't go back on what I just decided.)
+
+@MIT_KIS_B:131 MIT c7d86dae
+"{V0499}{W15}Master{W1}{W4}{W4}{W4},{W45} is something wrong?"
+
+@MIT_KIS_B:132 PLY 33867674
+"Huh? Oh, sorry. I was just thinking..."
+
+@MIT_KIS_B:133 MIT aa19102d
+"{V0500}{W12}Is that so?"
+
+@MIT_KIS_B:134 MIT e34dd91b
+"{V0501}{W10}Well then,{W35} I{W6} will be going now."
+
+@MIT_KIS_B:135 MIT 6207115d
+"{V0502}{W10}Yes.{W38} {Eo}Well then,{W5} until next time."
+
+@MIT_KIS_B:136 MIT 3a55c731
+"{V0503}{W12}Master{W2}{W5}{W5}{W5},{W65} I{W8}...{W95} have a request.{W3}"
+
+@MIT_KIS_B:137 PLY 547944a8
+"Huh? What is it?"
+
+@MIT_KIS_B:139 MIT ff850771
+"{V0504}{W10}Will you hear me out?"
+
+@MIT_KIS_B:140 PLY 84830884
+"Yeah, of course."
+
+@MIT_KIS_B:141 MIT f7a7dfe3
+"{V0505}{W12}Then{W3}..."
+
+@MIT_KIS_B:143 MIT 1250f8a0
+"{V0506}{W12}Please{W8} kiss me...{B80}{W83}"
+
+@MIT_KIS_B:144 PLY 21e4acd1
+"What?!"
+
+@MIT_KIS_B:145 PLY e3d1d733
+"Th-that's sudden."
+
+@MIT_KIS_B:146 MIT 4c1fb6d0
+"{V0507}{W10}I-{W10}I am sorry."
+
+@MIT_KIS_B:147 MIT 5ad12d08
+"{V0508}{W10}The other day,{W40} I could not do it well,{W25} and {Ec}it has bothered me ever since..."
+
+@MIT_KIS_B:148 MIT 9516873e
+"{V0509}{W10}Now{W3},{W60} I can do it{W3} with{W6} all my{W3} heart.{W55} {Fe6}So..."
+
+@MIT_KIS_B:149.1 - b8de0f50
+{Ti0}- Then... close your eyes／- Are you forcing yourself?／- That's pretty bold
+
+@MIT_KIS_B:150 PLY 395bd572
+"Then... close your eyes."
+
+@MIT_KIS_B:151 PLY 1b2defdd
+"Are you forcing yourself?"
+
+@MIT_KIS_B:152 MIT 2c43aa02
+"{V0510}{W10}Forcing myself...{W45} I am not."
+
+@MIT_KIS_B:153 PLY 5748806e
+"O-okay. Then... close your eyes."
+
+@MIT_KIS_B:154 PLY 28d1573b
+"That's pretty bold."
+
+@MIT_KIS_B:155 MIT 426ced2c
+"{V0511}{W10}Ah...{W5} I am sorry.{W15} I did not mean to..."
+
+@MIT_KIS_B:156 PLY 7aa469c1
+"Hahaha..."
+
+@MIT_KIS_B:157 MIT 97067a3d
+"{V0512}{W10}Fu{W8}fu{W8}fu."
+
+@MIT_KIS_B:158 MIT 08b59db3
+"{V0514}{W15}Yes..."
+
+@MIT_KIS_B:159 PLY b5ae66f2
+(Shijou...)
+
+@MIT_KIS_B:164 PLY ee1a23fa
+(I want to be normal friends, but it doesn't seem like that's going to work...)
+
+@MIT_KIS_B:165 PLY 6d034b11
+(...So what I can do is...)
+
+@MIT_KIS_B:170 PLY a7e1f9fa
+"Thank you."
+
+@MIT_KIS_B:171 MIT a9161f53
+"{V0515}{W13}Ah..."
+
+@MIT_KIS_B:179 MIT df3b69fe
+"{V0516}{W12}Why{W30} my hand?"
+
+@MIT_KIS_B:180 PLY 88cbdd20
+"Your feelings are enough for me, Shijou."
+
+@MIT_KIS_B:181 PLY 4576e27c
+"You said before, right? That guests at your parties kiss you here."
+
+@MIT_KIS_B:182 PLY 44cc0b07
+"I just thought... that's about the right amount."
+
+@MIT_KIS_B:183 PLY 39f602c1
+"Hahaha... am I trying too hard to look cool?"
+
+@MIT_KIS_B:184 MIT b42fd7c1
+"{V0517}{W12}Master{W2}{W5}{W5}..."
+
+@MIT_KIS_B:185 MIT 434581bd
+"{V0518}{W10}I{W6}...{W70} am happy..."
+
+@MIT_KIS_B:186 MIT 123fa28c
+"{V0519}{W10}I never imagined{W8} I would{W3} be{W3} cherished{W50} {F6}{Eo}this{W5} much..."
+
+@MIT_KIS_B:187 PLY de19d22f
+"C-cherished? I'm just happy to have met you, Shijou..."
+
+@MIT_KIS_B:188 MIT 9f0fcb10
+"{V0520}{W12}Master{W2}{W5}{W5}{W5}..."
+
+@MIT_KIS_B:189 MIT 06be04de
+"{V0521}{W12}...{W12}..."
+
+@MIT_KIS_B:190 MIT 742f09e0
+"{V0522}{W12}I will{W69} be going back{W3} to class{W5} now.{W3}{W70} If I stay here,{W40} {Ec}I am so happy{W5} I think I will cry..."
+
+@MIT_KIS_B:191 PLY a182acdd
+"...Well, see you."
+
+@MIT_KIS_B:192 MIT f53a0e32
+"{V0524}{W10}Yes."
+
+@MIT_KIS_B:195 PLY 98873200
+(Shijou... she's so beautiful...)
+
+@MIT_KIS_B:196 PLY 2604738e
+(And a girl like that calls me Master...)
+
+@MIT_KIS_B:197 MIT 9d398619
+"{V0525}{W13}Master{W2}{W5}{W5},{W63} is something{W5} the matter?{W30} {F6}You are staring{W6} at me{W8}...{W8}"
+
+@MIT_KIS_B:199 PLY 7a4ecd84
+"Ah, sorry."
+
+@MIT_KIS_B:200 MIT dfcdb917
+"{V0526}{W13}Is there{W6} something{W10} on{W3} my face?{W60}{W3}{W15}"
+
+@MIT_KIS_B:201 PLY 9d40004d
+"Ah, no, there's nothing on it, hahaha..."
+
+@MIT_KIS_B:202 MIT 5d86c518
+"{V0527}{E}{W3}He{W3}he{W3},{W23} {Ec}{W5}{Fe9}{Eo}what is the matter?{W25} {F2}{Ec}You are a strange Master{W3}.{W3}"
+
+@MIT_KIS_B:203 PLY 382810ca
+"Hahahaha..."
+
+@MIT_KIS_B:204 MIT 6ade69a9
+"{V0528}{W10}Well then,{W45} I,{W4} will be going now."
+
+@MIT_KIS_B:205 PLY e03a6130
+"Okay, see you."
+
+@MIT_KIS_B:206 MIT 0f9df0eb
+"{V0529}{W10}Yes.{W25} {F2}{Ec}Until next time."
+
+@MIT_KIS_B:207 MIT 16c42aec
+"{V0530}{W10}Master{W3}{W3}{W3},{W60} I{W6}...{W85} have a request{W3}..."
+
+@MIT_KIS_B:208 MIT 67a95a0d
+"{V0531}{W10}...{W10}But{W20} I must change clothes already...{W40} Could I ask{W5} you{W3} next{W3} time,{W5} when I have time{W3}?"
+
+@MIT_KIS_B:209 PLY cf543578
+"Sure, that's fine."
+
+@MIT_KIS_B:210 PLY e2b3ed61
+"Well, see you."
+
+@MIT_KIS_B:211 MIT 4fd6a143
+"{V0532}{W10}Yes.{W38} Excuse{W3} me."
+
+@MIT_KIS_B:212 PLY 298f6438
+(I should talk to her when she doesn't have to change...)
+
+@MIT_KIS_B:213 MIT fe55b3c3
+"{V0533}{W13}Master{W3}{W3}..."
+
+@MIT_KIS_B:214 PLY 3150f24e
+"What is it?"
+
+@MIT_KIS_B:215 MIT e4d6ff77
+"{V0534}{W12}Would you{W3} come{W3} with{W3} me...{W80} to the Music{W3} Room{W3}?{W10}"
+
+@MIT_KIS_B:216 PLY 9240a5bc
+"Huh? Sure, but why?"
+
+@MIT_KIS_B:217 MIT ddfdf86e
+"{V0535}{W10}I have a request{W3} to make."
+
+@MIT_KIS_B:218 PLY 168f4542
+"A request? ...Okay, let's go."
+
+@MIT_KIS_B:219 MIT 1f17c46a
+"{V0536}{W13}Yes."
+
+@MIT_KIS_B:221 PLY b1a7558e
+"So... what was the request?"
+
+@MIT_KIS_B:222 MIT 58526b6f
+"{V0537}{W15}Master{W1}{W4}{W4}..."
+
+@MIT_KIS_B:223 PLY c861b9f9
+"Ah, Shijou. Where are you..."
+
+@MIT_KIS_B:225 MIT 098f56b8
+"{V0538}{W15}Master{W3}{W3}...{W108} I have a request{W3}."
+
+@MIT_KIS_B:226 MIT e0218f4d
+"{V0539}{W12}It is...{W95} that today{W3}..."
+
+@MIT_KIS_B:227 MIT 3dbddb5a
+"{V0538}{W15}Master{W3}{W3}{W3}...{W105} I have a request."
+
+@MIT_KIS_B:228 MIT 73939e7e
+"{V0540}{W10}Today{W3}{W2} of{W2} all days,{W32} please kiss me properly."
+
+@MIT_KIS_B:230 PLY 187482ce
+"Huh? Shijou..."
+
+@MIT_KIS_B:231 MIT 177bd953
+"{V0541}{W10}I am happy{W8} that you cherish{W75} me{W3}{W3}, but..."
+
+@MIT_KIS_B:232 MIT 09844c23
+"{V0542}{W10}If I am cherished{W3} too much{W3}...{W50} {Ec}I do not know{W16} what to do."
+
+@MIT_KIS_B:233 MIT 470434f0
+"{V0543}{W13}Is it{W2} still...{W107} not{W5} allowed?"
+
+@MIT_KIS_B:234 MIT b662d5b6
+"{V0544}{W10}Please.{W40} Say yes.{W30} {F6}If you{W3} refuse{W3},{W40} {Ec}I..."
+
+@MIT_KIS_B:235 PLY 6bd43b6e
+"...Are you really sure?"
+
+@MIT_KIS_B:236 MIT 9067e144
+"{V0545}{W12}Yes."
+
+@MIT_KIS_B:237 MIT d9f8121f
+"{V0546}{W12}I{W6}...{W110} want to kiss{W3} you,{W3} Master{W3}...{W15}"
+
+@MIT_KIS_B:238 PLY 750809de
+"Shijou... I want to kiss you too."
+
+@MIT_KIS_B:240 MIT d0672981
+"{V0547}{W10}I am so happy."
+
+@MIT_KIS_B:245 MIT 0c915a53
+"{V0548}{W12}Ah..."
+
+@MIT_KIS_B:246 MIT c618c73e
+"{V0549}{W13}Mm..."
+
+@MIT_KIS_B:249 MIT 669b9825
+"{V0550}{W10}......"
+
+@MIT_KIS_B:250 MIT 78be2bef
+"{V0551}{W10}...{W95}{Eo}Somehow{W20} it feels frustrating."
+
+@MIT_KIS_B:251 PLY 122df4f6
+"Huh?"
+
+@MIT_KIS_B:252 MIT 6dfeb907
+"{V0552}{W15}I cannot{W6} put my{W10} feelings{W5} into{W3} words{W5} well..."
+
+@MIT_KIS_B:253 MIT cb6403ca
+"{V0553}{W10}I{W8}...{W100} will{W8} never{W3} forget this."
+
+@MIT_KIS_B:254 PLY 0398c522
+"Shijou, I won't forget it either."
+
+@MIT_KIS_B:256 MIT fa7ebe83
+"{V0554}...{W8}Ah,{W23} Master,{W48} do{W3} you{W3} have{W3} any{W3} plans{W3} this{W40} Sunday?"
+
+@MIT_KIS_B:257 PLY 3a63bbeb
+"No, nothing. Why?"
+
+@MIT_KIS_B:258 MIT 340de134
+"{V0555}{W10}I have a classical{W3} ballet{W3} recital.{W33} I{W3} was hoping{W5} you might{W5} come{W5} to{W5} see{W5} it..."
+
+@MIT_KIS_B:259 PLY 0a2e5ab4
+"Oh, really? I'll definitely be there."
+
+@MIT_KIS_B:260 MIT f17dce01
+"{V0556}{W10}Truly?{W2}{W2} {W40}{Fe3}{Ec}I am so happy!{W65} {Eo}...Then,{W30} shall we meet{W5}{W3} in front of the station{W10}{W3}{W3} at eleven?"
+
+@MIT_KIS_B:261 PLY dd7cfd36
+"Sure, got it. In front of the station at eleven."
+
+@MIT_KIS_B:262 MIT 12ce4df6
+"{V0557}{W10}Yes."
+
+@MIT_KIS_B:263 MIT 028941e7
+"{V0558}{W10}Well then,{W30} excuse me."
+
+@MIT_KIS_B:264 PLY ca2ae96b
+"Okay. See you."
+
+@MIT_KIS_B:265 MIT f37c2c89
+"{V0559}Yes."
+
+@MIT_KIS_B:266 PLY a3a29261
+(...I kissed Shijou, but I shouldn't have done it like that...)
+
+@MIT_KIS_B:267 PLY ba4ed866
+(I feel about her...)
+
+@MIT_KIS_B:268 PLY 65ff3f44
+(So first, we have to stop being Master and servant and become an ordinary pair.)
+
+@MIT_KIS_B:269 PLY dc799f24
+(...But how?)
+
+@MIT_KIS_B:270 MIT 42c63813
+"{V0560}{W13}Master{W3}{W3}{W3}?{W75} Is something the matter?"
+
+@MIT_KIS_B:271 PLY 4113055b
+"Ah... no, it's nothing."
+
+@MIT_KIS_B:273 MIT 514ba48a
+"{V0561}{W12}{E}Is that so...?"
+
+@MIT_KIS_B:274 MIT a01d7431
+"{V0562}{W10}Yes."
+
+@MIT_KIS_B:275 PLY 5f53c614
+"I'm looking forward to the weekend."
+
+@MIT_KIS_B:276 MIT a27b6d8d
+"{V0563}{W10}Yes.{W45} I{W6}{W45} will dance{W5}{W5} my{W5} very{W5} best."
+
+@MIT_KIS_B:277 MIT b29d9413
+"{V0564}{W5}Please watch me."
+
+@MIT_KIS_B:278 PLY cc4af171
+"I will."
+
+@MIT_KIS_B:279 MIT 24e224c7
+"{V0565}{W10}Then,{W15} {Fe2}{Ec}excuse me."
+
+@MIT_KIS_B:280 PLY 41667632
+"Shijou... um..."
+
+@MIT_KIS_B:281 MIT 0f914d33
+"{V0566}{W10}Yes..."
+
+@MIT_KIS_B:282 PLY d71e4755
+"This weekend, I really want to go to your classical ballet recital."
+
+@MIT_KIS_B:283 MIT 07426ac4
+"{V0567}{W10}Ah..."
+
+@MIT_KIS_B:284 MIT 5aeef0d2
+"{V0568}{W12}You will not{W3} forget{W48} our{W5} promise{W3}{W3} again,{W5}{W3} will you?"
+
+@MIT_KIS_B:285 PLY 868eab9f
+"I won't! I'll never forget it!"
+
+@MIT_KIS_B:287 MIT 762dd409
+"{V0569}...{W10}Understood.{W20} {Ec}{W5}{F3}{Eo}Then,{W30} {Ec}please do come to see it."
+
+@MIT_KIS_B:288 PLY 536ef303
+"Really? Great..."
+
+@MIT_KIS_B:289 PLY a4179982
+"So, Sunday, in front of the station at eleven. Is that okay?"
+
+@MIT_KIS_B:290 MIT 4136274c
+"{V0570}{W10}Yes."
+
+@MIT_KIS_B:291 MIT 9c56b734
+"{V0571}{W10}Sunday,{W3}{W3} {W55}I am{W3} looking forward to it."
+
+@MIT_KIS_B:292 MIT ef58e86b
+"{V0572}{W10}Well then..."
+
+@MIT_KIS_B:293 PLY e0f72f1b
+"Yeah. See you..."
+
+@MIT_KIS_B:294 MIT c9d03228
+"{V0573}{W13}Yes..."
+
+@MIT_KIS_B:295 PLY e94f8155
+"This weekend, I really want to go to your classical ballet recital."
+
+@MIT_KIS_B:296 MIT 40e6e7cf
+"{V0574}{W13}Ah..."
+
+@MIT_KIS_B:297 MIT c20d2c61
+"{V0575}{W10}The other day,{W6}{W20} I{W6} suddenly{W5} could not{W6} perform. {W15}{Ec}I am sorry."
+
+@MIT_KIS_B:298 PLY f1a0e5c1
+"It's fine, really. So, are you okay this weekend?"
+
+@MIT_KIS_B:299 MIT 948e8219
+"{V0576}{W10}Yes,{W30} I am{W3} fine.{W5}{W38} {F2}{Ec}I am going to perform."
+
+@MIT_KIS_B:300 PLY 321a50a7
+"Great. Then I'll definitely come."
+
+@MIT_KIS_B:301 MIT b993b9a2
+"{V0577}{W10}Yes,{W30} please do."
+
+@MIT_KIS_B:302 MIT 9fdeaa5f
+"{V0578}{W12}Yes.{W45} Sunday,{W3}{W3}{W25} {F2}{Ec}I am looking forward to it."
+
+@MIT_KIS_B:303 MIT 774dd7aa
+"{V0579}{W13}Well then,{W30} excuse me."
+
+@MIT_KIS_B:304 PLY bb0966d2
+"The engagement ceremony is coming soon..."
+
+@MIT_KIS_B:305 MIT a2fd6601
+"{V0580}{W13}Yes."
+
+@MIT_KIS_B:306 PLY 34200a42
+"We won't be able to see each other like before anymore, right?"
+
+@MIT_KIS_B:307 MIT a4589d0f
+"{V0581}{W15}No."
+
+@MIT_KIS_B:308 PLY 4230535d
+"Could you let me kiss you... one last time?"
+
+@MIT_KIS_B:309 MIT dc14f162
+"{V0582}{W18}That is...{W110} impossible.{W2}{W5}{W2}"
+
+@MIT_KIS_B:310 PLY e7191eed
+"...Right. You can't kiss someone when you have a fiance."
+
+@MIT_KIS_B:311 MIT 1939b460
+"{V0583}{W18}No."
+
+@MIT_KIS_B:312 PLY d1b7d7af
+"That's the kind of girl you are, Shijou. I know."
+
+@MIT_KIS_B:313 MIT 85d310fc
+"{V0584}{Nm}..."
+
+@MIT_KIS_B:314 PLY 181b8029
+(I know... I know she won't tell me she likes me anymore, either.)
+
+@MIT_KIS_B:315 PLY e3c7da5f
+"May I touch your cheek...?"
+
+@MIT_KIS_B:316 MIT 12c20277
+"{V0585}{W10}Huh...?"
+
+@MIT_KIS_B:318 MIT 2e593574
+"{V0586}...{W10}Yes."
+
+@MIT_KIS_B:319 MIT 7f21638d
+"{V0587}{W25}Ngh{W35}..."
+
+@MIT_KIS_B:320 PLY 0ac80344
+"Ah... Shijou, I'm sorry. I didn't mean to make you cry."
+
+@MIT_KIS_B:321 MIT 6c26be05
+"{V0588}{W20}No,{W5}{W5} it{W3} is{W155} all{W3} right...{W6}"
+
+@MIT_KIS_B:322 MIT 151b8ad3
+"{V0589}{Nm}{W40}..."
+
+@MIT_KIS_B:323 MIT bbfafebe
+"{Nm}{V0590}...{W15} I{W12}...{W190} you{W6}{W6}{W6} are..."
+
+@MIT_KIS_B:324 MIT 282196d1
+"{V0591}{W15}You{W5}{W5}{W5} are{W30}..."
+
+@MIT_KIS_B:325 PLY ac35e976
+"Shijou, you don't have to force yourself to say it. I know how you feel..."
+
+@MIT_KIS_B:326 MIT db97151e
+"{V0592}{W18}That is not it..."
+
+@MIT_KIS_B:327 MIT d2b18a58
+"{V0593}{W20}I{W10}...{W155} if you{W35}...{W60} if you{W35}...{W65} wish{W5} it..."
+
+@MIT_KIS_B:328 PLY 23e0ffd5
+"Huh? If I what?"
+
+@MIT_KIS_B:329 MIT f02de120
+"{V0594}{W15}...{W15}..."
+
+@MIT_KIS_B:330 MIT 9fcb9db7
+"{V0595}{W20}No...{W68}{W5} it is nothing..."
+
+@MIT_KIS_B:331 PLY 3be0eb90
+"Hey, Shijou. Want to spend the school festival day together?"
+
+@MIT_KIS_B:332 PLY 5fd7d58c
+"...After that, you'll go to your fiance, but at least until then, stay by my side."
+
+@MIT_KIS_B:333 MIT c1663000
+"{V0596}{Nm}..."
+
+@MIT_KIS_B:334 MIT 2075c1fb
+"{V0597}{W13}Yes.{W5}{W85} With{W8} pleasure."
+
+@MIT_KIS_B:335 MIT c7712470
+"{V0598}{W15}Well then,{W38} I,{W25} shall be going."
+
+@MIT_KIS_B:336 PLY fccf9db2
+"Okay... see you."
+
+@MIT_KIS_B:337 MIT ae99536a
+"{V0599}{W12}Yes."
+
+@MIT_KIS_B:338 PLY 241b675a
+(Shijou... what was she about to say? How does she feel...)
+
+@MIT_KIS_B:339 MIT 54ab77ad
+"{V0600}{W15}Yes."
+
+@MIT_KIS_B:340 PLY 460f0a00
+"Sorry. May I touch your cheek... again?"
+
+@MIT_KIS_B:341 MIT 3e0ae122
+"{V0601}{W12}Huh?"
+
+@MIT_KIS_B:342 PLY 4f66c3e7
+"...I know I shouldn't make you suffer, but... I just can't hold back my feelings."
+
+@MIT_KIS_B:343 PLY ff765f5f
+"One last time... I want to touch you."
+
+@MIT_KIS_B:344 MIT 338aaa23
+"{V0602}...{W8}Yes."
+
+@MIT_KIS_B:345 MIT 2ea0932b
+"{V0603}{W10}Ngh{W20}...{W20}"
+
+@MIT_KIS_B:346 PLY 634f9920
+"Ah..."
+
+@MIT_KIS_B:347 MIT fa32ece3
+"{V0604}{W60}...{W10}I{W1}'m{W1} so{W1}rry{W1}{W1}{W40}...{W50}I{W1}'m{W1} so{W1}rry{W1}{W1}{W25}...{W35}"
+
+@MIT_KIS_B:348 PLY 44ba3a28
+"I'm sorry... please don't cry, Shijou."
+
+@MIT_KIS_B:349 MIT 909f31ae
+"{V0605}...{W5}I did not mean to cry,{W130} but the tears...{W6}"
+
+@MIT_KIS_B:350 MIT 09054a27
+"{V0606}{W10}I{W15}...{W110} cry{W95} just{W5} from being touched by you{W30}...{W90}"
+
+@MIT_KIS_B:351 MIT 6ba23764
+"{V0607}{W10}I{W20}...{W120} you{W35}...{W60} you{W35}..."
+
+@MIT_KIS_B:352 PLY 9e22040a
+"I what?"
+
+@MIT_KIS_B:353 MIT 9197491c
+"{V0608}{W10}...{W10}..."
+
+@MIT_KIS_B:354 MIT 93e3484c
+"{V0609}{W15}I am sorry.{W35} Crying like this..."
+
+@MIT_KIS_B:355 PLY 259035d7
+"Shijou, if there's something you want to tell me, say it."
+
+@MIT_KIS_B:356 PLY a6cf0593
+"Why can't you say it?"
+
+@MIT_KIS_B:357 MIT e3fc61ef
+"{V0610}{W15}That is..."
+
+@MIT_KIS_B:358 MIT 1053f3d9
+"{V0611}{W13}I am sorry...{W100} I cannot say it..."
+
+@MIT_KIS_B:359 PLY 876a2929
+"I see..."
+
+@MIT_KIS_B:360 PLY 93ace4a8
+"Sorry, I won't ask anymore. You look like it's painful..."
+
+@MIT_KIS_B:361 PLY 2dab1063
+"I'm looking forward to the school festival."
+
+@MIT_KIS_B:362 MIT 4afd7641
+"{V0613}{W13}Huh?"
+
+@MIT_KIS_B:363 PLY 0d04a049
+"Let's enjoy it together as much as we can."
+
+@MIT_KIS_B:364 MIT 04265e99
+"{V0614}{W15}Yes.{W2}"
+
+@MIT_KIS_B:365 MIT b04acbf0
+"{V0615}{W15}Well then,{W50} I,{W16} shall be going."
+
+@MIT_KIS_B:366 MIT 48ece51a
+"{V0616}{W12}Yes."
+
+@MIT_KIS_B:367 PLY 0a3a7232
+"Hey, welcome to the No Way House. Yep, it's KIS B."

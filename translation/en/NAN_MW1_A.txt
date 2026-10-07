@@ -1,0 +1,413 @@
+# NAN_MW1_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_MW1_A:44 PLY fa0af360
+"Come to think of it, the other day..."
+
+@NAN_MW1_A:46 PLY 9ca3799c
+"School, huh..."
+
+@NAN_MW1_A:47 PLY 7e1e221d
+"Come to think of it, just now..."
+
+@NAN_MW1_A:48 PLY 1cea3df6
+"There are lots of clubs at our school, but..."
+
+@NAN_MW1_A:49 PLY fcae64ea
+"Our school uniform..."
+
+@NAN_MW1_A:50 PLY b83452d6
+"Committee activities..."
+
+@NAN_MW1_A:51 PLY 6ca5f0f4
+"Only by following the school rules can we have a healthy high school life..."
+
+@NAN_MW1_A:52 PLY d97a7102
+"Ms. Kawada's class..."
+
+@NAN_MW1_A:53 PLY c5e8e879
+"About transferring schools, I think..."
+
+@NAN_MW1_A:54 PLY bea3f4ac
+"Studying is boring because you think it's boring, so..."
+
+@NAN_MW1_A:55 PLY 6f71ea78
+"School grades and stuff..."
+
+@NAN_MW1_A:56 PLY cb334163
+"If you prepare for the university entrance exams from Year 1..."
+
+@NAN_MW1_A:57 PLY 3c6781e1
+"Italian is actually..."
+
+@NAN_MW1_A:58 PLY 02b11015
+"PE class..."
+
+@NAN_MW1_A:59 PLY ea76b86f
+"Swimming class..."
+
+@NAN_MW1_A:60 PLY 25c855f8
+"Speaking of sports, the other day..."
+
+@NAN_MW1_A:61 PLY 85f589cd
+"Dance is probably..."
+
+@NAN_MW1_A:62 PLY 82c0589e
+"Nana, you've been good at singing since you were little. I'm jealous."
+
+@NAN_MW1_A:63 PLY b57aaa9d
+"About music, I think..."
+
+@NAN_MW1_A:64 PLY 6954d621
+"This is a late-night show I happened to see the other day..."
+
+@NAN_MW1_A:65 PLY 3dcc7fb7
+"This is a book I read a long time ago, but..."
+
+@NAN_MW1_A:66 PLY a6d27955
+"Wandering around the shopping street for no reason..."
+
+@NAN_MW1_A:67 PLY d3586a25
+"Nana's fashion sense..."
+
+@NAN_MW1_A:68 PLY c6597209
+"Nana's taste in accessories..."
+
+@NAN_MW1_A:69 PLY 01dd1a56
+"I don't really get makeup, but probably..."
+
+@NAN_MW1_A:70 PLY c47625b7
+"Nana in her school swimsuit..."
+
+@NAN_MW1_A:71 PLY 1b130588
+"The types of swimsuits in fashion lately..."
+
+@NAN_MW1_A:72 PLY dbe3a72d
+"The other day, I ate..."
+
+@NAN_MW1_A:73 PLY d256f6a2
+"Sweets are..."
+
+@NAN_MW1_A:74 PLY 2a8458b2
+"If you drink too much water because it's hot..."
+
+@NAN_MW1_A:75 PLY b47f53a4
+"The dinners Nana makes..."
+
+@NAN_MW1_A:76 PLY 0bdfa349
+"Udon is something you never get tired of, or rather..."
+
+@NAN_MW1_A:77 PLY f626793f
+"Snacks are, like, addictive, you know..."
+
+@NAN_MW1_A:78 PLY d6e47072
+"Speaking of health..."
+
+@NAN_MW1_A:79 PLY 3bda691f
+"I hear there are all sorts of diets, but..."
+
+@NAN_MW1_A:80 PLY f25db876
+"Nana in her gym clothes..."
+
+@NAN_MW1_A:81 PLY 6424a308
+"Looking at Nana in her school swimsuit, how should I put it..."
+
+@NAN_MW1_A:82 PLY b9a84b26
+"Well... looking at you like this, Nana, you've grown up quite a bit, or..."
+
+@NAN_MW1_A:83 PLY 943957b8
+"About love, I think..."
+
+@NAN_MW1_A:84 PLY d1abb056
+"A guy's private life..."
+
+@NAN_MW1_A:85 PLY bd75112f
+"Nana, do you know? When guys wake up in the morning..."
+
+@NAN_MW1_A:86 PLY 921b8352
+"When I think about Japan's future..."
+
+@NAN_MW1_A:87 PLY 77f13e50
+"When we were little..."
+
+@NAN_MW1_A:88 PLY 705a729e
+"Nana's good points are..."
+
+@NAN_MW1_A:89 NAN 02a1284c
+"{V0746}Huh..."
+
+@NAN_MW1_A:93 NAN 959827a2
+"{V0747}R-{W35}really?{W40} I don't think{W20} that's so, though...{Sd}"
+
+@NAN_MW1_A:97 NAN 0829e305
+"{V0748}Huh..."
+
+@NAN_MW1_A:99 NAN bb357d84
+"{V0749}You think?{W50} Ehehe...{W50} Thanks..."
+
+@NAN_MW1_A:100 PLY 40c7ce75
+"Nana..."
+
+@NAN_MW1_A:104 SYS 9b3cbf89
+{Ti0}／                      {Ti2}Staaaaaaaaare
+
+@NAN_MW1_A:105 NAN 26616ce0
+"{V0750}What's wrong?{W20} Big Bro?"
+
+@NAN_MW1_A:106 NAN ee38ed60
+"{V0751}Ah!{W20} M-{W20}maybe,{W10} my bangs look weird or something?!"
+
+@NAN_MW1_A:107 PLY 57a964d3
+"N-no, that's not it. It's nothing, hahaha..."
+
+@NAN_MW1_A:108 NAN a2597d3e
+"{V0752}R-{W30}really?{W50} That's{W5} a relief..."
+
+@NAN_MW1_A:111 NAN 0bd0e0e4
+"{V0753}G-{W30}geez...{W50} Stop it, Big Bro.{W30} {Eo}{F6}If you stare{W5} at me that much{W10} I'll get embarrassed..."
+
+@NAN_MW1_A:112 PLY ec75f7f5
+"R-right... hahaha..."
+
+@NAN_MW1_A:113 PLY 2c137ded
+(Sigh... what am I doing, staring at my sister...)
+
+@NAN_MW1_A:115 PLY 841493f9
+"Nana."
+
+@NAN_MW1_A:116 NAN fead4310
+"{V0754}Huh?"
+
+@NAN_MW1_A:118 SYS a77d0776
+{Ti0}／                                      Smile!
+
+@NAN_MW1_A:119 NAN fc5fa9b5
+"{V0755}{E}......"
+
+@NAN_MW1_A:120 NAN c3fb0473
+"{V0756}Hehe,{W65} what is it?{W5} {Eo}Big Bro.{W30} Did something{W5} good happen?"
+
+@NAN_MW1_A:121 PLY 953b81ba
+"W-well, sort of..."
+
+@NAN_MW1_A:122 NAN 5e07aa5d
+"{V0757}Huh?"
+
+@NAN_MW1_A:124 NAN 6764801b
+"{V0758}Ah..."
+
+@NAN_MW1_A:125 NAN e2456cfa
+"{V0759}Your smile, Big Bro,{W65} is so gentle..."
+
+@NAN_MW1_A:126 PLY 7bcaa667
+(All right, I'll put on a cool face and nail it!)
+
+@NAN_MW1_A:127 NAN 8ceec5e7
+"{V0760}What?"
+
+@NAN_MW1_A:128 SYS c2ab9f12
+{Ti0}／                                    Sharp!
+
+@NAN_MW1_A:129 PLY 69e5b896
+"Don't you think this face is cool?"
+
+@NAN_MW1_A:130 NAN ca2f8562
+"{V0761}Eh..."
+
+@NAN_MW1_A:131 NAN 2448752f
+"{V0762}Ahaha...{W40} {Sp}Y-{W20}yeah.{W25} You look cool...{W20} I think..."
+
+@NAN_MW1_A:132 PLY aa05b71e
+(Guess that didn't land...)
+
+@NAN_MW1_A:133 NAN fff4cb14
+"{V0763}What?"
+
+@NAN_MW1_A:134 NAN db13c095
+"{V0764}Ah..."
+
+@NAN_MW1_A:135 PLY e8e812a7
+"How about it, Nana? Don't you think this face is cool?"
+
+@NAN_MW1_A:136 NAN 3635e697
+"{V0765}Yeah!{W30} {F3}You look{W20} really{W5} cool.{W35} {Ec}My heart's pounding."
+
+@NAN_MW1_A:137 PLY 2009fa41
+(All right! It worked!)
+
+@NAN_MW1_A:138 PLY 6a0ce4d0
+(Okay, let's go for it and take her hand...)
+
+@NAN_MW1_A:140 SYS 1ffe4b9d
+{T0.0}／                                      Squeeze!
+
+@NAN_MW1_A:141 NAN a473418d
+"{V0766}{E}......{E}"
+
+@NAN_MW1_A:142 NAN 63d15815
+"{V0767}What's wrong?{W35} Taking my hand{W5} all of a sudden..."
+
+@NAN_MW1_A:143 PLY 086c5029
+"Ah... no, it doesn't mean anything..."
+
+@NAN_MW1_A:144 NAN 204a7cdb
+"{V0768}Is that so?{W30} What a weird{W10} Big Bro."
+
+@NAN_MW1_A:146 NAN 2a9ea95a
+"{V0769}Ah..."
+
+@NAN_MW1_A:147 NAN 18a25b3d
+"{V0770}What? What?{W45} {E}Are you taking me{W5} somewhere?"
+
+@NAN_MW1_A:148 PLY 7f5f886d
+"Ah... no, that's not it..."
+
+@NAN_MW1_A:149 NAN a1d8083a
+"{V0771}{W5}Oh{W5}...{W45} bummer..."
+
+@NAN_MW1_A:150 PLY a5df8231
+(Squeeze.)
+
+@NAN_MW1_A:151 NAN e0b948ec
+"{V0772}Ah..."
+
+@NAN_MW1_A:152 NAN b3857852
+"{V0773}We're brother{W5} and sister,{W60} so holding hands{W40} isn't weird, right?"
+
+@NAN_MW1_A:153 PLY cb2996dc
+"R-right..."
+
+@NAN_MW1_A:154 PLY fabef9c6
+(What do I want to do, holding my sister's hand...)
+
+@NAN_MW1_A:155 NAN f71059e2
+"{V0707}......"
+
+@NAN_MW1_A:156 NAN de7ec549
+"{V0708}Oh, I see~.{W30} {Ec}That's a good{W10} story,{W20} Big Bro."
+
+@NAN_MW1_A:157 NAN 1b912efd
+"{V0709}......"
+
+@NAN_MW1_A:158 NAN e03fcbdf
+"{V0710}Ehehe,{W30} {Eo}thank you{W5} for telling me{W20} something so nice."
+
+@NAN_MW1_A:160 NAN c7050727
+"{V0711}Mm-hmm..."
+
+@NAN_MW1_A:161 NAN 1ae00a0f
+"{V2001}Ah!{W20} So that's how it is,{W5} I see!{W20} {F3}{Ec}That sounds{W5} nice."
+
+@NAN_MW1_A:162 NAN 113e7e0f
+"{V0712}Eh..."
+
+@NAN_MW1_A:163 NAN eb862dc3
+"{V0713}...Big Bro,{W25} to think you'd{W10} {Ec}praise me this much..."
+
+@NAN_MW1_A:164 NAN b419ce21
+"{V0714}......"
+
+@NAN_MW1_A:165 NAN a79a36a5
+"{V0715}Yeah!{W30} {F3}Big Bro,{W15} you're totally right!{Ec}"
+
+@NAN_MW1_A:166 NAN d77e118b
+"{V0716}......"
+
+@NAN_MW1_A:167 NAN feb75674
+"{V0717}Oh,{W40} that one,{W20} I{W15} like it too~{Ec}"
+
+@NAN_MW1_A:168 NAN 422e17e5
+"{V0718}......"
+
+@NAN_MW1_A:169 NAN 0615fb62
+"{V0719}Yeah!{W40} {Eo}I love it too~!"
+
+@NAN_MW1_A:170 NAN d015cad6
+"{V0720}Wow..."
+
+@NAN_MW1_A:171 NAN 28cd72dd
+"{V0721}That's{W10} just like you,{W10} Big Bro!{W20} {Ec}I'm{W5} impressed!"
+
+@NAN_MW1_A:172 NAN 385fa518
+"{V0722}......"
+
+@NAN_MW1_A:173 NAN 0456967a
+"{V0723}You're right...{Ec} It brings back memories, Big Bro..."
+
+@NAN_MW1_A:174 NAN 03befdbf
+"{V0724}......"
+
+@NAN_MW1_A:175 NAN 6969ee51
+"{V0725}Yeah,{W30} you're right.{W20} {Ec}It's fun, isn't it~"
+
+@NAN_MW1_A:176 NAN 46ce0d61
+"{V0726}......"
+
+@NAN_MW1_A:177 NAN b3615c9f
+"{V0727}Hmm{W5}...{W25} {F3}that's an interesting{W5} story~"
+
+@NAN_MW1_A:178 NAN 23a00931
+"{V0728}......"
+
+@NAN_MW1_A:179 NAN 6d885599
+"{V0729}Oh wow,{W50} so that's {F3}surprisingly{W5} fun, huh,{W10} Big Bro{F2}{Ec}"
+
+@NAN_MW1_A:180 NAN 58842e33
+"{V0730}......"
+
+@NAN_MW1_A:181 NAN 92f223b3
+"{V0731}Hehe,{W30} {Eo}oh, Big Bro{W5}, really~{Ec}"
+
+@NAN_MW1_A:182 NAN 4400e90a
+"{V0732}......"
+
+@NAN_MW1_A:183 NAN 0186cf8b
+"{V0733}You're right.{W40} {Eo}If we're doing it anyway,{W10} we should enjoy it."
+
+@NAN_MW1_A:184 NAN 6832a051
+"{V0736}......"
+
+@NAN_MW1_A:185 NAN adb2206c
+"{V0737}Wow,{W50} {F3}so that happened~.{W10} {F2}That's so{W5} interesting~{Ec}"
+
+@NAN_MW1_A:186 NAN c9ad4fe4
+"{V0738}......"
+
+@NAN_MW1_A:187 NAN 4bfa9a7a
+"{V0739}Yeah!{W30} {Eo}It's really{W5} fun, isn't it~!"
+
+@NAN_MW1_A:188 NAN 0d80b9d5
+"......"
+
+@NAN_MW1_A:190 NAN 4de809d8
+"{V0779}That's kind of{W5} a boring story,{W10} Big Bro."
+
+@NAN_MW1_A:191 NAN 08466b80
+"{V0782}Hmm...{W80} that kind of talk,{W40} I'm not good{W5} with..."
+
+@NAN_MW1_A:192 NAN 5150c97c
+"{V0780}Eh..."
+
+@NAN_MW1_A:193 NAN 83a08e99
+"{V0781}Sorry.{W30} That story seems{W10} a little too hard for Nana."
+
+@NAN_MW1_A:194 NAN 7d74ca8e
+"{V0740}Big Bro,{W40} that's{W5} way too much praise."
+
+@NAN_MW1_A:195 NAN 6cca7ae3
+"{V0741}Huh?{W10} Huh?{W25} {F8}Nana doesn't get stories like that,{W20} {Ec}not at{W5} all!"
+
+@NAN_MW1_A:196 NAN 5ea3fa9d
+"{V0742}Ehehe,{W75} {Eo}thanks...{W40} Big Bro."
+
+@NAN_MW1_A:197 NAN d857d104
+"{V0743}N-{W20}no way,{W10} Big Bro!{W30} Saying something so embarrassing..."
+
+@NAN_MW1_A:198 NAN e9b58535
+"{V0744}Big Bro,{W20} you pervert~~~!"
+
+@NAN_MW1_A:199 NAN 23d3a784
+"{V0745}B-{W20}Big Bro...,{W30} that kind of talk,{W40} is too early for Nana yet."
+
+@NAN_MW1_A:200 NAN 2e90475e
+"{V0749}You think? Ehehe... thanks..."

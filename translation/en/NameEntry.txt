@@ -1,0 +1,11 @@
+# NameEntry -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NameEntry:3 - 6282aa41
+Use this name?
+
+@NameEntry:4 - 36b2c5c2
+Cancel name entry and\nreturn to the main menu?
+
+@NameEntry:5 - 736954e7
+Cancel name entry and\nreturn to Topic Bag selection?

@@ -1,0 +1,413 @@
+# ASU_KOK_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_KOK_A:22 PLY 543c0bea
+(...I'm meeting Sakino at the Walkway)
+
+@ASU_KOK_A:41 PLY 522e5ce1
+"Oh, Sakino. It turned out to be a nice day, huh?"
+
+@ASU_KOK_A:43 ASU ddbb10b3
+"{V1220}Yeah."
+
+@ASU_KOK_A:45 ASU 83d60dd5
+"{V1221}I just showed{W35} the Kibito{W2} Commercial{W3} players{W2} to the Locker Room,{W3} and they're all{W32} so big.{W5}{W25} They look{W3} really good."
+
+@ASU_KOK_A:48 ASU ea2630d2
+"{V1222}Ahaha,{W40} I was overwhelmed{W3} just looking at them."
+
+@ASU_KOK_A:49 PLY 53e8f9c1
+"Well, they did make the national top eight."
+
+@ASU_KOK_A:50 ASU a5e2b09c
+"{V1223}Yeah...{W60} But,{W60} I hope everyone does their best."
+
+@ASU_KOK_A:51 PLY 851b6dc4
+"You're right."
+
+@ASU_KOK_A:52 ASU b0446936
+"{V1224}Come on, {Nm},{W25} let's go{W3} cheer them on!"
+
+@ASU_KOK_A:53 PLY c861944e
+"Okay! Let's go!"
+
+@ASU_KOK_A:59 SYS a07707d1
+And so the invitational match between Kibina High School and Kibito Commercial began.
+
+@ASU_KOK_A:60 SYS 58d77d04
+Kibina High School put up a better fight than expected against the powerhouse Kibito Commercial.
+
+@ASU_KOK_A:61 SYS 1fee083e
+Even if it was only an invitational and the other side wasn't going all out, we went into halftime at 0-0.
+
+@ASU_KOK_A:64 PLY 307a0814
+"Everyone's doing great."
+
+@ASU_KOK_A:65 ASU dd99dd2a
+"{V1225}Yeah!{W33} {Eo}They haven't{W5} lost focus,{W30} so I think{W2} we'll get a chance."
+
+@ASU_KOK_A:67 ASU 0f399179
+"{V1226}Our moves are good,{W10} so the other team{W3} seems confused."
+
+@ASU_KOK_A:68 SYS 8b33887e
+The second half began.
+
+@ASU_KOK_A:69 SYS 021c88d1
+...But whether it was stamina or technique, we were gradually pushed back...
+
+@ASU_KOK_A:70 SYS 3c76452c
+Kibina High School was reduced to pure defense.
+
+@ASU_KOK_A:71 SYS bf242618
+And then, in the 34th minute of the second half.
+
+@ASU_KOK_A:73 ASU abe8edcc
+"{V1227}Ah--..."
+
+@ASU_KOK_A:74 SYS ca61eaac
+Kibito Commercial finally scored.
+
+@ASU_KOK_A:75 ASU 610adbc5
+"{V1228}It's only{W2} one goal...{W40} everyone,{W10} hang in there..."
+
+@ASU_KOK_A:76 SYS 50274cbc
+But to overcome this crisis, we needed something that would change the whole situation.
+
+@ASU_KOK_A:77 SYS b9a44894
+Something...
+
+@ASU_KOK_A:78 SYS 17d3de03
+If only Sakino could play...
+
+@ASU_KOK_A:79 SYS 3954c598
+I don't think I was the only one thinking that... Everyone who came to cheer must have thought so too.
+
+@ASU_KOK_A:80 SYS 00fae977
+...The players on the pitch were no different.
+
+@ASU_KOK_A:81 ASU 7de30802
+"{V1229}Ah,{W60} the captain and the others{W3} are pleading with{W3} the{W2} coach.{W43} In the middle{W5} of a match..."
+
+@ASU_KOK_A:84 TOM 8fad33f3
+"{V0184}Sakino,{W15} there you are!{W30} {F8}You can't leave{W3} the bench!"
+
+@ASU_KOK_A:86 ASU 1cb33d24
+"{V1230}Ah...{W35} {Ec}{W5}{F9}{Eo}I thought I'd cheer from behind...{W45} {F6}Because,{W10} I thought it'd be bad{W2} to stay{W2} on the bench..."
+
+@ASU_KOK_A:87 TOM c418daba
+"{V0185}Sakino,{W30} that may be what you think,{W10} but the players don't seem to agree."
+
+@ASU_KOK_A:88 ASU 54f1ae0c
+"{V1231}What?!"
+
+@ASU_KOK_A:89 TOM 1a98501e
+"{V0186}They want you in the game.{W23} They say they need{W25} your{W5} strength{W3} to get a goal back."
+
+@ASU_KOK_A:90 TOM 4753cf77
+"{V0187}...Above all,{W10} they want{W2} to stand on the same pitch{W10} {F3}as the one who worked{W2} hard with them."
+
+@ASU_KOK_A:91 ASU 1b8f203f
+"{V1232}Everyone..."
+
+@ASU_KOK_A:92 ASU 833aec7a
+"{V1233}I'm so happy.{W60} Thank you..."
+
+@ASU_KOK_A:93 TOM b64b2000
+"{V0188}Come on,{W33} {Ec}say thanks{W2} after you get{W2} a goal back.{W15} {F9}{Eo}If you don't hurry,{W10} the coach{W5} will be angry."
+
+@ASU_KOK_A:94 ASU 1544c19a
+"{V1234}Yes!"
+
+@ASU_KOK_A:95 ASU d7819e37
+"{Nm}, {V1235}I..."
+
+@ASU_KOK_A:96 PLY c19e7441
+"You said that if I'm watching over you, you can make any pass or shot, right? I'll be cheering here."
+
+@ASU_KOK_A:100 ASU e15d4bf1
+"{V1236}Yeah!{W10} I'll score!"
+
+@ASU_KOK_A:102 TOM 66498898
+"{V0189}Hmm,{W70} that's{W5} quite a line, {Nm}."
+
+@ASU_KOK_A:103 PLY 1d5419f8
+"M-Ms. Kawada... please forget you heard that..."
+
+@ASU_KOK_A:104 SYS cebedc28
+In the 37th minute of the second half, Sakino finally stepped onto the pitch!
+
+@ASU_KOK_A:105 SYS 6d1e4500
+Sakino linked up the midfield, which had run out of energy, and pushed into Kibito Commercial's territory.
+
+@ASU_KOK_A:106 SYS 9b2438b2
+The Kibito Commercial players and coach were confused by a girl taking the pitch, but only until she had touched the ball a few times.
+
+@ASU_KOK_A:107 SYS 5fef5a71
+Watching her move, they realized this was no charity substitution to let a reserve player, a girl at that, have a turn.
+
+@ASU_KOK_A:108 SYS 873ad9a0
+It was a substitution made to really score.
+
+@ASU_KOK_A:109 SYS ac738d26
+...And then, right after stoppage time began.
+
+@ASU_KOK_A:110 PLY 880deb28
+"Yeah!!"
+
+@ASU_KOK_A:111 TOM dcff5af1
+"{V0190}She did it!{W13} Sakino!"
+
+@ASU_KOK_A:112 SYS eca6449b
+Sakino's shot flew beautifully into the opponent's goal.
+
+@ASU_KOK_A:114 SYS dcb74138
+The match was over. Kibina High School had drawn with Kibito Commercial, and in fine style.
+
+@ASU_KOK_A:141 - 40ed030b
+Ryo
+
+@ASU_KOK_A:143 EX1 44ed6124
+"{V1009}Sakino!{W30} Nice shot!"
+
+@ASU_KOK_A:144 - d485921b
+Toshi
+
+@ASU_KOK_A:145 EX2 21eb88bb
+"{V1109}I knew{W5} you'd{W5} do it!"
+
+@ASU_KOK_A:147 ASU 5be751e7
+"{V1237}Thanks...{W15} everyone...... thanks..."
+
+@ASU_KOK_A:151 PLY 43b983ac
+(Sakino... congratulations...)
+
+@ASU_KOK_A:152 PLY 616c0a23
+(Even Kibito Commercial couldn't stop her... She really is an amazing player, Sakino...)
+
+@ASU_KOK_A:153 PLY 1b22374a
+(She's completely different from an ordinary guy like me...)
+
+@ASU_KOK_A:154 PLY 5771bb67
+(But... I want to tell Sakino how I feel)
+
+@ASU_KOK_A:155 PLY 98cc3d26
+(Even if all I can do is watch over her... I...)
+
+@ASU_KOK_A:156 ASU d56fd05b
+"{V1238}Sorry to keep you waiting, {Nm}."
+
+@ASU_KOK_A:157 PLY 186eeab3
+"It was a huge celebration after the match, wasn't it?"
+
+@ASU_KOK_A:158 ASU fc71c94d
+"{V1239}Yeah.{W35} I couldn't get away,{W3} sorry."
+
+@ASU_KOK_A:159 PLY ea369809
+"You're the star of the day."
+
+@ASU_KOK_A:160 ASU ad8bc105
+"{V1240}Still...{W30} that Kibito Commercial coach{W2} wore me out.{W30} {Fe9m4}{Eo}{Sp}\\"Come to us!{W5} I'll train you!\\"{W20} Over and over...
+
+@ASU_KOK_A:161 PLY 02e1c877
+"What?! You mean..."
+
+@ASU_KOK_A:162 ASU c0107979
+"{V1241}...Ah,{W30} I'm not going.{W30} {Ec}Transferring...{W30} that'd be lonely."
+
+@ASU_KOK_A:163 PLY 897d5542
+"Yeah... you're right."
+
+@ASU_KOK_A:164 ASU a9780da3
+"{V1242}But,{W10} he said he'd introduce me{W3} to some big names{W3} in women's soccer."
+
+@ASU_KOK_A:165 PLY 6844ceea
+"Really? That's great!"
+
+@ASU_KOK_A:166 ASU a1f9788b
+"{V1243}Yeah."
+
+@ASU_KOK_A:167 PLY 7f11f8f8
+"...So, shall we go to the riverbank?"
+
+@ASU_KOK_A:168 ASU 13ffb2d9
+"{V1244}Huh?{W45} The riverbank?{W80} {Fe9m3}We're not practicing{W3} today, though...?"
+
+@ASU_KOK_A:169 PLY c2b1fae9
+"...Sakino. Today, I want you to go to the riverbank for my sake. There's something I want to tell you."
+
+@ASU_KOK_A:170 ASU 39bc011f
+"{V1245}Oh..."
+
+@ASU_KOK_A:173 ASU b4f8a704
+"{V1246}The sunset{W15} is beautiful..."
+
+@ASU_KOK_A:175 ASU bea1e9fd
+"{V1247}...We watched this sunset{W3} so many times{W25} while practicing,{W15} the{W3} two of us."
+
+@ASU_KOK_A:176 ASU 7b86485f
+"{Nm}, {V1248}thank you{W5} for{W3} helping me practice{W30} all this time. {Ec}Really."
+
+@ASU_KOK_A:177 PLY 2a228818
+"Not just until now. From here on, too... we'll always be together."
+
+@ASU_KOK_A:178 PLY 56f5019e
+"I'll keep watching over you."
+
+@ASU_KOK_A:179 ASU 9801273b
+"{V1249}{Nm}..."
+
+@ASU_KOK_A:181 ASU 8c035d79
+"{V1250}...So,{W42} what is it{W2} you wanted{W3} to tell me?{W40} {F3}{Eo}"
+
+@ASU_KOK_A:182 PLY 9b7f8794
+"...Sakino, congratulations on the goal."
+
+@ASU_KOK_A:183 ASU 4afc8888
+"{V1251}Thank you, {Nm}."
+
+@ASU_KOK_A:184 PLY be3d5009
+"I think your soccer career is about to blossom."
+
+@ASU_KOK_A:185 PLY 5bb89328
+"...You'll surely become an amazing player the whole world watches."
+
+@ASU_KOK_A:186 ASU ea2a7be0
+"{V1252}Yeah...{W50} I'd be{W5} {F3}{Ec}so happy if that happened."
+
+@ASU_KOK_A:187 PLY 1807c445
+"...But the brighter you shine, the more I realize something."
+
+@ASU_KOK_A:188 ASU a1853ae2
+"{V1253}Huh?"
+
+@ASU_KOK_A:189 PLY fad02f98
+"That I'm an ordinary guy..."
+
+@ASU_KOK_A:190 PLY f3eb8e11
+"Just... a guy with nothing special... an ordinary guy..."
+
+@ASU_KOK_A:191 ASU cef27666
+"{V1254}That's not true!{W15} That's not true!{W70} {Ec}{Nm},{W20} to me, you're..."
+
+@ASU_KOK_A:192 ASU d55e4f3f
+"{V1255}To{W2} me...{W75} {Eh}you're someone{W3} irreplaceable!{Eo}"
+
+@ASU_KOK_A:193 PLY ccf7b3ae
+"Thank you..."
+
+@ASU_KOK_A:194 PLY 389f41a3
+"Sakino... I've been struggling over whether I should tell you how I feel."
+
+@ASU_KOK_A:195 PLY 660a7388
+"I thought it was enough to just keep watching over you..."
+
+@ASU_KOK_A:196 ASU b5a2f699
+"{Nm}... {V1256}that's not..."
+
+@ASU_KOK_A:197 ASU 39adea63
+"{V1257}...I'm sorry.{W53} I'm{W5} so dense, I didn't notice...{W80} {Eh}that you{W40} were{W5} {Ec}agonizing over me..."
+
+@ASU_KOK_A:198 PLY 83ba0588
+"Sakino, it's okay... I understand now."
+
+@ASU_KOK_A:199 ASU 2d550258
+"{V1258}Huh...?"
+
+@ASU_KOK_A:200 PLY f06c2ddf
+"Today, watching you chase the ball so desperately in the match, I understood."
+
+@ASU_KOK_A:201 PLY e275a7e0
+"Nothing starts unless you step onto the pitch. Just watching from the bench isn't enough."
+
+@ASU_KOK_A:202 ASU d1c8cb10
+"{V1259}{Nm}..."
+
+@ASU_KOK_A:203 PLY 52d0d452
+"...Sakino... I love you."
+
+@ASU_KOK_A:205 ASU c0b44e2a
+"{V1260}Ah..."
+
+@ASU_KOK_A:206 PLY 77c56fc3
+"I'm in love with you."
+
+@ASU_KOK_A:207 ASU 7bf4b3d8
+"{V1261}{Nm}..."
+
+@ASU_KOK_A:208 PLY 582471ae
+"An ordinary guy like me might not be a match for you, but my feelings could stand on the national team's pitch."
+
+@ASU_KOK_A:209 PLY 385579ed
+"No, my feelings will stand with you on the pitch in the Italian league."
+
+@ASU_KOK_A:210 ASU 7e407341
+"{Nm}... {V1262}{Ec}I'm so happy..."
+
+@ASU_KOK_A:211 ASU ba06889f
+"{V1263}I...{W135} you see..."
+
+@ASU_KOK_A:212 ASU 0ac6adcf
+"{V1264}I'm not{W45} special at all.{W60} {Ec}I'm just{W3} an ordinary girl."
+
+@ASU_KOK_A:213 ASU b159a72a
+"{V1265}I feel lonely{W2} when I can't{W2} see you,{W83} {Eo}{B60}and when{W5} I do,{W40} my heart pounds..."
+
+@ASU_KOK_A:214 ASU 676a9d03
+"{V1266}I...{W100} can't do anything{W30} without you."
+
+@ASU_KOK_A:215 ASU 93eea063
+"{V1267}...I love you.{W55}{W73} I really love you!{W75} {Ec}Because you're there,{W10} I can do my best{Eo}"
+
+@ASU_KOK_A:216 ASU daf5f8ef
+"{Nm}, {V1268}I love you!"
+
+@ASU_KOK_A:217 PLY ad1efede
+"Sakino!"
+
+@ASU_KOK_A:218 ASU cbe73953
+"{V1269}{Nm}!"
+
+@ASU_KOK_A:222 PLY 42c2d7b6
+"I love you..."
+
+@ASU_KOK_A:223 ASU ae48dfe6
+"{V1270}I love you{W15} too...{W8}"
+
+@ASU_KOK_A:225 ASU 755c9e1b
+"{V1271}Hehe,{W90} like this{W33} it feels like{W10} I'm celebrating a goal.{W8}"
+
+@ASU_KOK_A:227 PLY 892f190a
+"It's true, I scored a goal in your heart."
+
+@ASU_KOK_A:228 ASU 7beaaaba
+"{V1272}...Yeah,{W55} it went in.{W55} Your shot.{W8}"
+
+@ASU_KOK_A:233 SYS 737242bd
+{V5055}{c4}...Some time after that,{W30} I{W8} was{W30} chosen for Japan's women's national soccer team.
+
+@ASU_KOK_A:234 SYS 35844d78
+{V5056}{c4}It was an unusual pick from an unknown school,{W30} so there{W4} was quite a stir,{W30} but now{W3} it's quiet.
+
+@ASU_KOK_A:235 SYS ea6db6c1
+{V5057}{c4}Women's soccer{W3} gets{W15} less{W3} attention{W8} than{W6} the{W3} men's,{W4} after all{W2}.{W5}
+
+@ASU_KOK_A:236 SYS 6b55914b
+{V5058}{c4}Practice{W6} at a level I'd never known,{W3}{W3}{W66} matches full of pressure...
+
+@ASU_KOK_A:237 SYS a434b5b6
+{V5059}{c4}I nearly gave up many times,{W51} but{W30} you{W3} always supported me.
+
+@ASU_KOK_A:238 SYS 28d3f9c2
+{V5060}{c4}If you're watching over me,{W30} I can make any pass,{W24} any shot.
+
+@ASU_KOK_A:239 SYS 9cd9c65f
+{V5061}{c4}"So{W39}{W4} I want to give{W30} this gold medal{W4} to you."
+
+@ASU_KOK_A:240 SYS 9a91359f
+{V5062}{c4}"...No,{W30} please take it.{W60} It's precious,{W4}{W6}{W33} but{W3}{W3} someday it'll come back to me."
+
+@ASU_KOK_A:241 SYS 198df0d4
+{V5063}{c4}"Thank you,{W63}{W3} I love you."
+
+@ASU_KOK_A:242 SYS a409c15a
+Not yet sorted into a file.

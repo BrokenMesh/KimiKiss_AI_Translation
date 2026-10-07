@@ -1,0 +1,92 @@
+# ERI_GKE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_GKE:25 SYS 1b192009
+A same-character match?! Impossible!
+
+@ERI_GKE:53 PLY 74b7bdc5
+"Oh, Futami, are you heading to the school gate?"
+
+@ERI_GKE:54 ERI 3e884bd4
+"{V0630}{W12}Yes."
+
+@ERI_GKE:56 PLY e3d28766
+"I see. Perfect timing, then."
+
+@ERI_GKE:57 PLY bd541034
+"Futami, sorry, did I keep you waiting?"
+
+@ERI_GKE:58 ERI 821ed892
+"{V0632}{W8}Not really..."
+
+@ERI_GKE:59 PLY c51d6bad
+"I see. That's good."
+
+@ERI_GKE:61 PLY 98280538
+"Shall we head home, then?"
+
+@ERI_GKE:64 ERI 706a6ae6
+"{V0631}{W12}Right..."
+
+@ERI_GKE:65 ERI 70d59a94
+"{V0633}{W8}Yes."
+
+@ERI_GKE:68 ERI 0ec16aed
+"{V0634}{W12}Yes,{W18} that's right."
+
+@ERI_GKE:70 ERI 9ebe657a
+"{V0636}{W15}Not really,{W63} I just got here."
+
+@ERI_GKE:72 ERI c49e7c6a
+"{V0635}{W15}Right..."
+
+@ERI_GKE:74 ERI d31f9023
+"{V0637}{W12}Yes."
+
+@ERI_GKE:75 ERI e445065b
+"{V0638}{W12}Yes, that's right.{W24} What{W3} a coincidence{W4}."
+
+@ERI_GKE:76 PLY 1b758669
+"Hahaha, you're right."
+
+@ERI_GKE:77 ERI 08eb867b
+"{V0640}{W12}Oh,{W15} {Nm}.{W30} It's{W3} all{W3} right.{W33} I{W3} just{W1} got here."
+
+@ERI_GKE:79 ERI f890d83f
+"{V0639}{W12}Yes."
+
+@ERI_GKE:80 ERI 1c1db515
+"{V0641}{W12}Yes."
+
+@ERI_GKE:82 ERI e4104f9d
+"{V0642}{W12}Oh,{W60} {Nm}.{W30} Are you off to the school gate{W3}{W3}?"
+
+@ERI_GKE:83 PLY 117943ea
+"Oh, Futami, yes. What a coincidence."
+
+@ERI_GKE:85 ERI 67f78c28
+"{V0643}{W12}{F2}{Ec}Fufu,{W36} {Eo}it is."
+
+@ERI_GKE:86 ERI f3541d06
+"{V0645}{W8}Oh, {Nm}"
+
+@ERI_GKE:87 ERI 1d15d2b7
+"{V0646}{W12}It's{W3} all{W3} right.{W30} I{W4} just got here."
+
+@ERI_GKE:88 ERI 6f5c5a53
+"{V0644}{W8}{Ec}Yes."
+
+@ERI_GKE:89 ERI a1d4788c
+"{V0647}{W12}{Ec}Yes."
+
+@ERI_GKE:93 ERI 303d05b9
+"{V0654}{W8}Is something wrong?"
+
+@ERI_GKE:94 PLY c51f6ca1
+"Ah, no... N-nothing."
+
+@ERI_GKE:95 PLY 3850afdd
+"Come on, let's go!"
+
+@ERI_GKE:96 ERI 9c678d10
+"{V0655}{W8}{Ec}Yes."

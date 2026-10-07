@@ -1,0 +1,197 @@
+# MIT_GKE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MIT_GKE:25 SYS 1b192009
+A mirror match?! Impossible!
+
+@MIT_GKE:53 MIT dc60d49d
+"{V0671}{F4}{W12}Ah,{W33} Master.{W3}{W5}{W5}"
+
+@MIT_GKE:54 PLY fa6dc1a5
+(Ugh... "Master" again...)
+
+@MIT_GKE:55 PLY c44ed5ee
+"Shijou, are you on your way to the School Gate?"
+
+@MIT_GKE:56 MIT 5ff98c77
+"{V0672}{W15}Yes."
+
+@MIT_GKE:57 PLY e3d28766
+"I see. Good timing, then."
+
+@MIT_GKE:58 MIT 9e1f967b
+"{V0673}{W8}{Fe2}Yes, indeed."
+
+@MIT_GKE:59 MIT db41fc48
+"{V0664}{W12}{F4}Ah, {Nm}."
+
+@MIT_GKE:60 MIT 2662d280
+"{V0665}{W12}{F3}Yes.{W1}"
+
+@MIT_GKE:62 MIT 280474c5
+"{V0666}{W12}{Fe2}{Ec}Yes, indeed."
+
+@MIT_GKE:63 MIT daa2e310
+"{V0675}{W12}Ah,{W27} Master.{W3}{W3}{W5}"
+
+@MIT_GKE:64 PLY 1af6ebbc
+"Shijou, sorry. Did I keep you waiting?"
+
+@MIT_GKE:66 MIT 008eeb5f
+"{V0676}{W10}{Ec}No,{W33}{Eo} not at all."
+
+@MIT_GKE:67 PLY c51d6bad
+"I see. Good."
+
+@MIT_GKE:68 MIT 810cbb24
+"{V668}{W5}Ah, {Nm}."
+
+@MIT_GKE:70 MIT 2a6345aa
+"{V0669}{W12}No,{W33} I{W8} have only{W4} just arrived myself."
+
+@MIT_GKE:72 PLY 94406078
+"Well then, shall we go?"
+
+@MIT_GKE:73 MIT 3e8c7e83
+"{V0674}{W12}{Fe2}{Ec}Yes."
+
+@MIT_GKE:74 MIT 432394a1
+"{V0667}{W12}{Fe2}{Ec}Yes."
+
+@MIT_GKE:75 MIT b2d31fc7
+"{V0677}{W8}{Fe2}{Ec}Yes."
+
+@MIT_GKE:76 MIT fa16832e
+"{V0670}{W8}{Fe2}{Ec}Yes."
+
+@MIT_GKE:78 MIT ee7c4592
+"{V0685}{W8}{F4}Ah,{W30} Master.{W2}{W3}{W5}"
+
+@MIT_GKE:79 PLY 08b6b88a
+"Ah, Shijou, are you on your way to the School Gate?"
+
+@MIT_GKE:80 MIT d2d494c6
+"{V0686}{W12}Yes,{W3} that is right."
+
+@MIT_GKE:81 MIT 42f7b8ab
+"{V0687}{W8}{Fe2m3}{Ec}Yes."
+
+@MIT_GKE:82 MIT 311707b1
+"{V0678}{W12}{F4}Ah, {Nm}."
+
+@MIT_GKE:83 MIT 96457050
+"{V0679}{W12}{Fe2m3}Yes."
+
+@MIT_GKE:84 MIT 7a3301b6
+"{V0680}{W12}{Ec}Fufu,{W1}{W1}{W45} yes,{W1} indeed."
+
+@MIT_GKE:85 MIT 2f6d8189
+"{V0689}{W12}Ah,{W12} Master.{W1}{W3}{W5}"
+
+@MIT_GKE:86 PLY 8335d4b1
+"Shijou, sorry. Did I keep you waiting?"
+
+@MIT_GKE:87 MIT cbd11b2f
+"{V0690}{W8}{Ec}{Fe2}No,{W18} not at{W2} all."
+
+@MIT_GKE:88 PLY b627f6d6
+"I see, good."
+
+@MIT_GKE:89 MIT ea394318
+"{V0682}{W8}{Fe4}Ah, {Nm}."
+
+@MIT_GKE:90 MIT 5687af9a
+"{V0683}{W12}{Fe3m4}No,{W15}{F2} it is{W3} all{W3} right.{W30} {Ec}I{W8} have only{W4} just{W1} arrived,{W1} you{W1} see."
+
+@MIT_GKE:91 MIT 5b5782c6
+"{V0688}{W12}{Eo}Yes."
+
+@MIT_GKE:92 MIT a8d05e9e
+"{V0681}{W12}{Eo}Yes."
+
+@MIT_GKE:93 MIT 805686c8
+"{V0691}{W12}{Eo}Yes."
+
+@MIT_GKE:94 MIT 2b635fd2
+"{V0684}{W12}{Eo}Yes."
+
+@MIT_GKE:95 MIT 69da4e83
+"{V0698}{W12}{F4}Ah,{W18} Master.{W2}{W3}{W5}"
+
+@MIT_GKE:96 MIT e9fb3838
+"{V0699}{W12}{F3}Yes,{W21} that is right.{W45} {Fe2m3}Meeting you here,{W18}{Eh} what{W4} a coincidence{W4}."
+
+@MIT_GKE:97 PLY 1b758669
+"Hahaha, you're right."
+
+@MIT_GKE:98 MIT 840b1c0d
+"{V0692}{W15}{F4}Ah, {Nm}."
+
+@MIT_GKE:99 MIT c1dd6bca
+"{V0693}{W15}{F3}Yes.{W45}{Fe2m4} Meeting you here,{Ec}{F2} what{W3} a coincidence{W3}."
+
+@MIT_GKE:100 MIT b73d0d6f
+"{V0701}{W8}Ah,{W18} Master.{W1}{W3}{W4}"
+
+@MIT_GKE:102 MIT 86113b4c
+"{V0702}{W12}{Fe2}{Ec}No,{W18} not at{W2} all.{W27} {Eo}I have{W4} only just{W1} arrived{W1} myself."
+
+@MIT_GKE:103 MIT 06bd0e0b
+"{V0695}{W8}Ah, {Nm}."
+
+@MIT_GKE:104 PLY ba851952
+"Shijou, sorry. Was I a little late?"
+
+@MIT_GKE:105 MIT 244d5a75
+"{V0696}{W8}{Ec}{F2}No,{W30} not at{W1} all."
+
+@MIT_GKE:106 PLY 499877e1
+"R-really?"
+
+@MIT_GKE:108 MIT 2054a3c2
+"{V0700}{W8}{Ec}Yes!"
+
+@MIT_GKE:109 MIT 9641296b
+"{V0694}{W8}Yes."
+
+@MIT_GKE:110 MIT 349010f5
+"{V0703}{W8}{Ec}Yes!"
+
+@MIT_GKE:111 MIT 84c04f7d
+"{V0697}{W8}Yes."
+
+@MIT_GKE:116 MIT 5dc0b14d
+"{V0704}{W12}Ah, {Nm}."
+
+@MIT_GKE:117 MIT 1a401e43
+"{V0707}{W8}Ah, {Nm}."
+
+@MIT_GKE:118 MIT 5db76817
+"{V0708}{W12}{F3}No,{W36} I have{W4} only{W1} just{W2} arrived."
+
+@MIT_GKE:120 MIT 5cc76f46
+"{V0706}{W8}Yes."
+
+@MIT_GKE:121 MIT 3738334c
+"{V0709}{W12}Yes."
+
+@MIT_GKE:126 MIT 82ff71e9
+"{V0719}{W12}Master,{W2}{W3}{W4}{W42} is something{W3} the matter?"
+
+@MIT_GKE:127 PLY 91107df6
+"Huh? Ah, no, it's nothing."
+
+@MIT_GKE:128 MIT bbd845e8
+"{V0720}{W8}{Fe9}Are you sure?"
+
+@MIT_GKE:129 PLY 3850afdd
+"Come on, let's go!"
+
+@MIT_GKE:130 MIT 98b39fdc
+"{V0721}{W12}{F3}Yes."
+
+@MIT_GKE:131 MIT 224a23c6
+"{Nm},{V0717}{W8} is something{W3} the matter?"
+
+@MIT_GKE:132 MIT d8b2a08d
+"{V0718}{W15}{F3}Yes."

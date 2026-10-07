@@ -1,0 +1,401 @@
+# ERI_GKD_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_GKD_B:22 PLY 9ec4cf40
+"Futami, want to stop somewhere on the way?"
+
+@ERI_GKD_B:24 ERI 85d9418a
+"{V0795}{W12}Somewhere...{W45} where?"
+
+@ERI_GKD_B:26 PLY efc2fda1
+"How about the riverbank?"
+
+@ERI_GKD_B:27 ERI a9853d94
+"{V0796}{W8}The{W1} riverbank{W3}?{Ti0} {Ti2}{W75}...{W33} I{W3} don't mind."
+
+@ERI_GKD_B:28 PLY b93e4dbf
+"Great, let's go!"
+
+@ERI_GKD_B:41 PLY 6525d387
+"Oh, Futami, not that way."
+
+@ERI_GKD_B:42 ERI daf6cd51
+"{V0797}{W12}{F4}{Eo}Huh?"
+
+@ERI_GKD_B:43 PLY 48530413
+"The riverbank is the other way."
+
+@ERI_GKD_B:50 ERI cb79bd1d
+"{V0798}{W8}{F8}No, it isn't.{W15} {Ec}It's this way."
+
+@ERI_GKD_B:51 PLY 36f2a68e
+"No, that's the back street..."
+
+@ERI_GKD_B:52 ERI 571729f0
+"{V0799}{W8}{Eo}It's def{W3}in{W4}itely{W2} this way."
+
+@ERI_GKD_B:57 PLY b50de342
+"Oh, Futami..."
+
+@ERI_GKD_B:64 PLY 22fe1a45
+"See, we've ended up in a back alley..."
+
+@ERI_GKD_B:66 ERI cf641ef1
+"{V0800}{W12}That's{W3} strange{W1}...{W2}{W4}{W1}"
+
+@ERI_GKD_B:67 PLY 1debd6db
+"Let's go back to the station."
+
+@ERI_GKD_B:68 ERI 4e9ed22a
+"{V0801}{W8}{F4}{Eo}Oh,{W30} {Eh}yes."
+
+@ERI_GKD_B:70 PLY 53e14427
+"The riverbank is that way. Come on."
+
+@ERI_GKD_B:71 ERI eee1ec52
+"{V0802}{W12}{Eh}{Fe7m4}I{W4} really{W4} don't{W4} think{W1} so{W4}...{W1}but..."
+
+@ERI_GKD_B:76 ERI aff0a04a
+"{V0803}{W12}Oh..."
+
+@ERI_GKD_B:77 PLY 38d26d0c
+"See?"
+
+@ERI_GKD_B:79 ERI 829da559
+"{V0804}{W15}You{W6} are{W3} right.{W60} How{W3} strange{W1}...{W1}"
+
+@ERI_GKD_B:80 PLY 6a5cb440
+"It's not strange. What's strange is your sense of direction, Futami..."
+
+@ERI_GKD_B:81 ERI d34154fc
+"{V0805}{W8}What...?"
+
+@ERI_GKD_B:82 PLY 29855d61
+"Futami, do you maybe have no sense of direction?"
+
+@ERI_GKD_B:83 ERI 21ebec98
+"{V0806}{W8}{Ec}{F8}{B80}O-{W30}of course not!{Ti0} {Ti2}{W30}{Eo}How{W2} rude{W4}!"
+
+@ERI_GKD_B:84 PLY a4a7de08
+"But don't you get lost a lot?"
+
+@ERI_GKD_B:85 ERI da29f9fd
+"{V0807}{W8}W-{W45}well{W3}, that{W1}...{W27}{P3}{Eh}{Fe7m4}{W45}I{W5} suppose{W3} so.{W60} I do get lost{W4} often.{W75}{Fe6} I{W4} can't{W8} tell{W2} where{W2} I{W1} am{W1} half{W1} the time..."
+
+@ERI_GKD_B:86 PLY 5e62c6b4
+"That's what having no sense of direction means."
+
+@ERI_GKD_B:87 ERI 5778d667
+"{V0808}{W8}{Fe9m5}{B100}{S}Ugh...{W66} I{W4} can't{W51} argue{W1} with that."
+
+@ERI_GKD_B:88 PLY 2639acc0
+"I see, you're so smart, Futami, but you can't remember the way..."
+
+@ERI_GKD_B:89 ERI 179b2a28
+"{V0809}{W12}{Sd}{Eo}{F8}I-{W27}I've learned it{W3} now{W4}!{P0} {Ec}{W51}I{W1} can{W3} get to the riverbank{W8} on{W3} my own."
+
+@ERI_GKD_B:90 PLY a6f077fd
+"I hope so..."
+
+@ERI_GKD_B:91 ERI 2d64baa1
+"{V0810}{W40}{B60}...{W3}{Eo}{Fe9}How{W7} humiliating{W10}."
+
+@ERI_GKD_B:92 SYS 2a6e46a5
+...And so I walked home with Futami.
+
+@ERI_GKD_B:95 PLY 385d7ccf
+"Futami, want to stop by the riverbank?"
+
+@ERI_GKD_B:96 ERI 18da9532
+"{V0811}{W12}The{W1} riverbank{W4}?"
+
+@ERI_GKD_B:97 ERI 2fc509af
+"{V0812}{W5}......"
+
+@ERI_GKD_B:98 PLY c0bdaccc
+"What's wrong?"
+
+@ERI_GKD_B:99 ERI df4bf0ea
+"{V0813}{W12}You{W8} mean to{W1} test{W4} whether I can get to the{W2} riverbank,{W30} don't you?"
+
+@ERI_GKD_B:100 PLY ec915854
+"...You noticed?"
+
+@ERI_GKD_B:102 ERI bad3bc51
+"{V0814}{W8}How{W6} humiliating{W9}...{W43} to{W1} be{W3} tested{W1}...{W1}"
+
+@ERI_GKD_B:103 ERI 3cf6843a
+"{V0815}{W12}The{W3} way{W1} to{W1} the{W1} riverbank{W3} is{W8} easy{W1}!{W45} Look,{W30} you{W1} turn{W1} here,{W3} then{W14} go straight..."
+
+@ERI_GKD_B:104 PLY c61e7690
+"Oh, that way is..."
+
+@ERI_GKD_B:105 ERI 4c9dbbcc
+"{V0816}{W8}{S}Ah...{W81}{Fe1}the{W1} back{W4} alley{W3} a{W3}gain{W9}...{W1}"
+
+@ERI_GKD_B:106 PLY 8940c07c
+"Hahahahaha."
+
+@ERI_GKD_B:107 ERI df42af76
+"{V0817}{W8}{B100}{Nm}!{W45} {Eo}You don't have{W3} to laugh that much!"
+
+@ERI_GKD_B:108 PLY dc32ba16
+"Hahaha... sorry, sorry."
+
+@ERI_GKD_B:109 PLY 13303ddd
+"Futami, you're..."
+
+@ERI_GKD_B:111 ERI 17fc93c4
+"{V0818}{W8}What?"
+
+@ERI_GKD_B:112 PLY 779d76fe
+"You really have no sense of direction, huh."
+
+@ERI_GKD_B:114 ERI 40253635
+"{V0819}{W8}{S}{B80}{F6}{Ec}I{W4} have{W2} no{W4} reply{W1}...{W1}"
+
+@ERI_GKD_B:116 ERI 3f9737d8
+"{V0820}{W12}Fu{W3}fu{W3},{W36} I wonder what kind of{W3} ramen it is.{W15} I'm{W4} looking forward to it."
+
+@ERI_GKD_B:117 PLY 232dd9af
+"It definitely won't disappoint you."
+
+@ERI_GKD_B:118 ERI 7821cd65
+"{V0821}{W15}Is it that bad?"
+
+@ERI_GKD_B:119 PLY 0c8af9fc
+"You'll find out when you eat it."
+
+@ERI_GKD_B:120 ERI 73e246e5
+"{V0822}{W8}Fu{W3}fu{W3},{W33} my{W2} expectations{W4} are{W1} growing{W2}.{W2}"
+
+@ERI_GKD_B:121 ERI 53994596
+"{V0823}{W12}So,{W28} where{W3} is{W5} this ramen shop?"
+
+@ERI_GKD_B:122 PLY 09dffd42
+"Look, it's right there."
+
+@ERI_GKD_B:123 ERI 8df56acf
+"{V0824}{W12}Huh?{Ti0} {Ti2}{W36}Here?{Ti0} {Ti2}{W78}It's{W4} right{W4} by{W3} the station.{W42} With{W1} such{W1} a{W1} good{W1} location,{W24} it's{W3} bad?"
+
+@ERI_GKD_B:124 PLY 9bc9aa57
+"Places like that are sometimes the bad ones."
+
+@ERI_GKD_B:125 ERI 2d541f1a
+"{V0825}{W8}Hm{W8}m{W8}m{W5}...{W60} What a{W8} waste."
+
+@ERI_GKD_B:126 - b52dc96e
+Owner
+
+@ERI_GKD_B:128 ETC 2a17c953
+"{V0000}{W6}Hey,{W15} welcome!"
+
+@ERI_GKD_B:131 ERI 3f999d17
+"{V0826}{Ts1}{W8}{Nm}...{W51} there{W4} are{W3} no{W4} customers."
+
+@ERI_GKD_B:132 PLY 74408eb9
+"{Ts1}I always peek in from outside, and I've never seen a customer."
+
+@ERI_GKD_B:133 ERI 317a8b84
+"{V0827}{W12}{Ts1}Heh,{W36} {B20}{Eh}somehow{W1} my{W1} heart{W1} is{W1} pounding{W1}.{W1}"
+
+@ERI_GKD_B:134 PLY 4428149d
+"Two salt butter corn ramen, please."
+
+@ERI_GKD_B:135 ETC e02d4dd6
+"{V0001}{W12}Right,{W15} thanks!"
+
+@ERI_GKD_B:136 ERI a49d89c6
+"{V0828}{W12}{B0}{F4}What{W6} is{W1} salt{W1} but{W1}ter{W1} corn{W4}?"
+
+@ERI_GKD_B:137 PLY 34f7c64b
+"It's a salty chicken-bone broth topped with butter and corn."
+
+@ERI_GKD_B:138 ERI 861b36fb
+"{V0829}{W15}{F3}Hm{W5}m{W12}m,{W45} that{W2} sounds{W1} de{W3}licious{W2}."
+
+@ERI_GKD_B:139 PLY d06f6f1c
+"{Ts1}Hahaha, normally it is..."
+
+@ERI_GKD_B:141 ETC b481f04c
+"{V0002}{W12}Here{W1} you{W2} go,{W30} sorry to keep you!"
+
+@ERI_GKD_B:144 PLY 23af89e2
+(Ugh, that distinctive cloudy smell... Same as ever.)
+
+@ERI_GKD_B:146 ERI b7bbc4b1
+"{V0830}{W8}Thank you for the meal."
+
+@ERI_GKD_B:147 PLY a9215478
+"Thanks for the food~."
+
+@ERI_GKD_B:148 PLY f6608a16
+"Slurp slurp slurp... Ugh!"
+
+@ERI_GKD_B:149 PLY 7350bf69
+(...This cloudy broth... How can it be this bad...)
+
+@ERI_GKD_B:150 PLY 6dfa47f4
+(The bloody taste of chicken bones, combined with the melted butter...)
+
+@ERI_GKD_B:151 PLY 27713561
+(This is hell... torture... There's no way I can finish it.)
+
+@ERI_GKD_B:153 ERI 4930e6be
+"{V0831}{W12}{F4}{Ec}Thank you for the meal."
+
+@ERI_GKD_B:154 PLY 21e4acd1
+"What?!"
+
+@ERI_GKD_B:155 PLY 13865360
+"Futami, you ate it all?"
+
+@ERI_GKD_B:156 ERI 5b5c19d3
+"{V0832}{W8}I{W8} eat{W39} fast.{W42} {Eh}Eating{W3} slowly is a waste{W15} of time,{W3} don't you think?"
+
+@ERI_GKD_B:157 PLY e8e91510
+"No, that's not what I mean. I'm amazed you could finish it all."
+
+@ERI_GKD_B:158 PLY 904023db
+"{Ts1}Wasn't it bad?"
+
+@ERI_GKD_B:159 ERI 3667a798
+"{V0833}{W8}Ah...{W27} that's right...{W27} {S}{Eh}We{W4} came to find that out."
+
+@ERI_GKD_B:160 ERI 8d63aa32
+"{V0834}{W12}{Ts1}{Fe8}{Eo}Let{W3}'s{W8} see...{W99}{Ec} It{W3} tastes{W2} ter{W1}rible{W4}.{W42} {Eh}{Fm4}It's{W15} so bad{W1} I{W1} can't{W3} eat it{Ec}."
+
+@ERI_GKD_B:161 PLY c23f4385
+"{Ts1}That's not something you say after finishing it."
+
+@ERI_GKD_B:162 ERI e36012d7
+"{V0835}{B40}{Ts1}{W5}{F6}{Ec}...{S}I{W4} have{W3} no{W4} reply{W1}.{W1}"
+
+@ERI_GKD_B:163 SYS aade22d4
+...And so Futami proved beyond doubt that she's taste-deaf.
+
+@ERI_GKD_B:166 ERI 3f8965ac
+"{V0843}{W8}{Nm},{W48} there's{W1} a{W1} place{W1} I'd{W1} like{W1} to stop by."
+
+@ERI_GKD_B:167 PLY b7c10605
+"A place you'd like to stop by? Where?"
+
+@ERI_GKD_B:168 ERI 01769d39
+"{V0844}{W10}That ramen shop.{W21} Shall we go once{W2} more?"
+
+@ERI_GKD_B:169 PLY 076f9789
+"What?! Why?"
+
+@ERI_GKD_B:171 ERI 837cf27c
+"{V0845}{W8}{Ec}{F4}Salt{W5} but{W2}ter{W2} corn{W2} was{W2} a{W2} fail{W3},{W3} but{W2} {W45}{Eh}{F3}the{W5} other{W2} ram{W1}en{W1} might{W2} be{W2} good, don't you think?"
+
+@ERI_GKD_B:172 PLY b575c0b1
+"I doubt it. If they had good ramen, it would be more popular."
+
+@ERI_GKD_B:173 ERI 00a67cf3
+"{V0846}{W12}That's{W8} true{W5}...{W42}{Eh}{Fe6m4} But.{W5}{W5}{W5}{W3}"
+
+@ERI_GKD_B:174 ERI eb8e718f
+"{V0847}{W12}{Eo}{Fe8m3}Now{W1} it's{W1} a{W1} matter{W1} of{W1} pride!{Ti0} {Ti2}{W45}{Fm4}I{W1} will{W1} eat{W1} every{W1} ramen{W1} there{W1} until{W1} I{W4} am{W1} done!{W1}{Ec}"
+
+@ERI_GKD_B:175 PLY 206c43f0
+"Noooo!"
+
+@ERI_GKD_B:177 PLY 28b8c12a
+(Futami doesn't mind eating that ramen, after all...)
+
+@ERI_GKD_B:179 ERI 790e2c7e
+"{V0848}{W12}Come,{W27} hurry{W3}.{W26} Let's go, {Nm}."
+
+@ERI_GKD_B:180 PLY b5bbc60f
+"Sigh..."
+
+@ERI_GKD_B:181 PLY 58ce65e5
+"I never thought I'd set foot in this ramen shop again..."
+
+@ERI_GKD_B:182 ERI 2f2f0d32
+"{V0849}{W12}Now,{W48} no{W2} dil{W2}ly{W2}ing{W1} or{W1} dal{W18}lying.{W2} In{W3} we go."
+
+@ERI_GKD_B:183 PLY 658603aa
+"I'm so reluctant..."
+
+@ERI_GKD_B:184 ETC 205e6c87
+"{V0003}{W12}Hey,{W30} welcome!"
+
+@ERI_GKD_B:185 ERI 06a262e2
+"{V0850}{W12}{B20}I{W12} will{W18} have{W3} the soy sauce ramen.{W42} {Fm3}{Eh}{Nm}, you?"
+
+@ERI_GKD_B:186 PLY 26b868b6
+"Do I have to eat too?"
+
+@ERI_GKD_B:187 ERI f5057a90
+"{V0851}{W8}{B0}{F4}{Ec}You{W3} came{W3} all{W2} this{W1} way,{Eh}{P8}{F8}{W8} so{W4} don't{W4} be{W4} a{W4} sore loser."
+
+@ERI_GKD_B:188 PLY 5abd9283
+"...Then miso ramen."
+
+@ERI_GKD_B:190 ERI d5a68419
+"{V0852}{W8}Miso ramen, then."
+
+@ERI_GKD_B:191 ERI 89939edf
+"{V0853}{W10}Uncle,{W27} one{W3} soy sauce ramen{W12} and one miso ramen,{W3} please."
+
+@ERI_GKD_B:192 ETC 6fa9ec7e
+"{V0004}{W12}Right,{W18} thanks.{W4}"
+
+@ERI_GKD_B:193 ETC de2b109b
+"{V0005}{W3}...You two{W6} came{W30} the other day{W8} too,{W5} didn't you.{W48} Did{W2} you{W8} like{W1} my ramen?"
+
+@ERI_GKD_B:194 PLY 382810ca
+"Hahaha..."
+
+@ERI_GKD_B:195 PLY 4d16a27d
+(Great, now a place like this remembers my face...)
+
+@ERI_GKD_B:196 SYS 40a034f7
+...And so I ate ramen with Futami.
+
+@ERI_GKD_B:197 SYS 31097aab
+The taste... needless to say, was awful. Give me a break, Futami.
+
+@ERI_GKD_B:199 ERI c34f06b9
+"{V0854}{W8}{Nm},{W36} shall we stop by that ramen shop{W12} on{W2} the way home?"
+
+@ERI_GKD_B:200 PLY f20dab7c
+"What?! Again?"
+
+@ERI_GKD_B:201 ERI 8dd781ad
+"{V0855}{W9}Didn't I say so?{Ti0} {Ti2}{W36}{Fm8}I'll keep going until I've{W5} {Fm3}{Ec}eaten{W1} everything{W1} there{W4}."
+
+@ERI_GKD_B:202 PLY 20ab0478
+"You were serious?!"
+
+@ERI_GKD_B:204 PLY 9102c3b9
+(Futami might actually like that ramen...)
+
+@ERI_GKD_B:205 ERI 52f0e667
+"{V0856}{W12}Now,{W16} let's go, {Nm}."
+
+@ERI_GKD_B:206 PLY 513c066f
+"Ugh, I'm here again..."
+
+@ERI_GKD_B:207 ERI c768deda
+"{V0857}{W8}Now,{W30} no{W2} dil{W2}ly{W2}ing{W2} or{W2} dal{W2}lying.{W15} In we go."
+
+@ERI_GKD_B:208 ERI 73eb6550
+"{V0858}{W8}{Ec}What{W3} ramen{W1} should{W1} I{W1} have{W4} today{W1}...{P9}{Eo}{W45} {Nm}{W3},{W1} you?{W1}"
+
+@ERI_GKD_B:209 PLY aeeea509
+"At this point, anything is fine..."
+
+@ERI_GKD_B:210 ETC 8f6fac91
+"{V0006}{W12}You{W3} two{W5} have{W2} been{W18} coming{W4} a{W3} lot{W3} lately.{W60} I'm{W3} glad{W6} to{W3} meet{W5} customers{W1} who{W1} appreciate{W1} my{W48} taste.{W2}{W2}"
+
+@ERI_GKD_B:212 PLY aaf442df
+(Sigh... I've become a regular before I knew it.)
+
+@ERI_GKD_B:213 SYS 9be279db
+...And so I ate awful ramen with Futami.
+
+@ERI_GKD_B:214 SYS a91ab39f
+Give me a break already, Futami...

@@ -1,0 +1,704 @@
+# MEG_KIS_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MEG_KIS_A:28 PLY 63ebe6f4
+"Kuryuu, you hate anything wimpy, don't you?"
+
+@MEG_KIS_A:31 MEG cc61f781
+"{V0117}{W12}Yes, I do."
+
+@MEG_KIS_A:33 PLY d9372ba1
+"Why?"
+
+@MEG_KIS_A:36 MEG 5fa4516a
+"{V0118}{W18}Why{W4} do{W4} you{W4} ask{W4}? {W45}{F1}Standing tall{W3} is just cooler, isn't it?"
+
+@MEG_KIS_A:37 PLY af809a7b
+"...Maybe so, but you didn't have to pick a boyish name like Megumu..."
+
+@MEG_KIS_A:41 MEG 95325431
+"{V0119}{W18}I{W8}... {W60}wanted to be{W6} {Eo}born a boy."
+
+@MEG_KIS_A:42 PLY 166ee1dd
+"What?! Really?!"
+
+@MEG_KIS_A:45 MEG f86394ea
+"{V0120}{W15}Yes. {W30}Being a girl{W8} is boring, isn't it? {W30}All limp and acting cute."
+
+@MEG_KIS_A:46 PLY 1bd57c25
+"R-really...?"
+
+@MEG_KIS_A:47 MEG b1f776aa
+"{V0121}{W12}Well, {W30}{Nm}, a wimp{W3} like you{W4} might not{W4} get it."
+
+@MEG_KIS_A:48 PLY 9505d5b9
+"Wimpy? Me?"
+
+@MEG_KIS_A:49 MEG d99e4e68
+"{V0122}{W12}Aren't{W3} you?"
+
+@MEG_KIS_A:50 PLY bc916fb6
+"...I don't think I'm bad enough to be told that to my face."
+
+@MEG_KIS_A:51 MEG 14f5680e
+"{V0123}Giving vague answers like that is exactly why I call you wimpy."
+
+@MEG_KIS_A:52 PLY a861de20
+"R-really..."
+
+@MEG_KIS_A:53 MEG 718e0c06
+"{V0124}{W15}Yes,{W2} it{W6} is!"
+
+@MEG_KIS_A:54 PLY fd48257b
+"...Hahaha."
+
+@MEG_KIS_A:55 PLY 2b76c6cd
+"...So the person you'd fall for would be a girl?"
+
+@MEG_KIS_A:57 MEG a4346342
+"{V0125}Wh-what?! {W45}{F8}Of course{W5} not!"
+
+@MEG_KIS_A:58 PLY 60661597
+"But you wanted to be born a boy, right?"
+
+@MEG_KIS_A:60 MEG b7050b8b
+"{V0126}{W15}I wanted to be, but I wasn't, so{W15} {Ec}there's nothing{W4} I can do about it..."
+
+@MEG_KIS_A:62 MEG 1e6e1331
+"{V0127}{W12}On the{W4} flip side,{W36} I can't stand{Ec} limp girls{W6} who{W2} irritate{W4} me just watching them."
+
+@MEG_KIS_A:63 PLY b968e3eb
+"Hahaha... I see..."
+
+@MEG_KIS_A:64 MEG 35d25f7f
+"{V0128}{W15}Honestly,{W36} {F1}you always grin like that{W4}... {W48}It's uncool{W3}.{Ec}"
+
+@MEG_KIS_A:65 PLY 319a30de
+"Sorry..."
+
+@MEG_KIS_A:66 MEG 71a2b66c
+"{V0129}{W12}Well, I'm off. {W27}See you."
+
+@MEG_KIS_A:67 PLY 634f9920
+"Ah..."
+
+@MEG_KIS_A:68 MEG 273fe8f2
+"{V0130}{W15}What{W4}?"
+
+@MEG_KIS_A:69 PLY f3e03884
+"...No, never mind. See you."
+
+@MEG_KIS_A:71 MEG b796bd16
+"{V0131}{W15}Haah...{W45} Starting to say something and then stopping...{Ec}"
+
+@MEG_KIS_A:74 MEG 640df6b9
+"{V0132}{W15}See{W5} you{W5} later!"
+
+@MEG_KIS_A:77 MEG/PLY 0d80b9d5
+"......"
+
+@MEG_KIS_A:78 PLY d760b61c
+(Uh-oh! I can't think of anything to talk about!)
+
+@MEG_KIS_A:79 PLY af1d9d30
+(...I've hardly ever talked to Kuryuu, after all...)
+
+@MEG_KIS_A:80 PLY 1072f986
+(W-what do I do...? Oh well, here goes...)
+
+@MEG_KIS_A:81 PLY 157076c9
+"Kuryuu, sorry. I just remembered something I have to do..."
+
+@MEG_KIS_A:82 MEG b744bd4a
+"{V0833}{W18}Is{W3} that so? {W30}Then, see you."
+
+@MEG_KIS_A:83 PLY e03a6130
+"Yeah, see you."
+
+@MEG_KIS_A:84 PLY 402e1cac
+(I got out of that somehow... right?)
+
+@MEG_KIS_A:85 PLY 16c0a1f2
+(...Has Kuryuu ever been in love, I wonder?)
+
+@MEG_KIS_A:86 PLY 18d5157a
+(She says she wanted to be born a boy, so I'd guess not, but...)
+
+@MEG_KIS_A:87 PLY dc1b34d8
+(But... I can't ask something like that.)
+
+@MEG_KIS_A:88 MEG 5f8464dc
+"{V0133}{W18}What's the matter with you,{W4} clamming up like that?"
+
+@MEG_KIS_A:89 PLY 9843572e
+"Ah... no, it's nothing..."
+
+@MEG_KIS_A:90 MEG 34162eae
+"{V0134}{W15}If you've got something to say, just say it. {W45}{Ec}You're not being very manly{W6}."
+
+@MEG_KIS_A:91 PLY 950db48b
+"O-okay! Then I'll ask."
+
+@MEG_KIS_A:92 MEG cbcc84e5
+"{V0135}{W15}Go ahead."
+
+@MEG_KIS_A:93 PLY bd2f933e
+"Kuryuu, have you ever been in love?"
+
+@MEG_KIS_A:94 MEG 9a6d92db
+"{V0136}{W15}What?!"
+
+@MEG_KIS_A:95 MEG dd137a28
+"{V0137}{W15}O-{W54}out of nowhere, what{W4} are you asking?!"
+
+@MEG_KIS_A:96 PLY 8ff20dd8
+"...See, you got angry. That's why I didn't say anything."
+
+@MEG_KIS_A:97 MEG b163aa2f
+"{V0138}{W15}W-{W60}well, {W45}anyone would be thrown{W4} if you asked that so suddenly."
+
+@MEG_KIS_A:98 PLY 876a2929
+"I see..."
+
+@MEG_KIS_A:100 MEG 905f690f
+"{V0139}{W15}......"
+
+@MEG_KIS_A:101 MEG 9d40c3f5
+"{V0140}{W15}Romance{W4}... {W4}{W69}I've{W1} never{W1} had{W1} any{W1}, okay. {W57}{Fe6}Though..."
+
+@MEG_KIS_A:102 PLY a44ec0bb
+"Though?"
+
+@MEG_KIS_A:103 MEG 5d503fc4
+"{V0141}{W15}I've{W4} wanted{W3} to try falling in love,{W30} once{W4} or twice, at least."
+
+@MEG_KIS_A:104 PLY 81aae57b
+"With a girl?"
+
+@MEG_KIS_A:105 MEG e235095c
+"{V0142}{W15}{Br0t90}With. A. Boy!"
+
+@MEG_KIS_A:106 PLY 04733997
+"Hahahaha."
+
+@MEG_KIS_A:107 MEG feab02cc
+"{V0143}{W15}Honestly{W3}..."
+
+@MEG_KIS_A:108 MEG f658fcd4
+"{V0144}{W18}But,{W30} the rules say{W4} that{W4} boy-girl{W4} dating{W4} has{W4} to{W4} be{W39} pure{W4} and{W4} wholesome,{W4} with{W4} nothing{W4} for{W15} {Fe1}outsiders{W4} to{W4} misread{W4},{W8} so{W4}..."
+
+@MEG_KIS_A:109 MEG 2ca4ac5c
+"{V0145}{W15}I figured there's no need to{W4} rush."
+
+@MEG_KIS_A:110 PLY b2e7bc99
+"What?! Is that so?"
+
+@MEG_KIS_A:111 MEG 9205edf9
+"{V0146}{W18}You{W2} didn't{W2} know{W2} that{W2}? {W66}Why not read{W3} the student{W4} handbook once in a while?"
+
+@MEG_KIS_A:112 PLY cb7e44e0
+(I don't think anyone reads that...)
+
+@MEG_KIS_A:113 PLY 46604217
+"Then... kissing is totally out of the question?"
+
+@MEG_KIS_A:114 MEG d4449131
+"{V0147}{W15}K-{W60}kiss{W5}?!{W54} {Fe8}Of course it is{W6}!"
+
+@MEG_KIS_A:115 MEG 8a545c74
+"{V0148}{W15}Kissing{W3} is improper{W6} boy-girl{W4} fraternizing{W4}! {W30}{Eo}If you{W4} get{W4} caught,{W4} you're{W4} suspended!{W12} Suspended{W4}!"
+
+@MEG_KIS_A:116 PLY b1b41286
+"What?! It's that serious an offense?!"
+
+@MEG_KIS_A:117 MEG ef6cecf0
+"{V0149}{W15}Honestly{W5}...{W60} if all you think about is{W6} such lewd things,{W30} you won't grow up to be{W4} anyone decent."
+
+@MEG_KIS_A:118 PLY 6d6c441a
+"You think? I think it's normal..."
+
+@MEG_KIS_A:120 MEG aad65b8e
+"{V0150}{W15}Wrong{W4}! {W45}A real{W3} man{W3} doesn't{W8} get distracted{W4} by that;{W21} he works{W2} on improving{W4} himself{W5} every day!"
+
+@MEG_KIS_A:121 PLY 3d0555a9
+"I've never seen a guy like that, though?"
+
+@MEG_KIS_A:122 MEG 0570a3c8
+"{V0151}{W15}Stop{W4} making excuses! {W51}{Ec}{Fm4}If I{W8} were a man{W8}...{W102} If I were{W8} a man,{W75} {Eo}I could become a much manlier{W6} man{W6} than you, {Nm}..."
+
+@MEG_KIS_A:123 MEG 48c2c501
+"{V0152}{W15}See you!"
+
+@MEG_KIS_A:124 PLY b89a8048
+"Ah... Kuryuu. She's gone..."
+
+@MEG_KIS_A:125 PLY 28e8605b
+"Kuryuu."
+
+@MEG_KIS_A:126 MEG 05ac1705
+"{V0153}{W15}What{W4}?"
+
+@MEG_KIS_A:127 PLY 10813217
+"What kind of man do you like, Kuryuu?"
+
+@MEG_KIS_A:128 MEG ce22eb83
+"{V0154}{W15}There{W5} you{W3} go{W1} asking{W1} me{W1} that{W1} kind{W1} of{W1} thing{W1} again{W1}. {W63}Why do you keep asking{W6} me that stuff?"
+
+@MEG_KIS_A:129 PLY 349bdf1b
+"Why... well..."
+
+@MEG_KIS_A:130 PLY b1729f0e
+"Ah... then it can be the ideal man you'd like to become."
+
+@MEG_KIS_A:132 MEG 27537ce5
+"{V0155}{W18}An ideal{W4} man{W8}... {W18}Hmm."
+
+@MEG_KIS_A:133 MEG 86e89d46
+"{V0156}{W15}Strong{W4}, {W15}sturdy, {W15}honest{W4} and{W4} fair{W4},{W4} {W21}{Ec}with a{W4} keen{W4} sense{W3} of justice{W4}, {W18}cheerful{W4}, {W18}smart{W6}, {W15}{Eo}{Fe2}good{W4} at every{W4} sport, {W15}and kind{W4}{W3}."
+
+@MEG_KIS_A:134 PLY cca049b7
+"That's... isn't that setting the bar a little high?"
+
+@MEG_KIS_A:135 MEG cd89ed86
+"{V0157}{W15}If I{W6} were a man{W6}, {W12}I'd surely become one."
+
+@MEG_KIS_A:136 PLY a6c31fe2
+"Hmm... I don't think that's possible..."
+
+@MEG_KIS_A:137 MEG ef0ec934
+"{V0158}{W15}You{W3} argue{W3} with{W3} every{W3} little thing. {W54}I'm{W6} a girl{W6}, so{W21} I can't{W6} become a man, can I?"
+
+@MEG_KIS_A:138 MEG cbbedbec
+"{V0159}{W15}You're a boy, {Nm},{W6} so{W18} if you make an effort{W3}, you can."
+
+@MEG_KIS_A:139 PLY fec6c656
+"R-really?"
+
+@MEG_KIS_A:140 MEG 3fc66f7e
+"{V0160}{W15}Yes,{W8} you{W5} can. {W48}I'm jealous."
+
+@MEG_KIS_A:141 PLY f6c812bd
+"Jealous... huh."
+
+@MEG_KIS_A:142 MEG f865decb
+"{V0161}{W15}Well, {W12}see you."
+
+@MEG_KIS_A:143 PLY fd92e004
+"Ah... Kuryuu's gone again."
+
+@MEG_KIS_A:144 MEG 1e529a76
+"{V0162}{W18}{Br60t90}Um, {W15}{Nm}..."
+
+@MEG_KIS_A:145 PLY 3150f24e
+"What?"
+
+@MEG_KIS_A:146 MEG bf8c1c48
+"{V0163}{W9}...{W3}Am{W8} I{W8}...{W60} cute?"
+
+@MEG_KIS_A:147 PLY 17994957
+"Huh? What's this all of a sudden..."
+
+@MEG_KIS_A:148 MEG ba913370
+"{V0164}{W15}Y-{W30}you're the one who said it!{W30} {Br80t30}Said it{W8} about me,{W40} {F6}that{W2} I{W2} was{W2} cute{W2}..."
+
+@MEG_KIS_A:149 PLY bab6f562
+"Ah... yeah, you're right. Of course I think so."
+
+@MEG_KIS_A:150 MEG d08b8ee4
+"{V0165}{W15}{Br40t90}Honestly{W2}, {W3}geez...{W60} you say such strange{W4} things{W15} that I've{W4} been off{W4} my game ever since."
+
+@MEG_KIS_A:151 PLY 1e7f8ab0
+"Kuryuu..."
+
+@MEG_KIS_A:152 PLY 2e26b24d
+"You should loosen up a bit, Kuryuu. If you did..."
+
+@MEG_KIS_A:153 MEG bcc007ac
+"{V0166}{W21}{Br0t30}If I did?"
+
+@MEG_KIS_A:154 PLY deeee007
+"We could get closer..."
+
+@MEG_KIS_A:155 MEG 884fa947
+"{Nm}..."
+
+@MEG_KIS_A:156 MEG 3dd0b19a
+"{V0168}{W18}...{W8}..."
+
+@MEG_KIS_A:157 MEG b57934b7
+"{V0169}{W3}...{W5}If I loosen up{W5} a bit,{W9}{W42} huh..."
+
+@MEG_KIS_A:158 MEG 773ae0fe
+"{V0170}{W15}{Nm}..."
+
+@MEG_KIS_A:159 MEG 433f5159
+"{V0171}{W15}Close your eyes..."
+
+@MEG_KIS_A:160 PLY 122df4f6
+"Huh?"
+
+@MEG_KIS_A:161 MEG 63d9b325
+"{V0172}{W15}Just do it, close your eyes!"
+
+@MEG_KIS_A:162 PLY 2aead67e
+"L-like this?"
+
+@MEG_KIS_A:164 PLY 745cc98f
+(Y-you can't mean...)
+
+@MEG_KIS_A:165 PLY daa625b7
+(She grabbed my collar. Kuryuu's pretty bold...)
+
+@MEG_KIS_A:188 MEG 7f95015c
+"{V0173}{W18}{Ts4}Yaaaah!"
+
+@MEG_KIS_A:196 SYS 78145586
+{Ti0}{Ti2}{Ts4}Wha{As0}{b0}{W3}a{As1}{b180}a{As1}{b30}am!!{As0}{b0}
+
+@MEG_KIS_A:200 PLY 6554a974
+"Ow, ow, ow. What was that for..."
+
+@MEG_KIS_A:201 MEG 4f510731
+"{V0174}{W15}Getting close{W4} to{W4} a wimp{W4} like you{W4}? {W30}I{W4} decline{W4}!"
+
+@MEG_KIS_A:202 MEG e4b98460
+"{V0175}{W15}Come back{W8} after you've gotten stronger{W4} than me!"
+
+@MEG_KIS_A:203 PLY 2bfeff3b
+"K-Kuryuu..."
+
+@MEG_KIS_A:204 PLY 7eef5633
+(To get close to Kuryuu, I have to become stronger than her...)
+
+@MEG_KIS_A:205 PLY 52568a5f
+(T-that's impossible...)
+
+@MEG_KIS_A:206 MEG 8fb22f50
+"{V0176}{W15}What{W4}?"
+
+@MEG_KIS_A:207 PLY c7e16596
+"It was cruel of you to throw me like that earlier."
+
+@MEG_KIS_A:208 MEG 0737f6d9
+"{V0177}{W15}I held back{W3} on purpose, so{W15} it shouldn't hurt{W3} that much."
+
+@MEG_KIS_A:209 PLY 8a82c100
+"That's true, but it was so sudden..."
+
+@MEG_KIS_A:210 PLY 890ff9a1
+"I thought I was giving you good advice..."
+
+@MEG_KIS_A:211 MEG bf0a5273
+"{V0178}{W15}...{W5}..."
+
+@MEG_KIS_A:212 MEG 316c367f
+"{V0179}{W21}I{W3} guess{W2} so...{W60} I'm sorry{W3}."
+
+@MEG_KIS_A:213 MEG a9e29b86
+"{V0180}{W15}But,{W18} it's your{W4} fault. {W60}You{W8} said you wanted to get close{W4} to me..."
+
+@MEG_KIS_A:214 PLY cde07721
+"You can't blame me for that..."
+
+@MEG_KIS_A:215 MEG eba92770
+"{V0181}{W12}...Do you want to be{W3} thrown again?{W72} {Fm1}{Ec}I told you, didn't I? {W30}Come back{W8} after you're stronger{W4} than me{W3}...{Eo}"
+
+@MEG_KIS_A:216 PLY 6baaf09a
+"Eep... You're right. ...Then I doubt I can, but I'll do it."
+
+@MEG_KIS_A:217 MEG ce7afc53
+"{V0182}{W15}Hehe."
+
+@MEG_KIS_A:218 MEG aad6663a
+"{V0183}{W15}See you, {Nm}."
+
+@MEG_KIS_A:219 MEG 0803ea7a
+"{V0184}{W15}What{W4}?"
+
+@MEG_KIS_A:220 PLY ab30ae9b
+"If you'd like... this Sunday, want to go to the pool together?"
+
+@MEG_KIS_A:221 MEG 1f26e5a1
+"{V0185}{W15}{Sp}O-{W45}out of nowhere, what{W4} are you saying?"
+
+@MEG_KIS_A:222 PLY 881e99c7
+"Well... um, the pool's closing for the year, so I thought maybe we could go together..."
+
+@MEG_KIS_A:224 MEG 42ceaee7
+"{V0186}{W12}Want{W2} to get tossed again?"
+
+@MEG_KIS_A:225 PLY b2ecf847
+"Ugh..."
+
+@MEG_KIS_A:226 PLY 971db1d4
+"...You can throw me."
+
+@MEG_KIS_A:227 MEG e99bf81c
+"{V0187}{W15}Huh?"
+
+@MEG_KIS_A:228 PLY 74353189
+"You can throw me, but let's go to the pool together. I want to go with you, Kuryuu."
+
+@MEG_KIS_A:229 MEG eaf97d00
+"{Br70t120}{Nm}..."
+
+@MEG_KIS_A:230 MEG 75f3bffc
+"{V0189}{W8}...W-{W75}well{W1}, all{W2} right{W1}, I{W1} will{W63} go with you."
+
+@MEG_KIS_A:231 PLY 62e077d0
+"Really? Then let's meet at 11 in the shopping street, okay?"
+
+@MEG_KIS_A:232 MEG 109f7150
+"{V0190}{W15}That's fine."
+
+@MEG_KIS_A:233 MEG 5e25dfce
+"{V0191}{W15}Honestly{W12}...{W51} Are you{W3} pushy{W3} or{W2} wimpy{W3}? {W39}I can't really tell what you are{W3}."
+
+@MEG_KIS_A:234 PLY 7aa469c1
+"Hahaha..."
+
+@MEG_KIS_A:236 MEG 1d4b6c47
+"{V0192}{W15}See{W3} you{W3}, {Nm}. {W10}The pool,{W24} I'm{W4} really{W1} looking{W1} forward{W1} to{W1} it{W1}, you{W1} know{W1}."
+
+@MEG_KIS_A:237 MEG 88a7bcda
+"{V0193}{W15}What{W4}?"
+
+@MEG_KIS_A:238 PLY 1381c059
+"Looking forward to the weekend, huh."
+
+@MEG_KIS_A:239 MEG 4cb3ac58
+"{V0194}{W15}Yes."
+
+@MEG_KIS_A:240 PLY bae8064f
+"What kind of swimsuit will you wear that day?"
+
+@MEG_KIS_A:241 MEG 4c83ab15
+"{V0195}{W18}{Br80t120}What?!"
+
+@MEG_KIS_A:242 MEG feec3245
+"{V0196}{W15}{Sp}W-{W48}what I wear doesn't matter, does it?{Br0t120}"
+
+@MEG_KIS_A:243 PLY 290bfb41
+"...R-right. I was a little curious, so I asked..."
+
+@MEG_KIS_A:244 MEG 94b1bf9e
+"{V0197}{W15}Honestly{W5}...{W57} Asking things like that is why{W2} I call you wimpy{W3}."
+
+@MEG_KIS_A:245 MEG c39a77da
+"{V0198}{W18}{Br70t150}...{W8}..."
+
+@MEG_KIS_A:246 MEG f9abffed
+"{V0199}{W8}...{W12}J-{W60}just{W3} a{W8} plain{W6} one-piece{W2}{W2}{W2}{W2}! {W60}Is that{W3} enough? {W30}There,{W3} I answered!"
+
+@MEG_KIS_A:247 MEG bb7169d7
+"{V0200}{W15}See you."
+
+@MEG_KIS_A:248 PLY 537cd13c
+"Ah... she's gone..."
+
+@MEG_KIS_A:249 PLY c527931c
+(I can't believe... she actually answered...)
+
+@MEG_KIS_A:250 MEG 5b842db8
+"{V0201}{W15}What{W4}?"
+
+@MEG_KIS_A:252 MEG 79572d58
+"{V0202}{W15}...{W4}..."
+
+@MEG_KIS_A:253 MEG fe5ee889
+"{V0203}{W15}You won't stand me up again, will you?"
+
+@MEG_KIS_A:254 PLY ea34ac07
+"Of course not! I'll definitely be there!"
+
+@MEG_KIS_A:255 MEG 675d1807
+"{V0204}{W15}Then, fine. {W15}Let's go."
+
+@MEG_KIS_A:256 PLY 6c320169
+"Really? Then let's meet at 11 in the shopping street."
+
+@MEG_KIS_A:257 MEG 00a9a93d
+"{V0205}{W15}Understood."
+
+@MEG_KIS_A:258 MEG d7f4be0a
+"{V0206}{W15}See you, {Nm}."
+
+@MEG_KIS_A:259 MEG 4ec3c3d0
+"{V0207}{W15}What{W4}?"
+
+@MEG_KIS_A:260 MEG 38dc99e7
+"{V0208}{W15}Ah..."
+
+@MEG_KIS_A:261 MEG 1e9a8f3b
+"{V0209}{W15}Yes, {W39}this{W4} weekend{W4} I{W4} can,{W3} this{W4} time{W4} for sure. {W21}Let's go."
+
+@MEG_KIS_A:262 MEG 5c8daa68
+"{V0210}{W15}Understood."
+
+@MEG_KIS_A:263 MEG d5ed1dd1
+"{V0211}{W15}See you, {Nm}."
+
+@MEG_KIS_A:264 MEG ac12cee6
+"{V0212}{W21}{Nm}..."
+
+@MEG_KIS_A:265 MEG 652c8c54
+"{V0213}{W15}I{W8}...{W72} {Nm},{W2} I have a favor to ask you."
+
+@MEG_KIS_A:266 PLY b3076d55
+"A favor from me? What kind?"
+
+@MEG_KIS_A:267 MEG 28785d16
+"{V0214}{W18}{Br70t90}Um{W5}...{W105} don't be surprised{W4}."
+
+@MEG_KIS_A:268 PLY 1ea1b704
+"Y-yeah."
+
+@MEG_KIS_A:269 MEG e757338b
+"{V0215}{W18}{Bt50}I want{W8} you to..."
+
+@MEG_KIS_A:270 MEG 3c150138
+"{V0216}{W15}I want{W8} you to...{W63} kiss me."
+
+@MEG_KIS_A:271 PLY 21e4acd1
+"What?!"
+
+@MEG_KIS_A:272 MEG d5c4a825
+"{V0217}{W15}It hurts{W4}... {W30}being{W4} stuck{W4} in-between{W4}..."
+
+@MEG_KIS_A:273 MEG 377a42f9
+"{V0218}{W15}Do I want to be more{W8} manly{W8} than a man...{W30} {Fe9}{Eo}or more{W8} girlish... {W30}I can't tell anymore..."
+
+@MEG_KIS_A:274 MEG 458f510f
+"{V0219}{W18}My chest{W4} feels{W66} so tight{W4}..."
+
+@MEG_KIS_A:275 MEG abb474ac
+"{V0220}{W15}I hated{W8} the whole girly thing,{W33} so limp and soft,{W3} and yet..."
+
+@MEG_KIS_A:277 MEG 7dce5216
+"{V0221}{W15}It's because you...{W66} because you{W5} were{W4} kind to me..."
+
+@MEG_KIS_A:278 MEG 4e59ee16
+"{V0222}{W15}I want to know,{W43} my own{W3} feelings."
+
+@MEG_KIS_A:279 MEG 58736a21
+"{V0223}{W15}If I kissed you, {Nm}...{W15} I might understand. {W60}{Eo}What{W4} I want{W21} to do..."
+
+@MEG_KIS_A:280 MEG 4bc3d1be
+"{V0224}{W15}No, {W30}if that's too much,{W15} it doesn't have to be a kiss. {W60}{Fe7}Let's see...{W66} {Fe2}even just holding{W4} hands..."
+
+@MEG_KIS_A:281 PLY 8c8def3b
+"Kuryuu, if you're okay with me, I'll... kiss you."
+
+@MEG_KIS_A:282 PLY 09c1a272
+"It's not too much to ask. I... about you, I..."
+
+@MEG_KIS_A:283 PLY 39f15c2a
+"Close your eyes, Kuryuu."
+
+@MEG_KIS_A:284 MEG 00842fee
+"{V0226}{W21}...{W6}..."
+
+@MEG_KIS_A:285 MEG 1f98bfda
+"{V0227}{W12}...{W5}Like this?"
+
+@MEG_KIS_A:286 PLY 17274ee6
+"Yeah..."
+
+@MEG_KIS_A:290 PLY 63425648
+(Kuryuu... Tough on the outside, but really a little shy and cute, Kuryuu...)
+
+@MEG_KIS_A:291 PLY ba4ed866
+(What I feel about her...)
+
+@MEG_KIS_A:292 PLY f841d517
+(...But I don't know. Is kissing her like this really what's best for her...)
+
+@MEG_KIS_A:293 MEG 1f383fdc
+"{V0228}{W15}W-{W27}wait!"
+
+@MEG_KIS_A:294 MEG 18725e8a
+"{V0229}{W15}{Br0t150}I'm sorry. {W45}...I just, {W8}can't after all..."
+
+@MEG_KIS_A:295 MEG 1a50bec9
+"{V0230}{W15}It's not because I dislike you, {Nm}. {W48}{Fe6}It's just..."
+
+@MEG_KIS_A:296 PLY 8ec210a8
+"I know, Kuryuu. I was agonizing too, about whether it was okay to kiss like this..."
+
+@MEG_KIS_A:297 MEG c6df2a66
+"{V0232}{W18}{Sp}Haah...{W96} I made{W4} a strange{W3} request,{W39} {Ec}and it only{W3} made my trouble{W3} deeper."
+
+@MEG_KIS_A:298 PLY 0e40e35c
+(...How can I ease Kuryuu's mind?)
+
+@MEG_KIS_A:299 PLY f185f744
+(How can I make her like me more... Oh, that's it!)
+
+@MEG_KIS_A:300 PLY 635192ce
+"Kuryuu, what are you doing for the school festival?"
+
+@MEG_KIS_A:301 MEG 4c777323
+"{V0233}{W15}I haven't decided. Why?"
+
+@MEG_KIS_A:302 PLY f0be2f68
+"I see. Then, could you come to the Gym alone in the evening?"
+
+@MEG_KIS_A:303 MEG 78f1a962
+"{V0234}{W15}To{W2} the{W1} Gym{W4}? {W60}Why?"
+
+@MEG_KIS_A:304 PLY 08f32c74
+"Never mind that. You'll see when you come."
+
+@MEG_KIS_A:305 MEG a79daf6d
+"{V0235}{W6}...{W3}Okay."
+
+@MEG_KIS_A:306 PLY e5f692a8
+"Okay, then I'll be waiting at the Gym at five."
+
+@MEG_KIS_A:307 MEG 621755f4
+"{V0236}{W15}Five o'clock. {W30}I will{W8} definitely be there."
+
+@MEG_KIS_A:308 MEG 38b4f70d
+"{V0237}{W18}See you, {Nm}."
+
+@MEG_KIS_A:309 PLY ca2ae96b
+"Yeah. See you."
+
+@MEG_KIS_A:310 MEG 10d07d90
+"{V0238}{W15}{Nm}..."
+
+@MEG_KIS_A:311 MEG f47a4d78
+"{V0239}{W15}On{W4} school{W4} festival{W4} day,{W51} what{W1} exactly{W3} are{W3} you planning?"
+
+@MEG_KIS_A:312 PLY fb2e9744
+"I can't say. It's a surprise for the day."
+
+@MEG_KIS_A:313 MEG e0e018a9
+"{V0240}{W21}I see..."
+
+@MEG_KIS_A:314 MEG b0512e62
+"{V0241}...{W5}Somehow{W4}, there's more I'm curious about,{W27} and my{W2} worries{W2} just got deeper..."
+
+@MEG_KIS_A:315 PLY f725dd6d
+"Huh..."
+
+@MEG_KIS_A:316 PLY 2dc3cc38
+"Should I tell you, then? Actually..."
+
+@MEG_KIS_A:317 MEG 2db23b96
+"{V0242}{W15}Ah..."
+
+@MEG_KIS_A:318 MEG e3e63665
+"{V0243}{W15}Never mind. {W60}...It's probably{W30} {Eo}something you're doing for{W6} me, right?"
+
+@MEG_KIS_A:319 PLY 97a57175
+"M-more or less."
+
+@MEG_KIS_A:320 MEG a7990302
+"{V0244}{W15}Then I'll{W1} wait. {W39}{F3}On{W2} the{W3} day,{W3} tell me."
+
+@MEG_KIS_A:321 MEG 6c899d0a
+"{V0245}{W15}See you, {Nm}. {W21}See you soon."
+
+@MEG_KIS_A:322 PLY 0177a518
+"That's so unfair TT"

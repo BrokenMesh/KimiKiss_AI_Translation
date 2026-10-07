@@ -1,0 +1,8 @@
+# GameParam -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@GameParam:166 - 5f659c82
+Aihara
+
+@GameParam:167 - 0a5d7e13
+Kouichi

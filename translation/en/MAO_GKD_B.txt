@@ -1,0 +1,98 @@
+# MAO_GKD_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_GKD_B:22 PLY 91a74a4a
+"Hey, Mao. Want to stop by the bookstore?"
+
+@MAO_GKD_B:24 MAO 2bf2134d
+"{V0963}The{W5} bookstore?{W5} {W40}Is there{W1} some book{W1} you want to buy?"
+
+@MAO_GKD_B:26 PLY cb3af3cc
+"No, not really, I just felt like it..."
+
+@MAO_GKD_B:28 MAO 6245265e
+"{V0964}Hmm,{W3} {W3}{W30}I don't mind.{W30} There's a magazine I want to read, too."
+
+@MAO_GKD_B:29 PLY 334c6e04
+"Then let's go!"
+
+@MAO_GKD_B:46 MAO e9dbacd0
+"{V0965}{W10}Well, I'll be{W10} in the{W20} fashion magazine section."
+
+@MAO_GKD_B:47 PLY 1f572bcf
+"Oh, Mao."
+
+@MAO_GKD_B:48 MAO 18c679f5
+"{V0966}Hm? {W10}What?"
+
+@MAO_GKD_B:49 PLY 6470d7d4
+"Before that, want to go to the study guide section?"
+
+@MAO_GKD_B:51 MAO ecf1a58d
+"{V0967}What?!"
+
+@MAO_GKD_B:54 MAO 21607def
+"{V0968}W-{W40}We're not going to a place like that,{W35} no{W10} way{W10}! {W60}{Ec}Why don't you go by yourself, {Nn}!"
+
+@MAO_GKD_B:55 PLY 34562997
+"No, that would defeat the point..."
+
+@MAO_GKD_B:56 MAO 2985f697
+"{V0969}{W10}You{W4} can't{W4} be planning{W50} some study allergy training?"
+
+@MAO_GKD_B:57 PLY cc4af171
+"Yeah."
+
+@MAO_GKD_B:58 MAO 933db2a2
+"{Nn}, {V0970}I{W20} know I'm{W25} the one who asked you, but{W40} {Fe9}could you{W50} {Eh}keep that to school only?"
+
+@MAO_GKD_B:59 MAO b5540bdf
+"{V0971}{W10}The walk{W2} home{W2} is{W2} for{W25} eating something{W2} yummy{W25} and{W2} chatting,{W25} {F2}a{W2} fun{W5} {W5}time{W10} to{W2} spend{W2} {F3}happily{W2}."
+
+@MAO_GKD_B:60 PLY a71d23e6
+"Right... I see."
+
+@MAO_GKD_B:62 MAO f01a554b
+"{V0972}{W15}So{W1} with{W1} that{W1} settled,{W20} {Ec}I'm{W1} going{W1} to go check the fashion magazines."
+
+@MAO_GKD_B:64 MAO 306fb5a8
+"{V0973}{W10}Want to{W2} meet{W2} back{W2} here{W2} in 15 minutes?{W15} {Fe3}"
+
+@MAO_GKD_B:65 PLY 545bd259
+"Sure."
+
+@MAO_GKD_B:68 MAO 5cffc33f
+"{V0974}See you later~!"
+
+@MAO_GKD_B:70 PLY 0e49c9ca
+(I feel like she slipped away from me neatly... Oh well.)
+
+@MAO_GKD_B:73 PLY 3cd67801
+"Mao, want to stop by the bookstore?"
+
+@MAO_GKD_B:74 MAO 395d7d99
+"{V0975}{W10}The{W1} bookstore?{W1} {W100}No way."
+
+@MAO_GKD_B:75 PLY d9372ba1
+"Why not?"
+
+@MAO_GKD_B:77 MAO 010708fc
+"{V0976}If I go with {Nn},{W5}{W25} I'll probably get dragged to the study guide section."
+
+@MAO_GKD_B:78 PLY 1e7ff33a
+"You caught me..."
+
+@MAO_GKD_B:79 MAO 816ddc56
+"{V0977}{W10}Geez{W5}...{W5}{W30} I keep telling you I don't want that once we're out of school~!"
+
+@MAO_GKD_B:80 PLY c2d63de2
+"Hahaha... Sorry."
+
+@MAO_GKD_B:81 MAO 9fac23fe
+"{V0978}{W10}Let's go straight home today, okay?{W30} Okay?"
+
+@MAO_GKD_B:82 PLY bad3355d
+"Yeah..."
+
+@MAO_GKD_B:84 SYS 06b0177e
+...And so, we went straight home...

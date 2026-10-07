@@ -1,0 +1,377 @@
+# MIT_DAT_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MIT_DAT_A:16 PLY 52214aa4
+(It's still twenty minutes before eleven. Maybe I'm a bit too early.)
+
+@MIT_DAT_A:32 MIT bb7eae56
+"{V1042}{W10}{Fe4}Ah, {Nm}."
+
+@MIT_DAT_A:33 PLY 873c273d
+"Oh, Shijou. You're really early."
+
+@MIT_DAT_A:37 MIT edc5ed34
+"{V1043}{W10}{F2}{Ec}Hehe,{W65}{F3}{Eo} so are you, {Nm}."
+
+@MIT_DAT_A:38 PLY d0d74e23
+"Thinking about going to the beach together, I somehow got ahead of myself."
+
+@MIT_DAT_A:39 MIT 3f814d54
+"{V1044}{W8}Fufu{W3}{W3}{W3},{W45} I{W6} am the same."
+
+@MIT_DAT_A:40 PLY aced7ffa
+(Shijou in her own clothes... She really does look like a young lady.)
+
+@MIT_DAT_A:41 PLY b3376227
+"Well then, shall we go?"
+
+@MIT_DAT_A:43 MIT 2e26018d
+"{V1045}{W10}Yes."
+
+@MIT_DAT_A:45 SYS 7d6a0ec3
+...And so, I headed to the beach with Shijou.
+
+@MIT_DAT_A:46 MIT c3243d12
+"{V1046}{W12}Oh{W4} my{W4}{W4}{W4}!{W45} The{W5} scent{W8} of the{W3} sea{W3} breeze.{W35}{Eo} It feels wonderful!"
+
+@MIT_DAT_A:47 PLY 263ef3e9
+"Yeah. I'm glad the weather turned out nice."
+
+@MIT_DAT_A:49 MIT 97392bbe
+"{V1047}{W10}Yes{W5}!{W5}{W35} With{W1} weather{W1} like{W1} this,{W5} it looks{W3} like we can swim{W5}, does it{W1} not{W2}?"
+
+@MIT_DAT_A:50 PLY 851b6dc4
+"Yeah."
+
+@MIT_DAT_A:51 PLY 6223cf54
+"Then, after we change, want to meet on the sand?"
+
+@MIT_DAT_A:52 MIT 1ea437ce
+"{V1048}{W8}Yes.{W3}"
+
+@MIT_DAT_A:54 PLY 3d1b35e3
+(......)
+
+@MIT_DAT_A:55 PLY 7a863437
+(Shijou isn't here yet... Girls take a while to change.)
+
+@MIT_DAT_A:57 MIT 55146f8b
+"{Nm},{V1049}{W3} I am sorry to have kept you waiting."
+
+@MIT_DAT_A:59 PLY 634f9920
+"Ah..."
+
+@MIT_DAT_A:61 MIT 1299d897
+"{V1050}{W10}Is something{W5} wrong?"
+
+@MIT_DAT_A:62.1 - d0d3c848
+{Ti0}- It really suits you／- You're beautiful...／- The sea is the best!
+
+@MIT_DAT_A:63 PLY a4a1db7b
+"It really suits you."
+
+@MIT_DAT_A:65 MIT 91f33187
+"{V1051}{W10}R-{W57}really?"
+
+@MIT_DAT_A:66 PLY 39e9e5f7
+"Yeah. The white swimsuit fits your image perfectly, Shijou."
+
+@MIT_DAT_A:67 MIT 8ae5bf53
+"{V1052}{W8}Ah,{W50} thank{W7} you...{W5} very{W2} much{W5}.{W2}"
+
+@MIT_DAT_A:68 PLY 09a9eaf0
+"You're beautiful..."
+
+@MIT_DAT_A:69 MIT 3c7c26c0
+"{V1053}{W10}Eh?"
+
+@MIT_DAT_A:70 PLY d096425e
+"Shijou... you're really beautiful..."
+
+@MIT_DAT_A:72 MIT 5d54f5c8
+"{V1054}{W8}N-{W45}not at all."
+
+@MIT_DAT_A:73 PLY 9451a58f
+"No, I'm not flattering you... you really are beautiful."
+
+@MIT_DAT_A:74 MIT 6ae872aa
+"{V1055}{W8}{Nm}...{W1}{W5}"
+
+@MIT_DAT_A:75 PLY f496215f
+"{Ts3}The sea is the best!"
+
+@MIT_DAT_A:76 MIT 83a5a565
+"{V1056}{W10}Eh?"
+
+@MIT_DAT_A:78 MIT 5ebb4134
+"{V1057}{W8}Hehe,{W70} you are right.{W40} I{W6} am having a very{W3} lovely{W3} time, too."
+
+@MIT_DAT_A:79 PLY 0d96705a
+"Come on, let's swim!"
+
+@MIT_DAT_A:80 MIT ac319712
+"{V1058}{W8}Yes!"
+
+@MIT_DAT_A:85 SYS f2d077be
+...And so, the two of us swam to our hearts' content.
+
+@MIT_DAT_A:86 PLY f1369718
+"We swam a lot. Shijou, shall we take a little break?"
+
+@MIT_DAT_A:87 MIT ecec67a7
+"{V1059}{W12}Yes.{W10}{W10}"
+
+@MIT_DAT_A:88 PLY 13ba6b2f
+"Phew, I'll sit right here."
+
+@MIT_DAT_A:89 MIT 5d1ac3f4
+"{V1060}{W8}Then,{W15} I{W6} will{W3} sit next{W6} to you..."
+
+@MIT_DAT_A:90 PLY 9f2a446e
+(...Maybe I got a little carried away)
+
+@MIT_DAT_A:91 PLY 42d2f426
+(Being at the sea with Shijou, just us two, is like a dream. She's a young lady, so even meeting her should be hard...)
+
+@MIT_DAT_A:92 PLY 9169ecef
+(How I feel about Shijou...)
+
+@MIT_DAT_A:97 PLY d4021e8c
+(Huh? Thinking made me sleepy...)
+
+@MIT_DAT_A:98 PLY 970e50f7
+(Not good! I came all the way to the sea, it would be a waste to fall asleep!)
+
+@MIT_DAT_A:99 PLY d3ee4e08
+(Ah, it's no use... I can't beat... the sleepiness......)
+
+@MIT_DAT_A:102 MIT 0b7d9728
+"{V1061}{W10}Ah, {Nm}? {Nm}?"
+
+@MIT_DAT_A:103 MIT 8c08a29e
+"{V1062}{W15}Have{W5} you{W2} fallen{W6} asleep{W1}{W1}{W1}{W1}{W1}?"
+
+@MIT_DAT_A:104 MIT 63df14bd
+"{V1063}...{W3}Hehe,{W35} All{W2} right{W2}!{W2}"
+
+@MIT_DAT_A:105 SYS 82bdff36
+......
+
+@MIT_DAT_A:106 PLY fa891c51
+(Mumble mumble... Shijou... I like... you......)
+
+@MIT_DAT_A:107 PLY 21dc86e2
+"Huh!"
+
+@MIT_DAT_A:108 PLY 74019bc4
+"Sorry! Was I asleep?"
+
+@MIT_DAT_A:109 MIT 65b6ee30
+"{V1064}{W10}Yes.{W35} Sound{W1}{W1} asleep{W2}."
+
+@MIT_DAT_A:110 PLY c70948dc
+"Ah!"
+
+@MIT_DAT_A:113 MIT 71b65635
+"{V1065}{W12}Thanks{W2} to{W2} you{W2}, it was{W7} really{W5} fun{W3}!"
+
+@MIT_DAT_A:114 PLY cdf79a18
+"Hahahahaha"
+
+@MIT_DAT_A:119 PLY 073a85f8
+"Your long-awaited mud play, huh."
+
+@MIT_DAT_A:120 MIT 83ba2f39
+"{V1066}{W10}Yes!"
+
+@MIT_DAT_A:121 MIT 7f4c1d3e
+"{V1067}{W10}Heave{W5} ho{W15},{W35} heave{W5} ho{W15}."
+
+@MIT_DAT_A:122 PLY de71cdd6
+(Ah...)
+
+@MIT_DAT_A:123 MIT 64538807
+"{V1068}{W10}Hup!{W58} Hup!"
+
+@MIT_DAT_A:127 PLY 884d61d6
+(N-{W15}not there...!)
+
+@MIT_DAT_A:128 PLY 6c9fa453
+(M-{W30}my belly button...)
+
+@MIT_DAT_A:129 SYS b08359ff
+...And so, I enjoyed the sea to the fullest with Shijou.
+
+@MIT_DAT_A:131 PLY 400d15b2
+"I'll walk you to near your house."
+
+@MIT_DAT_A:132 MIT 424f5c15
+"{V1069}{W8}Yes{W3}...{W3}"
+
+@MIT_DAT_A:133 MIT 176a3b06
+"{V1070}{W12}Today{W3} was{W38} a really{W3} fun{W3} day.{W40}{Fe2}{Ec} Thank you very much."
+
+@MIT_DAT_A:134 PLY e7c3e7ec
+"You're welcome."
+
+@MIT_DAT_A:135 PLY a8037752
+(Shijou... She asked me to be her conversation partner, but I like Shijou...)
+
+@MIT_DAT_A:136 PLY a029081f
+(What does Shijou think of me...?)
+
+@MIT_DAT_A:137 PLY 91d707bc
+(...I'll confess. If I don't tell her how I feel, nothing will ever start...)
+
+@MIT_DAT_A:138 PLY d4b0c6b0
+"Shijou."
+
+@MIT_DAT_A:139 MIT 0cc50818
+"{V1071}{W8}Yes?"
+
+@MIT_DAT_A:140 PLY 9f70e5a0
+"Shijou, I... you... you... I-I like you!"
+
+@MIT_DAT_A:141 MIT b30074bf
+"{V1072}{W10}Ah... {Nm}..."
+
+@MIT_DAT_A:142 PLY e29899b1
+"Shijou! I like you! I can't hold back these feelings!"
+
+@MIT_DAT_A:143 MIT d7239475
+"{V1073}{W8}{Nm}...{W50} I{W6}..."
+
+@MIT_DAT_A:144 PLY e9887e1b
+"Why are you making that face? Do you... dislike me?"
+
+@MIT_DAT_A:145 MIT e2ceb245
+"{V1074}{W8}Not at all!{W15}{Ec} Not at all..."
+
+@MIT_DAT_A:146 MIT bdfa7628
+"{V1075}{W10}There is no{W3} way{W3}...{W95} that I{W1} would{W1} dislike you!"
+
+@MIT_DAT_A:147 PLY a2d307e6
+"Then...{Ec} do you like me?"
+
+@MIT_DAT_A:148 MIT aea7e8b7
+"{V1076}{W8}...{W8}..."
+
+@MIT_DAT_A:149 MIT 2a9576e4
+"{V1077}{W8}I{W6}...{W130} what I feel for {Nm}..."
+
+@MIT_DAT_A:150 MIT 06f3e878
+"{V1078}{W5}What I feel for {Nm}..."
+
+@MIT_DAT_A:151 MIT d620c1bf
+"{V1079}{W10}I am sorry,{W90} I cannot say it..."
+
+@MIT_DAT_A:152 PLY 06b8cd5f
+"Why?!"
+
+@MIT_DAT_A:153 MIT a3827e33
+"{V1080}{W10}That is..."
+
+@MIT_DAT_A:154 MIT c83dc5b2
+"{V1081}{W13}That is..."
+
+@MIT_DAT_A:155 MIT 0eda7df3
+"{V1082}{W10}I{W6} have..."
+
+@MIT_DAT_A:157 MIT df51c26e
+"{V1083}{W10}It is because{W5} I{W5} have{W5} a fiance{W2}...{W95}{Ec} That{W1} is{W1} why{W1}."
+
+@MIT_DAT_A:158 PLY 21e4acd1
+"Eh?!"
+
+@MIT_DAT_A:159 MIT 50614485
+"{V1084}{W10}Until{W3} now...{W100} I am sorry I could not tell you.{W90}{F7} I{W3} have,{W100} since the day{W3} I was born,{W50} a fiance{W3}{W3}{W3} chosen for me."
+
+@MIT_DAT_A:160 PLY 29eb21b1
+"That's..."
+
+@MIT_DAT_A:162 MIT 75aba23a
+"{V1085}{W10}The{W1} Shijou{W5} family's{W1} daughter{W5}{W6},{W70} from birth{W3},{W38} receives an education{W5} fit to be shown anywhere{W5} without{W3} shame..."
+
+@MIT_DAT_A:163 MIT 109fd89b
+"{V1086}{W8}She{W2} is{W5} to{W6} marry{W3} the{W5} heir{W8} of{W3} a{W5} more{W3} distinguished{W35} family,{W3}{W3} as{W15} is{W3} the custom."
+
+@MIT_DAT_A:164 PLY 75718756
+"That's... it's not like this is an old-fashioned political marriage..."
+
+@MIT_DAT_A:165 PLY 02fac7b3
+"There should be freedom of marriage. You don't have to obey your parents..."
+
+@MIT_DAT_A:166 MIT 676ae0f6
+"{V1087}{W10}The person Father{W3}{W3} has{W5} chosen{W3} could{W3} not{W5} be{W3} wrong."
+
+@MIT_DAT_A:167 PLY e9b7f794
+"...O-oh. I see."
+
+@MIT_DAT_A:168 PLY 8759bdf1
+"Have you... ever met your fiance?"
+
+@MIT_DAT_A:169 MIT 4681a456
+"{V1088}{W10}No."
+
+@MIT_DAT_A:170 PLY 977353ec
+"That can't be..."
+
+@MIT_DAT_A:171 PLY 1d6c93ee
+"Are you okay with that, Shijou?"
+
+@MIT_DAT_A:172 MIT e4be8a56
+"{V1089}{W10}Yes.{W100} I{W6} trust{W20} that my fiance{W3} is{W38} a wonderful{W3} person{W3},{W82}{Ec} one{W6} who{W5} will cherish{W3} me."
+
+@MIT_DAT_A:173 PLY 17274ee6
+"I see..."
+
+@MIT_DAT_A:175 MIT 50f2127f
+"{V1090}{W10}It{W6} was{W5} my{W1} fault{W1}.{W1}{W1}{W1}{W1}{W63} It was because I wanted{W6} to try{W3} talking{W8} with a man{W6}...{W60} and so I imposed on {Nm}{W15}...{W3}"
+
+@MIT_DAT_A:176 PLY 86308d86
+"That's not true! I'm really happy I got to know you!"
+
+@MIT_DAT_A:177 PLY f0d5d215
+"I'm really... happy... that I fell for you..."
+
+@MIT_DAT_A:178 MIT d5f8e70c
+"{Nm},{V1091}{W25} I{W6} also..."
+
+@MIT_DAT_A:179 MIT e65dd41e
+"{V1092}{W10}I{W6} also..."
+
+@MIT_DAT_A:182 MIT 2c344b2a
+"{V1093}{W10}I am very{W5} happy{W3}."
+
+@MIT_DAT_A:183 MIT 87e88e40
+"{V1094}{W8}Today{W3},{W45} please allow{W3} me to part{W3} from you here.{W40} Thank you for seeing{W3} me home.{W25}{Ec} Thank you very much."
+
+@MIT_DAT_A:184 PLY bad3355d
+"Yeah..."
+
+@MIT_DAT_A:185 MIT f3cf976d
+"{V1095}{W10}...{W15}...{W10}"
+
+@MIT_DAT_A:186 MIT ca475a79
+"{Nm}...{V1096}{W5} Even{W5} if I{W6} have{W10} a fiance{W3}{W3}{W3},{W90} as before...{W75} will you{W6} still{W3} be my{W3} conversation partner{W8}?"
+
+@MIT_DAT_A:187 PLY 90bff4a9
+"Of course."
+
+@MIT_DAT_A:188 MIT 3665faa8
+"{V1097}{W5}...I am happy."
+
+@MIT_DAT_A:189 PLY 798c282c
+"See you tomorrow at school."
+
+@MIT_DAT_A:190 MIT 004f7d29
+"{V1098}{W10}Yes{W3}.{W3}"
+
+@MIT_DAT_A:192 SYS d74e7e64
+...And so, I spent the day with Shijou.
+
+@MIT_DAT_A:193 SYS 8d4ed122
+Shijou... had a fiance... What should I do...
+
+@MIT_DAT_A:194 SYS c1300c2a
+It's just the one, you see.

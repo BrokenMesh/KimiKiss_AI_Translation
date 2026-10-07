@@ -1,0 +1,1202 @@
+# ERI_SEV_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_SEV_B:30 PLY 5c2f7c33
+(Ah, isn't that...)
+
+@ERI_SEV_B:33 PLY d671cf48
+"Futami~!"
+
+@ERI_SEV_B:34 ERI 6ed786a4
+"{V0170}{W5}Hm?"
+
+@ERI_SEV_B:51 ERI 402c0cd6
+"{V0171}{W5}Oh, {Nm}."
+
+@ERI_SEV_B:52 PLY 832fcb7f
+"What are you doing?"
+
+@ERI_SEV_B:54 ERI 6965c805
+"{V0172}{W5}Nothing{W4} {W4}really..."
+
+@ERI_SEV_B:56 ERI 72a4643e
+"{V0173}{W5}Do you{W4} need something?"
+
+@ERI_SEV_B:57 PLY 1578981d
+"No... it's not like I need anything..."
+
+@ERI_SEV_B:60 ERI 4fcd2d3c
+"{V0174}{W5}I see.{W45} If you do not{W4} need anything, I am leaving.{W45} {Ec}Goodbye."
+
+@ERI_SEV_B:61 PLY 634f9920
+"Ah..."
+
+@ERI_SEV_B:64 AKI f464f255
+"{V0125}{W5}What,{W4} {Nm}?{W34} You{W1} know Futami Eriko?"
+
+@ERI_SEV_B:68 PLY b576875d
+"Oh, Hiiragi. You saw that?"
+
+@ERI_SEV_B:69 AKI 1c0f55dd
+"{V0126}{W5}I was just{W2} passing by.{W60} {F4}Was that a problem?"
+
+@ERI_SEV_B:70 PLY 40c0b08c
+"No, it's nothing I mind being seen."
+
+@ERI_SEV_B:71 AKI 06822b9c
+"{V0127}{W5}I see."
+
+@ERI_SEV_B:72 AKI bda061a6
+"{V0128}{W10}It's{W3} been a while since I saw Futami{W3} Eriko{W27} talking{W3} to{W4} anyone."
+
+@ERI_SEV_B:73 PLY d941b9a6
+"She doesn't talk to anyone?"
+
+@ERI_SEV_B:74 AKI 0a8d727a
+"{V0129}{W5}She{W2} apparently{W3} did{W3} in Year 1,{W15} {W3}though.{W55} {Ec}{W5}{F9}{Eo}Now{W3} she just shuts herself up in the Science Lab{W1}, I hear."
+
+@ERI_SEV_B:75 PLY d9372ba1
+"Why?"
+
+@ERI_SEV_B:77 AKI 90247261
+"{V0130}{W10}Who{W2} knows.{W60} {Eo}Apparently{W15} she's{W2} a{W2} strange{W2} girl{W2},{W2} {W2}so{W2}.{W2}.{W2}.{W1}{W1}{W3}{W2}"
+
+@ERI_SEV_B:78 PLY eed5d0fd
+(A strange girl, huh. Well, that's true...)
+
+@ERI_SEV_B:82 - 64c62dc2
+girl
+
+@ERI_SEV_B:85 ERI 078502bb
+"{V5016}{W15}Ma{W21}na{W3}bi{W7}ya{W5}{W7}ni{W5}{W5}{W87} Hi{W8}ka{W55}ri a{W6}fu{W7}re{W5}te{W5}"
+
+@ERI_SEV_B:86 PLY 14e96215
+(The school song, from out of nowhere... Who is that?)
+
+@ERI_SEV_B:87 ERI 624d98a0
+"{V5017}{W8}Ha{W15}ta{W10}ke{W5}~ {W10}Wa{W10}ko{W10}u{W5}do{W30}~ Ki{W24}bi{W24}na{W8}ko{W5}u{W10}~"
+
+@ERI_SEV_B:88 PLY 345bcf9f
+(It's coming from the Science Prep Room... Not that it matters, but she's a bit tone-deaf...)
+
+@ERI_SEV_B:91 PLY d73b1472
+"Ah, Futami!"
+
+@ERI_SEV_B:93 ERI f9fac922
+"{V0175}{W5}Oh, {Nm}..."
+
+@ERI_SEV_B:94 PLY 3cb86fe2
+"Was that you singing just now, Futami?"
+
+@ERI_SEV_B:95 ERI b0d2de8d
+"{V0176}{W15}Hm?{W50} Was{W4} I{W50} singing?"
+
+@ERI_SEV_B:96 PLY 6e4e3aa5
+"Yeah. It was leaking into the hallway."
+
+@ERI_SEV_B:97 ERI 0ae0f898
+"{V0177}{W8}R-{W57}really..."
+
+@ERI_SEV_B:98 ERI 61056477
+"{V0178}{W8}I{W1} was{W4} tidying{W4} the{W1} lab{W1} equipment,{W27} {F6}{Ec}{B60}and{W1} it{W4} was{W1} somehow{W4} fun,{W51} {Eo}so{W1} maybe{W1} I{W1} sang{W5} without{W2} thinking..."
+
+@ERI_SEV_B:99 PLY 3842c762
+"Humming the school song, of all things. You have more school spirit than I thought."
+
+@ERI_SEV_B:102 ERI 76dc14b5
+"{V0179}{W10}I just{W3} do not know{W4} many{W3} songs..."
+
+@ERI_SEV_B:103 PLY 496a4c96
+"You don't? Why not?"
+
+@ERI_SEV_B:105 ERI 12b2223c
+"{V0180}{W5}I have no{W3} interest.{W15} Besides,{W9} {W45}I am{W3} apparently tone-deaf."
+
+@ERI_SEV_B:106.1 - 39f6b7f1
+{Ti0}- You really are tone-deaf／- That's not true
+
+@ERI_SEV_B:107 PLY 75e34435
+"You really are tone-deaf."
+
+@ERI_SEV_B:108 ERI 262d5d3a
+"{V0181}{W5}You say that{W3} bluntly."
+
+@ERI_SEV_B:109 PLY 6c1b2754
+"S-sorry."
+
+@ERI_SEV_B:110 ERI 3ad151b5
+"{V0182}{W8}It's fine,{W30} it is{W3} true{W4}."
+
+@ERI_SEV_B:112 PLY 5d1f567c
+"That's not true."
+
+@ERI_SEV_B:113 ERI 35a88f4d
+"{V0183}{W8}Then you mean I'm good?"
+
+@ERI_SEV_B:114 PLY 410d903d
+"Uh... well... I wouldn't say that..."
+
+@ERI_SEV_B:115 ERI 36d57ecd
+"{V0184}{W15}It's{W1} fine{W1}.{W1} {W21}You can{W3} say{W1} plainly that I'm tone-deaf.{W30} {F1}{Eo}It{W2} is{W2} true."
+
+@ERI_SEV_B:116 PLY 1025cdae
+"Still, it's a surprise. Someone with your brilliant mind, Futami, is actually tone-deaf."
+
+@ERI_SEV_B:118 ERI 4710e781
+"{V0185}{W10}Brains{W9} and{W2} a sense{W5} of pitch{W5} are{W3} separate{W5}."
+
+@ERI_SEV_B:119 PLY d4313b47
+"Hahaha, I guess so."
+
+@ERI_SEV_B:120 PLY 8e32a4bc
+"Hmm, so Futami is tone-deaf... I learned something interesting."
+
+@ERI_SEV_B:121 ERI 6472be6e
+"{V0186}{W10}{Nm}..."
+
+@ERI_SEV_B:122 PLY bd09fe50
+"Hm?"
+
+@ERI_SEV_B:124 ERI e9c3f50e
+"{V0187}{W8}You will not{W8} tell{W4} anyone{W51} that{W3} I'm tone-deaf, will you?"
+
+@ERI_SEV_B:125 PLY 746cf640
+(Whoa, she's glaring at me with scary eyes.)
+
+@ERI_SEV_B:126 PLY ebc9ac1e
+"I-I won't. It'll be our secret."
+
+@ERI_SEV_B:127 ERI b974bf23
+"{V0188}{W5}Thank you."
+
+@ERI_SEV_B:128 PLY 61353629
+"W-well, I'll get going."
+
+@ERI_SEV_B:129 ERI 398f0bdc
+"{V0189}{W5}I see."
+
+@ERI_SEV_B:130 ERI cf4210cb
+"{V0190}{W8}See you, {Nm}."
+
+@ERI_SEV_B:131 ERI 609082f4
+"{V0191}{W5}Hm?"
+
+@ERI_SEV_B:132 PLY 5d53c2cd
+"Just now, you said see you..."
+
+@ERI_SEV_B:133 ERI cf202a1d
+"{V0192}{W5}Do you dislike{W8} seeing me?"
+
+@ERI_SEV_B:134 PLY 20abf78b
+"Ah... no, it's not that. Until now you always said goodbye, like we'd never meet again..."
+
+@ERI_SEV_B:135 ERI 76420199
+"{V0193}{W5}Two people{W4} who share a secret{W3} not meeting again{W23} would be strange, would it not?"
+
+@ERI_SEV_B:136 PLY c236d56f
+"I see, you're right."
+
+@ERI_SEV_B:137 PLY 93a5d21e
+"Whatever the reason, I'm glad we'll meet again."
+
+@ERI_SEV_B:138 ERI 09f13a73
+"{V0194}{W8}I{W8} am{W42} glad{W3} to keep{W4} watch on you, {Nm}."
+
+@ERI_SEV_B:139 ERI be2c69aa
+"{V0195}{W5}See you, {Nm}."
+
+@ERI_SEV_B:140 PLY dac1331f
+"See you."
+
+@ERI_SEV_B:141 PLY 778d7103
+(Watch on me...? Oh well.)
+
+@ERI_SEV_B:143 PLY 80171d45
+(I wonder if Futami is in the Science Lab?)
+
+@ERI_SEV_B:144 PLY b028012e
+"Futami... huh? She's not here..."
+
+@ERI_SEV_B:145 ERI f95f6567
+"{V0196}{Nm}?{W57} I am in{W4} the Science Prep Room{W4}."
+
+@ERI_SEV_B:146 PLY b54117ba
+"Oh, in the back."
+
+@ERI_SEV_B:147 PLY 1f10b260
+"Futami... Ah!"
+
+@ERI_SEV_B:159 ERI f9bad310
+"{V0197}{W15}Munch{W5} munch{W8} {W5}munch{W15}...{W120} I got{W3} a little{W3} hungry..."
+
+@ERI_SEV_B:160 PLY df6b2731
+"I-I see..."
+
+@ERI_SEV_B:161 PLY 63c41db2
+"Why are you eating snacks with chopsticks?"
+
+@ERI_SEV_B:162 ERI b46e0950
+"{V0198}{W8}Because{W5} your hands get dirty.{W45} It is common{W2} sense{W2}."
+
+@ERI_SEV_B:163 PLY 5a42b5b0
+"R-right."
+
+@ERI_SEV_B:164 PLY 06163220
+"Isn't eating snacks at school against the school rules?"
+
+@ERI_SEV_B:165 ERI 6860d92b
+"{V0199}{W8}You worry about trivial things..."
+
+@ERI_SEV_B:166 PLY 1da616d7
+"Trivial...? I still can't help worrying."
+
+@ERI_SEV_B:167 ERI 4318ed18
+"{V0200}{W5}I see.{W47} If it bothers you that much..."
+
+@ERI_SEV_B:168 ERI 70633d46
+"{V0201}{W8}I will make it stop bothering you."
+
+@ERI_SEV_B:169 PLY 122df4f6
+"Huh?"
+
+@ERI_SEV_B:170 ERI dc633503
+"{V0202}{W8}{Nm},{W3} you should eat some too.{W45} Once you are{W2} an{W2} accomplice, it will not bother you."
+
+@ERI_SEV_B:171 PLY 382810ca
+"Hahahaha..."
+
+@ERI_SEV_B:172 ERI 1de25aa9
+"{V0203}{W3}You will{W2} eat{W2} with me, right?"
+
+@ERI_SEV_B:173 PLY 1527525c
+(Oh no... looks like refusing is pointless...)
+
+@ERI_SEV_B:174 PLY be6de3d1
+"S-sure. I'll have a little."
+
+@ERI_SEV_B:175 ERI 20b92829
+"{V0204}{W8}Fu{W3}fu,{W45} you are{W4} sensible."
+
+@ERI_SEV_B:176 ERI d5174624
+"{V0205}{W8}What{W4} will{W1} you{W1} put{W1} on{W1} it?{W45} Sauce?{W1} {W30}Ketchup{W1}{W}{!}?{W30} Soy{W4} sauce?{W44} {Fe8}There{W1} is{W1} mustard{W1} too."
+
+@ERI_SEV_B:177 PLY ba35ad03
+"Huh? No, nothing is better..."
+
+@ERI_SEV_B:178 ERI 0f1643d5
+"{V0206}{W10}You{W4} are{W4} strange,{W33} putting{W3} nothing on it."
+
+@ERI_SEV_B:179 PLY d10cc64f
+"No, normally you don't. It already has flavor."
+
+@ERI_SEV_B:180 ERI 1566936a
+"{V0207}{W8}You add{W4} seasoning{W4} on top{W1},{W2} {W3}and{W27} make it{W3} your own taste{W3}."
+
+@ERI_SEV_B:181 PLY 1bd57c25
+"I-is that so...?"
+
+@ERI_SEV_B:182 ERI d52f68da
+"{V0208}{W8}Then,{W1}{W1} {W45}I{W3} will{W2} just{W5} put some on{W1}."
+
+@ERI_SEV_B:183 PLY 7d68aa58
+"O-okay..."
+
+@ERI_SEV_B:184 ERI c29fa1c2
+"{V0209}{W12}Plenty{W2} of ketchup{W3},{W8} {W3}{W3}{W49}a little{W1} {W1}mustard{W1}{W1}{W1} {W5}{W5}...{W33} For a hidden flavor,{W4}{W1}{W4} {W30}sauce{W15} and soy sauce{W4}{W8}{W3}{W3}..."
+
+@ERI_SEV_B:185 PLY 99459129
+(Ah... that much...)
+
+@ERI_SEV_B:189 ERI d491d1d0
+"{V0210}{W15}Mm{W5}ph{W15} mm{W5}ph...{W135} Yes,{W30} delicious."
+
+@ERI_SEV_B:190 ERI c208d286
+"{V0211}{W8}If you do not{W3} eat{W1} quickly{W1},{W27} I will{W2} eat it all."
+
+@ERI_SEV_B:191 PLY 2ca64493
+"Futami..."
+
+@ERI_SEV_B:192 ERI cf4e3363
+"{V0212}{W5}Mm?"
+
+@ERI_SEV_B:193 PLY c7e9f43e
+"Futami, could you be... taste-deaf?"
+
+@ERI_SEV_B:201 ERI 9363e73b
+"{V0213}{W8}C-{W5}cough{W4}! {W15}Cough{W8}!"
+
+@ERI_SEV_B:202 PLY dca78797
+"W-whoa! Futami!"
+
+@ERI_SEV_B:204 ERI aca671b6
+"{V0214}{W15}Ngh{W15} ngh{W15} {W15}...{W15}...{W19}I-{W41}it{W15} hurts...{W90} It's{W55} stuck{W3} in{W3} my{W12} throat......{W4}"
+
+@ERI_SEV_B:205 PLY b4131692
+"A-are you okay?"
+
+@ERI_SEV_B:206 ERI ff77a064
+"{V0215}{W8}W-{W45}water{W4}...{W76} over{W1} there{W1}......"
+
+@ERI_SEV_B:207 PLY 9a6b329b
+"Over there? You mean this beaker?"
+
+@ERI_SEV_B:208 ERI 23177770
+"{V0216}{W8}Y-{W27}yes..."
+
+@ERI_SEV_B:209 PLY e6c6c54e
+"Here!"
+
+@ERI_SEV_B:210 ERI 6a160bb1
+"{V0217}{W8}Gulp{W5} {W30}gulp{W5} {W30}gulp{W5} {W15}...{W15}..."
+
+@ERI_SEV_B:211 ERI 7d12d7c3
+"{V0218}{W10}Phew...{W114} You saved{W4} me.{W1}{W50} Thank{W2} you."
+
+@ERI_SEV_B:212 PLY db3beabd
+"...Futami, how can you drink water from a beaker?"
+
+@ERI_SEV_B:213 ERI 4f49ddc3
+"{V0219}{W8}Why?{W45} It was{W15} washed{W3} clean{W3} with{W3} neutral{W3} detergent."
+
+@ERI_SEV_B:214 PLY 4e1ab293
+"I'm sure, but it looks bad, or rather, it just feels bad..."
+
+@ERI_SEV_B:215 ERI fba396c4
+"{V0220}{W8}The{W4} water{W6} inside{W1} is{W4} the{W3} same{W3}."
+
+@ERI_SEV_B:216 PLY 8f41cf9c
+(...No good, we're getting nowhere.)
+
+@ERI_SEV_B:217 PLY 8a2172a5
+"Anyway, so you really are taste-deaf, Futami."
+
+@ERI_SEV_B:218 ERI 7cf623c1
+"{V0221}{W8}Do{W1} not{W1} jump to conclusions."
+
+@ERI_SEV_B:219 PLY 84adf092
+"Isn't that much sauce and ketchup way too strong?"
+
+@ERI_SEV_B:220 ERI f561c8b6
+"{V0222}{W8}It is{W2} normal{W5}."
+
+@ERI_SEV_B:221 PLY 6cbba4ef
+"Then you're just used to strong flavors."
+
+@ERI_SEV_B:222 ERI 30737c0a
+"{V0223}{W5}...{W3}Perhaps.{W25} {Ec}{W5}{F7}{Eo}I never thought about it..."
+
+@ERI_SEV_B:223 PLY 0cbac837
+"Has anyone ever told you that you're taste-deaf?"
+
+@ERI_SEV_B:224 ERI 67cc9043
+"{V0224}{W8}I{W8} always{W5} eat{W2} alone..."
+
+@ERI_SEV_B:225 PLY 876a2929
+"I see..."
+
+@ERI_SEV_B:226 PLY bebaccd8
+"...Futami, have you ever thought something was truly delicious?"
+
+@ERI_SEV_B:227 ERI 512df774
+"{V0225}{W3}...No."
+
+@ERI_SEV_B:228 PLY 6173abeb
+"Then have you ever thought something was awful?"
+
+@ERI_SEV_B:229 ERI d8164a28
+"{V0226}{W3}...No."
+
+@ERI_SEV_B:230 PLY 74f7e0d1
+"See? Taste-deaf people think everything is pretty good, whatever they eat."
+
+@ERI_SEV_B:231 ERI 4909be2e
+"{V0227}{W5}You say{W4} unpleasant things."
+
+@ERI_SEV_B:232 PLY f025ff98
+"I want to find out if you're taste-deaf, Futami... I know!"
+
+@ERI_SEV_B:233 PLY c0388df7
+"Futami, there's an awful ramen shop by the station. Want to go with me sometime?"
+
+@ERI_SEV_B:234 ERI b7f54cb1
+"{V0228}{W8}You{W8} intend{W3} to{W2} test{W2} whether I am taste-deaf?{W7}{W4}{W4}"
+
+@ERI_SEV_B:235 PLY e161f045
+"Right! If you eat that ramen and properly find it awful, I'll admit you're not taste-deaf."
+
+@ERI_SEV_B:236 ERI f4d3c694
+"{V0229}{W8}Fine.{W65} {Ec}I{W8} will prove{W4} that{W3} I have{W5} a correct sense of taste{W22}.{W3}{W3}"
+
+@ERI_SEV_B:237 PLY 660edf41
+"{Ts1}I think it'll prove the opposite...{Ts2}"
+
+@ERI_SEV_B:238 ERI 8295f579
+"{V0230}{W10}I{W6} can{W3} hear{W1} you,{W5} {Nm}."
+
+@ERI_SEV_B:239 PLY 8f25996b
+"W-well, see you, Futami."
+
+@ERI_SEV_B:240 PLY e1f39073
+"For your health, you should go easy on the seasoning."
+
+@ERI_SEV_B:241 ERI feee3d03
+"{W30}{V0231}{W3}...{W2}{Ec}{F4}I{W5} will think about it."
+
+@ERI_SEV_B:242 PLY 5516b7e1
+"Oh, Futami, do you have P.E. now?"
+
+@ERI_SEV_B:243 ERI 6c495b35
+"{V0232}{W10}Yes,{W27} I do."
+
+@ERI_SEV_B:244 PLY 7b0265ca
+"What are the girls doing now?"
+
+@ERI_SEV_B:245 ERI 3f619859
+"{V0233}{W5}Volleyball."
+
+@ERI_SEV_B:246 PLY 7052535d
+"Oh, that sounds fun."
+
+@ERI_SEV_B:247 ERI 34131aa1
+"{V0234}{W10}It{W4} is not fun at all..."
+
+@ERI_SEV_B:248 ERI 4f46076b
+"{V0235}{W8}I{W1} cannot{W1} get{W1} the{W1} receives{W1} right...{W30} {Ec}It{W1} is{W1} depressing.{W1}{W3}{W4}"
+
+@ERI_SEV_B:249 PLY 1ace53ab
+"The receives? Why, I wonder? They're not that hard."
+
+@ERI_SEV_B:250 PLY c3c58f80
+"Want me to see what you're doing wrong?"
+
+@ERI_SEV_B:251 ERI 1df37c8f
+"{V0236}{W5}Really?{W30} That{W4} would{W4} help.{W4}"
+
+@ERI_SEV_B:252 ERI b70296e8
+"{V0237}{W5}Is this far{W3} enough apart?"
+
+@ERI_SEV_B:253 PLY 851b6dc4
+"Yeah."
+
+@ERI_SEV_B:254 PLY 594c65fd
+"Okay, here I go!"
+
+@ERI_SEV_B:255 ERI 898b58a4
+"{V0238}{W8}Yes."
+
+@ERI_SEV_B:256 PLY 982dcafc
+"Here!"
+
+@ERI_SEV_B:262 ERI 0782f65c
+"{V0239}{W5}Hup!"
+
+@ERI_SEV_B:264 PLY 98bc74fe
+"......"
+
+@ERI_SEV_B:265 ERI 0407e23f
+"{V0240}{W5}See?{W45} It does{W4} not hit my arms."
+
+@ERI_SEV_B:266 PLY 582ca465
+"Futami, if you reach out after the ball has passed, it won't hit."
+
+@ERI_SEV_B:267 ERI 7db14fb1
+"{V0241}{W8}You{W4} mean{W4} my{W4} reactions{W3} are slow?"
+
+@ERI_SEV_B:268 PLY 9e0fa79b
+"Right. Also, you should take the ball in front of your body."
+
+@ERI_SEV_B:269 ERI 9819f91b
+"{V0242}{W10}In{W12} front{W3} of{W6} my{W6} body?{W25} {Ec}{W5}{Fe9m6}{Eo}That is too{W4} scary,{W30} I cannot."
+
+@ERI_SEV_B:270 PLY d2337d21
+"I see... So that's why you flinch and shut your eyes."
+
+@ERI_SEV_B:271 ERI 01550a5a
+"{V0243}{W10}What?{W30} Did{W1} I{W8} close{W48} my{W1} eyes?{W6}"
+
+@ERI_SEV_B:272 PLY 17d74e6c
+"You did."
+
+@ERI_SEV_B:273 ERI 44733c82
+"{V0244}{W5}I see...{W60} Then that will{W1} not work.{W30} {Ec}Of{W1} course{W1} it will not hit."
+
+@ERI_SEV_B:274 PLY 0a6f8828
+"Okay, one more time. Watch the ball closely this time."
+
+@ERI_SEV_B:276 ERI d8517257
+"{V0245}{W8}Understood.{W1}"
+
+@ERI_SEV_B:277 PLY 2d8e9a09
+"Futami, ready?"
+
+@ERI_SEV_B:278 ERI 887e1c4a
+"{V0246}{W5}Yes,{W35} I am ready."
+
+@ERI_SEV_B:279 ERI 8dc63924
+"{V0247}{W5}Hah!"
+
+@ERI_SEV_B:280 ERI 0f74ed60
+"{V0248}{W8}I was{W2} watching the ball properly,{W27} so why?"
+
+@ERI_SEV_B:281 PLY d31ebde5
+"Futami, just watching isn't enough. You have to move your body."
+
+@ERI_SEV_B:282 ERI d2446652
+"{V0249}{W5}What?{W60} {F9}Was{W4} I not moving?"
+
+@ERI_SEV_B:283 PLY 50c2ec2c
+"No. You were so focused on the ball that your body went stiff."
+
+@ERI_SEV_B:284 ERI fde828e4
+"{V0250}...I-{W33}it{W2} is{W12} difficult.{W2}{W3}"
+
+@ERI_SEV_B:285 PLY de424d7a
+"No, it's really not that hard..."
+
+@ERI_SEV_B:286 ERI b26285d8
+"{V0251}{W5}R-{W15}really?"
+
+@ERI_SEV_B:287 PLY 7f19202b
+"Then this time I'll toss a soft, arcing ball right in front of you, so try to receive it."
+
+@ERI_SEV_B:288 ERI a9f295a6
+"{V0252}{W5}Understood.{W30} {F2}{Ec}Heh,{W30} that{W1} is{W1} easy,{W1} then."
+
+@ERI_SEV_B:289 PLY e076415e
+"Futami, here I go."
+
+@ERI_SEV_B:290 ERI ed16636c
+"{V0253}{W5}Yes,{W22} ready."
+
+@ERI_SEV_B:291 ERI 1f196c7c
+"{V0254}{W5}Haah!"
+
+@ERI_SEV_B:293 ERI 6349841d
+"{V0255}{W8}Ow...{W8}"
+
+@ERI_SEV_B:294 PLY c879f513
+"Ahahahahaha, nice receive!"
+
+@ERI_SEV_B:296 ERI e741de9d
+"{Nm},{V0256}{W10} there is no need to laugh that hard."
+
+@ERI_SEV_B:297 PLY 86a3f8fb
+"Ahahahaha... sorry, sorry."
+
+@ERI_SEV_B:298 PLY e29000fa
+"You know, Futami..."
+
+@ERI_SEV_B:299 ERI 3307ba75
+"{V0257}{W8}What?"
+
+@ERI_SEV_B:300 PLY 8ebf056f
+"You're athletically tone-deaf, aren't you?"
+
+@ERI_SEV_B:301 ERI cfe3aaf1
+"{V0258}{W12}W-{W30}where{W1} did{W1} you{W1} get{W1} that...{W40} {Ec}{W5}{F8}{Eo}I{W1} am{W1} not!{W1}{W2}"
+
+@ERI_SEV_B:302 PLY 80599985
+"No, I can tell from that receive. You're hopeless at sports!"
+
+@ERI_SEV_B:303 ERI 139c456d
+"{V0259}...{W5}I have{W4} been bad{W4} at sports{W4} since{W4} I was{W4} little,{W38} {Ec}{W5}{F8}but not so{W4} bad that it is called tone-deafness..."
+
+@ERI_SEV_B:304 PLY c75d958a
+"Hasn't anyone told you that before?"
+
+@ERI_SEV_B:305 ERI e8420c14
+"{V0260}{W8}I{W8} dislike{W4} moving my{W8} body,{W28} {Ec}so{W4} I have{W4} always{W4} brushed{W1} it{W1} off somehow."
+
+@ERI_SEV_B:306 PLY 4a6f7751
+"I see... You know, Futami..."
+
+@ERI_SEV_B:307.1 - ca7ad3f7
+{Ti0}- You're tone-deaf in everything／- Did all your other talents go to your head?／- That's cute about you
+
+@ERI_SEV_B:308 PLY 7b399bf2
+"You're tone-deaf in everything."
+
+@ERI_SEV_B:309 ERI 368c12bf
+"{V0261}...{W5}I{W4} cannot say{W4} anything back."
+
+@ERI_SEV_B:310 PLY 0fefac6b
+"My impression of you has been changing. You're actually pretty approachable."
+
+@ERI_SEV_B:311 ERI be1ab864
+"{V0262}{W5}...{W3}No one has ever said{W6} that{W1} to{W1} me{W46} {Ec}{W5}{F6}{Eo}before."
+
+@ERI_SEV_B:312 PLY 957575ac
+"Did all your other talents get taken by your head?"
+
+@ERI_SEV_B:313 ERI c211e651
+"{V0263}{W8}That does not make{W1} me{W1} happy{W45} in the slightest."
+
+@ERI_SEV_B:314 PLY 94b48c07
+"That's cute about you."
+
+@ERI_SEV_B:316 ERI 969cb134
+"{V0264}{W8}What?!"
+
+@ERI_SEV_B:317 ERI f5732dd5
+"{V0265}{W8}W-{W30}where did{W2} that...{W1} {W43}{Fe6}{Eh}No{W1} one has{W5} said{W2} that{W2} to me before."
+
+@ERI_SEV_B:319 ERI d9e4ca0b
+"{V0266}{W10}Understand?{W56} This{W2} is{W1} a{W2} secret{W30} between{W2} {Nm}{W5} and{W3} me!{W57} You{W1} get{W4} that,{W5} right?!{W9}"
+
+@ERI_SEV_B:320 PLY c884ad07
+"Of course I get it."
+
+@ERI_SEV_B:321 PLY d023e1d8
+"Well then, good luck in gym class."
+
+@ERI_SEV_B:322 ERI 829a5fa6
+"{V0267}{W8}You{W3} are{W3} cruel.{W27} {F1}{Eo}You{W3} know{W2} trying{W2} hard{W7} will not help..."
+
+@ERI_SEV_B:323 PLY 04733997
+"Hahaha."
+
+@ERI_SEV_B:324 ERI b09eaebf
+"{V0268}{W10}How{W6} humiliating...{W6}"
+
+@ERI_SEV_B:326 PLY e3b6b378
+"Oh, Futami."
+
+@ERI_SEV_B:327 ERI cdb6cafb
+"{V0269}{W8}Ah,{W15} {Nm}.{W30} What are{W4} you doing?"
+
+@ERI_SEV_B:328 PLY 56dcfb18
+"Nothing in particular... How about you, Futami?"
+
+@ERI_SEV_B:329 ERI 6d7beb61
+"{V0270}{W5}I{W8} am{W30} on my way{W4} back from{W3} art{W3} class."
+
+@ERI_SEV_B:330 PLY 9ba8a95b
+"Oh. Hey, is that a sketchbook in your hand?"
+
+@ERI_SEV_B:331 ERI 0a540b4b
+"{V0271}{W8}It is, but..."
+
+@ERI_SEV_B:332 PLY 7488aa60
+"Let me see!"
+
+@ERI_SEV_B:333 ERI 16d9ab5a
+"{V0272}{W10}N-{W8}no!"
+
+@ERI_SEV_B:334 ERI c20a13bc
+"{V0273}{W5}I-{W15}it is embarrassing..."
+
+@ERI_SEV_B:335 PLY 2fc6b46a
+"Embarrassing? ...Now I want to see it even more."
+
+@ERI_SEV_B:336 ERI 124ba3ee
+"{V0274}{W8}You{W1} have{W8} bad{W6} taste."
+
+@ERI_SEV_B:337 PLY f70c7b63
+"I won't laugh, so show me."
+
+@ERI_SEV_B:338 ERI 3c6077ca
+"{V0275}{W5}You{W3} will not{W3} laugh?{W5} Never?"
+
+@ERI_SEV_B:339 PLY 9e40aa34
+"Never."
+
+@ERI_SEV_B:342 ERI b70565cc
+"{V0276}{W8}Then{W46} only{W1} a{W1} little.{W1}{W4}"
+
+@ERI_SEV_B:343 PLY ef8c1bad
+"Th-{W30}this is..."
+
+@ERI_SEV_B:344 ERI dfbae6b7
+"{V0277}{W5}It is bad, is it not?"
+
+@ERI_SEV_B:345.1 - a84c76be
+{Ti0}- Looks like a kid's doodle...／- Feels like avant-garde art／- Ahahahaha
+
+@ERI_SEV_B:346 PLY e735feaa
+"It looks like a kid's doodle..."
+
+@ERI_SEV_B:347 ERI b034e3cc
+"{V0278}{W5}Honestly!{W5} Do not stare at it so much!"
+
+@ERI_SEV_B:348 PLY 36b8453f
+"It feels like avant-garde art."
+
+@ERI_SEV_B:349 ERI 7197e8d8
+"{V0279}{W8}That sounds nice{W5} when you put it that way,{W33} but{W2} it is just a doodle."
+
+@ERI_SEV_B:350 PLY 18bca7c3
+"Y-yeah..."
+
+@ERI_SEV_B:351 PLY e466fa7a
+"Ahahahaha."
+
+@ERI_SEV_B:353 ERI 9c0a1911
+"{V0280}{W30}Honestly!{W15} You{W3} said you would not laugh!{W18} Give{W3} it back!"
+
+@ERI_SEV_B:354 PLY 1681902b
+"B-but still...{W15} Futami drew{W30} this...{W15} Pfft,{W30} hahahahaha!"
+
+@ERI_SEV_B:355 ERI eef15b60
+"{V0281}{W8}{Nm}{W8}~{W5}!{W60} {Eh}If you laugh{W1} any{W4} more,{W33} {Fm3}I{W4} will{W2} be{W3} very{W2} cross."
+
+@ERI_SEV_B:356 PLY eaf05c6c
+"S-sorry, sorry."
+
+@ERI_SEV_B:357 PLY 9320a744
+"You really have no talent for drawing, Futami..."
+
+@ERI_SEV_B:358 ERI 69017d82
+"{V0282}{W10}Right.{W30} I do not..."
+
+@ERI_SEV_B:359 PLY 165ae593
+"Are you bad at making animals out of paper clay too?"
+
+@ERI_SEV_B:360 ERI 54a7ee40
+"{V0283}{W8}Three-dimensional{W3} things?{W42} I{W4} am{W4} bad at{W4} those too..."
+
+@ERI_SEV_B:361 PLY 4c6c745a
+"I see... Then, Futami, could it be..."
+
+@ERI_SEV_B:362 ERI ea104b2f
+"{V0284}{W8}What?"
+
+@ERI_SEV_B:363 PLY 0e4693ed
+"You're art-deaf?!"
+
+@ERI_SEV_B:364 ERI 7215a14b
+"{V0285}{W5}Ah..."
+
+@ERI_SEV_B:365 ERI aade1a03
+"{V0286}{W30}Honestly!{W30} You{W4} cannot{W4} just stick{W2} \\"deaf\\" on everything!"
+
+@ERI_SEV_B:366 PLY c9531a51
+"Ahaha, sorry, sorry."
+
+@ERI_SEV_B:367 ERI 403b6b46
+"{V0287}{W30}I am leaving!{W30} I cannot stand{W4} being made a fool of{W10} any more."
+
+@ERI_SEV_B:368 PLY 46e4141b
+"Ahaha, see you, Futami."
+
+@ERI_SEV_B:369 ERI 0d80b9d5
+"......"
+
+@ERI_SEV_B:370 ERI 10c82b23
+"{V0288}{W8}See you,{W15} {Nm}."
+
+@ERI_SEV_B:371 PLY 39b57605
+(Futami really is hopeless at everything except studying...)
+
+@ERI_SEV_B:372 AKI e6766eb3
+"{Nm},{V0131}{W10} what{W4} were{W2} you{W2} looking{W4} at{W2} and{W2} laughing?{W54} You{W2} looked{W2} like{W2} you{W2} were{W2} having{W1} a{W1} great{W1} time.{W1}{W1}"
+
+@ERI_SEV_B:373 PLY dc5bd545
+"Hiiragi, you were watching the whole time?"
+
+@ERI_SEV_B:374 AKI a8c02ca8
+"{V0132}{W10}Can't{W3} be{W4} helped, right?{W51} It{W3} wasn't{W3} the kind{W1} of mood{W1} to call out."
+
+@ERI_SEV_B:375 PLY 6c6b1e77
+"R-right..."
+
+@ERI_SEV_B:376 AKI 57a7936a
+"{V0133}{W5}...{W3}Still,{W45} {Fe3}I've never seen a Futami Eriko{W2} like that."
+
+@ERI_SEV_B:377 AKI f0bf05e6
+"{V0134}{W5}Is she always like that{W1} around {Nm}?{W15}"
+
+@ERI_SEV_B:378 PLY 87e04d7a
+"Lately, yeah..."
+
+@ERI_SEV_B:379 AKI a1208abc
+"{V0135}{W10}Hmm,{W48} I{W8} see...{W8}"
+
+@ERI_SEV_B:380 AKI b7b18d15
+"{V0136}{W5}If she{W2} were{W1} always{W1} like{W1} that,{W15} she'd be easier to approach."
+
+@ERI_SEV_B:381 PLY 91bfd645
+"You think so too, Hiiragi?"
+
+@ERI_SEV_B:382 AKI 030f5b38
+"{V0137}{W8}Yeah."
+
+@ERI_SEV_B:383 PLY 459cfa2d
+"Right..."
+
+@ERI_SEV_B:384 PLY 91a4b590
+(Futami doesn't need to force herself to hide her tone-deafness...)
+
+@ERI_SEV_B:385 PLY f0596c79
+(I wonder if Futami is in class...)
+
+@ERI_SEV_B:386 PLY 91a68f56
+(Even if she is, she's spending the time alone, talking to no one...)
+
+@ERI_SEV_B:387 PLY 5c5ccb05
+(I'm Futami's only friend... I'm glad about that, but it must be too lonely for her...)
+
+@ERI_SEV_B:388 PLY 526ef876
+(Okay, I'll talk to her. Maybe if she opened up more...)
+
+@ERI_SEV_B:389 PLY 1be41fa3
+(Where's Futami... Ah, there she is.)
+
+@ERI_SEV_B:390 PLY 8583d410
+"{Ts3}Hey, Futaaami!{Ts2}"
+
+@ERI_SEV_B:391 ERI b0d1164e
+"{V0289}{W5}{Nm},{W60} do you{W4} need{W4} something?"
+
+@ERI_SEV_B:392 PLY 4ba1e169
+"Want to talk on the rooftop for a bit?"
+
+@ERI_SEV_B:393 ERI 1f3c904c
+"{V0290}{W8}The{W4} rooftop?{W30} {Fm1}That{W4} is fine, but..."
+
+@ERI_SEV_B:394 ERI 0126a906
+"{V0291}{W5}Going out of our way to come here,{W81} what is{W4} this about?"
+
+@ERI_SEV_B:395 PLY 5d083058
+"...Futami, I'm just going to say it."
+
+@ERI_SEV_B:396 PLY b8810177
+"I think you should show more of yourself."
+
+@ERI_SEV_B:397 ERI 009c0eff
+"{V0292}{W10}Of{W4} myself?"
+
+@ERI_SEV_B:398 PLY 3b4d64d1
+"Yeah. Don't you think you should show everyone what you've been hiding?"
+
+@ERI_SEV_B:399 ERI 0d2aa6e4
+"{V0293}{W8}You mean{W33} my{W4} tone-deafness."
+
+@ERI_SEV_B:400 PLY adc5c588
+"Right."
+
+@ERI_SEV_B:401 ERI 348ed04c
+"{V0294}{W10}I cannot do something that{W27} embarrassing."
+
+@ERI_SEV_B:402 PLY 9b630baa
+"It's nothing to be embarrassed about. I think it's... really cute."
+
+@ERI_SEV_B:403 ERI 5b39cf0d
+"{V0295}{Nm}..."
+
+@ERI_SEV_B:404 ERI 75d10bbe
+"{V0296}...Why do you want{W27} to show it?"
+
+@ERI_SEV_B:405 PLY f8da7856
+"Because... I want everyone to get to know you better."
+
+@ERI_SEV_B:406 PLY a6ad8f8f
+"I'm sure you could become friends with everyone."
+
+@ERI_SEV_B:407 ERI 12fedec5
+"{V0297}...{W3}I said{W3} this before,{W36} but I do{W8} not intend{W2} to{W2} force{W3} myself to{W3} make friends."
+
+@ERI_SEV_B:408 PLY e439b576
+"It's not forcing. You'd just stop hiding things. ...If anything, I think hiding it is the forced part."
+
+@ERI_SEV_B:409 ERI df2af250
+"{V0298}{Nm}..."
+
+@ERI_SEV_B:410 ERI 24d045c4
+"{V0299}{W15}Right. {W93}Maybe you're right..."
+
+@ERI_SEV_B:411 PLY 59016539
+"You can do it, Futami."
+
+@ERI_SEV_B:412 ERI bbeacba3
+"{V0300}......"
+
+@ERI_SEV_B:413 ERI d3e6bb51
+"{V0301}...{W10}I suppose{W3} I{W8} have{W4} no{W4} choice{W3}.{W3}{W57} {Ec}All{W1} right,{W1} {W30}{Fe1m3}{Eo}I'll try it."
+
+@ERI_SEV_B:414 ERI e67b7ac2
+"{V0302}{W8}It's embarrassing,{W2}{W2}{W1} {W51}but this is{W4} an{W3} experiment{W3} too."
+
+@ERI_SEV_B:415 PLY 70187625
+"Yeah, I'm sure it'll work."
+
+@ERI_SEV_B:417 NAR 553cd56f
+"{V0280}{W15}Oh, {Nm}{W3}~"
+
+@ERI_SEV_B:418 PLY 110fb731
+"Oh, Narumi. Getting lunch?"
+
+@ERI_SEV_B:419 NAR 537d6714
+"{V0281}Yes!"
+
+@ERI_SEV_B:420 PLY 5fe5827d
+"What are you going to eat?"
+
+@ERI_SEV_B:421 NAR 455d26a3
+"{V0282}{W12}A croquette bun! {W15}{W4}I've been {F9}dying{W3} for one since last night, {W13}{Ec}I couldn't wait!"
+
+@ERI_SEV_B:422 PLY 31416ccb
+"Hahaha, the croquette buns here are good, after all."
+
+@ERI_SEV_B:423 NAR 7a079c57
+"{V0283}{W15}Yes!"
+
+@ERI_SEV_B:424 NAR 191e89a6
+"{V0284}{W15}A fresh-fried croquette is {W27}crispy and fluffy, {W13}{Ec}{W5}{Fe9}{Eo}and once I start I can't stop!"
+
+@ERI_SEV_B:425 NAR da854a35
+"{V0285}{W15}Okay, {W8}I'll go buy one~"
+
+@ERI_SEV_B:426 PLY e8813d85
+(Now, what should I eat...)
+
+@ERI_SEV_B:427 NAR e424851b
+"{V0286}{W12}Ugh...{W90} {Eo}Senpai~{W8}"
+
+@ERI_SEV_B:428 PLY 79d9d105
+"What's wrong? That was quick."
+
+@ERI_SEV_B:429 NAR 16b3c472
+"{V0287}{W12}They{W1} were{W2} sold{W5} out~{W45}"
+
+@ERI_SEV_B:430 PLY 95b4ca98
+"Already? They're popular, after all. That's too bad, Narumi..."
+
+@ERI_SEV_B:431 NAR 5f0d9024
+"{V0288}{W12}Ugh...{W75} my{W8} croquette bun...{W60} I can't give up on it..."
+
+@ERI_SEV_B:432 ERI 7b9343c6
+"{V0303}{W8}If you want one that badly,{W18} you{W6} can have mine."
+
+@ERI_SEV_B:433 NAR 26b0d5b1
+"{V0289}{W12}Huh?"
+
+@ERI_SEV_B:438 ERI b4690332
+"{V0304}{W5}I{W8} don't mind{W4} eating a{W4} different bun."
+
+@ERI_SEV_B:439 NAR 5db1399c
+"{V0290}{W12}A-{W42}are you sure? {W35}{Ec}{W5}{Fe9m6}{Eo}Even{W5} though we've just met,{W8}{W2} you'd do that{W1}{W1} for me..."
+
+@ERI_SEV_B:440 ERI 6e5c9bc1
+"{V0305}{W8}It's fine,{W30} don't worry about it."
+
+@ERI_SEV_B:441 NAR 4f772ef5
+"{V0291}{W12}Thank you.{W5} {W46}{Ec}{W5}{F7}{Eo}Um...{W15}{W77} {F2}Futami{W3}{W2} Senpai!"
+
+@ERI_SEV_B:442 ERI 1c3c1820
+"{V0306}{W5}You know{W8} who I am,{W24} then."
+
+@ERI_SEV_B:443 NAR 330fb637
+"{V0292}{W12}Yes!{W4} {W8}{Eo}You're{W3} famous,{W5} Senpai.{W3} {W40}{F3}I'm{W38} Satonaka{W4}{W12} Narumi."
+
+@ERI_SEV_B:444 ERI dfddd54c
+"{V0307}{W8}I see. {W45}Then,{W3} Narumi,{W21} put this on it too."
+
+@ERI_SEV_B:445 NAR a13030ab
+"{V0293}{W12}Huh? {W30}Ketchup and mustard...{W45} really?"
+
+@ERI_SEV_B:446 ERI b1b0cded
+"{V0308}{W10}It's delicious."
+
+@ERI_SEV_B:452 NAR 59d975a4
+"{V0294}{W15}But,{W30} it already has{W3} sauce on it..."
+
+@ERI_SEV_B:453 ERI eb287d8f
+"{V0309}{W10}That{W1} alone{W1}{W1} is not enough.{W6}"
+
+@ERI_SEV_B:454 NAR 62cc7842
+"{V0295}{W12}Y-{W60}you think so?"
+
+@ERI_SEV_B:455 ERI 5896d489
+"{V0310}{W8}I do."
+
+@ERI_SEV_B:456 NAR 9011fe62
+"{V0296}{W15}Ugh...{W45} Senpai{W5}{W5}...{W30} what do I do......"
+
+@ERI_SEV_B:457.1 - 094c9e09
+{Ti0}- Just put it on／- You don't have to／- Futami's taste-deaf, after all
+
+@ERI_SEV_B:458 PLY dda96175
+"You'll just have to put it on."
+
+@ERI_SEV_B:459 NAR e8fe6f52
+"{V0297}{W15}Ugh...{W60} okay.{W45} I'll{W1} try{W1} it{W1}{W2}{W4}"
+
+@ERI_SEV_B:460 PLY fdf2cef4
+"You don't have to put it on."
+
+@ERI_SEV_B:461 NAR 5af1de34
+"{V0298}{W15}R-{W18}right?!{W2}"
+
+@ERI_SEV_B:462 ERI c34cb354
+"{V0311}{W8}No{W1}{W1}. {W30}If you do not put it on, I will not give it to you."
+
+@ERI_SEV_B:463 NAR 23b0f13f
+"{V0299}{W12}Ugh...{W30} okay.{W30} I'll try it."
+
+@ERI_SEV_B:464 PLY 32950fff
+"Well, Futami's taste-deaf, after all."
+
+@ERI_SEV_B:465 ERI b151ce60
+"{V0312}{W8}You{W4} say it plainly."
+
+@ERI_SEV_B:466 ERI 57f86556
+"{V0313}{W5}I{W8} just{W5} stopped hiding it,{W30}{W3} like you{W3} said, {Nm}."
+
+@ERI_SEV_B:467 PLY 6ca6d824
+"Narumi, why not try putting it on?"
+
+@ERI_SEV_B:468 NAR a73b0c63
+"{V0300}{W12}Ugh...{W63} okay, I'll{W3} try{W3} it{W3}~"
+
+@ERI_SEV_B:469 NAR e1856d70
+"{V0301}{W18}Squee{W5}ze{W8}{W18}{W24}{W24}. {W90}{F9}{m8}Awww,{W45} my croquette bun{W15} {F6}{Ec}turned into a hot dog~"
+
+@ERI_SEV_B:470 ERI 75fbc903
+"{V0314}{W5}He{W2}h,{W1}{W42} it{W3} looks{W1} delicious{W1}."
+
+@ERI_SEV_B:471 SYS 59b8a43f
+...And so we had a fun lunch break.
+
+@ERI_SEV_B:473 ERI 8c4f889d
+"{V0315}{W5}Hehe{W3}"
+
+@ERI_SEV_B:474 PLY b24c2f40
+"What's up? You seem to be in a good mood, Futami."
+
+@ERI_SEV_B:475 ERI 3a4c8e55
+"{V0316}{W8}Oh, {Nm}."
+
+@ERI_SEV_B:476 ERI cf64ca64
+"{V0317}{W8}Just now,{W30} a Year{W5} 1{W5} girl{W5}{W1} who{W8}{W1}{W1} wanted a{W15} croquette{W4} bun{W5} no{W5} matter{W1} what..."
+
+@ERI_SEV_B:477 ERI 4354ca59
+"{V0318}{W8}I gave{W8} her mine on{W3} the condition{W3} that she{W4} put on the condiments I{W4} chose,{W21}{W24} and{W4} she {F3}{Ec}put them on{W1} with{W1} tears{W1} in{W1} her{W1} eyes{W1}."
+
+@ERI_SEV_B:478 ERI ea466c69
+"{V0319}{W8}It{W3} turned{W2} into{W1} a hot{W3} dog{W1}.{W15} {Ec}Hehe{W3}{W8}"
+
+@ERI_SEV_B:479 PLY b6067e75
+"...I see, so you stopped hiding yourself."
+
+@ERI_SEV_B:480 ERI f1ae692e
+"{V0320}{W8}Yes,{W3} I{W26} did{W2}.{W2}{W2} {W30}{Ec}This is what you wanted, right?"
+
+@ERI_SEV_B:481 PLY cc4af171
+"Yeah."
+
+@ERI_SEV_B:482 ERI db9b3e5f
+"{V0321}{W8}See you, {Nm}."
+
+@ERI_SEV_B:483 PLY e03a6130
+"Yeah, see you."
+
+@ERI_SEV_B:484 - 0b1e9c7d
+Girl A
+
+@ERI_SEV_B:485 ETG e0062aa2
+"{V0201}{W12}He{W30}re it comes!{W30} Eri,{W15} it's coming your way~!"
+
+@ERI_SEV_B:486 ERI b4c06426
+"{V0322}{W5}Got it!"
+
+@ERI_SEV_B:487 - f6468b35
+Girl B
+
+@ERI_SEV_B:488 ETG fee74684
+"{V0301}{W12}Eek!"
+
+@ERI_SEV_B:489 ERI 46d3fa48
+"{V0323}{W5}Oh,{W30} I'm sorry."
+
+@ERI_SEV_B:490 ETG e0d89c26
+"{V0202}{W8}Come on,{W30} you can't be{W5} scared{W1} of{W1} the{W1} ball!"
+
+@ERI_SEV_B:491 PLY 99102f30
+(Huh? Isn't that who's playing volleyball over there...)
+
+@ERI_SEV_B:492 ERI e9ad3ea0
+"{V0324}{W8}Here!"
+
+@ERI_SEV_B:493 ETG 03d7f98f
+"{V0300}{W12}Ahaha,{W21} nice{W2} one{W4}!"
+
+@ERI_SEV_B:494 ERI 17cfc59f
+"{V0325}{W5}Heh,{W36} once you get used to it,{W3} it's{W3} easy{W3}.{W1}{W1}"
+
+@ERI_SEV_B:495 ETG 34c61c23
+"{V0203}{W12}Aha{W2}ha,{W3}{W39} that{W4} went{W2} far{W2}~{W5}"
+
+@ERI_SEV_B:496 PLY 8577e12f
+(Futami's playing volleyball with her classmates... I'm glad, she made friends.)
+
+@ERI_SEV_B:498 ETG c6aca964
+"{V0204}{W12}Oh,{W12} Eri,{W15} sorry~"
+
+@ERI_SEV_B:499 ERI 3e703a0b
+"{V0326}{W8}It's fine,{W15} I'll get it."
+
+@ERI_SEV_B:500 PLY 7828c80d
+(Oh, the ball rolled over this way...)
+
+@ERI_SEV_B:501 PLY 4ab8c765
+"Here's your ball."
+
+@ERI_SEV_B:502 ERI 1df6b7c0
+"{V0327}{W8}Oh,{W15} {Nm}.{W98} {F3}Thank you."
+
+@ERI_SEV_B:503 PLY 742d37d9
+"Good for you, you made friends."
+
+@ERI_SEV_B:504 ERI ef26a001
+"{V0328}{W8}Yes."
+
+@ERI_SEV_B:505 ERI 4cd67477
+"{V0329}{W8}I{W3} am not{W3} sure{W5} they're friends,{W45} but{W5} they{W4} often{W4} invite me to play."
+
+@ERI_SEV_B:506 PLY 58e7601b
+"I see, that's great."
+
+@ERI_SEV_B:507 ERI e0b09fa1
+"{V0330}{W5}They all{W30} seem{W6} to{W3} enjoy{W3} how{W3} tone-deaf I am{W30} about{W4} everything."
+
+@ERI_SEV_B:508 PLY 59b464a8
+"Hahaha."
+
+@ERI_SEV_B:509 ERI cf459c0f
+"{V0331}{W4}Once I gave up{W3} and stopped{W4} hiding it,{W1}{W1}{W1} {W27}{F9}everyone started{W3} talking to me{W4} casually..."
+
+@ERI_SEV_B:510 ERI 9a0e92a2
+"{V0332}{W8}I owe{W3} it{W2} to{W2} you,{W2} {Nm}.{W2}{W45} It was just as you said."
+
+@ERI_SEV_B:511 PLY ff3375ce
+"No, everyone just noticed Futami's real charm."
+
+@ERI_SEV_B:512 ERI 1f89b91b
+"{V0333}{W8}My{W8} real{W3} charm{W3} is{W4} being clueless about everything?{W30} {W45}{Fe8m1}{Ec}I{W3} can't{W3} accept{W3} that."
+
+@ERI_SEV_B:513 PLY 7aa469c1
+"Hahaha..."
+
+@ERI_SEV_B:514 ERI 89bbb38e
+"{V0334}{W5}It's just that{W45} I'm not used{W1} to company, so{W45} {F9}sometimes{W3} I{W4} think{W4} being alone{W4} in the lab{W39} was{W1} easier{W4} on{W1} me{W3}.{W4}"
+
+@ERI_SEV_B:515 PLY 3a5a3d15
+"When that happens, just turn down the invitation. You don't have to worry about them."
+
+@ERI_SEV_B:516 ERI 33578d9a
+"{V0335}{W8}I see.{W70} ...{W2}Is that how{W21} it{W8} works?{W58} {Ec}{W5}{F7}{Eo}I{W8} think{W2} too{W5} hard{W4} about{W2} things."
+
+@ERI_SEV_B:517 PLY 08b8450f
+"Exactly. You overthink everything, Futami."
+
+@ERI_SEV_B:518 ERI cac95381
+"{V0336}{W8}Heh,{W36} I will be careful."
+
+@ERI_SEV_B:519 ETG ac5dc650
+"{V0200}{W12}Eri{W5}~,{W21} what are you doing{W1}~{W2}{W2}?!"
+
+@ERI_SEV_B:520 ERI 50941e40
+"{V0337}{W8}Oh,{W45} sorry{W1}{W1}! {W27}I'm coming{W3}!"
+
+@ERI_SEV_B:521 ERI 1c3ce1e7
+"{V0338}{W8}Well,{W8} see you, {Nm}."

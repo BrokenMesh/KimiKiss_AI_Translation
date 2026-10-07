@@ -1,0 +1,311 @@
+# MIT_KBE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MIT_KBE:42 MIT f7bc725c
+"{V6501}{W8}Master...{W3}{W5}{W5}"
+
+@MIT_KBE:44 PLY 4b2c4a70
+"Ah! S-Shijou!"
+
+@MIT_KBE:47 MIT 7ffca170
+"{V6502}{W10}Master...{W3}{W4}{W5}{W102}{F6} I{W8}...{W90} I do not know what to say..."
+
+@MIT_KBE:50 MIT 20f2bd55
+"{V6503}{W10}That girl{W5} from{W2} a{W5} moment{W2} ago{W2}...{W102} do you like her?"
+
+@MIT_KBE:51 PLY 7e177202
+"S-Shijou..."
+
+@MIT_KBE:55 MIT f2cacb2f
+"{V6504}{W15}To think there is{W4} a girl like that...{W75} I{W8}...{W75} what should I{W3} tell{W3} Father{W3}?"
+
+@MIT_KBE:56 PLY 68827dcd
+"N-no, well... that's... that's..."
+
+@MIT_KBE:57 MIT 97e867e4
+"{V6505}{W12}I{W8}...{W120} I cannot see you any more..."
+
+@MIT_KBE:58 PLY 95fc4d41
+"N-no, that's not it, Shijou. It's just... you saw wrong."
+
+@MIT_KBE:59 MIT d8bd466f
+"{V6506}{W8}Eh...?"
+
+@MIT_KBE:60 PLY 9e68c4ed
+"...Between that girl and me, well... it's nothing like what you're thinking, Shijou."
+
+@MIT_KBE:61 MIT 1cf95b08
+"{V6507}{W8}...{W5}..."
+
+@MIT_KBE:63 MIT 01a7c584
+"{V6508}{W8}...{W5}Is it{W7} really{W7}...{W75} true?"
+
+@MIT_KBE:64 PLY 751ce1bc
+"Yeah... it's true."
+
+@MIT_KBE:65 MIT 80246a08
+"{V6509}{W8}...Am I{W8}...{W105} {Eo}allowed to stay at your side?"
+
+@MIT_KBE:66 PLY 3ade7bf6
+"Yeah. I want you by my side. So..."
+
+@MIT_KBE:67 MIT 73f66f61
+"{V6510}{W5}...{W3} Yes."
+
+@MIT_KBE:68 MIT 4613055c
+"{V6511}{W12}I{W10}...{W99} I will{W3} believe you."
+
+@MIT_KBE:70 MIT a299062c
+"{V6512}{W12}Master{W2}{W3}{W5}, {W72}{Eo}you are not{W8} the kind of person{W4} who would lie to me{W3}."
+
+@MIT_KBE:71 PLY 5248279b
+"Shijou..."
+
+@MIT_KBE:74 MIT 0abddabd
+"{V6513}{W12}I{W1} am{W4} sorry{W1} to{W1} have{W1} caused{W1} such{W1} a{W1} disturbance.{W1}{W25}{Ec}{W5}{F7}{Eo}...Well then,{W27}{Ec} excuse{W3} me{W3}."
+
+@MIT_KBE:75 MIT 1222915d
+"{V0617}{W15}{Nm}..."
+
+@MIT_KBE:76 MIT 2ae70150
+"{Nm}...{V0618}{W18}I{W12}...{W90} I do not know what to say..."
+
+@MIT_KBE:77 MIT 5c71118d
+"{V0619}{W15}That girl{W4} from{W6} a{W4} moment{W7} ago{W2}...{W102} do{W1} you{W1} like{W1} her{W1}{W1}{W1}{W1}?"
+
+@MIT_KBE:79 MIT 29ece5d5
+"{V0620}{W12}Even though you have a girl{W4} like that,{W52}{Ec} I{W40} asked{W4} you{W4} to be my conversation partner,{W35}{Eo} an unreasonable{W4} request{W5}{W1}{W1}{W1}..."
+
+@MIT_KBE:80 MIT 571e67cd
+"{V0621}{W15}I{W8}...{W90} I cannot{W1} go on,{W48} relying{W4} on you like this..."
+
+@MIT_KBE:81 MIT 8e9229be
+"{V0622}{W12}Eh...?"
+
+@MIT_KBE:82 MIT 8c97d7f0
+"{V0623}{W10}...{W5}..."
+
+@MIT_KBE:83 MIT afc7ca6e
+"{V0624}{W8}...{W3}Is it{W12} really{W10}...{W60} true?"
+
+@MIT_KBE:84 MIT b33d96c0
+"{V0625}{W3}...Am I{W8}...{W90} be{W1}ing{W1} a{W1} burden{W1}{W5}{W5}{W1}{W1}{W1} to you?"
+
+@MIT_KBE:85 PLY 7af0764f
+"You're not. So..."
+
+@MIT_KBE:86 MIT 4e2ba856
+"{V0626}{W5}...{W3}Yes."
+
+@MIT_KBE:87 MIT b676fc70
+"{V0627}{W3}{Nm}, I{W4} will believe you."
+
+@MIT_KBE:88 MIT 5d109133
+"{V0628}{W10}You are not,{W78}{Eo} the kind of person{W8}{W1} who would{W4} lie to me{W4}{W1}{W1}{W1}{W1}{W1}."
+
+@MIT_KBE:89 MIT aea77c25
+"{V0629}{W12}I am sorry{W4} to have caused a disturbance{W1}{W2}{W1}.{W75} ...Well then,{W30} excuse{W4} me{W4}{W1}{W1}."
+
+@MIT_KBE:92 PLY 25f37b75
+"Ah... Shijou..."
+
+@MIT_KBE:93 PLY 83bb4560
+(Sorry... Shijou. ...What a terrible person I am...)
+
+@MIT_KBE:94 PLY 772be3f3
+(I have to sort out my feelings quickly. Before it becomes too late to fix...)
+
+@MIT_KBE:95 MIT 825ada35
+"{V6501}{W8}Master{W2}{W4}..."
+
+@MIT_KBE:96 MIT 4eeaf5a4
+"{V0630}{Nm}..."
+
+@MIT_KBE:99 MIT 28ed7c97
+"{V0631}{W15}You do like her, do you not,{W93} that girl{W4} from{W1} a{W4} moment{W2} ago{W1}."
+
+@MIT_KBE:100 PLY 581945bc
+"T-that's..."
+
+@MIT_KBE:102 MIT b9da463d
+"{V0632}{W12}When I{W1} saw{W4} you with her before,{W60} you should{W4} have been honest{W3} with me{Ti0}{Ti2}..."
+
+@MIT_KBE:103 MIT f4209402
+"{V0633}{W15}I{W8}...{W102} do not like{W4} lies{W4}{W2}..."
+
+@MIT_KBE:104 PLY 6b410038
+"Ugh..."
+
+@MIT_KBE:107 MIT bf5f7a1d
+"{V0634}{W12}She is{W1} very{W2} pretty,{W5} is she{W1} not{W1}?{W60} {Ec}I{W1} often{W2} see her{W4} in the Library."
+
+@MIT_KBE:108 MIT 1771791e
+"{V0635}{W12}She is modest,{W4}{W51} and{W1} so{W3} thoughtful..."
+
+@MIT_KBE:109 MIT 65614b69
+"{V0636}{W12}She is a very cute girl{W4}, is she{W1} not{W1}?{W75}{Fe6} On the{W3} Year{W3} 1{W3} floor{W4},{W39} I often see her."
+
+@MIT_KBE:110 MIT af4eeb33
+"{V0637}{W10}She is{W3} always{W2} with{W1} her{W5} good{W2} friends{W1}{W1}{W2}{W5}{W5}{W2}{W2}{W5},{W39} {Ec}running about{W5} so innocently..."
+
+@MIT_KBE:111 MIT 4bdbaaf7
+"{V0638}{W12}She is very{W8} beautiful{W1}{W1},{W6} is she not{W1}{W1}?"
+
+@MIT_KBE:112 MIT 53c5ff41
+"{V0639}{W8}Boys{W3} at school{W3} gossip{W1} about her{W8}{W1}{W1}, and{W30} I{W3} often{W3} hear it."
+
+@MIT_KBE:113 MIT 6af73b40
+"{V0640}{W12}She is very{W1} pretty{W4} and{W4} healthy-looking{W4}, is she{W2} not{W4}{W1}?"
+
+@MIT_KBE:114 MIT 844ff919
+"{V0641}{W12}Playing{W5} with{W1} the{W1} boys{W6} on{W2} the soccer team,{W36}{W1} the sight{W5} of{W5} her{W1} in{W1} action{W1}{W1}{W10}{W72} {Ec}is,{W8} even{W1} to{W2} me,{W2}{W60} so{W4} refreshing{W1}{W3}{W5}{W2}{W1}."
+
+@MIT_KBE:115 MIT 29dc74cd
+"{V0642}{W12}She is very intelligent{W5} and pretty,{W5} is she{W1} not{W1}?{W75} I often see her{W3} in the Science Lab."
+
+@MIT_KBE:116 MIT 24b385e3
+"{V0643}{W12}Seeing her{W1} alone{W1} and{W1} lost{W4} in{W4} thought,{W1}{W1}{W1}{W2}{W2}{W10} there{W27} is{W3} a{W2} touch of sadness{W2} about her..."
+
+@MIT_KBE:117 MIT 148f510f
+"{V0644}{W12}She is very{W1} pretty{W3},{W60} and has a{W3} strong{W3} sense{W3} of responsibility{W5}."
+
+@MIT_KBE:118 MIT dd583860
+"{V0645}{W8}She{W4} is{W3} always{W3} working{W4} so{W1} hard{W4} to{W1} keep{W1} order{W42} in{W1} the{W1} school{W1}{W1}{W4}{W1}{W1}{W1}{W1}..."
+
+@MIT_KBE:119 MIT f1399e63
+"{V6515}{W12}Why you, Master{W3}{W4}{W5}, would{W1} fall{W1} for{W1} her{W1}...{W99} {Ec}I understand."
+
+@MIT_KBE:120 PLY 15279ef3
+"Shijou, I'm sorry... I..."
+
+@MIT_KBE:121 MIT 8529ee73
+"{V6516}{W12}I do not want to hear it!{W45} Please do not lie to me{W3} any more!"
+
+@MIT_KBE:122 MIT 098ae776
+"{V6517}{W12}I{W8}...{W90} I cannot see you{W1} any more.{W63} I will{W1} speak{W4} to{W4} Father{W1}{W1}{W4}{W1}{W1},{W45} and have this{W6} matter{W8} called off."
+
+@MIT_KBE:123 MIT aff9d72a
+"{V6518}{W12}I cannot make{W4} such a wonderful girl{W3} sad,{W54}{W4} after all."
+
+@MIT_KBE:124 MIT 28dde164
+"{V6519}{W12}It is{W4} enough{W3}{W63} that I{W8} alone{W1}{W1}{W5} should{W4} suffer{W4} such pain..."
+
+@MIT_KBE:125 MIT 90025abd
+"{V6520}{W15}Goodbye."
+
+@MIT_KBE:126 MIT c565f8e9
+"{V0646}{W12}Why you would fall for her...{Eh}{W99} I understand{W1}."
+
+@MIT_KBE:127 MIT 98d220eb
+"{V0647}{W10}I do not want to hear it!{W30} No more lies{W4}!"
+
+@MIT_KBE:128 MIT cfc075e2
+"{V0648}{W12}I{W8}...{W75} {Eo}I cannot see you any more.{W60} I{W1} cannot{W1} possibly{W1} make{W4} such{W1} a lovely girl{W5} sad,{W48} you see{W4}.{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@MIT_KBE:129 MIT c395f462
+"{V0649}{W12}Going{W1} through{W4} such{W1} pain{W4}{W1} is enough,{W72} {F6}{Ec}for me{W9} alone{W1}{W2}{W4}{W4}..."
+
+@MIT_KBE:130 MIT 692615de
+"{V0650}{W12}Goodbye."
+
+@MIT_KBE:131 PLY cd53346e
+"Ah... Shijou...!"
+
+@MIT_KBE:132 PLY 471fac2d
+(...I've... I've done something I can't take back...)
+
+@MIT_KBE:133 PLY b51856fd
+(Shijou... I'm sorry...)
+
+@MIT_KBE:134 PLY 2d742b95
+(...But what is all this about, anyway...)
+
+@MIT_KBE:135 MIT ca17681d
+"{V6521}{W10}Master...{W1}{W3}{W4}"
+
+@MIT_KBE:136 MIT 5b22459b
+"{V6522}{W18}I{W10}...{W72} I no longer understand you, Master{W3}{W4}{W5}..."
+
+@MIT_KBE:137 MIT 4a9c46f1
+"{V6523}{W15}A{W5} different{W2} girl{W5}{W2}{W1}{W1}...{W60} a girl different{W8} from the other{W3} day{W2}..."
+
+@MIT_KBE:138 PLY 3efedaae
+"S-Shijou... that's..."
+
+@MIT_KBE:139 MIT 21cf998e
+"{V6524}{W12}I am{W5} sad{W1}{W1}{W1}...{W75} {Eo}To think you, Master{W2}{W3}{W4}, were that kind of person{W4}..."
+
+@MIT_KBE:140 MIT c182c4b8
+"{V6525}{W12}Any girl{W9} at all{W1}{W1}{W1}{W1} would do{W6}{W1}{W1}{W1} for you...{W30} {Fe8}To think you were{W4} so{W4} faithless{W5}{W1}{W1}{W1}{W1}..."
+
+@MIT_KBE:141 MIT 0bef92ab
+"{V6526}{W15}I{W8}...{W105} do not want to see you again..."
+
+@MIT_KBE:142 MIT 24f68329
+"{V6527}{W12}I will speak{W4}{W4} to Father{W1}{W5}{W1},{W45} and have this matter{W6}{W1} called off."
+
+@MIT_KBE:143 MIT 108dd269
+"{V6528}{W12}Goodbye!"
+
+@MIT_KBE:144 MIT 2c9aac65
+"{V0651}{W12}{Nm}..."
+
+@MIT_KBE:145 MIT 4127efe3
+"{V0652}{W12}I{W10}...{W75} I no longer understand you, {Nm}..."
+
+@MIT_KBE:147 MIT 676a6dd6
+"{V0653}{W15}Another{W5} girl{W2}{W5}{W2}{W1}{W1}...{W72} Not even{W6} the{W1} same girl{W4} as the other day..."
+
+@MIT_KBE:148 MIT b87771a2
+"{V0654}{W12}It makes{W5} me{W2} so sad{W1}{W1}...{W45} {Eo}To think you were that kind of person, {Nm}..."
+
+@MIT_KBE:149 MIT 30a01661
+"{V0655}{W8}Any girl{W8} will do{W1}{W1}{W1}{W1}{W4}{W1}{W1}{W1},{W45} {Fe8}and so insincere{W4}{W4}{W1}{W4}{W1}{W1}..."
+
+@MIT_KBE:150 MIT 7ddb4683
+"{V0656}{W15}I{W8}, {W90}I will not see you any more{W1}{W1}.{W75} {F6}I have had{W1} quite{W1} enough{W2} of this{W5} painful{W2} feeling{W5}{W2}{W75}{W2}{W1}{W1}{W1}{W1}."
+
+@MIT_KBE:151 MIT 1df1df19
+"{V0657}{W12}Goodbye!"
+
+@MIT_KBE:152 PLY dd70608e
+"Ah! Shijou!"
+
+@MIT_KBE:153 PLY e0164981
+(I... I'm hopeless. Unable to pick just one, drifting along indecisively all the way to this...)
+
+@MIT_KBE:154 PLY 4de7c50b
+(I... I...)
+
+@MIT_KBE:155 MIT 5dca617a
+"{V0658}{W15}{Nm}..."
+
+@MIT_KBE:156 MIT b2f95a43
+"{V0659}{W10}You do like her, do you not,{W78} that girl{W5} from{W1} a{W5} moment{W1} ago{W1}."
+
+@MIT_KBE:157 MIT 3d475776
+"{V0660}{W12}Before,{W4}{W51} when you went{W3} home{W4} with{W3} her{W4}{W4},{W64}{F6} you should{W4} have been honest{W3} with me{Ti0}{Ti2}..."
+
+@MIT_KBE:158 MIT 6a05f33e
+"{V0633}{W15}I{W8}...{W96} do not like{W4} lies{W4}{W1}..."
+
+@MIT_KBE:159 MIT 5b273905
+"{V6530}{W12}Master{W2}{W4}{W4}..."
+
+@MIT_KBE:160 MIT af1a746e
+"{V6531}{W12}I{W8}...{W72} I no longer understand you, Master{W3}{W4}{W5}..."
+
+@MIT_KBE:161 MIT 3f6704a0
+"{V6523}{W15}A{W5} different{W2} girl{W5}{W2}{W1}{W1}...{W69} a girl different{W8} from the{W1} other{W4} day{W1}{W4}{W1}{W1}{W1}..."
+
+@MIT_KBE:162 MIT 5d281034
+"{V6560}{W12}I am{W4} sad{W1}{W1}...{W74} {Eo}To think you, Master{W2}{W3}{W4}, were that kind of person{W3}..."
+
+@MIT_KBE:163 MIT fe8b6a6d
+"{V6561}{W10}Any girl{W8} will do,{W4}{W44} {Fe8}and so insincere{W3}{W3}{W3}..."
+
+@MIT_KBE:164 MIT b22104ef
+"{V6563}{W12}I will speak{W3}{W3} to Father{W2}{W1}{W5}{W3}{W1},{W73} and have this{W1} matter{W1}{W8} called{W3} off."
+
+@MIT_KBE:165 MIT 5f46e3af
+"{V6564}{W12}Goodbye."

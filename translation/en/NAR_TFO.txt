@@ -1,0 +1,263 @@
+# NAR_TFO -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_TFO:45 NAR 6b5b2647
+"{Nm}{V5051}{W10}...{W3}"
+
+@NAR_TFO:47 PLY ffc9c834
+"Ah! N-Narumi!"
+
+@NAR_TFO:50 NAR fad5b785
+"{V7804}{W10}We had{W5} a promise{W15} to go home together,{W35} so what{M} happened{M}?{W50} {Fe6}{M}I...{W40}{M}waited {M}the {M}whole {M}time, {M}you know{Mc}"
+
+@NAR_TFO:51 PLY cce38622
+"S-sorry, Narumi."
+
+@NAR_TFO:52 PLY b8491b67
+"Well... something urgent came up, so I ended up going over there."
+
+@NAR_TFO:53 PLY d3769963
+"I meant to tell you, Narumi, but I couldn't find you..."
+
+@NAR_TFO:54 NAR 3827983a
+"{V5053}Oh, is that what happened..."
+
+@NAR_TFO:57 NAR 01efc8dc
+"{V5054}If that's{W5} the case, it can't{W2} be helped.{W40} {Fm9}{Ec}I was worried.{W25} {Fm2}{Eo}I thought{W5} something had happened to{W2} you, Senpai..."
+
+@NAR_TFO:58 PLY ababb9b9
+"Sorry for making you worry..."
+
+@NAR_TFO:60 NAR 3b0d3ddc
+"{V5055}No,{W10} it's all right.{W35} Well then, I'll be going now."
+
+@NAR_TFO:61 PLY fccf9db2
+"Yeah... see you."
+
+@NAR_TFO:65 PLY 870f0120
+(This isn't right, I can't keep doing this...)
+
+@NAR_TFO:66 NAR 180dbd91
+"{V0671}{Nm}..."
+
+@NAR_TFO:68 NAR 6a492019
+"{V7803}{W10}You{W5} promised{W20} to go home {M}with {M}me, and yet...{W60} {Eo}{M}you're {M}going {M}home {M}with another girl...{Mc}"
+
+@NAR_TFO:69 PLY 76751336
+"I'm sorry, Narumi..."
+
+@NAR_TFO:70 PLY 563e6a69
+"Well... I forgot the promise I made with you, Narumi..."
+
+@NAR_TFO:71 NAR 083c0059
+"{V0673}How{W2}{W2} could{W2}{W2} you...{W80} {Ec}that's{W5} cruel..."
+
+@NAR_TFO:72 PLY c16f29ce
+"Yeah... I have no excuse."
+
+@NAR_TFO:73 NAR 7f1e9231
+"{V0674}I...{W50} went home alone,{W50} {Fe9}{Ec}and I felt so lonely..."
+
+@NAR_TFO:74 PLY 4b7b99be
+"I'm sorry... I'm really sorry..."
+
+@NAR_TFO:75 PLY c454573f
+"Narumi, I'll never do something like that again. So please, forgive me just this once..."
+
+@NAR_TFO:76 NAR dc4db0f8
+"{V0675}......"
+
+@NAR_TFO:77 NAR 972e3294
+"{V0676}...Really?"
+
+@NAR_TFO:78 PLY c4b40d8c
+"Really! I swear!"
+
+@NAR_TFO:79 NAR 491ce080
+"{V0677}...Then,{W30} I'll forgive you.{W50} {Fe6}Even I{W22} forget promises{W7} sometimes, you{W5} know."
+
+@NAR_TFO:80 PLY 5e151efc
+"Thank you, Narumi."
+
+@NAR_TFO:81 NAR 8eebe4fc
+"{V0130}{W12}I'll{W6} be going{W9} now..."
+
+@NAR_TFO:82 SYS 7b821506
+...And so, Narumi forgave me.
+
+@NAR_TFO:83 SYS 7b9b407d
+I'm an idiot, promising to go home with two girls...
+
+@NAR_TFO:84 NAR 45c34dd9
+"{V0607}{Nm}..."
+
+@NAR_TFO:85 NAR aabff156
+"{V0608}So the{W5} other day...{W65} I wasn't seeing{W5} things, was I."
+
+@NAR_TFO:88 NAR 64029399
+"{V0609}Oh, come on.{W53} Besides{W2} me,{W50} you have someone else{W5} you like, don't you?"
+
+@NAR_TFO:89 PLY 6b410038
+"Ugh..."
+
+@NAR_TFO:91 NAR d2c75004
+"{V0681}If you want{W5} to go home with{W3} Hoshino that badly, {W27}{F8}you shouldn't have made plans{W3} with someone like me!"
+
+@NAR_TFO:93 NAR 20684d0a
+"{V0682}Hoshino is{W3} beautiful,{W33} and kind,{W63} {Fe9}{Ec}and so attentive...{W35} {Fe9}{Eo}and besides,{W23} she's in{W2} your class."
+
+@NAR_TFO:95 NAR 964f426b
+"{V0683}I don't stand a chance against her..."
+
+@NAR_TFO:96 NAR a155a2da
+"{V0684}That{W5} person,{W35} she's the one who's often in the library, right?{W60} Beautiful,{W30} kind,{W40} {Ec}so attentive..."
+
+@NAR_TFO:98 NAR dcc796e2
+"{V0685}If you want to go home with her that badly,{W50} {F8}you shouldn't have made plans with{Ti0} someone like{Ti1} me!{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}"
+
+@NAR_TFO:99 NAR e17c829e
+"{V0686}{W10}I...{W70} don't stand a chance..."
+
+@NAR_TFO:100 NAR c1f8ab4f
+"{V0687}That person,{W43} she's the famous beauty,{W33} Mizusawa,{W3}{W3} right?"
+
+@NAR_TFO:101 NAR 5c92c5e8
+"{V0688}If you can go home with someone that beautiful,{W45} {Fm6}{Eo}you shouldn't have{W3} made plans with someone{W3} like me!"
+
+@NAR_TFO:102 NAR 33ae867e
+"{V0689}I...{W60} don't stand{W3} a chance."
+
+@NAR_TFO:103 NAR 4107186f
+"{V0690}If you{W30} want to go home{W2} with Asuka that badly,{W50} {F8}you shouldn't have made plans{W2} with someone like me!"
+
+@NAR_TFO:104 NAR c99b1725
+"{V0691}Asuka is{W30} someone even I admire,{W10} a wonderful person.{W65} {F6}Me...{W65} {Fe9}{Ec}I don't stand a chance."
+
+@NAR_TFO:105 NAR 1074adad
+"{V0692}That person,{W53} she's the{W3} one famous for being{W8} so smart,{W38} Futami,{W2}{W3} right?"
+
+@NAR_TFO:106 NAR 00c07cb1
+"{V0693}And on top of that,{W40} she's beautiful,{W40} {Eo}and tall, too..."
+
+@NAR_TFO:107 NAR 8c482536
+"{V0694}If you can go home with someone like that,{W28} {Fe9}you shouldn't have{W5} made plans with someone{W2} like me!"
+
+@NAR_TFO:108 NAR a98e1a2f
+"{V0695}I...{W60} don't stand{W5} a chance."
+
+@NAR_TFO:109 NAR 6d9a14fa
+"{V0696}That{W5} person...{W50} she's the famous{W5} young lady,{W35} Shijou,{W3}{W2} right?"
+
+@NAR_TFO:110 NAR 7f681776
+"{V0697}And on top of that,{W40} she's so beautiful,{W25} {Eo}and so graceful..."
+
+@NAR_TFO:111 NAR 34c1cf56
+"{V0698}If you can go home with someone like that,{W20} {Fe9}{Ec}you shouldn't have made plans with someone like me!"
+
+@NAR_TFO:112 NAR 695a3c05
+"{V6051}That{W5} person,{W52} she's on the Discipline Committee,{W32} Kuryuu,{W5}{W5} right?"
+
+@NAR_TFO:113 NAR 60f8bc22
+"{V6052}She's beautiful,{W20} responsible,{W55} {Eo}and a very dependable person..."
+
+@NAR_TFO:114 NAR 26c6b5a6
+"{V6053}If you can go home with someone like that,{W35} {Ec}you shouldn't have made plans with someone like me!{Ec}"
+
+@NAR_TFO:115 PLY 65928068
+"Narumi..."
+
+@NAR_TFO:116 NAR 763b71be
+"{V0699}What a fool...{W45} me.{W68} I got so excited about{W2} going home with you,{W20} Senpai..."
+
+@NAR_TFO:117 PLY f20df96b
+"Narumi, I'm sorry... I..."
+
+@NAR_TFO:119 NAR dda6d7b1
+"{V700}Don't say anything more!"
+
+@NAR_TFO:120 NAR 0ddce20c
+"{V701}I don't want to hear anything more!{W40} {Fm6}{Eo}As for{W3} you, Senpai,{W30} {Ec}I utterly hate{Eo} you!"
+
+@NAR_TFO:121 NAR 876783cf
+"{V702}Never again...{W40} I'll never see you again!{W65} {Ec}Don't talk to{W2} me anymore!"
+
+@NAR_TFO:122 NAR 1a3ad6cb
+"{V0703}Goodbye!"
+
+@NAR_TFO:123 PLY 611e024a
+"Ah... Narumi...!"
+
+@NAR_TFO:124 PLY 471fac2d
+(...I... I did something I can't take back...)
+
+@NAR_TFO:125 PLY e8f435cb
+(Narumi... I'm sorry...)
+
+@NAR_TFO:126 NAR 03ad7b40
+"{V0712}{Nm}...{W5}"
+
+@NAR_TFO:127 NAR d66c4549
+"{V0713}So the{W5} other day...{W50} I wasn't {Eo}seeing things, was I."
+
+@NAR_TFO:128 NAR 254e5be2
+"{V0714}That's cruel,{W12} Senpai.{W93} I can't{W10} {Ec}trust anything anymore."
+
+@NAR_TFO:129 NAR 6d20ba4f
+"{V0715}Because,{W35} she's a different girl from the other day.{W60} {Fe9}How many girls like me{W30} are there,{W5} exactly?"
+
+@NAR_TFO:130 PLY e6805060
+"Narumi... that's..."
+
+@NAR_TFO:131 NAR 79dacfee
+"{V0716}Don't say{W5} anything!"
+
+@NAR_TFO:132 NAR 670a76f1
+"{V0717}You,{W2} Senpai...{W50} you,{W2} Senpai,{W50} {F6}{Ec}I utterly{W2} hate you..."
+
+@NAR_TFO:133 NAR 548ce95b
+"{V0718}Goodbye!{W40} {Fe9m6}Don't ever{W5} talk to{W3} me again!"
+
+@NAR_TFO:134 PLY 5baf6bc0
+"Ah{!} Narumi!"
+
+@NAR_TFO:135 PLY e0164981
+(I... I... I'm hopeless. I couldn't choose just one, and I let things drag on indecisively until it came to this...)
+
+@NAR_TFO:136 PLY 4de7c50b
+(I... I...)
+
+@NAR_TFO:137 NAR 0d852825
+"{V0637}{Nm}..."
+
+@NAR_TFO:138 NAR e85ddd2c
+"{V0638}Surely{W40} you're not going to{W10} say{W1} you{W1} forgot{W2} our{W3} promise{W40} {Fe9}{Ec}as an excuse,{W3} are you?"
+
+@NAR_TFO:139 NAR 1bc97577
+"{V0704}{Nm}..."
+
+@NAR_TFO:140 NAR 2737ede2
+"{V0705}Surely{W40} you're not going to{W10} say you forgot our promise{W30} {Eo}as an excuse{w}{2}, are you?"
+
+@NAR_TFO:141 NAR 60505d2a
+"{V0706}That's{W3}{W2} cruel,{W10} Senpai.{W63} {Ec}I can't{W3} trust anything{W3} anymore."
+
+@NAR_TFO:142 NAR ceb8b360
+"{V0707}Because,{W20} she's not the one you walked home with the other day.{W18} She's a different girl!"
+
+@NAR_TFO:143 NAR cfab9397
+"{V0708}How many{W2} girls like{W3} me{W73} are{W3} there, {Eo}exactly?{W2}"
+
+@NAR_TFO:144 NAR 67e59b5e
+"{V0709}Don't say anything!"
+
+@NAR_TFO:145 NAR 3b048278
+"{V0710}You, Senpai...{W62} you, Senpai,{W43} {F6}{Ec}I utterly hate you..."
+
+@NAR_TFO:146 NAR 9e1a7174
+"{V0711}Goodbye!{W50} {Fe9m6}Don't ever talk to me again!"
+
+@NAR_TFO:147 PLY 7dae436f
+"Ah! Narumi!"
+
+@NAR_TFO:148 PLY 3cb8dc65
+(Narumi... I'm sorry...)

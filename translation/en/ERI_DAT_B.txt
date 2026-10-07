@@ -1,0 +1,491 @@
+# ERI_DAT_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_DAT_B:49 ERI 5a54cb3e
+"{V0942}{W9}It's{W4} quite{W2} dark.{W45} You{W1} can't{W1} see{W39} your{W4} step{W4}.{W4}{W2}{W2}"
+
+@ERI_DAT_B:51 PLY 511b320d
+"Y-yeah, you're right."
+
+@ERI_DAT_B:53 ERI 82727c23
+"{V0943}{Fe4m3}{W5}Scared?{W8} {Nm}.{W4}"
+
+@ERI_DAT_B:54 PLY 91e3a6c3
+"No, not at all. What about you, Futami?"
+
+@ERI_DAT_B:55 ERI 61b3411b
+"{V0944}{F4}{Ec}{W8}Not{W4} scared{W4} at{W5} all.{W30}{Eh} This{W1} is{W3} just{W4} dark,{W1} nothing{W1} more.{W1}"
+
+@ERI_DAT_B:56 ERI 1ffa4c4a
+"{V0945}{Fe9m3}{W8}I'm{W4} used to the dark{W30} from{W1} the{W4} Science{W3} Prep{W3} Room."
+
+@ERI_DAT_B:57 PLY 65dcbc6e
+"Hahaha, in a way, the Science Prep Room might be scarier."
+
+@ERI_DAT_B:62 ERI 03c36ca0
+"{V0946}{W8}Why is that?"
+
+@ERI_DAT_B:66 PLY 9d674b2f
+"N-no, well, that's..."
+
+@ERI_DAT_B:67 PLY 12d4d8cb
+(I can't tell her you never know what Futami is experimenting on...)
+
+@ERI_DAT_B:70 SYS ba5648d3
+{Ti0}{Ti2}{Ts1}{As1}{b0}Kyaaaaaaaah!{As0}{b0}
+
+@ERI_DAT_B:72 PLY 802febcd
+"Futami! Look! A scream!"
+
+@ERI_DAT_B:73 ERI c22f963e
+"{V0947}{W8}{F4}{Ec}I see."
+
+@ERI_DAT_B:74 PLY 2455aebf
+"...What a flat reaction."
+
+@ERI_DAT_B:75 ERI 3ace179b
+"{V0948}{F3}{W8}Heh,{W5}{W3}{W30}{Fe9m3}{Eh} there are{W1} people{W1} who{W4} get{W1} scared{W1} even{W4} by this."
+
+@ERI_DAT_B:76 PLY 7d1fdd4c
+"Hahaha... yeah."
+
+@ERI_DAT_B:77 PLY 97b1433b
+(It'd be more fun if she got scared and played along...)
+
+@ERI_DAT_B:78 SYS 2bc1dcc4
+Is it you who came to steal my treasure~~
+
+@ERI_DAT_B:79 PLY 59943478
+"......?"
+
+@ERI_DAT_B:89 SYS 2df113e7
+{As1}{b15}Is it you who came to steal my treasure~{As0}{b0}~
+
+@ERI_DAT_B:91 PLY 276d6b1a
+"F-Futami, the Pharaoh found us!"
+
+@ERI_DAT_B:92 ERI 639bea28
+"{V0949}{Fe9m3}{W8}So{W2} it{W1} seems."
+
+@ERI_DAT_B:93 SYS b16c2a4a
+{As1}{b61}Is it you who came to steal my treasure~~{As0}{b0}!
+
+@ERI_DAT_B:94 PLY 48b1f1c2
+(All right! Let's liven this up!)
+
+@ERI_DAT_B:95 PLY 5e4c0b3a
+"Futami, we're in trouble if we're caught! Let's run!"
+
+@ERI_DAT_B:96 ERI 8fad0827
+"{V0950}{W8}{Eo}{F4}Huh?"
+
+@ERI_DAT_B:98 PLY 2334658c
+"Come on, hold my hand!"
+
+@ERI_DAT_B:99 ERI 5b387b70
+"{V0951}{F3}{Ec}{W8}Heh,{W3}{W3} {W24}all{W1} right.{W1}"
+
+@ERI_DAT_B:100 ERI 976ab5ec
+"{V0952}{W8}Wait a moment."
+
+@ERI_DAT_B:101 PLY 81972720
+"Huh? Hurry! Quick!"
+
+@ERI_DAT_B:102 ERI 86462567
+"{V0953}{Ts1}...{W3}His{W4}...{W90} All right?"
+
+@ERI_DAT_B:103 ERI 99e04151
+"{V0954}{W10}Sorry to keep you waiting.{W30} Let's go."
+
+@ERI_DAT_B:105 PLY 58072f82
+"Okay! Run~~!"
+
+@ERI_DAT_B:106 ERI 193a1b14
+"{V0955}{W5}Hehe{W3}{W3}{W3}{W3}"
+
+@ERI_DAT_B:112 PLY 198757cf
+"Huff, huff... We should be safe here."
+
+@ERI_DAT_B:114 ERI bb4a5a67
+"{V0956}{W8}Fufu,{W5}{W3}{W3} {W33}is{W3} that{W5} so{W1}?{W1}{W1}"
+
+@ERI_DAT_B:115 PLY 122df4f6
+"Huh?"
+
+@ERI_DAT_B:116 ERI edce71e4
+"{V0957}{W8}{Nm},{W30} try turning around."
+
+@ERI_DAT_B:129 SYS 657a79f2
+{As1}{b1}{Ti0}{Ti2}{Ts3}Wo{As1}{b15}ooooh{W8}~{As1}{b153}{W60}~n{As0}{b0}!
+
+@ERI_DAT_B:131 PLY 62f085c0
+"Waaaaaaah!!"
+
+@ERI_DAT_B:140 ERI 1a52aaf1
+"{V0958}{W8}Hehe,{W30} where are you taking the Pharaoh?"
+
+@ERI_DAT_B:141 PLY a87f838c
+"Waaah! Let go! Let go of my hand!"
+
+@ERI_DAT_B:142 ERI 0914ffeb
+"{V0959}{W8}Fufu,{W5}{W3}{W30} he{W1} seems{W1} to{W1} like{W1} you.{W1}{W1}{W1}{W30} Doesn't{W2} he{W1} want you{W2} near him?"
+
+@ERI_DAT_B:143 PLY ae270ed2
+"Waaah! No, thanks!"
+
+@ERI_DAT_B:150 ERI 5f3ecbeb
+"{V0960}{W8}Mistaking{W15} my{W3} hand{W3} for{W3} {W21}that bandaged{W4} one,{W4}{W4} you{W1} should{W1} reflect{W1} {W1}on{W3} that{W30} here{W3} for{W1} a while."
+
+@ERI_DAT_B:151 PLY 475c4814
+"That's not fair, I've never properly held your hand, Futami!"
+
+@ERI_DAT_B:152 PLY 13cfcef5
+"I can't say it's a lot rougher than I expected, and it's hard to ask whether you hurt your hand..."
+
+@ERI_DAT_B:156 PLY 6617146b
+(11:20. Just about right.)
+
+@ERI_DAT_B:158 PLY e3b6b378
+"Ah, Futami."
+
+@ERI_DAT_B:159 ERI b6f4f52d
+"{V0915}{W8}{Fm4}Right{W3} on{W4} time.{W32}{Fe9m3} Did I keep you{W23} waiting?"
+
+@ERI_DAT_B:160 PLY a3ec15aa
+"No, I just got here too."
+
+@ERI_DAT_B:161 ERI 16550058
+"{V0916}{W12}I see.{W30} {Fm3}Good{W1}."
+
+@ERI_DAT_B:162 PLY fd30e69a
+"So, shall we head in?"
+
+@ERI_DAT_B:163 ERI 483799e1
+"{V0917}{W8}{Ec}{F2}Yes."
+
+@ERI_DAT_B:165 SYS 0a5cf6fe
+And so we headed to the amusement park.
+
+@ERI_DAT_B:167 ERI 56080676
+"{V0918}{W12}How{W1} strange{W1}..."
+
+@ERI_DAT_B:168 PLY 67a22cf2
+"What is?"
+
+@ERI_DAT_B:169 ERI c693494d
+"{V0919}{W8}{Fm3}I{W9}...{W60}am{W1} excited."
+
+@ERI_DAT_B:170 ERI d1b68412
+"{V0920}{W8}{Fm4}I've{W1} never{W1} been here,{W42} {Fm3}yet just standing at the entrance{W3}{W12} excites me...{W1} {W45}{Fe6m4}{Ec}How{W1} strange{W1}."
+
+@ERI_DAT_B:171 PLY 06c88e5e
+"Hahaha, that's what amusement parks are like. Come on, let's go!"
+
+@ERI_DAT_B:172 ERI 0bc20c24
+"{V0921}{W8}{Ec}{F2}Yes."
+
+@ERI_DAT_B:173 PLY 678aef5f
+"Futami, what first? The roller coaster? The Ferris wheel? The merry-go-round?"
+
+@ERI_DAT_B:174 ERI d735e0fa
+"{V0922}{W8}{Fe7m4}Let{W3} me{W3} see..."
+
+@ERI_DAT_B:176 ERI 91180314
+"{V0923}{W8}I'd like{W1} to try{W1} the roller coaster."
+
+@ERI_DAT_B:177 PLY f6dd1d26
+"Okay. It's over there."
+
+@ERI_DAT_B:178 SYS 33d74b3b
+...And so Futami and I rode the roller coaster.
+
+@ERI_DAT_B:179 SYS 040856d6
+Vrooooooom!
+
+@ERI_DAT_B:180 ERI f94dc1fa
+"{V0924}{W8}Kyaaaaah!"
+
+@ERI_DAT_B:181 PLY 0c5a4e4e
+"How was it?"
+
+@ERI_DAT_B:182 ERI 9d4d6d2b
+"{V0925}{W5}{Ec}Ah{W12}ha{W8}ha{W8}ha{W8}ha,{W33}{Eo} that{W5} was{W12} really{W4} fun."
+
+@ERI_DAT_B:183 ERI 7066d3d7
+"{V0926}{W8}The drops{W6}{W1}{W6} {W3}{Fm3}are{W10} so{W1} intense{W5}{W6}.{W1}{W1}{W2}"
+
+@ERI_DAT_B:184 ERI 3702510a
+"{V0927}{W8}{E}{Fe9}I{W2} haven't screamed like that{W5} in{W45} {E}{Fe2}a{W3} very{W3} long{W1} time.{W3}{W1}{W1}"
+
+@ERI_DAT_B:185 PLY 38b1af43
+"Hahaha, I'm glad."
+
+@ERI_DAT_B:186 ERI 85732f19
+"{V0928}{W8}{Ec}Yes."
+
+@ERI_DAT_B:187 PLY 2bb5b39d
+"What should we ride next?"
+
+@ERI_DAT_B:189 ERI a1fe2392
+"{V0929}{W8}Let{W5} me{W8} see{W5}...{W57} {F3}I want{W1} to ride{W1} the merry-go-round{W4}.{W1}{W1}{W1}{W1}"
+
+@ERI_DAT_B:190 PLY f9ab00c5
+"The merry-go-round, huh... It's pretty embarrassing for a guy to ride it."
+
+@ERI_DAT_B:191 ERI cefeea20
+"{V0930}{W8}Fufu,{W5}{W3}{W27} {Eh}{Fe9}is that so?"
+
+@ERI_DAT_B:192 ERI 529aff46
+"{V0931}{W8}When{W5} I{W1} was{W1} little,{W1}{W30} the thing{W4} I{W4} most wanted to ride{W23} {Fm3}was the merry-go-round.{W1}"
+
+@ERI_DAT_B:193 PLY 5cf5173c
+"Oh, really?"
+
+@ERI_DAT_B:195 ERI dc9ec200
+"{V0932}{W10}You{W6} ride{W4} a white horse{W21} or{W5} swan{W6} {W2}and{W2} go{W1} round{W3} and{W1} round,{W27} right?{W45} {Ec}Just{W1} like{W1} a{W1} fairy{W1} tale{W1} land{W5}.{W2}.{W2}."
+
+@ERI_DAT_B:196 PLY 15ceb343
+"...If that's the case, let's ride it together!"
+
+@ERI_DAT_B:197 ERI 4514d455
+"{V0933}{W8}{Eo}{F4}Really?"
+
+@ERI_DAT_B:198 PLY b81065be
+"Of course."
+
+@ERI_DAT_B:199 SYS 4e95a454
+...And so Futami and I rode the merry-go-round.
+
+@ERI_DAT_B:200 SYS f2fc474c
+Futami sat on a white horse, her eyes sparkling like a child's.
+
+@ERI_DAT_B:201 SYS 0b9102a1
+This alone made coming to the amusement park worth it...
+
+@ERI_DAT_B:202 ERI d2254482
+"{V0934}{W8}{Ec}Fufu,{W5}{W3}{W30} that{W3} was{W2} fun{W1}.{W1}"
+
+@ERI_DAT_B:203 PLY 9044e021
+"I'm glad, Futami."
+
+@ERI_DAT_B:204 ERI f1f2f35e
+"{V0935}{W12}{Eo}{F4}Oh?{W30} {Nm}{W3},{W36} what is{W4} that?"
+
+@ERI_DAT_B:205 ERI 3c779c75
+"{V0936}{W8}Look,{W33} {F3}that{W2}{W2} building{W5}.{W5}"
+
+@ERI_DAT_B:206 PLY b88b505b
+"...Oh, that? Want to go see?"
+
+@ERI_DAT_B:207 ERI 260d8e1d
+"{V0937}{W8}Yes."
+
+@ERI_DAT_B:208 ERI 6e70b415
+"{V0938}{W12}Mys{W3}ter{W2}y{W3} of{W4} Egypt{W4}...{W9}? {F4}{W57}Ah,{W41} is this{W33} {Fe9m3}a hor{W1}ror{W2} house?"
+
+@ERI_DAT_B:209 PLY e3f8be68
+"Yeah, it is."
+
+@ERI_DAT_B:210 PLY b3b11155
+"Want to go in?"
+
+@ERI_DAT_B:211 ERI 40b08884
+"{V0939}{W8}{Eh}I{W2} will{W2} pass."
+
+@ERI_DAT_B:212 PLY 9379e1ce
+"Why? Because you're scared?"
+
+@ERI_DAT_B:213 ERI da352fd5
+"{V0940}{W12}{Ec}{F4}Hard{W3}ly.{W30} Something{W3} this{W4} childish{W3} could not{W9} {Fm3}scare{W2} me."
+
+@ERI_DAT_B:214 PLY 47c12fdc
+"I wonder about that."
+
+@ERI_DAT_B:216 PLY db2febe0
+"They're well made these days. It's always the people who say they're not scared who end up screaming."
+
+@ERI_DAT_B:217 ERI e4fc9396
+"{V0941}{W8}{F3}Shall we{W5} test it?{W36} {Fe8}The{W4} one{W4} who screams{W30} will be you,{W3} {Nm}."
+
+@ERI_DAT_B:218 PLY 25ecd2e1
+"Fine. Let's see who gets scared first!"
+
+@ERI_DAT_B:219 SYS a12f389e
+And so Futami and I went into the Mystery of Egypt.
+
+@ERI_DAT_B:221 PLY 268a0a9a
+"Phew... That was awful."
+
+@ERI_DAT_B:222 ERI d2ed4658
+"{V0962}{W8}Fufu,{W30} {Fm4}I{W5} win{W2} the{W2} contest{W10}.{W2}{W3}{W2}{Fm3}"
+
+@ERI_DAT_B:223 PLY 4e97e5bf
+"No, that wasn't scary so much as startling..."
+
+@ERI_DAT_B:225 ERI 86cae2be
+"{V0963}{W8}Hehe,{W4}{W4}{W4}{W39} {Eo}you{W1} screamed{W1} so{W1} much{W1} it{W1} was{W1} embarrass{W1}ing.{W4}{W6}{W1}"
+
+@ERI_DAT_B:226 PLY 223ece24
+"Hahaha... I lose, then..."
+
+@ERI_DAT_B:227 ERI bc796e26
+"{Nm},{V0964}{W8} thank you for today.{W33} I{W1} had a great{W4} time{W1}.{W1}"
+
+@ERI_DAT_B:228 PLY bfa4e09a
+"Yeah, me too."
+
+@ERI_DAT_B:229 PLY 72a0db88
+(I want to be with Futami a little longer...)
+
+@ERI_DAT_B:230 PLY adb2ade6
+"...Futami, want to stop by somewhere quiet?"
+
+@ERI_DAT_B:232 ERI 4561be87
+"{V0965}{W12}Somewhere{W6} quiet{W3}?{W3}{W12}"
+
+@ERI_DAT_B:233 PLY dc533d9d
+"Let's see... how about Hilltop Park?"
+
+@ERI_DAT_B:234 ERI 26ddb74f
+"{V0966}{W10}That's fine."
+
+@ERI_DAT_B:235 SYS c4b718f7
+...And so we headed to Hilltop Park.
+
+@ERI_DAT_B:240 PLY 2ca64493
+"Futami..."
+
+@ERI_DAT_B:241 ERI 69185694
+"{V0967}{W5}{Eo}{F3}What{W5}?"
+
+@ERI_DAT_B:242 PLY 30296049
+"You're going on to college, of course, right?"
+
+@ERI_DAT_B:243 ERI 7ae5b65c
+"{V0968}{W9}{Fe6}Yes."
+
+@ERI_DAT_B:244 PLY 80f57a2b
+"Where to? One of the top universities?"
+
+@ERI_DAT_B:245 ERI 281cf28d
+"{V0969}{W8}{Fe4}{Ec}I have not decided."
+
+@ERI_DAT_B:246 PLY d9372ba1
+"Why not?"
+
+@ERI_DAT_B:247 ERI 8bae1680
+"{V0970}{W9}{Eh}{Fm1}Do you want to know?"
+
+@ERI_DAT_B:248 PLY 4278876f
+"Yes. If you don't mind..."
+
+@ERI_DAT_B:249 ERI 542a3539
+"{V0971}{W9}{Eh}{Fe6m1}When I{W8} was{W42} in{W2} middle{W4} school,{W4}{W43} I{W2} put a physics{W3} paper{W2} {W2}{W26}online."
+
+@ERI_DAT_B:250 PLY 939da94c
+"Huh? A paper?"
+
+@ERI_DAT_B:251 ERI 2cbe40cc
+"{V0972}{W8}{F3}Yes.{W1}{W45} {Ec}{Fe6}It{W8} was just a summary{W5} of things I had noticed, but{W45} {Fe9}{Eh}it{W1} was{W1} un{W1}expect{W1}edly{W5} well{W1} received{W5}.{W5}"
+
+@ERI_DAT_B:252 ERI a0d8528f
+"{V0973}{W8}Researchers{W5} at{W1} various{W1} universities{W5} and{W4} companies{W30} began{W1} inviting{W5} me{W1}{W4}{W5}{W4}{W1}{W15} to speak.{W3}{W2}"
+
+@ERI_DAT_B:253 PLY 4376d628
+"W-wow..."
+
+@ERI_DAT_B:254 ERI 8c9a3d89
+"{V0974}{W8}Heh,{W5}{W3}{W30} {Eo}they{W12} were{W5} all{W5} shocked{W5} when{W2} they{W2} learned{W5} I{W5} was{W27} in middle school.{W1}{W1}{W1}{W9}{W1}{W1}{W1}"
+
+@ERI_DAT_B:255 PLY c7dc7ea0
+"I bet."
+
+@ERI_DAT_B:256 ERI 7beeff08
+"{V0975}{Fe6m4}{W5}So{W8}..."
+
+@ERI_DAT_B:257 ERI 73257b5d
+"{V0976}{W5}I'll{W3} keep{W3} studying{W3} at{W3} universities{W4} and{W5} institutes{W27} worldwide{W4}{W5}{W45} for{W2} life.{W4}{W3}{W4}{W3}{W4}{W4}{W50} {Fe1}I{W3} just{W3} haven't picked{W18} where to start."
+
+@ERI_DAT_B:258 PLY 0d80b9d5
+"......"
+
+@ERI_DAT_B:259 ERI 960b3afb
+"{V0977}{W9}{Fe3m4}I've told this{W9} to no one else.{W33} {Ec}{Fm3}You're the{W1} first, {Nm}{W3}{W1}{W4}{W1}{W1}."
+
+@ERI_DAT_B:260 PLY 13303ddd
+"Futami, you're..."
+
+@ERI_DAT_B:261 ERI ce8de633
+"{V0978}{W8}{Eo}{F4}Yes?"
+
+@ERI_DAT_B:262 PLY b460a6b2
+"I keep realizing it again, but you're ridiculously smart."
+
+@ERI_DAT_B:263 ERI f8324e58
+"{V0979}{W8}{Ec}{F3}Heh,{W5}{W3}{W30} {Eh}but{W2} to{W2} make{W1} up{W1} for it,{W42} {Fe9}you're{W4} taste-{W2}deaf, aren't you?{W1}"
+
+@ERI_DAT_B:264 PLY 04733997
+"Hahahaha."
+
+@ERI_DAT_B:265 ERI 864ae55e
+"{V0980}{W8}Fufu.{W5}{W3}"
+
+@ERI_DAT_B:266 ERI b207122d
+"{V0981}{W9}Thanks to you,{W34} every{W4} day{W4} is{W4} fun.{W62} I'm glad I came{W3} to{W4} Kibina High School..."
+
+@ERI_DAT_B:267 ERI 2b0a7f84
+"{V0982}{Fm4}{W10}If{W1} I{W1} had{W1} not{W2} met{W2} you,{W2}{W2}{W3}{W3} {W57}I{W4} do{W5} not{W3} think{W2} I{W1} would have thought about the{W3} future.{W45} {Ec}{F6}{W6}"
+
+@ERI_DAT_B:269 ERI 381204b6
+"{V0983}{W5}...{W3}..."
+
+@ERI_DAT_B:270 ERI e8d430d0
+"{V0984}{W8}{B60}{Eo}I{W8}...{W90} may be in love with you,{W3} {Nm}...{W60} {Fe9m6}"
+
+@ERI_DAT_B:271 PLY 21e4acd1
+"What?!"
+
+@ERI_DAT_B:272 ERI f9c550e8
+"{V0985}{W8}{Eh}{F6}I{W1} do{W1} not{W55} really know what love feels like,{W42} but..."
+
+@ERI_DAT_B:273 ERI 28fa7be2
+"{V0986}{W12}{B40}When{W3} I{W5} think{W2} that{W1} we{W45} might not see{W1} each{W1} other{W1} after{W3} graduation...{W75} {Ec}{Fm8}my{W4} chest{W21} hurts{W4}.{W1}{W1}{W1}"
+
+@ERI_DAT_B:274 ERI a7542b97
+"{V0987}{W8}{B100}{Eh}{Fe6m7}This{W1} must{W60} be{F3} love, I{W3} think."
+
+@ERI_DAT_B:275 PLY c13194cd
+"You won't be able to see me?"
+
+@ERI_DAT_B:276 ERI 65d45347
+"{V0988}{W10}{Eo}{Fe6m8}If I{W8} go to{W4} a{W4} university{W45}{Eh} abroad,{W36}{Fm6} that{W4} is{W4} how{W1} it{W1} will be."
+
+@ERI_DAT_B:277 PLY 634f9920
+"Ah..."
+
+@ERI_DAT_B:278 PLY 2ab78297
+"Right, that's true..."
+
+@ERI_DAT_B:279 ERI c5826273
+"{V0989}{W10}I never{W10} thought{W90} I would{W3}{W2}{W1}{W1}{W2}{W2} fall for{W1} anyone,{W34}{Fm3} so{W8}{W4}{W1}{W1}{W1}{W48} {Ec}I'm{W1} really{W4}{W3}{W3}{W1}{W1}{W2} happy."
+
+@ERI_DAT_B:280 PLY edf29ed4
+"I'm a little surprised that you like me, Futami."
+
+@ERI_DAT_B:281 ERI 203b94f7
+"{V0990}{W8}{Eo}{Fe9m4}Why?"
+
+@ERI_DAT_B:282 PLY d5919207
+"Well... I'm just an ordinary, average guy with no real talents. And you're so smart, Futami. You're special..."
+
+@ERI_DAT_B:284 ERI f46b84c9
+"{V0991}{W8}To{W10} me,{W3}{W1}{W3}{W75} {Nm}...{W3}"
+
+@ERI_DAT_B:285 ERI b98d6b5b
+"{V0992}{W12}{Fm4}{Eh}To{W12} me,{W4}{W3}{W75} {Nm}{W4} is...{W96}{Fm3} a{W2} very{W2}{W2}{W12} warm{W1}{W1} person{W4}...{W96} {Ec}{Fe6m3}Someone{W9} who{W45} gave{W12}{W2} me{W2}{W1} warmth{W2}{W2}{W2}{W4}...{W24}{P6}{Fe6m3}{W45} You're{W3} no{W3} ordinary person."
+
+@ERI_DAT_B:289 SYS 2bc70949
+...And so I spent the day with Futami.
+
+@ERI_DAT_B:291 SYS e0fb995f
+There's only one.

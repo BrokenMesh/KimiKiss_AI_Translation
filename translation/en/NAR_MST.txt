@@ -1,0 +1,176 @@
+# NAR_MST -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_MST:15 - 961bdeb8
+Protagonist's remaining cards in hand:
+
+@NAR_MST:27 PLY 908097a9
+(Ah... that's Narumi over there)
+
+@NAR_MST:30.1 - c59be67b
+{Ti0}- Talk to Narumi／- Don't talk to her now
+
+@NAR_MST:31 PLY b341bdee
+"Narumi, got a minute?"
+
+@NAR_MST:47 NAR fcc728bb
+"{V1387}Oh,{W10} {Nm}!{W60} Yes! What is it?"
+
+@NAR_MST:51 NAR 55f5ea9a
+"{V1388}{W10}Ah{W5}...{W5} {Nm}.{W15} I'm sorry,{W20} {F6}right now{W10} isn't a good time..."
+
+@NAR_MST:52 PLY 876a2929
+"I see..."
+
+@NAR_MST:53 NAR 239cccbc
+"{V1389}{W10}I'm sorry.{W15} I'll be going now."
+
+@NAR_MST:55 NAR 97cfe99f
+"{V1390}Ah...{W5} {Nm}.{W25} {F6}I'd{W3} love{W3} to{W2} talk{W2} with{W2} you,{W2} but{W2}{W25} {F9}I have to change..."
+
+@NAR_MST:56 PLY 30f96b02
+"I see. ...Then see you later."
+
+@NAR_MST:58 NAR 528a7801
+"{V1391}{W10}Yes.{W20} {Ti1}I'll be going now."
+
+@NAR_MST:59 PLY fd57ef20
+(I'll talk to Narumi another time, then...)
+
+@NAR_MST:71 NAR 074a5276
+"{V1392}Oh,{W25} {Nm}!{W50} Right now,{W30} do you have a minute?"
+
+@NAR_MST:72.1 - ebc8ac86
+{Ti0}- Yeah, sure／- Sorry, I can't right now
+
+@NAR_MST:74 PLY cf543578
+"Yeah, sure."
+
+@NAR_MST:77 NAR 79aedd14
+"{V1393}{W5}Ehehe,{W2}{W2}{W25} {Eo}I'm so glad~"
+
+@NAR_MST:78 PLY 66aff371
+"Sorry, I can't right now."
+
+@NAR_MST:82 NAR b7b41899
+"{V1394}{W20}Oh, I see...{W20} That's a shame."
+
+@NAR_MST:83 PLY 54d0b473
+"Another time, Narumi."
+
+@NAR_MST:84 NAR ab49f2e2
+"{V1395}{W10}Yes.{W12} {Eo}{Ti1}I'll be going now."
+
+@NAR_MST:85 PLY f6942a3b
+"Narumi."
+
+@NAR_MST:86 NAR 8633741e
+"{V1396}{W10}Oh,{W15} {Nm}!{W60} {F3}Right now,{W25} do you have a minute?"
+
+@NAR_MST:89 NAR 3191c579
+"{V1397}Ah... {Nm}, I'm sorry.{W30} Right now,{W5} I have some things to do{Ti0}..."
+
+@NAR_MST:90 NAR c8ed2559
+"{V1398}{W5}Sorry.{W5} I'll be going now."
+
+@NAR_MST:91 NAR d9ba23b8
+"{V1399}{W10}Oh, {Nm}"
+
+@NAR_MST:92 PLY bea7c236
+"Got a minute?"
+
+@NAR_MST:94 NAR ac32c063
+"{V1400}Ah{W10}...{W40} I'd like to talk, but{W20} not dressed like this..."
+
+@NAR_MST:95 PLY 6c6b1e77
+"R-right..."
+
+@NAR_MST:96 PLY df4c402c
+"Then another time."
+
+@NAR_MST:97 NAR 96e6dc18
+"{V1401}Y-{W10}yes...{W20} {Ti1}I'll{W1} be{W1} going{W1} now{W1}."
+
+@NAR_MST:101 NAR 839b4916
+"{V1402}Oh,{W20} {Ec}{Nm}{W1}!{Eo}{W70} Right now,{W30} could we talk for a bit?"
+
+@NAR_MST:102.1 - 4a90b521
+{Ti0}- Sure／- Sorry, I can't right now
+
+@NAR_MST:103 NAR ea406cc0
+"{V0800}{W10}Yaaay!"
+
+@NAR_MST:104 PLY 9130a981
+"Sorry, I can't right now."
+
+@NAR_MST:106 NAR 3fe8cdb7
+"{V1404}Uh{W1}...{W40} that's{W1} a shame..."
+
+@NAR_MST:107 PLY baec2bd1
+"See you."
+
+@NAR_MST:108 NAR 432c573f
+"{V1405}Yes{W1}...{W45} I'll be going now..."
+
+@NAR_MST:109 PLY 8392f9a4
+"Narumi, got a minute?"
+
+@NAR_MST:111 NAR 15a28bce
+"{V1406}Oh,{W10} {Nm}{W2}!{W65} Yes!{W20} {Ec}Of course!"
+
+@NAR_MST:112 NAR 408d1ff1
+"{V1407}Oh,{W10} {Nm}{W2}!{W50} {Ec}Yes!{W10} Of course!{W40} {Eo}{Fe9}{Fm6}...Ah{Mo}"
+
+@NAR_MST:113 PLY 4d0c7c5c
+"Something wrong?"
+
+@NAR_MST:115 NAR fbf27cc5
+"{V1408}{W5}Well,{W5} the thing is,{W5}{W30} I just remembered I have an errand to run..."
+
+@NAR_MST:116 NAR e3a8917c
+"{V1409}Uhh{W10}{W10}{W20} {Fe9}{Eo}{Fm6}Senpai, I'm sorry.{W25} Is it okay if we{W5} talk later?"
+
+@NAR_MST:117 PLY d90bccb0
+"Sure, I'll talk to you again."
+
+@NAR_MST:118 NAR 71c12f1f
+"{V1410}{W10}I'll be going now..."
+
+@NAR_MST:120 NAR f212350d
+"{V1411}Ah, {Nm}..."
+
+@NAR_MST:121 NAR cd433fa2
+"{V1412}Well{W3}, um{W15}...{W35} I'd{W3} love{W3} to{W3} talk{W3} with{W3} you{W3}, but{W3}{W30} {F9}I have to change..."
+
+@NAR_MST:122 NAR aa8383ee
+"{V1413}Uh{W5}{W5}...{W30} {Eo}That's a shame."
+
+@NAR_MST:123 PLY 65c33a28
+"I'll talk to you again."
+
+@NAR_MST:124 NAR 16a6cf28
+"{V1414}{W10}Senpai,{W20} you promise, okay?"
+
+@NAR_MST:125 NAR b95dc036
+"{V1415}{W10}I'll be going now{W5}..."
+
+@NAR_MST:129 NAR ff54fe66
+"{V1416}Oh, {Nm}!"
+
+@NAR_MST:130 PLY 93deb735
+"Oh, Narumi."
+
+@NAR_MST:131 NAR 88a9cbb0
+"{V1417}{W10}Um{W5}{W5}...{W60} would you like to{W20} talk for a bit?"
+
+@NAR_MST:132.1 - 4a90b521
+{Ti0}- Sure／- Sorry, I can't right now
+
+@NAR_MST:133 NAR 3aa624d3
+"{V1418}{W10}I'm glad."
+
+@NAR_MST:137 NAR 3e119c0b
+"{V1419}{W10}Oh, I see..."
+
+@NAR_MST:138 NAR c1cd6bba
+"{V1420}{W10}Yes{W10}...{W40} I'll be going now..."

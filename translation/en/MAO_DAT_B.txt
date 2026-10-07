@@ -1,0 +1,266 @@
+# MAO_DAT_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_DAT_B:16 PLY 6617146b
+(11:20. That's about right.)
+
+@MAO_DAT_B:19 PLY 23f814f4
+(...Mao isn't here yet.)
+
+@MAO_DAT_B:21 PLY 3d1b35e3
+(......)
+
+@MAO_DAT_B:22 PLY d2456dba
+(11:30...)
+
+@MAO_DAT_B:23 PLY 92ae604b
+(11:45... Mao's really late.)
+
+@MAO_DAT_B:36 MAO b9f5e043
+"{V1033}{W6}S{W3}orry{W4}~{W4} I'm late.{W21}{W2}{W1}{W1} {W19}Did you wait long?"
+
+@MAO_DAT_B:37 PLY b45a7972
+"About twenty minutes..."
+
+@MAO_DAT_B:40 MAO 63f38dcc
+"{V1034}{W8}Sorry, sorry."
+
+@MAO_DAT_B:41 PLY 16a0b60a
+"What were you doing?"
+
+@MAO_DAT_B:45 MAO 0e1b28b7
+"{V1035}{W8}Don't{W1} ask{W1} such{W1} tactless{W1} questions.{W18} {Eo}{Fe9}Girls{W1} need{W1} time{W1} to{W1} get{W1} ready,{W1} you{W1} know.{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W3}{W2}{W2}{W2}"
+
+@MAO_DAT_B:46 MAO 3c3989a5
+"{V1036}{W7}Come on,{W8} let's{W1} go."
+
+@MAO_DAT_B:47 PLY 18418fc4
+"Honestly..."
+
+@MAO_DAT_B:51 SYS a278ea8e
+...And so we headed to the bowling alley.
+
+@MAO_DAT_B:53 MAO febd52d5
+"{V1037}{Fe4}{W6}It's been ages{W5}{W5}{W4}{W4}{W4}~{W11} since I last went bowling."
+
+@MAO_DAT_B:55 MAO 06e21d40
+"{V1038}{W8}Hey,{W7} {Nn},{W9} want to{W2} compete{W2} on{W1} score?"
+
+@MAO_DAT_B:56 PLY 84aeffc8
+"A match? Sure, but have you ever beaten me, Mao?"
+
+@MAO_DAT_B:58 MAO dcda4e97
+"{V1039}{W4}Listen{W3} to{W2} you{W2}~.{W26} {Fe8m3}I'm{W3} not{W3} the{W3} same{W3} as{W2} when{W3} I{W3} wore{W2} glasses,{W2} you{W2} know,{W2} not{W2} at{W2} all.{W3}{W3}{W2}{W2}{W2}{W2}{W1}"
+
+@MAO_DAT_B:59 PLY 59b464a8
+"Hahaha."
+
+@MAO_DAT_B:61 MAO 3c5d06e6
+"{V1040}{W5}Loser{W4} treats{W4} the{W4} winner{W4} to{W5} {Ec}an{W1} ice{W1} cream{W2},{W1} okay?{W1}{W1}{W3}{W3}"
+
+@MAO_DAT_B:62 PLY 8109fa15
+"Fine. I won't lose~!"
+
+@MAO_DAT_B:68 MAO 5ffe1a56
+"{V1041}{W5}Nice,{W6} strike{W4}~!{Eo}{W5}{W6}{W3}{W1}{W2}{W2}"
+
+@MAO_DAT_B:69 PLY dab1f8b3
+"Heh heh heh."
+
+@MAO_DAT_B:70 MAO 492fc737
+"{V1042}{W8}Not bad, {Nn}."
+
+@MAO_DAT_B:71 PLY e2a55860
+"A strike right off the bat. That's a great start."
+
+@MAO_DAT_B:72 MAO d9536a1c
+"{V1043}{W8}I{W1} can't{W1} be{W8} careless{W8} now~.{W19} {Ec}{W5}{Fe8m4}{Eo}Okay,{W25} my{W8} turn{W10} next.{W1}{W1}{W1}{W1}{W1}{W1}{W2}{W2}{W2}{W7}"
+
+@MAO_DAT_B:74 MAO e7f4f860
+"{V1044}{W11}Heave{W6}-{W31}ho."
+
+@MAO_DAT_B:75 PLY 0ea3c9db
+"That looks like a pretty heavy ball."
+
+@MAO_DAT_B:76 MAO 768aa797
+"{V1045}{W2}Fufu,{W40} with{W2} this{W3} one,{W19} the{W4} power{W5} is{W5} unmatched.{W21} A{W1} strike{W1} is{W1} guaranteed!{W2}{W2}{W2}{W4}{W4}{W4}{W4}{W1}{W6}{W6}{W6}"
+
+@MAO_DAT_B:77 PLY d905bbbf
+"I see."
+
+@MAO_DAT_B:78 MAO 8ea85e99
+"{V1046}{W13}Here{W37} I{W35} go{W45}!"
+
+@MAO_DAT_B:79 PLY 1453805c
+(Will she be okay? She's wobbling...)
+
+@MAO_DAT_B:81 MAO c7197551
+"{V1047}{W8}...{W4}H-{W90}here goes!"
+
+@MAO_DAT_B:82 MAO 1df9761a
+"{V1048}{W10}Eek!"
+
+@MAO_DAT_B:83 PLY c70948dc
+"Ah!"
+
+@MAO_DAT_B:94 MAO 3c4a6c94
+"{V1049}{W10}Ow{W6}{W6}{W7}{W10}~{W10}~{W10}~{W10}!"
+
+@MAO_DAT_B:95 PLY 22891fdd
+"Are you okay?! Mao!"
+
+@MAO_DAT_B:96 MAO a546aecf
+"{V1050}{W8}I{W6} hit{W8} my{W6} butt{W5}~{W5}~{W3}{W5}"
+
+@MAO_DAT_B:97 PLY 8a3f674f
+"Honestly... no matter how much you want to win, you're being too reckless."
+
+@MAO_DAT_B:99 MAO 33f3f085
+"{V1051}{W6}I{W2} thought{W2} it{W2} was{W1} a{W1} good{W2} idea{W2}~.{W1}{W1}{W1}{W5}{W3}"
+
+@MAO_DAT_B:101 MAO 18f7bc40
+"{V1052}{W9}Ugh{W5}...{W79} my{W7} butt{W8} hurts,{W8}{W8}{W26} it's{W5} a{W2} gutter{W1} ball,{W2}{W1}{W2}{W1}{W2}{W1}{W2}{W1} {W31}and{W2} everything's{W2} going{W8} wrong{Sd}"
+
+@MAO_DAT_B:102 PLY 5b8b3e01
+"You should switch to a ball that suits your body."
+
+@MAO_DAT_B:103 MAO f09ea2fb
+"{V1053}{W32}You're{W1} right,{W39} I{W1} will.{W1}"
+
+@MAO_DAT_B:104 PLY eee83ee4
+"...Anyway, isn't your skirt too short for bowling?"
+
+@MAO_DAT_B:105 MAO 13234e2a
+"{V1054}{Bt120}{W12}Y-{W31}you didn't{W47} see{W2} anything{W2} when{W2} I{W2} fell,{W20} did{W2} you?"
+
+@MAO_DAT_B:106 PLY bc5dd060
+"N-no! I didn't see anything! It just looked like I might..."
+
+@MAO_DAT_B:107 MAO 95631cfc
+"{V1055}{Br0t150}{W10}Oh,{W5} so{W5} you{W20} didn't{W1} see{W1} anything.{W43} {Ec}{Fm6}Don't{W2} scare{W2} me{W2} like{W2} that,{W1} geez.{W1}{W1}{W1}{W1}{W1}{W1}{W2}{W18}"
+
+@MAO_DAT_B:108 PLY 8d5f62d0
+"I said it looked like you might! Be careful!"
+
+@MAO_DAT_B:109 MAO a5857827
+"{V1056}{W12}Yeah,{W2} yeah.{W21} I{W2} won't{W2} do anything that clumsy."
+
+@MAO_DAT_B:110 MAO 7dab6d4b
+"{V1057}{W6}Okay,{W28} I'll{W1} switch{W1} balls{W2} and{W3} start{W2} over{W2} again~!{W2}{W2}{W1}{W1}{W1}{W20}"
+
+@MAO_DAT_B:111 MAO ed29a7eb
+"{V1058}{W6}Here{W5} I{W3} go{W3}~!{W34} Take{W3} that!{W2}"
+
+@MAO_DAT_B:113 MAO feada943
+"{V1059}{W4}I{W4} did{W4} it{W6}~{W6}~{W6}~!{W34} Strike{W2}{W2}{W5}~{W5}~!{W60} ...{W10}Or{W22} not,{W4}{W4}{W4}{W35} it's{W6} a{W2} spare...{W5}{W1}{W1}"
+
+@MAO_DAT_B:114 PLY 8940c07c
+"Hahahahaha."
+
+@MAO_DAT_B:115 SYS 402ab667
+...Like that, we enjoyed bowling for a while.
+
+@MAO_DAT_B:116 SYS 50fb0912
+But I never managed to beat Mao even once.
+
+@MAO_DAT_B:117 SYS a0f20c8a
+Ugh... I kept worrying about her skirt, the one that almost showed but never did... Mao... wasn't she doing it on purpose?
+
+@MAO_DAT_B:120 MAO 0dbc7e29
+"{V1060}{W8}Fufu,{W39} the{W1} ice{W1} cream{W1} {Nn}{W1} treated{W1} me{W1} to{W1} is{W15} so{W1} yummy{W1}~!{W1}"
+
+@MAO_DAT_B:121 PLY b8d9c13c
+"Sigh... I lost completely."
+
+@MAO_DAT_B:122 MAO fb2ab9a0
+"{V1061}{W8}Only{W2} your{W2} first{W2} throw{W2} was{W2} good.{W18} After{W2} that{W2} you{W2} were{W2} kind{W2} of{W1} worn{W2} out...{W2}{W2}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@MAO_DAT_B:123 PLY acc4eaa2
+"...I've got nothing to say."
+
+@MAO_DAT_B:124 MAO ee713ba4
+"{V1062}{W9}Hey,{W13} {Nn},{W13} what{W4} should we do now?"
+
+@MAO_DAT_B:125 PLY b0527ea9
+"Want to stop by Hilltop Park?"
+
+@MAO_DAT_B:126 MAO d7129ec6
+"{V1063}{W3}Fufu,{W44} sure.{W3}{W3}"
+
+@MAO_DAT_B:127 MAO ac7675a4
+"{V1064}{W5}You know,{W15} {Nn}."
+
+@MAO_DAT_B:128 MAO 904d2dfe
+"{V1065}{W7}I{W4}...{W63} thanks{W1} to{W1} {Nn},{W32} I{W1} think I'm remembering how fun studying is."
+
+@MAO_DAT_B:129 PLY 8606629d
+"Really? That's great, Mao."
+
+@MAO_DAT_B:130 MAO eea84f7d
+"{V1066}{W3}Yes.{W1}{W1}"
+
+@MAO_DAT_B:131 MAO 6c82e958
+"{V1067}{W9}My teacher{W2} said{W2} too,{W4} if{W1} I{W1} keep{W1} it{W1} up,{W24} {Fe3}I'll{W1} get{W2} into{W2} some{W1} university."
+
+@MAO_DAT_B:132 PLY b6187fad
+"...Some university, huh."
+
+@MAO_DAT_B:133 MAO db09a2a0
+"{V1068}{W3}Hm?"
+
+@MAO_DAT_B:134 PLY 79a2b998
+"Is that really okay with you, Mao?"
+
+@MAO_DAT_B:135 MAO c7453196
+"{V1069}{W3}Huh...?"
+
+@MAO_DAT_B:136 PLY f469b0be
+"You want a top university, don't you? You studied so hard for the affiliated high school back then."
+
+@MAO_DAT_B:137 MAO 795e2033
+"{V1070}{W12}That{W4} is{W4}...{W7} true,{W4} but...{W51} {Fe9}it's{W1} too{W3} late{W2} for{W1} that{W2} now.{W1}{W5}"
+
+@MAO_DAT_B:138 PLY 80decc91
+"Mao..."
+
+@MAO_DAT_B:139 PLY b4700371
+"Actually, I've noticed something. If you see it too, Mao, even now, a top-tier university is no dream."
+
+@MAO_DAT_B:140 MAO 5e66a707
+"{V1071}{W5}What?!{W32} Really?!{W24} What{W2} is it?!{W25} Tell me!"
+
+@MAO_DAT_B:141 PLY 58eb31e5
+"I can tell you, but... can it wait till next time?"
+
+@MAO_DAT_B:142 MAO a4e8d469
+"{V1072}{W4}Next{W3} time?!{W39} Why?!{W14} {Fe9}Geez,{W30} are{W3} you{W3} teasing{W3} me?{W20} You're{W3} so{W2} mean~!{W2}{W2}"
+
+@MAO_DAT_B:143 PLY 109f6c62
+"That's not it. I might just be overthinking it..."
+
+@MAO_DAT_B:145 MAO df60d324
+"{V1073}{W14}I{W4} see{W4}...{W59} Okay."
+
+@MAO_DAT_B:146 MAO da38d141
+"{V1074}{W6}Then,{W16} next{W1} time,{W22} if{W1} it{W1} turns{W1} out{W1} you{W1} weren't{W1} overthinking{W1} it,{W20} tell{W1} me{W1} properly.{W1}{W1}{W2}{W2}{W2}{W2}{W2}{W2}{W2}"
+
+@MAO_DAT_B:147 PLY f24828b6
+"Yeah, I promise."
+
+@MAO_DAT_B:148 MAO 2b055af4
+"{V1075}{W40}...Thanks."
+
+@MAO_DAT_B:149 MAO e7a05036
+"{V1076}{W8}Today{W2} was{W2} fun~!{W43} {Ec}{Fe3}Let's{W1} go{W1} on{W2} another{W2} date{W11} together,{W1} okay?{W2}{W2}{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@MAO_DAT_B:150 PLY f57edbd8
+"Of course!"
+
+@MAO_DAT_B:151 MAO 59e270ee
+"{V1077}{W7}Then,{W22} let's head{W1} home."
+
+@MAO_DAT_B:153 SYS 2f9b1e3d
+...And so I spent the day with Mao.
+
+@MAO_DAT_B:154 SYS e0fb995f
+There's only one.

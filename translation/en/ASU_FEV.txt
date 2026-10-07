@@ -1,0 +1,2036 @@
+# ASU_FEV -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_FEV:67 PLY 945fa3a3
+(Oh, the soccer club is practicing. I wonder if Sakino is there...)
+
+@ASU_FEV:70 PLY 60d5d20c
+(Ah, there she is...)
+
+@ASU_FEV:78 ASU eb2d8f72
+"{V0944}{W5}Spread out more{W20} over there!"
+
+@ASU_FEV:79 ASU dd073fc4
+"{V0945}{W10}You too! {W12}Draw the marker in and open up space!"
+
+@ASU_FEV:80 PLY 995ad952
+(...Obviously, but she's really serious.)
+
+@ASU_FEV:81 PLY d216d38a
+(Sakino's a girl, so she can't play in the matches...)
+
+@ASU_FEV:82 PLY 236de1d9
+(But isn't that what they call a playmaker? She's amazing...)
+
+@ASU_FEV:83 ASU c1ee7014
+"{V0946}{W5}Here I go!"
+
+@ASU_FEV:86 PLY 79a1ace7
+(It's not the mood to call out to her. I'll go.)
+
+@ASU_FEV:89 PLY 8335704a
+(Ah, the person walking over from there is...)
+
+@ASU_FEV:102 PLY a5ece806
+"Sakino."
+
+@ASU_FEV:103 ASU 9f262b9b
+"{V0947}Oh, {Nm}."
+
+@ASU_FEV:104 PLY 832fcb7f
+"What are you up to?"
+
+@ASU_FEV:108 ASU d2127493
+"{V0948}{W5}Well...{W30} I'm heading to the Staff Room."
+
+@ASU_FEV:109 PLY 255611d7
+"The Staff Room?"
+
+@ASU_FEV:110 ASU 9407c6e6
+"{V0949}{W5}Yeah.{W30} {Eh}The English teacher{W25} called me in."
+
+@ASU_FEV:111 PLY 9a41f394
+"Called you in? Why?"
+
+@ASU_FEV:113 ASU 4224c94b
+"{V0950}{W5}My quiz{W15} results{W15} were awful...{W50} so I have to take a remedial lesson."
+
+@ASU_FEV:114 PLY cb3d5be3
+"I see, what bad luck..."
+
+@ASU_FEV:115 ASU e919cb1a
+"{V0951}{W10}Geez...{W55} that teacher is{W10} so mean.{W70} {F9}Giving a quiz{W5} right after{W25} summer vacation ends{W15} is awful, don't you think?"
+
+@ASU_FEV:116.1 - dba5feda
+{Ti0}- That's the teacher's fault／- Maybe they wanted to see how you did?／- Aren't remedial lessons after school?
+
+@ASU_FEV:117 PLY 56dc4687
+"That's the teacher's fault."
+
+@ASU_FEV:118 ASU 0c895022
+"{V0952}Right~?"
+
+@ASU_FEV:119 PLY 815a4b5f
+"Maybe they wanted to see how you did over the summer?"
+
+@ASU_FEV:120 ASU d03eea96
+"{V0954}{W15}The only{W5} result{W10} of my summer{W15} is{W5} that my dribbling got better."
+
+@ASU_FEV:121 PLY 59b464a8
+"Hahaha."
+
+@ASU_FEV:122 PLY 84f54fe7
+"Aren't remedial lessons usually after school?"
+
+@ASU_FEV:123 ASU dcaac215
+"{V0955}{W10}I said I have club activities after school,{W5} so{W25} they told me to come{W5} at lunch break.{F6}"
+
+@ASU_FEV:124 PLY 14329e37
+"I see. Isn't it good they at least put your club first?"
+
+@ASU_FEV:125 ASU 68ffad85
+"{V0956}That's{W15} true, but..."
+
+@ASU_FEV:126 ASU c14a3686
+"{V0957}{W10}Aaah,{W25}{W45} I wish summer{W5} vacation{W5} would come again. {W85}Soccer,{W15} the beach,{W25} the mountains...{W57} So much fun!{F6}"
+
+@ASU_FEV:127 PLY e2fbfbf6
+"Hahaha, it just ended."
+
+@ASU_FEV:129 ASU 841213db
+"{V0958}Ahaha,{W30} you're right..."
+
+@ASU_FEV:130 ASU ecf9fdf2
+"{V0959}{W20}Sigh...{W30} Oh well,{W50} I'm off to my remedial lesson.{F9}"
+
+@ASU_FEV:131 PLY 9c66d7f8
+"Good luck."
+
+@ASU_FEV:133 ASU 3838a785
+"{V0960}See ya!"
+
+@ASU_FEV:135 PLY a99d6dfc
+(Hmm. I've got nothing else to do, so maybe I'll read a book for once...)
+
+@ASU_FEV:136 PLY 141cad88
+(It's lunch break, so it'll probably be crowded. I'd better grab a seat first...)
+
+@ASU_FEV:137 PLY 4ed3d069
+(Huh? Isn't that...)
+
+@ASU_FEV:143 PLY 98f4294d
+(It's Sakino... Hahaha... she's dozing on her textbook. And fast asleep, too...)
+
+@ASU_FEV:144 PLY c4350955
+(The Library has air conditioning, so it feels nice.)
+
+@ASU_FEV:145 PLY 060b5142
+(It'd be a shame to wake her. I'll find another seat...)
+
+@ASU_FEV:146 SYS aa192408
+...And so I left the sleeping Sakino alone.
+
+@ASU_FEV:148 PLY 233c8ac4
+(Uh-oh... I'm going to be late...)
+
+@ASU_FEV:149 PLY e5982a3b
+(I have to run... huff, huff...)
+
+@ASU_FEV:150 PLY 98dba115
+(Huff, huff, huff... ugh, I'm drenched in sweat!)
+
+@ASU_FEV:151 PLY e6681036
+"Huff, huff, huff... Yes! I think I'll make it somehow!"
+
+@ASU_FEV:152 ASU b9042f95
+"{V0961}Huff,{W20} huff,{W35} lucky! {W25}I'm going to make it!"
+
+@ASU_FEV:153 PLY 94a34c08
+(Hm? Who just passed me...)
+
+@ASU_FEV:155 ASU cf7876cd
+"{V0962}Huh? {Nm}!"
+
+@ASU_FEV:156 PLY 3a4e5feb
+"I knew it... Sakino... huff, huff..."
+
+@ASU_FEV:158 ASU 1ee229d6
+"{V0963}Did you oversleep too, {Nm}? {Sp}{W55}I{W10} overslept as well.{W60} The Japan national team's{W15} kickoff{W15} was at 1 a.m.!"
+
+@ASU_FEV:159 PLY 7f650535
+"Huff, huff... I see..."
+
+@ASU_FEV:160.1 - 7e6eb491
+{Ti0}- As expected of Sakino, you're so relaxed／- I'm drenched in sweat／- Huff... sorry, don't talk to me...
+
+@ASU_FEV:161 PLY 824682e3
+"As expected of Sakino, you're so relaxed."
+
+@ASU_FEV:162 ASU 41885e33
+"{V0964}Hehe,{W40} I'm used to running."
+
+@ASU_FEV:163 PLY 3cd9f6e0
+"Huff, huff... I envy you."
+
+@ASU_FEV:164 ASU 1c537f2b
+"{V0965}Huh?"
+
+@ASU_FEV:165 PLY 2ecc2a79
+"You're so athletic, Sakino... I envy that... huff, huff..."
+
+@ASU_FEV:167 ASU 0d790687
+"{V0966}Ahaha..."
+
+@ASU_FEV:168 ASU 115924c4
+"{V0967}Being praised{W10} by someone out of breath{W15} is kind of weird.{F3}"
+
+@ASU_FEV:169 PLY c2d63de2
+"Hahaha... sorry."
+
+@ASU_FEV:170 PLY dff87801
+"I'm drenched in sweat."
+
+@ASU_FEV:171 ASU bbdc9b4f
+"{V0968}You really are,{W50} so much sweat.{W40} Are you okay?"
+
+@ASU_FEV:172 PLY 8b9949d5
+"Hahaha... I'm fine."
+
+@ASU_FEV:173 ASU f0453a6e
+"{V0969}I'd lend you a towel,{W50} but I washed mine and left it{W10} hanging in the clubroom..."
+
+@ASU_FEV:174 PLY 7aa469c1
+"Hahaha..."
+
+@ASU_FEV:175 PLY 5cb95214
+"Huff, huff... sorry, don't talk to me..."
+
+@ASU_FEV:176 ASU d9fea3e8
+"{V0970}Are you okay?"
+
+@ASU_FEV:177 PLY 423b2d24
+"Huff, huff... s-somehow..."
+
+@ASU_FEV:178 ASU e3299c0c
+"{V0971}Want me to carry you on my back?"
+
+@ASU_FEV:179 PLY 73a43635
+"No, that's a bit much, even so..."
+
+@ASU_FEV:180 ASU efc84854
+"{V0972}Ahaha,{W30} I{W5} guess not."
+
+@ASU_FEV:181 ASU bf550572
+"{V0973}Okay! {W20}If we're late,{W5} the{W5} teacher will yell at us,{Ec} {W20}so{W5} let's push through{W5} together!"
+
+@ASU_FEV:182 PLY a802f358
+"Right. Here goes...!"
+
+@ASU_FEV:183 SYS e472e997
+...And so I dashed into school with Sakino.
+
+@ASU_FEV:184 SYS 5edc569c
+Thanks to Sakino running with me, I wasn't late. Lucky.
+
+@ASU_FEV:186 ASU 7d8342fb
+"{V0974}Oh, {Nm}!"
+
+@ASU_FEV:187 PLY 5edd7500
+"Oh, Sakino."
+
+@ASU_FEV:189 PLY d91eac50
+"Is it PE next?"
+
+@ASU_FEV:190 ASU 70878c4b
+"{V0975}Yep!"
+
+@ASU_FEV:191.1 - daf5b385
+{Ti0}- Hahaha, you look excited／- It's hot, that must be rough／- Your gym clothes suit you
+
+@ASU_FEV:192 PLY e4f2c603
+"Hahaha, you look excited."
+
+@ASU_FEV:193 ASU 7680a9fe
+"{V0976}Yeah! {W20}I love PE.{W30} I got so pumped that I'm {Ec}the first one here!"
+
+@ASU_FEV:194 PLY e99d952b
+"It's hot, that must be rough."
+
+@ASU_FEV:195 ASU 2dc7e77d
+"{V0977}Nope,{W15} not at all!{W40} I {Ec}{W5}love{W10} the heat."
+
+@ASU_FEV:196 PLY afa75293
+"Your gym clothes suit you."
+
+@ASU_FEV:197 ASU 2659e8e6
+"{V0978}You think? {F3}{Ec}{W20}Thanks."
+
+@ASU_FEV:198 PLY 2c0ba895
+"You seem really athletic, Sakino."
+
+@ASU_FEV:199 ASU 3eab304d
+"{V0979}Yeah,{W10} I get that a lot. {F2}{W40}I've had a 5 in PE{W20} since first grade."
+
+@ASU_FEV:200 PLY 0544cca5
+"Wow, really? That's amazing."
+
+@ASU_FEV:201 ASU 3e237636
+"{V0980}In exchange,{W40} everything else{W15} is a{W5} disaster..."
+
+@ASU_FEV:202 PLY cdf79a18
+"Hahahaha."
+
+@ASU_FEV:203 ASU b8e47de1
+"{V0981}Okay, I'm off. See you, {Nm}."
+
+@ASU_FEV:204 PLY e03a6130
+"Yeah, see you."
+
+@ASU_FEV:206 PLY 50894e53
+(I wonder if the soccer club is practicing. Is Sakino...)
+
+@ASU_FEV:207 ASU 9ee5c5a1
+"{V0982}{Nm}, {F3}did you come to watch practice?"
+
+@ASU_FEV:208 PLY 20bee2aa
+"Yeah. I wanted to see how hard you're working."
+
+@ASU_FEV:209 ASU 831767e2
+"{V0983}{W20}Thanks.{W30} We're{W10} on a break right now."
+
+@ASU_FEV:210 PLY 696225c1
+"I see."
+
+@ASU_FEV:211 PLY 21cba57e
+"When did you start playing soccer, Sakino?"
+
+@ASU_FEV:212 ASU b6306cce
+"{V0650}{W20}When I was in{W5} fourth{W5} grade."
+
+@ASU_FEV:213 ASU 5b06e544
+"{V0651}There was a{W20} women's{W5} soccer{W5} broadcast{W5} on TV,{P1} {F2}{Ec}{W25}and it was so cool."
+
+@ASU_FEV:214 PLY 61f11888
+"A high school tournament or something?"
+
+@ASU_FEV:215 ASU abe95b63
+"{V0652}Nope,{W40} there's a pro league for women too,{F2} {W10}and{W10} it was that."
+
+@ASU_FEV:216 PLY 5cf5173c
+"Oh, I see."
+
+@ASU_FEV:217 ASU 1502c6fa
+"{V0653}Yeah.{F9} {W40}...And so,{W40} I thought{W10} I'd like to be{Ec} {W10}like that someday."
+
+@ASU_FEV:218.1 - 081d668d
+{Ti0}- You can do it, Sakino／- You're already cool, Sakino／- ...Well, they say dream big
+
+@ASU_FEV:219 PLY bb4ed082
+"You can do it, Sakino."
+
+@ASU_FEV:220 ASU a31dcab1
+"{V0654}Huh?"
+
+@ASU_FEV:221 PLY e8829324
+"If you work toward your dream, I'm sure it'll pay off."
+
+@ASU_FEV:223 ASU 6ff7ac64
+"{V0655}Yeah...{W60} you're right. {F2}{Eo}{W70}Thank you, {Nm}."
+
+@ASU_FEV:224 PLY bece2596
+"You're already cool, Sakino."
+
+@ASU_FEV:225 ASU d927f6ef
+"{V0656}Huh?"
+
+@ASU_FEV:226 PLY ba87ab66
+"Passing to the boys, scoring goals... You're really cool!"
+
+@ASU_FEV:227 ASU ad1911ef
+"{V0657}Really? {Ec}{W40}Thanks!"
+
+@ASU_FEV:228 PLY 1d514d1a
+"...Well, they say it's good to dream big."
+
+@ASU_FEV:229 ASU 55bc54aa
+"{V0658}Yeah,{F9}{W50} you're {Sp}right."
+
+@ASU_FEV:230 PLY 07dbbb59
+"I'm player Sakino's number one fan, after all."
+
+@ASU_FEV:231 ASU 01dc4833
+"{V0659}Ah..."
+
+@ASU_FEV:232 PLY 459a7fb3
+"So if there's anything I can do, don't hesitate to tell me."
+
+@ASU_FEV:234 ASU eac97616
+"{V0660}Thank you, {Eo}{Nm}."
+
+@ASU_FEV:235 ASU 5058e923
+"{V0984}Okay, {W20}back to practice!"
+
+@ASU_FEV:236 PLY 1e5f6374
+"Yeah, good luck."
+
+@ASU_FEV:237 ASU b063c073
+"{V0985}See ya!"
+
+@ASU_FEV:239 PLY da352735
+(At this time, Sakino should be at the Pool...)
+
+@ASU_FEV:240 PLY e14ad90b
+(Should I go peek... what should I do...)
+
+@ASU_FEV:241 PLY 624327d6
+(I can go to the soccer club without holding back, but the Swim Club is another matter...)
+
+@ASU_FEV:242 PLY f96cb40d
+(Not that I don't go there often, even so...)
+
+@ASU_FEV:244 PLY 68de5c73
+"Ah! Sakino! Dressed like that in a place like this..."
+
+@ASU_FEV:246 ASU eb731513
+"{V0986}{W10}Ah! {Nm}! {W10}Pretend you didn't see me!"
+
+@ASU_FEV:247 PLY 2429bb31
+"Huh?! Pretend I didn't see..."
+
+@ASU_FEV:251 PLY 50a1bcfc
+"She's gone..."
+
+@ASU_FEV:252 TOM 299eca1e
+"{V0094}Oh, {Nm}. {W20}Did Sakino{W10} come{W10} this way?"
+
+@ASU_FEV:253 PLY af0892a1
+"Ah, Ms. Kawada!"
+
+@ASU_FEV:254 PLY 0c31d4c7
+(...I see, so that's what this is about.)
+
+@ASU_FEV:255 PLY 875c05cc
+"She hasn't come by, why?"
+
+@ASU_FEV:256 TOM 8ac45347
+"{V0095}{W20}I see..."
+
+@ASU_FEV:257 PLY c2daa92d
+(Even Ms. Kawada is in a swimsuit...)
+
+@ASU_FEV:258 PLY 4352a7b4
+"Did something happen?"
+
+@ASU_FEV:259 TOM bd9fcf6d
+"{V0096}{W10}Well...{Eo}{W70} I did{W10} something bad to her..."
+
+@ASU_FEV:260 PLY e7790968
+"Something bad?"
+
+@ASU_FEV:261 TOM c1de75ad
+"{V0097}Yes.{W60} She was swimming so well{W45} that I said, '{F3}Want to try{W5} getting timed?'{F9}{W35} And then..."
+
+@ASU_FEV:262 TOM 5cad760e
+"{V0098}She said, 'No way!'{W5}{W15} and{F6}{W15} ran off..."
+
+@ASU_FEV:263 TOM 0e9a5175
+"{V0099}I didn't think{Eh}{W30} she'd hate it that much..."
+
+@ASU_FEV:264 PLY bfa07ffb
+"Is that so..."
+
+@ASU_FEV:265 PLY a6f5d99c
+"Maybe she was afraid that if she got a good time, you'd seriously tell her to join the Swim Club?"
+
+@ASU_FEV:266 TOM eee6cb99
+"{V0100}...Maybe so.{Eo}{W70} I didn't mean it{W5} that way,{W45} but I can't blame her{W20} for taking it like that."
+
+@ASU_FEV:267 TOM 3c88808e
+"{V0101}If you see her,{W40} tell her I won't ask to time her anymore,{W20} so please come{W10} back.{Ec}{W35} I want to apologize properly."
+
+@ASU_FEV:268 PLY b9eab61d
+"Got it."
+
+@ASU_FEV:269 TOM c5b37414
+"{V0102}Please{W10} do."
+
+@ASU_FEV:270 PLY 9457644c
+(So that's what happened...)
+
+@ASU_FEV:271 PLY 7e8ca3c1
+(Where did Sakino go? Dressed like that, she can't have gone far...)
+
+@ASU_FEV:272 PLY 16f51d71
+"{Ts3}Sakino! The teacher apologized! She wants you to come back!"
+
+@ASU_FEV:273 PLY 06ff011d
+"Oh, there you are."
+
+@ASU_FEV:274 ASU 0e3e2d54
+"{V0987}It's not{W40} something she needs to apologize for,{W10} really..."
+
+@ASU_FEV:275.1 - 6e63835d
+{Ti0}- Didn't you want to be invited to the Swim Club?／- What's wrong with timing you?／- Running off like that was bold
+
+@ASU_FEV:276 PLY bc73c9e6
+"Didn't you want to be invited to the Swim Club?"
+
+@ASU_FEV:277 ASU 5b602575
+"{V0988}{Eo}No,{W15} that's not it."
+
+@ASU_FEV:278 PLY 4e8f0c43
+"Then why?"
+
+@ASU_FEV:279 PLY e4426479
+"What's wrong with having your time taken?"
+
+@ASU_FEV:280 ASU d34cdd25
+"{V0989}Well...{Eo}{W20} I can't do that..."
+
+@ASU_FEV:281 PLY d9372ba1
+"Why not?"
+
+@ASU_FEV:282 PLY 72417357
+"Running off dressed like that was bold."
+
+@ASU_FEV:283 ASU f8d0e51f
+"{V0990}{S}{F3}Ahaha,{Eo}{Fe9m3}{W30} I think{W20} so too."
+
+@ASU_FEV:284 PLY 76261611
+"But why did you run off?"
+
+@ASU_FEV:285 ASU c75a3252
+"{V0991}Because...{W35} if I swam seriously,{Eo}{W30} and{W10} got a really good time,{W25} I'd feel terrible toward everyone in the Swim Club."
+
+@ASU_FEV:286 ASU e86c060e
+"{V0992}{Fm4}They let me swim as part of my soccer training,{Ec}{W40} and if I beat girls who are seriously training for swimming..."
+
+@ASU_FEV:287 ASU 99c0ed82
+"{V0993}{Eo}{Fe9m6}I couldn't go to the pool anymore..."
+
+@ASU_FEV:288 PLY 8bc45c8d
+"I see... You're right."
+
+@ASU_FEV:289 ASU 13cb99c9
+"{V0994}{Fm3}Ms. Kawada,{W40} I'm glad she's fond of me,{Fm6}{W30} but I wish she'd be a little more considerate..."
+
+@ASU_FEV:290 PLY 6346027e
+"She said she won't ask to time you anymore."
+
+@ASU_FEV:291 ASU acb1debb
+"{V0995}{F4}Really?"
+
+@ASU_FEV:292 PLY 0a7cf62b
+"Yeah. She seemed really sorry."
+
+@ASU_FEV:293 ASU fde62967
+"{V0996}Then I guess I'll go back.{S}{Ec}{F2}{W40} I can't stay here{W35} like this forever."
+
+@ASU_FEV:294 PLY 1b758669
+"Haha, true."
+
+@ASU_FEV:295 ASU 1569961c
+"{V0997}{Sd}{Eo}{Fe2m3}See you, {Nm}."
+
+@ASU_FEV:296 PLY 570f459d
+"Yeah. See you."
+
+@ASU_FEV:297 TOM 8773aa21
+"{V0103}Oh, {Nm}."
+
+@ASU_FEV:298 PLY f4664d6d
+"Oh, Ms. Kawada, what is it?"
+
+@ASU_FEV:299 TOM 342df9aa
+"{V0104}{Nm}, you're{W35} friends{W20} with Sakino, right?"
+
+@ASU_FEV:300 PLY 0a8272a4
+"Yes, why?"
+
+@ASU_FEV:301 TOM b36f2b41
+"{V0105}Lately,{W15} she{W45} hasn't{W15} shown up at the Swim Club,{W40} and I wonder if you know why?"
+
+@ASU_FEV:302 PLY 7cb658b8
+"Huh...?"
+
+@ASU_FEV:303 PLY 2b3553ff
+"It's... because she's studying with me."
+
+@ASU_FEV:304 TOM e8c5355e
+"{V0106}{F4}What?!{W45} With{W10} you...{W40} studying?!"
+
+@ASU_FEV:305 PLY cbc6d527
+"Yes. Today we're going to the Library together..."
+
+@ASU_FEV:306 TOM 621dc36e
+"{V0107}{F3}I see,{W60} that's{W20} a very{W10} good thing.{Fe9}{W70} I've been worried about her{W5} grades{W25} too..."
+
+@ASU_FEV:307 TOM 31d782e1
+"{V0108}{Fe7m4}She's{W30} studying...{W85} even though no matter{W10} how often I told her,{W20} it never worked..."
+
+@ASU_FEV:308 TOM 13bf70d6
+"{V0109}{F3}{Ec}Fufu,{W50} girls,{W10} hm?{Fe9}{Eo}{W80} I{W20} had times like that{W10} too..."
+
+@ASU_FEV:309 TOM eb1a6522
+"{V0110}{F3}{Eh}{Ts1}Youth,{W20} huh...{Fe4}{Ec}{W60} how I envy it..."
+
+@ASU_FEV:310 PLY bbb7b860
+"Sorry? What was that?"
+
+@ASU_FEV:311 TOM df717c0d
+"{V0111}{Eo}{F4}{B100}N-{W10}nothing.{F3}{Ec}{W50} Study{W50} hard."
+
+@ASU_FEV:312 PLY 2279aba8
+"Y-yes..."
+
+@ASU_FEV:313 TOM 0f9e74e7
+"{V0112}{Eo}See you."
+
+@ASU_FEV:314 PLY d9ce4426
+"Yes. Excuse me."
+
+@ASU_FEV:316 PLY 4719925a
+(Ow... that was clumsy, scraping my knee in PE... I'll get a bandage.)
+
+@ASU_FEV:317 ASU 031879b3
+"{V0998}Huh? {Nm}. What's up?"
+
+@ASU_FEV:318 PLY ec02d0f7
+"I should ask you, why are you here?"
+
+@ASU_FEV:319 ASU 0227ab95
+"{V0999}A girl in my class felt sick,{W10} so I brought her."
+
+@ASU_FEV:320 ASU f058a7d5
+"{V1000}{W10}Didn't I tell you?{W30} I'm{W30} on the Health and PE Committee."
+
+@ASU_FEV:321 PLY dcfd2899
+"Oh, right."
+
+@ASU_FEV:322 PLY fa3783da
+"...So is the sick girl anemic?"
+
+@ASU_FEV:323 ASU c61aa857
+"{V1001}{W10}Looks like it.{W30} She studied{W10} late{W10} last night,{W50} and skipped breakfast.{F3}{W65} The teacher's{W35} checking on her in back."
+
+@ASU_FEV:324 ASU 06d29003
+"{V1002}{W20}Studying{W10} late{W25} and skipping{W5} breakfast,{W15} that's the opposite{W10} of me."
+
+@ASU_FEV:325 ASU 7766548a
+"{V1003}...Oh, {Nm},{W5} you scraped your knee."
+
+@ASU_FEV:326 PLY 02446baf
+"A bit in PE."
+
+@ASU_FEV:327 ASU 6dcda444
+"{V1004}{W10}Sit down,{W30} I'll disinfect it."
+
+@ASU_FEV:328 PLY 22559512
+"Huh? It's fine, it's just this. A bandage is enough."
+
+@ASU_FEV:329 ASU 3d7733f3
+"{V1005}{W10}No, you have to disinfect it.{W40} It'd be awful if germs{W7} got in, right?"
+
+@ASU_FEV:330 PLY 6e205835
+"I-is that so? Then I guess I'll leave it to you."
+
+@ASU_FEV:331 ASU 67c84d6b
+"{V1006}{W10}That's the spirit.{W30} Leave this stuff{W10} to the health{W5} committee."
+
+@ASU_FEV:332 SYS 3648006d
+And so Sakino ended up disinfecting my knee.
+
+@ASU_FEV:333 PLY 26d887ca
+"Ow! That hurts, Sakino!"
+
+@ASU_FEV:334 ASU d231a3a8
+"{V1007}Bear it, come on.{W30} You're not a kid."
+
+@ASU_FEV:335 ASU 5361f5d8
+"{V1008}It's harder if you move, you know?"
+
+@ASU_FEV:336 PLY 1cbebd58
+"Okay... I'll grit my teeth."
+
+@ASU_FEV:337 ASU dd8fed54
+"{V1009}Ahaha,{W25} you're{W10} such a drama queen."
+
+@ASU_FEV:338 SYS c2fbbe50
+The treatment was very rough... Oh dear.
+
+@ASU_FEV:339 PLY 0c0d5ba0
+(I came to the Infirmary for no reason... I wonder if anyone's here?)
+
+@ASU_FEV:340 PLY 915867be
+"Oh, Sakino! What's wrong?"
+
+@ASU_FEV:341 ASU 44f985a8
+"{V1010}{W10}Oh, {Nm}.{F2} Listen,{W5} listen~,{W30} I'm{Ec}{W20} a little{W10} anemic~!"
+
+@ASU_FEV:342 PLY fa4aecbd
+"What?!"
+
+@ASU_FEV:343 ASU edd8ee7c
+"{V1011}{Eo}{W10}Maybe because I{W15} studied{W5} late last night?{Ec}{W45} I feel kind of dizzy..."
+
+@ASU_FEV:344 PLY 77051717
+"You shouldn't be standing! Lie down quick!"
+
+@ASU_FEV:345 ASU e5659e5d
+"{V1012}{Eo}{F4}{W10}Who'd have thought{W10} I'd{W25} get anemic from studying{W5} too much.{Ec}{F2}{W40} Ehehe,{W65} I always kind of{Eo}{W50} wanted to come here{W15} sick."
+
+@ASU_FEV:346 PLY e9992877
+"This isn't the time for that... Just lie down, quick!"
+
+@ASU_FEV:347 ASU 3771d889
+"{V1013}{Ec}{Fe4m3}{W20}Okay{W20}~"
+
+@ASU_FEV:348 SYS 5f34f8aa
+And so I put Sakino to bed.
+
+@ASU_FEV:349 PLY b7ec895a
+(Sakino studies so hard at home she gets sick... She really gives everything her all...)
+
+@ASU_FEV:351 PLY be1b456a
+(Forgetting something in the Music Room, how clumsy...)
+
+@ASU_FEV:352 PLY babe2a78
+"Let's see, my textbook, textbook. Found it."
+
+@ASU_FEV:355 ASU b7cc9a53
+"{V1014}Oh, {Nm}."
+
+@ASU_FEV:356 PLY b73ea0de
+"Is the next music class yours, Sakino?"
+
+@ASU_FEV:357 ASU 4c6911bf
+"{V1015}Yeah, it is."
+
+@ASU_FEV:358 PLY e43f389d
+"I see."
+
+@ASU_FEV:359 PLY 1e442e36
+"Are you good at music, Sakino?"
+
+@ASU_FEV:360 ASU f58b76e4
+"{V1016}Hmm?{W40} I'm kind of{W40} bad at fiddly things,{F9}{W30} so instruments..."
+
+@ASU_FEV:361 ASU 66ee3c49
+"{V1017}Plus,{W30} I can't read sheet music..."
+
+@ASU_FEV:362 PLY d48b366b
+"Most people can't really read sheet music."
+
+@ASU_FEV:363 ASU e62f4151
+"{V1018}Really?"
+
+@ASU_FEV:364 PLY cc4af171
+"Yeah."
+
+@ASU_FEV:365 ASU cef0d957
+"{V1019}...Oh,{W20} but{W20} I think I've got{W5} a good sense of rhythm,{W25} so I'm good at percussion!"
+
+@ASU_FEV:366 ASU 4fa8fe1a
+"{V1020}Like the bass drum,{W10} or cymbals.{W50} Boom{W15} boom,{W10} crash!"
+
+@ASU_FEV:367 PLY 26f89488
+"Haha, I see. That suits you."
+
+@ASU_FEV:368 ASU 4cc3643e
+"{V1021}Right?"
+
+@ASU_FEV:369 PLY 961e55d0
+"Well, I have next class, so see you."
+
+@ASU_FEV:370 ASU 64cb4ba2
+"{V1022}Yeah,{W20} see you."
+
+@ASU_FEV:372 PLY 6d414a66
+(Behind the school is nice and shady...)
+
+@ASU_FEV:373 PLY 024c04c4
+(I'll sit on the stairs and relax... Oh!)
+
+@ASU_FEV:374 ASU 047fa7cd
+"{V1023}Oh, {Nm}..."
+
+@ASU_FEV:375 PLY 8cb1f513
+"Sakino, is that... an early lunch?"
+
+@ASU_FEV:376 ASU 4399da27
+"{V1024}Ahaha,{W40} you caught me.{W55} I had morning practice today,{W30} so I got hungry."
+
+@ASU_FEV:377 PLY adaeb24e
+"Haha, I see."
+
+@ASU_FEV:378 ASU b6df2610
+"{V1025}I-{W30}I don't always eat this much, you know.{W30} Today's just a fluke."
+
+@ASU_FEV:379 ASU dd38b19e
+"{V1026}Usually{W40} I eat{W10} less than{W25} an average guy..."
+
+@ASU_FEV:380.1 - d7b32a64
+{Ti0}- That's a tough excuse／- But it's more than most girls eat／- Getting fat is only a matter of time
+
+@ASU_FEV:381 PLY 91d5c67c
+"That's a tough excuse."
+
+@ASU_FEV:382 ASU 24b93bd0
+"{V1027}I-{W30}it's not an excuse!{W50} I really don't normally eat this much."
+
+@ASU_FEV:383 PLY 61de72d0
+"But it's more than most girls eat."
+
+@ASU_FEV:384 ASU d5a987df
+"{V1028}{W20}Well...{W35} yeah.{W20} Some girls hardly eat anything."
+
+@ASU_FEV:385 PLY b56b4196
+"True. Girls who care about their figure don't eat."
+
+@ASU_FEV:386 ASU 0338be93
+"{V1029}I care about{W35} my figure too, you know..."
+
+@ASU_FEV:387 PLY f44175ec
+"You don't need to worry, Sakino. You burn the calories exercising."
+
+@ASU_FEV:388 ASU 068f12fa
+"{V1030}Yeah!{W10} Right!"
+
+@ASU_FEV:389 PLY 36dca3fe
+"Getting fat is only a matter of time."
+
+@ASU_FEV:390 ASU 991efde5
+"{V1031}I-{W35}I guess{W5} so~"
+
+@ASU_FEV:391 ASU b0be6cb0
+"{V1032}{S}{Ec}{Fm3}Even so,{W45} a girl eating{W10} an early lunch is not okay~"
+
+@ASU_FEV:392 PLY 2bcd7cc5
+"Oh, but..."
+
+@ASU_FEV:393 PLY 47b37d73
+"I think it'd be fine if you gained a little, Sakino."
+
+@ASU_FEV:394 ASU 83bb3e35
+"{V1033}{Sd}{Eo}{F4}R-{W40}really?"
+
+@ASU_FEV:395 PLY 126ac13b
+"Yeah. You might even be more charming."
+
+@ASU_FEV:396 ASU 07db3499
+"{V1034}{B60}Huh?"
+
+@ASU_FEV:397 ASU 1a53eec4
+"{V1035}W-{W20}well then,{W30} I'd better try harder and eat more."
+
+@ASU_FEV:398 PLY 5b68ac1c
+"N-no, you don't have to force yourself to gain weight."
+
+@ASU_FEV:399 ASU 5a7e0b09
+"{V1036}{Eo}{F4}R-{W20}right.{Fe9m3}{Ec}{W45} Ahaha,{W50} I guess~"
+
+@ASU_FEV:400 PLY 01d2b5c2
+"...Anyway, why not eat openly in class instead of hiding?"
+
+@ASU_FEV:401 ASU 68c7cf8e
+"{V1037}Th-{W50}that's impossible.{F6}{W40} It's embarrassing,{W30} and{Fe9}{W35} against the school rules..."
+
+@ASU_FEV:402 PLY 443f358e
+"Haha, true."
+
+@ASU_FEV:403 ASU c310c8c5
+"{V1038}{Fm4}Honestly,{W40} you say that knowing full well..."
+
+@ASU_FEV:404 SYS 39f22be7
+And so I witnessed Sakino's early lunch.
+
+@ASU_FEV:406 PLY d4f781aa
+(I ended up at the Pool for no reason...)
+
+@ASU_FEV:407 PLY e936556c
+(I wonder if anyone's here...)
+
+@ASU_FEV:409 ASU 09ff16a0
+"{V1039}{Ts3}Huh?{W5} Oh! {Nm}!{W20} What?"
+
+@ASU_FEV:410 PLY 7f11ddc4
+"Whoa, why so loud?"
+
+@ASU_FEV:411 ASU 68c16562
+"{V1040}{Ts3}Huh?! Oh! S-{W10}sorry!"
+
+@ASU_FEV:412 ASU 16fc3082
+"{V1041}{Ts3}I got{W5} water in my ears,{W40} so I can't hear well!"
+
+@ASU_FEV:413 PLY df6b2731
+"I-I see..."
+
+@ASU_FEV:414 ASU 8b532b4d
+"{V1042}{Ts3}I was goofing around imitating synchro,{W20} and it got in both ears..."
+
+@ASU_FEV:415 PLY e69f2215
+"Haha, that's rough."
+
+@ASU_FEV:416 ASU cf1f3dbd
+"{V1043}{Ts3}{Fm4}I hope it{W40} drains soon."
+
+@ASU_FEV:417 PLY 0af43bd4
+"Haha... Take care..."
+
+@ASU_FEV:419 ASU dfd4b724
+"{V1044}Oh! {Nm}! Perfect timing!"
+
+@ASU_FEV:420 PLY 122df4f6
+"Huh?"
+
+@ASU_FEV:421 PLY d1ef45c9
+"Oh, Sakino. What's up?"
+
+@ASU_FEV:422 ASU 589cdfb2
+"{V1045}Well{W10}...{W45} a teacher{W20} asked me{W10} to carry some lab equipment...{Fm3}{W10}"
+
+@ASU_FEV:423 PLY c113b33d
+"Huh? Again? Didn't they ask you before?"
+
+@ASU_FEV:424 ASU 86c46b2e
+"{V1046}{Ec}{Fm6}...Yeah,{W35} they did."
+
+@ASU_FEV:425 PLY e609d142
+"Shouldn't you tell the teacher? That you don't want to go to the Science Prep Room alone."
+
+@ASU_FEV:426 ASU 3953539b
+"{V1047}{Eo}{Fm3}Y-{W40}yeah...{W60} I know.{Fe6m9}{W60} I just kept forgetting to say it..."
+
+@ASU_FEV:427 PLY a75c1a14
+"I see... Then, shall we go together?"
+
+@ASU_FEV:428 ASU 6f69017d
+"{V1048}{Fe2m3}{Ec}Yeah! Please!"
+
+@ASU_FEV:429 ASU 68a6fdd4
+"{V1049}Honestly,{W10} the teacher{W10} is the weird one...{W50} sending a girl{W10} to the Science Prep Room{W10} all by herself..."
+
+@ASU_FEV:430 ASU 7d093de1
+"{V1050}{Ec}A creepy place like this,{Eo}{W40} there's no way a girl could stay here alone..."
+
+@ASU_FEV:431 ERI e0bbd85e
+"{V1005}Home is where you live."
+
+@ASU_FEV:440 ASU 69049205
+"{V1051}Eeeek! A ghost!"
+
+@ASU_FEV:443 ERI 5bd3c86f
+"{V1006}{Eo}There's no ghost.{Fe4m3}{Ec}{W40} How unscientific..."
+
+@ASU_FEV:444 PLY e3b6b378
+"Oh, Futami."
+
+@ASU_FEV:446 ERI 35d3aa3d
+"{V1007}{Nm},{W30} who is this airheaded{W40} girl?"
+
+@ASU_FEV:449 ASU 0901953c
+"{V1052}A-{W40}airheaded..."
+
+@ASU_FEV:450 ASU d9f5408a
+"{V1053}{Sd}{F8}Well, you're so skinny,{W20} you look like a ghost yourself!"
+
+@ASU_FEV:455 ERI dcb75675
+"{V1008}{Sd}What did you say?!{W10} You're one to talk, baking your skin{W10} without fearing UV{W10} rays. Reckless girl!"
+
+@ASU_FEV:458 ASU be4bdec4
+"{V1054}I do wear sunscreen, you know!"
+
+@ASU_FEV:461 ERI 61ce6c6f
+"{V1009}{Ec}{F4}Oh, really.{Fe8m3}{W30} Then,{W10} you're just naturally dark?"
+
+@ASU_FEV:467 ASU 747b7fc1
+"{V1055}Grrrr!"
+
+@ASU_FEV:468 ERI 4d51cb7f
+"{V1010}What is with this girl,{Eh}{W40} she's annoying."
+
+@ASU_FEV:469 PLY b4916188
+(Eep... they really are opposites... They might not get along...)
+
+@ASU_FEV:470 PLY 50c850c8
+"Now, now, you two..."
+
+@ASU_FEV:475 ASU 1833c355
+"{Ts3}{V1056}You stay out of this, {Nm}!"
+
+@ASU_FEV:476 ERI aca838d3
+"{Ts3}{V1011}Stay out of this, {Nm}."
+
+@ASU_FEV:478 PLY 8a761265
+"{Ts1}O-okay..."
+
+@ASU_FEV:479 PLY df564bc4
+(Best to just leave them alone, yeah. Try to get along~. ...Can't see that happening.)
+
+@ASU_FEV:480 ASU 56798e16
+"{V1057}Oh! {Nm}! Perfect timing!"
+
+@ASU_FEV:481 ASU 218d9dab
+"{V1058}See,{W10} the science{W40} teacher{W20} asked me{W10} to carry some{W10} experiment equipment..."
+
+@ASU_FEV:482 ASU 912f5cf1
+"{V1059}{F6}But I{W40} don't want to go{W10} to the Science Prep Room alone...{Fe9m3}{W70} Will you come with me?"
+
+@ASU_FEV:483 PLY 747d86c4
+"You mean, help you?"
+
+@ASU_FEV:484 ASU 0ad2f53d
+"{V1060}No,{Eo} not that.{Fm3}{W50} Just coming along is enough."
+
+@ASU_FEV:485 ASU dea47d71
+"{V1061}{Fm6}Look,{W60} it's dim in there,{W10}{W60} and there's a human anatomy model and stuff,{W30} so it's creepy, isn't it?"
+
+@ASU_FEV:486 ASU 9b0414a5
+"{V1062}{F6}I can't stand it..."
+
+@ASU_FEV:487 PLY 23e40f77
+"Oh, really? That's surprising."
+
+@ASU_FEV:488 ASU 7736ece4
+"{V1063}{Fe9m3}You think?"
+
+@ASU_FEV:489 PLY 8e1edf31
+"Yeah. If anything, I figured you wouldn't mind that kind of thing."
+
+@ASU_FEV:490 ASU e6bbddec
+"{V1064}{S}{Ec}{F9}I guess I look like it,{W40} so the teacher{W20} asks me,{W10} I think..."
+
+@ASU_FEV:491 ASU e54dffad
+"{V1065}{Sd}{Eo}{Fm6}Actually,{W60} I'm bad with dark places,{W60} and creepy places,{W40} that kind of thing."
+
+@ASU_FEV:492 ASU 153b8c38
+"{V1066}{Fe9m3}Besides,{W60} I don't think any girl{W10} likes the Science Prep Room."
+
+@ASU_FEV:493 PLY d01acd4c
+"{Ts1}...Not necessarily."
+
+@ASU_FEV:494 ASU 54a2628e
+"{V1067}{F4}Hm?{W40} Did you say something?"
+
+@ASU_FEV:495 PLY 389daf6c
+"No, nothing. Okay, let's go together."
+
+@ASU_FEV:496 ASU 798a6b21
+"{V1068}{F3}{Ec}Yeah!{W30} Thanks."
+
+@ASU_FEV:497 SYS 61d86e18
+...And so, we went to the Science Prep Room together.
+
+@ASU_FEV:499 PLY 677781d7
+(...The Gym after school. There's no one here in particular...)
+
+@ASU_FEV:500 PLY be0a0485
+(Hm? Something's lying there?)
+
+@ASU_FEV:502 PLY 37a93bf6
+(A wristband. Whose is it... Could it be...)
+
+@ASU_FEV:504 PLY f2675b42
+"Ah, Hoshino. There you are."
+
+@ASU_FEV:505 YUM 579b0084
+"{V1336}{F3}{Nm}, what is it?"
+
+@ASU_FEV:506 PLY 82647a41
+"Is this maybe yours, Hoshino?"
+
+@ASU_FEV:508 YUM bb56cee5
+"{V1337}A wristband?{F9}{W50} No,{W35} it's not mine."
+
+@ASU_FEV:509 PLY 67919fb4
+"R-right."
+
+@ASU_FEV:510 PLY 0524dbde
+(So it wasn't Hoshino's...)
+
+@ASU_FEV:511 PLY e2b3ed61
+"See you, then."
+
+@ASU_FEV:512 YUM 70ffcbce
+"{V1338}{Ec}{W20}Yes."
+
+@ASU_FEV:514 PLY e2bc9422
+(...So whose is it? I can't tell, so I'll put it in the lost-and-found box in the Staff Room.)
+
+@ASU_FEV:515 PLY f8e7c473
+"Ah, Narumi. There you are."
+
+@ASU_FEV:516 NAR 660a2949
+"{V1252}Ah, {Nm}!{W20} Do you need something?"
+
+@ASU_FEV:517 PLY 10059526
+"I just picked this up. Is it yours, Narumi?"
+
+@ASU_FEV:518 NAR e95625a8
+"{V1253}A wristband?{W15}{F9}{W70} No,{W20} it's not mine."
+
+@ASU_FEV:519 PLY 6b52f633
+(So it wasn't Narumi's...)
+
+@ASU_FEV:520 PLY ee2b5073
+"Sorry to bother you, Narumi. See you."
+
+@ASU_FEV:521 NAR 89bffae4
+"{V1254}Okay.{W3} Come by anytime.{Ec}{W5} I'll be waiting!"
+
+@ASU_FEV:528 MAO 1de965a5
+"{V1326}{W10}Boo!"
+
+@ASU_FEV:529 PLY ffc5cdbf
+"Whoa!"
+
+@ASU_FEV:530 PLY 6b600efe
+"M-Mao..."
+
+@ASU_FEV:531 MAO 1e457e2f
+"{Nn}..."
+
+@ASU_FEV:533 MAO a2022d23
+"{V1328}{W35}Don't{W1}{W1}{W3}{W1}{W1}{W1}{W1}{W1} scare{W1} me{W1} like{W1} that,{W3}{W3}{W3} honestly.{W15} We{W1} almost{W1} collided!"
+
+@ASU_FEV:534 PLY 6c1b2754
+"S-sorry."
+
+@ASU_FEV:535 MAO fcebc711
+"{V1329}So,{W30} did you{W3} need{W3} something?"
+
+@ASU_FEV:536 MAO b61056e5
+"{V1330}{W10}You came{W6} to{W5} see me, didn't you?{W15} {Ec}{W5}{Fe9}{Eo}Or{W2} not?"
+
+@ASU_FEV:537 PLY 0321467c
+"Ah... no, I just picked this up. Is it yours, Mao?"
+
+@ASU_FEV:538 MAO eadc4dc7
+"{V1321}{W20}What is{W10} this?"
+
+@ASU_FEV:539 PLY 9053f8be
+"A wristband?"
+
+@ASU_FEV:540 MAO 6b502152
+"{V1322}{W20}I can see that."
+
+@ASU_FEV:541 MAO 54b73f61
+"{V1323}{W20}Have you ever seen me{W15} wear a wristband?"
+
+@ASU_FEV:542 PLY 374822a7
+"...No."
+
+@ASU_FEV:543 MAO e6a4078e
+"{V1324}Then there's no way it's mine."
+
+@ASU_FEV:544 PLY f125d3df
+"R-right. Sorry."
+
+@ASU_FEV:545 MAO a8d1f0b1
+"{V1325}{W10}Honestly,{W5} really.{W20} See you."
+
+@ASU_FEV:546 PLY 45e65d03
+"Ah, Mao... she's gone."
+
+@ASU_FEV:547 PLY 91815a0d
+(Maybe it's Sakino's? I'll try returning it.)
+
+@ASU_FEV:548 PLY b81f0627
+(Sakino should be at club activities at this hour, so the Schoolyard.)
+
+@ASU_FEV:549 ASU bcfe2d84
+"{V1069}Ah, {Nm}. What is it?"
+
+@ASU_FEV:550 PLY d7125fcf
+"I just picked this up. Is it yours, Sakino?"
+
+@ASU_FEV:551 ASU 3b2ef617
+"{V1070}Ah!{W40} My wristband!"
+
+@ASU_FEV:552 PLY a0823320
+"I knew it was yours, Sakino."
+
+@ASU_FEV:553 ASU 697cfd60
+"{V1071}{F2}{Ec}Thanks for finding it!{Eo}{F3}{W50} Where was it?"
+
+@ASU_FEV:554 PLY 128efc19
+"In the Gym."
+
+@ASU_FEV:555 ASU 35b9c074
+"{V1072}{Fm6}Oh, I thought so...{F9}{W80} I noticed it was missing{W5} after PE,{W30} so I figured it was around there..."
+
+@ASU_FEV:556 ASU 58fad232
+"{V1073}{Fm3}I must have dropped it{W10} when I took it off{W5} after{W5} class..."
+
+@ASU_FEV:557 PLY e566d0ab
+"Good thing it turned up."
+
+@ASU_FEV:558 ASU 58611382
+"{V1074}{F2}{Ec}Yeah!{W30} Thanks for going out of your way{W35} to bring it!"
+
+@ASU_FEV:559 ASU b88a7b63
+"{V1075}{Eo}You're{W45} really kind, {Nm}."
+
+@ASU_FEV:560 PLY 19fd7bf0
+"I-it's nothing..."
+
+@ASU_FEV:561 ASU f6c462bc
+"{V1076}{Ec}Hehe."
+
+@ASU_FEV:562 ASU 9ea03464
+"{V1077}Okay,{W30} see you later."
+
+@ASU_FEV:563 SYS ed8b2e1b
+...And so, I returned the lost item to Sakino.
+
+@ASU_FEV:565 PLY 4004890a
+"Ah, Futami. There you are."
+
+@ASU_FEV:566 ERI c11b4912
+"{V1012}{Nm}...{Eh}{Fm3} Do you need something?"
+
+@ASU_FEV:567 PLY 58ba92cc
+"I just picked this up. Is it yours, Futami?"
+
+@ASU_FEV:568 ERI c87ebde3
+"{V1013}{Fm4}A wristband..."
+
+@ASU_FEV:569 PLY bad3355d
+"Yeah..."
+
+@ASU_FEV:570 ERI 069ca433
+"{V1014}{Ec}{Fe4m3}Do you think{W5} it would{W5} suit me?"
+
+@ASU_FEV:571 PLY 75d1757b
+"Huh? W-well, that's a hard question..."
+
+@ASU_FEV:572 ERI b53aeb29
+"{V1015}{Eh}It's not mine.{Ec}{Fm4}{W30} I've never worn such a thing."
+
+@ASU_FEV:573 PLY fe25e079
+"See you, Futami."
+
+@ASU_FEV:574 ERI acf6738d
+"{V1016}{Eh}{F3}Yes."
+
+@ASU_FEV:575 PLY e28cf22b
+"Ah, Shijou. There you are."
+
+@ASU_FEV:576 MIT 86357dbd
+"{V1190}{F4}{Nm}.{F3} Is something the matter?"
+
+@ASU_FEV:577 MIT ae1964f9
+"{V1191}{F4}Master,{F3} is something the matter?"
+
+@ASU_FEV:578 PLY e2bcf758
+"I just picked this up. Is it yours, Shijou?"
+
+@ASU_FEV:579 MIT ff879fcf
+"{V1192}A wristband..."
+
+@ASU_FEV:580 MIT b59343fe
+"{V1193}Unfortunately,{W30} it is not mine."
+
+@ASU_FEV:581 MIT aab652ee
+"{V1194}My arms{W40} are thin,{Fm3}{W35} so this size would be far too loose."
+
+@ASU_FEV:582 PLY 9d6abc0b
+"Hahaha, I see."
+
+@ASU_FEV:583 MIT db0b8d88
+"{V1195}{F3}Are you looking for the owner?"
+
+@ASU_FEV:584 PLY 94964548
+"Yeah, since I picked it up..."
+
+@ASU_FEV:585 MIT 263bd82e
+"{V1196}{Ec}That is a very good thing to do.{Eo}{W33} Please let me help you search as well."
+
+@ASU_FEV:586 PLY 003b8dfd
+"Oh, no, it's fine. I just thought it might be yours, Shijou."
+
+@ASU_FEV:587 PLY f4a80c49
+"I think it's better to hand it in at the Staff Room than to search around."
+
+@ASU_FEV:588 MIT 44099e7f
+"{V1197}{F9}That is...{F3}{W5} true."
+
+@ASU_FEV:589 MIT f61ee41a
+"{V1198}It would be pointless{W40} if we missed each other."
+
+@ASU_FEV:590 PLY e823566d
+"See you, Shijou."
+
+@ASU_FEV:591 MIT 4afe54d8
+"{V1199}{Ec}Yes.{W30} Take care."
+
+@ASU_FEV:592 PLY bb646514
+(Oh well... I'll put it in the Staff Room lost-and-found box.)
+
+@ASU_FEV:593 ASU efb4edb2
+"{V1078}Ah, {Nm}."
+
+@ASU_FEV:594 ASU 151d9d58
+"{V1079}{F2}{W10}Did you watch{W3} the Japan national team match{W10} yesterday?{Ec}{W40} That was an amazing shot~!"
+
+@ASU_FEV:595 PLY b1a83d10
+"Huh? There was a match yesterday?"
+
+@ASU_FEV:596 ASU 90e80f18
+"{V1080}{Eo}{F4}{W10}Huh?{W30} You didn't watch?{F9}{W60} Too bad~,{W70} it was an incredible shot~!"
+
+@ASU_FEV:597 PLY c5b3371d
+"Really? I blew it."
+
+@ASU_FEV:598 ASU 8df7ac25
+"{V1081}{F2}The news tonight{W2} should show the video{W2} so you should watch.{Ec}{W25} {Eo}{Fe8m4}{W40}A bullet shot that wakes you right up..."
+
+@ASU_FEV:601 - 4d5110a8
+Underclassman
+
+@ASU_FEV:603 MIC afd1862a
+"{V0000}S-{W30}Senpai!"
+
+@ASU_FEV:604 PLY 21e4acd1
+"Huh?!"
+
+@ASU_FEV:605 ASU 0c96a47e
+"{V1082}{F4}Huh?!"
+
+@ASU_FEV:607 MIC 6a0c8988
+"{V0001}Th-{W30}this! {W20}Please read it!{Ec}"
+
+@ASU_FEV:608 ASU 6fd8e923
+"{V1083}{F5}What?!"
+
+@ASU_FEV:609 ASU 612a2419
+"{V1084}{Eh}{Fe8m3}W-{W40}well,{W20} well...{W60}{Ec}{Fm4} you're{W30} quite the heartbreaker,{W40} {Nm}.{Eh}{Fe4m3}{W80} Why not accept it?"
+
+@ASU_FEV:610 PLY 78c8e40a
+"Y-you can't just say that..."
+
+@ASU_FEV:611 MIC 5541e74e
+"{V0002}N-{W20}no! It's for{W30} Asuka!{W40} P-{W30}please,{W35} take it!{Ec}"
+
+@ASU_FEV:612 ASU 68b01914
+"{V1085}{Eo}{S}{F5}What?!{W25} M-{W15}me?!"
+
+@ASU_FEV:613 MIC 7c4ed0ee
+"{V0003}Yes!"
+
+@ASU_FEV:614 PLY 13b6dedb
+(Oh, it's not for me... I'm kind of relieved and kind of disappointed.)
+
+@ASU_FEV:615 ASU 0048c050
+"{V1086}{Sd}{Fe9m4}I-{W20}I can't,{W5} not with something like this.{Fm4}{W30} We're both girls, too..."
+
+@ASU_FEV:616 MIC 0b7298ac
+"{V0004}It's enough if you just accept it!{Ec}"
+
+@ASU_FEV:618 PLY 80255910
+"Hahaha, why not accept it?"
+
+@ASU_FEV:619 ASU 61eb8762
+"{V1087}{F6}...Honestly,{Fe9m4}{W40} you think it's someone else's problem..."
+
+@ASU_FEV:620 SYS 16fc151c
+In the end, Sakino politely refused and did not take the letter.
+
+@ASU_FEV:621 SYS 417c2b87
+Even if it's from a girl, getting a letter at all... I'm jealous.
+
+@ASU_FEV:623 PLY 5eff1b2e
+(Hm? There's a burning smell coming from the Home Ec Room...)
+
+@ASU_FEV:624 PLY 5cf23ebd
+(Who is it? Did someone burn something?)
+
+@ASU_FEV:625 ASU 632cbe9a
+"{V1088}Ah, {Nm}."
+
+@ASU_FEV:626 PLY 09175319
+"Ah, Sakino..."
+
+@ASU_FEV:627 PLY 588d67b2
+"It smells kind of burnt. What happened?"
+
+@ASU_FEV:628 ASU efd87b2e
+"{V1089}{B40}{F4}Huh?{W40} {F9}It's leaking out into the hallway?"
+
+@ASU_FEV:629 PLY dcd78336
+"A little..."
+
+@ASU_FEV:630 ASU 71190b95
+"{V1090}{S}{Ec}{Fe2}Eh{W10}ehe,{Eo}{W70} I was making tamagoyaki, but{Ec}{F6}{W45} I messed it up..."
+
+@ASU_FEV:631 PLY 876a2929
+"I see..."
+
+@ASU_FEV:632 ASU cb957274
+"{V1091}{B0}{Sd}{Eo}{F9}I'm bad at cooking,{W40} so everyone in my group said,{W23} '{Fm4}Asuka, you just make the omelet,'{Fm6} but..."
+
+@ASU_FEV:633 ASU 98370e4b
+"{V1092}I messed that up too...{Ec}{Fm3}{W50} Ahaha..."
+
+@ASU_FEV:634.1 - 875e5fe3
+{Ti0}- I hope you get it right next time／- Tamagoyaki is surprisingly hard／- Burnt is still edible
+
+@ASU_FEV:635 PLY 9f7a9cef
+"I hope you get it right next time."
+
+@ASU_FEV:636 ASU d2c34938
+"{V1093}{F9}{Eo}Who knows.{W55} I like eating more{W30} than cooking."
+
+@ASU_FEV:637 PLY 51183797
+"Hahaha, that's so like you, Sakino."
+
+@ASU_FEV:638 ASU 3ef83538
+"{V1094}{Ec}{Fe2m3}Ahaha,{W30} I think so too."
+
+@ASU_FEV:639 PLY 62f54e97
+"Tamagoyaki is surprisingly hard."
+
+@ASU_FEV:640 ASU 7f486834
+"{V1095}{Eo}{F4}Huh?{W35} Really?"
+
+@ASU_FEV:641 PLY 0204ecd0
+"You know, even at sushi shops they say you judge the chef's skill by the tamagoyaki, right?"
+
+@ASU_FEV:642 ASU f63ef8b6
+"{V1097}{W10}Wow{W15}w,{Fm3}{W20} really?{F2}{W70} Then{W30} no wonder I messed it up.{Ec}"
+
+@ASU_FEV:643 PLY 35e11b96
+"Burnt is still edible."
+
+@ASU_FEV:644 ASU 14e0446e
+"{V1098}{Eo}{S}{Fe4m8}Ah! No! Don't eat that!"
+
+@ASU_FEV:645 PLY 43b97403
+"But you worked so hard to make it..."
+
+@ASU_FEV:646 ASU 2dd8e5b6
+"{V1099}{Sd}{Fe9m6}{Nm}...{F}{m}Thanks."
+
+@ASU_FEV:647 ASU ee357861
+"{V1100}{F2}{Ec}The thought alone makes me happy."
+
+@ASU_FEV:648 PLY e5bf145b
+"Want me to help clean up?"
+
+@ASU_FEV:649 ASU 250bc1bb
+"{V1101}{Ec}{Fe4m3}No, I'm fine.{F3}{Eo}{W35} I just have to wash the frying pan and I'm done."
+
+@ASU_FEV:650 PLY 80678da5
+"Okay. See you later, then."
+
+@ASU_FEV:651 ASU 2d8b2744
+"{V1102}{F2}{Ec}Yeah! See you later."
+
+@ASU_FEV:653 PLY 73403ada
+(I ended up at the Pool without really meaning to...)
+
+@ASU_FEV:654 ASU a5f37807
+"{V1103}{F4}Huh?{B100}{W40} Ah... {Nm}..."
+
+@ASU_FEV:655 ASU c1500590
+"{V1104}{B40}W-{W30}why are you here?"
+
+@ASU_FEV:656 PLY 2a678d6f
+"Ah, no... it's just... hahaha... no real reason..."
+
+@ASU_FEV:657 ASU fec12d60
+"{V1105}{Ec}{Fe2m3}{B20}Hehe,{W40} I see.{Eo}"
+
+@ASU_FEV:658 PLY 0d80b9d5
+"......"
+
+@ASU_FEV:660 ASU 2a81dd22
+"{V1106}{B100}......"
+
+@ASU_FEV:661 PLY cd45ec39
+(T-this is bad, what do I talk about...)
+
+@ASU_FEV:662 ASU 8882a1ae
+"{V1107}{F9}D-{W30}don't stare so much..."
+
+@ASU_FEV:663 ASU b705fb3c
+"{V1108}{Ec}{Fm3}If you look at me like that,{W40} I get embarrassed..."
+
+@ASU_FEV:664 PLY 77e38448
+"Ah, s-sorry!"
+
+@ASU_FEV:665 ASU ceee4bd5
+"{V1109}W-{W10}well, see ya.{Eo}{W25} I have to get changed."
+
+@ASU_FEV:666 PLY 1ea1b704
+"Y-yeah."
+
+@ASU_FEV:667 PLY 8a145ebe
+(She's gone... I didn't think she was the type to get shy about being seen in a swimsuit...)
+
+@ASU_FEV:668 PLY 9640de02
+(Maybe I stared a bit too much...?)
+
+@ASU_FEV:670 TOM 4e370d0d
+"{V0113}Ah, {Nm}, good timing."
+
+@ASU_FEV:671 PLY a386ad31
+"Oh, Ms. Kawada. Do you need something?"
+
+@ASU_FEV:672 TOM 2a16de93
+"{V0114}{Fe9}It's not really something{W5} I need,{W40} but I want to ask you something."
+
+@ASU_FEV:673 PLY 23af3f0f
+"What is it?"
+
+@ASU_FEV:674 TOM a4ac999d
+"{V0115}{F3}{Nm}...{W50} did something happen{W30} between you and Sakino?"
+
+@ASU_FEV:675 PLY 67bb80c4
+"What?! W-why do you ask?"
+
+@ASU_FEV:676 TOM 7e91fe5e
+"{V0116}Lately{W5} she talks about{W5} you{W40} a lot.{Fe9}{W45} And with{W40} sparkling eyes, too."
+
+@ASU_FEV:677 PLY fecab4a5
+"R-really...?"
+
+@ASU_FEV:678 TOM 0af8c9c7
+"{V0117}Those are the eyes{W35} of a girl{W5} in{W10} love{W10}..."
+
+@ASU_FEV:679 TOM d8564770
+"{V0118}{Eo}Fufu,{W40} being liked by such a nice girl,{W45}{Ec} you{W10} are{W10} something, {Nm}."
+
+@ASU_FEV:680 PLY 293925ce
+"Hahahaha. Ms. Kawada..."
+
+@ASU_FEV:681 TOM 5b31870d
+"{V0119}{Eo}{F4}What?"
+
+@ASU_FEV:682 PLY f7cd6177
+"Did you stop me just to tell me that?"
+
+@ASU_FEV:683 TOM 8e664686
+"{V0120}{F3}Yes, I did.{Fe9}{W50} Sakino is oblivious,{Ec}{W40} and you seem pretty oblivious too,{W50} so I thought I'd say a word."
+
+@ASU_FEV:684 PLY 334b8e1b
+"Hahaha... thank you."
+
+@ASU_FEV:685 TOM 613c46e0
+"{V0121}{Eo}Maybe it's because{W40} she's fulfilled,{F3}{W30} but her swimming is so free{W10} and wonderful."
+
+@ASU_FEV:686 TOM e74c5e54
+"{V0122}{F6}I wish she'd join the Swim Club,{W15} but{W50} not if she has no interest...{Ec}"
+
+@ASU_FEV:687 TOM fe0ee798
+"{V0123}{Eo}{F3}Well, see you, {Nm}.{W20} Do your best!{Ec}"
+
+@ASU_FEV:688 PLY 82d01c25
+"Y-yes. Excuse me."
+
+@ASU_FEV:689 PLY 853279b7
+(Ms. Kawada really doesn't act like a teacher...)
+
+@ASU_FEV:690 PLY f3203f40
+(I'm a little late... Is Sakino here already?)
+
+@ASU_FEV:691 PLY e965b169
+(Ah, there she is. ...Ah.)
+
+@ASU_FEV:695 PLY e6e3ed9b
+(Hahahaha... asleep on her textbook again.)
+
+@ASU_FEV:696 PLY cd9d20b6
+(Did she study late into the night yesterday...?)
+
+@ASU_FEV:697.1 - 41efb310
+{Ti0}- Wake her up／- Let her sleep
+
+@ASU_FEV:698 PLY 64b79313
+"Sakino! Sakino!"
+
+@ASU_FEV:699 ASU f64379a3
+"{V1110}{W25}Hwaah,{W120} hwaah..."
+
+@ASU_FEV:700 PLY ad1efede
+"Sakino!"
+
+@ASU_FEV:701 ASU b878d745
+"{V1111}Hehe,{W80} I solved{W15} this{W15} many..."
+
+@ASU_FEV:702 PLY 3393707d
+"It's no use, she won't wake up. I'll give up on studying today."
+
+@ASU_FEV:703 PLY 8aa2bdf5
+(It'd be cruel to wake her. I'll let her sleep a while.)
+
+@ASU_FEV:704 PLY 8d59ac22
+(I'll study in the meantime, so I can teach Sakino more...)
+
+@ASU_FEV:705 SYS fd1da66b
+...And so I studied alone for a while.
+
+@ASU_FEV:706 ASU 5f370547
+"{V1112}{W10}Ah, {Nm}...{W28} Was I{W20} asleep?"
+
+@ASU_FEV:707 PLY 77846fa9
+"Yeah, you were sleeping soundly."
+
+@ASU_FEV:708 ASU 6fc6e9bb
+"{V1113}{W10}Sorry, falling asleep like that.{Fm6}{W45} I should be trying harder."
+
+@ASU_FEV:709 PLY 16c787cf
+"No, I think you're doing your best. I'm sure the quiz will go well."
+
+@ASU_FEV:710 ASU f185c4aa
+"{V1114}{Fm3}You think so...?"
+
+@ASU_FEV:711 PLY 8422b3f8
+"I do."
+
+@ASU_FEV:712 ASU aa0e1b89
+"{V1115}...Mm,{W75} talking to you, {Nm},{W35} woke me up.{Fe8m4}{W70} Al{W20}right,{W50} one more push!"
+
+@ASU_FEV:713 PLY 90fbe5ca
+"Are you okay?"
+
+@ASU_FEV:714 ASU a4a6b106
+"{V1116}{Ec}{Fe2m3}Yeah!{W30}{Eo}{Fe3m4} Right away, then,{W40} how do I translate this part,{W18} can you show me?{Fm3}"
+
+@ASU_FEV:715 ASU 70b3063a
+"{V1117}{F9}I couldn't figure it out,{W35} and while I was thinking I got sleepy..."
+
+@ASU_FEV:716 PLY 16089b78
+"I thought so, so I was looking into it just now. Here, it goes like this..."
+
+@ASU_FEV:717 ASU 053a7448
+"{V1118}{B40}{Nm}...{Fe2m3}{Ec}thanks..."
+
+@ASU_FEV:718 SYS f4cc27e9
+...And so we studied together.
+
+@ASU_FEV:721 ASU f3a35e9c
+"{V1119}Ah, {Nm}."
+
+@ASU_FEV:722 PLY a20a3924
+"Wah! S-Sakino! Why are you dressed like that..."
+
+@ASU_FEV:723 ASU ee55c174
+"{V1120}Ehehe,{W50} I hung a towel on the Pool window{W30} and the wind blew it away."
+
+@ASU_FEV:725 ASU 1a71792e
+"{V1121}{Fe2m3}See ya,{Ec}{W20} later!"
+
+@ASU_FEV:726 ASU 20c48d29
+"{V1122}{Fm4}Since I'm skipping club activities,{Fe2m3}{W40} I'm{W10} really looking forward to PE class!{Ec}"
+
+@ASU_FEV:727 PLY 1aa06287
+(I see... she does love exercise...)
+
+@ASU_FEV:728 ASU 14e314af
+"{V1123}{Eo}{F2}Alright,{W10} now{W50} let's swim{W10} as hard as I can!"
+
+@ASU_FEV:729 PLY 57953ca6
+(Sorry, Sakino. But just a little longer...)
+
+@ASU_FEV:733 - 64c62dc2
+girl
+
+@ASU_FEV:734 ASU 5f2f9305
+"{V5048}Okay,{W10} now,{W40} PE,{W20} PE!{W45} Today is fun{W5} volleyball!"
+
+@ASU_FEV:735 ASU c4a477f1
+"{V5049}Let's see,{W10}{W45} how many balls{W10} should I bring?"
+
+@ASU_FEV:736 ASU 512082a2
+"{V5050}Take the whole basket and do a thousand{W30} receives?{W30} Hehe,{W40} sounds{W5} fun!"
+
+@ASU_FEV:737 PLY 0d0ab461
+(Huh! That voice... Don't tell me class has already started?)
+
+@ASU_FEV:738 PLY 1851532d
+"{Ts1}Let's see what's going on outside..."
+
+@ASU_FEV:751 PLY f303d5d9
+({Ts3}Whoa!)
+
+@ASU_FEV:752 PLY a259b30b
+(B-bloomers, so close!)
+
+@ASU_FEV:753 ASU 044540bc
+"{V5051}Huh?{W30} Only three is enough?{W45} Aw,{W30} what a shame."
+
+@ASU_FEV:754 PLY a7479877
+(Ugh... w-who is it? Should I peek at the other tiers too?)
+
+@ASU_FEV:755.1 - df527432
+{Ti0}- Upper tier／- Lower tier
+
+@ASU_FEV:756 PLY 8533d1ba
+(The upper tier...)
+
+@ASU_FEV:763 PLY b2a3edad
+(Whoa! A-a chest!)
+
+@ASU_FEV:764 PLY 3f3ce258
+(The lower tier...)
+
+@ASU_FEV:768 PLY 1e936bf8
+(Whoa! T-thighs!)
+
+@ASU_FEV:769 PLY 0a159107
+(Huh! ...Wait, this is exactly like peeping!)
+
+@ASU_FEV:770 SYS dc2db933
+Clunk!
+
+@ASU_FEV:771 PLY 571cde3a
+(D-damn!)
+
+@ASU_FEV:772 ASU 22239c89
+"{V5052}W-{W30}who's there?!{W45} Is someone inside the vaulting box?"
+
+@ASU_FEV:773 ASU ed728a24
+"{V5053}Who is it?!"
+
+@ASU_FEV:774 PLY f7852b2b
+(There's no way I can answer...)
+
+@ASU_FEV:775 ASU 10fc3a88
+"{V5054}......"
+
+@ASU_FEV:778 ASU 1a20106e
+"{V1124}That's strange,{W70} I{W30} definitely heard a noise..."
+
+@ASU_FEV:779 PLY 7b4942c2
+(S-Sakino! If she sees me here, I'm finished!)
+
+@ASU_FEV:780 ASU 72546cf0
+"{V1125}{Fe8}Okay,{W50} let's lift{W10} the first tier off."
+
+@ASU_FEV:781 PLY 4701593b
+(Huh?!)
+
+@ASU_FEV:785 PLY 3119223d
+(This is bad... really bad! I have to keep it from being lifted! ...Okay, I found a spot to hook my hands!)
+
+@ASU_FEV:786 ASU 678fa7e1
+"{V1126}Heave-ho{W20}!"
+
+@ASU_FEV:788 PLY 6d450b05
+(Not a chance!)
+
+@ASU_FEV:789 ASU 19ffd47e
+"{V1127}Huh?{W40} It's heavy.{W60} Is something caught?"
+
+@ASU_FEV:790 PLY a38e8a0e
+(Huff, huff, huff...)
+
+@ASU_FEV:791 ASU 8162c57e
+"{V1128}Okay,{W10}{W45} one more time!"
+
+@ASU_FEV:792 PLY fe70bfdf
+(What?! Again?!)
+
+@ASU_FEV:793 ASU 2420eea7
+"{V1129}Hyaaaaaaah{W20}!{W60}"
+
+@ASU_FEV:794 PLY 4cc80b95
+(Uoooooooooh!)
+
+@ASU_FEV:795 ASU d1409709
+"{V1130}Nnnnnnnnnng{W10}!{W40}"
+
+@ASU_FEV:796 PLY 675ac2b5
+(Whoa, she's so strong...)
+
+@ASU_FEV:797 PLY 7911bd06
+(I-it's no use...)
+
+@ASU_FEV:799 SYS 655aa84f
+{Ts4}Clunk!
+
+@ASU_FEV:800 ASU d09266bf
+"{V1131}I did it!{W10}{W30} It came off!{W10}"
+
+@ASU_FEV:801 PLY ca7a57ad
+(Ah... it's over...)
+
+@ASU_FEV:802 ASU 7dba985f
+"{V1132}...Ah,{W30} yes!{W30} I'll{W8} bring it{W8} right{W5} away!{W25} Sorry!"
+
+@ASU_FEV:803 SYS 8e4f0fa6
+Clunk!
+
+@ASU_FEV:806 PLY 9b949d17
+(...Hahaha, she put it back without looking inside. I-I'm saved.)
+
+@ASU_FEV:807 PLY 2b9e2eff
+(Honestly, I thought I was going to die...)
+
+@ASU_FEV:808 PLY 4608b9ec
+(I'll stay here until things cool down...)
+
+@ASU_FEV:809 SYS 3b476999
+...And so I spent the time inside the vaulting box.
+
+@ASU_FEV:810 NAR 060d8d76
+"{V1255}{W20}Asuka,{W20} thank you so much!{W25} You saved me!"
+
+@ASU_FEV:811 ASU 20c03b3b
+"{V1133}{W20}You're welcome."
+
+@ASU_FEV:812 PLY 4109a7e7
+(Hm? Voices from the Home Ec Room... That voice is...)
+
+@ASU_FEV:815 PLY 2089b296
+"Narumi and Sakino."
+
+@ASU_FEV:816 NAR 9e8c18e3
+"{V1256}{W20}Ah, Senpai!"
+
+@ASU_FEV:817 ASU b8b4f281
+"{V1134}{W10}{F4}{Nm}."
+
+@ASU_FEV:818 PLY 099c93c7
+"Do you two know each other?"
+
+@ASU_FEV:819 NAR b8d534fb
+"{V1257}{Fm4}{W20}Know each other, well...{F3}{W25} every girl in Year 1{W25} looks up to Asuka..."
+
+@ASU_FEV:820 ASU 5c0e85ca
+"{V1135}{Fe9m4}Geez,{W30} don't say that..."
+
+@ASU_FEV:821 PLY 54a3786b
+"Ah, right!"
+
+@ASU_FEV:822 ASU 1a89da9b
+"{V1136}{W10}Geez! {W20}Not you too, {Nm}!"
+
+@ASU_FEV:823 PLY ef586f43
+"Sorry, sorry."
+
+@ASU_FEV:824 PLY de77d909
+"...So, what were you two doing?"
+
+@ASU_FEV:825 NAR d86d8b8f
+"{V1258}{W20}Asuka{W25} opened a jar of doubanjiang for me{Fe2}{Ec}."
+
+@ASU_FEV:826 ASU 20fdcfc9
+"{V1137}{Ts1}{F4}Ah! {Fe6}{Ec}{W20}You didn't have to say that..."
+
+@ASU_FEV:827 NAR 26f8f221
+"{V1259}{Eo}{Fe6m4}You hardly ever use doubanjiang, and it's sticky,{Fe9}{W20} so {Fm3}{W20}I couldn't get the lid off with my strength..."
+
+@ASU_FEV:828 NAR cf8256f3
+"{V1260}{F3}But then {W10}Asuka walked by{W10} and gave it a little twist, {F4}and it just went pop, {F2}{Ec}{W5}right open~!"
+
+@ASU_FEV:829 PLY a1218c0c
+"Ahahaha, that's good."
+
+@ASU_FEV:830 NAR a67612ef
+"{V1261}Yes!"
+
+@ASU_FEV:831 ASU 8a94c51e
+"{V1138}{Fe8m4}Geez! {W15}Why would you tell him that?!"
+
+@ASU_FEV:832 NAR 63649dd0
+"{V1262}{Eo}{F4}Huh? {Fe9m6}{W80}Was that bad{W10}...{W30} of me?"
+
+@ASU_FEV:833 ASU 199a37a5
+"{V1139}{F6}It's not bad{W10}...{Fe9m4}{W30} but being strong even{W10} though I'm a girl,{Ec}{Fe6}{W20} that's nothing to brag about..."
+
+@ASU_FEV:834 NAR be13b726
+"{V1263}{W30}Really? ...{Fm4}{W25}I think you're wonderful, Asuka...{Fm3}{W15}"
+
+@ASU_FEV:835 ASU 9490783d
+"{V1140}Oh, {W40}thanks. {Fm4}{W70}That makes me happy, but {Ec}{Fm9}that's not the point{W20}...{Eo}{W30} Geez..."
+
+@ASU_FEV:836 PLY bf3a1bc0
+"Ahaha, that's so Narumi."
+
+@ASU_FEV:837 ASU a95bc90c
+"{V1141}{Fe6m4}{Ts1}...Why in front of you...{W30} {Nm}...{Ec}"
+
+@ASU_FEV:838 PLY a13079bb
+(It's hot already this morning...)
+
+@ASU_FEV:839 PLY f3b9e05a
+(If only a breeze would blow, it'd cool down a little...)
+
+@ASU_FEV:840 PLY 26ab2977
+(Well, things don't go that well...)
+
+@ASU_FEV:845 ASU 6ceb6beb
+"{V1142}{W10}Eek!"
+
+@ASU_FEV:846 PLY f9f9fb2a
+"Ah?!"
+
+@ASU_FEV:848 PLY 4fa82b16
+(A d-divine wind!!)
+
+@ASU_FEV:849 ASU 4e6e3fbc
+"{V1143}{W20}Geez...{W30} blowing up out of nowhere..."
+
+@ASU_FEV:850 ASU 7bd65c12
+"{V1144}{F4}Ah! {Nm}..."
+
+@ASU_FEV:851 PLY 5b508514
+"H-hey."
+
+@ASU_FEV:852 ASU ae43754f
+"{V1145}{W10}Ahaha, {S}{W40}did you see?"
+
+@ASU_FEV:853 PLY 37d310f2
+"A-a little..."
+
+@ASU_FEV:854 ASU 38c36791
+"{V1146}{Sd}R-{W25}right. {Ec}{W30}Sorry."
+
+@ASU_FEV:855 PLY 2aea87e5
+"N-no, you don't need to apologize."
+
+@ASU_FEV:856 ASU a7ca3c24
+"{V1147}Ahaha, {W20}right."
+
+@ASU_FEV:857 ASU 6ccfc4d3
+"{V1148}W-{W30}well, see ya{Ec}."
+
+@ASU_FEV:858 PLY 4c7ff2b4
+(I got lucky there, yeah.)
+
+@ASU_FEV:860 NAN 99060636
+"{V0613}{W10}Ah, {W15}Big Bro! {W20}{Ec}Perfect timing~!"
+
+@ASU_FEV:861 PLY 8df06e92
+"Nana? What's up?"
+
+@ASU_FEV:862 NAN c1109a1f
+"{V0614}I borrowed a puzzle ring{W20} from Naru, but {W30}{Fm6}it's too hard and I can't solve it. {W40}{Fm4}Big Bro, {W10}you try~!"
+
+@ASU_FEV:863 PLY 072acabd
+"Oh, a puzzle ring. Let's see..."
+
+@ASU_FEV:864 PLY 60ab8506
+"What is this, a sculpture...? Is this really a puzzle ring?"
+
+@ASU_FEV:865 NAN 11604834
+"{V0615}Yep! {W25}It is. {Fm4}{W15}They say all the {W5}new {W5}puzzle rings {W20}{F3}look like this now."
+
+@ASU_FEV:867 PLY feba7c2b
+"Oh, is that so? Cool."
+
+@ASU_FEV:868 PLY 50b47e04
+"But weren't you working on that same puzzle ring the other day, too?"
+
+@ASU_FEV:869 NAN 0f921500
+"{V0616}Ehehe, {W40}{Ec}because {W20}I can't solve it..."
+
+@ASU_FEV:870 PLY 666769b0
+"Can't be helped. Let me try."
+
+@ASU_FEV:871 PLY 6120c506
+"Let's see..."
+
+@ASU_FEV:872 SYS 99181656
+{Ti0}{Ti2}Clink clink clink...
+
+@ASU_FEV:873 PLY 0538ddb1
+"Hmm... it's tough......"
+
+@ASU_FEV:874 PLY 91820b6e
+"Push this in here... and like this..."
+
+@ASU_FEV:875 PLY 657b12df
+"No good? Then the other way, like this..."
+
+@ASU_FEV:876 NAN e1c72544
+"{V0617}{Mo}{W10}Big Bro, {W40}{Ec}aren't you done yeeet~?"
+
+@ASU_FEV:877 PLY 63372e20
+"You're noisy, just wait quietly... Hm? That's it!"
+
+@ASU_FEV:879 PLY f4fec691
+"Nana, lend me this for a bit!"
+
+@ASU_FEV:880 NAN 97b5c779
+"{V0618}...Okay, {W15}but it's Naru's, {F3}so give it back properly."
+
+@ASU_FEV:881 PLY e5b4715d
+"I know. I'll take it apart perfectly and return it."
+
+@ASU_FEV:882 NAN 28da0a39
+"{V0619}{F2}Really?! {W15}{Ec}Then I'll look forward to it."
+
+@ASU_FEV:883 PLY 1dbc66aa
+(Hiiragi should definitely be able to solve it...)
+
+@ASU_FEV:884 ASU 9355a069
+"{V1149}Oh, {Nm}, what are you doing?"
+
+@ASU_FEV:885 PLY 60e77a75
+"Oh, Sakino. Well... a puzzle ring..."
+
+@ASU_FEV:886 ASU 0a184ebe
+"{V1150}Huh? {Fm3}{W25}A puzzle ring? {Ec}{Fe2}{W25}Let me try, let me try! {Eo}{W30}I love those!"
+
+@ASU_FEV:887 PLY f8accfc9
+"Really? So you're good at them...?"
+
+@ASU_FEV:888 ASU 451993ce
+"{V1151}Nope, {W20}not at all."
+
+@ASU_FEV:889 ASU c2031e74
+"{V1152}{W10}Not that I'm proud of it, {W30}but I've never gotten one apart."
+
+@ASU_FEV:890 PLY 04733997
+"Hahaha."
+
+@ASU_FEV:891 ASU 0578a80b
+"{V1153}But {W5}let me try! Please!"
+
+@ASU_FEV:892 PLY af3fd175
+"Sure, but it's hard."
+
+@ASU_FEV:893 PLY 524bf020
+"Here."
+
+@ASU_FEV:894 ASU 8828b6ea
+"{V1154}Whoa, {W30}cool! {Fe9m6}{W40}It's not {W25}like the puzzle rings {W15}I imagined."
+
+@ASU_FEV:895 ASU fa6e576c
+"{V1155}{Fe9m3}{Ec}Look the other way. {W40}{Eo}It's hard {W30}with you watching..."
+
+@ASU_FEV:896 PLY 5b4bd151
+"R-really? Okay..."
+
+@ASU_FEV:897 ASU 0c891316
+"{V1156}Let's {W30}see, {W40}this part {W30}goes like this..."
+
+@ASU_FEV:898 ASU fa8cb0aa
+"{V1157}This part goes like this, so..."
+
+@ASU_FEV:899 ASU 36ded92e
+"{V1158}Hmm{W20}... {W20}it's not working..."
+
+@ASU_FEV:900 ASU 69f18904
+"{V1159}Geez{W25}, {W25}I'm getting mad..."
+
+@ASU_FEV:901 ASU 295ee26e
+"{V1160}Come on{W15}, {W25}you!"
+
+@ASU_FEV:902 PLY d7f69e49
+"Ah! Sakino! Pulling on it won't get it apart!"
+
+@ASU_FEV:903 ASU e1d3ec0e
+"{V1161}{W20}Ahaha, {S}{Eo}{Fe9}{W40}you're right."
+
+@ASU_FEV:904 ASU a2508b2d
+"{V1162}{W10}Here, take it back. {Ec}{W30}It won't {W5}come apart at all. {Eo}{W15}Boring."
+
+@ASU_FEV:905 ASU 93c42851
+"{V1163}{F3}See ya, {Nm}."
+
+@ASU_FEV:906 PLY d36729f3
+(Ah, she's gone... Hiiragi, where are you?)

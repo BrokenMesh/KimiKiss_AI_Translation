@@ -1,0 +1,2750 @@
+# ASU_MW2_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_MW2_A:20 PLY 8736b660
+"I hear the sports shop in front of the station is having a sale soon."
+
+@ASU_MW2_A:25 ASU 56c8c67c
+"{V1837}Huh?{W20}{Fm3} Really?"
+
+@ASU_MW2_A:27 ASU 1e52fd8e
+"{V1838}{Ec}{Fe2}Thanks for telling me{Fm4}!{W30}{Eo}{F2} I have to go!"
+
+@ASU_MW2_A:28 PLY 2781f08c
+"Training wear these days is pretty fashionable, isn't it?"
+
+@ASU_MW2_A:29 ASU 42a68da5
+"{V1839}Yeah,{W5} it is."
+
+@ASU_MW2_A:31 ASU d6e66f8f
+"{V1840}I'd better not look all flash{W10}{Fe9m3} and no substance, though.{Fm2}"
+
+@ASU_MW2_A:32 PLY 59b464a8
+"Hahaha."
+
+@ASU_MW2_A:33 PLY a014999f
+"Soccer players' hairstyles are pretty flashy, aren't they?"
+
+@ASU_MW2_A:34 ASU b27573b0
+"{V1841}{Ec}{F2}Ahaha,{W20} they are."
+
+@ASU_MW2_A:36 ASU 87d5f069
+"{V1842}Blond,{W5}{Fm4} dreadlocks,{W20}{Fm2} mohawks...{W30}{F2} everyone does their own thing."
+
+@ASU_MW2_A:37 ASU 09b9b40c
+"{V1843}{Ec}{Fe3m4}I bet it's because{W20} soccer is a sport{W20}{Eo}{F3} with no caps or helmets."
+
+@ASU_MW2_A:38 PLY a9af57f2
+"I see, maybe so."
+
+@ASU_MW2_A:39 PLY c1808170
+"Have you ever thought about getting a tattoo?"
+
+@ASU_MW2_A:40 ASU d98a15f9
+"{V1844}{F4}Huh?{W30}{Fe9} N-{W20}no, but{Fm3} why?"
+
+@ASU_MW2_A:41 PLY 4693579f
+"Well, athletes often have tattoos."
+
+@ASU_MW2_A:42 ASU 4b7af673
+"{V1845}{F4}Oh,{W10} right.{W25}{F3} They do."
+
+@ASU_MW2_A:43 ASU 969c4bfd
+"{V1846}I think they look cool, but{W30}{Ec} I wouldn't like{W5} not being able to remove it."
+
+@ASU_MW2_A:44 PLY 851b6dc4
+"Right."
+
+@ASU_MW2_A:45 ASU cd173a17
+"{V1847}{Eo}{Fe7m4}Besides,{W10} once I got one,{W20}{F3} I'd probably lose control{W20}{Ec}{Fe9m2} and cover my whole body."
+
+@ASU_MW2_A:46 PLY 04733997
+"Hahaha."
+
+@ASU_MW2_A:47 PLY d86febb4
+"Athletes' fashion is..."
+
+@ASU_MW2_A:48 ASU 605c212e
+"{V1848}......"
+
+@ASU_MW2_A:49 ASU 22e8177a
+"{V1849}Ahaha,{W20}{Fe9} you're right.{W25}{Ec}{Fe9} ...But{W40}{Eo} I think soccer players{W3} get off easy{W3}."
+
+@ASU_MW2_A:50 PLY 9175b50a
+"Soccer players often wear something on their wrists, don't they?"
+
+@ASU_MW2_A:51 ASU 98281e76
+"{V1850}{Fe4}Oh,{Fe3} a misanga."
+
+@ASU_MW2_A:52 ASU e4f38a91
+"{V1851}{F2}You know what? It's {Fm4}better when it breaks."
+
+@ASU_MW2_A:53 PLY d9372ba1
+"Why?"
+
+@ASU_MW2_A:54 ASU f5be1603
+"{V1852}Because your wish{W5} comes true."
+
+@ASU_MW2_A:55 ASU 23f8475a
+"{V1853}{Fm4}You weave a misanga yourself,{W15}{Ec}{Fe6m3} putting a wish into it,{W25}{Eo}{Fe3} and when it breaks naturally, the wish comes true."
+
+@ASU_MW2_A:56 PLY 5cf5173c
+"Oh, really?"
+
+@ASU_MW2_A:57 ASU 92b54ba8
+"{V1854}I wear them a lot too.{W30}{F2} ...My wishes just don't come true easily.{Ec}"
+
+@ASU_MW2_A:58 PLY 0f07241b
+"What's your key chain, Sakino?"
+
+@ASU_MW2_A:59 ASU 3512f4d1
+"{V1855}A soccer ball. Why?"
+
+@ASU_MW2_A:60 PLY c24ebcf0
+"I knew it."
+
+@ASU_MW2_A:61 ASU b795d428
+"{V1856}{Ec}{F2}Ahaha,{W20}{Eo}{F4} didn't I tell you before?"
+
+@ASU_MW2_A:62 PLY 3358608b
+"It's so you."
+
+@ASU_MW2_A:64 ASU 5d034d38
+"{V1857}Hehe,{W30}{Eo}{F3} ...but you wouldn't guess I have three of them,{W15} right?{Fe4}"
+
+@ASU_MW2_A:65 PLY 1885d67e
+"Huh? Three?"
+
+@ASU_MW2_A:66 ASU 81d87b11
+"{V1858}{F3}Yeah.{W30}{Fm4} ...But actually, I didn't buy{Fm3} a single one myself..."
+
+@ASU_MW2_A:67 ASU b982ca14
+"{V1859}{Fm4}{Ec}All sorts of people gave them to me{W10}{Eo}{Fm4} as presents, figuring I'd like them.{Ec}"
+
+@ASU_MW2_A:68 ASU c0bb24cb
+"{V1860}{Fe9}I can't exactly not use them,{W30}{Eo}{Fm4} so before I knew it, I had three.{Fm3}"
+
+@ASU_MW2_A:69 PLY 9d6abc0b
+"Hahaha, I see."
+
+@ASU_MW2_A:70 PLY 4d8e9976
+(I'd better be careful not to give her a soccer ball key chain...)
+
+@ASU_MW2_A:71 PLY a793d9a6
+"Accessories show your taste, don't they..."
+
+@ASU_MW2_A:72 ASU b234cae2
+"{V1861}......"
+
+@ASU_MW2_A:73 ASU 313b72b3
+"{V1862}{Ec}{F2}Ahaha,{W30} they do.{W30}{Fe9}{Eo} Mine are{W5} all soccer stuff.{Ec}{F2}"
+
+@ASU_MW2_A:74 PLY 7533ded6
+"I bet a swimsuit would look good on you, Sakino."
+
+@ASU_MW2_A:75 ASU f4f5ebde
+"{V1863}{B80}{F4}Huh?!{W30}{P1}{Ec}{Fe9m4} W-{W40}{Fm3}you think so?"
+
+@ASU_MW2_A:76 PLY f2bc2ac3
+"Yeah. Like a racing one."
+
+@ASU_MW2_A:78 ASU 599c2c55
+"{V1864}{B40}{F3}I have a racing one.{W20}{B10} I use it at the swimming club.{Ec}{F2}"
+
+@ASU_MW2_A:79 PLY e3f583dd
+"Huh? You belong to a swimming club?"
+
+@ASU_MW2_A:81 ASU 37516ab8
+"{V1865}No.{W20}{Eo} I'm not a member,{Fe3} just a visitor.{W30}{Fm4} I swim there sometimes as training.{Fm3}"
+
+@ASU_MW2_A:82 PLY ab17afa6
+"What kind of men's swimsuit do you think looks cool?"
+
+@ASU_MW2_A:83 ASU a1faf433
+"{V1866}{F4}Huh?{W60} Men's swimsuits?"
+
+@ASU_MW2_A:84 ASU 26ce55d5
+"{V1867}Hmm...{W85}{Fm4} if it were you, {Nm},{W40}{Eo}{F3} a bikini type would be good, don't you think?"
+
+@ASU_MW2_A:85 PLY c39c9d78
+"A bikini type?! Why?"
+
+@ASU_MW2_A:86 ASU 6ca2b39e
+"{V1868}{Fm4}{B80}I just thought{F2} it'd look cool.{Ec}"
+
+@ASU_MW2_A:87 PLY 27677af5
+"What do you think of the school swimsuit design?"
+
+@ASU_MW2_A:88 ASU cc518c0c
+"{V1869}{Ec}{Fe9}Ahaha,{W20} it's so childish.{W30}{Eo} It's the same design since elementary school."
+
+@ASU_MW2_A:89 PLY 1b758669
+"Hahaha, true."
+
+@ASU_MW2_A:90 ASU e870db6c
+"{V1870}That said,{W20}{F3} ours has a pretty daring cut{W30} in the back.{Ec}"
+
+@ASU_MW2_A:91 ASU 243c5c2e
+"{V1871}{Fm4}See?"
+
+@ASU_MW2_A:98 PLY 511b320d
+"Y-yeah."
+
+@ASU_MW2_A:110 PLY 6e4d9651
+(I-I can't see well...)
+
+@ASU_MW2_A:114 PLY 37ec85a6
+"There are all kinds of swimsuits, but..."
+
+@ASU_MW2_A:115 ASU 0891b1a8
+"{V1872}......"
+
+@ASU_MW2_A:116 ASU 055f7441
+"{V1873}{Ec}{F2}Yeah.{W45} I like{W3} the simple ones."
+
+@ASU_MW2_A:117 PLY 519371c3
+"Don't you lose your appetite after hard practice on a hot day?"
+
+@ASU_MW2_A:118 ASU 9cdad5fc
+"{V1874}Not me.{W5}{W35}{Fm4} No matter how tired I am,{W25}{Ec}{F2} I get hungry."
+
+@ASU_MW2_A:119 PLY adaeb24e
+"Hahaha, I see."
+
+@ASU_MW2_A:120 ASU 4919d4ac
+"{V1875}{Eo}{Fe9}If anything,{W30} I have to watch{W3} that I don't overeat.{Ec}"
+
+@ASU_MW2_A:121 PLY bdf6520e
+"Do you watch what you eat for soccer?"
+
+@ASU_MW2_A:122 ASU 1dc4a8ac
+"{V1876}{F7}They say carbs before{W10} and on game day are good,{W20} but{W40}{S}{Ec}{Fe6m3} I{W5} don't get to play..."
+
+@ASU_MW2_A:123 PLY 6c6b1e77
+"R-right..."
+
+@ASU_MW2_A:124 ASU 1d80941c
+"{Sd}{V1877}{Eo}{F3}Just in case,{W5} I avoid greasy food{W5} and stick to rice and pasta."
+
+@ASU_MW2_A:125 PLY be48ac9f
+"What's your favorite thing to eat with rice, Sakino?"
+
+@ASU_MW2_A:126 ASU ef6980c2
+"{V1878}Small fish furikake!{W25}{Eo}{Fm4} It's full of calcium,{W10}{Fm3} so it makes your bones strong!"
+
+@ASU_MW2_A:127 PLY 72c1dd8f
+"Soup curry's been popular lately, hasn't it?"
+
+@ASU_MW2_A:128 ASU d98a02c4
+"{V1879}{F4}Oh,{W10}{Fm3} really?{W15}{F3} What's it like?"
+
+@ASU_MW2_A:129 PLY b85b9040
+"Like curry thinned out into a soup. It apparently started in Hokkaido."
+
+@ASU_MW2_A:130 ASU ff90633c
+"{V1880}{F4}Hmm...{W35}{F2} I'll{W3} try it sometime.{Ec}"
+
+@ASU_MW2_A:131 PLY 5419cd0f
+"How often does your family eat out in a month?"
+
+@ASU_MW2_A:132 ASU 26a86e3b
+"{V1881}{Ec}{Fe7}Hmm,{W50}{Eo}{F3} once,{W10} twice,{W10} maybe?"
+
+@ASU_MW2_A:133 PLY e6f3ecbb
+"That's not much."
+
+@ASU_MW2_A:134 ASU a6783859
+"{V1882}Ahaha,{W30}{Fe9} it'd be a problem if I got tired{W30}{Eo} and fell asleep in the restaurant."
+
+@ASU_MW2_A:135 PLY e7d29201
+"I ate this the other day..."
+
+@ASU_MW2_A:136 ASU 5ba76158
+"{V1883}{Fe4}......"
+
+@ASU_MW2_A:137 ASU a8f4259e
+"{V1884}{Ec}{F2}Yeah, yeah,{W30} that's{Eo}{Fm4} so good!"
+
+@ASU_MW2_A:138 PLY ed4ecbac
+"What's your favorite cake?"
+
+@ASU_MW2_A:139 ASU ec9e60b8
+"{V1885}{Ec}{F2}Cream puffs!"
+
+@ASU_MW2_A:140 ASU 82e7f7c3
+"{V1886}I love stuffing my face{W5} with them, cream all around my mouth.{W10}{Eo}{Fm4}{Eo}{Fm2}"
+
+@ASU_MW2_A:141 PLY 04057174
+"How often do you eat sweets in a week?"
+
+@ASU_MW2_A:142 ASU d05ba919
+"{V1887}Ehehe,{W40}{Eo} every other{W5} day, maybe."
+
+@ASU_MW2_A:143 PLY 222edb87
+"That's quite a lot."
+
+@ASU_MW2_A:144 ASU 26989fd7
+"{V1888}My mom likes them too,{W3}{Eo} so the fridge{W3} often has waffles and pudding.{W10}{B80}{S}{Ec}{Fe9} So,{W20} before I know it..."
+
+@ASU_MW2_A:145 PLY 2749f5fe
+"Your favorite sweet is..."
+
+@ASU_MW2_A:146 ASU d8c51ea4
+"{V1889}Cream puffs!"
+
+@ASU_MW2_A:147 PLY 65eaefb3
+"How many can you eat at once?"
+
+@ASU_MW2_A:148 ASU e62327b2
+"{V1890}{Eo}{Fe7m4}...If I'm serious,{W20}{F2} eight."
+
+@ASU_MW2_A:149 PLY cea4e229
+"Huh? That many? ...Don't you gain weight?"
+
+@ASU_MW2_A:150 ASU 38f84584
+"{V1891}{Ec}I work out, so I'm fine!{W35}{Eo}{Fm4} ...is what I'd like to say,{Fe9} but{W25}{Fm2} that'd be bad,{W10}{Ec}{Fm4} so I hold it to{W3} two{W3} or three."
+
+@ASU_MW2_A:151 ASU 76fbab6a
+"{V1892}{Fe2m3}Hehe."
+
+@ASU_MW2_A:152 PLY 417a3be1
+"Convenience store soft serve is surprisingly good."
+
+@ASU_MW2_A:153 ASU 697c23b8
+"{V1893}Yeah,{W30}{Fm4} it's so good.{W30}{Eo}{Fm3} The kind with pudding or papaya on top."
+
+@ASU_MW2_A:154 ASU b8b14aac
+"{V1894}......"
+
+@ASU_MW2_A:155 ASU f250209c
+"{V1895}{F4}Oh,{W30} they had that?{W30}{Fm3} Which store?{W10}{Ec}{F2} I have to try it."
+
+@ASU_MW2_A:156 PLY 0c115bd5
+"What drink is always in your fridge, Sakino?"
+
+@ASU_MW2_A:157 ASU 9c69b8e3
+"{V1896}This{W10} time of year,{W30}{F3} barley tea."
+
+@ASU_MW2_A:158 ASU aa0fcce6
+"{V1897}Barley tea after a bath{Ec} is the best."
+
+@ASU_MW2_A:159 PLY 253d8068
+"Hahaha, I bet you drink it with a hand on your hip."
+
+@ASU_MW2_A:160 ASU dad9bda0
+"{V1898}{F4}Huh?{W30}{Fe9m4} How do you know{Fm3}?"
+
+@ASU_MW2_A:161 PLY d7e3e745
+"I can just imagine it."
+
+@ASU_MW2_A:162 PLY abba03c4
+"Drinking a milkshake through a straw takes lung capacity."
+
+@ASU_MW2_A:163 ASU 3a5fcdf2
+"{V1899}{Fm4}Oh,{W20}{Ec}{Fe9m3} it does.{W30}{Eo}{F3} You{W10} suck and suck and it just won't come up.{Fe9}"
+
+@ASU_MW2_A:164 ASU 3365db1b
+"{V1900}{Fm4}Then the straw gets flat{W10}{Ec}{Fm3} and you can suck even less..."
+
+@ASU_MW2_A:165 ASU 759dd562
+"{Nm},{V1901}{W10} listen!{W20} I bought juice from a vending machine,{W10}{Fe4} and out came red bean soup."
+
+@ASU_MW2_A:166 ASU 67d6b6b4
+"{V1902}{F9}And hot, too!{W35}{Ec} I can't drink{W5} that{W10} on the way home{W3}{Fm4} from club activities!"
+
+@ASU_MW2_A:167 PLY 6adae59f
+"Hahaha, what bad luck."
+
+@ASU_MW2_A:168 PLY fae7bf46
+"So what did you do?"
+
+@ASU_MW2_A:169 ASU f94399db
+"{V1903}I took it home{W30} and drank it once it cooled."
+
+@ASU_MW2_A:170 PLY 4e19701a
+"You drank it after all."
+
+@ASU_MW2_A:171 ASU a1ea9e25
+"{V1904}{Ec}{F2}Yeah,{W20} there's nothing{W5} wrong with the taste."
+
+@ASU_MW2_A:172 PLY 44ad6ecc
+"What you drink every day..."
+
+@ASU_MW2_A:173 ASU 6a51002d
+"{V1905}......"
+
+@ASU_MW2_A:174 ASU 90742c83
+"{V1906}{Ec}{Fe6}Right, right.{W30}{Eo}{F3} You shouldn't drink{W10} too many sweet things."
+
+@ASU_MW2_A:175 ASU 0c765a6e
+"{V1907}How can I{W10} get better at cooking?"
+
+@ASU_MW2_A:176 PLY 128a50d8
+"Isn't practice the answer to everything?"
+
+@ASU_MW2_A:177 ASU 754c8e83
+"{V1908}{S}{Ec}Ugh...{W30} practice, huh...{W50}{Eo}{Fe7m4} I could do soccer practice{Sd}{Fe9} all day,{W30}{Ec}{Fe6m9} but cooking..."
+
+@ASU_MW2_A:178 ASU a3843ac6
+"{V1909}{S}{Eo}{Fe9m3}Peeling vegetables{W5} is{W10} such a pain."
+
+@ASU_MW2_A:179 ASU f32e1145
+"{V1910}Potatoes, mostly.{W40}{Fm9} Who decided you must cut out sprouts with a knife?{Fm4}{P1}{Fm3}{W30} Just boil them whole..."
+
+@ASU_MW2_A:180 PLY 2ee37ec0
+"Hahaha... that's not a good idea..."
+
+@ASU_MW2_A:181 ASU 708ef5e5
+"{V1911}Aaah,{W10}{W70}{Eh} I'm just bad at cooking.{W60}{Eo} I'd like to at least be able to make a rolled omelet..."
+
+@ASU_MW2_A:182 PLY 1e80318c
+"Hahaha, everyone has things they're good and bad at."
+
+@ASU_MW2_A:183 ASU 6542c920
+"{V1912}{Fe8m4}...You make it sound like{W10} I'm bad at cooking."
+
+@ASU_MW2_A:184 PLY c85b9261
+"Are you good at it?"
+
+@ASU_MW2_A:185 ASU fde9a592
+"{V1913}{S}{Ec}{F6}...No, I'm not."
+
+@ASU_MW2_A:186 ASU e0dc3c8c
+"{V1914}{Eo}{Fe9m3}Ehehe."
+
+@ASU_MW2_A:187 PLY 7a37e8a4
+"I wish I'd seen you opening the lid of the doubanjiang jar, too."
+
+@ASU_MW2_A:188 ASU fbd4f6f5
+"{V1915}{F8}Ah...{W30}{S}{8}{0}{Ec} Geez!{W30}{F9}{P2}{Eo} Saying things like that..."
+
+@ASU_MW2_A:189 ASU 1d53d564
+"{V1916}{Fe9m4}I should've pretended{Eo} I couldn't open it."
+
+@ASU_MW2_A:190 ASU 71df12a1
+"{V1917}Hehe."
+
+@ASU_MW2_A:191 PLY 5864ef7e
+"A girl's home cooking is..."
+
+@ASU_MW2_A:192 ASU 448c7536
+"{V1918}{Fm4}......"
+
+@ASU_MW2_A:193 ASU 62f8358e
+"{V1919}{Eh}{Fe6}Sigh...{W70}{S}{Ec} I'm just bad{W15} at cooking..."
+
+@ASU_MW2_A:194 PLY 14f292b1
+"What's your favorite udon topping?"
+
+@ASU_MW2_A:195 ASU 23b76bf4
+"{V1920}Udon topping?{W50}{F9} Hmm...{W35} I don't eat udon{Ec}{Fm4} that{W3} much..."
+
+@ASU_MW2_A:197 ASU 1794b5cf
+"{V1921}...Oh,{W20} curry udon!{W30}{Ec} I like curry udon!{W30}{Eo} So my favorite topping is curry!"
+
+@ASU_MW2_A:198 PLY b0d8c6d7
+"Udon is probably..."
+
+@ASU_MW2_A:199 ASU ecaa8e44
+"{V1922}{Fm4}......"
+
+@ASU_MW2_A:200 ASU 47ac3794
+"{V1923}{Fe4m3}Oh,{W13}{Fm4} really?{W40}{F3} I didn't know{W3} that."
+
+@ASU_MW2_A:201 PLY c308381b
+"Instant cup soup is tasty, isn't it?"
+
+@ASU_MW2_A:202 ASU 7835d081
+"{V1924}Yeah.{W13} I get a craving{W3} for it sometimes."
+
+@ASU_MW2_A:203 ASU 9df4ca8b
+"{V1925}{Fe7m4}You just pour hot water on it,{W3} {F3}so it's handy,{W20} {Ec}{F2}and the taste{W10} is good{W10} enough, too."
+
+@ASU_MW2_A:204 PLY 6dc2c3c6
+"Fancy hamburgers have been popular lately, haven't they?"
+
+@ASU_MW2_A:205 ASU 66de4fdb
+"{V1926}Oh,{W10} they have~!"
+
+@ASU_MW2_A:206 ASU 608c5b87
+"{V1927}Not that I've had one{W20} {Fe9}more than once, {Fm3}though."
+
+@ASU_MW2_A:207 PLY 434e0dac
+"Hahaha, they're expensive..."
+
+@ASU_MW2_A:208 ASU 7e7d50f2
+"{V1928}{Fm4}Yeah.{W20} {F3}It tasted too good,{W30} {Fe9}like a burger for grown-ups."
+
+@ASU_MW2_A:209 PLY 4690f399
+"Have you ever eaten Spam?"
+
+@ASU_MW2_A:210 ASU 3bcb0cd2
+"{V1929}{Fm4}Spam?{W60} {Ec}{Fe9}Let's{W10} see...{W50} {Eo}the canned ham stuff{W3} {Fm3}they sell at the supermarket?"
+
+@ASU_MW2_A:211 PLY 70b2702c
+"Yeah, that's it."
+
+@ASU_MW2_A:212 ASU 5da31e6f
+"{V1930}Never had it.{W10} Is it good?"
+
+@ASU_MW2_A:213 PLY 03c82599
+"I ate it with a fried egg the other day, and it was pretty good."
+
+@ASU_MW2_A:214 ASU a52bcf74
+"{V1931}{F4}Oh,{W2} really?{W20} {F3}I'll try it{W5} sometime.{Ec}"
+
+@ASU_MW2_A:215 PLY 491f1b26
+"About that canned food I ate the other day..."
+
+@ASU_MW2_A:216 ASU c62d25c1
+"{V1932}{F4}Huh..."
+
+@ASU_MW2_A:217 ASU d5d0e9ea
+"{V1933}There's a can like that?{W30} {Ec}How{W5} inter{W5}esting."
+
+@ASU_MW2_A:218 PLY fda74869
+"Sports are good for your health, aren't they?"
+
+@ASU_MW2_A:219 ASU a510e842
+"{V1934}Of course!"
+
+@ASU_MW2_A:220 ASU ce9c0f7f
+"{V1935}Look at me.{W30} {Ec}I never catch{W5} so much as a cold."
+
+@ASU_MW2_A:221 PLY f3f7c47b
+"Lately my teeth hurt a bit when I drink something cold..."
+
+@ASU_MW2_A:222 ASU af3d57fb
+"{V1936}Huh?{W30} That's not good."
+
+@ASU_MW2_A:224 ASU a7b53e76
+"{V1937}{Fm4}You should see a dentist.{W20} {Fm9}Gum disease{W10} is supposed to be scary.{Mo}"
+
+@ASU_MW2_A:226 ASU 0d363b64
+"{V1938}We have to{W5} take care of our health."
+
+@ASU_MW2_A:227 PLY 7bf600cf
+"Do you get pimples?"
+
+@ASU_MW2_A:228 ASU 52d1b352
+"{V1939}Yeah,{W30} all the time.{W50} {Fe9m3}I never{W10} take care{W5} of my skin."
+
+@ASU_MW2_A:229 PLY de2f7bd2
+"Hahaha. But that's better than slathering on makeup, isn't it?"
+
+@ASU_MW2_A:230 ASU e07bea2c
+"{V1940}{F2}Yeah,{W10} maybe."
+
+@ASU_MW2_A:231 PLY fc2eaffc
+"What kind of exercise works well for losing weight?"
+
+@ASU_MW2_A:232 ASU 4ab957dc
+"{V1941}Full-body{W3} exercise{W3} is good, right?"
+
+@ASU_MW2_A:233 PLY 0bc56bf0
+"Full-body exercise?"
+
+@ASU_MW2_A:234 ASU 6a958844
+"{V1942}{Fe7m4}Running, {Fm3}jump rope,{F3} swimming.{W30} {Ec}{F2}I do those a lot."
+
+@ASU_MW2_A:235 ASU 68737d2a
+"{V1943}{Eo}{Fm4}Though{W30} {F3}I don't do them to lose weight.{Fm2}"
+
+@ASU_MW2_A:236 PLY d207d3d7
+"Athletes have to watch their weight, don't they?"
+
+@ASU_MW2_A:237 ASU d7e9fb39
+"{V1944}{Fe8}Yeah.{W30} If I gain weight,{W10} I{W3} lose my sharpness."
+
+@ASU_MW2_A:238 ASU 2ae8c75d
+"{V1945}{Fe9m4}Even so,{W20} {S}{Fm3}I sometimes overeat,{W20} {Ec}but don't tell the coach."
+
+@ASU_MW2_A:239 PLY c7080522
+"Dieting is..."
+
+@ASU_MW2_A:240 ASU c00acbfe
+"{V1946}{Fe9}......"
+
+@ASU_MW2_A:241 ASU 56d9e084
+"{V1947}{Ec}Right.{W60} {Eo}If you eat as much as you want,{W5} {F3}you gain weight fast."
+
+@ASU_MW2_A:242 PLY efe1ed64
+"Sakino, you probably don't have much body fat."
+
+@ASU_MW2_A:243 ASU 81963bb8
+"{V1948}Yeah.{W20} I've never measured,{W5} but I think it's low."
+
+@ASU_MW2_A:244 ASU 78c2b0d1
+"{V1949}I guess being a bit rounder{W20} {S}{Ec}would be more girly."
+
+@ASU_MW2_A:245 PLY 82bba1a4
+"Sakino, how's your eyesight?"
+
+@ASU_MW2_A:246 ASU 74235d46
+"{V1950}{Fe4}Both eyes{W5} are 2.{W5}0."
+
+@ASU_MW2_A:247 PLY 28af5e3b
+"Wow, that's amazing."
+
+@ASU_MW2_A:248 ASU 9201617b
+"{V1951}Ahaha,{W60} {S}{Fe9m4}{Ec}maybe it's because I{W10} don't{W5} read{W3} much."
+
+@ASU_MW2_A:249 PLY 3318cf60
+"Soccer players have amazing stamina. They run around that huge field for ninety minutes."
+
+@ASU_MW2_A:250 ASU 14e3e32b
+"{V1952}...{Fe7m4}Though they slack off where no one can see."
+
+@ASU_MW2_A:251 PLY f596f20c
+"Huh? Really?"
+
+@ASU_MW2_A:252 ASU 6fc4006f
+"{V1953}{F3}Yeah.{W20} {Fm4}The coach catches me a lot{Ec} {F2}and yells at me."
+
+@ASU_MW2_A:253 PLY 16fafde2
+"Sakino, what's your blood type?"
+
+@ASU_MW2_A:254 ASU 4e822ab0
+"{V1954}Type{W2} B~!{W30} The genius{W5} type."
+
+@ASU_MW2_A:255 PLY 1461ef4e
+"Sakino, you look so healthy in your gym clothes."
+
+@ASU_MW2_A:256 ASU 44c81358
+"{V1955}Do I?{W35} {Fe9}I think I look{W3} the same as{W2} everyone else?"
+
+@ASU_MW2_A:257 PLY 6ac5560f
+"No, your energy, your liveliness, it's different."
+
+@ASU_MW2_A:258 ASU 83e8549a
+"{V1956}{F4}Y-{W30}you think?{W30} {B90}{Ec}{Fe2m3}Thanks."
+
+@ASU_MW2_A:259 PLY 423400f1
+"Sakino, you're..."
+
+@ASU_MW2_A:260 ASU f55fd50f
+"{V1957}Hm?"
+
+@ASU_MW2_A:261 PLY aea3a06b
+"You're so toned. In a swimsuit, you really look like an athlete."
+
+@ASU_MW2_A:262 ASU 53a4006c
+"{V1958}{S}{F4}R-{W43}really?{W45} {Fe9m3}It's embarrassing,{W20} {Sd}{Ec}{P2}{B80}so don't stare."
+
+@ASU_MW2_A:263 PLY 34ce7295
+"Sakino, your body is..."
+
+@ASU_MW2_A:264 ASU 4d31a9d4
+"{V1959}......"
+
+@ASU_MW2_A:265 ASU e9a5f3b9
+"{V1960}Yeah,{W20} I train{W3} differently!"
+
+@ASU_MW2_A:266 PLY 98f6d1fd
+"Sakino, your true love is soccer, right?"
+
+@ASU_MW2_A:267 ASU c3a7b23f
+"{V1961}Yeah,{W23} {F9}but it{W2} won't love me back,{W2} {W10}{Fm4}so I'm in trouble."
+
+@ASU_MW2_A:268 PLY f395ad73
+"Hahaha, good luck."
+
+@ASU_MW2_A:269 PLY 779f8a37
+"Sakino, do you prefer guys who are good at sports?"
+
+@ASU_MW2_A:270 ASU bdefe29e
+"{V1962}Nope,{W20} not really."
+
+@ASU_MW2_A:271 ASU edc10d33
+"{V1963}I think people who are good at studying{W5} {F4}are amazing{W3} too.{F3}"
+
+@ASU_MW2_A:272 ASU c2f23031
+"{V1964}Though{W33} {Fe9}anyone whose grades{W3} are{W3} worse than mine{W20} {S}{Ec}is kind of a problem."
+
+@ASU_MW2_A:273 PLY cbd78d3d
+"I don't really understand love, but..."
+
+@ASU_MW2_A:274 ASU c3d3fbb2
+"{V1965}{Fe9}......"
+
+@ASU_MW2_A:275 ASU 02e60ae3
+"{V1966}Ahaha,{W43} {S}{Eo}I{W12} don't get it either."
+
+@ASU_MW2_A:276 PLY c966963f
+"What do you do on days off?"
+
+@ASU_MW2_A:277 ASU 3cd24069
+"{V1967}{Fe7m4}On Saturdays{W3} I have soccer club{W2} practice."
+
+@ASU_MW2_A:278 PLY 6ced6561
+"And Sundays?"
+
+@ASU_MW2_A:279 ASU 28af57f3
+"{V1968}{F3}I jog around the neighborhood or dribble down at the riverbank."
+
+@ASU_MW2_A:280 PLY c7ea85f5
+"Even on days off, it's all soccer."
+
+@ASU_MW2_A:281 ASU 20ce528d
+"{V1969}Yeah!{W30} {Eo}The more I practice, the better I get,{W5} {Ec}so it's fun."
+
+@ASU_MW2_A:282 PLY 3e64c86a
+"What time do you get up every morning?"
+
+@ASU_MW2_A:283 ASU 0377fd8e
+"{V1970}Around{W5} six?{F3}"
+
+@ASU_MW2_A:284 PLY f83ebf7e
+"That early?"
+
+@ASU_MW2_A:285 ASU f762086c
+"{V1971}{Fe7m4}A light workout,{W10} {Fe3}then breakfast,{W5} {F3}and it's just about right, you know?"
+
+@ASU_MW2_A:286 PLY 192819b6
+"So healthy~"
+
+@ASU_MW2_A:287 ASU de09eb0f
+"{V1972}{Ec}{F2}Of course!"
+
+@ASU_MW2_A:288 PLY b269594c
+"When's your birthday, Sakino?"
+
+@ASU_MW2_A:289 ASU f163e193
+"{V1973}{Fe2}August{W10} ninth."
+
+@ASU_MW2_A:290 PLY db2aa5bc
+"Oh, it just passed."
+
+@ASU_MW2_A:291 ASU fdf0122a
+"{V1974}So close.{W23} {Ec}If we'd met{W3} a bit earlier,{W5} {Eo}I'd have gotten a present."
+
+@ASU_MW2_A:292 PLY 3fa3fc7a
+"Hahaha, I'll give you one next year."
+
+@ASU_MW2_A:293 ASU 77daba07
+"{V1975}{F2}Really?!{W3} {Ec}Thanks!"
+
+@ASU_MW2_A:294 PLY 87717a8c
+"What's your room like, Sakino?"
+
+@ASU_MW2_A:295 ASU 72f9c7d5
+"{V1976}{Fe7m4}...Let's{W25} see...{W55} {Ec}{Fe9m3}{P5}{S}It's{W10} really messy."
+
+@ASU_MW2_A:296 ASU 5bbe7d24
+"{V1977}{Eo}I leave my uniform lying around,{W5} {Fm4}and my mom yells at me a lot."
+
+@ASU_MW2_A:297 PLY ed0868be
+(Leaving it lying around isn't good. Yeah.)
+
+@ASU_MW2_A:298 PLY 9253252f
+"When you're at home..."
+
+@ASU_MW2_A:299 ASU 694170ae
+"{V1978}......"
+
+@ASU_MW2_A:300 ASU c19d4346
+"{V1979}{Fm3}Yeah,{W5} right~.{W30} I'm{W2} the same."
+
+@ASU_MW2_A:301 PLY 14da2997
+"The outfits female pro tennis players wear these days are pretty risque."
+
+@ASU_MW2_A:302 ASU b245a2c9
+"{V1980}Yeah,{W20} they're{W3} wild~"
+
+@ASU_MW2_A:303 ASU fc44be44
+"{V1981}You can't wear that without confidence{W15} {Ec}{Fm3}in your figure~"
+
+@ASU_MW2_A:304 PLY 955b14c4
+"Do you feel anything on the nape of your neck?"
+
+@ASU_MW2_A:305 ASU 745f1525
+"{V1982}Feel?{W20} What?"
+
+@ASU_MW2_A:306 PLY f3e4efd6
+"No, I mean... like a shiver running through you..."
+
+@ASU_MW2_A:307 ASU a805c6c5
+"{V1983}{Fe9}A shiver?{W60} {F9}I{W5} don't feel anything like that."
+
+@ASU_MW2_A:308 PLY 2401dabb
+"I-I see..."
+
+@ASU_MW2_A:309 ASU 74b9984b
+"{V1984}...Huh?{W30} {Fe9}Am I abnormal or something?{W20} {F9}Do I have to get shivers?"
+
+@ASU_MW2_A:310 PLY 5107cddb
+"No, not at all. I'm sure it's different for everyone."
+
+@ASU_MW2_A:311 ASU 146b8089
+"{V1985}{Fm4}Is it?{P1}{W33} {Ec}{Fm6}Now I'm{W10} worried..."
+
+@ASU_MW2_A:312 PLY cd650bc5
+"When you play soccer, don't your breasts get in the way?"
+
+@ASU_MW2_A:313 ASU bb02c0dc
+"{V1986}{F4}Huh?{W50} {P5}{Fe9}Hmm...{W40} Well,{W50} {F3}sometimes{W20} they do."
+
+@ASU_MW2_A:314 ASU 1999cbee
+"{V1987}{S}{Ec}{Fe9}But{W20} I can't do anything about that."
+
+@ASU_MW2_A:315 PLY 6a2be8ca
+"Hahaha, I guess not. Especially since yours are big, Sakino."
+
+@ASU_MW2_A:316 ASU 3a99b6d9
+"{V1988}Hey!{W25} {Fm8}Stop saying they're big, big, big.{W5} It bothers me."
+
+@ASU_MW2_A:317 PLY d744d177
+"N-no, I didn't mean it in a bad way..."
+
+@ASU_MW2_A:318 ASU ac5ab6d8
+"{V1989}Honestly!{W40} {B100}{Ec}No more{W3} talk about my chest!{Eo}"
+
+@ASU_MW2_A:319 PLY 6c1b2754
+"S-sorry."
+
+@ASU_MW2_A:320 PLY 0a3e0c6b
+"Aren't bloomers... embarrassing?"
+
+@ASU_MW2_A:321 ASU 8174a0b0
+"{V1990}Why?"
+
+@ASU_MW2_A:322 PLY 18dccbdb
+"Why... well, it's..."
+
+@ASU_MW2_A:325 ASU 74b9e11e
+"{V1991}{F9}Um...{W70} {B60}{Fm4}don't{W5} stare at me like that."
+
+@ASU_MW2_A:326 PLY 5e0942fb
+"Ah... S-sorry."
+
+@ASU_MW2_A:328 ASU 54c8c6c6
+"{V1992}{B100}{Eh}N-{W13}no,{W10} {m9}it's okay..."
+
+@ASU_MW2_A:330 ASU 2be6d766
+"{V1993}Ahaha,{W55} {Eo}I think I get{W20} how embarrassing it is."
+
+@ASU_MW2_A:331 PLY bc49ea0c
+"School swimsuits show off your body lines quite a bit, don't they?"
+
+@ASU_MW2_A:332 ASU fc100e46
+"{V1994}{Ec}{F2}Ahaha,{W30} {F2}it's a swimsuit, after all."
+
+@ASU_MW2_A:333 PLY 1210f297
+"Isn't it embarrassing?"
+
+@ASU_MW2_A:334 ASU f935d9af
+"{V1995}{B40}Well,{W30} it's embarrassing if someone stares,{W30} {F3}but it's fine if we just talk normally."
+
+@ASU_MW2_A:335 PLY 876a2929
+"I see..."
+
+@ASU_MW2_A:338 ASU 21e1e8dc
+"{V1996}{B60}{Fe9}...That's why{W15} {Fm4}I told you not to stare,{W5} {B100}{P6}remember?"
+
+@ASU_MW2_A:340 PLY 4629fe32
+"S-sorry, I just..."
+
+@ASU_MW2_A:341 PLY 3b9c1ac4
+"This is kind of a naughty topic, but..."
+
+@ASU_MW2_A:343 ASU 53be9ccb
+"{V1997}......"
+
+@ASU_MW2_A:344 ASU 994e7dae
+"{V1998}{Eh}{Fe3}{B40}Hmm...{W40} {S}{Fe6}{Ec}I-{W40}{B100}I see..."
+
+@ASU_MW2_A:345 PLY c69762dc
+"Sakino, you want to become a pro soccer player someday, right?"
+
+@ASU_MW2_A:346 ASU 2b610ed9
+"{V1999}Yeah! Of course!"
+
+@ASU_MW2_A:347 PLY 6aea5f10
+"I hope your dream comes true."
+
+@ASU_MW2_A:348 ASU ef00bc90
+"{V2000}{Ec}Yeah!{W5} {Eo}Thanks, {Nm}."
+
+@ASU_MW2_A:349 PLY 7ab48ced
+"Is it hard to become a pro soccer player?"
+
+@ASU_MW2_A:350 ASU af47c6a9
+"{V2001}Of course!{W25} {Ec}{F9}I'm{W3} not nearly there yet..."
+
+@ASU_MW2_A:351 ASU 5289ee52
+"{V2002}...{Fe8}{Eo}But{W30} I think you have to make your dream come true{W3} with your own hands,{W40} {F2}so I work hard every day."
+
+@ASU_MW2_A:352 PLY f097a9a4
+"You're amazing, Sakino..."
+
+@ASU_MW2_A:353 ASU 0a995488
+"{V2003}No, I'm not.{W33} {Fm4}I just love soccer.{Ec}{F2}"
+
+@ASU_MW2_A:354 PLY 3d3bc209
+"What if you got hurt and your dream of being a pro soccer player didn't come true?"
+
+@ASU_MW2_A:355 ASU fabfbe7c
+"{V2004}Hmm...{W103} I'd{W3} {Eo}become a Little League coach.{W50} {Fe3m4}Strangely,{W25} kids{W3} really like me."
+
+@ASU_MW2_A:356 PLY d3a38629
+"It's great that you have a solid dream for the future, Sakino."
+
+@ASU_MW2_A:357 ASU a219eb87
+"{V2005}{S}I just{W3} love soccer, though."
+
+@ASU_MW2_A:358 PLY aa749b70
+"Dreams for the future..."
+
+@ASU_MW2_A:359 ASU accf9871
+"{V2006}{Fe4}......"
+
+@ASU_MW2_A:360 ASU 4616468b
+"{V2007}{Fe2}Yeah,{W40} I think so too.{W55} {Ec}{F2}All we can do is{W15} believe in ourselves."
+
+@ASU_MW2_A:361 PLY 08788c76
+"Who taught you soccer, Sakino?"
+
+@ASU_MW2_A:362 ASU e186febb
+"{V2008}My dad.{W45}{Fm4} When I said I wanted to{W3} play,{W5}{Fm3} he bought me{W3} a soccer ball..."
+
+@ASU_MW2_A:363 ASU ec3f83b4
+"{V2009}{Fm4}In elementary school,{W28} the two of us{W3} played until sundown,{W10}{Fe2m3} one-on-one{W3} games."
+
+@ASU_MW2_A:364 PLY 12ead286
+"Hmm..."
+
+@ASU_MW2_A:365 ASU b640c3c0
+"{V2010}These days{W20}{Fm4} he might think,{W5} I should've taught her piano{W3}{Fm3} instead."
+
+@ASU_MW2_A:366 PLY c55583ec
+"Were you on a soccer club in middle school too, Sakino?"
+
+@ASU_MW2_A:367 ASU c0f3f0e0
+"{V2011}{F2}Yeah,{W10} I was."
+
+@ASU_MW2_A:368 PLY bb8f36d8
+"On the boys' soccer club, again?"
+
+@ASU_MW2_A:369 ASU a0da0c30
+"{V2012}{F3}Nope,{W20} there was a girls' club, so I joined that."
+
+@ASU_MW2_A:370 ASU 46a56e6e
+"{V2013}...But,{W30} for better{W3} or worse,{W3} it was just a{Ec} club for friends..."
+
+@ASU_MW2_A:372 ASU 2ee2fc07
+"{V2014}{F3}So,{W10}{Eo} in high school{W2} I'd decided to join the boys' soccer club."
+
+@ASU_MW2_A:373 PLY 7d1abc29
+"What kind of kid were you when you were little, Sakino?"
+
+@ASU_MW2_A:374 ASU 2733a78c
+"{V2015}{Fm4}Active.{W40}{Fm3} I was always with the boys,{W5}{Ec}{F2} kicking a soccer ball{W5} around."
+
+@ASU_MW2_A:375 PLY 01d24100
+"When I think back on the old days..."
+
+@ASU_MW2_A:376 ASU fbcfe2cf
+"{V2016}{Fe9}......"
+
+@ASU_MW2_A:377 ASU de7e61e6
+"{V2017}{Ec}Yeah,{W25} you're right.{W50}{Eo}{F3} Brings back memories."
+
+@ASU_MW2_A:378 PLY 3da8205f
+"You're cheerful, healthy, and really charming, Sakino."
+
+@ASU_MW2_A:379 ASU 2b23a7cd
+"{V2018}{B80}{F4}Huh..."
+
+@ASU_MW2_A:380 ASU 20819c93
+"{V2019}{B100}{Fe9m3}Th,{W60} thanks."
+
+@ASU_MW2_A:381 PLY 409625ed
+"What's good about you, Sakino, is..."
+
+@ASU_MW2_A:382 ASU 03bedb3c
+"{V2020}......"
+
+@ASU_MW2_A:383 ASU aca75bf1
+"{V2021}{Fe9}Y-you{W30} think so? {W30}{F3}{B100}Th,{W45} thanks..."
+
+@ASU_MW2_A:384 PLY 98d86410
+"Sakino..."
+
+@ASU_MW2_A:387 SYS 9b3cbf89
+{Ti0}{Ti2}Stare......
+
+@ASU_MW2_A:388 ASU 914ece20
+"{V2022}W-{W20}what is it? {W30}Staring like that..."
+
+@ASU_MW2_A:389 ASU 7c161174
+"{V2023}{Fe9m3}Oh,{W30} come on, stop it,{W30} {S}{B100}{Ec}I don't{W5} know what to do!"
+
+@ASU_MW2_A:390 PLY a5ece806
+"Sakino."
+
+@ASU_MW2_A:391 ASU e4f42449
+"{V2024}Hm?"
+
+@ASU_MW2_A:392 SYS a77d0776
+{Ti0}Smile
+
+@ASU_MW2_A:393 ASU ad3d3f44
+"{V2025}W-{W20}what is it?{W30} {Fe9m3}Did something good happen?"
+
+@ASU_MW2_A:394 PLY 87af5b42
+"Sort of."
+
+@ASU_MW2_A:395 ASU 89fadf6a
+"{V2026}{F3}I see..."
+
+@ASU_MW2_A:396 ASU 57faf690
+"{V2027}Hehe,{W30} {B40}me too."
+
+@ASU_MW2_A:397 PLY 7bcaa667
+(Okay, I'll make a cool face and nail this!)
+
+@ASU_MW2_A:398 ASU 13e41666
+"{V2028}{Fe4}What?"
+
+@ASU_MW2_A:399 SYS c2ab9f12
+{Ti0}Smolder!
+
+@ASU_MW2_A:400 ASU 1d1a70a9
+"{V2029}Ah..."
+
+@ASU_MW2_A:402 ASU 57053fe9
+"{V2030}{Nm},{W30} you're{Fm4} s-{W45}sometimes{W15} {Ec}{F3}cool, you know.{B100}"
+
+@ASU_MW2_A:403 PLY a558ec0e
+(Sometimes... huh)
+
+@ASU_MW2_A:404 PLY 6a0ce4d0
+(Okay, I'll be bold and take her hand...)
+
+@ASU_MW2_A:408 SYS 1ffe4b9d
+{T0.0}Squeeze
+
+@ASU_MW2_A:409 ASU 0c27b20f
+"{V2031}{Ts3}{B100}Eh?!"
+
+@ASU_MW2_A:410 PLY 634f9920
+"Ah..."
+
+@ASU_MW2_A:411 ASU aec00bd8
+"{V2032}{Fe6}Ah..."
+
+@ASU_MW2_A:413 ASU 1c906819
+"{V2033}{B40}{Ec}{Fe9}S-{W23}sorry, {Nm}.{W35} {Eo}It was sudden,{W3} so I was startled... {W35}{B100}{m3}And there are people{W3} around..."
+
+@ASU_MW2_A:414 PLY 10e7ef0a
+"Y-you're right... hahaha..."
+
+@ASU_MW2_A:415 ASU 40814e23
+"{V2034}{B80}{F4}Ah..."
+
+@ASU_MW2_A:416 ASU c128d092
+"{V2035}{Eh}{Fe6}...Y-{W30}you're right.{W50} {B100}{Eo}{Fe9}Holding{W3} hands is{W30} {Ec}{Fm3}normal,{W3} isn't it."
+
+@ASU_MW2_A:417 PLY 52b70370
+"You look energetic today too, Sakino."
+
+@ASU_MW2_A:418 ASU 97be6c8e
+"{V2036}{F2}Yeah! Of course!"
+
+@ASU_MW2_A:419 ASU 6b068ac5
+"{V2037}{Fe4m3}How about you, {Nm}?"
+
+@ASU_MW2_A:420 PLY d6e6f204
+"I'm fine."
+
+@ASU_MW2_A:421 ASU 931bf441
+"{V2038}{F2}Good,{W30} {Ec}I'm glad."
+
+@ASU_MW2_A:422 PLY 5e3d7784
+"Midterms come after the school festival."
+
+@ASU_MW2_A:423 ASU 87b5bc8f
+"{V2039}Ugh...{W45} right..."
+
+@ASU_MW2_A:424 PLY eb0e7781
+"Are you studying?"
+
+@ASU_MW2_A:425 ASU 9af7b426
+"{V2040}Nope...{W30} {S}{Eo}{Fm3}Not at all..."
+
+@ASU_MW2_A:426 ASU 1d9d45cc
+"{V2041}{Sd}{Eo}{F9}Hey,{W40} help me study once the school festival is over.{W30} {P4}{Fe9}Please!"
+
+@ASU_MW2_A:427 PLY dfbd6528
+"I figured it would be something like that..."
+
+@ASU_MW2_A:428 ASU 22c95765
+"{V2042}Ahaha,{W30} {Ec}sorry."
+
+@ASU_MW2_A:429 ASU d3ad02de
+"{V2043}I did{W5} a little good deed yesterday~"
+
+@ASU_MW2_A:430 PLY 2d875687
+"Oh? What kind?"
+
+@ASU_MW2_A:431 ASU 0c3c27d2
+"{V2044}{Eo}{Fm3}Ehehe,{W45} it's embarrassing,{W3} {Ec}{Fm4}so it's a secret.{W30} {F3}{Eo}Just a little{W3} helping out{Fm3}, that's all."
+
+@ASU_MW2_A:432 PLY 72739cc3
+"Hmm."
+
+@ASU_MW2_A:433 ASU be4c6888
+"{V2045}{F3}After doing something good,{W20} {Ec}{Fe2}you just feel nice, don't you?"
+
+@ASU_MW2_A:434 ASU e7cd496a
+"{V2046}{F4}Oh,{W40} there was something I wanted to tell{W3} {F3}you, {Nm}."
+
+@ASU_MW2_A:435 PLY 547944a8
+"Huh? What?"
+
+@ASU_MW2_A:436 ASU d467aec7
+"{V2047}Let{W10}'s{W30} see..."
+
+@ASU_MW2_A:437 ASU 014ec608
+"{V2048}{Fe9m3}Ahaha,{W30} I forgot."
+
+@ASU_MW2_A:438 ASU 451ac427
+"{V2049}Ugh,{W40} forgetting what you wanted to say{Fm4} is so{W25} {Fm8}annoying, isn't it?"
+
+@ASU_MW2_A:439 PLY 52be9083
+"Hahaha, you'll remember eventually."
+
+@ASU_MW2_A:440 ASU 657fdacb
+"{V2050}{F4}...Yeah,{W30} {F3}I guess so.{Ec}{F2}"
+
+@ASU_MW2_A:441 PLY 06fda6b5
+"What's your current craze, Sakino?"
+
+@ASU_MW2_A:442 ASU 6604bdf1
+"{V2051}{Fe4}My craze? {W40}{F7}Let{W10}'s{W5} see...{W60}{P1}{F3} Oh,{W30} I'm{W3} practicing whistling."
+
+@ASU_MW2_A:443 PLY 1a90eb20
+"Whistling?"
+
+@ASU_MW2_A:444 ASU 74ac800b
+"{V2052}Yeah.{W30} {Fe9}The truth is, I've never been able to do it right since I was little."
+
+@ASU_MW2_A:445 ASU a8198bd5
+"{V2053}{F4}It's not a clean whistle,{Fm3} it's just{Fe9m4} wheezing air{Fm3}..."
+
+@ASU_MW2_A:446 ASU 87a692b2
+"{V2054}So{W5} I'm training{W3} at the riverbank{W5} {Ec}where no one is around."
+
+@ASU_MW2_A:447 ASU 61cb0361
+"{V2055}{F4}Hey, hey, {Nm},{Fm3} listen, listen!{W20} {F2}Something really great just happened!"
+
+@ASU_MW2_A:448 ASU 446e1621
+"{V2056}I forgot my math homework{W15} and panicked,{W5}{Ec} but then{Eo}{W30} {F4}the teacher was out{W5} {F2}and it's self-study!"
+
+@ASU_MW2_A:449 PLY 9518fc58
+"Hahaha, that's lucky."
+
+@ASU_MW2_A:450 ASU 0a09e9cb
+"{V2057}{Ec}Right?!"
+
+@ASU_MW2_A:451 PLY aaa3fa67
+"What were you doing in the Library?"
+
+@ASU_MW2_A:452 ASU 223f6e3b
+"{V2058}I was looking at a travel guide to Italy{W20} {Fm3}while studying Italian."
+
+@ASU_MW2_A:453 ASU 30572ff8
+"{V2059}{Fe4}Italy has{F3} so much{Ec} {Fe2}delicious{Eo} food. {W15}{Fm3}I didn't know{W3} that."
+
+@ASU_MW2_A:454 PLY be4ff642
+"Sakino, what happened with the girl you met in the Science Prep Room?"
+
+@ASU_MW2_A:455 ASU 0845f929
+"{V2060}{F4}In the Science Prep Room? {W45}{F3}Oh,{W40} Futami."
+
+@ASU_MW2_A:456 ASU ad8fd53b
+"{V2061}Nothing, why?"
+
+@ASU_MW2_A:457 PLY 169af19a
+"I see. Good..."
+
+@ASU_MW2_A:458 ASU dc20676f
+"{V2062}{Fm4}She talked like she was picking a fight, so I got angry,{Fe9m3} but{W20} when I talked to her,{F3} she wasn't a bad girl."
+
+@ASU_MW2_A:459 PLY 62e1ce1c
+"Yeah, you're right."
+
+@ASU_MW2_A:460 ASU 0b0187aa
+"{V2063}{Fm4}She's a strange girl, though.{W8} {W20}{Fe9m3}She actually{W5} likes being in the Science Prep Room."
+
+@ASU_MW2_A:461 PLY c86f69c2
+"The Rooftop in the evening has a nice mood."
+
+@ASU_MW2_A:462 ASU 26dda4d2
+"{V2064}Yeah,{W20} it does."
+
+@ASU_MW2_A:463 ASU 4d1f12e0
+"{V2065}...I never thought{W10} I'd{B60}{Ec} feel like this..."
+
+@ASU_MW2_A:464 PLY e3a9caa2
+"When I talk with you, Sakino..."
+
+@ASU_MW2_A:465 ASU f16a37f2
+"{V2066}{F2}......"
+
+@ASU_MW2_A:466 ASU 6a9707f6
+"{V2067}Yeah,{W40} I know.{W20} {Ec}Me too!"
+
+@ASU_MW2_A:467 PLY bf47b64f
+"Senior club members are all so bossy."
+
+@ASU_MW2_A:468 ASU f11c704e
+"{V2068}Yeah,{W20} what seniors say is absolute.{W20} {Fm4}Especially{W5} in{W5} sports clubs."
+
+@ASU_MW2_A:469 ASU 5dfaa942
+"{V2069}{Fe9}Until the third-years retired,{W30} {Fm3}I got sent{W30} out{W5} to buy ice cream and stuff all the time."
+
+@ASU_MW2_A:470 PLY 71e8d77f
+"That must have been rough..."
+
+@ASU_MW2_A:471 ASU 30b30dcb
+"{V2070}Yeah.{W30} {Fm3}But {F2}it's a good memory now.{Ec}"
+
+@ASU_MW2_A:472 PLY 47bc451a
+"What's the toughest part of soccer club practice?"
+
+@ASU_MW2_A:473 ASU 5dd3459f
+"{V2071}Muscle{W3} training...{W25} {Fe8}I{W5} hate it."
+
+@ASU_MW2_A:474 ASU ea6b5a5e
+"{V2072}{Fe9m4}Because{W20} I have to do the same{W20} number of sit-ups and push-ups{W3} as the boys."
+
+@ASU_MW2_A:475 PLY 8decd160
+"That's harsh..."
+
+@ASU_MW2_A:476 ASU 1daf472d
+"{V2073}{Ec}Yeah.{W40} ...{Eo}{Fe6}But{W30} {Fm3}I'm used{W3} to it now."
+
+@ASU_MW2_A:477 PLY 37aeb2f9
+"Come to think of it..."
+
+@ASU_MW2_A:478 ASU 0ff23079
+"{V2074}{F4}Hm?"
+
+@ASU_MW2_A:479 PLY 688ec91d
+"Does the soccer club have managers?"
+
+@ASU_MW2_A:480 ASU 75b2a415
+"{V2075}{F3}Yeah, we do.{W10} Two{W3} cute girls."
+
+@ASU_MW2_A:481 PLY db42f9fe
+"What?! Really?!"
+
+@ASU_MW2_A:482 ASU 705e505a
+"{V2076}Yeah.{W20} {Fm4}They wash the team kit{W5} and{Fm3} get water ready.{W15} I help{W3} them too."
+
+@ASU_MW2_A:483 PLY 34a390ce
+"Who do you get along with best in the soccer club?"
+
+@ASU_MW2_A:484 ASU 5a036f34
+"{V2077}The one I get along{W20} with best... {W40}{Fm3}the captain, I guess.{W30} {F3}He looks{W5} after me in lots of ways..."
+
+@ASU_MW2_A:485 ASU 9e6fe6e1
+"{V2078}{Fm4}And{W20} {Fm3}I get along with the managers too.{W20} They cheer me on,{W5} telling me to do my best.{Ec}"
+
+@ASU_MW2_A:486 PLY 00251737
+"Club activities are..."
+
+@ASU_MW2_A:487 ASU 724c7db3
+"{V2079}......"
+
+@ASU_MW2_A:488 ASU 8834486c
+"{V2080}{Fe2m3}Yeah.{W45} {Fe6}There are hard times,{W40} {Fe2}but it's a lot of fun."
+
+@ASU_MW2_A:489 PLY f56da82a
+"Do you like summer or winter uniforms better, Sakino?"
+
+@ASU_MW2_A:490 ASU e74d7bfa
+"{V2081}Hmm...{W100} {F3}Sum{W5}mer{W25} I{W15} guess?"
+
+@ASU_MW2_A:491 ASU c6805927
+"{V2082}{Fe2m3}Short sleeves.{W50} {F2}I like{W3} showing my arms.{Ec}"
+
+@ASU_MW2_A:492 PLY 9906d29d
+"Is there a uniform you'd like to wear someday?"
+
+@ASU_MW2_A:493 ASU d4b141a5
+"{V2083}{Fe7}{W8}Not{W8} exactly a uniform,{W45} {F3}but I'd like to wear the national team kit..."
+
+@ASU_MW2_A:494 PLY 3bbb9dc7
+"I see... it's your dream, after all."
+
+@ASU_MW2_A:495 ASU 06316125
+"{V2084}{F2}Yeah."
+
+@ASU_MW2_A:496 PLY e3f47c49
+"You look good in your uniform, Sakino..."
+
+@ASU_MW2_A:497 ASU 95b0eac8
+"{V2085}{F4}{B70}Huh..."
+
+@ASU_MW2_A:498 ASU 9ff751b4
+"{V2086}N-{W13}no, I don't.{W20} {Ec}{Fe3}Honestly..."
+
+@ASU_MW2_A:499 ASU f4499a1d
+"{V2087}{Ec}{Fe9m4}Ugh,{W20} listen to this,{Eo} {Nm}."
+
+@ASU_MW2_A:500 PLY 3150f24e
+"What?"
+
+@ASU_MW2_A:501 ASU a5f30724
+"{V2088}The other day,{W10} I was running in the hallway{W5} and the Discipline Committee{W5} caught me,{F8}{Ec} and I got{F9} totally scolded."
+
+@ASU_MW2_A:502 ASU 5bdac50e
+"{V2089}{Fm4}{Ec}I only ran a little...{W30} {Fe6}grumble grumble"
+
+@ASU_MW2_A:503 PLY 82e0dfdb
+"Running in the hallway is dangerous, so I think you should stop..."
+
+@ASU_MW2_A:504 ASU 35d65321
+"{V2090}{Fe9}{Eo}I know that,{W20} {Fe6}{Ec}but it was just a tiny bit..."
+
+@ASU_MW2_A:505 ASU c7f90809
+"{V2091}{Ec}{Fe9m4}Ugh,{W20} listen to this,{Eo} {Nm}."
+
+@ASU_MW2_A:506 ASU 88758e70
+"{V2092}The other day{W10}{Ec} the Beautification Committee stopped me{W25} {Fm8}{Eo}and{W10} scolded me{W5} {Fm4}for our dirty clubroom."
+
+@ASU_MW2_A:507 ASU 832498ab
+"{V2093}{Ec}It's not{W10} just{W3} my{W3} fault...{W35} {Eh}grumble grumble"
+
+@ASU_MW2_A:508 PLY 9244df36
+"Hahaha, everyone just has to clean together."
+
+@ASU_MW2_A:509 PLY e2578812
+"The Discipline Committee is..."
+
+@ASU_MW2_A:510 ASU acec39fb
+"{V2094}......"
+
+@ASU_MW2_A:511 ASU 21c5ce1b
+"{V2095}{Fe9}Right, right,{W30} {Fm4}they're so fussy{W5} about little things."
+
+@ASU_MW2_A:512 PLY d2a31e9a
+"What's the school rule you hate most?"
+
+@ASU_MW2_A:513 ASU 4a78232f
+"{V2096}No{W3} snacking{W3} on the way.{W55} There's no{W3} way anyone can follow that."
+
+@ASU_MW2_A:514 ASU 9c37d42c
+"{V2097}{Fm4}Because{W12} on the way{W3} home from{W3} club activities I get hungry,{W30} and I end up{W10} buying bread and stuff."
+
+@ASU_MW2_A:515 PLY 03a1209b
+"School rules are kind of necessary, though..."
+
+@ASU_MW2_A:516 ASU 5ad8f026
+"{V2098}......"
+
+@ASU_MW2_A:517 ASU c1dc5daf
+"{V2099}{Fm4}Maybe,{W40} {Ec}but I think{W5} there are too many{W5} little ones."
+
+@ASU_MW2_A:518 PLY 9065be20
+"Who's your favorite teacher?"
+
+@ASU_MW2_A:519 ASU 8468d56e
+"{V2100}{Fe7m4}Well... {P5}{F9}{W95}Mr.{W5} Ishi{W10}wa{W3}ta{W25}ri,{W25} I'd better say,{W25} {Ec}{Fm2}or I'll get in trouble if he finds out..."
+
+@ASU_MW2_A:520 ASU 65377e60
+"{V2101}{Eo}{Fm3}Trust between a coach{W5} and his players{W10} is important,{W15} after all."
+
+@ASU_MW2_A:521 ASU 4e263625
+"{V2102}But{W55} my favorite?{W5}{W20} {W55}{S}{Ec}{F2}Maybe not really..."
+
+@ASU_MW2_A:522 PLY aca8fc38
+"Have you ever thought about becoming a teacher?"
+
+@ASU_MW2_A:523 ASU 1d74be77
+"{V2103}Y-{W20}yeah, sometimes."
+
+@ASU_MW2_A:524 ASU 189ca7da
+"{V2104}When I play soccer with the kids in my neighborhood,{W5} being an elementary school teacher{W3} seems{W3} like fun."
+
+@ASU_MW2_A:525 ASU 2402bc4b
+"{V2105}{Fm4}...But{W20} {Fe9}I hate studying,{W5} {Fm3}so I'd probably skip the lessons{W3} and {Ec}only teach soccer."
+
+@ASU_MW2_A:526 ASU 77162df2
+"{V2106}{F3}{Eo}Hehe."
+
+@ASU_MW2_A:527 PLY d7bed5dc
+"Who's got bigger breasts, Ms. Kawada or you, Sakino?"
+
+@ASU_MW2_A:528 ASU 6d2914a2
+"{V2107}Huh?!"
+
+@ASU_MW2_A:529 ASU 4f5236f2
+"{V2108}{Fe9m4}W-{W50}which do you think?"
+
+@ASU_MW2_A:530 PLY 44d9df66
+"...M-Ms. Kawada, maybe?"
+
+@ASU_MW2_A:531 ASU fd5ba600
+"{V2109}{B60}{Ec}{Fe2}Bzzt, {Fm2}wrong!{W43} {Eo}Mine{W3} are{W25} a little{W3} bigger."
+
+@ASU_MW2_A:532 PLY 60e29361
+"I-I see."
+
+@ASU_MW2_A:533 ASU 9082745d
+"{V2110}Yeah.{W30} {Eo}{Fe3m4}A long time ago we compared at the pool,{W40} and Ms. Kawada{W10} {Fm3}looked a little {Fm4}jealous{F3}{Ec}."
+
+@ASU_MW2_A:534 PLY eeac279f
+"I-is that so... hahaha."
+
+@ASU_MW2_A:535 PLY 33929539
+"Doesn't your class have any transfer students, Sakino?"
+
+@ASU_MW2_A:536 ASU 2aeb13ef
+"{V2111}{F4}No,{W10} {Fe3}there aren't any. Why?"
+
+@ASU_MW2_A:537 PLY 696225c1
+"Oh, okay."
+
+@ASU_MW2_A:538 ASU 56346a62
+"{V2112}Why do you ask?"
+
+@ASU_MW2_A:539 PLY 29da84bb
+"No... I just thought transferring must be hard..."
+
+@ASU_MW2_A:540 ASU 2652b3b4
+"{V2113}...Yeah,{W20} {Ec}it must be."
+
+@ASU_MW2_A:541 ASU dcd3e400
+"{V2114}{Eo}{Fm3}If someone does transfer in,{W30} {Ec}{F3}we should be nice to them."
+
+@ASU_MW2_A:542 PLY 01a79f5b
+"Transferring must be hard..."
+
+@ASU_MW2_A:543 ASU b43739fc
+"{V2115}{F6}Yeah..."
+
+@ASU_MW2_A:544 ASU 5ab39e77
+"{V2116}{Fm3}The people around them {F3}have to support them."
+
+@ASU_MW2_A:545 PLY 771441ea
+"Do you know about sleep learning?"
+
+@ASU_MW2_A:546 ASU 3eaabd00
+"{V2117}Sleep{W5} learning?{W40} {Fe9}{Fm5}W-{W35}what's that?"
+
+@ASU_MW2_A:547 PLY d26c4ed5
+"You play memorization tapes of English or math while you sleep, and you study that way."
+
+@ASU_MW2_A:548 ASU af8e3c4d
+"{V2118}{F4}Wow,{W50} {Fe4m3}all you have to do is sleep?{W5} That's amazing.{W40} {Ec}{F2}Sounds perfect for me."
+
+@ASU_MW2_A:549 ASU 850c4866
+"{V2119}But{W20} why isn't such a handy{W5} way to study{W20} {Eo}{F4}popular?"
+
+@ASU_MW2_A:550 PLY 8e61acb3
+"...That's probably because it's doubtful whether it works..."
+
+@ASU_MW2_A:551 ASU 4bf0caed
+"{V2120}Oh,{W30} I knew it.{W35} {Eo}{Fe9}Nothing in this world{W10} is that{W2} easy, huh."
+
+@ASU_MW2_A:552 ASU 409ed226
+"{Nm},{V2121} want to study{W25} together{W10} at my place sometime?"
+
+@ASU_MW2_A:553 PLY 4d32c7ec
+"Huh? At your place? S-sure, but..."
+
+@ASU_MW2_A:554 ASU 053f6599
+"{V2122}I got a great World Cup video.{Fm3} {W5}Let's watch it together!"
+
+@ASU_MW2_A:555 PLY b7d219a0
+"Hahaha, so it's soccer studying."
+
+@ASU_MW2_A:556 ASU 0f71329c
+"{V2123}{F2}{Ec}Of course!"
+
+@ASU_MW2_A:557 PLY 933cd6b3
+"There are all kinds of studying, but..."
+
+@ASU_MW2_A:558 ASU 864f195a
+"{V2124}{Ec}{F9}......"
+
+@ASU_MW2_A:559 ASU f04f139c
+"{V2125}{Fm4}{Eo}Right.{W30} If it's something you love,{W20} {Fm3}you can keep at it forever..."
+
+@ASU_MW2_A:560 ASU becafdac
+"{V2126}Ugh...{W70} {Ec}right..."
+
+@ASU_MW2_A:561 ASU d507f749
+"{V2127}{Eo}{Fm4}Ahh,{W60} {Fe6}I wish tests{W3} would just disappear..."
+
+@ASU_MW2_A:562 PLY 88699022
+"Studying for university entrance exams looks tough."
+
+@ASU_MW2_A:563 ASU bf3e6c7e
+"{V2128}{Fe9}Yeah.{W43} {Fm4}When I see the Year 3 students{W5} who retired{W5} in summer,{W15} {Ec}{Fm6}I feel{W5} sorry for them..."
+
+@ASU_MW2_A:564 PLY 6bf1c2b6
+"Do you know how to say delicious in Italian?"
+
+@ASU_MW2_A:565 ASU b459310a
+"{V2129}Buono!"
+
+@ASU_MW2_A:566 PLY 5791b6c8
+"Oh, you know it."
+
+@ASU_MW2_A:567 ASU 4f31e87b
+"{V2130}{Ec}{F2}Of course!{W3} {Eo}{Fm3}That much, at least."
+
+@ASU_MW2_A:568 ASU beecfac9
+"{Nm},{V2131} {Ec}{Fe2m4}ciao!"
+
+@ASU_MW2_A:569 PLY ff3d030b
+"Hahaha, ciao! You're studying Italian, huh."
+
+@ASU_MW2_A:570 ASU 4ff573c8
+"{V2132}{Eo}{Fm3}Ehehe,{W30} {Fm2}of course!"
+
+@ASU_MW2_A:571 PLY 7f904146
+"Have you memorized one to ten in Italian?"
+
+@ASU_MW2_A:572 ASU 72e554ae
+"{V2133}Let's{W20} see...{W60} one is{W2} {Fm4}uno, right?{W43} {Fm3}Two is{W2} {Fm4}due,{W45} {Fm3}three is{W20} tre,{W50} {F3}four is{W3} quattro."
+
+@ASU_MW2_A:573 PLY 141bad1a
+"Oh, nice, nice."
+
+@ASU_MW2_A:574 ASU 852c21c4
+"{V2134}Five is{W20} cinque,{W40} {F7}six is{W2} sei.{W40} Seven is{W3} sette,{W40} eight is {Fm4}otto.{W30} {Fm3}Nine is...{W100} {Ec}{Fe9m2}{P5}um...{W30}"
+
+@ASU_MW2_A:575 PLY 59eb3636
+"Forgot it?"
+
+@ASU_MW2_A:576 ASU 5c08f293
+"{V2135}Oh,{W30} {Fe2}nove! {W30}{F3}And ten is dieci.{W20} {F2}{Ec}I did it!"
+
+@ASU_MW2_A:577 PLY 90539728
+"Perfect."
+
+@ASU_MW2_A:578 ASU 847f67fb
+"{V2136}{Fm3}Ehehe,{W40} {Eo}{Fe9}I should be able to say them more smoothly."
+
+@ASU_MW2_A:579 PLY d5f6fef3
+"What's yes in Italian again?"
+
+@ASU_MW2_A:580 ASU e2bdd28f
+"{V2137}It's{W15} {Fm3}si."
+
+@ASU_MW2_A:581 PLY 86952dce
+"Then what's no?"
+
+@ASU_MW2_A:582 ASU d51d6238
+"{V2138}{F4}{Ec}No."
+
+@ASU_MW2_A:583 PLY ae4cefb0
+"Come to think of it, Italians say si-si all the time."
+
+@ASU_MW2_A:584 ASU 04ae49ef
+"{V2139}{Fe9}Right?{W30} {Fm4}Ever since I learned it,{Ec} {F2}it's all I notice!"
+
+@ASU_MW2_A:585 PLY 47dcf14d
+"Italian is..."
+
+@ASU_MW2_A:586 ASU 10a1d6da
+"{V2140}......"
+
+@ASU_MW2_A:587 ASU 9e8ce4ac
+"{V2141}{Ec}{F2}Yeah,{W20} {Eo}it's more{W5} fun than I expected."
+
+@ASU_MW2_A:588 PLY 03e02f4d
+"Speaking of Italian..."
+
+@ASU_MW2_A:589 ASU d6374a37
+"{V2142}{Fe4}......"
+
+@ASU_MW2_A:590 ASU 0924ada0
+"{V2143}Wow,{W20} really?{W15} {F3}That's{W5} interesting."
+
+@ASU_MW2_A:591 ASU 372e05b1
+"{V2144}Gym class outside{W5} on a nice day{W5} feels {Ec}{Fe2}so good, doesn't it?"
+
+@ASU_MW2_A:592 PLY 3decd62d
+"It'd be nice if boys and girls could have gym class together."
+
+@ASU_MW2_A:593 ASU ebf043d5
+"{V2145}{F4}Oh,{W20} {Fm3}right.{W25} {F3}{P1}Then we could {Ec}{Fm4}play soccer together,{W10} {Fm3}{Eo}or baseball."
+
+@ASU_MW2_A:594 PLY 14ad6b70
+"Well, we're in different classes, so we can't..."
+
+@ASU_MW2_A:595 ASU 222f73b9
+"{V2146}{F4}Oh,{W5} right...{W50} {F3}Then{W10} we'll have to get{W5} into the same class in Year 3."
+
+@ASU_MW2_A:596 PLY 359e1b35
+"You had gym, Sakino?"
+
+@ASU_MW2_A:597 ASU 2ba743dd
+"{V2147}Yeah! {Ec}{Fe2}Right!"
+
+@ASU_MW2_A:598 PLY f101444b
+"What did you do?"
+
+@ASU_MW2_A:599 ASU 5ecb1cf7
+"{V2148}Creative{W3} dance!{W25} {Eo}{F2}It was{W3} fun!"
+
+@ASU_MW2_A:600 PLY abfe7a47
+"Oh? What kind of dance did you do?"
+
+@ASU_MW2_A:601 ASU bcb0ad67
+"{V2149}{Fe3m4}Something like imitating rhythmic gymnastics.{W30} {F3}You hardly ever go barefoot in the gym,{W5} {Ec}{Fe2}so it felt fresh."
+
+@ASU_MW2_A:603 ASU 82eecce0
+"{V2151}Yeah! {Ec}{Fe2}Right!"
+
+@ASU_MW2_A:604 ASU 53c86442
+"{V2152}Softball!{W30} {F3}I pitched."
+
+@ASU_MW2_A:605 PLY 5aa2b15d
+"Oh? How was it?"
+
+@ASU_MW2_A:606 ASU fe93b986
+"{V2153}{Fm4}No hits after three innings.{W20} {Fm3}But{W30} the teacher said it wasn't a{W3} game,{W3} so{W15} {Fe9}she swapped me out."
+
+@ASU_MW2_A:607 ASU d3c0085d
+"{V2154}It's not as good as soccer,{W10} {Fe2m3}but softball{W5} is fun too."
+
+@ASU_MW2_A:608 PLY 4230e152
+"With athletic skills like yours, gym class is probably fun..."
+
+@ASU_MW2_A:609 ASU aa310c21
+"{V2155}{F4}{B40}......"
+
+@ASU_MW2_A:610 ASU 0d7323e8
+"{V2156}Come on...{W50} that's{W10} {B100}{Ec}a bit too much praise, I think..."
+
+@ASU_MW2_A:611 PLY c30acf0a
+"Isn't swimming hard with long hair?"
+
+@ASU_MW2_A:612 ASU 80e707bd
+"{V2157}Yeah,{W3} it's a pain.{W25} {Fm4}And it takes forever{W5} {Fm3}to dry after swimming."
+
+@ASU_MW2_A:613 ASU af9e120c
+"{V2158}{F3}But{W20} I'm not trying to cut my times,{W5} I just swim for fun,{W15} {Ec}{Fe2}so it's fine."
+
+@ASU_MW2_A:614 PLY 9a89c16a
+"How far do you swim in a day, Sakino?"
+
+@ASU_MW2_A:615 ASU 66baeeb5
+"{V2159}Let's{W3} see...{W35} {F3}about 500{W3} meters."
+
+@ASU_MW2_A:616 PLY 25e71498
+"Huh?! That much? After soccer practice?"
+
+@ASU_MW2_A:617 ASU 8ba67ede
+"{V2160}{Fe4}Yeah."
+
+@ASU_MW2_A:618 ASU 3ec9c15b
+"{V2161}{Fe3m4}Ten fifty-meter laps is over {F3}in no time.{W30} For a Swim Club member,{W20} {Ec}{Fe9}that's just a light cooldown."
+
+@ASU_MW2_A:619 PLY 76fc3313
+"...Maybe, but that's a huge amount of training."
+
+@ASU_MW2_A:620 ASU f921a13b
+"{V2162}{Eo}{F3}I don't go to{W5} the Swim Club every day,{W10} so it's fine.{W30} {P3}{Ec}I'm careful{W3} not to overdo it."
+
+@ASU_MW2_A:621 PLY 00e60c67
+"Is there a soccer player you look up to?"
+
+@ASU_MW2_A:622 ASU df9ca1c6
+"{V2163}Yeah,{W20} of course."
+
+@ASU_MW2_A:623 ASU 49c70c25
+"{V2164}{Fm4}He's the captain{W20} of Italy's{W5} national team..."
+
+@ASU_MW2_A:624 ASU 44885ddb
+"{V2165}His passing{W3} and dribbling{W3} are {Ec}unbelievably{W3} {Fe4}{Eo}good,{W20} {Fe2}and the whole team{W3} trusts{W3} him{W5} so much{Fm4}."
+
+@ASU_MW2_A:625 ASU 23f58488
+"{V2166}{Ec}{Fe9m3}His presence{W3} on the pitch is different,{W3} you know..."
+
+@ASU_MW2_A:626 ASU 6ce7df3c
+"{V2167}He's the player{W5} I'm aiming{W10} to be."
+
+@ASU_MW2_A:627 PLY 6e55c5ed
+"The season for sports is almost here."
+
+@ASU_MW2_A:628 ASU d01b2110
+"{V2168}Oh,{W20} right.{W30} {Fe7m3}Is it that season already?"
+
+@ASU_MW2_A:629 ASU ba20f65a
+"{V2169}{Fe9}I play sports all year,{Ec} {F2}so I didn't notice."
+
+@ASU_MW2_A:631 PLY e0296305
+"Every soccer player dreams of the World Cup, right?"
+
+@ASU_MW2_A:632 ASU 66cd3822
+"{V2170}Yeah, {Ec}of course!"
+
+@ASU_MW2_A:633 ASU d624dc74
+"{V2171}{Eo}Putting on{W3} the national team kit{W3} and{W5} standing on the pitch{W3} in the World{W3} Cup final{W10} is every{W5} soccer player's{W10} dream!"
+
+@ASU_MW2_A:635 PLY 77a71337
+"The good thing about sports is..."
+
+@ASU_MW2_A:636 ASU b1dcd6e0
+"{V2172}{F2}......"
+
+@ASU_MW2_A:637 ASU fcd9c2dc
+"{V2173}{Fm4}Right, right,{W20} {Ec}{F2}exactly!{W40} {Eo}{Nm}, let's start{W20} some sport together."
+
+@ASU_MW2_A:639 PLY 4bf0b320
+"Some soccer players start dancing when they score."
+
+@ASU_MW2_A:640 ASU ab440bc4
+"{V2174}{Fm4}Oh,{W20} {Fm3}yeah, they do."
+
+@ASU_MW2_A:641 PLY 43f8787d
+"Sometimes they get carried away and strip off."
+
+@ASU_MW2_A:642 ASU ac4fd821
+"{V2175}{S}Ahaha,{W40} {Fm3}{Eo}true."
+
+@ASU_MW2_A:643 ASU 487afe8d
+"{V2176}{Sd}Goals{W10} don't come{W5} easily in soccer,{W20} {F2}{Ec}so the joy{W3} is that much bigger."
+
+@ASU_MW2_A:645 ASU 5679deb9
+"{V2177}Sigh..."
+
+@ASU_MW2_A:646 PLY 32adc60a
+"What's wrong? Sighing like that."
+
+@ASU_MW2_A:647 ASU b467b076
+"{V2178}{Eo}Last night{W33} I was watching a soccer match on TV,{W43} {Fm3}and the pros' feints{W30} are so amazing{Ec} {Fm4}they take your breath away."
+
+@ASU_MW2_A:648 ASU 9e906d71
+"{V2179}{Eo}{Fe9m3}It's like they're dancing."
+
+@ASU_MW2_A:649 PLY caabff0a
+"Like they're dancing, huh... That's amazing."
+
+@ASU_MW2_A:650 ASU 74f5b4ab
+"{V2180}{F3}Yeah."
+
+@ASU_MW2_A:651 ASU 0eb6c85f
+"{V2181}Especially{W40} the South American{W3} players{W2} have great rhythm,{W20} {F3}so they're really good."
+
+@ASU_MW2_A:652 ASU 509d1c14
+"{V2182}I{W10} wish I could be{W3} like that..."
+
+@ASU_MW2_A:653 PLY 0ea28ca8
+"Want to try a dance school?"
+
+@ASU_MW2_A:654 ASU 5b8c3abc
+"{V2183}{Eo}{F3}Oh,{W15} that might be good."
+
+@ASU_MW2_A:656 PLY 367751c1
+"Dancing is kind of embarrassing..."
+
+@ASU_MW2_A:657 ASU 76f5be06
+"{V2184}{Fe9}......"
+
+@ASU_MW2_A:658 ASU 7088a757
+"{V2185}{Fm4}Yeah.{W45} {Fm3}It's embarrassing{W15} when people watch."
+
+@ASU_MW2_A:660 PLY cec7691e
+"Some people listen to music while jogging."
+
+@ASU_MW2_A:661 ASU 2a547620
+"{V2186}Oh,{W30} I see them{W3} sometimes."
+
+@ASU_MW2_A:662 ASU 35bb710f
+"{V2187}{Fe7m4}When I go to the sports club,{W5} {W20}{Fe3}they play music,{W20} {F3}so I listen while I run."
+
+@ASU_MW2_A:663 ASU 811f77e8
+"{V2188}It's pretty relaxing,{W3} {Ec}{Fe2}isn't it?"
+
+@ASU_MW2_A:665 PLY 96961acb
+"Can you sing your favorite soccer team's anthem?"
+
+@ASU_MW2_A:666 ASU 77e6defd
+"{V2189}{Fm9}No,{W10} {F9}I can't.{W30} {Fm3}It's in Italian."
+
+@ASU_MW2_A:667 PLY 67919fb4
+"R-right."
+
+@ASU_MW2_A:668 ASU 1c5d6c91
+"{V2190}{Fm3}But{W30} if I could sing it,{W10} {F3}it'd be so much fun."
+
+@ASU_MW2_A:670 PLY a62d45fd
+"I listened to this the other day..."
+
+@ASU_MW2_A:671 ASU f7df09ae
+"{V2191}......"
+
+@ASU_MW2_A:672 ASU 606fb266
+"{V2192}{F4}Wow,{W40} you have a CD like that?{W33} {F3}Let me hear it sometime."
+
+@ASU_MW2_A:674 PLY 47ad1eb1
+"I bet you have tons of soccer match videos, Sakino."
+
+@ASU_MW2_A:675 ASU e6c112e7
+"{V2193}Of course!"
+
+@ASU_MW2_A:676 ASU 89cea0cd
+"{V2194}{Eo}From old World Cups{W20} {Fe4}to the qualifiers {Fm4}and practice for the next tournament,{W25} {F2}I have a mountain of them."
+
+@ASU_MW2_A:677 PLY 574d6bae
+"Hahaha, that many?"
+
+@ASU_MW2_A:678 ASU ea1d724e
+"{V2195}{Ec}Yeah.{W50} {Fe3m4}{Eo}...You can{W25} b{W2}u{W2}r{W2}n them{W45} {Fe9m3}to DVD, right?{W20}"
+
+@ASU_MW2_A:679 PLY 34b49b6a
+"Only if you have a computer or a DVD recorder."
+
+@ASU_MW2_A:680 ASU 01b70259
+"{V2196}{Ec}Aww,{W30}{Eo}{Fe7} I wish we'd get one.{W40}{Fe9m3} VHS tapes are bulky,{W5} so they're{Ec} always{W5} in the way."
+
+@ASU_MW2_A:682 ASU fd827d4a
+"{V2197}{F4}The other day,{W30} I found a video Dad shot{W35}{Fe3} when I was in elementary school..."
+
+@ASU_MW2_A:683 ASU fa8e6eb0
+"{V2198}My skin was{W10} tanned dark,{W30}{Ec}{Fe6} and I had no chest,{W15}{Eo}{Fe9m4} so you couldn't tell me from a boy..."
+
+@ASU_MW2_A:684 PLY 7aa469c1
+"Hahaha..."
+
+@ASU_MW2_A:685 ASU 3d406c7e
+"{V2199}{Fm2}Well,{W45} even now,{W20}{S}{Ec}{Fe2} you still can't, really."
+
+@ASU_MW2_A:687 ASU 1e664296
+"{Nm}, {V2200}did you watch{W3} yesterday's{W2} soccer game?"
+
+@ASU_MW2_A:688 PLY ae942688
+"Oh, there was one yesterday? Sorry, I didn't see it."
+
+@ASU_MW2_A:689 ASU 8fd003fb
+"{V2201}{Fe9m4}Aw,{W10} too bad.{W45}{Fm3} It was a great game{W10}, though{W3}..."
+
+@ASU_MW2_A:690 ASU f55e58e4
+"{V2202}I recorded it on video,{W20}{Ec}{Fe2} so I'll lend it to you sometime."
+
+@ASU_MW2_A:692 PLY 7eb111cf
+"The good thing about video is..."
+
+@ASU_MW2_A:693 ASU 3fd087d8
+"{V2203}{Fm4}......"
+
+@ASU_MW2_A:694 ASU aa901055
+"{V2204}{Fm3}You're right.{W33} Being able to watch it later{W10} is pretty{W10} handy{W5}, isn't it?"
+
+@ASU_MW2_A:695 ASU d2856696
+"{V2205}Hey, hey,{W40} {Nm},{W20} I bet you{W20} read a lot of books, right?"
+
+@ASU_MW2_A:696 PLY 65c39257
+"N-not that much, really..."
+
+@ASU_MW2_A:697 ASU 3a3d3d55
+"{V2206}{Fe9m4}That's amazing.{W70}{Fe9} Me,{W10} if I read a book that's all text,{W20}{Fm2} I get sleepy right away."
+
+@ASU_MW2_A:698 ASU 743d5fcd
+"{V2207}{Fm4}The other day,{W20} I fell asleep{Ec} just from looking at the cover."
+
+@ASU_MW2_A:699 PLY 42cd2b7f
+"Hahaha, I'm about the same."
+
+@ASU_MW2_A:701 ASU 076f81d5
+"{V2208}The other day,{W20} I was reading a soccer magazine and thought..."
+
+@ASU_MW2_A:702 ASU 333b982a
+"{V2209}Someday,{W20}{Ec} I'd like to become a player{W10}{Eo} whose photo is in a magazine..."
+
+@ASU_MW2_A:703 PLY bb4ed082
+"You can do it, Sakino."
+
+@ASU_MW2_A:704 ASU 982bf7e6
+"{V2210}{E}Y-{W20}{Fe9}{E}you think?{B80}{Fe2m3}{W20} Thanks,{Ec} {Nm}."
+
+@ASU_MW2_A:706 PLY a75b46a8
+"Autumn, the reading season, is almost here."
+
+@ASU_MW2_A:707 ASU a9ff6df5
+"{V2211}{F4}Oh,{W20}{F3} you're right!"
+
+@ASU_MW2_A:708 ASU 48cc202c
+"{V2212}Any books{W5} you'd{W3} recommend?{W70}{F3} If you like it, {Nm}, I'll{W20} do my best to read it."
+
+@ASU_MW2_A:709 PLY c7ac4ce9
+"R-really? ...Then I'll look for a good book."
+
+@ASU_MW2_A:710 ASU 32d80812
+"{V2213}{Ec}{Fe2}Yeah!{W30}{Eo} I'm looking forward to it!"
+
+@ASU_MW2_A:712 PLY 98edb6ac
+"Reading once in a while..."
+
+@ASU_MW2_A:713 ASU 8b76c1a7
+"{V2214}{F4}......"
+
+@ASU_MW2_A:714 ASU 20b52cce
+"{V2215}Yeah, yeah,{W30}{Fm4} it is the reading season, after all."
+
+@ASU_MW2_A:716 PLY 480fc03e
+"Where's the store you go to most, Sakino?"
+
+@ASU_MW2_A:717 ASU 900dddc7
+"{V2216}The bakery{W3} on the shopping street!"
+
+@ASU_MW2_A:718 ASU cec0e77c
+"{V2217}{Fe4}I stop by{Fe3} a lot on my way home from club,{W30}{Ec}{Fe2} so the lady and I{W5} became friends."
+
+@ASU_MW2_A:720 PLY 9faff3b2
+"Is there anything you want to buy but it's too expensive?"
+
+@ASU_MW2_A:721 ASU 04de5640
+"{V2218}{Eo}{F2}A ticket{W3} to the World Cup{W3} final!"
+
+@ASU_MW2_A:722 ASU bddb786e
+"{V2219}{Fm4}With the markup,{W5}{F4} they go for{W3} hundreds of thousands of yen."
+
+@ASU_MW2_A:723 PLY 374bf5cf
+"What?! That much?!"
+
+@ASU_MW2_A:724 ASU 08908249
+"{V2220}Yeah."
+
+@ASU_MW2_A:725 PLY 75d71a61
+"...But for you, Sakino, there's a way to get it free."
+
+@ASU_MW2_A:726 ASU f4045aed
+"{V2221}{F4}Huh?{W20} How?"
+
+@ASU_MW2_A:727 PLY d0145432
+"If you stand on the pitch in the final as a player, you don't need any money."
+
+@ASU_MW2_A:728 ASU 3fbc2b5a
+"{V2222}I see{Fe8m3}...{W50} you're right.{P6}{Fe2}{Ec}{W53} Yeah,{W20} I'll do my best."
+
+@ASU_MW2_A:730 PLY b2205bdd
+"Have you ever done online auctions?"
+
+@ASU_MW2_A:731 ASU dc79d900
+"{V2223}No,{W20} I haven't. Why?"
+
+@ASU_MW2_A:732 PLY e1c889cb
+"They list lots of soccer stuff too. Rare items, good deals."
+
+@ASU_MW2_A:733 ASU 34b8a1a8
+"{V2224}{F4}Wow,{W10} really?{W30}{F3} Maybe I'll take a peek sometime."
+
+@ASU_MW2_A:735 PLY 25f4ce6d
+"If you're going shopping..."
+
+@ASU_MW2_A:736 ASU eb30c4b5
+"{V2225}......"
+
+@ASU_MW2_A:737 ASU 736cc869
+"{V2226}{F4}I see,{W35} there's a way to buy things like that.{W65}{Ec}{Fe2m3} I'll try it sometime."
+
+@ASU_MW2_A:739 PLY f025ab94
+"Supporters wear their team's kit when they cheer, right?"
+
+@ASU_MW2_A:740 ASU a1698fe3
+"{V2227}Yeah, they do.{W30} It's a festival, after all."
+
+@ASU_MW2_A:741 ASU 864e7b90
+"{V2228}...But{W5} those{W10} get a small redesign every year,{Fm3} so they're{W10} hard to keep buying."
+
+@ASU_MW2_A:742 PLY 18b0ca17
+"Oh, I see."
+
+@ASU_MW2_A:743 ASU e73fba4f
+"{V2229}I have{W5} one too, but{W35}{Ec}{W5}{Fe9}{Eo} it's from two years ago.{W30}{B60}{Ec} It's kind of embarrassing."
+
+@ASU_MW2_A:745 PLY d68f97e3
+"I'd like to see you in a skirt, Sakino, something other than your uniform."
+
+@ASU_MW2_A:746 ASU 745b49cf
+"{V2230}Huh?{W30}{B80} R-{W40}really?"
+
+@ASU_MW2_A:747 ASU ad95aaa6
+"{V2231}{Fe6}Then...{W20}{F3} I'd have to go buy one."
+
+@ASU_MW2_A:748 PLY 766e9b81
+"Ah... you don't have one?"
+
+@ASU_MW2_A:749 ASU e22fe872
+"{V2232}M-{W20}more or less.{W40}{Eo}{Fm3} There's a pair{W2} in my closet{W30} from grade school{W20} or so,{W3}{W5} I think{W2}{W45}{Fm4} but I{W5} wear them less each year{W2}..."
+
+@ASU_MW2_A:750 ASU 313a7724
+"{V2233}Nobody's ever told me{W30}{B100}{Ec} they wanted to see me in a skirt..."
+
+@ASU_MW2_A:752 PLY f71a49a4
+"What kind of outfit would suit you, Sakino..."
+
+@ASU_MW2_A:753 ASU 6e1dbf20
+"{V2234}{F4}Huh..."
+
+@ASU_MW2_A:754 ASU 16eee332
+"{V2235}{B100}Y-{W30}{Fe7}you think? {W30}{Fe3}Maybe I'll try wearing one..."
+
+@ASU_MW2_A:756 PLY 0ff5d8f1
+"What's your lucky item, Sakino?"
+
+@ASU_MW2_A:757 ASU 7e1c035b
+"{V2236}A broken friendship bracelet."
+
+@ASU_MW2_A:758 PLY 020fbd76
+"Huh? You keep your broken bracelet?"
+
+@ASU_MW2_A:759 ASU 63d75f72
+"{V2237}{Eo}{Fm4}Yeah.{W20}{Fm3} Sometimes{W20} I use it to tie my hair."
+
+@ASU_MW2_A:761 PLY 8e718078
+"Is there an accessory you want?"
+
+@ASU_MW2_A:762 ASU 7f88e19c
+"{V2238}What I want is...{W63}{F4} Oh!{W40}{F3} Opera glasses!"
+
+@ASU_MW2_A:763 ASU 767d0478
+"{V2239}{F2}To watch the players up close at games!{W25}{Ec}{W5}{Fe9m4}{Eo} In a big stadium{W30} they look tiny,{W25} and I can't see them."
+
+@ASU_MW2_A:765 PLY a21f7807
+"Everyone has their own taste in accessories, but..."
+
+@ASU_MW2_A:766 ASU df2dbe06
+"{V2240}......"
+
+@ASU_MW2_A:767 ASU 3fd46e8b
+"{V2241}{Ec}{Fe2}Right, right.{W30}{Eo} As long as the person likes it, that's what matters."
+
+@ASU_MW2_A:769 PLY eda02ce2
+"Have you ever done face painting?"
+
+@ASU_MW2_A:770 ASU a971af17
+"{V2242}{F4}I've never painted,{W30}{P1}{F3} but I've stuck some on."
+
+@ASU_MW2_A:771 PLY b6c6df94
+"Stuck on?"
+
+@ASU_MW2_A:772 ASU a832655f
+"{V2243}{Fe2}Yeah.{W20} They sell stickers for your face."
+
+@ASU_MW2_A:773 PLY dae5d1ac
+"Wow, handy."
+
+@ASU_MW2_A:774 ASU 0619c7d4
+"{V2244}{Ec}Yeah.{W30}{Fe9m8}{Eo} ...But they're{W20} so sticky{W15} that peeling them off{W3} is a pain..."
+
+@ASU_MW2_A:775 ASU 480fee71
+"{V2245}{Fe9m4}If you don't peel it off carefully with lotion,{W40}{Ec}{Fm3} it stings for two,{W5} three days{W5} and{W3} it's awful."
+
+@ASU_MW2_A:777 ASU d92c830a
+"{Nm}, {V2246}listen. {Fm4}The other day,{W3} at club,{W20}{Fe9} the captain{W3} smelled weird."
+
+@ASU_MW2_A:778 PLY ada9b2f2
+"Smelled?"
+
+@ASU_MW2_A:779 ASU e5e39609
+"{V2247}{Ec}Yeah.{W30}{Eo} Apparently{Fm9} it's perfume from a favorite player's brand."
+
+@ASU_MW2_A:780 ASU ddd6cc65
+"{V2248}{Fm8}Mixed{W3} with sweat,{W30} it smells{W3} like{W3} a wet dog."
+
+@ASU_MW2_A:781 PLY ed5d7ef9
+"That's pretty smelly..."
+
+@ASU_MW2_A:782 ASU 09d3e765
+"{V2249}Right?{W15} It stinks so bad I can't stand it...{W30}{Eo}{Fe9} But{W35} the captain insists it smells nice..."
+
+@ASU_MW2_A:783 ASU a6248da3
+"{V2250}{Fm4}No wonder.{W30} I mean,{F4} it costs 8000 yen!"
+
+@ASU_MW2_A:784 PLY f484ffcd
+"8000 yen?! That much?!"
+
+@ASU_MW2_A:785 ASU fc9de65f
+"{V2251}{Fe9}Yeah.{W30}{Fm3} 8000 yen for wet dog smell.{W33}{Ec}{P1}{Fe2m3} We all burst out laughing."
+
+@ASU_MW2_A:787 PLY 9170bd19
+"Do you use sunscreen, Sakino?"
+
+@ASU_MW2_A:788 ASU 95e2fbf3
+"{V2252}Yeah,{W30} when the sun's strong."
+
+@ASU_MW2_A:789 PLY 542af83a
+"I see..."
+
+@ASU_MW2_A:790 ASU b9fc3c4c
+"{V2253}{Fm3}Hehe...{W30}{Fm4} I'm tanned{W10} anyway, right?{W30}{Fe9m3} It wipes off when I wipe sweat{W5} with a towel..."
+
+@ASU_MW2_A:791 ASU 0184c7b3
+"{V2254}{S}{Ec}{Fe2}Well,{W45} I was never{W15} fair-skinned{W3} to begin{W10} with, though."
+
+@ASU_MW2_A:793 PLY ee8d4210
+"I don't really know anything about makeup..."
+
+@ASU_MW2_A:794 ASU 132d2ecb
+"{V2255}......"
+
+@ASU_MW2_A:795 ASU cecf047a
+"{V2256}{Ec}{Fe9m3}Ahaha,{W45}{Eo} I'm{W15} clueless too."
+
+@ASU_MW2_A:797 PLY 62eb1b00
+"Do you own a bikini, Sakino?"
+
+@ASU_MW2_A:798 ASU 10bdd753
+"{V2257}{F4}What?!{W5} A bikini?!"
+
+@ASU_MW2_A:799 ASU 0f429be1
+"{V2258}{Fe9}I have a two-piece,{W30}{Fm3} but no bikini..."
+
+@ASU_MW2_A:800 ASU e652b4ea
+"{V2259}{Fm4}Because...{W30} they feel flimsy,{W20}{Fm3} and they're no good{W3} for swimming."
+
+@ASU_MW2_A:802 PLY 4b10711e
+"Girls' swimsuits cost way more than boys' ones, huh."
+
+@ASU_MW2_A:803 ASU a00bc6c2
+"{V2260}Yeah,{W20} they're pricey~"
+
+@ASU_MW2_A:804 ASU 88a191ba
+"{V2261}{F4}But{W15} there's more fabric,{W15}{Fe9m3} so it can't be helped, right?"
+
+@ASU_MW2_A:805 PLY 0db2206f
+"Even with less fabric, they can cost more."
+
+@ASU_MW2_A:806 ASU d52cbb97
+"{V2262}{F4}Hmm...{W55}{Eh} you{W5} know a lot."
+
+@ASU_MW2_A:807 PLY 87d406eb
+"N-no... it's just... hahaha..."
+
+@ASU_MW2_A:808 PLY f69daa14
+"The swimsuit you wore on Sunday looked great on you, Sakino."
+
+@ASU_MW2_A:809 ASU 769b7e52
+"{V2263}Oh,{W40}{B100}{F3} thank you."
+
+@ASU_MW2_A:811 PLY 8d0336b6
+"On days with class and Swim Club, do you reuse your school swimsuit?"
+
+@ASU_MW2_A:812 ASU 93bfa72c
+"{V2264}Yeah.{W30} I can't hang it up anywhere,{W30}{Fm4} so I just wring it out and put it on again."
+
+@ASU_MW2_A:813 ASU ddb4f84f
+"{V2265}{Fm3}A wet{W3} one-piece{W13} is hard to put on~"
+
+@ASU_MW2_A:815 PLY 6c74e53b
+"Women's swimsuits..."
+
+@ASU_MW2_A:816 ASU af13287c
+"{V2266}{F4}Huh..."
+
+@ASU_MW2_A:817 ASU cdb0ebe5
+"{V2267}{B60}{Fe9m3}...Y-{W25}you're right."
+
+@ASU_MW2_A:819 PLY 5e68a51e
+"What's your favorite late-night snack?"
+
+@ASU_MW2_A:820 ASU b5737975
+"{V2268}{Fe9}You shouldn't eat much in the middle of the night."
+
+@ASU_MW2_A:821 PLY fbd90b54
+"What if you get really hungry?"
+
+@ASU_MW2_A:822 ASU 660b9f97
+"{V2269}{F4}Then,{W30}{F3} you should eat fruit or something."
+
+@ASU_MW2_A:823 PLY d905bbbf
+"I see."
+
+@ASU_MW2_A:824 ASU 28be35fa
+"{V2270}I'm{W3} already asleep by then,{W3}{Ec}{Fe2} so it doesn't matter to me."
+
+@ASU_MW2_A:826 PLY 6b8f7f5b
+"What did you eat last night?"
+
+@ASU_MW2_A:827 ASU 2558c087
+"{V2271}Takoyaki~!"
+
+@ASU_MW2_A:828 PLY b7a1c250
+"Huh? Takoyaki at home?!"
+
+@ASU_MW2_A:829 ASU c37028e9
+"{V2272}{Fm4}{Eo}Yeah.{W20}{Fm3} Is that weird?{E} {W40}{F4}Don't you do it at your place, {Nm}?"
+
+@ASU_MW2_A:830 PLY 9d944984
+"We do okonomiyaki, but not takoyaki..."
+
+@ASU_MW2_A:831 ASU fe386fca
+"{V2273}{Fe7m4}I see.{W30}{Fe3m4} Why not?"
+
+@ASU_MW2_A:832 PLY 0331748b
+"Hmm... maybe because it feels more like a snack than dinner?"
+
+@ASU_MW2_A:833 ASU 0fd7dd8b
+"{V2274}{Ec}{F2}Ahaha,{W20}{Fm3} true."
+
+@ASU_MW2_A:834 ASU 97513b79
+"{V2275}{Eo}{Fe3m4}But{W10}{Fm3} poking them as they cook one by one is fun,{W25} and they're fresh off the grill,{Ec}{Fe2} so they taste amazing."
+
+@ASU_MW2_A:836 PLY 94719fbf
+"What do you usually eat after club?"
+
+@ASU_MW2_A:837 ASU 572910c0
+"{V2277}{Ec}{F2}The mini hot dog{W12} from the bakery{W15} on the shopping street!"
+
+@ASU_MW2_A:838 ASU 1f58ca32
+"{V2278}{Eo}{Fe3m4}It's a hot dog in a little roll,{W10} so it's{Fm3} just right."
+
+@ASU_MW2_A:840 PLY c008d73e
+"I had it for dinner the other day..."
+
+@ASU_MW2_A:841 ASU 2ef915f4
+"{V2279}......"
+
+@ASU_MW2_A:842 ASU 28fbeb82
+"{V2280}{Fm3}Wow,{W20} sounds delicious.{W35}{Ec}{Fe2} That's{W3} so{W2} nice."
+
+@ASU_MW2_A:844 PLY be6a557f
+"Have you ever been to a cake buffet?"
+
+@ASU_MW2_A:845 ASU b284b5e9
+"{V2281}Yeah, of course!{W20}{Fm4} They often have one at the hotel restaurant in{W10} front of the station."
+
+@ASU_MW2_A:846 PLY d17cc580
+"How many can you eat?"
+
+@ASU_MW2_A:847 ASU 2156b227
+"{V2282}Let's{W20} see,{W100}{F3} six{W10} or so{W3}, I guess."
+
+@ASU_MW2_A:848 PLY 6332c937
+"What?! Six? Isn't that too many?"
+
+@ASU_MW2_A:849 ASU 00c2b86e
+"{V2283}{F2}Ehehe,{W40}{Ec}{Fe2m3} don't tell{W15} the coach{Fm4}."
+
+@ASU_MW2_A:851 PLY f7dfb5e7
+"Have you ever had lemons in honey?"
+
+@ASU_MW2_A:852 ASU e23dc531
+"{V2284}{F4}Of course I have. Why?"
+
+@ASU_MW2_A:853 PLY 53b5ca8b
+"What are they like?"
+
+@ASU_MW2_A:854 ASU fdfb35d4
+"{V2285}Oh, right.{W40}{F3} People outside the sports clubs{W15} don't really{W2} eat them, do they."
+
+@ASU_MW2_A:855 PLY cc4af171
+"Nope."
+
+@ASU_MW2_A:856 ASU f478a8b0
+"{V2286}I'll make some for you sometime.{W33}{Ec}{Fe2} Let's go cycling too!"
+
+@ASU_MW2_A:858 ASU 73d1ba78
+"{Nm}, {V2287}{Fm4}have you{W3}{Fm3} ever had churros?"
+
+@ASU_MW2_A:859 PLY 87973593
+"Churros? What are those like again?"
+
+@ASU_MW2_A:860 ASU aa865afb
+"{V2288}{Fm4}You know, {W10}that long, thin stick of fried dough{Fm3} that {W20}smells like cinnamon...
+
+@ASU_MW2_A:861 PLY 719a7bd1
+"Oh, that one."
+
+@ASU_MW2_A:862 ASU 8d7a4a40
+"{V2289}Yeah.{W20} I had it for the first time the other day,{W20} {Ec}and it's so good!"
+
+@ASU_MW2_A:863 ASU 2b48b955
+"{V2290}{Eo}{Fm4}If I'm hungry,{W20} {Fm3}I can eat {W3}three."
+
+@ASU_MW2_A:865 PLY 48cd4e39
+"Don't you always end up buying the sweets next to the register at convenience stores?"
+
+@ASU_MW2_A:866 ASU f6e3fe1a
+"{V2291}Ah,{W5} I do, I totally do!{W3} {Fe9}Like the baumkuchen!"
+
+@ASU_MW2_A:867 ASU ef878052
+"{V2292}{Fm4}It's cut into quarters,{W15} {Fm3}so it's just the right amount~{Ec}"
+
+@ASU_MW2_A:869 PLY d256f6a2
+"Sweets..."
+
+@ASU_MW2_A:870 ASU 4720d24d
+"{V2293}{Fe7}......"
+
+@ASU_MW2_A:871 ASU e7a7aeb9
+"{V2294}{F3}Yeah,{W10} you're right.{W30} {Ec}{Fe2}They're good for{W2} recovering from fatigue, too!"
+
+@ASU_MW2_A:873 PLY 7a95b9b3
+"Sakino, do you like milk?"
+
+@ASU_MW2_A:874 ASU 6582002b
+"{V2295}Yeah, of course!{W5} {Eo}I love it!"
+
+@ASU_MW2_A:875 ASU 94161d2b
+"{V2296}{Fm4}In elementary school,{W22} {Fm2}I even drank the share of kids{W3} who were absent."
+
+@ASU_MW2_A:876 PLY c11c71e3
+"Hahaha. I see."
+
+@ASU_MW2_A:879 PLY 9f260130
+"{Ts1}So that's why they got so big..."
+
+@ASU_MW2_A:880 ASU 6a31c2fe
+"{V2297}Did you say something?"
+
+@ASU_MW2_A:881 PLY e6f293a5
+"N-no, nothing. Hahaha..."
+
+@ASU_MW2_A:883 PLY 5b535736
+"What drink do you hate, Sakino?"
+
+@ASU_MW2_A:884 ASU 38324b07
+"{V2298}Iced coffee."
+
+@ASU_MW2_A:885 ASU 3b490eb9
+"{V2299}{Fm4}Doesn't it {W10}give you a headache{W3} when you drink it?"
+
+@ASU_MW2_A:886 PLY 86e2e9b6
+"Yeah, some people do get headaches."
+
+@ASU_MW2_A:887 ASU f4ae763d
+"{V2300}I{W2} do.{W45} {Eo}...If I had to choose between iced coffee{W3} and green juice,{W15} {Fm8}I'd{W2} totally{W30} {Fe9m4}pick the green juice."
+
+@ASU_MW2_A:888 PLY c903a8a2
+"You really can't stand it, huh."
+
+@ASU_MW2_A:889 ASU 6b7cf8a4
+"{V2301}{Fe9m4}Well,{W30} if it tastes bad either way,{W20} {Fm3}might as well pick the one that's good for you, right?"
+
+@ASU_MW2_A:890 ASU b30fd154
+"{V2302}{F3}{Ec}Hehe."
+
+@ASU_MW2_A:892 PLY ea225102
+"What's in the bottles soccer players drink during a match, I wonder?"
+
+@ASU_MW2_A:893 ASU 5becf08c
+"{V2303}{Fm4}I think{W20} there are two kinds."
+
+@ASU_MW2_A:894 PLY 969ba6d1
+"Two kinds?"
+
+@ASU_MW2_A:895 ASU 1939583e
+"{V2304}{Fm3}Yeah.{W20} A special drink{W10} and plain water."
+
+@ASU_MW2_A:896 ASU 4b3e447c
+"{V2305}You often see them splash it on their faces,{W20} {F3}or pour it over their heads, right?{W30} {Fe3m4}That's just water..."
+
+@ASU_MW2_A:897 ASU 2f05ed8b
+"{V2306}{F3}For drinking,{W30} I think they keep something separate{W20} with ingredients the body absorbs easily."
+
+@ASU_MW2_A:898 PLY 1947c24d
+"I see... So it'd be a disaster if they poured the special drink by mistake."
+
+@ASU_MW2_A:899 ASU affb9c98
+"{V2307}Ahaha,{W25} {Ec}they'd get all sticky!"
+
+@ASU_MW2_A:901 PLY 86da012a
+"There are all kinds of drinks, but..."
+
+@ASU_MW2_A:902 ASU bae2b346
+"{V2308}......"
+
+@ASU_MW2_A:903 ASU 15852f48
+"{V2309}{F3}I like{W45} water{W3} best."
+
+@ASU_MW2_A:905 PLY 99e46544
+"Is there any dish you'd like to try making?"
+
+@ASU_MW2_A:906 ASU b549dd5e
+"{V2310}What I want to make is...{W45} {F2}pizza!"
+
+@ASU_MW2_A:907 ASU fef6975c
+"{V2311}{Fm4}You know,{W13} on TV{W3} they spin the dough around{W5} {Fm3}when they stretch it, right?{W20} {Ec}I want to try that."
+
+@ASU_MW2_A:909 ASU 82b92f40
+"{V2312}{Nm}, can I{W3} ask you something?"
+
+@ASU_MW2_A:910 PLY 9b856156
+"Sure?"
+
+@ASU_MW2_A:911 ASU 17b645b0
+"{V2313}...What do you think{W50} of girls who are bad at cooking?"
+
+@ASU_MW2_A:912 PLY c54b7c0c
+"Huh? Well..."
+
+@ASU_MW2_A:913.1 - 644765f6
+{Ti0}- I don't mind at all／- That'd be a bit of a problem
+
+@ASU_MW2_A:914 PLY 7098caad
+"I don't mind at all."
+
+@ASU_MW2_A:915 ASU 42e60673
+"{V2314}Really?{W40} You're not forcing yourself?"
+
+@ASU_MW2_A:916 PLY ba462ef2
+"I'm not. I know you're bad at cooking, Sakino."
+
+@ASU_MW2_A:917 ASU 74d8bfa0
+"{F3}{Nm}, {V2315}{B60}{Ec}{Fe2}thank you..."
+
+@ASU_MW2_A:918 PLY 68ad630e
+"That'd be a bit of a problem..."
+
+@ASU_MW2_A:919 ASU 03a1c12f
+"{V2316}Right...{Ec}{W50} it would be..."
+
+@ASU_MW2_A:920 PLY 885ff5a0
+"Ah, but that's not everything..."
+
+@ASU_MW2_A:921 ASU 3d08c995
+"{V2317}{Eo}No, it's fine.{W30} {Fm4}I wish{W20} {Fm3}I could cook a little better, too."
+
+@ASU_MW2_A:923 PLY 2d7f527a
+"What's your favorite of your mom's home cooking?"
+
+@ASU_MW2_A:924 ASU 7120b938
+"{V2318}{Ec}{F2}Spaghetti with meat sauce!"
+
+@ASU_MW2_A:925 ASU 1d02fbf1
+"{V2319}{Eo}The {Fm4}meat sauce my mom makes{W5} {Ec}{F2}is out of this world."
+
+@ASU_MW2_A:927 PLY dce7ca10
+"Food made with love tastes good no matter what, you know..."
+
+@ASU_MW2_A:928 ASU f45f8bd3
+"{V2320}{Ec}{Fe7}......"
+
+@ASU_MW2_A:929 ASU 99abf3e1
+"{V2321}{Eo}{F3}Yeah.{W20} You're right,{W20} it's the thought that counts."
+
+@ASU_MW2_A:930 PLY a174115f
+"Did you know the Cafeteria's udon has a secret menu?"
+
+@ASU_MW2_A:931 ASU 9bbdd996
+"{V2322}{F4}What?!{W8} {Fm3}Really?{W10} {P1}{F3}What is it?"
+
+@ASU_MW2_A:932 PLY f08be381
+"If you ask them to put curry on your udon, they make a curry udon that isn't on the menu."
+
+@ASU_MW2_A:933 ASU 8d4a3ad2
+"{V2323}{F4}Wow, really?{W20} {F3}Good to know!{W30} {Ec}{F2}I'll try it next time!"
+
+@ASU_MW2_A:935 PLY 3f123360
+"Udon is kind of comforting, you know..."
+
+@ASU_MW2_A:936 ASU 771e7e8f
+"{V2324}......"
+
+@ASU_MW2_A:937 ASU 68ad2692
+"{V2325}{Ec}I see,{W20} {Eo}{Fm4}maybe so.{W30} {Fe2}It's easy on the stomach."
+
+@ASU_MW2_A:939 ASU 8beb3ffb
+"{V2326}Hey, do you eat instant ramen a lot?"
+
+@ASU_MW2_A:940 PLY bceb6490
+"Yeah. Quite a bit."
+
+@ASU_MW2_A:941 ASU 6e88b7e4
+"{V2327}What's good about it?"
+
+@ASU_MW2_A:942 PLY 2b3da4d6
+"Hmm, how easy it is, mostly. And you can pick whatever flavor you like."
+
+@ASU_MW2_A:943 ASU c795c701
+"{V2328}Hmm,{W20} {Fm3}I see.{W43} {F3}Then next time,{W3} tell me what you recommend."
+
+@ASU_MW2_A:944 PLY 119f9612
+"Sure. Let's go buy some together."
+
+@ASU_MW2_A:946 PLY 127be905
+"Have you ever bought those snacks with soccer player cards?"
+
+@ASU_MW2_A:947 ASU f0fedfa7
+"{V2329}Yeah, I have."
+
+@ASU_MW2_A:948 ASU 268231a0
+"{V2330}I wanted my favorite player's card,{W10} {Ec}so I bought about a bag a week, but..."
+
+@ASU_MW2_A:949 ASU 482a6830
+"{V2331}{Eo}I got sick of eating them after about five bags,{Ec} {F3}so I gave up."
+
+@ASU_MW2_A:950 ASU d08aca50
+"{V2332}{Eo}{Fe3m4}People who can keep eating them until the card comes out{Ec} are amazing~"
+
+@ASU_MW2_A:951 PLY 42cf2caa
+(People who actually eat the snacks are pretty rare, though...)
+
+@ASU_MW2_A:953 PLY 7cff2d68
+"What kind of food do they sell at soccer stadiums?"
+
+@ASU_MW2_A:954 ASU a11a95aa
+"{V2333}Fried noodles,{W10} {Fe7}yakitori,{W13} {F3}hot dogs..."
+
+@ASU_MW2_A:955 PLY c6d94142
+"Is it good?"
+
+@ASU_MW2_A:956 ASU 19e44ea7
+"{V2334}Yeah!{W20} The atmosphere makes it great."
+
+@ASU_MW2_A:957 ASU 5f2c440b
+"{V2335}So{W3} at halftime,{W3} {Ec}I just{W3} end up buying some~"
+
+@ASU_MW2_A:959 PLY fec91532
+"Snacks and stuff..."
+
+@ASU_MW2_A:960 ASU d7c3580a
+"{V2336}......"
+
+@ASU_MW2_A:961 ASU d15f5761
+"{V2337}Yeah,{W20} they're {Ec}{F2}good once in a while~"
+
+@ASU_MW2_A:963 PLY 6282d08f
+"Oh, Sakino, come over here for a sec."
+
+@ASU_MW2_A:964 ASU e22b5b62
+"{V2338}Huh?"
+
+@ASU_MW2_A:965 PLY 526a01d5
+"Don't move."
+
+@ASU_MW2_A:966 ASU b15c0616
+"{V2339}{F9}What's wrong?"
+
+@ASU_MW2_A:972 PLY 0d80b9d5
+"......"
+
+@ASU_MW2_A:974 PLY 982dcafc
+"There!"
+
+@ASU_MW2_A:975 ASU 57713b1c
+"{V2340}{Ec}{Fm6}Ah, {Eo}ow!{Mh}"
+
+@ASU_MW2_A:976 PLY c7ca0f22
+"Split ends..."
+
+@ASU_MW2_A:977 ASU 82e83746
+"{V2341}Ugh...{W65} are they that bad?{W65} {S}{Ec}I just let it air dry, so..."
+
+@ASU_MW2_A:978 ASU 7a85717a
+"{V2342}{Sd}{Eo}I should use treatment, {W5}{Fm4}or brush it before bed,{Fm6} but {W10}{Ec}{F6}I can't beat the sleepiness..."
+
+@ASU_MW2_A:979 ASU 6a3faaa0
+"{V2343}{Eo}{Fe9m3}I need to {W25}take a little more care of my appearance."
+
+@ASU_MW2_A:981 ASU f6108ea6
+"{V2344}{Nm}, moderate exercise{W10} is good for your health, you know."
+
+@ASU_MW2_A:982 PLY b21ccbd7
+"So I hear."
+
+@ASU_MW2_A:983 ASU 9bf499fc
+"{V2345}{Fm4}From what I can see,{W25} you don't exercise{Fm3} at all outside of gym class,{W37} {Fe2m3}so let's start jogging together."
+
+@ASU_MW2_A:984 PLY 29520ab2
+"Yeah. That might be good."
+
+@ASU_MW2_A:985 ASU ef6efa9d
+"{V2346}{Ec}You promise?"
+
+@ASU_MW2_A:987 PLY 43c3849d
+"I hear rubbing your skin with a dry cloth is good for you."
+
+@ASU_MW2_A:988 ASU 63547e0b
+"{V2347}{F4}Oh,{W35} {F3}I did that{W10} when I was a kid."
+
+@ASU_MW2_A:989 ASU 0150d267
+"{V2348}If you rub your skin{W10} with a dry cloth,{W20} {F3}you {W3}catch fewer colds."
+
+@ASU_MW2_A:990 PLY 9d7173e2
+"Maybe that's why you're so healthy, Sakino."
+
+@ASU_MW2_A:991 ASU 949ed020
+"{V2349}Yeah,{W5} {Ec}{F2}maybe."
+
+@ASU_MW2_A:993 PLY 552c59b8
+"Nothing beats good health, you know..."
+
+@ASU_MW2_A:994 ASU fdbb399a
+"{V2350}......"
+
+@ASU_MW2_A:995 ASU 2c62050b
+"{V2351}{Ec}Right, right.{W20} {F2}{P5}Health{W5} comes first!"
+
+@ASU_MW2_A:997 ASU 51204d44
+"{V2352}Hey, {Nm}.{W33} Do boys{W35} prefer{W5} slender girls?"
+
+@ASU_MW2_A:998 ASU c5bcd61c
+"{V2353}I mean,{W10} a lot of the girls on TV{W5} are slender..."
+
+@ASU_MW2_A:999 PLY 7e3376da
+"Hmm... well..."
+
+@ASU_MW2_A:1000.1 - d74ddd89
+{Ti0}- Slender is better／- Healthy is better
+
+@ASU_MW2_A:1001 PLY 3be14286
+"Slender is better, I guess..."
+
+@ASU_MW2_A:1002 ASU bc509acd
+"{V2354}Really?"
+
+@ASU_MW2_A:1003 ASU 87944c33
+"{V2355}Then{W40} I'm{W5} hopeless."
+
+@ASU_MW2_A:1004 PLY fa4a3326
+"N-no... that's not what I meant..."
+
+@ASU_MW2_A:1005 PLY db4b0de3
+"Healthy is better."
+
+@ASU_MW2_A:1006 ASU ef16e85d
+"{V2356}{F4}Huh?"
+
+@ASU_MW2_A:1007 PLY 04397e6e
+"Healthy, like you, is better."
+
+@ASU_MW2_A:1008 ASU e82f1598
+"{V2357}{B50}{Fe9}R-{W40}really?{W40} {B100}{F3}...Thanks."
+
+@ASU_MW2_A:1010 PLY dd8c3ae1
+"Some athletes put on a ton of weight after they retire."
+
+@ASU_MW2_A:1011 ASU 4a997fe0
+"{V2358}Ah,{W10} yeah.{W25} In soccer,{W15} a South American hero{W15} got so fat after retiring,{W25}{Fm4} he had to be hospitalized{Fm3}{Ec}."
+
+@ASU_MW2_A:1012 PLY 4291e619
+"Huh? He got that fat?"
+
+@ASU_MW2_A:1013 ASU 5ea28eaa
+"{V2359}{Eo}{Fm4}Yeah.{W40} {S}He was already{W10} a wild guy{Fm3} when he played, though."
+
+@ASU_MW2_A:1014 ASU bc52c4ba
+"{V2360}{Sd}If I quit soccer{W10} I'll have to{W10} watch my weight."
+
+@ASU_MW2_A:1016 PLY 3676e3e2
+"They say dieting is hard, but..."
+
+@ASU_MW2_A:1017 ASU f3bc8404
+"{V2361}{F4}......"
+
+@ASU_MW2_A:1018 ASU 6b5cba29
+"{V2362}{F}If you want to lose weight,{W20} {Ec}{Fe2m3}exercise{W3} is the best,{W3} I think."
+
+@ASU_MW2_A:1020 PLY b2796984
+"Soccer seems like you'd get hurt a lot. Are you okay?"
+
+@ASU_MW2_A:1021 ASU 5d60dc34
+"{V2363}Yeah.{W20} {Fe9}I'm used to getting kicked around."
+
+@ASU_MW2_A:1022 ASU 6eef239d
+"{V2364}Thanks{W3} for worrying about me."
+
+@ASU_MW2_A:1025 ASU 3c59e81a
+"{V2365}{Nm}, you're slouching a little."
+
+@ASU_MW2_A:1026 PLY f70bbbcf
+"Huh? R-really?"
+
+@ASU_MW2_A:1027 ASU f2b96ffe
+"{V2366}Yeah.{W30} You{W5} look kind of down."
+
+@ASU_MW2_A:1028 PLY 9876f5e2
+"N-not at all. ...Is this better?"
+
+@ASU_MW2_A:1029 ASU 49faab05
+"{V2367}Yeah,{W5} perfect!"
+
+@ASU_MW2_A:1031 PLY 485074ac
+"You have a great figure, Sakino."
+
+@ASU_MW2_A:1032 ASU e54fb777
+"{V2368}What?!{W30} {Ec}{Fe9m3}N-{W20}not really."
+
+@ASU_MW2_A:1033 PLY e77641c2
+"No, I really think so. It must be from playing sports."
+
+@ASU_MW2_A:1034 ASU 699362b3
+"{V2369}{Eo}Ah,{W45} {B100}{Fe3m4}thanks."
+
+@ASU_MW2_A:1037 PLY b9c93b97
+(Sakino... you can really tell in gym clothes, but she has such slender legs...)
+
+@ASU_MW2_A:1038 ASU 2c8c81bc
+"{F4}{Nm}, {V2370}what's wrong?{W10} {F3}Thinking{W3} about something?"
+
+@ASU_MW2_A:1039 PLY 789518bf
+"Ah... yeah. I was just thinking you have long legs, Sakino..."
+
+@ASU_MW2_A:1040 ASU ee540af8
+"{V2371}{F4}{B100}Huh..."
+
+@ASU_MW2_A:1041 PLY 6b5bf4aa
+"Ah... s-sorry. Saying something weird all of a sudden..."
+
+@ASU_MW2_A:1042 ASU f9625706
+"{V2372}{Fe9}N-{W15}no..."
+
+@ASU_MW2_A:1043 ASU 97ac1e45
+"{V2373}{B60}I think I'm lucky, too."
+
+@ASU_MW2_A:1044 PLY 844e41ef
+"Lucky?"
+
+@ASU_MW2_A:1045 ASU afc4ad14
+"{V2374}{Eo}{Fe3m4}You know,{W25} a lot of soccer players{W10} have short legs,{W40} {Fm3}so I was worried mine would end up that way..."
+
+@ASU_MW2_A:1046 PLY 38b1af43
+"Hahaha, that's good, then."
+
+@ASU_MW2_A:1047 ASU ddec3b26
+"{V2375}{Ec}{Fe2}Yeah."
+
+@ASU_MW2_A:1050 PLY 80401143
+(Sakino in her school swimsuit... Sakino's waist is so slim...)
+
+@ASU_MW2_A:1051 ASU 0d08cc39
+"{F4}{Nm},{V2376} what's wrong?{W10} {F3}Something on your{W5} mind?"
+
+@ASU_MW2_A:1052 PLY bedec8fc
+"Ah... yeah. I was just thinking your waist is really slim..."
+
+@ASU_MW2_A:1053 ASU 2a7037ca
+"{V2377}{B100}{F4}Eh..."
+
+@ASU_MW2_A:1054 ASU 10a79aed
+"{V2378}{B60}{Fe9}N-{W30}{Fm3}no..."
+
+@ASU_MW2_A:1055 ASU 12c63f9a
+"{V2379}{Ec}{Fe2}That's from{W5} training with the club.{W40} {Eo}I can do{W20} three sets{W20} of 100 sit-ups."
+
+@ASU_MW2_A:1056 PLY 97c9c59a
+"That many? No wonder you're so toned."
+
+@ASU_MW2_A:1057 ASU 1c2b7445
+"{V2380}{B100}{Ec}{F2}Yeah."
+
+@ASU_MW2_A:1059 PLY 49b4d3ce
+"Sakino, your figure is..."
+
+@ASU_MW2_A:1060 ASU fd2c0355
+"{V2381}{B40}{F4}Eh..."
+
+@ASU_MW2_A:1061 ASU 64aa9e67
+"{V2382}{B100}{F3}Th-{W15}thanks, {Ec}{Fe2}{Nm}."
+
+@ASU_MW2_A:1063 ASU 53968464
+"{V2383}{Nm},{W30} {Fm4}what kind of girl{W5} do you like?"
+
+@ASU_MW2_A:1064 PLY 2a701746
+"Huh? W-why are you asking that..."
+
+@ASU_MW2_A:1065 ASU 9fdbe935
+"{V2384}{S}Ahaha,{W30} I just wanted to ask.{W30}{Sd} {Eo}{Fe9m3}Sorry, don't worry about it."

@@ -1,0 +1,386 @@
+# NAR_DAT_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_DAT_A:78 NAR 4e923413
+"{V0907}{W8}S-{W48}Senpai...{W57} it's{W3} so{W3} dark{W3} in{W1} here,{W30} we{W2} can't{W2} see{W3} the{W1} exhibits,{W1} can{W1} we?{W4}{W5}{W5}"
+
+@NAR_DAT_A:80 PLY 0b8b7379
+"Yeah, you're right~"
+
+@NAR_DAT_A:82 NAR 4c0ff8c5
+"{V0908}{W8}{Fm4}And{W6} there's{W42} some{W1} really{W1} creepy{W1} music{W1} playing{W1} too...{W1}{W1}{W4}{W3}{W2}"
+
+@NAR_DAT_A:83 PLY 91efed38
+"It's got atmosphere, huh~"
+
+@NAR_DAT_A:86 NAR b2cadbde
+"{V0909}{W10}That's way{W1} too{W2} much atmosphere~~!"
+
+@NAR_DAT_A:87 SYS ba5648d3
+{Ti0}{Ti2}{Ts1}{As1}{b0}Eeeeeeeek!{As0}{b0}
+
+@NAR_DAT_A:91 NAR b22554d0
+"{V0910}{W10}S-{W6}S-{W6}S-{W5}Senpai!{W19} Did{W3} you{W3} hear{W2} that?!{W19} A{W6} scream{W4} from{W1} deep{W5} inside~{W5}!{W3}{W5}{W5}{W5}{W3}{W2}{W2}{W1}{W1}{W9}"
+
+@NAR_DAT_A:92 PLY e3f8be68
+"Yeah, I did."
+
+@NAR_DAT_A:93 NAR d4d37e68
+"{V0911}{Sd}{W12}Senpai!{Ti0} {Ti2}{W30}{Fm4}How{W7} can{W7} you{W4} be{W3} so{W1} calm?{Ti0} {Ti2}{Fm4}{W12} It's{W1} a{W1} scream!{W33}{Fe9m6} Maybe{W3} something{W3} happened...{W1}{W1}{W1}{W1}{W2}{W2}{W2}{W6}"
+
+@NAR_DAT_A:94 PLY f6b74598
+"Narumi, you still haven't noticed?"
+
+@NAR_DAT_A:95 NAR 69860c4f
+"{V0912}{W5}{S}{F4}Huh?"
+
+@NAR_DAT_A:96 PLY 323e390b
+"This is a horror house."
+
+@NAR_DAT_A:97 NAR 6358906c
+"{V0913}{Sd}{W10}{F5}Whaaaaaaaat?!"
+
+@NAR_DAT_A:100 NAR 419da69f
+"{V0914}{W12}I'm{W1} going{W1} home~!{W5} {W15}I'm{W8} going{W3} back~!{W15} I'm{W6} getting{W3} out~{W6}!{W1}{W1}"
+
+@NAR_DAT_A:101 PLY 22dbe5b3
+"Even if you say that, we can't go back now."
+
+@NAR_DAT_A:102 NAR ec355836
+"{V0915}{Eo}{F6}{W8}No~{W8}way~{W8}!"
+
+@NAR_DAT_A:103 PLY 2de3f668
+"I'm with you, so it's fine. Come on, let's go."
+
+@NAR_DAT_A:104 NAR 34ea74c7
+"{V0916}{W15}O-{W30}okay...{W36} {F9}Senpai,{W10} {W18}please{W3} hold{W3} my{W8} hand~{W1}{W1}"
+
+@NAR_DAT_A:105 PLY 545bd259
+"Sure."
+
+@NAR_DAT_A:111 NAR 27908b08
+"{V0917}{W5}Uuu~,{W60} where's{W5} the{W5} exit~~{W4}{W4}"
+
+@NAR_DAT_A:112 SYS 2bc1dcc4
+Was it you who came to steal my treasure~~?
+
+@NAR_DAT_A:113 NAR c5391242
+"{V0918}{W5}Ah,{W1} ah...{W39} a{W1} scary{W1} voice{W18} from{W5} nowhere~{W1}{W1}{W1}{W7}"
+
+@NAR_DAT_A:122 SYS b16c2a4a
+{As1}{b61}Was it you who came to steal my treasure~~?{As0}{b0}
+
+@NAR_DAT_A:124 NAR 2c4a578f
+"{V0919}{W8}No!{W3} No!{W15} That's{W3} not{W1} why{W1} we're{W1} here!"
+
+@NAR_DAT_A:141 KEI f0f4078e
+{Ti0}{Ts1}{Ti2}{Ts3}{As1}{b1}Wo{B}{W10}oo{B0}{W10}{B}{As1}{b128}oo{W20}oo{Br0t120}{W30}~{As1}{b1}{W10}~{W10}n{As0}{b0}!
+
+@NAR_DAT_A:148 NAR b250ef91
+"{V0920}{W8}Eeeeeeeeeek!!"
+
+@NAR_DAT_A:154 NAR 6637f0d7
+"{V0921}{W12}Noooooooo!!{W3}{W3}"
+
+@NAR_DAT_A:155 PLY 28c986dd
+"Ah! Narumi!"
+
+@NAR_DAT_A:159 NAR 6e050cf5
+"{V0922}{W8}Noooooo,{W33} the{W3} pharaoh's{W3} going{W2} to{W2} catch{W2} me~!{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@NAR_DAT_A:161 NAR 35352d73
+"{V0923}{W8}Don't{W3} chase{W3} me~~!{W2}{W1}{W4}{W5}"
+
+@NAR_DAT_A:162 PLY c3d0422b
+"Narumi, it's me, me! Wait! Wait!"
+
+@NAR_DAT_A:163 NAR 28024172
+"{V0924}{W3}Ah...{W60} Senpai?{Ti0} {Ti2}{W24} Not{W1} the{W1} pharaoh?{W1}{W4}{W4}"
+
+@NAR_DAT_A:164 PLY 6ef8f6b6
+"Right, it's me."
+
+@NAR_DAT_A:165 NAR 7988cabf
+"{V0925}{W8}Aaah~,{W27} Senpai,{W12} don't{W1} let{W1} go{W1} of{W1} my{W1} hand~{W1}{W5}{W5}{W5}{W5}{W4}{W3}{W3}"
+
+@NAR_DAT_A:166 PLY 3de5aa99
+"W-well, that's..."
+
+@NAR_DAT_A:167 NAR 7ee72994
+"{V0926}{W15}Sniff...{W21} sniff,{W30} the pharaoh{W1} chased{W1} me,{W1} you{W1} know~"
+
+@NAR_DAT_A:168 PLY 35baa342
+"No, I'm telling you, that was me."
+
+@NAR_DAT_A:170 NAR f46ebc2c
+"{V0927}{W8}Senpai,{W10} you{W8} big{W12} meanie~~{W4}"
+
+@NAR_DAT_A:173 PLY 13f65e3c
+(Ten minutes to ten. That's just about right.)
+
+@NAR_DAT_A:176 NAR be05fe57
+"{V0882}{W8}Ah,{W45} S-{W30}Senpai!{Ti0} {Ti2}{W30}{F3}Good{W3} morning.{W60} You're{W3} really{W3} early{W8} today.{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W2}{W15}"
+
+@NAR_DAT_A:177 PLY fec6c656
+"R-really?"
+
+@NAR_DAT_A:178 NAR c79ca4da
+"{V0883}{W8}Well,{W15} when we{W2} go{W3} home{W3} together{W3} from{W3} school,{W27} I'm{W3} usually{W3} the{W2} one{W6} who gets{W2} there first..."
+
+@NAR_DAT_A:179 PLY 6c6b1e77
+"R-right..."
+
+@NAR_DAT_A:180 NAR 591189c4
+"{V0884}{W8}Ehehe,{W36} today{W9} we'll{W2} be{W1} together{W2} the{W2} whole{W3} time.{W4}"
+
+@NAR_DAT_A:181 PLY 851b6dc4
+"Yeah."
+
+@NAR_DAT_A:182 PLY 3cc0b607
+(Narumi in her own clothes...)
+
+@NAR_DAT_A:183.1 - fd20f40a
+{Ti0}- That outfit looks great on you／- That outfit looks nice and cool
+
+@NAR_DAT_A:184 PLY 515f03d6
+"That outfit looks great on you."
+
+@NAR_DAT_A:185 NAR 792b1d12
+"{V0885}{W8}R-{W30}really?"
+
+@NAR_DAT_A:186 PLY c5bf70be
+"The ribbon on the chest is really cute."
+
+@NAR_DAT_A:187 NAR 67c2aa05
+"{V0886}{W8}Eh{W1}e{W1}he,{W33} {Ec}it's{W1} my{W1} favorite.{W1}"
+
+@NAR_DAT_A:188 PLY 7596031c
+"That outfit looks nice and cool."
+
+@NAR_DAT_A:190 NAR eaf10870
+"{V0887}{W5}Ehehe,{W30} it's perfect{W4} for{W1} summer,{W1} right?"
+
+@NAR_DAT_A:191 NAR a77abc96
+"{V0888}{W8}Your{W4} clothes{W4} look{W4} cool{W3} too,{W1} Senpai.{W1}{W1}"
+
+@NAR_DAT_A:192 PLY a14d0399
+"You think? Thanks."
+
+@NAR_DAT_A:193 PLY b1c1dcd4
+"Well then, shall we go?"
+
+@NAR_DAT_A:194 NAR b203b554
+"{V0889}{W8}Yes!"
+
+@NAR_DAT_A:197 NAR bf093cea
+"{V0890}{W8}Senpai!{Ti0} {Ti2}{W30}Hurry,{W4} hurry~{W3}!{W6}{W5}{W3}{W3}{W12}{W2}"
+
+@NAR_DAT_A:198 PLY f97d2a2b
+"Hahaha, the amusement park isn't going anywhere, Narumi."
+
+@NAR_DAT_A:199 NAR 6bc5cd46
+"{V0891}{W8}Even{W2} if{W2} it{W1} doesn't{W3} run{W5} away,{W30} I{W2} want{W1} to get there fast~~!!"
+
+@NAR_DAT_A:200 PLY 4f5575f8
+"You're so energetic~"
+
+@NAR_DAT_A:202 NAR 409da1ce
+"{V0892}{W5}Senpai,{W27} here{W3} we{W3} go!{W30} {Eo}What{W3} should we ride first?"
+
+@NAR_DAT_A:204 NAR e0a236ac
+"{V0893}{W6}The{W3} roller{W1} coaster{Ti0}?{Ti2}{W30} The{W3} merry-go-round{Ti0}?{Ti2}{W30} {F4}Oh,{W21} there's{W1} go-karts{W3} too!{W4}{F2}{W3}{W3}{W2}{W5}{W4}"
+
+@NAR_DAT_A:205 PLY 10589bd7
+"Easy, easy. We have plenty of time, so let's go around in order."
+
+@NAR_DAT_A:206 NAR f0a9e86f
+"{V0894}{W8}Okay!{Ec}"
+
+@NAR_DAT_A:207 SYS 6bd8e807
+...And so the two of us conquered every ride in the park.
+
+@NAR_DAT_A:209 NAR f22d8e41
+"{V0895}{W8}That{W4} was{W4} fun~~,{W5} {Ec}Senpai!{W3}{W2}{W1}{W3}{W5}"
+
+@NAR_DAT_A:210 PLY dd37301e
+"Yeah... it was..."
+
+@NAR_DAT_A:211 NAR 5d657074
+"{V0896}{W8}Senpai,{W42} what's{W4} wrong?{W5}{W1}"
+
+@NAR_DAT_A:212 PLY 0bda5b44
+"...Riding so many all at once really wore me out."
+
+@NAR_DAT_A:213 NAR f1dcccce
+"{V0897}{W12}Ehehe,{W24} I{W1} guess{W1} so.{W30} {Sd}Shall{W1} we{W2} take{W8} a{W3} little{W3} break?"
+
+@NAR_DAT_A:214 PLY e8e434c8
+"I'd be... grateful..."
+
+@NAR_DAT_A:215 NAR d3fccc33
+"{V0898}{W8}Ah,{W8} Sen{W45}pai!{W8} {W27}Th{W1}er{W1}e's{W1} an{W30} at{W5}trac{W5}tion{W5} cal{W5}led{W5} Mystery{W12} of{W1} Egypt,{F2} over{W1} there{W1}!{W1}{W1}{W1}"
+
+@NAR_DAT_A:216 PLY 3e052fec
+"Huh? Where?"
+
+@NAR_DAT_A:219 NAR 94bdc722
+"{V0899}{W8}Look,{W11} over{W1} here."
+
+@NAR_DAT_A:220 NAR c12516c7
+"{V0900}{W15}Maybe{W5} it's{W5} an{W5} exhibit{W4} of{W4} burial{W4} goods?{W30} {F3}Want{W4} to{W2} take{W1} a{W1} look while we rest?"
+
+@NAR_DAT_A:221 PLY a939e797
+(Huh? Isn't this... that kind of place?)
+
+@NAR_DAT_A:222.1 - 740a3085
+{Ti0}- Sounds good, let's go!／- Burial goods exhibit...?／- You've got guts, Narumi
+
+@NAR_DAT_A:223 PLY 760b3fde
+"Sounds good, let's go!"
+
+@NAR_DAT_A:224 NAR a20f4f88
+"{V0901}{W5}Yes!"
+
+@NAR_DAT_A:225 NAR bbcb5d4f
+"{V0902}{W10}Is{W7} it{W7} a{W7} special{W5} museum{W7} exhibit{W7}{W7}{W3}?{W45} {F2}I{W5} never{W5} thought{W1} I'd{W1} study{W4} at{W4} an{W5} {Ec}amusement{W3} park{W1}{W1}{W1}{W1}!"
+
+@NAR_DAT_A:226 PLY 0d0f916a
+"I think it'll be educational~"
+
+@NAR_DAT_A:227 PLY a03cfd07
+"Burial goods exhibit...?"
+
+@NAR_DAT_A:228 NAR 79280b22
+"{V0903}{W5}Isn't{W5} it?{W3}{W6}{W1}{W1}{W3}{W2}"
+
+@NAR_DAT_A:229 PLY 121400c3
+"Well... how should I put it..."
+
+@NAR_DAT_A:230 PLY dbe5bf12
+"You'll see once we go. Come on, let's go!"
+
+@NAR_DAT_A:231 NAR d508bc11
+"{V0904}{W8}Okay."
+
+@NAR_DAT_A:232 PLY 3cb8dd9f
+"You've got guts, Narumi~"
+
+@NAR_DAT_A:233 NAR 642bdf4f
+"{V0905}{W8}Guts?{W45} ...Why{W1} would{W1} guts{W1} matter?{W5}{W3}{W3}{W3}{W3}{W3}"
+
+@NAR_DAT_A:234 NAR b66d9624
+"{V0906}{W8}Okay."
+
+@NAR_DAT_A:237 PLY be77d5ce
+"Phew, that was fun, Narumi."
+
+@NAR_DAT_A:238 NAR a9776a58
+"{V0928}{W8}Sniff...{W36} {Ec}It wasn't{W4} fun{W1} at{W1} all...{Eo}"
+
+@NAR_DAT_A:239 PLY b924224f
+"Was it that scary?"
+
+@NAR_DAT_A:240 NAR 6a871556
+"{V0929}{W5}Yes..."
+
+@NAR_DAT_A:241 NAR b8dccf10
+"{V0930}{W5}Sniff..."
+
+@NAR_DAT_A:242 NAR c1515905
+"{V0931}{W15}...Senpai,{W39} am{W5} I{W5} childish?{W8}{W9}{W1}{W1}{W1}{W1}{W2}"
+
+@NAR_DAT_A:243 PLY 752bc6cc
+"Huh? Why?"
+
+@NAR_DAT_A:244 NAR e54f5de4
+"{V0932}{W5}Because{W30} I{W8} knew{W30} {Ec}it{W3} was{W3} all fake{W8} {Eo}and I still got so{W3} scared..."
+
+@NAR_DAT_A:245 NAR d5797dd0
+"{V0933}{W9}Grown-ups{W4} wouldn't{W30} be{W1} scared{W4} by{W1} a{W1} childish{W1} trick{W3} like{W6} that,{W2} right?{W2}"
+
+@NAR_DAT_A:246 PLY 1790099d
+"Well... I guess not."
+
+@NAR_DAT_A:247 NAR 3ae4a049
+"{V0934}{W6}That's it, I've decided!"
+
+@NAR_DAT_A:248 NAR e2582fe1
+"{V0935}{W5}I,{W45} I'm{W8} going{W4} to{W4} become{W4} a{W3} grown-up{W1} woman!"
+
+@NAR_DAT_A:249 PLY fa4aecbd
+"What?!"
+
+@NAR_DAT_A:250 NAR 6beca7ef
+"{V0936}{W12}I'll{W2} be{W1} more{W1} ladylike,{W1}{W1}{W21} {Ec}smart{W4} and{W19} elegant,{W4}{W24} {Fe8m2}a woman{W8} who{W3} wraps{W1} men{W3} {Eo}around{W2} her{W1} finger.{W12} That's{W3} my{W4} goal!"
+
+@NAR_DAT_A:251 PLY 5c4d0d04
+(I don't think twirling men around her finger is the right goal, though...)
+
+@NAR_DAT_A:252 NAR 8457fee0
+"{V0937}{W12}And{W2} then...{W42} {Ec}if{W2} I{W2} could{W4} become{W2} a{W2} Narumi{W33} {Eo}who{W2} doesn't{W2} trouble{W2} Senpai{W2} if{W2} I{W2} can{W2} help{W2} it...{W1}{W1}{W1}{W1}{W4}{W4}{W4}{W3}{W3}{W3}{W3}{W9}{W9}"
+
+@NAR_DAT_A:253 PLY f28e46f6
+"Narumi, you shouldn't push yourself..."
+
+@NAR_DAT_A:254 NAR 2d5558a3
+"{V0938}{W8}No,{W33} just{W2} watch{W2} me!{W27} {Ec}I'll{W3} definitely{W3} do{W5} it!{W5}"
+
+@NAR_DAT_A:255 PLY f92c0956
+"That was fun, Narumi."
+
+@NAR_DAT_A:256 NAR bd634268
+"{V0939}{W5}Yes."
+
+@NAR_DAT_A:257 NAR 873411bb
+"{V0940}It was fun, but{W35} to think it's{W5} already over...{W62} Senpai,{W40} I don't want to go home yet."
+
+@NAR_DAT_A:258 PLY b6ff163e
+"Then shall we stop by the riverbank?"
+
+@NAR_DAT_A:259 NAR 761c6e35
+"{V0941}Yes!"
+
+@NAR_DAT_A:260 NAR 035058bd
+"{Nm}{V0942} thank you so much for today,{W50} {Ec}{W30}{Eo}I had a really great time."
+
+@NAR_DAT_A:261 PLY eaf6138a
+"Me too, I had a great time."
+
+@NAR_DAT_A:262 PLY 51a4e201
+"Mystery of Egypt was the best part, especially."
+
+@NAR_DAT_A:263 NAR 845565ef
+"{V0943}{W5}Oh, stop it,{W30} please forget about that."
+
+@NAR_DAT_A:264 NAR 0d80b9d5
+"......"
+
+@NAR_DAT_A:265 PLY 80e5a849
+"What's wrong, Narumi?"
+
+@NAR_DAT_A:266 NAR 2fb26082
+"...{V0944}No matter how fun{W8} a{W5} day{W12} is,{W30} it ends like this,{W30} {Ec}and that's no fun."
+
+@NAR_DAT_A:267 NAR 42a60911
+"{V0945}I wish I{W5} could be with you{W10} every day,{W60} always..."
+
+@NAR_DAT_A:268 PLY 65928068
+"Narumi..."
+
+@NAR_DAT_A:269 PLY 97256bfb
+"It was such a fun day, so looking this lonely is a waste."
+
+@NAR_DAT_A:270 PLY fca98ffd
+"We can just go somewhere together again."
+
+@NAR_DAT_A:271 NAR 1011cacb
+"{V0946}{Nm}..."
+
+@NAR_DAT_A:272 NAR a205e1a6
+"{V0947}{W5}Yes!{W10} {Ec}You're right!"
+
+@NAR_DAT_A:275 SYS 5e5dae39
+...And so I spent a fun day with Narumi.
+
+@NAR_DAT_A:276 SYS d7c2f0d6
+There's only one, you know ^^;

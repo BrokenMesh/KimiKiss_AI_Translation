@@ -1,0 +1,2 @@
+# Vector -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md

@@ -1,0 +1,248 @@
+# MEG_TFO -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MEG_TFO:41 MEG 4b62e795
+"{V0376}{W15}Good morning, {Nm}!"
+
+@MEG_TFO:43 PLY 6b8275f9
+"Ah! K-Kuryuu!"
+
+@MEG_TFO:45 MEG a112c6e8
+"{V7802}You {W8}made a {W3}promise {W3}to go {W3}home {W3}with me, didn't you?"
+
+@MEG_TFO:46 PLY 7d68aa58
+"Y-yeah..."
+
+@MEG_TFO:49 MEG 18d25817
+"{V0378}{W12}And yet you didn't show up, {W30}what were you thinking?!"
+
+@MEG_TFO:50 PLY 17197028
+"S-sorry... Kuryuu."
+
+@MEG_TFO:51 PLY b8491b67
+"Something urgent came up, and I ended up going to that instead."
+
+@MEG_TFO:52 PLY 87545375
+"I was going to tell you, Kuryuu, but I couldn't find you..."
+
+@MEG_TFO:53 MEG 42787fe1
+"{V0379}{W15}Ah..."
+
+@MEG_TFO:57 MEG 7bdd395f
+"{V0380}{W15}...{W15}I see. {W75}In {W3}short, we just {W3}missed each other?"
+
+@MEG_TFO:58 PLY 9efd61f7
+"...Y-yeah."
+
+@MEG_TFO:59 MEG 0ace1ced
+"{V0381}{W30}I {W3}see... {W75}{Eo}Then it can't {W4}be helped."
+
+@MEG_TFO:61 MEG 632c1166
+"{V0382}{W15}Sorry, {W30}for raising my {W3}voice {W3}so early {W3}in the morning..."
+
+@MEG_TFO:62 PLY a126c5cb
+"No, it's fine, don't worry about it..."
+
+@MEG_TFO:63 PLY 4575e88e
+"Well, I'll head to class first."
+
+@MEG_TFO:64 MEG f8bdaa82
+"{V0383}{W15}Yes, {W45}see you."
+
+@MEG_TFO:65 PLY 9fdf3ded
+"Yeah, see you in class..."
+
+@MEG_TFO:70 PLY 870f0120
+(This is bad. I can't keep doing this...)
+
+@MEG_TFO:71 MEG 35061df0
+"{V0330}{W12}Good morning, {Nm}!"
+
+@MEG_TFO:73 MEG 8e921a7a
+"{V7803}You {W6}made a {W3}promise {W3}to go {W3}home {W3}with me, didn't you?"
+
+@MEG_TFO:75 MEG 6f57eb23
+"{V0332}{W15}And yet... {W45}you go home with {W4}another girl{W3}, {W45}what {W4}were you thinking?"
+
+@MEG_TFO:76 PLY e7a5590c
+"Sorry, Kuryuu..."
+
+@MEG_TFO:77 PLY bbccff12
+"...Well, our promise, Kuryuu... I forgot it..."
+
+@MEG_TFO:78 MEG 11da59be
+"{V0333}{W24}You {W7}forgot? {W3}{W3}{W28}A promise{W5}{W5}? {W45}{Fe8}I {W8}can't believe you! {W63}{Ec}Don't {W3}make promises {W2}if you're just going to {W2}forget them!"
+
+@MEG_TFO:79 PLY 4b7b99be
+"Sorry... I'm really sorry..."
+
+@MEG_TFO:80 PLY 89a323e3
+"Kuryuu, I'll never do that again. So please forgive me just this once..."
+
+@MEG_TFO:81 MEG 6eb90373
+"{V0334}{W18}......"
+
+@MEG_TFO:82 MEG 1b357947
+"{V0335}{W5}...{W2}Do you {W4}swear it?"
+
+@MEG_TFO:83 PLY cab855e9
+"I swear."
+
+@MEG_TFO:84 MEG fc5bf10c
+"{V0336}{W18}......"
+
+@MEG_TFO:85 MEG b79b31b8
+"{V0337}{W3}...{W6}Fine. {W51}I'll {W3}forgive {W3}you just {W3}this once, {W45}{Fe8}so don't ever do it again{Eo}."
+
+@MEG_TFO:86 PLY 1cf1b3bf
+"I know. I won't do it again."
+
+@MEG_TFO:88 MEG d4c41a26
+"{V7804}I'll {W4}go to {W3}class {W3}ahead of you."
+
+@MEG_TFO:89 SYS 8a2ac040
+...And so, Kuryuu forgave me.
+
+@MEG_TFO:90 SYS 7b9b407d
+Promising to go home with two girls at once... I'm such an idiot...
+
+@MEG_TFO:91 MEG 3bf47e20
+"{V0367}{W15}Good morning, {Nm}!"
+
+@MEG_TFO:92 MEG d117b2e7
+"{V0368}{W15}The other day, {W51}I wasn't seeing things after all."
+
+@MEG_TFO:93 MEG 6d900a2e
+"{V0369}{W15}After... {W63}all that improper {W4}boy-girl {W3}fraternizing{W3}{W3}, {W35}{Ec}{W5}{Fe8}{Eo}this {W3}time you ditch me..."
+
+@MEG_TFO:94 MEG 9a374a38
+"{V0370}{W15}What on {W1}earth {W6}were you thinking?!"
+
+@MEG_TFO:95 PLY ff6ed228
+"K-Kuryuu, that's..."
+
+@MEG_TFO:96 MEG 2914f0f9
+"{V0342}{W12}Were you flaunting her in front of me?! {W24}Hoshino{W3}!"
+
+@MEG_TFO:97 MEG 5670e008
+"{V0343}{W15}Meek {W3}and quiet, {W16}gentle {W4}and kind, {W24}so girlish{W6}... {W40}{Ec}{W5}{Fe8}{Eo}To a boy, {W3}she's {W2}the ideal, isn't she!"
+
+@MEG_TFO:98 MEG a16af324
+"{V0345}{W15}Were you flaunting her in front of me?! {W18}The Year 1 {W3}girl, {W3}Satonaka{W4}{W4}!"
+
+@MEG_TFO:99 MEG ea1db73e
+"{V0346}{W12}Innocent, cheerful {W3}and bright, {W3}full {W3}of energy... {W52}{Ec}{W5}{Fe8}{Eo}She's {W6}nothing like {W3}me{W3}!"
+
+@MEG_TFO:100 MEG 3915be37
+"{V0347}{W15}Were you flaunting her in front of me?! {W45}Mizusawa{W3}{W3}{W3}{W3}!"
+
+@MEG_TFO:101 MEG 2d259ea2
+"{V0348}{W15}Beautiful, great figure, so {W2}sexy... {W26}{Ec}{W5}{Fe8}{Eo}She's every {W2}boy's {W4}object of {W3}admiration, isn't she!"
+
+@MEG_TFO:102 MEG ce867e40
+"{V0350}{W15}Were you flaunting her in front of me?! {W24}Sakino{W3}!"
+
+@MEG_TFO:103 MEG 130e7c5a
+"{V0351}{W15}Lively {W2}and {W2}energetic, healthy {W2}and {W2}fit, {W2}supple... {W31}{Ec}{W5}{F8}{Eo}She's {W6}nothing like {W5}me{W3}!"
+
+@MEG_TFO:104 MEG 867cd6ba
+"{V0352}{W15}Were you flaunting her in front of me?! {W30}Futami{W2}!"
+
+@MEG_TFO:105 MEG 39747f63
+"{V0353}{W15}Smart, {W7}{W15}beautiful, with a hint {W2}of shadow... {W43}{Ec}{W5}{Fe8}{Eo}To a boy, {W6}{W8}she's the type {W4}you can't ignore, isn't she!"
+
+@MEG_TFO:106 MEG a7d4585e
+"{V0355}{W15}Were you flaunting her in front of me?! {W27}{Eo}Shijou{W4}!"
+
+@MEG_TFO:107 MEG 901f5ae5
+"{V5000}{W15}Beautiful, graceful, {W2}reserved... {W15}and on top of that, a young lady{W4}{W3}, {W3}{F8}boys {W3}can't {W3}ignore her!"
+
+@MEG_TFO:108 PLY 0c47f4af
+"Kuryuu, I didn't mean it like that..."
+
+@MEG_TFO:109 MEG 9fac414b
+"{V0357}{W12}Then what did you mean?! {W42}{Fm8}{Ec}Don't say such {W2}irresponsible things!"
+
+@MEG_TFO:110 PLY 0d80b9d5
+"......"
+
+@MEG_TFO:111 PLY e2d37273
+"Kuryuu, I'm sorry. I..."
+
+@MEG_TFO:113 MEG 7f889ca2
+"{V0358}{W15}Haah{W27}... {W75}I{W8}, {W5}what an idiot. {W76}{Ec}{W5}{Fe3}{Eo}{Nm}, I {W3}thought you {W4}might like me {W3}a little."
+
+@MEG_TFO:114 MEG 8405318d
+"{V0359}{W12}But, {W45}I guess {W6}it was {W3}all in my head."
+
+@MEG_TFO:115 PLY 1e7f8ab0
+"Kuryuu..."
+
+@MEG_TFO:116 MEG ce58417f
+"{V0360}{W12}Goodbye, {Nm}. {W18}Please {W3}keep {W3}your relationships {W4}wholesome{W4}, {W7}okay?"
+
+@MEG_TFO:117 MEG 841d7f2e
+"{V0361}{W15}Goodbye."
+
+@MEG_TFO:118 PLY f158c16a
+"Ah... Kuryuu...!"
+
+@MEG_TFO:119 PLY 471fac2d
+(I... I've done something I can never take back...)
+
+@MEG_TFO:120 PLY 9b5501a5
+(Kuryuu... I'm sorry...)
+
+@MEG_TFO:121 MEG ee1057bf
+"{V0371}{W15}Good morning, {Nm}!"
+
+@MEG_TFO:122 MEG 78cdd168
+"{V0372}{W15}The other day{W6}, {W30}I {W3}wasn't seeing things after all!"
+
+@MEG_TFO:123 MEG e39eb97e
+"{V0373}{W5}I told you so many times to stop the improper boy-girl fraternizing..."
+
+@MEG_TFO:124 MEG f7591d6e
+"{V0374}{W5}Now you're heading home with another girl, just to rub it in?! {W51}{Ec}How awful can you be!"
+
+@MEG_TFO:125 MEG 2a0651ff
+"{V0375}{W15}So any {W8}girl {W4}will do for you! {W45}I thought {W3}better of you!"
+
+@MEG_TFO:126 MEG a7b52707
+"{V0287}{W15}Goodbye! {W39}Don't ever come {W6}near me again!"
+
+@MEG_TFO:127 PLY 870ecdc9
+"Ah! Kuryuu!"
+
+@MEG_TFO:128 PLY e0164981
+(I'm hopeless. I couldn't pick one girl, and I dragged it out indecisively until it came to this...)
+
+@MEG_TFO:129 PLY 4de7c50b
+(I... I...)
+
+@MEG_TFO:130 MEG 8952995d
+"{V0339}{W15}Good morning, {Nm}!"
+
+@MEG_TFO:131 MEG ea3f1dc7
+"{V0340}{W15}You said you'd never do it again, {W20}{Ec}{W5}{Fe8m1}{Eo}and you broke {W3}your {W3}promise {W3}again!"
+
+@MEG_TFO:132 PLY 8f888954
+"K-Kuryuu, sorry..."
+
+@MEG_TFO:133 MEG 3927d021
+"{V0341}{W15}After {W8}you asked {W3}me, {W45}{Ec}you went home twice with {W3}another {W2}girl{W3}..."
+
+@MEG_TFO:134 MEG d26df10d
+"{V0362}{W15}Good morning, {Nm}!"
+
+@MEG_TFO:135 MEG 6bd34b9a
+"{V0363}{W15}You said you'd never do it again, {W25}{Ec}{W5}{Fe8m1}{Eo}and you broke {W3}your {W3}promise again!"
+
+@MEG_TFO:136 MEG fe9294b6
+"{V0364}{W15}What's more, {W5}she's not the {W8}girl {W4}from the other day! {W42}Do you {W18}{Ec}think any {W8}girl {W4}will do?!"
+
+@MEG_TFO:137 MEG 7ae55674
+"{V0365}{W15}I thought {W3}better of you!"
+
+@MEG_TFO:138 MEG c460c323
+"{V0366}{W15}Goodbye! {W45}Don't ever {W6}speak {W3}to me again!"

@@ -19,7 +19,8 @@ TOKEN = re.compile(r'\{[^{}]*\}|.', re.S)
 
 # Message window geometry (docs/phase-3-text-engine.md)
 LINE_PX = 552            # 586 - 2 * 17
-INDENT_PX = 92           # putIndent: 4 after a speaker name, 4 * (24 - 1)
+INDENT_PX = 115          # putIndent: 5 after a speaker name, 5 * (24 - 1) (D-023; was 4 = 92 px)
+PLATE_GAP_PX = 6         # line 1 starts at INDENT_PX, or this far after a wider plate (TextWindow.output0.asm)
 FULL_PX = 23             # Japanese advance: fontW 24 + pitchX -1
 NAME_PX = 120            # {Nn}/{Nm}: 8 typical English letters (D-016); wider names fall back to the engine overflow wrap
 

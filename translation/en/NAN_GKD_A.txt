@@ -1,0 +1,455 @@
+# NAN_GKD_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_GKD_A:16 NAN f43fa04e
+"{V0379}{W15}Hey{W10} hey,{W10} Big Bro,{W45} being siblings{W40} means we get to walk{W5} all the way home together,{W30} which is nice."
+
+@NAN_GKD_A:18 PLY 00daeddf
+"Hahaha, that's true."
+
+@NAN_GKD_A:20 NAN eadfef84
+"{V0380}{W10}Hey,{W40} how about we stop{W20} somewhere on the way home?"
+
+@NAN_GKD_A:21 PLY 4341d397
+"Somewhere? Where?"
+
+@NAN_GKD_A:22 NAN cfc5c976
+"{V0381}{W10}Hmm{W20}...{W65} Hilltop{W10} Park,{W30} maybe?"
+
+@NAN_GKD_A:23 PLY 80ce483f
+"That's out of the way... Another time."
+
+@NAN_GKD_A:24 NAN 8366a9f6
+"{V0382}{W15}Awww{W15}...{W45} but I want to go~{W15}!"
+
+@NAN_GKD_A:28 NAN 1bebf122
+"{V0384}{W15}I'm home~"
+
+@NAN_GKD_A:29 PLY e5895be1
+"I'm home."
+
+@NAN_GKD_A:43 NAN 59402219
+"{V0385}{W10}Welcome home,{W20} Big Bro."
+
+@NAN_GKD_A:44 PLY 63f87b86
+"Oh, uh, I'm home."
+
+@NAN_GKD_A:46 NAN c44c1b63
+"{V0386}{W10}Ehehe,{W40} doing this{W35} {Ec}is like being newlyweds,{W35} and I kind of{W10} like it."
+
+@NAN_GKD_A:47 PLY 793d55a1
+"Wh-what nonsense are you saying?!"
+
+@NAN_GKD_A:49 NAN 4a4379b1
+"{V0387}{W15}It's not nonsense!{W35} {Ec}It's wonderful,{W5} it{W5} is."
+
+@NAN_GKD_A:50 PLY be1ab506
+"Wonderful, huh..."
+
+@NAN_GKD_A:54 SYS 4cfbf4d9
+...And so, I walked home with Nana.
+
+@NAN_GKD_A:57 NAN d9e92d37
+"{V0388}{W10}Big Bro,{W40} today,{W20} Mom{W20} will be home{W10} late,{W5} she said."
+
+@NAN_GKD_A:58 PLY 696225c1
+"I see."
+
+@NAN_GKD_A:59 NAN dd3dab3d
+"{V0389}{W10}So,{W30} for today's{W5} dinner,{W40} Nana{W10} will cook, okay?"
+
+@NAN_GKD_A:60 NAN cd0bff88
+"{V0390}{W10}Anything you want to eat?{W50} Any requests{W20}?"
+
+@NAN_GKD_A:61 PLY 67d884a8
+"...Anything's fine."
+
+@NAN_GKD_A:62 NAN 60c8c837
+"{V0391}{W10}Mmm{W20}!{W30} That kind of answer{W30} is the hardest{W10} to deal with~{W10}!"
+
+@NAN_GKD_A:63 PLY 0d80b9d5
+"......"
+
+@NAN_GKD_A:64 NAN 41576b30
+"{V0392}{W10}Then,{W25} do you want Japanese{W10}?{W25} Western{W10}?{W25} Chinese{W10}?"
+
+@NAN_GKD_A:65 PLY 29560f13
+"...Any of them is fine."
+
+@NAN_GKD_A:66 NAN 1417b907
+"{V0393}{W10}Mmm{W20}!{W65} Fine.{W45} It's still hot out,{W35} so I'll make something light{W10} and easy to eat."
+
+@NAN_GKD_A:68 NAN 62912ade
+"{V0394}{W10}Oh,{W25} Big Bro,{W35} {F3}let's shop at the shopping street{W30} together{W15} for dinner~!"
+
+@NAN_GKD_A:69 PLY 3a817dfd
+"...Sorry, go by yourself."
+
+@NAN_GKD_A:70 NAN 9b529f75
+"{V0395}{W10}Oh..."
+
+@NAN_GKD_A:71 NAN 01a63fb0
+"{V0396}{W10}Okay,{W40} I understand.{W50} I'll go{W10} alone{Ec}"
+
+@NAN_GKD_A:72 NAN 2623107d
+"{V0397}{W10}Big Bro,{W20} you go home first,{W50} and just{W20} relax{W10} at home."
+
+@NAN_GKD_A:73 NAN 3a8b0615
+"{V0398}{W10}Well,{W35} see you later~{W10}!"
+
+@NAN_GKD_A:74 PLY 5e20bcaa
+(Sorry... Nana. I just can't look her in the face...)
+
+@NAN_GKD_A:77 NAN d140f0e8
+"{V0399}{W10}Hey{W10} hey,{W15} Big Bro,{W30} want to stop by the park together?"
+
+@NAN_GKD_A:78 PLY 97f28c00
+"The park? Why...?"
+
+@NAN_GKD_A:79 NAN 634244d7
+"{V0400}{W10}Because,{W65} going home{W5} just like this{W15} is boring...{W55} Come on,{W40} okay?"
+
+@NAN_GKD_A:80 PLY 0e6989dd
+"Just for a little while..."
+
+@NAN_GKD_A:81 NAN fc271060
+"{V0401}{W10}Yaaay!{W5} Yippee!"
+
+@NAN_GKD_A:84 NAN 2ab9ef90
+"{V0402}{W10}Hey,{W45} the two of us{W20} coming to the park,{W40} when was the last time?{W90} {Ec}It brings back memories,{W25} Big Bro."
+
+@NAN_GKD_A:85 PLY 6896fbe6
+"Yeah..."
+
+@NAN_GKD_A:86 NAN c28e1084
+"{V0403}{W10}This place,{W40} since we were little,{W30} {F3}hasn't changed a bit."
+
+@NAN_GKD_A:88 NAN 2365dc3b
+"{V0404}{W10}As for us,{W45} we've gotten{W20} a lot bigger, though..."
+
+@NAN_GKD_A:90 NAN f113c243
+"{V0405}{W10}Look,{W40} that jungle gym.{W50} Remember?{W70} I{W10} hit my head on it,{W35} and cried so hard{Ec}"
+
+@NAN_GKD_A:91 PLY 208e56a3
+"Yeah... that happened."
+
+@NAN_GKD_A:93 NAN c4d53412
+"{V0406}{W10}Waaah{W20}...{W40} waaah{W60}...{W130} It hurts,{W50} it hurts,{W35} Big Bro."
+
+@NAN_GKD_A:94 PLY 1efced3a
+"That's why I told you not to follow me..."
+
+@NAN_GKD_A:95 NAN 2ddee322
+"{V0407}{W10}But,{W50} but~!{W110} Waaah{W20}...{W50} waaah{W70}..."
+
+@NAN_GKD_A:96 PLY 5adba924
+"Oh, what am I going to do with you..."
+
+@NAN_GKD_A:100 PLY 358b52c4
+"Come on, don't cry anymore, Nana."
+
+@NAN_GKD_A:101 NAN d4a6006c
+"{V0408}{W10}Wooow{W20}!{W40} Forehead kiss{W10}~{W10}!{W40} Thank you~,{W20} Big Bro."
+
+@NAN_GKD_A:102 NAN 7ef9a250
+"{V0409}{W10}Ehehe,{W70} Nana{W30} isn't crying anymore.{W55} See,{W40} the pain{W10} just flew{W25} away."
+
+@NAN_GKD_A:103 NAN 4043b640
+"{V0410}{W10}That time too,{W60} {Ec}you gave me a forehead kiss{W35} to comfort me, didn't you{Eo}."
+
+@NAN_GKD_A:104 PLY e6cef943
+"I had to, or you wouldn't stop crying, right?"
+
+@NAN_GKD_A:105 NAN 2d0e260f
+"{V0411}{W10}Ehehe,{W50} sorry,{W45} for being such a troublesome{W15} little sister."
+
+@NAN_GKD_A:106 PLY caf569eb
+"I told you the jungle gym was still too much for you, but you came along anyway..."
+
+@NAN_GKD_A:107 NAN c3e37a03
+"{V0412}{W10}Because,{W40} I wanted to do the same things{W20} {F3}as you, Big Bro."
+
+@NAN_GKD_A:108 PLY 1054a374
+"You were always tagging along behind me..."
+
+@NAN_GKD_A:110 NAN ee025916
+"{V0413}{W10}Yeah,{W50} because{W40} I love{W30} {Ec}you so much, Big Bro."
+
+@NAN_GKD_A:111 PLY 17cea2bd
+"Huh? What did you just say?"
+
+@NAN_GKD_A:112 NAN 930982a0
+"{V0414}{W10}Huh?{W50} I said{W35} I love{W20} you,{W30} Big Bro..."
+
+@NAN_GKD_A:113 NAN 11aa4bbf
+"{V0415}{W10}Because{W20} we're siblings.{W30} {F3}Isn't it obvious?{W40} I{W40} {Ec}love you,{W20} Big Bro, so much."
+
+@NAN_GKD_A:114 PLY 58e2e1da
+"Right... of course."
+
+@NAN_GKD_A:115 PLY e0caf42c
+(We're siblings, so of course we love each other...)
+
+@NAN_GKD_A:116 PLY 62a687c2
+(Yeah, that's it! What's wrong with loving my sister? What's wrong with thinking she's cute?!)
+
+@NAN_GKD_A:117 PLY 7de98900
+(I love Nana! I love her so much! She's my one and only sister! I have to cherish her...)
+
+@NAN_GKD_A:118 PLY 784f0063
+(...Why was I agonizing over something so obvious until now? I'm such an idiot...)
+
+@NAN_GKD_A:119 PLY 841493f9
+"Nana."
+
+@NAN_GKD_A:120 NAN 215eec3b
+"{V0416}{W10}What is it,{W30} Big Bro?"
+
+@NAN_GKD_A:121 PLY e3423c93
+"...Being siblings is nice."
+
+@NAN_GKD_A:122 NAN 8189dc7f
+"{V0417}{W10}Huh...?{W30} What's wrong?{W10} All of a sudden?"
+
+@NAN_GKD_A:123 PLY 3f8db272
+"No, it's nothing. I just thought so."
+
+@NAN_GKD_A:125 NAN 7324d15e
+"{V0418}{W10}Hehe,{W35} {Eo}what's up, Big Bro?{W45} You seem happy somehow."
+
+@NAN_GKD_A:126 PLY 00b8573b
+"Happy? Do I?"
+
+@NAN_GKD_A:127 NAN 625d209e
+"{V0419}{W10}Yeah.{W40} That look on your face,{W15} Big Bro,{W30} {F3}I feel like it's been ages{W5} since I saw it."
+
+@NAN_GKD_A:128 PLY e704f04b
+"...Is that so. Maybe it is."
+
+@NAN_GKD_A:129 PLY 0eec819d
+"I feel kind of refreshed."
+
+@NAN_GKD_A:130 NAN d57e1630
+"{V0420}{W10}Hehe,{W50} I don't really get it, but{W65} {F2}{Ec}I'm glad,{W20} Big Bro."
+
+@NAN_GKD_A:131 PLY 61626470
+"Hahaha, I'm really glad."
+
+@NAN_GKD_A:132 NAN c25c2e93
+"{V0421}{W10}Ehehe,{W45} time to{W10} go home, huh?"
+
+@NAN_GKD_A:133 PLY 60183035
+"Yeah. Let's go home."
+
+@NAN_GKD_A:134 SYS f4fe1b5e
+...And so, I walked home with Nana...
+
+@NAN_GKD_A:135 PLY 3ddc910f
+(I just mixed up my love for my little sister with a crush, that's all. That's all it was...)
+
+@NAN_GKD_A:137 PLY 73f423c6
+"Nana, want to stop by the park on the way home?"
+
+@NAN_GKD_A:138 NAN df59aabc
+"{V0422}{W10}Huh?{W40} Really?{W30} You'll go with me?"
+
+@NAN_GKD_A:139 PLY b81065be
+"Of course."
+
+@NAN_GKD_A:140 NAN 3a29d553
+"{V0423}{W10}Yaaay!{W20} Yippee!{W15} Let's go, let's go~!"
+
+@NAN_GKD_A:141 NAN b3f02ee7
+"{V0425}{W10}Hey,{W35} what should we play?{W45} {F2}Tag?{W45} Shadow tag?{W45} {Ec}Daruma-san Fell Down?"
+
+@NAN_GKD_A:142 PLY 0270cc4a
+"If you fall playing that and cry, I'm not giving you a forehead kiss."
+
+@NAN_GKD_A:143 NAN c9371290
+"{V0426}{W10}Awww,{W30} really~?"
+
+@NAN_GKD_A:144 PLY f4b4ca5d
+"Obviously."
+
+@NAN_GKD_A:145 NAN 804d4260
+"{V0427}{W10}...No,{W30} Big Bro{W30} {F3}will definitely do it.{W45} {Ec}If I cry,{W50} you'll definitely do it..."
+
+@NAN_GKD_A:146 PLY 40c7ce75
+"Nana..."
+
+@NAN_GKD_A:147 PLY 542c4b5f
+"...Even if you fall on purpose, I'm definitely not doing it."
+
+@NAN_GKD_A:148 NAN fe2c2b42
+"{V0428}{W10}Mmmph{W10}!{W40} Big Bro,{W10} you're mean~!"
+
+@NAN_GKD_A:149 PLY faeb442c
+"I'm not being mean, am I?"
+
+@NAN_GKD_A:151 NAN e1dfbf8b
+"{V0429}{W10}Yes you are!{W35} {Eo}You're{W15} really{W10} mean!"
+
+@NAN_GKD_A:152 PLY 04733997
+"Hahahaha."
+
+@NAN_GKD_A:153 PLY 9b43fb2d
+"Since we came to the park, how about the seesaw or something?"
+
+@NAN_GKD_A:154 NAN 5d2d93d1
+"{V0430}{W10}Yeah!{W5} Let's~!"
+
+@NAN_GKD_A:156 NAN b1c3796e
+"{V0431}{W10}Let's go! {Ec}Big Bro!"
+
+@NAN_GKD_A:157 SYS 992461a6
+...And so, I spent time at the park with Nana.
+
+@NAN_GKD_A:159 NAN 40098687
+"{V0432}{W10}Hey{W10} hey,{W15} Big Bro,{W45} how about Hilltop Park?{W30} Want to stop by?"
+
+@NAN_GKD_A:160 PLY 9aebfbce
+"...Okay, just for a little while."
+
+@NAN_GKD_A:161 NAN 1c923284
+"{V0433}{W10}Yaaay!{W30} Big Bro,{W30} thank you~!"
+
+@NAN_GKD_A:162 NAN 9a14e8ce
+"{V0434}{W10}Wow{W30}!{W60} Look!{W40} {Eo}The sunset is so{W10} pretty,{W15} Big Bro!"
+
+@NAN_GKD_A:163 PLY c028a083
+"Yeah."
+
+@NAN_GKD_A:164 NAN 12836053
+"{V0435}{W10}Look,{W55} all the way to the far mountains,{W60} everything{W10} is dyed crimson..."
+
+@NAN_GKD_A:165 NAN 24a2c675
+"{V0436}{W20}......"
+
+@NAN_GKD_A:166 NAN 31c5d487
+"{V0437}{W10}...I,{W65} when I come here,{W65} I somehow{W10} feel at peace."
+
+@NAN_GKD_A:167 PLY dbf0f501
+"I see..."
+
+@NAN_GKD_A:168 PLY 7742d5c7
+(Nana doesn't seem to remember, but we used to come here with Dad a lot when we were little...)
+
+@NAN_GKD_A:169 PLY 6cbca6e8
+(Dad... He's so busy with work that we keep missing each other...)
+
+@NAN_GKD_A:170 PLY bad3a9bf
+(Even when we do see him, he's half asleep or tired...)
+
+@NAN_GKD_A:171 NAN 42136154
+"{V0438}{W15}What?"
+
+@NAN_GKD_A:172 PLY dc466a09
+"Are you lonely?"
+
+@NAN_GKD_A:173 NAN 1aaddd01
+"{V0439}{W10}Huh?{W30} {Sp}W-{W30}what's wrong?{W20} All of a sudden..."
+
+@NAN_GKD_A:174 PLY 7ba12f12
+"No... just a feeling..."
+
+@NAN_GKD_A:175 NAN f4503b69
+"{V0440}{W20}......"
+
+@NAN_GKD_A:176 NAN 75be1e9b
+"{V0441}{W10}...No,{W40} I'm not lonely.{W75} Because,{W35} I have you, Big Bro."
+
+@NAN_GKD_A:177 NAN bc24bf7b
+"{V0442}{W20}Since I was little,{W30} always,{W55} {Eo}you've been{W15} right by my side, Big Bro."
+
+@NAN_GKD_A:178 PLY 49511b60
+"Yeah. ...That's enough, isn't it?"
+
+@NAN_GKD_A:179 NAN 6ef8d97c
+"{V0443}{W10}Yeah!"
+
+@NAN_GKD_A:180 PLY 8350aaea
+"Nana, want me to hold your hand?"
+
+@NAN_GKD_A:181 NAN 352a1dc6
+"{V0445}{W10}Really?!{W35} {F3}Yes, hold it!{Ec} Hold it!"
+
+@NAN_GKD_A:193 NAN 366b0021
+"{V0446}{W10}Ehehe,{W65} Big Bro's hand{W80} is big,{W50} so it feels safe."
+
+@NAN_GKD_A:194 PLY 876a2929
+"I see..."
+
+@NAN_GKD_A:195 PLY 8185587a
+"Come on, let's go home."
+
+@NAN_GKD_A:196 NAN e31ea06a
+"{V0447}{W10}Okay!"
+
+@NAN_GKD_A:198 NAN 5adecc0d
+"{V0448}{W10}Hey{W10} hey,{W15} Big Bro,{W30} shall we go{W25} to Hilltop Park{W20} again?"
+
+@NAN_GKD_A:199 PLY b3e271b6
+"...Do you want to go?"
+
+@NAN_GKD_A:200 NAN 00591da7
+"{V0449}{W10}Yeah!"
+
+@NAN_GKD_A:201 PLY 81588e47
+"Then just for a little while."
+
+@NAN_GKD_A:202 NAN 69385943
+"{V0450}{W10}Yay!{W20} Let's go,{W5} let's go!"
+
+@NAN_GKD_A:203 NAN 40b7393d
+"{V0451}{W10}Look,{W20} Big Bro,{W40} {F2}today too{W15} the sunset{W15} is beautiful."
+
+@NAN_GKD_A:204 NAN 96321627
+"{V0452}{W20}......"
+
+@NAN_GKD_A:205 NAN b55522a5
+"{V0453}{W10}Hey,{W30} Big Bro."
+
+@NAN_GKD_A:206 PLY bd09fe50
+"Hm?"
+
+@NAN_GKD_A:207 NAN 499a2aca
+"{V0454}{W10}A long{W10} long time{W5} ago,{W80} with Dad{W35} we used to{W15} {F3}come here a lot, didn't we?"
+
+@NAN_GKD_A:208 PLY aa53842e
+"Oh... you remember?"
+
+@NAN_GKD_A:209 NAN b0519374
+"{V0455}{W10}Yeah."
+
+@NAN_GKD_A:210 NAN b246ef2c
+"{V0456}{W10}Dad{W20} got too busy with work,{W50} {F9}so he stopped playing with me,{W70} and Mom{W30} works too,{W40} {Ec}so I couldn't be selfish..."
+
+@NAN_GKD_A:211 NAN 7160f69a
+"{V0457}{W10}The one who{W35} always kept me company{W75} was you, Big Bro."
+
+@NAN_GKD_A:212 PLY 9a022702
+"You help Mom make dinner and so on, Nana, and I clean and take out the trash..."
+
+@NAN_GKD_A:213 PLY f85324c0
+"We've done everything together, the two of us."
+
+@NAN_GKD_A:214 NAN 387e75f7
+"{V0458}{W10}Yeah...{W40} that's true."
+
+@NAN_GKD_A:215 NAN 029069ce
+"{V0459}{W10}Time passes{W60} {Ec}in the blink of an eye."
+
+@NAN_GKD_A:216 NAN 5ba1c96e
+"{V0460}{W10}Big Bro,{W65} hold{W25} my hand."
+
+@NAN_GKD_A:217 PLY fefc9124
+"...Here."
+
+@NAN_GKD_A:218 NAN 41e70853
+"{V0461}{W10}Ehehe,{W60} thanks."
+
+@NAN_GKD_A:219 PLY 4b44ae67
+"...Okay, shall we go home?"
+
+@NAN_GKD_A:220 NAN 70a20ed7
+"{V0462}{W10}Yeah!"

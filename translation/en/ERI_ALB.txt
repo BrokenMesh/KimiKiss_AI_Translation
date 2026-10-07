@@ -1,0 +1,35 @@
+# ERI_ALB -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_ALB:82 PLY 44ebd691
+(Nobody's here... Wasn't it the rooftop?)
+
+@ERI_ALB:85 PLY 263e79f2
+(Hm? A bag's been left here...)
+
+@ERI_ALB:86 PLY 20324689
+(Could she be... up there?)
+
+@ERI_ALB:130 - 64c62dc2
+Girl
+
+@ERI_ALB:132 PLY cdb63969
+"{Ts3}Ah!"
+
+@ERI_ALB:133 PLY f7e57ed8
+"{Ts3}Look out!"
+
+@ERI_ALB:134 ERI c6cb50eb
+"{V5000}{W10}Hm?"
+
+@ERI_ALB:135 PLY ad96dc8c
+"It's dangerous to climb up there!"
+
+@ERI_ALB:136 ERI 8794fad4
+"{V5001}Dangerous?{W7}{W5} {W35}...Is it?{W60} {W2}The wind{W45} {W1}comes through up here. It feels nice."
+
+@ERI_ALB:137 PLY 767539a6
+"Maybe so, but you should come down!"
+
+@ERI_ALB:138 ERI 146df872
+"{V5002}{W10}...I suppose so.{W35} I will{W5} come down now."

@@ -1,0 +1,347 @@
+# ASU_DAT_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_DAT_A:16 SYS 101eca04
+...And so, with our entry safely completed, the beach volleyball tournament began.
+
+@ASU_DAT_A:24 SYS 10076335
+Ten pairs had entered.
+
+@ASU_DAT_A:25 SYS 857283a7
+Thanks to Sakino's great play, we advanced steadily.
+
+@ASU_DAT_A:26 SYS 3e436758
+...And then, finally, the semifinals!
+
+@ASU_DAT_A:28 ASU e87c647b
+"{V0846}Nice receive!"
+
+@ASU_DAT_A:29 PLY bc144b3d
+"Coming your way!"
+
+@ASU_DAT_A:30 ASU bd4204f5
+"{V0847}Leave it to me!"
+
+@ASU_DAT_A:52 ASU e555a69b
+"{V0848}Take that!"
+
+@ASU_DAT_A:54 ASU 70502b68
+"{V0849}Yaaaah!"
+
+@ASU_DAT_A:55 ASU 93b47a87
+"{V0850}Okinawa{W8}aaa!"
+
+@ASU_DAT_A:57 PLY ab0aa6e4
+"Nice spike!"
+
+@ASU_DAT_A:61 SYS 8bd16851
+We advanced to the finals.
+
+@ASU_DAT_A:62 SYS 3b580365
+...But we were no match for our opponents in the final, and lost easily...
+
+@ASU_DAT_A:63 SYS 87e4071e
+Ah... goodbye, Okinawa trip...
+
+@ASU_DAT_A:66 PLY 2990d23c
+(Right at nine o'clock. Now, where's Sakino...)
+
+@ASU_DAT_A:75 ASU bd371cb8
+"{V0824}Oh, {Nm}."
+
+@ASU_DAT_A:76 PLY a5ece806
+"Sakino."
+
+@ASU_DAT_A:78 ASU 8c589958
+"{V0825}Sorry!{W3} Did you wait long?"
+
+@ASU_DAT_A:79 PLY 658248e3
+"No, I just got here."
+
+@ASU_DAT_A:81 ASU 71fc731f
+"{V0826}Oh good,{W20} that's a relief."
+
+@ASU_DAT_A:82 PLY 1de2ab51
+(Sakino in her own clothes... Pants, huh. Well, that fits her personality.)
+
+@ASU_DAT_A:84 ASU 42e1941a
+"{V0827}Let's do our best today."
+
+@ASU_DAT_A:85 PLY 739a8119
+"Of course! We're absolutely winning this!"
+
+@ASU_DAT_A:86 ASU c97b25ca
+"{V0828}Hehe,{W20} Okinawa,{W15} Okinawa."
+
+@ASU_DAT_A:87 PLY b3376227
+"Shall we go, then?"
+
+@ASU_DAT_A:88 ASU d0bbdc67
+"{V0829}Yeah! Let's go!"
+
+@ASU_DAT_A:92 ASU c1a58239
+"{V0830}We're here,{W3} we're here!{W60} {F3}{Ec}Wow,{W30} the smell{W10} of the sea!"
+
+@ASU_DAT_A:93 ASU 636b38d5
+"{V0831}Good thing the weather's nice.{W35} {Ec}It's{W5} the perfect{W5} day for beach volleyball!"
+
+@ASU_DAT_A:94 ASU 5cb8d30d
+"{V0832}Let's see...{W13}{W45} where do we{W3} change..."
+
+@ASU_DAT_A:95 PLY 7c03edf1
+"It was over there."
+
+@ASU_DAT_A:96 PLY 06a44adf
+"Then, shall we change and meet on the sand?"
+
+@ASU_DAT_A:97 ASU 57329c3a
+"{V0833}Yeah!"
+
+@ASU_DAT_A:98 PLY b3e5483d
+(Sakino's... not here yet. Girls take a while to change...)
+
+@ASU_DAT_A:99 ASU a3160eb5
+"{Nm}, {V0834}sorry to keep you waiting!"
+
+@ASU_DAT_A:101 PLY 634f9920
+"Ah..."
+
+@ASU_DAT_A:102 ASU 9f23dee2
+"{V0835}Hm?{W35} What's wrong?"
+
+@ASU_DAT_A:103.1 - ccfd0ed1
+{Ti0}- That's a sporty swimsuit／- That swimsuit looks great on you／- Sakino, you've got a great figure
+
+@ASU_DAT_A:104 PLY 374ac3dd
+"That's a sporty swimsuit."
+
+@ASU_DAT_A:106 ASU 83e151e1
+"{V0836}Yeah!{W20} I'll be jumping around a lot, after all."
+
+@ASU_DAT_A:107 PLY d905bbbf
+"I see."
+
+@ASU_DAT_A:108 PLY 86ff5b8d
+"That swimsuit looks great on you."
+
+@ASU_DAT_A:111 ASU 48f9ea3b
+"{V0837}Hehe,{W30} thanks."
+
+@ASU_DAT_A:112 ASU f5613d90
+"{V0838}I'll be jumping around a lot,{W20} so I picked a sporty one."
+
+@ASU_DAT_A:113 PLY 6dc409ce
+"You're all fired up, huh."
+
+@ASU_DAT_A:114 ASU 2ed0ede9
+"{V0839}Of course!"
+
+@ASU_DAT_A:115 PLY 0951750b
+"Sakino, you've got a great figure."
+
+@ASU_DAT_A:116 ASU 3994e878
+"{V0840}Eh?!"
+
+@ASU_DAT_A:117 ASU c94434d8
+"{V0841}T-{W40}that's not true...{W30} Not someone like me..."
+
+@ASU_DAT_A:118 PLY 26a8276d
+"...No, I think it's really great. ...Yeah."
+
+@ASU_DAT_A:119 ASU 01df39f7
+"{V0842}R-{W33}really?{W45} {F9}Thanks..."
+
+@ASU_DAT_A:120 PLY 3b980227
+"By the way, have you already registered for the beach volleyball?"
+
+@ASU_DAT_A:121 ASU 42c645c5
+"{V0843}Not yet,{W10} we'll do it now."
+
+@ASU_DAT_A:122 ASU 9e1e5904
+"{V0844}I hope we{W5} can win{W3} it all."
+
+@ASU_DAT_A:123 PLY 656e611c
+"No, we're going to win for sure and go to Okinawa!"
+
+@ASU_DAT_A:124 ASU 0a4f8560
+"{V0845}Yeah!{W20} {Ec}Let's do our best!"
+
+@ASU_DAT_A:126 ASU 8c0fd7fd
+"{V0851}Aww,{W5} man,{W20} what a shame.{W80} Our opponents{W10} were too tough.{W80} {Ec}Just that one pair{W35} seemed to be on a different{W5} level."
+
+@ASU_DAT_A:127 PLY 11d5569b
+"You weren't outplayed at all, Sakino. I'm the one who held us back..."
+
+@ASU_DAT_A:128 ASU fb885178
+"{V0852}No,{W10} that's not true."
+
+@ASU_DAT_A:130 ASU 0cae208c
+"{V0853}Because you and I{W80} were more{W20} in sync than they were."
+
+@ASU_DAT_A:131 PLY 98d86410
+"Sakino..."
+
+@ASU_DAT_A:132 PLY 37487707
+"Yeah, you're right. We were in sync."
+
+@ASU_DAT_A:133 ASU 78ce9d73
+"{V0854}Hehe."
+
+@ASU_DAT_A:134 ASU 0d11f638
+"{V0855}We lost,{W20} but it was fun."
+
+@ASU_DAT_A:135 PLY 851b6dc4
+"It was."
+
+@ASU_DAT_A:136 PLY 125ff97d
+"...Shall we head home?"
+
+@ASU_DAT_A:137 ASU 89e53489
+"{V0856}Yeah."
+
+@ASU_DAT_A:139 ASU 887ae42c
+"{Nm}, {V0857}thank you so much for today.{W20} I had so much{W3} fun."
+
+@ASU_DAT_A:140 PLY a6edfb5d
+"Me too."
+
+@ASU_DAT_A:141 PLY 59a3d269
+"...Sakino, if you want, how about we go to the riverbank? It'd feel odd to just say goodbye like this..."
+
+@ASU_DAT_A:142 ASU 337104fc
+"{V0858}Ah..."
+
+@ASU_DAT_A:143 ASU 699c3797
+"{V0859}Yeah.{W60} Me too,{W70} {F7}{Ec}{B60}I wanted to be with you a little{W40} longer, {Nm}."
+
+@ASU_DAT_A:144 PLY 057b5c4b
+"The wind feels nice in the evening."
+
+@ASU_DAT_A:145 ASU 00f50695
+"{V0860}Yeah...{W55} Well,{W15} summer's almost over, huh."
+
+@ASU_DAT_A:146 PLY a9bebc32
+"Yeah..."
+
+@ASU_DAT_A:147 ASU 3f55a87e
+"{V0861}This summer,{W55} I practiced here{W5} so{W3} much."
+
+@ASU_DAT_A:148 ASU 20b4b5e5
+"{V0862}Thanks for keeping me company, {Nm}."
+
+@ASU_DAT_A:149 PLY e7c3e7ec
+"You're welcome."
+
+@ASU_DAT_A:150 ASU e9aa5c92
+"{V0863}Hey, {Nm}...{W45} I{W60} {Ec}told you about my dream{W10} for the future...{W50} didn't I?"
+
+@ASU_DAT_A:151 PLY 56b0fab5
+"You mean becoming a pro soccer player?"
+
+@ASU_DAT_A:152 ASU f59c083c
+"{V0864}Right."
+
+@ASU_DAT_A:153 PLY 17608dcd
+"Yeah, I remember. If it's you, Sakino, I'm sure you'll make it."
+
+@ASU_DAT_A:154 ASU c744481b
+"{V0865}Thanks."
+
+@ASU_DAT_A:155 ASU ca230a53
+"{V0866}Listen...{W60} actually,{W45} {F9}there's{W10} more to that story."
+
+@ASU_DAT_A:156 PLY d1a871fd
+"More?"
+
+@ASU_DAT_A:157 ASU 15214ad0
+"{V0867}Yeah...{W60} It's such a huge dream,{W40} {Ec}I'm too embarrassed{W20} to tell anyone, but..."
+
+@ASU_DAT_A:158 ASU ae16dba0
+"{V0868}{Nm},{W40} I'd like you to hear it."
+
+@ASU_DAT_A:159 ASU 55e81e0e
+"{V0869}Will you listen?"
+
+@ASU_DAT_A:160 PLY b81065be
+"Of course."
+
+@ASU_DAT_A:161 ASU fdad81d9
+"{V0870}I,{W70} said I want to be a pro player,{W55} but the league I'm aiming for{W40} isn't in Japan."
+
+@ASU_DAT_A:162 PLY 122df4f6
+"Huh?"
+
+@ASU_DAT_A:164 ASU 37b3af76
+"{V0872}Someday...{W60} someday...{W50} it may be a dream that can't come true,{W65} {Eo}{F8}{m6}but I want to stand on the pitch in Italy's league."
+
+@ASU_DAT_A:165 PLY e65ccc9b
+"Eeh?! Italy's league?! Even I know that one. It's the best league in the world, isn't it?"
+
+@ASU_DAT_A:166 ASU 2fcc9232
+"{V0873}Yeah.{W40} I want to stand on that pitch."
+
+@ASU_DAT_A:167 PLY 8001be83
+"Even though you're a girl?"
+
+@ASU_DAT_A:168 ASU cffb83f6
+"{V0874}Yeah,{W65} even though I'm a girl."
+
+@ASU_DAT_A:169 PLY 9a39d6ce
+"Sorry, I didn't mean it like that..."
+
+@ASU_DAT_A:170 ASU 2a2da4b6
+"{V0875}Hehe,{W30} you don't have to say it, I know."
+
+@ASU_DAT_A:171 ASU 8a354ea9
+"{V0876}...Do{W10} you think it's silly?"
+
+@ASU_DAT_A:172 PLY d2e9ccc4
+"...I don't. But..."
+
+@ASU_DAT_A:173 ASU 8a533279
+"{V0877}But?"
+
+@ASU_DAT_A:174 PLY 5acf7b51
+"You'll have to work even harder than you do now."
+
+@ASU_DAT_A:175 ASU eb82b13b
+"{V0878}Yeah!{W30} I'll do my best!"
+
+@ASU_DAT_A:176 ASU f8303b0b
+"{V0879}...Me,{W55} from now on, too...{W65} will you keep watching over me?"
+
+@ASU_DAT_A:177 PLY f57edbd8
+"Of course!"
+
+@ASU_DAT_A:178 ASU f2bf1ea6
+"{V0880}No matter what?"
+
+@ASU_DAT_A:179 PLY f16d57c0
+"Of course!!"
+
+@ASU_DAT_A:180 PLY 2069dbbf
+"Remember? I said I'm player Sakino's number one fan."
+
+@ASU_DAT_A:181 ASU 4fb971c5
+"{V0881}{Nm}..."
+
+@ASU_DAT_A:182 ASU c7a8f3ec
+"{V0882}I,{W120} if you're by my side, {Nm},{W30} {Ec}no matter how hard the pass,{W50} {Eo}or how much pressure the shot has..."
+
+@ASU_DAT_A:183 ASU 520d1218
+"{V0883}I feel like I could nail it."
+
+@ASU_DAT_A:184 ASU ea3bb05b
+"{V0884}For listening{W5} to my{W5} dream,{W50} {F2}{Ec}{B6}thanks..."
+
+@ASU_DAT_A:186 SYS de5a0d7e
+...And so, I spent the day with Sakino.
+
+@ASU_DAT_A:187 PLY ba518efe
+(Italy's league... What a tremendously big dream.)
+
+@ASU_DAT_A:188 PLY 370754ce
+(What can I do for Sakino...? What is it...?)
+
+@ASU_DAT_A:190 SYS 712172d7
+"!?" ...Just one isn't enough, dammit!

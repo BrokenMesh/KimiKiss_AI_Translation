@@ -1,0 +1,2273 @@
+# NAR_MW1_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_MW1_A:42 PLY 4e6601e6
+"It's September and it's still so hot~"
+
+@NAR_MW1_A:45 NAR 3246760e
+"{V1456}{W5}Do {W3}you {W2}hate {W3}the heat?"
+
+@NAR_MW1_A:46 PLY 7447286b
+"When it gets too hot, yeah..."
+
+@NAR_MW1_A:48 NAR 0f128bc4
+"{V1457}{W5}I {W6}love{W2} {W3}the{W3} heat!{Ec}"
+
+@NAR_MW1_A:49 PLY 8ab8fb8a
+"Narumi, you always seem to be having fun."
+
+@NAR_MW1_A:50 NAR 9259483a
+"{V1458}{W5}I am! {W13}It's so{W3} much fun!"
+
+@NAR_MW1_A:51 PLY 13db3f4d
+"Where do you go most often at school?"
+
+@NAR_MW1_A:53 NAR 4a376963
+"{V1459}{W5}The Home Ec Room, {W24}of course.{W3} {W33}I'm{W3} in the Home Ec{W3} Club, after all."
+
+@NAR_MW1_A:54 PLY 61b481d0
+"What do you think is good about our school?"
+
+@NAR_MW1_A:55 NAR e87a5434
+"{V1460}{W10}Ehehe, {W45}I think {W3}the {W3}Cafeteria {W21}is {W8}really{W3} good."
+
+@NAR_MW1_A:56 PLY b1fc9153
+"What's your favorite place in the school?"
+
+@NAR_MW1_A:58 NAR 96854e9f
+"{V1461}{W5}The Home Ec Room, {W21}of{W2} {W2}course."
+
+@NAR_MW1_A:59 NAR 71b28e4c
+"{V1462}{W2}Especially{W3} {W3}after school,{W6} {W30}when it smells like the{W3} udon I kneaded.{W3} {W12}I love it.{Ec}"
+
+@NAR_MW1_A:60 PLY e02f6c2f
+"Where are you usually during lunch break?"
+
+@NAR_MW1_A:62 NAR d33ecfea
+"{V1463}{W15}At {W6}lunch {W6}break... {W40}{F3}I{W3} eat{W3} {W3}lunch {W3}in{W3} the Cafeteria."
+
+@NAR_MW1_A:63 PLY 9ef3d8e9
+"I can't shake off the vacation laziness, so getting up in the morning is hard..."
+
+@NAR_MW1_A:65 NAR 9ba9f0ad
+"{V1464}{W5}Hehe, {W30}Senpai{W1}, {W1}you're {W8}funny."
+
+@NAR_MW1_A:66 NAR deb82cdd
+"{V1465}{W12}You {W3}have {W3}to {W3}get {W1}used to it soon~"
+
+@NAR_MW1_A:67 PLY f5c1c820
+"Our Library has a great collection of books."
+
+@NAR_MW1_A:69 NAR d50a2fc8
+"{V1466}{W12}It {W2}really {W2}does{W1}~{W1}! {W2}{W3}{W3}{W30}You could never{W1} read{W1} all{W1} of{W1} it."
+
+@NAR_MW1_A:71 NAR 3ff6328f
+"{E}{V1467}...{W3}Not {W3}that {W45}I've {W2}read {W1}a{W1} {W2}single{W1} {W8}one,{W1} {W1}though.{W1}"
+
+@NAR_MW1_A:72 PLY 2942de1e
+"It's nice and cool in here."
+
+@NAR_MW1_A:73 NAR 3e7edaf5
+"{V1468}{W3}Did {W3}you {W3}come{W3} to cool off too, Senpai?{W27} {F2}Ehehe,{W6} {W25}me too."
+
+@NAR_MW1_A:74 PLY 4de4d6bc
+"If the Library had manga, it'd be great for killing time."
+
+@NAR_MW1_A:76 NAR 955e4aa4
+"{V1469}{W5}Oh, {W30}that {W1}would {W1}be {W1}great{W1}~{W1}! {W30}{Ec}I'd {W5}want {W3}them{W1} {W1}to{W1} {W1}stock {W1}lots {W3}of shojo manga."
+
+@NAR_MW1_A:77 PLY 20e15ff5
+"The Science Lab is dark and kind of creepy, isn't it?"
+
+@NAR_MW1_A:79 NAR 914dd7b0
+"{V1470}{W11}It {W2}sure {W2}is.{W2} {W36}Feels{W2} {W4}like {W9}something might appear, right?"
+
+@NAR_MW1_A:80 PLY 714c6407
+"The Rooftop is great for a change of mood."
+
+@NAR_MW1_A:82 NAR 805973d0
+"{V1471}{W10}It is! {W25}The view is nice, {W15}{Ec}and it's perfect for refreshing{W2} yourself."
+
+@NAR_MW1_A:83 NAR beadf66a
+"{V1472}{W5}A {W6}school {W6}with {W2}a {W2}Terrace{W2} {W2}is{W2} {W2}rare.{W2} {W30}Around{W2} {W2}here,{W2} {W2}I{W2} {W4}think{W1} {W1}it's {W1}only{W1} {W15}ours."
+
+@NAR_MW1_A:84 PLY 851b6dc4
+"True."
+
+@NAR_MW1_A:85 NAR a92637f6
+"{V1473}{W7}Relaxing {W3}here {W1}in the early afternoon{W15} is something{W3} I love.{Ec}"
+
+@NAR_MW1_A:86 PLY 765d8113
+"It's cool around the Fountain."
+
+@NAR_MW1_A:88 NAR 210182fa
+"{V1474}{W10}It {W2}is{W2}~{W2}! {W30}It's{W2} {W2}still{W2} {W1}really{W2} {W2}hot,{W1} {W1}after{W4} all."
+
+@NAR_MW1_A:89 PLY f21e48d4
+"Narumi, have you already had lunch?"
+
+@NAR_MW1_A:90 NAR 12b98952
+"{V1475}{W5}Yes, {W8}I have.{Ec}"
+
+@NAR_MW1_A:91 NAR 3bb27ee0
+"{V1476}{W5}Oh... {W45}if {W3}I'd {W3}known{W2} {W1}I'd{W2} {W2}see{W1} {W2}you,{W1} {W15}I{W1} should{W1} have{W1} waited to eat..."
+
+@NAR_MW1_A:93 NAR 3191e269
+"{V1477}{W5}What {W8}a letdown..."
+
+@NAR_MW1_A:94 PLY a641d60d
+"Narumi, what were you doing behind the school?"
+
+@NAR_MW1_A:95 NAR a0de5525
+"{V1478}{W1}Ehehe, {W45}I just came{W3} by for no particular reason."
+
+@NAR_MW1_A:96 PLY 696225c1
+"I see."
+
+@NAR_MW1_A:97 NAR 654e9934
+"{V1479}{W5}I never {W3}thought {W3}I'd run{W3} into you, Senpai, {W30}{Ec}so{W1} I'm lucky."
+
+@NAR_MW1_A:98 PLY dd2aecdb
+"Do you and Nana often play hide-and-seek?"
+
+@NAR_MW1_A:99 NAR 1624f40b
+"{V1480}{W5}Yes! {W15}It's so{W4} much fun~!"
+
+@NAR_MW1_A:100 PLY e5bd4bd4
+"You're both small, so hiding must be easy."
+
+@NAR_MW1_A:101 NAR 927f0b3b
+"{V1481}{W15}Aw, {W45}Senpai, {W5}{W3}{W5}that's {W3}so {W10}mean."
+
+@NAR_MW1_A:102 PLY 5b466241
+"Hahaha, sorry, sorry."
+
+@NAR_MW1_A:103 PLY aec94237
+"Actually, something just happened earlier..."
+
+@NAR_MW1_A:104 NAR 4c954952
+"{V1483}{W5}......"
+
+@NAR_MW1_A:106 NAR eece4dbe
+"{V1484}{W5}Huh? {W50}Is {W5}that {W3}so? {W45}{F2}{Sd}Wow, {W5}{W3}{W2}{W3}{W3}what a{W3} surprise~{W5}"
+
+@NAR_MW1_A:107 PLY 60c92129
+"How many members does the Home Ec Club have?"
+
+@NAR_MW1_A:108 NAR 2d45daad
+"{V1485}{W5}About {W2}10 {W3}or so.{F3}"
+
+@NAR_MW1_A:109 PLY 492e0738
+"...Or so?"
+
+@NAR_MW1_A:110 NAR 9fd55dad
+"{V1486}{W15}Most {W3}are {W2}ghost {W3}members, {W1}{W1}so{W1} {W30}{F9}I {W3}don't {W3}really{W3} {W3}know {W2}how many there are."
+
+@NAR_MW1_A:111 PLY adaeb24e
+"Hahaha, I see."
+
+@NAR_MW1_A:112 NAR c02510ff
+"{V1487}{W8}Besides, {W30}even{W6} though I'm{W2} in the Home Ec Club, {W15}I{W2} only{W2} do udon..."
+
+@NAR_MW1_A:113 NAR 9cd016dd
+"{V1488}{W10}Two{W3} friends{W3} and{W3} I{W3} started{W30} an{W3} Udon{W2} Club{W2}{W15} inside{W3} the{W2} Home{W2} Ec Club!{W3}"
+
+@NAR_MW1_A:114 PLY 245fbfa9
+"What does the Udon Club do?"
+
+@NAR_MW1_A:116 NAR cfb8e60b
+"{V1490}{W8}Make {W24}delicious udon {W3}and {W23}eat it together, of course!{Ec}"
+
+@NAR_MW1_A:117 PLY 0912125b
+"Making udon costs money for ingredients, right?"
+
+@NAR_MW1_A:118 NAR 9d96f8e7
+"{V1491}{W8}Yes."
+
+@NAR_MW1_A:119 PLY 54cec12e
+"So how do you handle that? Do the three of you collect club fees?"
+
+@NAR_MW1_A:121 NAR f7a218a7
+"{V1492}{W5}Ehehe, {W30}I {W2}bring {W2}the {W2}flour {W15}and {W3}toppings {W18}from {W3}the shop."
+
+@NAR_MW1_A:122 NAR 24fa60ec
+"{V1493}{W5}Udon{W1} {W1}ingredients{W1} {W3}are{W1} {W3}cheap,{W1} {W27}{F2}and{W1} Grandpa{W1} {W18}says{W1} {W6}he{W1} doesn't{W3} mind{W3} if{W3} it helps{W5} me{W2} learn."
+
+@NAR_MW1_A:123 PLY 979d180a
+"He's a good grandpa."
+
+@NAR_MW1_A:124 NAR 34460c0c
+"{V1494}{W5}Yes!{W8} {W30}{Eo}{F9}{Sp}...He's{W1} a{W1} bit{W1} {W15}picky,{W1} {W1}though.{W1}"
+
+@NAR_MW1_A:125 PLY b36a1841
+"The Udon Club sounds like fun."
+
+@NAR_MW1_A:126 NAR ffe6dcd8
+"{V1495}{W5}Yes! {W15}{Ec}It's {W12}really{W4} fun!"
+
+@NAR_MW1_A:127 PLY 687e758d
+"Are the other two in the Udon Club girls?"
+
+@NAR_MW1_A:128 NAR 941ec367
+"{V1496}{W5}Yes,{W6} {W13}they{W1} {W1}are.{W1} {W23}They're{W1} {W8}my{W1} {W8}classmates."
+
+@NAR_MW1_A:129 PLY 5cf5173c
+"Oh, really?"
+
+@NAR_MW1_A:130 PLY 513c94dc
+"I don't think I've ever seen them..."
+
+@NAR_MW1_A:131 NAR 5580755b
+"{V1497}{W9}Ah... {W30}they {W7}only {W7}come {W1}once {W2}in {W2}a{W2} {W2}while."
+
+@NAR_MW1_A:132 NAR bb04cd6a
+"{V1498}{W5}But {W30}they{W1} {W8}give{W1} {W2}me{W1} {W2}really{W1} {W2}good{W1} {W1}advice.{Ec}"
+
+@NAR_MW1_A:133 PLY e5ebbbac
+"The Udon Club's activities are probably..."
+
+@NAR_MW1_A:134 NAR 3ab5be74
+"{V1499}{W5}Ehehe,{W3} {W26}{W5}that's{W3} {W3}{W1}right. {W30}Did {W1}I{W1} {W1}give {W1}it {W1}away?{Ec}"
+
+@NAR_MW1_A:135 PLY 4ec8c0c0
+"What do you think of our girls' uniform?"
+
+@NAR_MW1_A:136 NAR 6378e0eb
+"{V1500}{W5}It's really{W3} cute,{W12} and I think{W2} it's nice~"
+
+@NAR_MW1_A:137 PLY 19db841e
+"Narumi, the uniform looks good on you."
+
+@NAR_MW1_A:138 NAR e4758fbc
+"{V1501}{W8}Huh?{W1}{W1}"
+
+@NAR_MW1_A:139 NAR 9438090d
+"{V1502}{W12}Oh, {W5}{W4}{W3}stop... {W45}{Nm}{W3}{W3}{W3}... {W30}{Ec}you're{W2} making{W2} me blush."
+
+@NAR_MW1_A:140 PLY 9d02c104
+"Narumi in her uniform is..."
+
+@NAR_MW1_A:141 NAR 2a4b6792
+"{V1503}......"
+
+@NAR_MW1_A:142 NAR 5f7cddac
+"{V1504}{W10}Ehehe,{W2} {W30}I'm{W3} {W2}so {W2}happy {W12}you'd say that.{Ec}"
+
+@NAR_MW1_A:143 PLY f1e98907
+"Who's the Library Committee member in your class, Narumi?"
+
+@NAR_MW1_A:144 NAR 60adc934
+"{V1505}{W5}Huh? {W30}Let's {W5}see{W8}...{W5}"
+
+@NAR_MW1_A:146 NAR dfad556c
+"{V1506}{W8}I'm {W2}sorry, {W2}{W2}{W24}I {W5}don't{W2} {W2}know {W2}who{W1} it{W2} is..."
+
+@NAR_MW1_A:147 PLY 1dd0d882
+"Narumi, are you on any committee?"
+
+@NAR_MW1_A:148 NAR 460fdcfb
+"{V1507}{W8}No,{W3} {W30}I'm{W3} not."
+
+@NAR_MW1_A:149 PLY ac4e3ddd
+"What would you do if a teacher told you to do something?"
+
+@NAR_MW1_A:150 NAR e3c29976
+"{V1508}{W5}Huh? {W45}That {W3}would {W3}be{W3} {W3}a{W3} {W3}problem{W8}~"
+
+@NAR_MW1_A:151 NAR 59859fe3
+"{V1509}{W5}I {W1}wouldn't {W1}be {W1}able {W4}to {W4}go {W4}to {W2}the{W1} Udon Club..."
+
+@NAR_MW1_A:152 PLY 48768a9b
+"I see... that would be a problem."
+
+@NAR_MW1_A:153 PLY 43098244
+"About committee work, I think..."
+
+@NAR_MW1_A:154 NAR 25e46fd9
+"{V1510}{W8}......"
+
+@NAR_MW1_A:156 NAR 384e2769
+"{V1511}{W15}Y-{W51}you're{W3} right."
+
+@NAR_MW1_A:157 PLY 94a9a031
+"School rules are the worst~"
+
+@NAR_MW1_A:158 NAR dd82468c
+"{V1512}{W5}Yeah. {W36}{F8}I {W9}utterly {W8}hate {W6}them too~{Ec}"
+
+@NAR_MW1_A:159 PLY e6a2932e
+"School rules, how should I put it..."
+
+@NAR_MW1_A:160 NAR 25bc4a92
+"{V1513}{W6}...{W5}..."
+
+@NAR_MW1_A:162 NAR 536662b5
+"{V1514}{W5}Senpai,{W6} {W45}{W6}this {W8}is {W3}too {W8}hard{W1} {W3}{W3}{W3}{W30}for{W1} me to follow..."
+
+@NAR_MW1_A:163 PLY 66e3af60
+"Ms. Kawada is cheerful and nice, isn't she?"
+
+@NAR_MW1_A:164 NAR d52af199
+"{V1515}{W10}Yes! {W15}I{W3} love her!{Ec}"
+
+@NAR_MW1_A:165 NAR 08d5f3d0
+"{V1516}{W8}She's {W3}a {W3}teacher {W3}who {W3}listens to anything, {W12}{F2}like {W3}an older{W4} sister."
+
+@NAR_MW1_A:166 PLY 40545c88
+"Did you know Ms. Kawada is pretty scary when she's angry?"
+
+@NAR_MW1_A:167 NAR cb598bc3
+"{V1517}{W5}Huh? {W18}Really?"
+
+@NAR_MW1_A:168 NAR eca9e868
+"{V1518}{W5}She's{W6} never been angry with me, {W13}so I didn't know."
+
+@NAR_MW1_A:169 NAR e4f628c4
+"{V1519}{W5}Ehehe, {W30}{Ec}I'll {W3}try {W15}getting{W5} scolded sometime."
+
+@NAR_MW1_A:170 PLY 0a38e703
+"No, you don't need to go out of your way to get scolded..."
+
+@NAR_MW1_A:171 PLY 6ce5c850
+"Earlier, Ms. Kawada said..."
+
+@NAR_MW1_A:172 NAR 521a644e
+"{V1520}{W8}......"
+
+@NAR_MW1_A:173 NAR ba8ac9ab
+"{V1521}{W5}Is {W3}that {W3}so? {W3}{W3}{W3}{W3}{W45}{Ec}Ms. {W4}Kawada{W3} {W1}is{W3} {W3}so{W3} {W3}funny{W15}!"
+
+@NAR_MW1_A:174 PLY 696abe63
+"If you were going to transfer schools, Narumi, what would you do?"
+
+@NAR_MW1_A:175 NAR 88ba55d8
+"{V1522}{W5}What?! {W57}{F6}Trans{W5}fer{W5}... {W69}me?"
+
+@NAR_MW1_A:176 NAR 2c4c7950
+"{V1523}......"
+
+@NAR_MW1_A:177 NAR 66fd74ff
+"{V1524}{W8}I {W1}wouldn't {W1}be {W1}able{W1} {W1}to{W2} {W1}see{W6} {W1}Nana,{W1} {W30}or{W1} {W6}you,{W1} {W6}Senpai,{W1} {W60}and{W1} I{W1} don't{W1} want{W1} that~{Ec}"
+
+@NAR_MW1_A:178 PLY 2642bb15
+"No... it's just a hypothetical..."
+
+@NAR_MW1_A:179 PLY 3032d3b4
+"Have you ever wanted to transfer?"
+
+@NAR_MW1_A:180 NAR 482a07d0
+"{V1525}{W15}Hmm, {W33}I've {W1}never {W8}thought {W3}of that~"
+
+@NAR_MW1_A:181 PLY 876a2929
+"I see..."
+
+@NAR_MW1_A:182 PLY aee65b83
+"About transferring, I think..."
+
+@NAR_MW1_A:183 NAR 67937033
+"{V1526}......"
+
+@NAR_MW1_A:184 NAR 35d0df03
+"{V1527}{W15}Senpai,{W6}{W6}{W42} please{W3} don't{W9} talk{W20} about such{W1} sad{W1} things{W2}.{W1}"
+
+@NAR_MW1_A:185 PLY e50225f5
+"Right... sorry."
+
+@NAR_MW1_A:186 PLY 3864fce8
+"Narumi, do you study every day?"
+
+@NAR_MW1_A:187 NAR 0c2dab15
+"{V1528}{W5}Ehehe,{W3} {W30}no,{W3} {W3}I{W3} {W3}don't.{W2}"
+
+@NAR_MW1_A:188 NAR 5615d287
+"{V1529}{W15}I {W3}hate{W3} {W3}studying...{W40}really."
+
+@NAR_MW1_A:189 PLY 679bc389
+"Preparing and reviewing every night..."
+
+@NAR_MW1_A:190 NAR 08faf226
+"{V1530}{W6}...{W6}..."
+
+@NAR_MW1_A:191 NAR fc3a2780
+"{V1531}{W10}Aww, {W8}{W3}{W30}{Nm}, {W3}{W3}{W3}{W15}you sound{W3} like{W3} a{W3} teacher...{W2} {W45}I don't want to do that~{Ec}"
+
+@NAR_MW1_A:192 PLY 9fcc545d
+"Narumi, how are your grades?"
+
+@NAR_MW1_A:193 NAR d8f63590
+"{V1532}{W8}Aww,{W1} {W5}{W45}please{W1} don't{W1} ask~"
+
+@NAR_MW1_A:194 PLY 95c88412
+"Are they that bad?"
+
+@NAR_MW1_A:195 NAR 642fcc24
+"{V1533}{W15}Yes~. {W30}Every {W3}test, {W3}Grandpa {W3}gives{W2} {W3}me{W2} {W5}a{W5} {W5}big{W3} {W8}scolding."
+
+@NAR_MW1_A:196 NAR dd44f4e8
+"{V1534}{W2}Grandpa {W18}kneads{W3} udon{W3} every day, so {F6}his fists are{W3} hard and bony, {W15}{F9}{Sp}and {W5}they {W5}really{W3} {W1}hurt~"
+
+@NAR_MW1_A:197 PLY 59b464a8
+"Hahaha."
+
+@NAR_MW1_A:198 PLY b9c33874
+"You'd better work hard and raise your grades so you don't get punched by your grandpa."
+
+@NAR_MW1_A:200 NAR 74084d92
+"{V1535}{W5}I {W5}hate{W3} {W5}studying{W5}~"
+
+@NAR_MW1_A:201 PLY 0bffc117
+"If you study from now on, your grades will..."
+
+@NAR_MW1_A:202 NAR 753f9ba7
+"{V1536}{W6}...{W8}..."
+
+@NAR_MW1_A:203 NAR ee60d847
+"{V1537}{W8}Senpai, {W8}{W8}{W33}please {W5}don't {W5}talk{W1} {W3}like a{W4} teacher{W15}~"
+
+@NAR_MW1_A:204 PLY 8cb910a6
+"You haven't thought about entrance exams yet, right, Narumi?"
+
+@NAR_MW1_A:205 NAR d8d165bb
+"{V1538}{W5}No. {W42}I'm {W5}only {W3}in Year 1,{W3} {W35}and I don't{W6} want to think about it."
+
+@NAR_MW1_A:206 PLY 32789a0b
+"Did you study for your high school entrance exams?"
+
+@NAR_MW1_A:207 NAR 0fef0e09
+"{V1539}{W8}Ugh... {W5}{W5}{W45}please don't{W3} make me remember that~"
+
+@NAR_MW1_A:208 NAR 128420a9
+"{V1540}{W5}Getting {W6}into Kibina High School{W3} {W3}{W3}was {W15}practically a miracle~"
+
+@NAR_MW1_A:209 PLY 41f7a6de
+"If you study for exams from now, you could get into a good university..."
+
+@NAR_MW1_A:210 NAR 37778822
+"{V1541}......"
+
+@NAR_MW1_A:211 NAR d1aa9dc2
+"{V1542}{W8}I {W4}don't {W4}need {W8}a good university, {W15}so there! {W30}I {W4}hate {W4}studying, {W15}that's {W3}all!"
+
+@NAR_MW1_A:212 PLY 79cda840
+"Are you interested in Italian?"
+
+@NAR_MW1_A:213 NAR 0d94a4fa
+"{V1543}{W5}{W5}{W5}{W3}{W3}{W5}Italian...{W63} huh?"
+
+@NAR_MW1_A:214 NAR 803545e2
+"{V1544}{W5}{W5}{W5}It's different{W54} from English,{W8}{W4} right?"
+
+@NAR_MW1_A:215 PLY b3f381ca
+"Of course it is..."
+
+@NAR_MW1_A:216 NAR fc31b343
+"{V1545}{W8}Ehehe,{W45} it's all Greek to me."
+
+@NAR_MW1_A:217 PLY 48d66478
+"Ciao~~"
+
+@NAR_MW1_A:218 NAR 300b4b76
+"{V1546}{W5}W-{W30}what{W5} is that?{W30} Saying "ciao~"{W8}{W10} out of nowhere...{F4}"
+
+@NAR_MW1_A:219 PLY 4068e907
+"It means hello in Italian."
+
+@NAR_MW1_A:220 NAR 04c90b11
+"{V1547}{W5}{W3}Wow{W5}...{W45} really?{W15} {W5}It's {W1}kind of{W1} cute."
+
+@NAR_MW1_A:221 NAR 44dbe261
+"{V1548}{W5}{W3}Senpai!{W3}{W30} Ci{Fm4}ao~~~{Fm2}!"
+
+@NAR_MW1_A:222 PLY 1f2ae04d
+"Ciao~~~!"
+
+@NAR_MW1_A:223 PLY 3d6ab9fb
+"Narumi, ciao~~!"
+
+@NAR_MW1_A:224 NAR 44a43efa
+"{V1549}{W10}Senpai,{W45} {Ec}ci{Fm4}ao{W3}{W5}{W5}{Fm2}!"
+
+@NAR_MW1_A:225 PLY 826f3f7f
+"Narumi, do you like gym class?"
+
+@NAR_MW1_A:226 NAR 6910baa4
+"{V1550}{W5}Of course!{W30} I like it{W3}{W3}{W3} second only to{W5} cooking class!"
+
+@NAR_MW1_A:227 PLY 096c940c
+"You're so energetic, Narumi. You must be good at gym, right?"
+
+@NAR_MW1_A:228 NAR 8b57f706
+"{V1551}{W5}Ehehe,{W30} {Ec}I'm good at{W3}{W3}{W3} everything{W2} except the{W3} horizontal bar.{Eo}"
+
+@NAR_MW1_A:229 PLY 94d84167
+"Did you have gym today, Narumi?"
+
+@NAR_MW1_A:230 NAR c4c52ffd
+"{V1552}{W5}{W2}Yes!"
+
+@NAR_MW1_A:231 PLY f101444b
+"What did you do?"
+
+@NAR_MW1_A:232 NAR 139c949b
+"{V1553}{W5}Basketball.{Eo}"
+
+@NAR_MW1_A:233 PLY 47c9543b
+"Oh, nice."
+
+@NAR_MW1_A:234 NAR a059df49
+"{V1554}{W5}Basketballs are heavy,{W3} aren't they?{W45} {F9}Just passing{W5} was{W5} hard..."
+
+@NAR_MW1_A:236 NAR ba0001cc
+"{V1555}{W8}But{W13} I did my best."
+
+@NAR_MW1_A:237 NAR 4850d478
+"{V1556}{W5}Yes!"
+
+@NAR_MW1_A:238 NAR ac42c787
+"{V1557}{W8}{W8}We ran{W15} the 50 meters{W3} and{W3} did{W3} the long jump.{W30}"
+
+@NAR_MW1_A:239 PLY 9b3d4bdb
+"Oh, track and field."
+
+@NAR_MW1_A:240 NAR 2c103aa4
+"{V1558}{W10}The teacher{W3}{W3}{W3}{W3}{W2} praised{W2} me{W30} for{W3} my{W3} athletic ability."
+
+@NAR_MW1_A:241 PLY 8eef9d2e
+"I did really well in gym class the other day. Want to hear about it?"
+
+@NAR_MW1_A:243 NAR 4c64095f
+"{V1560}{W5}Huh?{W15} I do!{W8} {F3}I want to hear it!"
+
+@NAR_MW1_A:244 PLY 82514f7b
+"Well, it was just luck, though..."
+
+@NAR_MW1_A:245 NAR 6791c6f3
+"{V1561}{W8}......"
+
+@NAR_MW1_A:246 NAR ecc2e3fa
+"{V1562}{W8}{W15}Amaaa{W5}{W5}{W3}zing!{W27} {W3}That's{W3} Senpai{W3} for you!"
+
+@NAR_MW1_A:248 NAR 908cb53f
+"{V1563}{W5}{W9}I really look up to you..."
+
+@NAR_MW1_A:249 PLY 339ead5b
+"Narumi, do you like swimming?"
+
+@NAR_MW1_A:250 NAR 5ec247ca
+"{V1564}{W10}Of course,{W10} {W2}I love it."
+
+@NAR_MW1_A:251 NAR a403bae2
+"{V1565}{W5}{W3}On hot days especially,{W15} I feel like diving{W3} in{W15} head first{W15} with a{W3} splash.{W6}{W3}"
+
+@NAR_MW1_A:252 PLY 7fd57da8
+"Are you good at swimming, Narumi?"
+
+@NAR_MW1_A:253 NAR 2e7d4911
+"{V1566}{W8}{W5}I'm not good at it,{W30} but {F3}I{W4}{W1} love{W3} swimming."
+
+@NAR_MW1_A:254 NAR b8ec5b8e
+"{V1567}{W8}I'm{W6}{W5} so small that{W13} {Fm4}no matter how hard I try,{W15} {F9}I{W4} barely{W4}{W1} move forward."
+
+@NAR_MW1_A:255 PLY 04733997
+"Hahaha."
+
+@NAR_MW1_A:256 PLY 147fbfd3
+"If you're swimming, then of course..."
+
+@NAR_MW1_A:257 NAR 781617a5
+"{V1568}......"
+
+@NAR_MW1_A:258 NAR add74f45
+"{V1569}{W10}{W1}{W1}{W1}{W1}{W3}You're right~{W5}{W8}!{W18} {W4}Swimming{W4}{W2} for fun{W4}{W6} is the best,{W8} isn't it!"
+
+@NAR_MW1_A:259 PLY 49fa6c05
+"Narumi, what's your favorite sport?"
+
+@NAR_MW1_A:260 NAR a6fbe1e8
+"{V1570}{W8}{W2}{W2}{W2}{W2}My favorite{W30} is table tennis!{W3}{W3}{W30} I'm{W6}{W3} {Ec}really good!"
+
+@NAR_MW1_A:261 NAR 0be405f5
+"{V1571}{W5}{W3}Let's play{W3} together{W15} sometime,{W3}{W3} Senpai!"
+
+@NAR_MW1_A:262 PLY fa1b5eca
+"You're on. I won't lose."
+
+@NAR_MW1_A:263 PLY e87e225e
+"What sport do you often see on TV?"
+
+@NAR_MW1_A:264 NAR 1ed46ae4
+"{V1573}{W8}{W5}{W5}{W1}{W2}{W6}{W15}{W2}{W1}During summer vacation,{W50} {F3}I watched a lot of{W2}{W2} high school{W3} baseball."
+
+@NAR_MW1_A:265 PLY 19a49db2
+"Do you like it?"
+
+@NAR_MW1_A:266 NAR b52b9e2c
+"{V1574}{W5}No,{W30} {F9}{S}the{W4}{W1} TV{W1}{W1}{W1} at{W1} the shop{W1}{W1}{W1}{W1}{W1} is always{W1} on,{W15} so{W1} I{W1} end{W1} up{W1} watching."
+
+@NAR_MW1_A:267 PLY 9d6abc0b
+"Hahaha, I see."
+
+@NAR_MW1_A:268 PLY 70fe4335
+"Talking about sports, of course..."
+
+@NAR_MW1_A:269 NAR aada8092
+"{V1575}{W8}......"
+
+@NAR_MW1_A:270 NAR 09604d6b
+"{V1576}{W5}{W1}{W1}{W1}Yeah,{W1} yeah.{W15} I{W6} think{W3} so too.{W4}"
+
+@NAR_MW1_A:271 NAR 31a377f4
+"{V1577}{W5}{W3}Senpai,{W3}{W45} can you do a backflip?{W5}{W2}{W8}"
+
+@NAR_MW1_A:272 PLY 8d58ff8b
+"What?! No, I can't."
+
+@NAR_MW1_A:273 NAR 0605a70e
+"{V1578}{W5}Oh...{W60} I{W5} thought{W5} so...{W2}{W2}{W1}"
+
+@NAR_MW1_A:274 PLY ea799d84
+"I'm not good at dancing, though..."
+
+@NAR_MW1_A:275 NAR/PLY 0d80b9d5
+"......"
+
+@NAR_MW1_A:276 NAR f3ec8ac2
+"{V1579}{W8}{W2}Really...{W60} {W5}If only{W5} you could do a backflip,{W8} Senpai..."
+
+@NAR_MW1_A:277 PLY b564f366
+"Narumi, what kind of music do you usually listen to?"
+
+@NAR_MW1_A:279 NAR ab449e3e
+"{V1580}{W10}{W2}{W2}{W2}{W2}{W2}Anime{W2} songs{W2}{W3} and{W30} {F3}idol{W3} CDs.{W3}"
+
+@NAR_MW1_A:280 NAR 6f040804
+"{V1581}...{W3}Is{W3} that childish?"
+
+@NAR_MW1_A:281 PLY dc751dd1
+"No, not at all."
+
+@NAR_MW1_A:282 NAR 212280d9
+"{V1418}Good."
+
+@NAR_MW1_A:283 PLY f90d404d
+"What CD did you buy recently?"
+
+@NAR_MW1_A:284 NAR a4388142
+"{V1583}{W8}{W3}{W3}{W3}{W3}Do you know{W8} the{W3} five-member{W30} idol{W5} group{W3}{W3} Hurricane?{W1}{W1}{W1}{W1}{W1}{W5}{W1}{W1}"
+
+@NAR_MW1_A:285 PLY fffa46bc
+"Oh yeah, they're popular with girls lately."
+
+@NAR_MW1_A:286 NAR 6f410411
+"{V1584}{W8}{W8}{W5}They're all so cool,{W2}{W2}{W3}{W15} {W6}the best!{W8}{W1}{W1} {W45}I couldn't help buying{W5} their debut CD!{W4}{W3}"
+
+@NAR_MW1_A:287 PLY 1abf94af
+"Oh, is that so..."
+
+@NAR_MW1_A:288 NAR fe4145bb
+"{V1585}{W5}Oh,{W8} don't worry.{W5}{W5}{W1}{W1}{W1}{W1}{W1} {W30}{Ec}You're{W4}{W4} even{W24} cooler,{W2}{W1}{W2}{W1} Senpai."
+
+@NAR_MW1_A:289 PLY a6090ac4
+"No, I'm not..."
+
+@NAR_MW1_A:290 PLY 8ff8e458
+"The song playing at the convenience store the other day was so cool."
+
+@NAR_MW1_A:291 NAR 87a99e1b
+"{V1586}{W10}{W1}{W1}Really?{W15} {F3}What kind of song{W5} is it?{W1}"
+
+@NAR_MW1_A:292 PLY 8e73da8e
+"Upbeat, and the chorus goes, 'At the end of the world~! Let's shout our love~!' or whatever..."
+
+@NAR_MW1_A:293 NAR dc94af3d
+"{V1587}{W5}Oh,{W30} I know{W5} that song!{W30} {Ec}It's so{W3}{W1}{W1}{W1} cool, isn't it~"
+
+@NAR_MW1_A:294 NAR 734ac08f
+"{V1588}{W5}{W3}Senpai,{W3} you and I{W6} have{W30} the same{W3}{W3} taste in music.{W3}{W4}{W3}"
+
+@NAR_MW1_A:295 PLY 2f0da54b
+"Idol songs are probably..."
+
+@NAR_MW1_A:296 NAR 948c600a
+"{V1589}......"
+
+@NAR_MW1_A:297 NAR f03ad3cc
+"{V1590}{W5}Yes, yes! Exactly!{W1}{W1}{W1}"
+
+@NAR_MW1_A:298 NAR 0a22ed78
+"{V1591}{W8}Ehehe,{W1}{W1}{W1}{W15} {Nm},{W3} I'm{W3} so{W3} glad you understand idols{W4}{W1}{W1}~"
+
+@NAR_MW1_A:299 PLY 40508f6e
+"Narumi, what TV shows do you watch?"
+
+@NAR_MW1_A:300 NAR a1639ba6
+"{V1592}{W5}{W1}{W5}{W2}{W2}{W2}{W1}What I watch most{W40} {F3}is{W3} late-night anime."
+
+@NAR_MW1_A:301 PLY 4ab5328a
+"Huh? You watch late-night anime?"
+
+@NAR_MW1_A:302 NAR 19754e47
+"{V1593}{W8}Yes!"
+
+@NAR_MW1_A:305 NAR 34efcaf7
+"{V1594}{W8}{W1}{W5}{W1}{W1}{W5}{W1}{W1}{W1}{W5}{W5}{W15}The new shows that started in{W5} September{W4}{W1}{W1}{W1}{W1}{W3} are a pretty good lineup,{W4} and really fun."
+
+@NAR_MW1_A:306 PLY 19e2c059
+"Did you see any movies over summer vacation?"
+
+@NAR_MW1_A:307 NAR 6f0408a4
+"{V1595}{W5}{W3}{W3}{W3}{W3}{W3}I saw{W3} a CG anime{W21}{W2}{W3} about a tropical fish."
+
+@NAR_MW1_A:308 PLY a8f62a61
+"Oh, that one."
+
+@NAR_MW1_A:309 NAR 9bbd1250
+"{V1596}{W8}{W6}{W6}CG these days{W4}{W4}{W45} {W4}{W4}is so expressive,{W4}{W2}{W1}{W1}{W1} isn't it~{Ec}"
+
+@NAR_MW1_A:310 PLY 374d2079
+"Who controls the TV remote at your house, Narumi?"
+
+@NAR_MW1_A:311 NAR 73aef033
+"{V1597}{W8}{W2}{W2}At our place,{W30} it's Grandpa.{W1}{W2}{W1}"
+
+@NAR_MW1_A:313 NAR 21e684ba
+"{V1598}{W10}{W3}{W3}We watch period dramas{W3}{W3} together,{W15} {F2}{Ec}and{W3} cop shows{W1}{W1}{W1}{W1}{W1} too."
+
+@NAR_MW1_A:314 PLY 08be4bce
+"I saw this on TV yesterday..."
+
+@NAR_MW1_A:315 NAR 2bed233e
+"{V1599}......"
+
+@NAR_MW1_A:316 NAR 1528e428
+"{V1600}{W10}Oh{W5} really{W3}?{W1}{W1}{W1}{W1}{W1}{W30} {F3}That's{W1} really{W3} quite{W1} surprising{W2}{W1}{W2}{W2}~"
+
+@NAR_MW1_A:317 PLY 071d7f33
+"Narumi, do you read books or anything?"
+
+@NAR_MW1_A:318 NAR 5df4777b
+"{V1601}{W8}{W1}{W1}{W1}Ehehe,{W39} {W6}{W5}{W5}{W3}{W1}girls' manga, mostly..."
+
+@NAR_MW1_A:319 PLY bd7125c5
+"Hahaha, I see. I read a lot of boys' manga myself."
+
+@NAR_MW1_A:320 PLY 2b76b8a8
+"What do you read most, Narumi?"
+
+@NAR_MW1_A:321 NAR f4709080
+"{V1603}{W5}{W3}Let's{W5} see...{W60} {W3}cookbooks,{W30} {F3}I{W3} have tons."
+
+@NAR_MW1_A:322 NAR df0339ae
+"{V1604}{W5}{W3}{W1}{W1}{W3}{W1}I make all{W30} the meals{W6} at{W3} home{W3}{W1}{W1}{W1}{W1}{W1}.{W60} {F9}Grandpa's busy at the shop,{W2}{W4} you see."
+
+@NAR_MW1_A:323 PLY f51b2c6a
+"I see... You're amazing, Narumi..."
+
+@NAR_MW1_A:325 NAR 2e3c6ba1
+"{V1605}{W5}No,{W27} not really.{W18} {F2}Cooking{W3}{W4}{W1}{W1} is fun, you know."
+
+@NAR_MW1_A:326 PLY 88a99065
+"The freebies with girls' manga magazines are pretty lavish, aren't they?"
+
+@NAR_MW1_A:327 NAR 2a8dca50
+"{V1606}{W8}{W3}{W3}{W3}{W3}{W3}{W3}They are~.{W20} {W3}{W1}You just have to{W5} buy them,{W4} you know..."
+
+@NAR_MW1_A:328 NAR 99defdb1
+"{V1607}{W5}{W3}{W3}{W3}{W3}And I always{W3}{W15} send in{W8} the postcard{W4}{W2}{W2}{W1}{W1} for{W3} the present every buyer gets!"
+
+@NAR_MW1_A:329 PLY fa4e9627
+"What's fun about girls' manga?"
+
+@NAR_MW1_A:330 NAR c9ee9575
+"{V1608}{W8}Well, of course,{W30} it's that{W1}{W1}{W1}{W1} all the boys{W8} in them{W30} are{W5}{W15} so cool{W1}{W1}!"
+
+@NAR_MW1_A:331 PLY 41ab9549
+"I read this manga the other day..."
+
+@NAR_MW1_A:332 NAR 50a592fc
+"{V1610}{W5}......"
+
+@NAR_MW1_A:333 NAR 6156ebcb
+"{V1611}{W10}{W45}{W5}Wow{W15}{W5}!{W42} That's{W33} a true{W9} battle{W15} between{W9} real{W3} men{W9}{W2}{W2}{W2}!"
+
+@NAR_MW1_A:334 NAR 2aae5624
+"{V1612}{W8}{W5}{W5}{W5}Boys' manga is so cool, isn't it~!{W30} {F7}Maybe I should read more~{F2}"
+
+@NAR_MW1_A:335 PLY c8d9d9d1
+"Where do you usually shop, Narumi?"
+
+@NAR_MW1_A:336 NAR de6ca093
+"{V1613}{W8}{W3}{W9}{W1}{W1}Shops?{W60} {F7}Let's{W5} see...{W10}{W5}"
+
+@NAR_MW1_A:337 NAR 81a5afac
+"{V1614}{W8}{W5}{W5}The supermarket in front of the station.{W45} The butcher{W3}{W3} inside{W3} is cheap{W15} and fresh,{W3}{W3}{W3} and{W15} {Fe2}{Ec}really{W8}{W1}{W1}{W1}{W1} good."
+
+@NAR_MW1_A:338 PLY 02069585
+"If you had 10,000 yen, what would you buy?"
+
+@NAR_MW1_A:339 NAR 31bab650
+"{V1616}Huh?{W45} {W3}{W3}{W3}10,000{W66} yen?!{F7} {W5}{W5}{W3}{W1}Let's see..."
+
+@NAR_MW1_A:340 NAR fb8c47a1
+"{V1617}{W8}Buy{W1} all{W1} my{W1} missing{W1} shoujo{W6} manga{W6}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W6}?{W15} {F6}Nope,{W15} I'd{W3} buy{W5} all{W5} the{W1} dango{W1} at{W1} the{W6} shopping{W6} street{W1} sweet{W1} shop{W1}{W1}{W1}{W1}{W1}{W1}{W6}{W6}...{W1}"
+
+@NAR_MW1_A:341 NAR f31de8c9
+"{V1618}{W15}{W5}{W3}Don't be silly,{W13} {W2}{W2}{W4}Narumi...{W18} {Ec}you could never eat{W1}{W1}{W1}{W1} that much{W5}{W6}{W1}{W2}{W3}...{W36} {Eo}{F7}So{W1}{W1} then,{W12} {W1}{W1}{W1}{W1}{W1}what should I do..."
+
+@NAR_MW1_A:342 PLY bb3eea79
+"Narumi, you don't have to worry that much..."
+
+@NAR_MW1_A:343 NAR c2e58476
+"{V1619}{W8}{W5}{W15}{W30}Waaah,{W15} Senpai!{W9}{W15} {W15}I can't{W1}{W1} decide{W3}{W1}{W3}~!"
+
+@NAR_MW1_A:344 PLY 1da53576
+"Why not buy half of each?"
+
+@NAR_MW1_A:345 NAR 1b295d8b
+"{V1620}{W8}Oh!{W30} {W9}{W3}{W3}That's{W3} Senpai for you!{W8} {W23}{Ec}You're so smart{W18}~!"
+
+@NAR_MW1_A:346 PLY 2d19d359
+(Hm? Though 5,000 yen of dango is still too much...)
+
+@NAR_MW1_A:347 PLY 1f7ef844
+"I went shopping at the stationery store the other day..."
+
+@NAR_MW1_A:348 NAR c1960aa0
+"{V1621}Yes?"
+
+@NAR_MW1_A:349 PLY 22668353
+"The new cutter I bought cuts well! Cutter!"
+
+@NAR_MW1_A:350 NAR c47f5518
+"{V1622}{E}......{W15}{E}"
+
+@NAR_MW1_A:351 PLY 1363c529
+"Just kidding."
+
+@NAR_MW1_A:352 NAR e105efb7
+"{V1623}{W5}Hehe...{W45} {W3}Senpai,{W3}{W15} you're{W5} funny~!"
+
+@NAR_MW1_A:353 PLY a738cf03
+"R-really? Great, that got a laugh."
+
+@NAR_MW1_A:354 PLY 0cd32a26
+"Something I bought the other day was really good for how cheap it was..."
+
+@NAR_MW1_A:355 NAR 8324812f
+"{V1624}......"
+
+@NAR_MW1_A:356 NAR 0e6c2561
+"{V1625}{W5}{W5}Oh{W15}wow,{W30} is that so~.{W45} {F2}As expected of you,{W3}{W3} Senpai,{W15} you're{W3} good at{W5} shopping."
+
+@NAR_MW1_A:357 PLY 702e90fb
+"Narumi, what kind of clothes do you usually wear?"
+
+@NAR_MW1_A:358 NAR 6bcf1abf
+"{V1626}{W10}{W5}Clothes?{W39} Me...{W6}"
+
+@NAR_MW1_A:359 NAR cba4450f
+"{V1627}{W10}{W5}{W1}{W1}{W3}{W1}This time of year,{W30} T-shirts{W4} or{W12} sleeveless tops."
+
+@NAR_MW1_A:360 NAR 4eb78f51
+"{V1628}{W5}{W3}They're easy to move in,{W3} {W3}and cool."
+
+@NAR_MW1_A:361 PLY 6b477fa3
+"Do you care about what you wear?"
+
+@NAR_MW1_A:362 NAR 39b223db
+"{V1629}{W5}{W6}I don't{W5} care{W4}{W4} at all."
+
+@NAR_MW1_A:363 NAR aaf43198
+"{V1630}{W5}Oh,{W15} but{W5} if I'm going to wear{W1} something,{W15} cute{W1} is{W1} better{W3},{W1} don't{W1} you{W1} think{W1}~{W1}"
+
+@NAR_MW1_A:364 PLY 339baba1
+"You know how you can have a closet full of clothes and still always pick the same thing?"
+
+@NAR_MW1_A:366 NAR 30e4af89
+"{V1632}{W5}Oh,{W18} I do!{W1} I do!"
+
+@NAR_MW1_A:367 NAR bd233cd5
+"{V1633}{W10}Even{W1} if{W1} I{W1} agonize{W1} over{W1} what{W1} to{W1} wear{W5}{W1}{W1},{W30} {F9}in{W3} the{W3} end,{W30} I{W1} always{W1} grab{W1}{W1} my{W1} favorite{W3} one{W1}{W1}~"
+
+@NAR_MW1_A:368 PLY f31355c2
+"They said on TV the other day that this year's fashion is..."
+
+@NAR_MW1_A:369 NAR 65608495
+"{V1634}......"
+
+@NAR_MW1_A:370 NAR 73a7acc6
+"{V1635}{W5}Wow,{W18} really?{W12} {F2}I didn't know~!"
+
+@NAR_MW1_A:371 PLY b0adb0a2
+"Narumi, what kind of accessories do you like?"
+
+@NAR_MW1_A:372 NAR ccc15396
+"{V1636}{W8}I like{W2} anything{W5} cute!{W27}{Eo}"
+
+@NAR_MW1_A:374 NAR b49090c4
+"{V1637}{W8}But{W30} I won't buy{W3} anything too pricey,{W14} because I'd be so bummed{W14} if I lost it.{F3}"
+
+@NAR_MW1_A:375 PLY 6efc6c00
+"About how much is okay?"
+
+@NAR_MW1_A:376 NAR 98cca85c
+"{V1638}...{W8}Around{W5} 500{W1} yen.{W6}{W1}"
+
+@NAR_MW1_A:377 PLY 8f5d08bb
+"I don't really know much about accessories..."
+
+@NAR_MW1_A:378 NAR 1248bcda
+"{V1639}......"
+
+@NAR_MW1_A:379 NAR 8d491740
+"{V1640}{W5}Hehe,{W30} right.{W24} Guys{W8} just{W5} wouldn't{W15} {F9}get{W1} it,{W1} would{W1} they{W1}~"
+
+@NAR_MW1_A:380 PLY 68a11f71
+"You don't wear makeup, do you, Narumi?"
+
+@NAR_MW1_A:381 NAR 018a2e26
+"{V1641}{W5}Nope."
+
+@NAR_MW1_A:382 PLY 6f93a72c
+"Aren't you interested?"
+
+@NAR_MW1_A:384 NAR 1cdccbf2
+"{V1642}{W8}Well,{W33} I{W1} am{W1} interested,{W30} {F6}but Grandpa{W3} says{W3} I'm{W3} too{W5} young{W2} for it."
+
+@NAR_MW1_A:386 NAR 2142afc1
+"{V1643}{W8}Geez,{W33} I'm{W5} already in{W3} Year 1 of high school,{W27} but he still{W3} treats{W3} me like a kid.{W24} It's no{W3} fun.{W3}{Ec}"
+
+@NAR_MW1_A:387 PLY 232d4c46
+"Narumi, what about makeup..."
+
+@NAR_MW1_A:388 NAR d310b714
+"{V1644}{W5}...{W3}..."
+
+@NAR_MW1_A:389 PLY 098cc7eb
+"Ah... your grandpa won't allow it, right?"
+
+@NAR_MW1_A:390 NAR 4fa9fb50
+"{V1645}{W15}Th{W2}at's{W1} right...{W1}{W1}"
+
+@NAR_MW1_A:391 PLY cbefe5e8
+"What kind of swimsuit do you have, Narumi?"
+
+@NAR_MW1_A:392 NAR 9a32db31
+"{V1646}Huh?!"
+
+@NAR_MW1_A:393 NAR d3b5afd1
+"{V1647}{W5}Se{W6}npai,{W6} {W45}why{W2} would{W2} you{W1} suddenly ask that..."
+
+@NAR_MW1_A:394 PLY 02c8e1ea
+"No... just wondering..."
+
+@NAR_MW1_A:395 NAR 8844df16
+"{V1648}{W8}Th{W2}at's{W1}...{W2} {W30}a{W1} secret."
+
+@NAR_MW1_A:396 PLY 1d0e9555
+(Narumi in a school swimsuit...)
+
+@NAR_MW1_A:397 NAR bc15876e
+"{V1649}{W5}S-{W60}Senpai,{W30} what's{W3} wrong?{W8} You're{W3} staring.{W3}"
+
+@NAR_MW1_A:398 PLY 4d0c024c
+"Ah, s-sorry. I just got curious about swimsuits."
+
+@NAR_MW1_A:399 NAR 7f0f2d8a
+"{V1650}{W5}Huh...?"
+
+@NAR_MW1_A:400 NAR 54cf99c0
+"{V1651}{W5}S-{W45}Senpai,{W3} you{W3} perv!{W1}{W3}{W3}"
+
+@NAR_MW1_A:401 PLY 3d5664bf
+"What's the popular swimsuit this year..."
+
+@NAR_MW1_A:402 NAR 819ca925
+"{V1652}......"
+
+@NAR_MW1_A:403 NAR f96e1bc4
+"{V1653}{Nm}{W5},{W3} {W30}{Fe9}why{W3} do you know{W1} so{W3} much{W21} {F9}about{W5} swimsuits?"
+
+@NAR_MW1_A:404 PLY 84fe1b6c
+"Well... it was on TV..."
+
+@NAR_MW1_A:406 NAR 2c5ffe92
+"{V1654}{W15}Rea{W1}lly~~~?{W1}"
+
+@NAR_MW1_A:407 PLY d86e1ef6
+"Your family runs an udon shop, so do you like Japanese food best?"
+
+@NAR_MW1_A:408 NAR f9cbea36
+"{V1655}{W8}Of course!"
+
+@NAR_MW1_A:409 NAR 1d245fef
+"{V1656}{W5}But{W30} I love{W3} Western{W3} food{W3} and Chinese{W5} food too.{W15}{Eo}"
+
+@NAR_MW1_A:410 PLY 8677d8d7
+"What's your favorite Japanese dish?"
+
+@NAR_MW1_A:412 NAR c31a90bd
+"{V1657}{W15}Japanese...{W45} grilled{W2} fish{W9} and{W60} tofu{W2} miso{W2} soup,{W5} {W30}{F2}that{W2} kind{W2} of{W2} comforting{W2} flavor.{W15}{W9}{W3}{W3}{W4}{W4}{W1}{W1}{W1}{W1}"
+
+@NAR_MW1_A:413 PLY 66abddb3
+"What was last night's dinner?"
+
+@NAR_MW1_A:414 NAR 9881fe62
+"{V1658}{W5}Hamburger{W1} steak!{Ec}"
+
+@NAR_MW1_A:415 PLY f928ad3c
+"Oh, so your grandpa eats hamburger steak too."
+
+@NAR_MW1_A:416 NAR 36bb9f80
+"{V1659}{W15}Not{W3} really,{W38} he{W2} doesn't{W1} eat{W1} it much."
+
+@NAR_MW1_A:418 NAR b48d0779
+"{V1660}{W8}But{W30} if I{W1} make{W4} it{W4} Japanese-style{W4} with{W1} grated{W1} radish{W3} and{W1} soy{W1} sauce,{W27} {W15}{F2}he eats it."
+
+@NAR_MW1_A:419 PLY c3eaec74
+"I ate it last night, actually..."
+
+@NAR_MW1_A:420 NAR b552aba7
+"{V1661}{W5}Mm-hmm...{W1}{W1}{W1}"
+
+@NAR_MW1_A:421 NAR 96ea8d95
+"{V1662}{W8}You're{W4} lucky,{W3} Nana.{W33} Dinner{W4} together{W3} with{W3} Senpai...{W5}"
+
+@NAR_MW1_A:422 PLY 9be29030
+"What's your favorite cake, Narumi?"
+
+@NAR_MW1_A:423 NAR 6abad9b1
+"{V1663}{W10}My{W1} favorite{W1} is...{W33} strawberry{W1} shortcake."
+
+@NAR_MW1_A:425 NAR f7bd70b3
+"{V1664}{W8}Is{W3} that childish?"
+
+@NAR_MW1_A:426 PLY 5d1f567c
+"Not at all."
+
+@NAR_MW1_A:427 PLY 43c814a9
+"Do you like Japanese sweets or Western sweets more, Narumi?"
+
+@NAR_MW1_A:428 NAR 9fa36469
+"{V1666}{W8}If{W2} I{W2} had{W2} to{W2} choose,{W36} Japanese{W2} sweets.{F3}{W4}{W4}"
+
+@NAR_MW1_A:430 NAR dc3d2abf
+"{V1667}{W5}I'm{W9} a{W15} Grandpa's girl,{W1} after all."
+
+@NAR_MW1_A:431 PLY da16fc42
+"Shaved ice is a must in summer, right?"
+
+@NAR_MW1_A:432 NAR abdbd182
+"{V1668}{W8}Ooh,{W24}{Ec} that{W2} sounds{W2} great~!{W3}{W3}"
+
+@NAR_MW1_A:433 NAR 6b79e01f
+"{V1669}{W8}The{W5} old{W5} man{W5} at{W5} the{W8} sweets{W1} shop{W1} on{W1} the{W1} shopping{W1} street{W15} and{W1} my grandpa are{W4} really{W4} good friends..."
+
+@NAR_MW1_A:434 NAR 9f80e75c
+"{V1670}{W8}He{W1} often{W1} treats{W1} us{W3} to{W3} Uji{W3} kintoki."
+
+@NAR_MW1_A:435 NAR 075f3f6d
+"{V1671}{W9}His{W3} homemade red bean paste{W3} and{W3} rice{W3} dumplings{W24} are so delicious!{Ec}"
+
+@NAR_MW1_A:436 PLY d17b28ad
+"Girls like sweets, huh~"
+
+@NAR_MW1_A:437 NAR 9abb2cad
+"{V1672}{W5}Yes!{W8}{Ec} I{W3} love them!"
+
+@NAR_MW1_A:438 PLY 903eb133
+"Speaking of sweets..."
+
+@NAR_MW1_A:439 NAR 98991fc8
+"{V1673}......"
+
+@NAR_MW1_A:440 NAR e0fc9c46
+"{V1674}{W8}Wow,{W45} Senpai,{W8} you{W1} know{W1} everything!{Ec}{W1}{W1}{W4}{W3}{W3}{W3}"
+
+@NAR_MW1_A:441 PLY 55c5752c
+"Is there a drink that goes well with udon?"
+
+@NAR_MW1_A:442 NAR 3df839c3
+"{V1675}{W8}With{W2} udon{W30}...?{W2}{W2}"
+
+@NAR_MW1_A:443 NAR a41bf527
+"{V1676}{W5}Hmm{W30}...{W15} with{W5} hot{W2} udon,{W48} roasted{W12} green{W2} tea,{W1} maybe...{F1}{W1}{W1}{W1}"
+
+@NAR_MW1_A:444 NAR 7c058755
+"{V1677}{W5}With{W4} cold udon,{W15} barley{W4} tea{W4} is nice{W3} too, perfect for{W1} summer."
+
+@NAR_MW1_A:445 PLY 27059196
+"...When it's this hot, I drink too much water."
+
+@NAR_MW1_A:447 NAR e8d8a05c
+"{V1678}{W8}Senpai,{W24} be{W5} careful.{W30} Drinking{W5} too{W4} many{W1} cold{W5} things{W15} isn't{W1} good{W1} for{W1} your{W1} body.{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W11}"
+
+@NAR_MW1_A:448 PLY 9f8eac99
+"You're right. Thanks for worrying about me."
+
+@NAR_MW1_A:449 PLY 0ac989f5
+"There was this drink everyone was talking about the other day, and I tried it..."
+
+@NAR_MW1_A:450 NAR 4a0b6358
+"{V1680}......"
+
+@NAR_MW1_A:451 NAR 5d0cda79
+"{V1681}{W8}Really?{W30} {W30}I'll{W5} try{W5} it{W9} too.{W3}"
+
+@NAR_MW1_A:452 PLY 61934a08
+"You're good at cooking, Narumi."
+
+@NAR_MW1_A:453 NAR 8762d46b
+"{V1682}{W8}No,{W30} I'm{W9} not{W3} there{W3} yet.{W15}"
+
+@NAR_MW1_A:454 NAR 407dee6c
+"{V1683}{W8}Whether{W3} I{W3} make{W3} udon{W30} or{W3} dinner,{W30} Grandpa{W3} never{W3} says{W4} it's delicious..."
+
+@NAR_MW1_A:455 PLY 521ee991
+"I see... He's a strict grandpa..."
+
+@NAR_MW1_A:456 NAR 84bbc459
+"{V1684}{W8}No.{W30} I{W6} just have to try harder and harder,{W15} and{W8} {Fe2}{Ec}make{W4} food{W3} he can honestly{W4} call delicious!"
+
+@NAR_MW1_A:457 PLY 93d9bf69
+"You like cooking, don't you, Narumi?"
+
+@NAR_MW1_A:458 NAR bf9b8781
+"{V1686}{W5}Yes!{W5} Of course!{Ec}"
+
+@NAR_MW1_A:459 PLY 43932828
+"What's your best dish, Narumi?"
+
+@NAR_MW1_A:460 NAR 0459b801
+"{V1689}{W5}Udon,{W5} of course!{W15}"
+
+@NAR_MW1_A:461 PLY 145e18d3
+"Besides udon?"
+
+@NAR_MW1_A:462 NAR 64cc2b8e
+"{V1690}{W5}Besides udon...{W3}{W45} let's see..."
+
+@NAR_MW1_A:463 NAR 17c08cac
+"{V1691}{W5}Oh!{W30} I'm{W1} good{W1} at{W4} sukiyaki!"
+
+@NAR_MW1_A:464 PLY bbfc1bcf
+"Sukiyaki? That's an expensive dish..."
+
+@NAR_MW1_A:466 NAR f343a2bc
+"{V1692}{W5}You{W3} pour plenty{W3} of{W3} sugar{W3} and{W3} soy sauce{W15} over{W1} the{W1} beef{W1} and{W1} simmer{W15} it...{W60}{F9} Mmm,{W5} now I want some."
+
+@NAR_MW1_A:467 NAR b12f08a3
+"{V1693}{W8}Just{W4} imagining{W4} it makes my cheeks want to fall off~"
+
+@NAR_MW1_A:468 PLY 5f5794da
+"Do you make dinner at your house, Narumi?"
+
+@NAR_MW1_A:469 NAR 02b1790c
+"{V1694}{W3}Yes! I do!"
+
+@NAR_MW1_A:470 NAR 3ba49c5b
+"{V1695}{W8}Grandpa{W4} is{W1} busy{W12} with{W8} the{W1} shop."
+
+@NAR_MW1_A:471 PLY b9451a10
+"I see. You're amazing, Narumi."
+
+@NAR_MW1_A:473 NAR 997839f5
+"{V1885}{W8}Not{W1} really~{W1}{W1}{W1}"
+
+@NAR_MW1_A:474 PLY 4d42be44
+"When did you first cook something?"
+
+@NAR_MW1_A:476 NAR 5c8471ac
+"{V1697}{W8}According to{W7} Grandpa,{W30} {F3}when{W9} I was{W5} four{W5} I{W4} stepped on udon{W29} for{W2} the first time."
+
+@NAR_MW1_A:477 PLY 6376e477
+"Stepped on udon?"
+
+@NAR_MW1_A:478 NAR 9a884583
+"{V1698}{W5}Oh,{W15} to make{W3} Sanuki{W1} udon{W1} chewy,{W1}{W1}{W26} you{W3} {F3}knead it,{W10} cover it with vinyl,{W20} {F2}and stomp{W3} on it."
+
+@NAR_MW1_A:479 NAR 14c06190
+"{V1699}{W5}I{W9} don't{W1} really{W1} remember,{P1} {F9}{W33}but{W1} I{W1} think{W1} I{W1} just{W24} wanted{W1} to{W1} play{W1} with{W1} Grandpa.{W1}{W4}{W3}{W3}{W2}"
+
+@NAR_MW1_A:480 PLY 60bf3843
+"A girl who likes cooking is..."
+
+@NAR_MW1_A:481 NAR 208b7934
+"{V1700}......"
+
+@NAR_MW1_A:482 NAR 3d99eb05
+"{V1701}{W10}Senpai,{W5} {W42}you{W5} shouldn't...{W30} that's{W2} too much praise."
+
+@NAR_MW1_A:483 PLY 3c510e91
+"How often a week do you eat udon, Narumi?"
+
+@NAR_MW1_A:484 NAR e7245be1
+"{V1702}{W5}Huh,{W45} {F9}I{W5} can't{W3} even{W3} count.{W30}"
+
+@NAR_MW1_A:485 PLY 738e133c
+"That much?"
+
+@NAR_MW1_A:487 NAR 85a1fee0
+"{V1703}{W5}Well,{W30} at{W3} home,{W5} of course,{W15} {F9}and I eat{W3} it{W3} at{W3} the Udon Club too."
+
+@NAR_MW1_A:488 PLY 2909a543
+"You really love udon."
+
+@NAR_MW1_A:489 NAR 0b077dff
+"{V1704}{W5}Yes!{Ec}"
+
+@NAR_MW1_A:490 PLY cc251265
+"Udon is delicious, isn't it?"
+
+@NAR_MW1_A:491 NAR 24524df3
+"{V1705}{W3}Yes!"
+
+@NAR_MW1_A:493 NAR b667f589
+"{V1706}{W5}I'm{W4} so{W1} glad{W4} Senpai{W3} likes{W5} udon~{W1}"
+
+@NAR_MW1_A:494 PLY fbcab9b7
+"Do you eat udon for dinner at your house, too?"
+
+@NAR_MW1_A:495 NAR 41d49276
+"{V1707}{W5}No.{W45} We don't{W5} eat it much{W5} {F3}at night."
+
+@NAR_MW1_A:496 NAR 0e7cd131
+"{V1708}{W5}But{W30} we eat it{W3} a{W5} lot in the{W1} morning."
+
+@NAR_MW1_A:497 PLY f33bdfeb
+"What? Udon for breakfast?!"
+
+@NAR_MW1_A:498 NAR 5fabea07
+"{V1709}{W5}Yes!"
+
+@NAR_MW1_A:499 NAR 17c51eea
+"{V1710}{W5}It's{W5} called{W3} kamatama{W3}{W5}:{W30} {F7}fresh{W1} udon{W1} straight{W1} from{W1} the{W1} pot{W1}{W1}{W1}{W15} into{W5} a{W1}{W1} bowl{W4}{W4}{W1}{W1}{W21} {F2}mixed{W6} with{W2} egg{W3} and{W3} soy{W1} sauce{W3}{W1}{W1}."
+
+@NAR_MW1_A:500 PLY d7d652a2
+"Wow, that sounds good."
+
+@NAR_MW1_A:501 NAR 8d7e29c0
+"{V1711}{W5}Yes!{W27} It's{W15} super{W4} delicious~{W2}"
+
+@NAR_MW1_A:502 NAR 37b47481
+"{V1712}{W8}For{W5} mornings,{W6} nothing{W6} beats{W2} it!{W2}{W2}"
+
+@NAR_MW1_A:503 PLY 607f9559
+"Narumi and udon are..."
+
+@NAR_MW1_A:504 NAR 6435a694
+"{V1713}{W5}......"
+
+@NAR_MW1_A:505 NAR e40f79fd
+"{V1714}{W5}Ehehe,{W30} maybe{W1} so~{W1}"
+
+@NAR_MW1_A:506 PLY 1d7dbb6c
+"There's a new snack that came out the other day..."
+
+@NAR_MW1_A:507 NAR 1ff5ef90
+"{V1715}{W5}......"
+
+@NAR_MW1_A:508 NAR b90a47b9
+"{V1716}{W8}Senpai,{W45} if{W6} you{W6} eat only that stuff,{W30} {F9}you{W4} won't{W4} be able to eat dinner."
+
+@NAR_MW1_A:509 PLY a9bebc32
+"You're right..."
+
+@NAR_MW1_A:510 PLY 02f3c3f1
+"You're always cheerful and look so healthy, Narumi."
+
+@NAR_MW1_A:511 NAR 565dde55
+"{V1717}{W8}R-{W45}really?{W30} Thank you."
+
+@NAR_MW1_A:512 PLY 5b3499a5
+"You're always so full of energy, Narumi."
+
+@NAR_MW1_A:513 PLY 20613579
+"Narumi, are you feeling sick or something?"
+
+@NAR_MW1_A:514 NAR 18b97c32
+"{V1719}{W5}No,{W15} not at all.{W45} {F9}Why do you ask?"
+
+@NAR_MW1_A:515 PLY d3e500a2
+"Because you're in the Infirmary..."
+
+@NAR_MW1_A:517 NAR 72fe6a72
+"{V1720}{W5}Oh,{W36} {F3}the{W3} girls' restroom{W4} was crowded,{W30} so I just came to{W9} look in the mirror here."
+
+@NAR_MW1_A:518 NAR 822642a4
+"{V1721}{W8}Sorry{W5} for{W5} worrying{W1} you.{W30} I{W1} was{W1} bothered{W1} by{W1} my{W1} bedhead{W6} in{W6} the{W15} back..."
+
+@NAR_MW1_A:519 PLY 15a1d49d
+"Brushing your teeth at school is a good habit."
+
+@NAR_MW1_A:520 NAR 9d44fe06
+"{V1722}{W5}Right{W3}~?{W3}{W3}"
+
+@NAR_MW1_A:521 NAR 9cb60659
+"{V1723}{W5}Let's{W5} brush{W5} together,{W5} Senpai~{W3}{W3}"
+
+@NAR_MW1_A:522 NAR c606dd84
+"{V1724}{W5}Brushing{W5} our{W5} teeth{W2} side{W2} by{W2} side...{W40} {Fe2}{Ec}Eeek!{W5} Like{W5} newlyweds!{W2}{W6}{W3}{W3}{W3}{W3}"
+
+@NAR_MW1_A:523 PLY 926d7c91
+"Hahaha... Narumi..."
+
+@NAR_MW1_A:524 PLY 36415461
+"*cough* *cough*!"
+
+@NAR_MW1_A:525 NAR 8d0d6282
+"{Nm}{V1725}{W3},{W5} {W5}{W30}are{W3} you{W3} okay?"
+
+@NAR_MW1_A:526 PLY d446fd41
+"Yeah. It's nothing serious, but Nana was coughing yesterday..."
+
+@NAR_MW1_A:527 NAR 167347df
+"{V1726}{W8}Then{W30} maybe{W5} you{W1} caught{W1} it{W1} from{W1} her..."
+
+@NAR_MW1_A:528 NAR e5e71b64
+"{V1727}{W5}Maybe{W2} you{W2} shouldn't{W30} push{W2} yourself{W1} today.{W48} Why{W1} not{W1} ask{W1} to{W2} leave{W2} early{W2} or{W2} something...{W1}{W1}{W4}{W6}{W6}"
+
+@NAR_MW1_A:529 PLY 4cdc542d
+"No, I don't have a fever, so I'm fine."
+
+@NAR_MW1_A:531 NAR 7f0e297a
+"{V1728}{W12}If you{W2} say{W2} so..."
+
+@NAR_MW1_A:532 NAR 70712fe4
+"{V1729}{W5}Senpai! {W30}If you want, {W15}pass it{W8} on to{W3} me!{W30} {F2}They say it gets{W4} better{W4} if you{W4} give it{W3} to someone..."
+
+@NAR_MW1_A:533 PLY 0c6e196b
+"Hahaha, thanks. Then maybe I'll pass it on~"
+
+@NAR_MW1_A:535 NAR d0e1ccb9
+"{V1730}{W5}Ehehe,{W42} bring{W5} it{W3} on!{W3}{W1}"
+
+@NAR_MW1_A:536 PLY 46e6791d
+"Health is actually..."
+
+@NAR_MW1_A:537 NAR 6373ee47
+"{V1731}......"
+
+@NAR_MW1_A:538 NAR 06825cbc
+"{V1732}{W10}Is{W5} that{W3} so?{W30} I{W3} didn't{W3} know.{W36} As{W3} expected{W8} of{W3} Senpai.{W8}{W3}{W3}{W2}{W1}{W6}{W6}"
+
+@NAR_MW1_A:539 PLY 584b11d7
+"Narumi, you eat dinner after eating udon at club, right?"
+
+@NAR_MW1_A:540 NAR fb49074a
+"{V1733}{W8}Yes, I do."
+
+@NAR_MW1_A:541 PLY ede181e0
+"I'm amazed you don't gain weight."
+
+@NAR_MW1_A:542 NAR b0f1d164
+"{V1734}{W8}Udon is good{W4} for digestion."
+
+@NAR_MW1_A:543 NAR e7c9adb4
+"{V1735}{W8}Besides,{W5} I{W12} {F2}hardly{W2} ever{W5} snack.{W3}"
+
+@NAR_MW1_A:544 PLY fbf01394
+"Women's magazines are nothing but diet ads, aren't they?"
+
+@NAR_MW1_A:545 NAR 7c6f49a2
+"{V1736}{W5}Oh,{W17} they{W1} are~.{W1}"
+
+@NAR_MW1_A:546 NAR ca41d2c8
+"{V1737}{W5}But{W15} if you want to lose weight,{W15} moving{W6} your{W3} body is{W3} the{W3} best way!{Ec}"
+
+@NAR_MW1_A:547 PLY 30a422c0
+"It's about that diet method they showed on TV the other day..."
+
+@NAR_MW1_A:548 NAR cf592f2b
+"{V1738}......"
+
+@NAR_MW1_A:549 NAR 154eea5f
+"{V1739}{W8}Re{W5}ally?{W5}{W45} You{W3} lose weight with just that?{W15} {F9}That sounds{W2} like{W2} a lie~!"
+
+@NAR_MW1_A:550 PLY 3df2718c
+"Short hair really suits you, Narumi."
+
+@NAR_MW1_A:551 NAR 8b8b1f30
+"{V1740}{W5}R-{W60}really?"
+
+@NAR_MW1_A:552 PLY cc4af171
+"Yeah."
+
+@NAR_MW1_A:553 NAR 47eb5521
+"{V1741}{W5}I'm glad,{W15} I like it myself.{W30} {Ec}I've{W5} had{W5} this hairstyle{W15} ever since{W4} I{W3} was little.{Eo}"
+
+@NAR_MW1_A:554 PLY 7ef17f87
+"Narumi, your looks..."
+
+@NAR_MW1_A:555 NAR f570b6c9
+"{V1742}{W5}Huh..."
+
+@NAR_MW1_A:556 NAR f252431d
+"{V1743}{W5}R-{W30}really?{W30} I'm happy..."
+
+@NAR_MW1_A:557 PLY 1fb9f3e3
+"You give everything your best, Narumi. That's great."
+
+@NAR_MW1_A:558 PLY 65928068
+"Narumi..."
+
+@NAR_MW1_A:561 SYS 9b3cbf89
+{Ti0}{Ti2}Stare......
+
+@NAR_MW1_A:563 NAR 9368b83f
+"{Nm}{V1745} Senpai,{W2}{W50} what's wrong?{W40} {F9}Is there{W2} something{W3}{W2}{W30} on{W10} my face?"
+
+@NAR_MW1_A:564 PLY 7c52b658
+"Oh, no... it's nothing..."
+
+@NAR_MW1_A:566 NAR 5bd07866
+"{V1746}{W10}Are you sure...?"
+
+@NAR_MW1_A:568 PLY f6942a3b
+"Narumi."
+
+@NAR_MW1_A:569 NAR 18a73c04
+"{V1747}Yes? {Nm}."
+
+@NAR_MW1_A:570 SYS a77d0776
+{Ti0}Smile!
+
+@NAR_MW1_A:571 NAR 899ebd42
+"{V1748}......"
+
+@NAR_MW1_A:572 NAR fe393ab1
+"{V1749}{Ec}{W10}Hehe,{W18} {Eo}what's wrong, Senpai?{W40} Did you remember something fun?"
+
+@NAR_MW1_A:573 PLY 02fbb31e
+"No, it's not that... Oh, never mind."
+
+@NAR_MW1_A:575 PLY 7bcaa667
+(Okay, I'll put on a cool face and nail this!)
+
+@NAR_MW1_A:576 NAR f78f1bb4
+"{V1750}Yes?"
+
+@NAR_MW1_A:577 SYS c2ab9f12
+{Ti0}Smolder!
+
+@NAR_MW1_A:578 NAR c2232be6
+"{V1751}......"
+
+@NAR_MW1_A:579 NAR 8afbfef4
+"{V1752}{W5}What's wrong, Senpai?{W58} Did your stomach{W25} start hurting?"
+
+@NAR_MW1_A:580 PLY c329fbf1
+"Huh? ...Sorry, it's nothing."
+
+@NAR_MW1_A:582 PLY 6a0ce4d0
+(Okay, I'll be bold and take her hand...)
+
+@NAR_MW1_A:586 SYS 5ca05822
+{Ti0}Squeeze
+
+@NAR_MW1_A:590 NAR 7efe2778
+"{V1753}{W5}Eek!"
+
+@NAR_MW1_A:591 NAR 9f32c606
+"{V1754}Ah..."
+
+@NAR_MW1_A:592 PLY 634f9920
+"Ah..."
+
+@NAR_MW1_A:594 NAR 97797f4e
+"{V1755}{W5}S-{W40}sorry.{W20} You startled me..."
+
+@NAR_MW1_A:595 PLY a757bd10
+"No, I'm the one who's sorry."
+
+@NAR_MW1_A:598 PLY 0cc0f748
+"Nice weather again today~"
+
+@NAR_MW1_A:599 NAR 3be3edeb
+"{V1756}{W5}Yes!{W15} It is~!{Ec}"
+
+@NAR_MW1_A:601 PLY db2fdd26
+"Narumi, what do you do during breaks?"
+
+@NAR_MW1_A:602 NAR 4927b573
+"{V1757}{W5}During{W5} breaks{W1}...{W30} I{W5} chat{W5} with{W5} {F2}Nana{W1} in{W1} the{W5} classroom{W1} or{W5} the{W1} hallway.{W1}{W1}{W1}{W1}{W30}"
+
+@NAR_MW1_A:604 PLY acf662b7
+"What's your favorite thing on the Cafeteria menu?"
+
+@NAR_MW1_A:605 NAR bb19f4b0
+"{V1758}{W5}The croquette bun!"
+
+@NAR_MW1_A:606 PLY 88951329
+"I see. They're good, aren't they, croquette buns."
+
+@NAR_MW1_A:607 NAR 3cfaef49
+"{V1759}{W8}Yes!{W24} Crispy{W1} and{W1} fluffy{W1} and{W1} hot{W1} inside!{Ec}{W3}{W1}{W1}{W1}{W5}"
+
+@NAR_MW1_A:609 PLY fabe1769
+"If you ask what makes our school special, it's the Terrace, right?"
+
+@NAR_MW1_A:610 NAR 0c1a4db5
+"{V1760}{W8}It is~!"
+
+@NAR_MW1_A:611 NAR 7e0db652
+"{V1761}{W8}You{W1} can{W1} always{W1} chat{W1} with{W1} everyone,{W15} so{W1} I{W1} think{W3} it's{W3} wonderful."
+
+@NAR_MW1_A:613 PLY b290ff84
+"What's your favorite class, Narumi?"
+
+@NAR_MW1_A:614 NAR 0af562cf
+"{V1762}{W8}Home{W4} ec{W4}onomics{W4} cooking~!{Ec}"
+
+@NAR_MW1_A:615 NAR f0ddd4de
+"{V1763}{W8}Everyone makes yummy food{W3} and eats it together...{W30} {Ec}There's no{W4} better{W3} class{W3} than{W15} that."
+
+@NAR_MW1_A:617 NAR 69521812
+"{V1764}{W8}Lately{W4}{W4}{W30} the{W1} girls{W1} in{W1} my{1}{W1} class{W1} are{W1} really{W1}{W3}{W1} into{W15} playing{W3} explorer{W3} games{W1}{W1}."
+
+@NAR_MW1_A:618 PLY 3c276d94
+"Playing explorers?"
+
+@NAR_MW1_A:619 NAR dda82e5f
+"{V1765}{W5}A{W3} school{W3} has{W30} {F7}quite{W1} a{W3} few{W1} places{W1} we{W1} don't{W3} usually{W3} go,{W1} right?{F3}{W3}{W3}{W1}{W1}{W1}"
+
+@NAR_MW1_A:620 NAR e96bacce
+"{V1766}{W5}We{W1} go{W1} to{W1} places{W1} like{W1} that{W1} and{W30} {Ec}gather{W5} information.{W5}{W5}"
+
+@NAR_MW1_A:621 NAR 50f406c0
+"{V1767}{W8}Like{W5} what{W1} the{W5} student{W5} council{W1} room{W1} is{W5} like,{W30} or{W5} the{W5} principal's{W5} lunch,{W30} {F3}we{W5} collect{W5} lots{W1} of{W1} fun{W1} info.{W5}{W5}{W5}{W5}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W3}"
+
+@NAR_MW1_A:622 NAR 800846c6
+"{V1768}{W8}Next{W3} time,{W15} I'll{W4} tell{W3} you{W4} too,{W1} Senpai.{W1}{W1}{W1}{W1}"
+
+@NAR_MW1_A:624 NAR 8fe92d51
+"{V1769}{Ts3}{W5}Oh,{W5} Senpai,{W5} Senpai!{W3} Listen!{W15} The{W5} other{W5} day{W8} something{W15} amazing{W5} happened...{W3}"
+
+@NAR_MW1_A:625 PLY 3c23a7a5
+"Narumi, this is the Library, so you have to talk quietly."
+
+@NAR_MW1_A:626 NAR fd349198
+"{V1770}{W5}Oh,{W12} right."
+
+@NAR_MW1_A:627 NAR 715b2529
+"{V1771}{W5}Sorry."
+
+@NAR_MW1_A:629 PLY de5a7916
+"Narumi, do you like chemistry class?"
+
+@NAR_MW1_A:630 NAR c9e8c4cb
+"{V1772}{W5}Hm{W3}m{W5}..."
+
+@NAR_MW1_A:632 NAR c949e937
+"{V1773}{W5}I'm{W1} not{W15} very{W3} interested."
+
+@NAR_MW1_A:634 NAR 8d3bf09e
+"{V1774}{W10}Oh,{W1} Senpai,{W15} aren't{W5} you{W2} thirsty?{W30} {F3}Should{W5} I{W1} go{W1} buy{W1} something?{W1}{W1}{W4}{W4}{W5}{W2}"
+
+@NAR_MW1_A:635 PLY d58ed918
+"No, I'm fine, but..."
+
+@NAR_MW1_A:636 PLY d3aef47c
+"What about you, Narumi?"
+
+@NAR_MW1_A:637 NAR cd1bc735
+"{V1775}{W5}I'm{W8} fine{W2} too.{Ec}{W5}{W5}"
+
+@NAR_MW1_A:639 PLY ae88d5bd
+"Sudden gusts of wind blow here sometimes, don't they?"
+
+@NAR_MW1_A:640 NAR 078b902b
+"{V1776}{W8}They{W1} do~.{W30} They{W3} startle{W1} you,{W1} don't{W1} they?"
+
+@NAR_MW1_A:642 NAR b7563afc
+"{V1778}{W5}Senpai!{W3}{W30} Have{W3} you{W3} eaten lunch yet?"
+
+@NAR_MW1_A:643 PLY 446cd63b
+"Ah, I already ate..."
+
+@NAR_MW1_A:645 NAR 88f7247e
+"{V1779}{W10}Oh, you did...{W30} that's{W3} too{W3} bad..."
+
+@NAR_MW1_A:646 PLY 0baf016b
+(Nobody comes behind the school... Alone with Narumi, huh. I'm getting a little self-conscious...)
+
+@NAR_MW1_A:647 NAR 9e40694d
+"{V1780}{W8}Senpai,{W5}{W30} what's wrong?{W33} {F9}Don't{W5} just{W5} sit there,{W15} say{W3} something{W3} to{W3} me."
+
+@NAR_MW1_A:648 PLY ef586f43
+"Sorry, sorry."
+
+@NAR_MW1_A:650 NAR b38569a8
+"{V1781}{W8}Senpai,{W3}{W30} thank{W3} you for sharing{W15} your hamburger steak."
+
+@NAR_MW1_A:651 PLY 27e79cbd
+"Oh, the one I gave you instead of the croquette... You're welcome."
+
+@NAR_MW1_A:652 NAR 852c118a
+"{V1782}{W5}I{W8} was{W30} so{W1} happy.{W38} The{W1} hamburger{W1} bun{W10} {Ec}was{W1} so{W1} good..."
+
+@NAR_MW1_A:654 PLY 2f6ece58
+"Our school actually..."
+
+@NAR_MW1_A:655 NAR 26f72bf8
+"{V1783}......"
+
+@NAR_MW1_A:656 NAR 969682e9
+"{V1784}{W5}Heh,{W27} really?{W30} I had no idea."
+
+@NAR_MW1_A:658 PLY 6e5e57ac
+"Who's the president of the Home Ec Club?"
+
+@NAR_MW1_A:659 NAR 1bbeed6c
+"{V1785}{W5}Huh?{W30} The{W5} president?"
+
+@NAR_MW1_A:660 NAR 5a91c140
+"{V1786}{W5}Hm{W3}m{W8}m{W3}..."
+
+@NAR_MW1_A:662 NAR 2221e217
+"{V1787}{W5}I{W12} don't{W3} know{W1} either.{W1}"
+
+@NAR_MW1_A:663 PLY b8201df0
+"Really? Why not?"
+
+@NAR_MW1_A:664 NAR 1bd3fd1c
+"{V1788}{W5}Because{W8} I've never met them,{W15} and{W3} everyone{W3} but{W3} the{W3} Udon{W5} Club{W3} is{W15} a{W3} ghost{W3} member..."
+
+@NAR_MW1_A:665 NAR 535d6973
+"{V1789}{W8}It{W5} feels like{W15} I've{W9} taken{W13} the{W3} whole place{W3} over."
+
+@NAR_MW1_A:667 NAR 9308d132
+"{V1791}{Nm}{W5}{W3}{W3}, {W15}aren't you joining{W3} a club?"
+
+@NAR_MW1_A:668 PLY 22c2d2e7
+"Hmm, there's nothing in particular I want to do."
+
+@NAR_MW1_A:669 NAR ed6d61bd
+"{V1792}{W8}Senpai,{W5} {W21}you'd{W3} do{W5} great{W18} {F9}in any{W3} club,{W3} I'm{W5} sure..."
+
+@NAR_MW1_A:671 PLY 4b0f130b
+"Do you know there's a girl on the soccer club?"
+
+@NAR_MW1_A:672 NAR 1ecaf31f
+"{V1795}{W5}You mean Asuka?{W3}{W30} {F2}Of{W3} course{W3} I know."
+
+@NAR_MW1_A:673 NAR 6003fa1c
+"{V1796}{W8}Asuka{W3} is{W30} {Ec}the{W5} idol{W5} of{W3} all{W8} the{W3} Year{W3} 1{W7} girls."
+
+@NAR_MW1_A:675 PLY 418f27e3
+"Narumi, when you're making udon in the Home Ec Club..."
+
+@NAR_MW1_A:676 NAR 3b4d47e8
+"{V1797}{W5}Huh..."
+
+@NAR_MW1_A:677 NAR 24a25978
+"{V1798}{W8}No{W8} way...{W30} that's{W5} too{W5} much{W3} praise,{W10} Senpai.{W5}{W5}"
+
+@NAR_MW1_A:679 NAR e4f40e70
+"{V1799}{W8}Our{W5} boys'{W2} uniform{W5} is{W5} pretty{W8} ordinary,{W35} {F7}or{W8} rather,{W30} it{W5} doesn't{W3} have{W2} much{W2} of{W5} a{W5} look,{W30} does{W3} it?{F3}{W3}{W3}{W2}"
+
+@NAR_MW1_A:680 PLY bb24a2a6
+"True. The only unusual thing is the line on the collar."
+
+@NAR_MW1_A:681 PLY 11b8a9fa
+"But this is fine, isn't it? It'd be embarrassing if it were too cool."
+
+@NAR_MW1_A:682 NAR a1dbc70d
+"{V1800}{W10}Heh,{W3}{W30} that's{W5} true.{W24} {F2}They'd{W5} look{W5} like{W3} a{W5} shoujo{W3} manga.{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@NAR_MW1_A:684 PLY bdaf2b0a
+"Your skirt is a bit short, Narumi."
+
+@NAR_MW1_A:685 NAR a2328353
+"{V1801}{W5}Huh?{W42} R-{W15}really?"
+
+@NAR_MW1_A:686 NAR 260e69a2
+"{V1802}{W5}Ehehe,{W1}{W30} it's{W1} easier{W3} to move in,{W3} so it's fine.{Ec}"
+
+@NAR_MW1_A:688 PLY c88dc4e0
+"About our uniform, I think..."
+
+@NAR_MW1_A:689 NAR 2d440d75
+"{V1803}......"
+
+@NAR_MW1_A:690 NAR a25310e1
+"{V1804}{W5}Yes,{W1} yes!{W24} {Ec}I{W9} thought{W1} so{W1} too!{W3}"
+
+@NAR_MW1_A:692 NAR 45688625
+"{V1805}{W8}Recently{W1}{W1}{W9},{W30} I{W1} shelved{W3} a{W1} book{W1}{W3} anywhere{W1}{W3}{W1}{W3}{W1}{W3}{W3}{W1}{W1}{W1}{W1}{W1}{W1}{W30} {F7}and a Library{W3} Committee{W3} member{W3} told me,{W30} to{W3} put{W3} it{W3} back{W3} where{W8} {F9}it belongs{W2}."
+
+@NAR_MW1_A:693 PLY db135d68
+"Can't be helped. If books get put back randomly, it's hard on the committee members who sort them."
+
+@NAR_MW1_A:694 NAR 8d2a7be2
+"{V1806}{W8}You're{W5} right.{W30} I{W2} have{W1} to{W1} be{W1} careful."
+
+@NAR_MW1_A:696 PLY 812ddf1c
+"Being on the Library Committee must be nice."
+
+@NAR_MW1_A:697 NAR b986e96d
+"{V1807}{W5}Why is that?"
+
+@NAR_MW1_A:698 PLY 1f48880f
+"Well, the air conditioning works there, so it's nice and cool, right?"
+
+@NAR_MW1_A:699 NAR bb81c989
+"{V1808}{W5}Oh,{W3} I{W5} see.{W30} Breaks{W5} must{W1} be{W5} comfy.{Ec}{W5}{W1}{W1}{W1}{W1}"
+
+@NAR_MW1_A:701 PLY 520a1c77
+"The Discipline Committee must be tough."
+
+@NAR_MW1_A:702 NAR 325fcaa6
+"{V1809}{W5}Why is that?"
+
+@NAR_MW1_A:703 PLY 0685c938
+"Well, they have to come to school early every morning, and dress properly..."
+
+@NAR_MW1_A:704 NAR 77e86e0b
+"{V1810}{W5}I{W5} see..."
+
+@NAR_MW1_A:705 NAR cf0c7d39
+"{V1811}{W5}But{W15} I{W8} get up early,{W30} so{W3} maybe I could do{W3} the{W3} Discipline Committee."
+
+@NAR_MW1_A:707 NAR eecfc262
+"{V1812}{W8}Hoshino{W5}{W2} works{W5} on{W5} Library{W1} Committee{W30} duty{W1} almost{W1} every{W3} day,{W3}{W30} doesn't{W3} she~?{W1}{W1}{W3}{W3}"
+
+@NAR_MW1_A:708 NAR 61028343
+"{V1813}{W5}It's{W5} hard{W5} work,{W30} {F3}but{W3} I'm{W3} impressed."
+
+@NAR_MW1_A:709 PLY 0d00126c
+"Just like you love cooking, Narumi, Hoshino loves books."
+
+@NAR_MW1_A:710 NAR 44c70717
+"{V1814}{W5}I see.{W30} I{W1} should{W1} ask{W3} her{W3} for{W3} more{W2} fun books.{Ec}"
+
+@NAR_MW1_A:712 PLY 660d6860
+"Our committee activities are..."
+
+@NAR_MW1_A:713 NAR 361cabe6
+"{V1815}......"
+
+@NAR_MW1_A:714 NAR 865bc4ff
+"{V1816}{W8}Oh~,{W30} really?{W18} I didn't know."
+
+@NAR_MW1_A:716 NAR c29a8b97
+"{V1817}{W5}Senpai,{W5}{W45} do{W1} you{W1} know{W1} our{W5} school{W5} rules{W5} say{W36} {F7}bangs{W5} must{W5} not{W2} cover{W2} your{W2} eyes?{F3}{W5}{W5}{W1}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W3}{W13}"
+
+@NAR_MW1_A:717 NAR b5ac4be4
+"{V1818}{W8}If{W1} everyone{W1} followed{W1} that,{W27} we'd{W4} all{W4} have{W4} haircuts{W1} like{W1} grade{W1} schoolers,{W1} wouldn't{W3} we~?{W3}{W2}"
+
+@NAR_MW1_A:718 PLY 052fad22
+"True... but you wouldn't change much, would you, Narumi?"
+
+@NAR_MW1_A:719 NAR ddaa30d2
+"{V1819}{W8}Aah!{W3}{W5}{W30} Senpai,{W8} that's{W8} mean~!{W8}{W3}{W3}{W5}{W5}"
+
+@NAR_MW1_A:720 NAR 78e544ca
+"{V1820}{W5}No{W3} matter{W3} what,{W3}{W27} I{W3} don't{W5} look{W5} like{W5} a{W3} grade{W3} schooler!{W3}{W2}{W4}"
+
+@NAR_MW1_A:722 PLY 3991f3db
+"Did you know we have a school rule like this?"
+
+@NAR_MW1_A:723 NAR 606f747f
+"{V1821}{W5}Huh?"
+
+@NAR_MW1_A:724 PLY 83cb0352
+"It's about clothing..."
+
+@NAR_MW1_A:725 NAR 999b71ae
+"{V1822}......"
+
+@NAR_MW1_A:726 NAR 71b52fdc
+"{V1823}{W5}Eh~?{W8}{W45} There's{W2} a{W5} rule{W1} like{W4} that?{W36} {F9}How{W11} weird{W4}~!"
+
+@NAR_MW1_A:728 PLY f118a9fc
+"I wonder if Ms. Kawada has a boyfriend..."
+
+@NAR_MW1_A:730 NAR 5762c2a0
+"{V1824}{W8}Ms.{W6} Kawada{W4} is{W6} so{W5} pretty.{W39} {F3}I'm{W8} sure{W6} she{W4} does,{W4} don't{W4} you{W3} think?{W1}{W1}{W1}{W1}{W1}"
+
+@NAR_MW1_A:731 NAR 46494283
+"{V1825}{W8}I'm{W9} so{W2} jealous...{W33} being{W6} in{W1} love...{Ec}{W2}{W2}{W2}{W1}{W1}"
+
+@NAR_MW1_A:733 PLY db30fb32
+"Oh, the other day Ms. Kawada was praising you, Narumi."
+
+@NAR_MW1_A:734 NAR caccbfe8
+"{V1826}{W5}Really?{W15} What{W3} did she{W3} say?{W3} What did{W3} she say?"
+
+@NAR_MW1_A:735 PLY c59f8391
+"She said she envies how energetic you always are."
+
+@NAR_MW1_A:736 NAR f47cad49
+"{V1827}{W5}Ehehe,{W1}{W30} I'm{W1} so happy~{Ec}"
+
+@NAR_MW1_A:738 PLY ede5356b
+"Narumi, you're Ms. Kawada's cooking teacher, right?"
+
+@NAR_MW1_A:739 NAR 09cbc9b2
+"{V1828}{W5}W-well,{W30} I{W1} guess{W1} so...{W45} Does that make me one?{F3}"
+
+@NAR_MW1_A:740 PLY 015fbe20
+"A teacher's teacher. That's kind of amazing."
+
+@NAR_MW1_A:741 PLY dfd9dea9
+"Ms. Kawada is, how should I put it..."
+
+@NAR_MW1_A:742 NAR 2022dda9
+"{V1830}......"
+
+@NAR_MW1_A:743 NAR 747c22f9
+"{V1831}{W10}You're{W2} right~!{W24} She's{W2} beautiful,{W15} and{W2} I{W2} really{W8} look up to her."
+
+@NAR_MW1_A:745 PLY 31cf04aa
+"Narumi, doesn't your class have any transfer students?"
+
+@NAR_MW1_A:746 NAR 32a747e1
+"{V1832}{W5}No.{W36} I mean,{W9} {F9}it hasn't been{W3} long{W3} since{W1} we{W1} enrolled..."
+
+@NAR_MW1_A:747 PLY dcfd2899
+"Oh, right."
+
+@NAR_MW1_A:748 NAR 2e78a23e
+"{V1833}{W5}Hehe."
+
+@NAR_MW1_A:750 PLY c3b806c1
+"If a transfer student did come..."
+
+@NAR_MW1_A:751 NAR db9d2908
+"{V1834}......"
+
+@NAR_MW1_A:752 NAR 728fc8eb
+"{V1835}{W8}I'd{W1} love{W1} to{W1} ask{W1} them.{W45} Lots{W1} of{W3} questions{W3} about their old town,{W15} I think."
+
+@NAR_MW1_A:754 PLY 531e27ba
+"When you don't feel like studying, just getting to your desk is a struggle, isn't it?"
+
+@NAR_MW1_A:755 NAR 4197ed32
+"{V1836}{W5}Heh,{W18} it{W1} sure{W1} is{W1}~{W1}"
+
+@NAR_MW1_A:756 NAR 5296d4dd
+"{V1837}{W5}I go{W3} to{W3} my room to study,{W30} {F6}but{W8} I end up lying{W3} on my{W2} bed{W5} reading manga..."
+
+@NAR_MW1_A:757 NAR 552c8dc3
+"{V1838}{W5}Then{W1} when{W1} I{W1} finish{W1} the{W8} manga,{W30} I{W3} start{W8} tidying{W3} up{W3} my{W3} desk...{W27} {F9}And{W3} the{W3} studying{W5} gets{W5} put{W5} off,{W27} and{W3} put{W5} off{W3} again...{W1}{W1}{W4}"
+
+@NAR_MW1_A:758 NAR 3b02d97e
+"{V1839}{W8}And{W1} then{W1} in{W3} the{W1} end,{W39} I'm in{W3} trouble{W3} before{W3} the{W6} tests, right?"
+
+@NAR_MW1_A:759 PLY 1b758669
+"Hahaha, that's true."
+
+@NAR_MW1_A:761 PLY f2c82703
+"Narumi, how do you memorize English words?"
+
+@NAR_MW1_A:762 NAR d58272fc
+"{V1840}{W5}I{W8} use{W36} a highlighter{W4} and{W4} a{W5} plastic{W3} sheet.{Ec}"
+
+@NAR_MW1_A:763 PLY f8fdb62f
+"A highlighter and a plastic sheet?"
+
+@NAR_MW1_A:764 NAR 34474ae0
+"{V1841}{W8}You know,{W30} that{W5} thing{W5} where{W5} you{W1} underline{W1} words{W1} and{W1}{W15} cover{W3} them{W1} with{W1} a{W1} sheet{W1}{W1}{W1}{W1}{W15} {F3}and{W1} it{W1} disappears{W1}{W1}{W1}{W1}?"
+
+@NAR_MW1_A:765 PLY 9e92af69
+"Oh yeah, they sell those."
+
+@NAR_MW1_A:766 NAR df07b066
+"{V1842}{W5}I{W3} memorize{W3} with{W2} that.{W30} {Ec}It's{W2} so{W2} mysterious,{W7} isn't it~"
+
+@NAR_MW1_A:768 PLY 3b3940b7
+"Yesterday, when I was studying at home..."
+
+@NAR_MW1_A:769 NAR 101835dd
+"{V1843}......"
+
+@NAR_MW1_A:770 NAR 17c37591
+"{V1844}{W5}Wow{W3}~{W5}!{W30} That's{W5} so{W5} you,{W5} Senpai."
+
+@NAR_MW1_A:772 NAR 7e310730
+"{V1845}{W5}Senpai!{W30} I{W3} did{W3} surprisingly{W3} well{W15} on{W3} the{W3} tests{W3} after{W3} summer vacation!"
+
+@NAR_MW1_A:774 NAR fdd7979b
+"{V1846}{W8}My{W3} guesses{W3} hit so well, it surprised even me!"
+
+@NAR_MW1_A:775 NAR cd2f0937
+"{V1847}{W8}An{W1} answer{W3} sheet{W3} full{W3} of{W3} circles{W1} is{W8} {Ec}such{W1} a{W1} joy,{W1} isn't{W2} it~!{W1}{W1}"
+
+@NAR_MW1_A:777 NAR da271f73
+"{V1848}{Nm}!{W30} Please{W4} teach{W4} me how to raise{W4} my grades!"
+
+@NAR_MW1_A:778 PLY 2976a240
+"...If I knew a way, I'd want you to teach me."
+
+@NAR_MW1_A:779 NAR aaac4a13
+"{V1849}{W5}Aww..."
+
+@NAR_MW1_A:780 PLY a8449226
+"Oh, but I do know one thing."
+
+@NAR_MW1_A:782 NAR e0cc769f
+"{V1851}{W10}Really?!{W30} What{W3} is it?!{W8} Please{W3} tell me!"
+
+@NAR_MW1_A:783 PLY 21935f41
+"...Study every day."
+
+@NAR_MW1_A:784 NAR 4c6c5b8a
+"{V1852}{W8}Awww,{W60} something{W3} else,{W3} please.{W3}{W1}{W1}"
+
+@NAR_MW1_A:786 PLY ef34adff
+"Every time I get a report card, I think..."
+
+@NAR_MW1_A:787 NAR cbe31c0b
+"{V1853}......"
+
+@NAR_MW1_A:788 NAR c938019a
+"{V1854}{W15}You're{W2} right{W2}...{W60} {F2}Okay!{W30} I'll{W1} get{W3} good{W1} grades{W15} this{W1} second{W1} term!{Ec}{W2}{W2}{W3}{W3}{W3}{W8}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W5}{W5}"
+
+@NAR_MW1_A:790 PLY 08fe820a
+"Do you know how to say "delicious" in Italian?"
+
+@NAR_MW1_A:791 NAR ada2aee3
+"{V1855}{W5}Huh?{W45} {F9}I don't~"
+
+@NAR_MW1_A:792 PLY 29ed3b62
+"They say "buono." I heard it on a TV cooking show."
+
+@NAR_MW1_A:793 NAR fb1f79bd
+"{V1856}{W5}Wow{W3}~{W5}!{W27} Is that right?"
+
+@NAR_MW1_A:794 NAR 19daeb74
+"{V1857}{Fm4}Buo~no!{W30} Buo~{W5}no~{W5}o!{F2}"
+
+@NAR_MW1_A:796 NAR 0ced495a
+"{V1858}{W10}You{W5} know{W5} so{W5} much, Senpai.{W24}"
+
+@NAR_MW1_A:798 PLY 9557dca7
+"The Italian we use every day without thinking..."
+
+@NAR_MW1_A:799 NAR b6b58974
+"{V1859}......"
+
+@NAR_MW1_A:800 NAR 20633d68
+"{V1860}{W8}Is{W5} that{W3} so~.{W24} You{W8} know{W1} so{W5} much,{W5} Senpai.{W27} I{W3} learned{W3} something.{W1}{W1}{W1}"
+
+@NAR_MW1_A:803 NAR 51d128d2
+"{V1861}{W8}Senpai,{W3} what{W3} is{W2} your{W2} class{W30} doing{W4} in{W1} PE{W4} now?{W1}{W1}{W1}{W4}{W4}{W15}"
+
+@NAR_MW1_A:804 PLY 3c1c3242
+"Lately it's mostly basketball."
+
+@NAR_MW1_A:805 NAR 5be6d695
+"{V1862}{W8}Is{W2} that{W2} right{W2}{W2}{W2}{W2}~.{W45} {Ec}Boys'{W3} basketball{W2} is{W2} so{W1} cool,{W1} isn't{W1} it{W1}~"
+
+@NAR_MW1_A:806 PLY 2a16b2f5
+"You think?"
+
+@NAR_MW1_A:807 NAR 310032ca
+"{V1863}{W8}Yes!{W24} I{W1} mean,{W15} shooting{W3} such{W1} a{W1} heavy{W1} ball{W1} with{W1} one{W1} hand...{W3}"
+
+@NAR_MW1_A:808 PLY dbc312c3
+"Right. Girls couldn't do that."
+
+@NAR_MW1_A:810 PLY f2f2bdc3
+"Narumi, you look like a fast runner."
+
+@NAR_MW1_A:811 NAR cd1693b1
+"{V1865}{W5}Ehehe,{W30} {Eo}thanks,{W15} I've{W1} been{W1} good{W1} at{W4} tag{W4} since{W1} I was{W4} little."
+
+@NAR_MW1_A:813 NAR 0cf9b4f3
+"{V1866}{W5}Yes!"
+
+@NAR_MW1_A:814 NAR 77e1756d
+"{V1867}{W5}Volleyball."
+
+@NAR_MW1_A:815 PLY ca298e2b
+"I see, volleyball."
+
+@NAR_MW1_A:816 NAR 931e43d2
+"{V1868}{W10}I pulled off{W3} a{W3} rolling receive{W3} in a match!{W27} {Eo}Everyone{W4} was so surprised."
+
+@NAR_MW1_A:818 NAR 7569a612
+"{V1870}{W5}Yes!"
+
+@NAR_MW1_A:819 NAR 395ab92c
+"{V1871}{W8}Soft tennis."
+
+@NAR_MW1_A:820 PLY dbe6d948
+"Soft tennis, huh. The boys don't play that, right?"
+
+@NAR_MW1_A:821 NAR 2a7efec1
+"{V1872}{W5}Huh?{W23} They don't?"
+
+@NAR_MW1_A:822 PLY 17743afb
+"Nope. The boys play soccer."
+
+@NAR_MW1_A:823 NAR 44857597
+"{V1873}{W8}I{W3} see~"
+
+@NAR_MW1_A:824 NAR 3e76fc76
+"{V1874}{W5}Soft{W1} tennis{W1} balls{W2} are{W1} {F2}squishy,{W15} so{W3} they{W1} feel{W10} kind{W1} of{W1} nice.{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W3}{W3}"
+
+@NAR_MW1_A:826 NAR ca2de3ab
+"{V1876}{W8}Senpai,{W45} something{W4} strange{W2} happened{W3} during{W4} PE.{W3}{W3}{W3}{W4}{W4}{W2}{W30}{W1}{W1}{W1}{W1}"
+
+@NAR_MW1_A:827 PLY 8c2e5b80
+"Something strange?"
+
+@NAR_MW1_A:828 NAR 5871907e
+"{V1877}{W5}Yes..."
+
+@NAR_MW1_A:829 NAR 604fac0e
+"{V1878}{W8}The{W4} teacher{W4} told{W3} me{W3} to{W3} get{W3} a{W2} volleyball,{W30} so{W30} I{W3} went{W2} to{W3} the{W2} equipment{W2} room...{W2}{W2}{W1}{W1}{W1}"
+
+@NAR_MW1_A:830 PLY 4093a258
+(Gulp.)
+
+@NAR_MW1_A:831 NAR c21e0a20
+"{V1879}{W8}It{W1} seemed{W3} like{W1} someone{W48} was{W3} inside{W4} the{W1} vaulting{W3} box."
+
+@NAR_MW1_A:832 PLY e4aeaae3
+"...Oh, really?"
+
+@NAR_MW1_A:833 NAR 36c98067
+"{V1880}{W5}Were{W3} they{W3} peeking{W3}?{W2} ...{W45} That's{W3} scary,{W1} isn't{W1} it?"
+
+@NAR_MW1_A:834 NAR 65d3b7f9
+"{V1881}{W10}You{W3} wouldn't{W3} do that,{W21} would you, Senpai?"
+
+@NAR_MW1_A:835 PLY 5adcca39
+"O-of course not! Why would I peek?!"
+
+@NAR_MW1_A:836 NAR ae6a6473
+"{V1882}{W5}Hehe,{W21} right~!"
+
+@NAR_MW1_A:837 PLY 850304bc
+"{Ts1}I didn't mean to..."
+
+@NAR_MW1_A:838 NAR 0145f4ca
+"{V1883}{W5}Did{W3} you{W5} say{W5} something?{W3} Senpai?"
+
+@NAR_MW1_A:839 PLY 822474a9
+"N-nothing! Hahaha..."
+
+@NAR_MW1_A:841 PLY 7f36c0aa
+"Girls who are good at sports..."
+
+@NAR_MW1_A:842 NAR ea564ea7
+"{V1884}{W5}Huh?{W21} Huh?"
+
+@NAR_MW1_A:844 PLY 5d49245d
+"Why is the pool's disinfectant tank so cold?"
+
+@NAR_MW1_A:845 NAR fdcdf31c
+"{V1886}{W5}Ah{W3}~{W5}!{W24} {F9}Right{W3}~!{W2}"
+
+@NAR_MW1_A:846 NAR 097a6dee
+"{V1887}{W5}It's{W3} cold and smelly,{W30} {Ec}so{W15} you{W3} don't{W3} want to get{W1} in,{W1} do{W1} you~"
+
+@NAR_MW1_A:848 PLY b382f560
+"Don't you get really sleepy after swimming class?"
+
+@NAR_MW1_A:849 NAR c359e43f
+"{V1888}{W5}Yeah,{W24} I do,{F3} I do."
+
+@NAR_MW1_A:850 NAR b1af81f2
+"{V1889}{W8}Swimming{W3} is{W3} a{W3} full-body{W3} workout,{W24} so{W3} it's{W8} really{W3} tiring~!{W3}"
+
+@NAR_MW1_A:852 PLY 68227887
+"The other day, something happened during swimming class..."
+
+@NAR_MW1_A:853 NAR ef023521
+"{V1890}{W5}......"
+
+@NAR_MW1_A:854 NAR 2208a20f
+"{V1891}{W8}Heh,{W24} how funny~.{W24} {Ec}Things{W8} like that really happen~!"
+
+@NAR_MW1_A:855 PLY 5da36dcc
+"Narumi, have you ever wanted to be an athlete?"
+
+@NAR_MW1_A:856 NAR c85ad922
+"{V1892}{W8}Ah,{W30} when{W1} I{W1} was{W3} little{W15} {F3}I{W3} dreamed{W3} of{W2} being{W3} a{W3} gymnast.{W5}"
+
+@NAR_MW1_A:858 NAR 406e07ed
+"{V1893}{W5}But{W36} I{W4} can't even do a bar flip,{W12} so{W1} no{W1} way~"
+
+@NAR_MW1_A:860 PLY 45924961
+"Oh right, speaking of sports..."
+
+@NAR_MW1_A:861 NAR b8b14aac
+"{V1894}......"
+
+@NAR_MW1_A:862 NAR 12b36ae8
+"{V1895}{W8}Wow{W5}~{W8}!{W30} Is that so.{W33} {F2}That's nice."
+
+@NAR_MW1_A:864 PLY 5267a84f
+"Narumi, are you good at dancing?"
+
+@NAR_MW1_A:865 NAR 8832e137
+"{V1896}{W10}Dancing?{W30} {Fe7m6}Hmm{W3}...{W8}{W66} I{W2} can{W2} only{W1} do{W1} folk{W1} dance{W30} and{W3} Bon{W3} dance.{F2}{Ec}{Sp}{W2}{W2}{W2}{W2}{W2}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@NAR_MW1_A:867 PLY 323b7739
+"If you were going to learn a dance, what kind would you want?"
+
+@NAR_MW1_A:868 NAR 26475847
+"{V1898}...{W10}I'd{W1} like{W1} to{W1} try{W4} ballet{W1} or{W1} something,{W30} {F9}but{W10} I{W1} couldn't.{W40} It'd{W4} probably{W1} look{W1} like{W1} a{W1} kids'{W1} recital.{W1}{W1}{W1}{W1}{W1}{W4}{W2}{W2}{W2}{W2}{W2}"
+
+@NAR_MW1_A:869 PLY 01538f7d
+"Hahaha, maybe."
+
+@NAR_MW1_A:871 PLY 0f06a6ff
+"There are all kinds of dances, but..."
+
+@NAR_MW1_A:872 NAR c3bffdf3
+"{V1899}{W5}Uh-huh..."
+
+@NAR_MW1_A:873 NAR 4b61305e
+"{V1900}{W8}Is{W3} that{W3} so~.{W15} {F2}I{W1} didn't{W1} know.{W1}{W1}"
+
+@NAR_MW1_A:875 PLY 4a349b61
+"There's always a band that releases a new song every summer."
+
+@NAR_MW1_A:876 NAR 3c5462be
+"{V1901}{W5}Oh,{W36} there{W1} are~{W1}"
+
+@NAR_MW1_A:877 NAR 4c934247
+"{V1902}{W5}It's{W8} like{W8} a{W5} summer{W5} tradition{W3} now.{Eo}{W8}{W3}{W1}"
+
+@NAR_MW1_A:879 NAR 830107e1
+"{V1903}{W5}Senpai,{W30} do{W3} you{W3} know{W1} the Kibina Ondo{W3}?"
+
+@NAR_MW1_A:880 PLY 2fbef353
+"Of course. They play it at the Bon dance every year."
+
+@NAR_MW1_A:881 NAR 9d61f39f
+"{V1904}{W8}I{W9} love{W30} Bon{W4} dancing!{W45} {Ec}I{W4} danced{W4} with{W1} Grandpa{W1} again{W1} this{W1} year.{W1}{W1}{W1}{W1}{W1}{W3}{W3}"
+
+@NAR_MW1_A:883 NAR 57920c0f
+"{V1905}{W10}Senpai,{W21} I{W9} really{W5} am{W8} good{W5} at{W3} the{W3} recorder.{W30} Please{W8} listen{W3} sometime.{W3}"
+
+@NAR_MW1_A:884 PLY 227c10a1
+"Yeah. Sure."
+
+@NAR_MW1_A:885 PLY 79792393
+"Sure. I'd love to hear it."
+
+@NAR_MW1_A:886 NAR 1411aebd
+"{V1906}{W5}Yes!"
+
+@NAR_MW1_A:888 PLY 5f3210b2
+"Music is, how should I put it..."
+
+@NAR_MW1_A:889 NAR 1da9c36d
+"{V1907}......"
+
+@NAR_MW1_A:890 NAR d7595751
+"{V1908}{W8}You're{W5} right~!{W30} I{W6} think{W2} so{W3} too.{W3}{W1}{W1}"
+
+@NAR_MW1_A:893 NAR 4e8d3a3b
+"{V1909}{W8}Senpai!{W30} Last{W5} night{W3} there{W5} was{W30} {Eo}a funny anime on,{W13} did you watch it?"
+
+@NAR_MW1_A:894 PLY 07760570
+"No, I didn't."
+
+@NAR_MW1_A:895 NAR 4a266bf1
+"{V1910}{W10}Oh...{W30} that's{W4} too{W3} bad.{W45} It{W3} was{W2} so{W3} much{W3} fun...{W2}{W2}{W2}{W2}{W2}{W4}{W1}{W1}"
+
+@NAR_MW1_A:897 NAR 3f7f034b
+"{V1911}{W8}Senpai!{W15} About{W5} last{W5} night's{W3} anime..."
+
+@NAR_MW1_A:898 PLY 250b5598
+"Sorry, I didn't watch it..."
+
+@NAR_MW1_A:899 NAR 0e877438
+"{V1912}{W5}Oh...{W90} I{W1} wish{W2} you{W2} had{W4} watched{W1} it...{W2}{W2}"
+
+@NAR_MW1_A:901 PLY 81e315ac
+"The other day, Satonaka was featured in the tasty places section of a town magazine."
+
+@NAR_MW1_A:902 NAR 422825ca
+"{V1913}{W8}Oh,{W39} now{W2} that{W1} you{W1} say{W2} it,{W15} Grandpa{W1} said{W1} they{W4} came{W4} to interview him."
+
+@NAR_MW1_A:903 PLY 0536138e
+"They praised it a lot, saying it was delicious."
+
+@NAR_MW1_A:904 NAR b3cbc6d0
+"{V1914}{W8}Really?{W27} I'm{W5} so{W5} happy~{W1}{W1}"
+
+@NAR_MW1_A:906 NAR 8ab86788
+"{V1915}{Nm},{W30} thanks{W9} to{W3} Hoshino,{W3} I've{W3} started{W3} reading{W15} lots{W3} of{W3} regular{W3} books{W8} too."
+
+@NAR_MW1_A:907 PLY 025efae9
+"Oh, what kind of books?"
+
+@NAR_MW1_A:908 NAR bede0f33
+"{V1916}{W8}Mystery{W3} novels{W5} for{W5} kids.{W3}{W5}{W5}{W5}{W33}{W1}"
+
+@NAR_MW1_A:909 PLY 9550a9d0
+"The ones with some great detective?"
+
+@NAR_MW1_A:910 NAR 8d454739
+"{V1917}{W5}Yes,{W8} yes!{Ti0} {Eo}{Ti2}Those!{W8}"
+
+@NAR_MW1_A:911 NAR 6c242881
+"{V1918}{W5}The{W3} murder{W1} tricks{W2} are{W1} so{W5} wild{W1} and{W3} fun,{W30} aren't{W3} they~{W5}{W3}{W3}{W3}{W3}{W3}{W1}{W4}"
+
+@NAR_MW1_A:913 PLY c778c8e2
+"I read this in a magazine the other day..."
+
+@NAR_MW1_A:914 NAR 17b5665b
+"{V1919}......"
+
+@NAR_MW1_A:915 NAR 0df3d9a7
+"{V1920}{W8}Is{W5} that{W3} so?{W15} I{W1} didn't{W1} know~"
+
+@NAR_MW1_A:917 PLY 5c521c95
+"These days the 100-yen shops sell pretty decent stuff, don't they?"
+
+@NAR_MW1_A:918 NAR 748eb6fd
+"{V1921}{W8}They do~,{W30} and it's plenty{W3} good{W3} enough~"
+
+@NAR_MW1_A:919 NAR 3bc92564
+"{V1922}{W15}But,{W20} when{W3} you think each{W3} one{W3} is 100{W2} yen,{W36} {Sp}you{W1} end{W8} up{W1} buying{W1} too{W3} much."
+
+@NAR_MW1_A:921 PLY 7dbed449
+"Narumi, how much allowance do you get a month?"
+
+@NAR_MW1_A:922 NAR 91cef646
+"{V1923}{W8}Five{W3} thousand{W3} yen."
+
+@NAR_MW1_A:923 PLY 214950c0
+"What?! That's quite a lot."
+
+@NAR_MW1_A:924 NAR 4fe32bbb
+"{V1924}{W8}I{W6} help{W30} out{W3} at{W1} the{W1} shop,{W30} so{W1} Grandpa{W1} gives{W1} me{W1} extra.{W3}{W4}"
+
+@NAR_MW1_A:925 NAR 95ee4068
+"{V1925}{W5}But{W2} I{W27} save{W3} almost{W1} all{W1} of{W1} it.{W30} {F7}I{W1} only{W5} spend{W30} about{W3} two{W1} thousand{W1} yen.{F2}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W3}{W3}"
+
+@NAR_MW1_A:927 PLY 28b73e86
+"Is there anything you buy every single month?"
+
+@NAR_MW1_A:928 NAR dacb5b72
+"{V1926}{W5}Ehehe,{W30} {Eo}I never{W3} miss{W3} an{W3} issue{W15} of{W3} a{W3} girls' manga magazine."
+
+@NAR_MW1_A:929 NAR f809c6b3
+"{V1927}{W5}Because,{W30} they're{W3} tied{W1} up{W3} with{W1} string,{W1}{W1}{W15} so you can't{W2} read them standing in the store."
+
+@NAR_MW1_A:931 PLY 7127b877
+"I saw them for sale the other day, though..."
+
+@NAR_MW1_A:932 NAR ee1bb704
+"{V1928}......"
+
+@NAR_MW1_A:933 NAR 20562ec1
+"{V1929}{W5}Wow{W3}{W8}, {W30}they actually sold{W5} something that weird?{W1}{W1}{W1}{W1} {W30}{F2}How{W2} fun{W2} that{W2} sounds~{W8}{W2}"
+
+@NAR_MW1_A:934 PLY 4ce28bf3
+"Narumi, which do you like better, pants or skirts?"
+
+@NAR_MW1_A:935 NAR e3336315
+"{V1930}{W5}I{W4} like{W2} both{W2} of{W2} them,{W2}{W2}{W2}{W2} but{W27} I{W1} own{W1} more{W1} skirts,{W1} {F3}you{W2} know.{W2}"
+
+@NAR_MW1_A:936 NAR b352daac
+"{V1931}{W8}Because,{W15} skirts{W1} are{W1} just{W1} so{W1} much{W3} cuter, right?"

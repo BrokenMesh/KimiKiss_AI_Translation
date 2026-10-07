@@ -1,0 +1,203 @@
+# NAR_DAT_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_DAT_B:15 PLY 13f65e3c
+(Ten minutes to ten. That's just about right.)
+
+@NAR_DAT_B:31 PLY a236377c
+"Oh, Narumi, you're here already?"
+
+@NAR_DAT_B:32 NAR 33927341
+"{V0948}{W8}Yes!"
+
+@NAR_DAT_B:35 NAR a50e5ebc
+"{V0949}{W12}Ehehe,{W42} {F7}I{W1} got{W1} so{W3} excited{W3} last{W3} night,{W18} {F3}I{W1} hardly{W3} slept~{W4}{W2}"
+
+@NAR_DAT_B:36 PLY 90fbe5ca
+"Are you okay?"
+
+@NAR_DAT_B:38 NAR 0cca25f3
+"{V0950}{W8}Of{W8} course{W2} I{W1} am!"
+
+@NAR_DAT_B:40 NAR 5ff27388
+"{V0951}{W5}The{W1} sea,{W2} the{W1} sea~!{W1}{W1}{W1}"
+
+@NAR_DAT_B:41 PLY 4ab6f06e
+"Hahaha, you're in a great mood."
+
+@NAR_DAT_B:42 PLY b1c1dcd4
+"Well then, shall we head out right away?"
+
+@NAR_DAT_B:43 NAR 4768ffd9
+"{V0952}{W8}Yes!"
+
+@NAR_DAT_B:49 SYS b0a9de8a
+...And so, Narumi and I headed for the sea.
+
+@NAR_DAT_B:50 NAR f31f6c96
+"{V0953}{W12}Senpai!{W3} {W8}It's the{W3} sea!{W3} {Ec}The{W3} sea!{W15}{W3} Hurry,{Eo}{W5} hurry~!"
+
+@NAR_DAT_B:51 PLY f7b659fd
+"Hahaha, Narumi, if you get too carried away, you'll trip."
+
+@NAR_DAT_B:52 NAR 7e1f907d
+"{V0954}{W8}I'm{W1} not{W4} a{W1} child,{W1} so{W1}{W1}{W24} I{W1} won't{W1}{W4} trip{W4} that{W2} easily{W4}{W1}{W1}{W1}{W1}~{W5} you know."
+
+@NAR_DAT_B:54 NAR 66efb2a6
+"{V0955}{W8}The{W4} beach{W5} is{W1} that{W1} way!{W30} Let's{W3} hurry~{W1}{W1}!{Ec}"
+
+@NAR_DAT_B:55 PLY 5ddf383b
+"All right!"
+
+@NAR_DAT_B:57 PLY 74d925af
+"As expected, hardly anyone is swimming."
+
+@NAR_DAT_B:59 NAR 06f33cf5
+"{V0956}{W8}It's{W2} still{W2} hot{W4} enough, though{W1}{W2}{W2}{W1}..."
+
+@NAR_DAT_B:60 PLY 7e1595bf
+"Maybe it's because of the jellyfish?"
+
+@NAR_DAT_B:61 NAR 608a092f
+"{V0957}{W8}Is{W2} that{W2} it?{Ti0} {Ti2}{W30}{Ec}...{W3} What{W3} a{W8} letdown."
+
+@NAR_DAT_B:63 NAR f5762be3
+"{V0958}{W8}Ehehe,{W30} but I'm{W1} with{W2} you,{W3} Senpai,{W3}{W3}{Ti0} {Ti2}so{W2} it's{W4} fun."
+
+@NAR_DAT_B:65 NAR 576819d1
+"{V0959}{W8}Senpai!{W4}{W4}{Ti0} {Ti2}{W21}Over here, over{W1} here~!"
+
+@NAR_DAT_B:66 PLY bff2ff83
+"Oh! I won't lose a game of tag!"
+
+@NAR_DAT_B:67 NAR 669be814
+"{V0960}{W5}I won't lose at running away!{W4}{W1}{W1}{Ec}"
+
+@NAR_DAT_B:68 PLY 9b3b377c
+"Hahaha, get back here!"
+
+@NAR_DAT_B:69 NAR 8354dbba
+"{V0961}{W8}Nobody{W15} waits{W1} when{W1} you{W4} say{W1} wait~{W9} nyah!"
+
+@NAR_DAT_B:70 PLY 23459417
+"Narumi! The water's edge makes you lose your footing, so be careful..."
+
+@NAR_DAT_B:71 NAR 61347287
+"{V0962}{W8}Eek!"
+
+@NAR_DAT_B:80 NAR f9beb33f
+"{V0963}{W5}Aww{W5}{W3}~,{W45} I{W5} fell{W1}{W1}{W1}{W1}{W1} down~.{W30} I'm soaked~"
+
+@NAR_DAT_B:81 PLY 2cd4e773
+"Hahaha, that's why I told you."
+
+@NAR_DAT_B:82 PLY 4e97cd1c
+"Here, let me give you a hand."
+
+@NAR_DAT_B:83 NAR a595b026
+"{V0964}{W8}Senpai,{W3}{W3}{W24} thank{W1}{W2} you.{W3}"
+
+@NAR_DAT_B:84 PLY c6fc5b14
+"What should we do? Your clothes got wet."
+
+@NAR_DAT_B:86 NAR 86b1c661
+"{V0965}{W8}Ehehe,{W51} if{W1} it{W1} comes{W1} to{W1} this,{W1}{W51} I'll{W4} take{W30} everything{W1} off!"
+
+@NAR_DAT_B:87 PLY 21e4acd1
+"What?!"
+
+@NAR_DAT_B:103 NAR 6353382a
+"{V0966}{W8}Ta-daaaah!"
+
+@NAR_DAT_B:104 PLY 9150d8d5
+"Oh... you were wearing a swimsuit underneath... Phew."
+
+@NAR_DAT_B:105 NAR 0d5ce15e
+"{V0967}{W8}Senpai!{W3}{W3}{Ti0} {Ti2}{W30}Let's{W2} swim{Eo}{W2} together!{W4}"
+
+@NAR_DAT_B:106 PLY a4cec71c
+"All right! Actually, I thought this might happen, so I'm wearing swim trunks under my pants."
+
+@NAR_DAT_B:107 NAR 2f9c8527
+"{V0968}{W5}Just{W15} like you, Senpai{W4}{W3}~{W1}!"
+
+@NAR_DAT_B:108 PLY c00ed5a7
+"Here I come!"
+
+@NAR_DAT_B:111 NAR fc4d274e
+"{V0969}{W5}Yaaay{W1}{W2}{W2}{W2}!"
+
+@NAR_DAT_B:112 SYS 71a9b3b6
+And so, Narumi and I swam to our hearts' content.
+
+@NAR_DAT_B:113 SYS 2b270803
+We weren't stung by any jellyfish, either. How lucky.
+
+@NAR_DAT_B:115 NAR 869dbab8
+"{V0970}{W8}Senpai,{W3}{W4}{W30} that{W4} was fun~!"
+
+@NAR_DAT_B:116 PLY 227c10a1
+"Yeah, it was."
+
+@NAR_DAT_B:117 PLY 35682ec7
+"Did it help you unwind?"
+
+@NAR_DAT_B:118 NAR 12e89671
+"{V0971}{W8}Yes!"
+
+@NAR_DAT_B:119 NAR 06ec69c4
+"{V0972}{W8}...{W5}Senpai,{W4}{W4}{W81} may{W1} I{W2} stay{W4} with{W12} you{W5} a{W6} little{W45} longer?{W4}{W1}{W1}{W1}{W2}"
+
+@NAR_DAT_B:120 PLY 1407c870
+"...Then shall we stop by the riverbank?"
+
+@NAR_DAT_B:121 NAR 66e8a8cb
+"{V0973}{W8}Yes!"
+
+@NAR_DAT_B:122 NAR 53725cf9
+"{V0974}{W12}Senpai,{W4}{W5}{W54} thank you{W2} so much{W21} for{W4} today{W4}{W21}."
+
+@NAR_DAT_B:123 PLY acf81593
+"No need to thank me. I had a great time too..."
+
+@NAR_DAT_B:124 NAR 68b8ace6
+"{V0976}{W12}Senpai...{W3}{W3}{W30} you{W9} know,{W57} {Eo}there's{W1} something{W8} I{W2} figured out{W3} today."
+
+@NAR_DAT_B:125 PLY ef071a67
+"Something you figured out?"
+
+@NAR_DAT_B:126 NAR 1b9dd8bb
+"{V0977}{W8}Yes.{W2}{W66} ...{W9}I{W8} thought{W57} {F7}I{W1} was{W1} making{W1} new{W1} udon{W1} for{W3} Grandpa{W1} and{4} the{W1} shop{W1}...{W1}{W1} but{W1}{W4}...{W75} {F9}that{W1} wasn't{W1} it{W4}{W3}.{W2}{W2}{W2}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W4}{W4}"
+
+@NAR_DAT_B:127 NAR a4a5fc86
+"{V0978}{W8}I{W8} ...{W60}wasn't doing it for Grandpa,{W33} {Eo}or{W1} for{W4} the{W1} shop{W1}{W1}{W1}{W1}.{W60} {F3}I{W4} think{W4} I{W1} made{W8} udon{W45} because I wanted{W1} you to enjoy it."
+
+@NAR_DAT_B:128 PLY f725dd6d
+"Huh..."
+
+@NAR_DAT_B:130 NAR 116d9ddd
+"{V0979}{W8}Today,{W1}{W30} when{W3} I{W3} saw{W1} your{W5} smile,{W1}{W1}{W1}{W1}{W27} I realized it."
+
+@NAR_DAT_B:131 NAR 6c526ab8
+"{V0980}{W12}I made{W4} udon{W4} because I wanted{W1} you{Eo} to say it's delicious...{W45}{W1}{W1}{W1}{W3}"
+
+@NAR_DAT_B:132 PLY 65928068
+"Narumi..."
+
+@NAR_DAT_B:134 NAR aaa95575
+"{V0981}{W8}Senpai,{W4}{W4}{W33} please{W4} look{W4} forward{W4} to{W1} the{W1} {Ec}school{W5} festival{W1}!{W1}{W1}{W1}{W1}"
+
+@NAR_DAT_B:135 NAR 21b479d9
+"{V0982}{W8}The Home Ec Club{W4}{W30} is running{W1} an{W1} udon{W1} stand.{W3}{W75} There,{W30} I'll give you some delicious udon as a present!"
+
+@NAR_DAT_B:136 PLY 67a4cf1b
+"Narumi... thank you. I'll look forward to it."
+
+@NAR_DAT_B:137 NAR 579a37be
+"{V0983}{W8}Yes!"
+
+@NAR_DAT_B:138 SYS 5e5dae39
+...And so, Narumi and I had a fun day together.
+
+@NAR_DAT_B:139 SYS 541648e3
+There's only one, you know >_<

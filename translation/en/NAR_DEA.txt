@@ -1,0 +1,518 @@
+# NAR_DEA -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_DEA:18 PLY b9e4c469
+(Hm? A lovely smell of bonito flakes is drifting in from somewhere...)
+
+@NAR_DEA:21 PLY 9faecdd8
+(What an indescribably fragrant smell. Is this what they call the heart of Japan?)
+
+@NAR_DEA:22 PLY 64467633
+(The smell's coming from... the Home Ec Room? I'll take a little peek.)
+
+@NAR_DEA:25 PLY 0a8eb042
+(Hm? Is that...)
+
+@NAR_DEA:32 - 64c62dc2
+Girl
+
+@NAR_DEA:34 NAR c94679a2
+"{V5000}{W3}Mm...{W30} The flavor{W3} and the aroma{W5} are both really good.{W30} If I do say so myself,{Ti1} it turned{W2}{Ti2} out great."
+
+@NAR_DEA:35 PLY c83a3537
+(She seems to be the one making it. ...Who is she?)
+
+@NAR_DEA:36 PLY b4485c77
+(Would it be rude to just call out to her...? But I came all the way here...)
+
+@NAR_DEA:37 PLY c86561b0
+(Okay! Here goes...)
+
+@NAR_DEA:38 PLY fd5cf9de
+"What are you doing in there?"
+
+@NAR_DEA:50 NAR d6b3df3f
+"{V5001}Huh? {W35}{F9}{B}Oh..."
+
+@NAR_DEA:53 NAR c49e8509
+"{V5002}{W10}I-{W35}I'm{W3} making the dashi for udon."
+
+@NAR_DEA:54 PLY 35a9a4b3
+"For udon?"
+
+@NAR_DEA:56 NAR b64124ff
+"{V5003}{W5}Y-{W5}Yes."
+
+@NAR_DEA:57 PLY 0d13c3ac
+"Why make udon dashi at school?"
+
+@NAR_DEA:59 NAR 933ddc25
+"{V5004}{W5}I{W3} am in{W15} the Home Ec Club.{W30} Well, sort of,{W10} {F9}but I only do udon."
+
+@NAR_DEA:60 PLY 5cf5173c
+"Oh, really?"
+
+@NAR_DEA:61 NAR 00d2cc51
+"{V5005}U-{W10}um...{W45} I'm{W45} in Year 1,{W10} Class A.{W10}{W15} I'm Satonaka{W10}{W10} Narumi.{W45} {F9}You're {Nm}{W15}...{W45} right?"
+
+@NAR_DEA:62 PLY 7e76ac5f
+"What?! You know who I am?"
+
+@NAR_DEA:65 NAR dd70abe5
+"{V0000}{W5}Yes!{W30} {Eo}I'm friends with Nana,{W20} and I've seen you, {Nm}, with her{W25} a few times."
+
+@NAR_DEA:66 PLY 18b0ca17
+"Oh, I see."
+
+@NAR_DEA:68 NAR cac0d310
+"{V0001}Yes."
+
+@NAR_DEA:69 NAR dcfac2e1
+"{V0002}And{W4} so{W4}...{W35} I thought{W3} you were cool..."
+
+@NAR_DEA:70 PLY 19156679
+"Cool? Who is?"
+
+@NAR_DEA:71 NAR dde8e9df
+"{V0003}You are, {Nm}!"
+
+@NAR_DEA:72 PLY 1ce89417
+"What?! Me?!"
+
+@NAR_DEA:73 NAR f0719009
+"{V0004}Yes!"
+
+@NAR_DEA:74 PLY f2cd505d
+"Nobody's ever said that to me before."
+
+@NAR_DEA:75 NAR 584661d6
+"{V0005}Really?"
+
+@NAR_DEA:76 PLY cc4af171
+"Yeah."
+
+@NAR_DEA:77 NAR bbd1c3a6
+"{V0006}Then{W5} that means I don't have much competition!"
+
+@NAR_DEA:78 PLY 18bca7c3
+"R-right, I guess..."
+
+@NAR_DEA:79 PLY a8784d3c
+(...Does this mean a girl actually likes me?)
+
+@NAR_DEA:81 NAR e28af274
+"{Nm}{V0007},{W15} if you don't mind,{W10} {F9}could you taste-test the dashi for me?"
+
+@NAR_DEA:82 PLY 3262dc96
+"Huh? Sure, if you want me to..."
+
+@NAR_DEA:84 NAR e1292970
+"{V0008}Do you{W2} really{W2} mean it?{W30} {Eo}I'm so happy!"
+
+@NAR_DEA:85 PLY 705c1504
+"Let's see... should I use this little dish?"
+
+@NAR_DEA:86 NAR ea57e0bb
+"{V0009}Yes."
+
+@NAR_DEA:87 PLY 903aa5fe
+"Fwoo, fwoo."
+
+@NAR_DEA:88.1 - 2edd2377
+{Ti0}- Mm, delicious!／- You do fine work.
+
+@NAR_DEA:89 PLY a991a714
+"Mm, delicious! The flavor's light, but the bonito really comes through."
+
+@NAR_DEA:90 NAR 38587d9c
+"{V0010}Ehehe,{W5}{W5}{W30} I think it came out pretty well, if I say so myself."
+
+@NAR_DEA:92 PLY 9d948b8d
+"You do fine work."
+
+@NAR_DEA:93 NAR f3279f55
+"{V0011}Ehehe,{W5}{W5}{W30} oh,{W1} it's{W1} not{W1} really{W1} that{W1} good,{W1} you{W1} know~"
+
+@NAR_DEA:94 PLY 97d0374e
+"The flavor's light, but the bonito really comes through."
+
+@NAR_DEA:95 PLY 2f2efe71
+"How do you make this?"
+
+@NAR_DEA:96 NAR e55aac2e
+"{V0012}Boil the iriko for about five minutes,{W30} add bonito and mackerel flakes,{W15} and simmer without boiling."
+
+@NAR_DEA:97 PLY a39654c7
+"Iriko?"
+
+@NAR_DEA:98 NAR 4fae4046
+"{V0013}Oh,{W10} I mean niboshi.{W35} In Sanuki,{W20} niboshi are{W10} called {Ec}iriko."
+
+@NAR_DEA:99 PLY 890082d1
+"Oh, I see. You really take this seriously."
+
+@NAR_DEA:100 NAR e0290c6e
+"{V0014}I'm an udon shop's daughter, after all."
+
+@NAR_DEA:101 PLY 122df4f6
+"Huh?"
+
+@NAR_DEA:102 NAR d69de2bf
+"{V0015}Do you know the{W30} Sanuki udon{W2}{W2} shop,{W2} Satonaka,{W20} on the shopping street?"
+
+@NAR_DEA:103 PLY 3dd3fa6b
+"Oh, I know it! It's cheap and good, so salarymen go there a lot, right?"
+
+@NAR_DEA:104 PLY c397ec07
+"I've been a few times. The udon had a great chew, and it was delicious."
+
+@NAR_DEA:105 NAR 1993ac48
+"{V0016}That shop?{W20} It's my family's!"
+
+@NAR_DEA:106 PLY eb3d440d
+"Oh, is it? ...Now that you mention it, your name is the same as the shop's."
+
+@NAR_DEA:107 NAR b6104a8e
+"{V0017}Yes."
+
+@NAR_DEA:109 NAR b861fa0c
+"{V0018}Grandpa runs the shop all by himself,{W15} and it's hard on him, so..."
+
+@NAR_DEA:110 NAR d56978ed
+"{V0019}I{W2} want{W4} to{W2} hurry{W4} up{W3} and{W3} become{W10} a full-fledged cook,{W30} and help Grandpa."
+
+@NAR_DEA:111 PLY 7eae3e63
+"That's admirable... Satonaka."
+
+@NAR_DEA:112 NAR 53bd73ad
+"{V0020}Please call me Narumi."
+
+@NAR_DEA:113 PLY 14ebda4a
+"Huh? That's kind of sudden..."
+
+@NAR_DEA:114 NAR 19c2cfcb
+"{V0021}Please call me Narumi!"
+
+@NAR_DEA:115 PLY b2964cfa
+"...Then I'll call you Narumi. Is that okay?"
+
+@NAR_DEA:116 NAR 1294a756
+"{V0022}Yes."
+
+@NAR_DEA:119 NAR 7f5c63bb
+"{V0023}{Nm},{W40} some other time...{W25} would you taste-test for me{Ti1} again?"
+
+@NAR_DEA:120 PLY 06d94481
+"Sure, anytime, if you want me to."
+
+@NAR_DEA:121 NAR ce654642
+"{V0024}Really?!{W25} {Ec}I'm so{Ti1} happy!"
+
+@NAR_DEA:122 NAR f64f4213
+"{V0025}I'm sure,{W10} {Nm},{W25} that your taste and my seasoning match perfectly,{W25} so we'll make delicious{Ti1} udon!"
+
+@NAR_DEA:123 PLY 3a22c332
+"Hahaha, you think so?"
+
+@NAR_DEA:124 NAR 1eb4b2a6
+"{V0026}{Ec}Absolutely!"
+
+@NAR_DEA:127 SYS c44d227e
+...And that was how I got to know Satonaka Narumi.
+
+@NAR_DEA:128 PLY 5e1baa93
+(What an energetic, cheerful girl.)
+
+@NAR_DEA:130 PLY fc5b51a6
+(Well then, time to head to the cafeteria...)
+
+@NAR_DEA:131 PLY 484db4ad
+(What should I eat...? The daily special? Noodles? Bread?)
+
+@NAR_DEA:132 PLY 6fb599d2
+(Hmm... curry rice is hard to pass up, too...)
+
+@NAR_DEA:133 NAN 8b74c363
+"{V0023}Ah! There he is! Big Bro!"
+
+@NAR_DEA:134 NAN 9fbdf2f2
+"{V0613}Oh,{W10} Big Bro!{W20} You're here at just the right time~!"
+
+@NAR_DEA:135 PLY bd09fe50
+"Hm?"
+
+@NAR_DEA:136 PLY d843393d
+"Oh, Nana."
+
+@NAR_DEA:138 NAN 9e42a248
+"{V0024}Hey, hey,{W5} Big Bro,{W5} got a minute?"
+
+@NAR_DEA:139 PLY 3c135ac4
+"Sure, what is it?"
+
+@NAR_DEA:140 NAN 17c7608e
+"{V0025}Ehehe,{W35} {Ec}there's someone I want you to meet."
+
+@NAR_DEA:141 PLY 8c615171
+"Huh? Someone you want me to meet?"
+
+@NAR_DEA:154 NAN 8cc86d42
+"{V0026}Come on,{W10} Naru."
+
+@NAR_DEA:155 NAR 80a5c45f
+"{V5006}Nana,{W30} this is embarrassing..."
+
+@NAR_DEA:156 NAN f0633fbb
+"{V0027}{T}Geez,{W15} Naru, you're the one who asked me to introduce you..."
+
+@NAR_DEA:157 NAR 9e6cbba7
+"{V5007}{T}I know, but..."
+
+@NAR_DEA:158 PLY d486a343
+"Hey, what is this about...?"
+
+@NAR_DEA:159 NAN 8128f947
+"{V0028}Ehehe,{W30} ta{W5}-{W5}da!{W20} Let me introduce you.{W20} This is my classmate,{W30} Satonaka Narumi!"
+
+@NAR_DEA:161 NAR e5ab62d7
+"{V5008}N-nice{W20} to meet you!{W20} I'm Satonaka Narumi!"
+
+@NAR_DEA:162 PLY 72b67ff3
+"Oh... nice to meet you. I'm Nana's brother, {Nn}."
+
+@NAR_DEA:163 NAN 39c4a6f5
+"{V0029}Naru's in Nana's class{W15} and we're super good friends, you know."
+
+@NAR_DEA:164 NAN b057dbee
+"{V0030}Right~!"
+
+@NAR_DEA:165 NAR 52438f06
+"{V0027}Right~!"
+
+@NAR_DEA:166 PLY df6b2731
+"R-really..."
+
+@NAR_DEA:167 NAN 22496470
+"{V0031}And,{W25} she's in the Home Ec Club,{W20} and she makes udon every day."
+
+@NAR_DEA:168 PLY b17b5784
+"Udon?"
+
+@NAR_DEA:169 NAR 11c73502
+"{V0028}Oh,{W20} my family{W20} {F3}runs an udon shop."
+
+@NAR_DEA:170 NAN 8e2aa8c5
+"{V0032}You know,{W20} Big Bro,{W20} on the shopping street...{W20} the Sanuki udon{W20} shop Satonaka{W5}..."
+
+@NAR_DEA:171 PLY 1158031d
+"Oh, that place with the great udon..."
+
+@NAR_DEA:176 NAR 6c4a679b
+"{V0029}Nana, what do I do?{W5} Senpai complimented us!"
+
+@NAR_DEA:177 NAN b89b2503
+"{V0033}Of course he did.{W35} Naru, your family's udon is delicious!"
+
+@NAR_DEA:178 NAR 308b053e
+"{V0030}{Ec}Ehehe,{W20} {Eo}that's because Grandpa works so hard on it."
+
+@NAR_DEA:179 NAR 000e0b5d
+"{V0031}I{W2} will{W1} hurry{W1} up{W2} and{W1} become{W1} a{W2} full-fledged{W1} cook,{W20} {F2}{Ec}and help{Ti1} Grandpa!"
+
+@NAR_DEA:180 NAN 0e3b4082
+"{V0034}You're{W5} so{W10} admirable,{W30} Naru...{W20} I should follow your example."
+
+@NAR_DEA:181 PLY 5108eb4f
+"Um, you two... didn't you come here because you needed something from me...?"
+
+@NAR_DEA:182 NAN 7a812ac7
+"{V0035}Oh... sorry, Big Bro. We went off track."
+
+@NAR_DEA:184 NAN 08de7905
+"{V0036}Let's{W10} see{W10}...{W80} {F3}you see, Big Bro,{W15} Naru{W20} says{W10} she wants to {Ec}be friends{Ti1} with you."
+
+@NAR_DEA:185 PLY 036145c0
+"Huh?"
+
+@NAR_DEA:186 NAR ccf8a82e
+"{V0032}If you don't mind,{W20} please be{W50} friends with me!"
+
+@NAR_DEA:187 PLY 27de97d9
+"I-I don't mind... if you want me..."
+
+@NAR_DEA:188 NAR 897003d2
+"{V0033}Really?!{W20} {F2}Yaaay!"
+
+@NAR_DEA:189 NAN 2cb0763e
+"{V0037}Good for you,{W10} Naru."
+
+@NAR_DEA:190 NAR c5825821
+"{V0034}Yeah!"
+
+@NAR_DEA:191 NAN ac70b61e
+"{V0038}See you, Big Bro!"
+
+@NAR_DEA:192 NAR 87e57c22
+"{V0035}I'll be going now, {Nm}!"
+
+@NAR_DEA:193 PLY 6a6ed860
+"Ah... S-Satonaka, wait a sec..."
+
+@NAR_DEA:194 NAR 5620b445
+"{V0036}{Nm},{W10} {B}please call me Narumi."
+
+@NAR_DEA:195 PLY 8b499cf5
+"Huh? I don't know about that... All right, Narumi."
+
+@NAR_DEA:196 PLY c612499c
+"Why do you want to be friends with me?"
+
+@NAR_DEA:197 NAR 2dfc0c7b
+"{V0038}{Eo}{F9}That's{W5}{W5}...{W20} well..."
+
+@NAR_DEA:198 NAR 889c7edc
+"{V0039}Because{W10} Senpai,{W50} you're just so cool!"
+
+@NAR_DEA:199 PLY f725dd6d
+"Huh..."
+
+@NAR_DEA:200 NAR 1fda5335
+"{V0040}I'll be going now!"
+
+@NAR_DEA:201 PLY 3ec1bde1
+(Ah... she's gone...)
+
+@NAR_DEA:202 PLY 636564a4
+(Cool? Nobody's ever said that to me...)
+
+@NAR_DEA:203 PLY 6d40c806
+(Satonaka Narumi, huh... The Home Ec Club, so she should be in the Home Ec Room. I'll go see sometime.)
+
+@NAR_DEA:204 PLY e64287bb
+(No point wandering around, so I might as well head home...)
+
+@NAR_DEA:205 SYS f7eccfd2
+Grumble......
+
+@NAR_DEA:206 PLY 9ea4fe78
+(Ugh... I'm hungry. There's no way I'll last until dinner.)
+
+@NAR_DEA:207 PLY 40cbf174
+(Maybe I'll grab some bread on the way home...)
+
+@NAR_DEA:208 PLY a65096ea
+(Where's that smell coming from? ...Probably the Home Ec Room. I'll take a little peek.)
+
+@NAR_DEA:213 PLY f435480c
+(Why is there udon in a place like this?!)
+
+@NAR_DEA:214 PLY 2d6435e5
+(Who made it? It looks so good...)
+
+@NAR_DEA:215 PLY 93121da1
+(...Should I eat it? No, no, I can't do that...)
+
+@NAR_DEA:216 PLY 4fb5ccdc
+(But I'm hungry... Oh, forget it! I'm eating it! It's their fault for leaving it in a place like this! Yeah!)
+
+@NAR_DEA:218 SYS a96767f0
+Slurrrrrp...
+
+@NAR_DEA:219 PLY 51337c0d
+(Whoa! Th-this is... The smell of the bonito, the way the noodles slide down, what incredible flavor!)
+
+@NAR_DEA:220 SYS 484d8328
+Slurrrrrp...{W10} Phew.
+
+@NAR_DEA:221 PLY 0f45aeeb
+"Ahh, that was good. Thanks for the meal. I ate it all in one go..."
+
+@NAR_DEA:222 NAR dfd3ec5b
+"{V5009}Aaah!{W20} {Ec}Udon thief!"
+
+@NAR_DEA:223 PLY 88024d9d
+"Ah...! Sorry! I was hungry, so I just..."
+
+@NAR_DEA:225 NAR f0b8d162
+"{V5010}Just because you were hungry, that's so mean!"
+
+@NAR_DEA:226 PLY 29729eb3
+"I'm sorry... How can I make it up to you?"
+
+@NAR_DEA:227 NAR 0a7757c2
+"{V5011}{B}Ah..."
+
+@NAR_DEA:230 NAR 934bece6
+"{V5012}N-{W10}no,{W20} it's okay.{W20} ...Oh no,{W7} look at me waving a ladle around."
+
+@NAR_DEA:231 NAR 497f1879
+"{V5013}Ahaha..."
+
+@NAR_DEA:232 PLY 1b6e8de5
+"I'm really sorry for eating it without asking."
+
+@NAR_DEA:233 NAR f8b39718
+"{V5014}No,{W12} it's okay.{W40} It's just that,{W25} {Ec}I hadn't{W5} even{W5} tasted it yet..."
+
+@NAR_DEA:234 PLY f4b00d24
+"As for the taste, it was really delicious."
+
+@NAR_DEA:235 NAR 38fa8555
+"{V5015}What?!{W22} {F2}R-{W20}really?!"
+
+@NAR_DEA:236 PLY 4c0cbea1
+"Yeah. The noodles were great, but the dashi was even better."
+
+@NAR_DEA:237 NAR 05101c58
+"{V5016}You boil the iriko about five minutes,{W25} {F7}add bonito and mackerel flakes,{W15} {F3}then simmer it without letting it boil."
+
+@NAR_DEA:238 NAR c1180d1b
+"{V5017}Oh,{W30} I mean niboshi.{W20} In Sanuki,{W15} niboshi are{W10} called iriko{Ec}."
+
+@NAR_DEA:239 NAR f64d0961
+"{V5018}I'm an udon shop's daughter, after all."
+
+@NAR_DEA:240 NAR 9146b005
+"{V5019}Do you{W4} know{W4} Satonaka,{W4} the{W25} Sanuki udon{W4}{W4} shop{W4} on the shopping street,{W20} by any{Ti1} chance?"
+
+@NAR_DEA:241 NAR 671dc7f9
+"{V5020}That shop?{W20} {Ec}It's my family's!"
+
+@NAR_DEA:242 PLY f596f20c
+"Huh? Really?"
+
+@NAR_DEA:243 NAR 4407d2ce
+"{V5021}U-{W10}um...{B}{W40} I'm{W50} in Year{W4} 1,{W4} Class{W4} A.{W30} I'm Satonaka{W4}{W4} Narumi{W2}{W2}.{W40} You're {Nm}{W10}{W10}...{W60} right?"
+
+@NAR_DEA:244 PLY e2d2eac2
+"How do you know who I am...?"
+
+@NAR_DEA:245 NAR d4b87daa
+"{V0041}I'm{W35} friends with Nana,{W20} and I've seen you with her, {Nm},{W20} a few times."
+
+@NAR_DEA:246 NAR 2a9eadfa
+"{V0042}Yes."
+
+@NAR_DEA:247 NAR d700b86b
+"{V0043}And{W4} so{W4}{W10}...{B}{W40} I thought{W5} you were cool..."
+
+@NAR_DEA:248 NAR 30cfc13a
+"{V0044}You are, {Nm}!"
+
+@NAR_DEA:249 NAR 3b224b8e
+"{V0045}{Ec}Yes!"
+
+@NAR_DEA:250 NAR 265b8453
+"{V0046}Really?"
+
+@NAR_DEA:251 NAR bcc59f8f
+"{V0047}Then{W10} that means I don't have much competition!"
+
+@NAR_DEA:252 PLY 72c54cfd
+"By the way, why are you making udon at school?"
+
+@NAR_DEA:253 NAR e2298f50
+"{V5022}I'm{W10} in the Home Ec Club.{W20} {F9}Though I{W15} only do udon."
+
+@NAR_DEA:254 PLY adaeb24e
+"Hahaha, I see."

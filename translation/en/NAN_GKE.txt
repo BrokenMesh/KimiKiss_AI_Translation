@@ -1,0 +1,59 @@
+# NAN_GKE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_GKE:6 NAN 11b9ad06
+"We ran into each other at the shoe lockers, Big Bro."
+
+@NAN_GKE:8 PLY 0fc0aef1
+"I suppose that can happen."
+
+@NAN_GKE:9 NAN 00b488e3
+"I saw the whole thing, Big Bro."
+
+@NAN_GKE:10 PLY 3e4246b3
+"Nana! You were watching, weren't you?!"
+
+@NAN_GKE:11 NAN 584c602e
+"You stood me up, Big Bro."
+
+@NAN_GKE:12 PLY d112aff2
+"So I stood you up, huh, Nana."
+
+@NAN_GKE:13 NAN 71072f9c
+"We ran into each other at the school gate, Big Bro."
+
+@NAN_GKE:37 NAN 69358780
+"{V0303}{W10}Oh,{W25} Big Bro{W5}!"
+
+@NAN_GKE:38 PLY e032dbc8
+"Nana, heading to the school gate now?"
+
+@NAN_GKE:39 NAN da46d5cb
+"{V0304}{W8}{Ec}Yeah,{W15} I am.{W30} {Eo}You too, Big Bro{W4}?"
+
+@NAN_GKE:41 PLY 8422b3f8
+"Yeah."
+
+@NAN_GKE:42 NAN b93ce875
+"{V0305}{W8}Yay{W3}!{W3} {W18}What{W7} a{W7} coincidence,{W1} huh?{Ec}"
+
+@NAN_GKE:43 PLY 00daeddf
+"Hahaha, I guess so."
+
+@NAN_GKE:44 NAN 39761129
+"{V0307}{W8}Oh,{W15} Big Bro{W4}!"
+
+@NAN_GKE:45 PLY e095346b
+"Nana, have you been waiting long?"
+
+@NAN_GKE:46 NAN f6cf8d0f
+"{V0308}{W8}No{W2}...{W1} {W33}I just{W5} got{W1} here{W1}~!"
+
+@NAN_GKE:47 PLY 696225c1
+"Oh, good."
+
+@NAN_GKE:48 PLY effdc07f
+"Then let's go."
+
+@NAN_GKE:50 NAN fd3b9eb8
+"{V0309}{W5}{Ec}Okay!{W15} {Eo}Let's{W3} go{W3} home~!"

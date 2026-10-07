@@ -1,0 +1,167 @@
+# MAO_MST -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_MST:15 - 961bdeb8
+Protagonist's cards left: 
+
+@MAO_MST:27 PLY 8c2a258e
+(Oh... that's Mao)
+
+@MAO_MST:30.1 - 8005e300
+{Ti0}- Talk to Mao／- Don't talk to her now
+
+@MAO_MST:31 PLY 6174f1a7
+"Mao, what are you doing?"
+
+@MAO_MST:46 MAO b600556e
+"{Nn}."
+
+@MAO_MST:47 PLY e9f9f144
+"Do you have time to talk right now?"
+
+@MAO_MST:48 MAO b46ca1f2
+"{V1498}Sure, {W20}what is it?"
+
+@MAO_MST:50 MAO 57423ec0
+"{V1499}Oh, {W15}sorry~, {W20}now {W10}is a bit{E}{3} of a bad time."
+
+@MAO_MST:51 PLY 542af83a
+"I see..."
+
+@MAO_MST:54 MAO 092dcd7d
+"{V1500}{W10}Well then, {W5}see you."
+
+@MAO_MST:55 MAO 68598a90
+"{V1501}Ah, {W5}no, no. {W10}I'm about to change."
+
+@MAO_MST:56 PLY 876a2929
+"Oh, I see..."
+
+@MAO_MST:57 MAO 366782ac
+"{V1502}See you."
+
+@MAO_MST:58 PLY 2fa2a1ab
+(I'll talk to Mao some other time, I guess...)
+
+@MAO_MST:69 MAO 9ea7c641
+"{W5}{V1503}Oh, {Nn}. {W15}{F3}Got a minute?"
+
+@MAO_MST:71.1 - ebc8ac86
+{Ti0}- Yeah, sure／- Sorry, not now
+
+@MAO_MST:72 PLY cf543578
+"Yeah, sure."
+
+@MAO_MST:73 MAO a4df0be1
+"{V1504}Then, {W5}want to talk for a bit? {W10}{F9}I've got nothing to do{W2}, {W10}{Ec}so I'm bored{W3}~"
+
+@MAO_MST:74 PLY 66aff371
+"Sorry, not now."
+
+@MAO_MST:75 MAO 53b86a12
+"{V1505}{W5}Aw, {W25}really?{Ec}"
+
+@MAO_MST:77 MAO 566f77dd
+"{V1506}{W5}Well then{W10}, see you, {Nn}."
+
+@MAO_MST:78 PLY e03a6130
+"Yeah, see you."
+
+@MAO_MST:79 PLY 15d8399b
+"Mao, got a minute?"
+
+@MAO_MST:80 MAO f2ab8c33
+"{V1507}Sure. {W20}What is it?"
+
+@MAO_MST:81 MAO 66d18cee
+"{V1508}Oh, {Nn}. {W20}Sorry~, {W30}I'm a bit{W5} tied up{W5} right now. {W25}Another time, okay?"
+
+@MAO_MST:82 PLY 21458ef1
+"Oh... okay, see you."
+
+@MAO_MST:83 MAO ab7c2c78
+"{V1509}Oh, {Nn}. {W25}No, no, {W25}I'm about to change."
+
+@MAO_MST:84 PLY 696225c1
+"Oh, okay."
+
+@MAO_MST:85 MAO 9bb89cb9
+"{V1510}Well then, {W20}see you."
+
+@MAO_MST:89 MAO e2b9239e
+"{V1511}Oh, {Nn}. {W20}{F2}If you're free, {W3}want to talk for a bit?{Ec}"
+
+@MAO_MST:90.1 - 4a90b521
+{Ti0}- Yeah, sure／- Sorry, not right now
+
+@MAO_MST:91 MAO 524f3d58
+"{V1512}Fufu, {W15}what shall we talk about? {W30}Got any good stories?"
+
+@MAO_MST:92 PLY 9130a981
+"Sorry, not right now."
+
+@MAO_MST:93 MAO a8594120
+"{V1513}{W3}Aw, {W30}really? {W35}You look{W5} free, though..."
+
+@MAO_MST:94 PLY 2cc568e3
+"Sorry, it's just... you know."
+
+@MAO_MST:96 MAO 6aa70705
+"{V1514}I see. {W40}Can't be helped. {W30}{F9}{Eo}Well, {W20}see you."
+
+@MAO_MST:97 MAO 8dde4a2d
+"{V1515}Oh, {Nn}.{F2}"
+
+@MAO_MST:98 PLY 0fec8c4a
+"If you're free, want to talk for a bit?"
+
+@MAO_MST:101 MAO d69de15f
+"{V1516}Fufu, {W35}sure. {W25}{Eo}What shall we talk about?"
+
+@MAO_MST:103 MAO d883c7f3
+"{V1517}{W5}{W5}Sorry~, {W35}I'd like to talk, but {W30}{Ec}I have a bit{W5} of an errand{W3} to run."
+
+@MAO_MST:104 MAO c6f1973c
+"{V1518}Another time, {W20}okay?"
+
+@MAO_MST:105 PLY cc4af171
+"Okay."
+
+@MAO_MST:106 MAO 81f1650b
+"{V1519}{W35}See you, {Nn}."
+
+@MAO_MST:107 MAO 65f3044a
+"{V1520}{W5}{W5}Sorry~, {W35}I'd like to talk, but {W15}{Ec}{F6}I have to change now, {W5}or I'll be late{W5} for the next class.{Eo}"
+
+@MAO_MST:108 PLY c6ead430
+"Oh, right..."
+
+@MAO_MST:109 MAO 301b9309
+"{V1521}See you later, {W20}okay?"
+
+@MAO_MST:110 MAO 688dcbaf
+"{V1522}{W35}See you, {Nn}."
+
+@MAO_MST:115 MAO b4a1992d
+"{Nn}, {V1523}what are you doing?"
+
+@MAO_MST:116 PLY 1f572bcf
+"Oh, Mao."
+
+@MAO_MST:117 MAO f29e7850
+"{V1524}If you're free, {W5}want to talk for a bit? {W5}Come on."
+
+@MAO_MST:118.1 - 4a90b521
+{Ti0}- Yeah, sure／- Sorry, not right now
+
+@MAO_MST:119 MAO fe2422fe
+"{V1525}Fufu, {W30}thanks."
+
+@MAO_MST:120 MAO 48deb7ac
+"{V1526}Awww, {W15}really? {W35}{Ec}That's boring..."
+
+@MAO_MST:121 PLY 6712d621
+"Boring, you say..."
+
+@MAO_MST:122 MAO fed4c331
+"{V1527}{W25}Oh well, {W10}fine. {W25}See you {W15}later."

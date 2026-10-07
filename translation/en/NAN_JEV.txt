@@ -1,0 +1,83 @@
+# NAN_JEV -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_JEV:21 PLY e5471f23
+"Hey, Nana. Got a minute?"
+
+@NAN_JEV:23 NAN 8e1a5538
+"{V07905}Yeah,{W30} sure.{W20} Come in, come in~!"
+
+@NAN_JEV:42 NAN c7f2e60c
+"{V7906}What's wrong, Big Bro?"
+
+@NAN_JEV:43 PLY aebea591
+"Can you tell me what my reputation is?"
+
+@NAN_JEV:44 NAN bb2d2c8f
+"{V7907}Sure,{W12} okay.{W23} Give me{W5} a sec."
+
+@NAN_JEV:45 NAN 6133bb8b
+"{V7908}It's probably...{W40} something{W2} like this?"
+
+@NAN_JEV:46 NAN b77680ce
+"{V7909}Ehe,{W30} if I'm wrong,{W12} sorry."
+
+@NAN_JEV:47 PLY 866ee34d
+"Thanks, Nana."
+
+@NAN_JEV:48 NAN 06b1e42a
+"{V7910}Yeah.{W30} Good night,{W17} {Ec}Big Bro."
+
+@NAN_JEV:53 NAN 2641136f
+"{V7911}Big Bro,{W50} I was{W10} just about to go to sleep~"
+
+@NAN_JEV:54 PLY d9965a5d
+"A little while won't hurt, right?"
+
+@NAN_JEV:55 NAN 54a1e933
+"{V7912}Mmm{W20}...{W50} I'm sleepy{W5}, though~"
+
+@NAN_JEV:59 NAN 365b8449
+"{V7913}What is it{W5}~,{W30} Big Bro?"
+
+@NAN_JEV:60 NAN b194cab8
+"{V7914}Reputation?{W60} {Ec}Can't it wait{W10} until tomorrow~?"
+
+@NAN_JEV:61 PLY be81cabb
+"I really want to know now."
+
+@NAN_JEV:62 NAN 7ff1ac95
+"{V7915}Mmm{W20}...{W50} Oh, all right."
+
+@NAN_JEV:63 NAN d308f0f3
+"{V7916}Here.{W40} It's like this..."
+
+@NAN_JEV:65 NAN 71854123
+"{V7917}{Mo}Yaaawn,{Mc}{W90} good night~,{W30} Big Bro."
+
+@NAN_JEV:67 NAN 049c4a7f
+"{V7918}Hey~ hey~,{W20} Big Bro,{W20} got a minute?"
+
+@NAN_JEV:68 PLY 45e53992
+"Oh, Nana. What's up? Come in."
+
+@NAN_JEV:70 PLY dad935f2
+"Did you need something?"
+
+@NAN_JEV:71 NAN 61bc01a1
+"{V7919}Ehehe,{W30} {Eo}I thought it was about time{W20} Big Bro came to ask about his reputation{W15}."
+
+@NAN_JEV:72 PLY eb9af751
+"...H-how do you know that?"
+
+@NAN_JEV:73 NAN e8c84cd1
+"{V7920}I can tell that much~.{W40} Because{W30} we're siblings."
+
+@NAN_JEV:74 PLY d01a0294
+"R-right. We're siblings, hahaha..."
+
+@NAN_JEV:75 NAN 2464f77f
+"{V7921}Here.{W30} It's like this."
+
+@NAN_JEV:76 NAN 4403eb15
+"{V7922}Well, see you{Ec}"

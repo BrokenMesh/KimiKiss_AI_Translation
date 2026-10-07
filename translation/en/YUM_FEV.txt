@@ -1,0 +1,2117 @@
+# YUM_FEV -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@YUM_FEV:66 PLY 8ef21303
+(Phew, the library's air conditioning makes it so cool in here.)
+
+@YUM_FEV:69 PLY 691dc487
+(Oh yeah, I wonder if Hoshino's here.)
+
+@YUM_FEV:72 PLY 08e4a0b5
+(Huh? She's not here... Maybe she's not on desk duty today.)
+
+@YUM_FEV:73 PLY 7d14dbb9
+(Ah... isn't that her by the window...)
+
+@YUM_FEV:77 PLY 28308e1d
+(It is Hoshino.)
+
+@YUM_FEV:78 PLY 8331d188
+"Hoshino."
+
+@YUM_FEV:79 YUM ced04965
+"{V1049}{W12}...{W8}..."
+
+@YUM_FEV:80 PLY 73d216fe
+(Huh? Didn't she hear me?)
+
+@YUM_FEV:81 PLY 6a4a05d3
+"{Ts3}Hoshino!{Ts2}"
+
+@YUM_FEV:82 YUM 22738c6f
+"{V1050}{W12}...{W8}..."
+
+@YUM_FEV:83 PLY d58555fb
+(Ugh... no answer. Fine, if that's how it is, I'll shout!)
+
+@YUM_FEV:84 PLY e0b91015
+"{Ts4}Hoshino!!{Ts2}"
+
+@YUM_FEV:107 YUM 60100c91
+"{V1051}{W12}{S}Y-{W5}yes!{W2}"
+
+@YUM_FEV:110 YUM 0591c0e9
+"{V1052}{W12}Oh,{W15} {Nm}.{W15} You{W3} startled{W3} me{W3}~"
+
+@YUM_FEV:111 PLY c9bf16c7
+"Sorry, sorry. I called you a few times, but you didn't notice."
+
+@YUM_FEV:113 YUM 67765ad5
+"{V1053}{W12}Huh?{W28} R-{W23}really?{W23} I'm sorry.{W53} {Ec}Once{W6} I{W23} start{W2} reading{W1} a book,{W1} I get{W1} absorbed.{W1}"
+
+@YUM_FEV:114 PLY 899d4139
+"Hahaha, so it seems."
+
+@YUM_FEV:115 PLY 0f5e04d4
+"What were you reading?"
+
+@YUM_FEV:116 YUM 3f0d1add
+"{V1054}{W10}A mystery{W1} novel.{W40} I thought I'd{W1} cool{W2} off{W1} by feeling chilled."
+
+@YUM_FEV:117 PLY ece2483f
+"Yeah, it's still so hot~"
+
+@YUM_FEV:118 YUM b2c95882
+"{V1055}{W9}Yes."
+
+@YUM_FEV:119 YUM 45012f42
+"{V1056}{W8}{Nm},{W10} have{W3} you{W3} read{W5} any{W3} books{W10} lately?{W3}{W5}{W1}{W1}{W1}"
+
+@YUM_FEV:120 PLY 0de20e18
+"Huh? ...W-well, sure."
+
+@YUM_FEV:121 YUM 72c2e8b3
+"{V1057}{W12}{F2}Really?{W1} {W9}What{W1} kind of book?"
+
+@YUM_FEV:122.1 - 1d31704d
+{Ti0}- Romance novel／- Sci-fi novel／- Manga
+
+@YUM_FEV:123 PLY b2149870
+"I read a romance novel."
+
+@YUM_FEV:124 PLY 8c09c0dc
+(Though that was a long time ago...)
+
+@YUM_FEV:125 YUM f9dfb414
+"{V1058}{W15}Huh?{W5} You{W3} like{W3} romance{W3} novels?{W5}"
+
+@YUM_FEV:126 PLY 97a57175
+"W-well, yeah."
+
+@YUM_FEV:129 YUM 227dd314
+"{V1059}{W12}What{W6} a{W6} coincidence.{W40} Romance{W6} novels{W35} are{W3} my{W3} favorite{W5} kind.{W3}{W3}{W10}{W2}{W2}{W1}"
+
+@YUM_FEV:131 PLY 5cf5173c
+"Oh, really?"
+
+@YUM_FEV:132 PLY 0c38a395
+"I read a sci-fi novel."
+
+@YUM_FEV:133 PLY e8e4ae54
+(Though that was back in middle school...)
+
+@YUM_FEV:134 YUM 6e08f5fe
+"{V1060}{W12}Sci-{W8}fi?{W15} {W10}{W8}What kind?{W48}"
+
+@YUM_FEV:135 PLY 153176b7
+"Um, a time-travel story. A modern person slips back into the age of the dinosaurs."
+
+@YUM_FEV:137 YUM 6403939e
+"{V1061}{W12}Hmm,{W8} {W8}{W8}that{W18} sounds{W3} fun.{W45} {Ec}Perfect{W1} for{W1} summer.{W3}"
+
+@YUM_FEV:138 PLY 70fde7d8
+"Perfect for summer? Why?"
+
+@YUM_FEV:139 YUM be87bd4c
+"{V1062}...{W3}Um,{W30} {Ec}{W5}{F7}{Eo}w-{W12}well,{W12} {W50}{Ec}{W5}{F9}{Eo}you know,{W27} there's{W2} often{W1} a{W3} dinosaur{W6} exhibit{W3} in{W3} summer.{W2}"
+
+@YUM_FEV:140 PLY e064f695
+"Hahaha, now that you mention it, you're right."
+
+@YUM_FEV:141 PLY 57fc45b2
+"As for manga, I read it a lot."
+
+@YUM_FEV:143 YUM c48d5e73
+"{V1063}{W12}Fufu,{W3}{W3}{W18} {Eo}I{W6} sometimes{W5} read{W3} it{W6} too."
+
+@YUM_FEV:144 PLY f596f20c
+"Huh? Really?"
+
+@YUM_FEV:145 YUM 3bc3f6c5
+"{V1064}{W12}Yes.{W3} {W30}I{W3} don't read{W3} manga magazines,{W5} but{W10} {Ec}{W5}{Fe3}{Eo}when{W3} a volume{W3} comes{W3} out,{W5} I read{W3} it{W3} all{W3} at once."
+
+@YUM_FEV:146 PLY 828e0dee
+"Well, I'd better get going. Sorry for interrupting your reading."
+
+@YUM_FEV:148 YUM b3148c9e
+"{V1065}{W15}N-{W5}no.{W3}{W3} {W10}I{W6} enjoyed{W5} it{W3} too."
+
+@YUM_FEV:151 PLY b16fc844
+(...She didn't even notice when I talked to her. Hoshino really loves books.)
+
+@YUM_FEV:153 PLY 48a8f339
+(Huh? Isn't that...)
+
+@YUM_FEV:154 PLY 27880433
+"Hoshino!"
+
+@YUM_FEV:156 YUM 9835244e
+"{V1066}{W12}Oh,{F3} {Nm}."
+
+@YUM_FEV:157 PLY 8f7eb314
+"What are you doing?"
+
+@YUM_FEV:158 YUM b733e39d
+"{V1067}{W12}I'm watering{W3} the flowers.{W3}"
+
+@YUM_FEV:159 YUM fca50c86
+"{V1068}{W15}If I{W3} don't water them{W3} early,{W3} {W3}{W15}{Ec}{W5}{F9}{Eo}the{W3} water gets hot{W3} and{W5} they wither,{W3} so I thought I'd{W3} do it now."
+
+@YUM_FEV:160 PLY 4c44dad1
+"Oh, I see. So you shouldn't water flowers in the afternoon."
+
+@YUM_FEV:161 YUM 62596451
+"{V1069}{W12}Right.{W2}{W2} {W10}Especially{W3} in{W5} summer.{W3}"
+
+@YUM_FEV:162 YUM 8f172e1d
+"{V1070}{W12}Flowers{W3} are{W8} {W6}the same as us.{W8} {W25}{Ec}{W5}{Fe9}{Eo}We{W6} wouldn't{W23} want{W3} to{W3} drink{W3} hot{W3} water{W10} in{W3} the heat either, would we?"
+
+@YUM_FEV:163 PLY a71d23e6
+"I see... that makes sense."
+
+@YUM_FEV:164 PLY 496599ee
+"Hoshino, you're..."
+
+@YUM_FEV:165.1 - c840cb3f
+{Ti0}- So kind／- So knowledgeable／- Kind of odd
+
+@YUM_FEV:166 PLY 25fd82ba
+"So kind."
+
+@YUM_FEV:168 YUM 41a41abd
+"{V1071}{W12}What?!"
+
+@YUM_FEV:170 YUM bf78b144
+"{V1072}{W15}N-{W25}no!{W5}{W3} {W20}Not me{W6}...{W20} {Sd}{Ec}{W5}{F6}{Eo}that's{W5} not true."
+
+@YUM_FEV:171 PLY d756874c
+"No..."
+
+@YUM_FEV:172 PLY 0be1d32d
+"They say nobody who loves flowers is a bad person, and I think you're really kind."
+
+@YUM_FEV:173 YUM b7c63c14
+"{V1073}{W12}Th-{W40}thank you...{W35} {Ec}{W5}{F6}{Eo}No one's{W2} said that to{W3} me{W20} before..."
+
+@YUM_FEV:174 PLY bf010d62
+"So knowledgeable."
+
+@YUM_FEV:175 YUM 455437ff
+"{V1074}{W12}Yes.{W2} {W32}It was{W3} in a gardening{W3} book."
+
+@YUM_FEV:176 PLY 8b780eb9
+"Oh, it was in a book. That's so like you."
+
+@YUM_FEV:177 YUM a070b3e2
+"{V1075}{W15}Fufu."
+
+@YUM_FEV:178 PLY 74e07491
+"Kind of odd."
+
+@YUM_FEV:179 YUM 11c5800e
+"{V1076}{W12}Eh..."
+
+@YUM_FEV:180 YUM 40238207
+"{V1077}{W15}Am{W6} I{W30} odd...{W3}"
+
+@YUM_FEV:181 PLY a9a825f7
+"Oh, no, I don't mean it badly."
+
+@YUM_FEV:182 PLY 26ca09dc
+"I don't think many people can feel what a flower feels, so I think that's really nice..."
+
+@YUM_FEV:183 YUM 0b36f7f1
+"{V1078}{W12}Thank you."
+
+@YUM_FEV:184 PLY fb7e6d27
+"...Huh? Come to think of it, you're on the Library Committee, right?"
+
+@YUM_FEV:185 YUM 42a11b08
+"{V1079}{W12}Yes."
+
+@YUM_FEV:186 PLY 44e65d34
+"Isn't watering the flowers supposed to be done by whoever's on Schoolyard cleaning duty?"
+
+@YUM_FEV:188 YUM 3ed62fdc
+"{V1080}{W12}Y-{W2}yes...{W2} {W30}that's true, but..."
+
+@YUM_FEV:190 YUM d6bfe169
+"{V1081}{W15}Everyone tends to forget."
+
+@YUM_FEV:191 PLY d1638743
+"I see... right. You remember to clean the Schoolyard, but not the flowers..."
+
+@YUM_FEV:192 PLY 6c098a6d
+"I'll be careful not to forget when it's my cleaning duty."
+
+@YUM_FEV:193 YUM 069c05c9
+"{V1082}{W12}N-{W5}no.{W3} {W28}I think{W2} whoever{W2} notices{W2} can water them,{W3} so{W8} don't worry about it."
+
+@YUM_FEV:195 YUM 662d531b
+"{V1083}{W12}Be{W3}sides,{W3} {W18}I{W11} like doing it."
+
+@YUM_FEV:196 PLY 876a2929
+"I see..."
+
+@YUM_FEV:197 SYS 0b1141bf
+...And so, I spent time with Hoshino.
+
+@YUM_FEV:199 PLY f727bb61
+(Next class is an experiment in the Science Lab.)
+
+@YUM_FEV:200 PLY 84c01bc7
+(I got here really early. Surely nobody's here yet.)
+
+@YUM_FEV:202 YUM 1f68fdcd
+"{V1084}{W12}Oh, {Nm}."
+
+@YUM_FEV:203 PLY 129548cf
+"Oh, Hoshino! You're here early."
+
+@YUM_FEV:204 YUM 478a5665
+"{V1085}{W12}So are you, {Nm}."
+
+@YUM_FEV:205 PLY ef7cff26
+"I thought I'd be the first one here, so I'm surprised."
+
+@YUM_FEV:206 YUM a530b911
+"{V1086}{W12}Fu{W3}fu,{W3} {W21}I{W6} thought{W18} no one{W3} would be here yet either,{W3} {W20}{Ec}so I was surprised.{W3}"
+
+@YUM_FEV:207 PLY 598f12df
+"Why so early?"
+
+@YUM_FEV:208 YUM eb1cf0cd
+"{V1087}{W12}Just now,{W30} the teacher{W3} {W3}asked me{W15} to{W3} set{W5} up{W3} the{W3} experiment{W3} equipment.{W5}"
+
+@YUM_FEV:209 PLY 0e9dadca
+"Huh? But you're not the class representative."
+
+@YUM_FEV:210 YUM c3a33e37
+"{V1088}{W12}Yes.{W2}{W2} {W35}The{W3} class{W5} representative{W3} couldn't{W5} be found, it seems,{W10} so{W6} they asked me."
+
+@YUM_FEV:211 PLY 43a0ba70
+(No... I bet it's because asking Hoshino means it'll get done properly, and she's easy to ask...)
+
+@YUM_FEV:212 PLY 503f8a89
+"I see. Then I'll help."
+
+@YUM_FEV:214 YUM 0e85695d
+"{V1089}{W12}Huh?{W30} {Ec}{W5}{F9}{Eo}It's fine,{W5} I can{W3} do it alone.{W35} {Ec}{W5}{F3}{Eo}Don't worry about it, {Nm}, just relax."
+
+@YUM_FEV:215 PLY ca28b788
+"I can't do that. We're the only two here, so let's do it together."
+
+@YUM_FEV:216 YUM 84db799c
+"{V1090}{W12}Thank you."
+
+@YUM_FEV:217 YUM 1b5db4e9
+"{V1091}{W20}Then,{W20} could you take out{W5} ten{W5} beakers?{W30} I'll{W6} get{W13} the alcohol lamps."
+
+@YUM_FEV:218 PLY ccb6a628
+"Okay."
+
+@YUM_FEV:219 SYS ee2af1a1
+...And so, I prepared for the experiment with Hoshino.
+
+@YUM_FEV:220 SYS d2d5cece
+Hoshino arranged the equipment neatly. Compared to that, mine was sloppy, even a mess. This kind of thing really shows your personality...
+
+@YUM_FEV:222 PLY 409ecccf
+(Next class is music...)
+
+@YUM_FEV:223 PLY a1cd21cb
+(Nobody's here yet... Did I come too early?)
+
+@YUM_FEV:224 PLY 4dadcf31
+(Hm? There's trash on the floor next to the piano... Who threw it there? Honestly...)
+
+@YUM_FEV:225.1 - 53d8afe3
+{Ti0}- Pick it up and throw it away／- Leave it／- Stomp on it
+
+@YUM_FEV:226 PLY 6cfcc8e6
+(Oh well, I'll throw it away.)
+
+@YUM_FEV:229 YUM 21b267e6
+"{V1092}{W4}Oh,{W20} {Nm}.{W45} {F3}You're{W2} here{W2} ear{W2}ly{W2}.{W3}{W2}{W2}"
+
+@YUM_FEV:230 PLY 42001a88
+"Oh, Hoshino. You're early too."
+
+@YUM_FEV:232 YUM d04bb7e4
+"{V1093}{Fe2}{Ec}{W4}Fu{W1}fu,{W1}{W45}{Fe3}{Eo} I{W25} love{W3} music.{W3}{W2}{W2}{W1}{W1}{W1}"
+
+@YUM_FEV:233 PLY e1c61f81
+"Oh, really? Can you play the piano or something?"
+
+@YUM_FEV:235 YUM a0feb6c9
+"{V1094}{W4}N-{W10}no.{W34} I don't{W2} play{W2} any{W10} instrument...{W2} {W50}I{W3} only{W3} listen.{W1}{W1}{W1}{W1}"
+
+@YUM_FEV:236 PLY 9d6abc0b
+"Hahaha, I see."
+
+@YUM_FEV:237 YUM ad3f8e16
+"{V1095}{W5}Huh?{W20} {Nm},{W17} what's{W2} that{W2} in{W1} your{W1} hand?{W1}{W1}{W15}"
+
+@YUM_FEV:238 PLY 866dc8c1
+"Oh, this? It was lying here, so I figured I'd throw it away."
+
+@YUM_FEV:239 YUM f6c45e88
+"{V1096}{W10}I see."
+
+@YUM_FEV:241 YUM 16c07f08
+"{V1097}{W9}Can{W5} I{W10} come{W1} with{W1} you?{W1}"
+
+@YUM_FEV:242 PLY 76a5c35a
+"Huh? The trash can's right over there."
+
+@YUM_FEV:243 YUM c87e117d
+"{V1098}{W11}Then,{W18} just that far."
+
+@YUM_FEV:244 PLY 44aeb433
+"Sure, but it's not going to be fun."
+
+@YUM_FEV:245 YUM 05c6c315
+"{V1099}{Ec}{W3}Fufu."
+
+@YUM_FEV:246 SYS f327fcdd
+...And so, we threw away the trash together.
+
+@YUM_FEV:247 PLY 6f111a89
+(Well, someone will throw it away. It's fine to leave it.)
+
+@YUM_FEV:248 YUM 4ada8137
+"{V1100}{W9}Oh,{W15} {Nm}.{W24} {F3}You're{W2} here{W2} ear{W2}ly.{W2}{W3}{W1}"
+
+@YUM_FEV:249 YUM 571fdac8
+"{V1101}{W4}{Fe2}{Ec}Fu{W1}fu,{W1}{W33}{Fe3}{Eo} I{W24} love{W3} music.{W3}{W3}{W2}{W2}{W2}{W1}"
+
+@YUM_FEV:250 YUM e8b6a826
+"{V1102}{W4}N-{W30}no.{W30} I don't{W2} play{W1} any{W8} instrument...{W2} {W45}{Ec}{W5}{F6}{Eo}I{W5} only{W3} listen.{W2}{W2}{W1}"
+
+@YUM_FEV:251 YUM 0c808c22
+"{V1103}{W7}Oh..."
+
+@YUM_FEV:252 PLY 56fce8c9
+"Hm? Is something wrong?"
+
+@YUM_FEV:253 YUM 0509d908
+"{V1104}{W3}There's{W1} trash{W1} lying{W1} right{W1} here{W3}{W1}{W1}."
+
+@YUM_FEV:254 PLY bfc1dcfe
+"Oh, yeah... you're right."
+
+@YUM_FEV:256 YUM 16ea814c
+"{V1105}{W5}I'll{W29} go throw it away."
+
+@YUM_FEV:257 PLY 26cc13bd
+"Ah, Hoshino... She's gone."
+
+@YUM_FEV:258 PLY dd018722
+(I shouldn't have assumed someone else would throw it away. I should have done it myself...)
+
+@YUM_FEV:259 PLY 644ddb34
+(It's an eyesore, so I'll stomp it! Take that! And that!)
+
+@YUM_FEV:260 PLY 1f72e599
+(All right, it's flat now. ...But it's dirty and stands out even more.)
+
+@YUM_FEV:261 YUM cf00cee7
+"{V1106}{W5}Oh,{W10} {Nm}.{W12} {F3}You're{W2} here{W2} ear{W2}ly.{W2}{W3}{W2}{W2}"
+
+@YUM_FEV:262 YUM b7159bfa
+"{V1107}{W5}{Fe2}{Ec}Fu{W1}fu,{W1}{W50}{Fe3}{Eo} I{W20} love{W3} music.{W3}{W3}{W2}{W3}{W2}{W2}"
+
+@YUM_FEV:263 YUM b6f85a61
+"{V1108}{W4}N-{W10}no.{W30} I don't{W2} play{W2} any{W8} instrument...{W2} {W27}{Ec}{W5}{F6}{Eo}I{W4} only{W3} listen.{W1}{W1}"
+
+@YUM_FEV:264 YUM 4d68e907
+"{V1109}{W8}Oh..."
+
+@YUM_FEV:265 YUM bb8a0d4a
+"{V1110}{W7}There's trash lying here."
+
+@YUM_FEV:266 YUM aa887113
+"{V1111}{F3}{W4}I'll{W25} go throw it away."
+
+@YUM_FEV:267 PLY 78151736
+(I can't tell her I'm the one who stomped on it. Ugh... sorry, Hoshino...)
+
+@YUM_FEV:269 PLY 79cff54d
+(Well, time to head home...)
+
+@YUM_FEV:272 YUM d5052bb7
+"{Nm}."
+
+@YUM_FEV:273 PLY 34c83697
+"Oh, Hoshino. You're still here."
+
+@YUM_FEV:274 YUM 32b73491
+"{V1113}{Ec}{W6}Yes."
+
+@YUM_FEV:275 PLY c4b7c3d6
+"What are you doing here by yourself?"
+
+@YUM_FEV:276 YUM abcb46db
+"{V1114}{Eo}{W7}Cleaning{W3} the{W3} classroom.{W3}{W4}"
+
+@YUM_FEV:277 PLY b8def5d8
+"Cleaning... by yourself? What about everyone else?"
+
+@YUM_FEV:278 YUM 0abab345
+"{V1116}{W7}We{W1} all{W2} did{W2} it{W2} together,{W30} {Ec}{W5}{Fe9}{Eo}but errands{W15} and{W1} club{W2} work{W2} got{W2} busy{W2}{W2}{W1}{W1}{W1}{W1},{W16} {Ec}{W5}{F3}{Eo}so now{W5} it's{W14} just{W5} me{W4}."
+
+@YUM_FEV:279 PLY 17e1fa4a
+"That's... you can't do it alone."
+
+@YUM_FEV:280 YUM 77088bdc
+"{V1117}{W7}No.{W23} It's{W2} almost{W2} finished,{W18} {Ec}{W5}{F3}{Eo}so{W2} if{W2} I{W1} take{W1} my{W1} time{W3} it's{W4} fine.{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W4}"
+
+@YUM_FEV:281 YUM 570ff1fc
+"{V1118}...{W2}If{W2} anything,{W20} I{W2} can{W1} do{W1} it{W1} slowly,{W22} and{W2} I'm{W2} {Ec}happy{W1} to{W1} see{W1} the{W1} classroom{W1} get{W1} clean.{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@YUM_FEV:282 PLY 499877e1
+"R-really?"
+
+@YUM_FEV:283 YUM 4f8b1407
+"{V1119}{W4}Yes.{W36} I{W18} love{W1} cleaning.{W1}{W1}{W1}{W1}{W1}"
+
+@YUM_FEV:284 PLY c4131f42
+(...Even if she loves cleaning, cleaning a whole classroom alone must be hard...)
+
+@YUM_FEV:285.1 - 7704760f
+{Ti0}- Sorry I didn't notice...／- The classroom is cleaner than usual
+
+@YUM_FEV:286 PLY 832fbcda
+"Sorry I didn't notice..."
+
+@YUM_FEV:287 YUM 0b167bdd
+"{V1122}{W4}Huh?"
+
+@YUM_FEV:288 PLY fcd3eac2
+"If I'd noticed you were alone, I could have helped..."
+
+@YUM_FEV:289 YUM 0058bfd4
+"{V1123}{W4}N-{W10}no,{W11} you{W1} don't{W25} {Ec}{W5}{F6}{Eo}have{W1} to.{W1}{W1}{W1}"
+
+@YUM_FEV:290 YUM 469abd3e
+"{V1124}{W4}Thank you."
+
+@YUM_FEV:291 YUM 70c937fe
+"{V1125}{Eo}{W4}Well,{W8} I'll{W35} go throw out the trash."
+
+@YUM_FEV:292 PLY 8451965c
+"The classroom is cleaner than usual."
+
+@YUM_FEV:293 YUM 80b64fb9
+"{V1126}{W6}Really?{W39} {Ec}I'm{W5} glad."
+
+@YUM_FEV:294 YUM 408075d7
+"{V1127}{W3}Well,{W4} I'll{W28} go{W1} throw{W1} out{W1} the{W1} trash."
+
+@YUM_FEV:295 PLY 387c4051
+"Oh, then I'll carry the trash can. Let's go together."
+
+@YUM_FEV:296 YUM 7071f917
+"{V1128}{B100}{F4}Oh,{W62} {Fe3}thank you{Fm3}."
+
+@YUM_FEV:297 SYS ad7ee136
+...And so I went with Hoshino to throw out the trash.
+
+@YUM_FEV:299 - 64c62dc2
+girl
+
+@YUM_FEV:301 YUM 2e407d20
+"{V5000}{W4}Heave{W24}-ho{W14}...{W9}{W50} That's{W1} everything.{W1}{W1}"
+
+@YUM_FEV:303 PLY f80d719b
+(Huh? Isn't that Hoshino at the sinks...?)
+
+@YUM_FEV:306 YUM ccb30521
+"{V1129}{F4}{W4}Oh, {Nm}."
+
+@YUM_FEV:307 PLY a1baccf3
+"What were you doing?"
+
+@YUM_FEV:308 YUM 5b1bed28
+"{V1130}{W5}I{W4} was{W4} washing{W3} the{W3} rags{Ec}.{W2}{W2}{W2}"
+
+@YUM_FEV:309 PLY 64e0e180
+"I see. Did the teacher ask you to?"
+
+@YUM_FEV:310 YUM e357ad19
+"{V1131}{Eo}{Fe9m3}{W7}No.{W24} I just noticed them."
+
+@YUM_FEV:311 PLY 40fbd134
+"Huh? On your own?"
+
+@YUM_FEV:312 YUM 71c142b7
+"{V1132}Yes."
+
+@YUM_FEV:313 PLY 6c6b1e77
+"R-right..."
+
+@YUM_FEV:314 PLY 554fecf5
+"Don't tell me you washed everything that was shoved in the cleaning closet?"
+
+@YUM_FEV:315 YUM 34d660e8
+"{V1133}{W9}I{W1} did,{W1} yes.{W1} Why?"
+
+@YUM_FEV:316 PLY 12a89e3c
+"There must have been a lot, right?"
+
+@YUM_FEV:317 YUM 18151fe3
+"{V1134}{W7}Mm.{W54} Before{W2} I{W2} knew{W2} it,{W11} {Fe3}they'd{W2} piled{W2} up{Fm3}.{W1}{W1}"
+
+@YUM_FEV:318 PLY 2408d4b8
+"Some of them must have been so dirty you'd hesitate to touch them..."
+
+@YUM_FEV:319 YUM 1fae8cef
+"{V1135}{W4}Yes.{W66} ...But{W21} if I left{W2} them{W1} as they{W1} were just{W1} because{W1} they're{W1} dirty,{W8} {Ec}{W5}{Fe9m3}{Eo}they'd{W1} stay{W2} dirty{W1} forever."
+
+@YUM_FEV:320 PLY 8bc45c8d
+"I see... You're right..."
+
+@YUM_FEV:321 YUM c3a4f8be
+"{V1136}{W6}If I{W1} hang{W1} them{W1} out{W1} now,{W16} they'll{W1} be{W1} dry by cleaning time{Fm2} and feel nice, won't they?"
+
+@YUM_FEV:322 PLY c208807d
+"I see. Right."
+
+@YUM_FEV:323 YUM 1dc56998
+"{V1137}{Fm3}{W4}Well,{W20} I'll go hang them up."
+
+@YUM_FEV:324 PLY 21564f7c
+"Oh... I'll help."
+
+@YUM_FEV:325 YUM 6d6e2102
+"{V1138}{W4}No,{W20} it's{W2} fine.{W30} It's{W2} just{W5} hanging{W5} them."
+
+@YUM_FEV:326 YUM e1abf250
+"{V0231}{W6}Yes."
+
+@YUM_FEV:327 PLY a1ef4a57
+(Hoshino washed all the rags on her own...)
+
+@YUM_FEV:328 PLY 06f1557b
+(Not everyone could do that...)
+
+@YUM_FEV:330 PLY 442cee4f
+(Okay, swimming next. I'm going to swim as hard as I can!)
+
+@YUM_FEV:331 PLY 0122c884
+"Oh, Hoshino."
+
+@YUM_FEV:332 YUM c418785d
+"{V1140}{W7}Oh,{W10} {B100}{Nm}..."
+
+@YUM_FEV:333 YUM 8cbca014
+"{V1141}{W7}You{W2} have{W1} the{W1} Pool{W2} now,{W15} {Ec}{W5}{Fe7}{Eo}don't{W1} you.{W3}{W3}{W31}"
+
+@YUM_FEV:334 PLY adc5c588
+"Yeah."
+
+@YUM_FEV:335 PLY 8a7a9020
+"I wish boys had a locker room like the girls. Changing in the classroom means walking around school in swim trunks."
+
+@YUM_FEV:336 YUM f494dff8
+"{V1142}{W10}Y-{W36}yes,{W2} I{W3} suppose."
+
+@YUM_FEV:337 PLY aa721fff
+"Do the girls use the Gym?"
+
+@YUM_FEV:338 PLY/YUM 0d80b9d5
+"......"
+
+@YUM_FEV:339 PLY 944ed13b
+"Volleyball, maybe? Or basketball?"
+
+@YUM_FEV:340 YUM 79da623c
+"{V1144}{W8}W-{W42}who{W3} knows..."
+
+@YUM_FEV:342 YUM 52cde8ca
+"{V1145}{W9}W-{W55}well,{W1} see{W1} you,{W10} {Nm}."
+
+@YUM_FEV:343 PLY bf83cf55
+"Ah... Hoshino."
+
+@YUM_FEV:344 PLY c101111d
+(She's gone... I wanted to talk more...)
+
+@YUM_FEV:345 PLY 9435d73c
+(Impossible with swim trunks right in front of her...)
+
+@YUM_FEV:347 PLY 762663b9
+(Sigh... PE in this heat... If it were swimming I'd be happy...)
+
+@YUM_FEV:348 YUM 32671068
+"{V1146}{W11}Huh? {W10}{Nm}?"
+
+@YUM_FEV:350 YUM a4c8dcab
+"{V1147}{W7}Why{W1} {Nm},{W1} are{W1} you{W1} out{W1} in the Schoolyard?{W33} {Ec}{W5}{F3}{Eo}Isn't{W4} the{W3} next{W4} PE{W4} class{W2},{W28} for{W1} boys{W1} in{W1} the{W2} Gym{W2}{W2}{W1}{W2}?"
+
+@YUM_FEV:351 PLY 3679d3a7
+"Huh? Was it?"
+
+@YUM_FEV:352 YUM 4b9d85b6
+"{V1148}{W5}Yes.{W60} {F2}{Ec}Fufu,{W39} {F3}{Eo}mixing{W3} up{W3} the{W3} Schoolyard{W3} and{W3} the{W3} Gym{W4} happens{W2} a{W2} lot.{W2}{W2}{W2}{W2}{W27}"
+
+@YUM_FEV:353 PLY 569baed9
+"Hahaha... Hey, is that a valuables bag you're holding?"
+
+@YUM_FEV:354 YUM 936f941f
+"{V1149}{W4}Yes."
+
+@YUM_FEV:355 PLY 6dc25658
+"But you're on the Library Committee. Why?"
+
+@YUM_FEV:356 YUM 99365f81
+"{V1150}{W10}Everyone{W13} feels{W5} safer{W3} if{W1} I{W2} hold{W1} them.{W3}{W2}{W2}{W2}{W2}{W2}{W4}{W4}{W4}{W4}"
+
+@YUM_FEV:357 YUM 27c449c2
+"{V1151}{W10}So{W24} I{W1} always{W2} look{W1} after{W1} them.{W2}{W2}{W2}{W2}{W2}{W4}{W3}"
+
+@YUM_FEV:358 PLY 542af83a
+"I see..."
+
+@YUM_FEV:359.1 - 06583cd6
+{Ti0}- Everyone relies on you too much／- Leaving it with you is reassuring／- Then my wallet too...
+
+@YUM_FEV:360 PLY a87de5a2
+"Everyone relies on you too much."
+
+@YUM_FEV:361 YUM 99e5450f
+"{V1152}{W9}No,{W24} it's{W2} fine.{W56} {Fm6}Because...{W2}"
+
+@YUM_FEV:362 YUM e79a5065
+"{V1153}{F6}{W4}I'm{W12} bad{W4} at{W4} sports,{W29} so{W4} I{W3} only{W3} hold{W3} everyone{W1} back... {W39}{Ec}So{W8} at least this..."
+
+@YUM_FEV:363 PLY 5128afa1
+"Hoshino..."
+
+@YUM_FEV:364 PLY 8662e176
+"Leaving it with you is reassuring."
+
+@YUM_FEV:365 YUM f0357f38
+"{V1154}{W9}Is{W9} it?{W22} {B80}{W27}{Fm2}I{W3} can't{W3} really{W1} tell{W1} myself...{W2}{W5}"
+
+@YUM_FEV:366 PLY 6d676aa4
+"You probably remember exactly whose wallet is whose, right?"
+
+@YUM_FEV:367 YUM 207fefc8
+"{V1155}{B40}{W7}Well,{W14} I remember{W2} most{W2} of{W1} them."
+
+@YUM_FEV:368 YUM 7db99dfb
+"{V1156}{W6}Yes.{W45} {Ec}{W5}{F3}{Eo}I'm{W3} especially{W3} careful{W1} with{W1} wallets{W1} with{W1} similar{W1} designs,{W28} {Ec}{W5}{Fe9}{Eo}so{W1} nobody{W1} takes{W1} the{W2} wrong one by mistake."
+
+@YUM_FEV:369 PLY b9246408
+(No wonder everyone asks her.)
+
+@YUM_FEV:370 PLY 8647ee88
+"Then my wallet too..."
+
+@YUM_FEV:371 YUM 574d81eb
+"{V1157}{W4}Eh?!"
+
+@YUM_FEV:372 PLY 810d1ba4
+"Just kidding!"
+
+@YUM_FEV:373 YUM 4bcd2dbb
+"{V1158}{W5}...{W3}{W2}"
+
+@YUM_FEV:374 YUM 9d5d91e9
+"{V1159}{F2}{Ec}{W7}He{W3}he{W3}..."
+
+@YUM_FEV:375 PLY 04733997
+"Hahaha."
+
+@YUM_FEV:376 YUM f055d3ae
+"{V1160}{W6}Fu{W3}fu{W3}fu{W3}fu,{W32} {Eo}{Fe9m4}honestly,{W3} {Nm}{Fm2}."
+
+@YUM_FEV:377 PLY 8940c07c
+"Hahahaha."
+
+@YUM_FEV:378 PLY 00b8034d
+"Oops, I'd better go. See you, Hoshino."
+
+@YUM_FEV:379 YUM 758e4ba2
+"{V1161}{W6}Yes,{W34} {Ec}do{W1} your best in PE."
+
+@YUM_FEV:380 PLY 0e8b992b
+"You too."
+
+@YUM_FEV:386 PLY 6b3dab70
+(Gasp, gasp... Today's PE was hell. An endurance run in this heat...)
+
+@YUM_FEV:387 YUM e32b4e3e
+"{V1162}{W9}Oh,{W15} {Nm}.{W33} Are{W2} the{W2} boys{W13} finishing{W3} now{W1} too?{W1}"
+
+@YUM_FEV:388 PLY 614068bc
+"Yeah... we are..."
+
+@YUM_FEV:389 YUM b8a1ad74
+"{V1163}{W8}Are{W7} you{W7} okay?{W27} {F6}You{W2} look{W3} really{W1} exhausted...{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@YUM_FEV:390 PLY 76e24090
+"It was an endurance run... under this blazing sun..."
+
+@YUM_FEV:391 YUM 5d1e536a
+"{V1164}{W9}Huh?{W32} {Ec}{W5}{F6}{Eo}I-{W25}is{W1} that{W1} so...{W1}{W1}{W1}"
+
+@YUM_FEV:392 PLY 0c0f58f7
+"The lingering summer heat is still brutal, and they make us run. It's bullying..."
+
+@YUM_FEV:393 YUM 30a50c7f
+"{V1165}{W7}Fufu."
+
+@YUM_FEV:394 PLY 4e92f21c
+"What did the girls do?"
+
+@YUM_FEV:395 YUM cae88587
+"{V1166}{W8}Volleyball{W4} in{W4} the{W4} Gym.{W2}{W1}{W1}{W1}"
+
+@YUM_FEV:396 PLY 2b033b8a
+"Nice. Did you land a spike?"
+
+@YUM_FEV:397 YUM be4f842e
+"{V1167}{W8}No,{W50} I...{W38} I'm{W1} bad{W1} at{W4} sports.{W4}{W5}{W3}{W2}{W2}"
+
+@YUM_FEV:398 PLY 214d24e3
+"But you have such a good figure..."
+
+@YUM_FEV:399 YUM d4ebef33
+"{V1168}{F4}{B}{W9}Eh?!"
+
+@YUM_FEV:400 PLY aebccbf6
+"...Ah, s-sorry."
+
+@YUM_FEV:401 PLY 5d42ae09
+"I-I mean, you're not heavy, and you're not skinny either... so I thought you have a good figure..."
+
+@YUM_FEV:402 PLY c6fa08fc
+"Just looking at you, you don't seem bad at sports at all."
+
+@YUM_FEV:403 YUM 90015d2e
+"{V1169}{W7}Ah,{W30} thank{W1} you...{W1} {W34}{Ec}{W5}{F9}{Eo}No{W1} one{W1} has{W1} ever{W1} said{W1} that{W1} to{W1} me{W1} before...{W1}{W1}{W26}{W2}"
+
+@YUM_FEV:404 PLY 3ac8affe
+"Hahaha... sorry for saying something so weird out of the blue."
+
+@YUM_FEV:405 YUM 9b55ca5b
+"{V1170}{W6}N-{W20}no..."
+
+@YUM_FEV:406 YUM cce43d8d
+"{V1171}{W4}......"
+
+@YUM_FEV:407 YUM 937e1e60
+"{V1172}{W6}W-{W16}well...{W50} I'll{W28} be{W2} going.{W2}{W2}"
+
+@YUM_FEV:408 PLY d2269bca
+"Y-yeah, see you."
+
+@YUM_FEV:409 PLY d9d2e250
+(Saying something like that right to her face... Hahaha...)
+
+@YUM_FEV:411 PLY 7d6b5dba
+(The Terrace after school... Nobody's here...)
+
+@YUM_FEV:412 PLY 13bb7e8d
+(...Oh well, back to the classroom.)
+
+@YUM_FEV:413 PLY 32c82d46
+(Hm? Something fell under the table?)
+
+@YUM_FEV:415 PLY 3a8902f9
+(Ah... a handmade bookmark. Pressed flowers on washi paper... It's so pretty.)
+
+@YUM_FEV:416 PLY 4f0476ef
+(Could this be...)
+
+@YUM_FEV:418 PLY f2675b42
+"Ah, Hoshino. There you are."
+
+@YUM_FEV:419 YUM 642a9f63
+"{F4}{Nm},{V1173}{W11} what is it?"
+
+@YUM_FEV:420 PLY 82647a41
+"Is this maybe yours, Hoshino?"
+
+@YUM_FEV:422 YUM 36224829
+"{V1174}{W8}Ah,{W36} my{W6} bookmark!{W21} I{W4} was{W3} looking{W3} for{W3} it!{W2}{W2}{W2}"
+
+@YUM_FEV:423 PLY 04e6dc64
+"I knew it. I thought it was yours."
+
+@YUM_FEV:424 YUM c48c61ea
+"{V1175}{W6}Where{W2} was{W2} it?{W1}{W1}"
+
+@YUM_FEV:425 PLY b747660d
+"Under a table on the Terrace."
+
+@YUM_FEV:426 YUM db941135
+"{V1176}{W6}Ah...{W46} I{W2} was{W2} reading{W2} a{W2} book{W2} there{W4} at{W2} lunch{W2} break...{W2}{W2}{W2}{W4}{W5}{W3}{W1}{W1}"
+
+@YUM_FEV:427 PLY 345528ad
+"I see, you must have dropped it then."
+
+@YUM_FEV:428 PLY e566d0ab
+"I'm glad it turned up."
+
+@YUM_FEV:429 YUM 5a1740a6
+"{V1177}{W8}Yes.{W55} {Ec}{W5}{F9}{Eo}...But{W30} how{W1} did{W1} you{W1} know{W1} it{W1} was{W1} mine?{W1}{W3}"
+
+@YUM_FEV:430 PLY 970e135c
+"Well..."
+
+@YUM_FEV:431.1 - 98a309f2
+{Ti0}- I thought it suited you／- It's simple deduction
+
+@YUM_FEV:432 PLY f200735f
+"I thought it suited you."
+
+@YUM_FEV:433 YUM 477fb083
+"{V1178}{Fe5m4}{W5}Eh?"
+
+@YUM_FEV:434 PLY 67586536
+"I felt that bookmark suited you best of anyone."
+
+@YUM_FEV:435 YUM 563aaaf1
+"{V1179}{F2}{W7}Mm...{W58} I{W2} made{W14} this{W1} myself.{W1}{W1}{W1}{W1}{W1}{W2}"
+
+@YUM_FEV:436 PLY d0ba1e6c
+"I thought so."
+
+@YUM_FEV:437 YUM 5d49b366
+"{V1180}{W9}Fufu,{W64} somehow{W25} it{W4} feels{W4} like{W5} you{W1} found{W1} me,{W1} {Nm}.{W1}{W1}{W1}{W1}"
+
+@YUM_FEV:438 PLY 63048fe4
+"It's simple deduction. That bookmark is handmade, right?"
+
+@YUM_FEV:439 YUM fcc12b0e
+"{V1181}{W3}Yes.{W2}"
+
+@YUM_FEV:440 PLY c32f4276
+"Making bookmarks by hand means she loves books, and adding pressed flowers means she loves flowers..."
+
+@YUM_FEV:441 PLY 6f69d8e8
+"See? It can only be you, Hoshino."
+
+@YUM_FEV:442 YUM 3d7d69ec
+"{V1182}{F2}{W6}Fufu,{W45} {Ec}I{W3} see.{W3}"
+
+@YUM_FEV:443 YUM cc3a54b2
+"{V1183}{W11}Thank{W1} you{W1} for{W1} finding{W1} it,{W1} {Nm}.{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@YUM_FEV:444 PLY e7c3e7ec
+"You're welcome."
+
+@YUM_FEV:446 SYS a9c82dd3
+...And so, I delivered the lost item to Hoshino.
+
+@YUM_FEV:448 PLY f8e7c473
+"Ah, Narumi. There you are."
+
+@YUM_FEV:449 NAR 3ae33471
+"{V5026}{W4}Ah,{W10} {Nm}!{W2} {W36}Do{W2} you{W1} need{W1} something?{W1}{W1}"
+
+@YUM_FEV:450 PLY 10059526
+"I just found this. Is it yours, Narumi?"
+
+@YUM_FEV:451 NAR e8d6deac
+"{V0984}{F4}{W9}A{W5} book{W5}mark{W5}?{W5}{W5}{W3}{W39}{Ec}{W4}{F3}{Eo} N{W2}o,{W2}{W15} it's not mine."
+
+@YUM_FEV:452 PLY 67919fb4
+"R-right."
+
+@YUM_FEV:453 PLY 6b52f633
+(So it wasn't Narumi's...)
+
+@YUM_FEV:454 PLY ee2b5073
+"Sorry to bother you, Narumi. See you."
+
+@YUM_FEV:455 NAR b4d9b3e4
+"{V0985}{F2}{W6}Okay.{W2}{W27} Come{W1} by{W1} any{W1}time.{W34}{Ec} I'll{W1} be{W1} waiting!{W1}{W1}"
+
+@YUM_FEV:456 PLY e2bc9422
+(...So whose is this? I can't tell, so I'll put it in the lost-and-found box in the Staff Room.)
+
+@YUM_FEV:459 MAO a1f81a2c
+"{V1078}{W8}Boo!"
+
+@YUM_FEV:460 PLY ffc5cdbf
+"Whoa!"
+
+@YUM_FEV:461 PLY 6b600efe
+"M-Mao..."
+
+@YUM_FEV:462 MAO fc99274b
+"{Mc}{Nn}..."
+
+@YUM_FEV:463 MAO ae99db96
+"{V1080}{W9}Don't{W3} scare{W3} me{W3} like{W3} that,{W2} {W4}honestly.{W28} {Fe8}{Eo}We{W3} almost{W3} collided!{W3}{W3}"
+
+@YUM_FEV:464 PLY 6c1b2754
+"S-sorry."
+
+@YUM_FEV:465 MAO 63979839
+"{V1081}{F3}{W6}So,{W33} did{W4} you{W3} need{W3} something?{W3}"
+
+@YUM_FEV:466 PLY 122df4f6
+"Huh?"
+
+@YUM_FEV:467 MAO a34fb313
+"{V1082}{F4}{W4}You{W3} came{W1} to{W2} see{W2} me,{W2} didn't{W2} you?{W1} {W14}{Ec}{W5}{Fe9}{Eo}Or not?"
+
+@YUM_FEV:468 PLY 0321467c
+"Ah... no, I found this a while ago. Is it yours, Mao?"
+
+@YUM_FEV:469 MAO 6d99de62
+"{V1083}{W10}Hmm,{W1} what{W1} a{W1} pretty{W1} bookmark.{W1}{W39}{W40} {Fe3}But{W28} it's{W3} not{W1} mine.{W1}{W1}{W1}{W1}{W1}"
+
+@YUM_FEV:470 PLY fec0464c
+(So it wasn't Mao's...)
+
+@YUM_FEV:471 MAO fe5e869b
+"{V1084}{W8}Something{W2} that{W2} girlish?{W2} {W14}{F4}{Ec}Me,{W3} carry{W1} that?{W1} Never.{W24} {Eo}{F3}See{W2} you~!{W2}{W2}{W2}{W2}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@YUM_FEV:472 PLY 45e65d03
+"Ah, Mao... she's gone."
+
+@YUM_FEV:473 PLY f65c3abe
+"Ah, Sakino. There you are."
+
+@YUM_FEV:474 ASU 9c608bce
+"{V0928}{F4}{W3}Ah,{W5} {Nm}.{W6} {F3}What's{W1} up?{W1}{W1}{W1}"
+
+@YUM_FEV:475 PLY d7125fcf
+"I found this a while ago. Is it yours, Sakino?"
+
+@YUM_FEV:476 ASU 099cf40c
+"{V0929}{F4}{W7}Is{W6} this...{W6}{W9}{Ec}{W5}{Fe3m6}{Eo} a{W6} bookmark?{W4}"
+
+@YUM_FEV:477 PLY 733b13b8
+"Yeah, why?"
+
+@YUM_FEV:478 ASU 576fbcee
+"{V0930}{W5}I'm{W39} not{W1} proud{W2} of{W1} it,{W1} but{W1} I{W1} hardly{W1} {W38}{Ec}{Sp}ever{W1} read{W1} books.{W1}{W1}{W1}{W1}{W2}"
+
+@YUM_FEV:479 ASU 4333315d
+"{V0931}{W8}Hope{W5} you{W4} find{W2} the{W1} owner.{W10} {W29}{Ec}{W5}{Fe9}{Eo}Anyway,{W8} practice{W2} is{W2} starting.{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@YUM_FEV:480 PLY 9c66d7f8
+"Good luck."
+
+@YUM_FEV:481 ASU 56d04c49
+"{V0932}{Fe2}{Ec}{W4}Yeah!"
+
+@YUM_FEV:482 PLY 4004890a
+"Ah, Futami. There you are."
+
+@YUM_FEV:483 ERI 74d23b2d
+"{Nm}...{V0993}{W8} do{W5} you{W4} need something?"
+
+@YUM_FEV:484 PLY 58ba92cc
+"I found this a while ago. Is it yours, Futami?"
+
+@YUM_FEV:485 ERI cdfd8da9
+"{V0994}{W4}A{W5} book{W5}mark...{W2}{W70} {Ec}It's{W3} not{W1} mine.{W1}{W1}"
+
+@YUM_FEV:486 PLY 2401dabb
+"I-I see..."
+
+@YUM_FEV:488 ERI d48ac77b
+"{V0995}{W5}I{W1} can tell how far I've{W23} read{W1} without using a bookmark."
+
+@YUM_FEV:489 PLY 83fd0af2
+"R-right. Of course, hahaha..."
+
+@YUM_FEV:490 PLY e28cf22b
+"Ah, Shijou. There you are."
+
+@YUM_FEV:491 MIT a7a06011
+"{Nm}. {V1165}{W10}Is{W1} something{W1} the{W6} matter?"
+
+@YUM_FEV:492 MIT 91900e4e
+"{V1166}{W4}Mas{W2}ter,{W3}{W4}{W55} is something the matter?"
+
+@YUM_FEV:493 PLY e2bcf758
+"I found this a while ago. Is it yours, Shijou?"
+
+@YUM_FEV:494 MIT 266feafe
+"{V1167}{F4}{W8}Ah...{W65}{F3} what{W1} a{W1} very{W1} pretty{W1} bookmark.{W2}{W2}{W2}{W1}{W1}{W1}{W1}{W64}{Ec}{W5}{Fe9m3}{Eo} ...But{W30} it{W1} is{W2} not mine."
+
+@YUM_FEV:495 MIT cd9889df
+"{V1168}{W10}Whoever{W2} made{W1} it{W33} must{W1} love{W1} books{W1} very much.{W53} {Ec}Their love{W1} of{W1} books comes through."
+
+@YUM_FEV:496 PLY e3f8be68
+"Yeah, you're right."
+
+@YUM_FEV:497 MIT d3c0c758
+"{V1169}{W9}I hope the owner is found..."
+
+@YUM_FEV:498 PLY bad3355d
+"Yeah..."
+
+@YUM_FEV:499 MIT c6627972
+"{V1170}{F3}{W9}If{W1} they{W1} are{W1} found,{W31} {Fe2m3}I{W1} would{W1} like{W1} to{W1} talk{W1} with{W1} them.{W3}"
+
+@YUM_FEV:500 PLY a6d3ff1c
+"Hahaha, you'd get along, I'm sure."
+
+@YUM_FEV:501 MIT 443352df
+"{V1171}{Ec}{W3}Yes.{W2}"
+
+@YUM_FEV:502 PLY abf89950
+(Whose is this? I'd like to find them, but I can't tell... I'll put it in the lost-and-found box in the Staff Room.)
+
+@YUM_FEV:503 PLY 226a0c7c
+(My head is starting to hurt...)
+
+@YUM_FEV:504 PLY b1f12093
+(Maybe I'll go to the Infirmary.)
+
+@YUM_FEV:505 YUM e6e7786f
+"{V1184}{W15}Ah,{W10} {Nm}."
+
+@YUM_FEV:506 YUM a2995f3f
+"{V1185}{W11}What's{W2} wrong?{W31} Are{W5} you{W5} not{W4} feeling{W2} well?"
+
+@YUM_FEV:507 PLY d25c318d
+"Just a headache."
+
+@YUM_FEV:508 YUM bce6843f
+"{V1186}{F6}{W10}Oh?{W43} Are{W4} you{W4} okay?{W2}"
+
+@YUM_FEV:509 PLY b9699274
+"Oh, I'm fine, don't worry. It just hurts a little."
+
+@YUM_FEV:510 YUM bc9f12ed
+"{V1187}{W10}Really?{W5}{W2}"
+
+@YUM_FEV:511 PLY 5c39ebd6
+"What about you, Hoshino?"
+
+@YUM_FEV:512 YUM 6417266b
+"{V1188}{W10}I{W8} feel{W50} a little{W2} anemic..."
+
+@YUM_FEV:513 YUM 8b93e1fe
+"{V1189}{W13}Lately{W5}{W2} {W17}I{W1} can't{W1} fall{W1} asleep,{W1} so{W1} I'm{W1} short{W1} on{W1} sleep.{W1} {W39}{Fe9}I{W4} keep{W2} thinking{W1} about{W1} all{W1} sorts{W1} of{W1} things...{W1}{W1}"
+
+@YUM_FEV:514 YUM b6c1bac3
+"{V1190}{W11}I'll rest{W2} a{W1} little{W1} and{W22} go{W3} back{W2} to{W2} class.{Fm3}"
+
+@YUM_FEV:515 PLY 9dcd6c39
+"Yeah, good idea. I think you're tired in more ways than your health..."
+
+@YUM_FEV:516 YUM 3af14eca
+"{V1191}{W9}Mm..."
+
+@YUM_FEV:517 YUM e20bdd0b
+"{V1192}{W7}I{W8}{W2}... {W38}{B60}{Fe9}I'm{W1} doing{W1} exercise{W1} I'm{W2} not used{W1} to,{W2} {W34}{Fm2}so{W2} my{W3} legs{W3} hurt{W3}..."
+
+@YUM_FEV:518 PLY 6a548482
+"Sore muscles?"
+
+@YUM_FEV:519 YUM abc2259b
+"{V1193}{Ec}{W7}Yes.{W2} {W31}{Eo}The{W2} teacher{W2} gave{W2} me{W1} a{W1} compress.{W1}{W1}{W1}{W1}"
+
+@YUM_FEV:520 PLY 696225c1
+"I see."
+
+@YUM_FEV:521 PLY 30c8e35c
+"Don't push yourself too hard."
+
+@YUM_FEV:522 YUM 7722a220
+"{V1194}{F2}{W6}Yes.{Ec}"
+
+@YUM_FEV:526 YUM 27a2e1ae
+"{V5001}{W8}Teacher!{W8}{W5}{W2} {W33}How{W3} many{W3} balls{W8} should I bring out?"
+
+@YUM_FEV:527 YUM 0fce7491
+"{V5002}{W7}Okay!{W30} Three!"
+
+@YUM_FEV:528 PLY 0d0ab461
+(Huh?! That voice... Don't tell me class has already started?)
+
+@YUM_FEV:529 PLY 6553f9ce
+"What's going on outside..."
+
+@YUM_FEV:541 PLY 6f3c9fdd
+(Whoa!)
+
+@YUM_FEV:542 PLY a259b30b
+(B-bloomers, so close!)
+
+@YUM_FEV:543 YUM 443b7908
+"{V5003}{W8}Do{W10} you{W39} need{W4} anything{W4}{W2}{W4}{W4} else?{W1}{W1}{W1}{W1}"
+
+@YUM_FEV:544 PLY a7479877
+(Ugh... who is it? Should I peek at the other tiers too?)
+
+@YUM_FEV:545.1 - df527432
+{Ti0}- Upper tier／- Lower tier
+
+@YUM_FEV:546 PLY 8533d1ba
+(The upper tier...)
+
+@YUM_FEV:554 PLY b2a3edad
+(Whoa! A-a chest!)
+
+@YUM_FEV:555 PLY 3f3ce258
+(The lower tier...)
+
+@YUM_FEV:561 PLY 1e936bf8
+(Whoa! T-thighs!)
+
+@YUM_FEV:562 PLY 0a159107
+(Wait... this is basically peeping!)
+
+@YUM_FEV:563 SYS dc2db933
+Clunk!
+
+@YUM_FEV:564 PLY 571cde3a
+(Oh no!)
+
+@YUM_FEV:565 YUM f7a245a0
+"{V5004}{W8}W-{W28}who's{W1} there?!{W1} {W32}Is{W20} someone{W1} in{W1} the{W2} vaulting{W1} box?{W1}{W2}"
+
+@YUM_FEV:566 YUM 99af226d
+"{V5005}{W9}Who is it?!"
+
+@YUM_FEV:567 PLY f7852b2b
+(There's no way I can answer...)
+
+@YUM_FEV:568 YUM b1bd0d99
+"{V5006}{W3}...{W4}{W2}"
+
+@YUM_FEV:571 YUM 39b7c744
+"{V1195}{W8}That's{W3} strange,{W3}{W3}{W2} {W39}I{W3} definitely{W2} heard{W3} a{W3} noise...{W3}{W3}{W2}{W2}{W2}{W2}{W2}{W1}{W1}{W1}"
+
+@YUM_FEV:572 PLY b471830a
+(H-Hoshino! If she sees me like this, I'm ruined!)
+
+@YUM_FEV:573 YUM 92f9dad6
+"{V1196}{W12}Is{W3} anyone{W3} there?{W3}{W3}{W2}{W2}{W2}"
+
+@YUM_FEV:574 PLY 7e52ffc1
+(I told you, I can't answer! Please just go away!)
+
+@YUM_FEV:576 YUM b6bcea3c
+"{V1197}{W9}Maybe{W4} I{W4} imagined{W4} it...{W1}{W33}{W6}{W6}{W6}?"
+
+@YUM_FEV:577 PLY b489e983
+(Yes, yes! You imagined it! You imagined it!)
+
+@YUM_FEV:578 YUM 6127c85c
+"{V1198}{W6}...Ah,{W24} o{W2}kay!{W2} {W23}I'm{W1} coming!{W1}{W1}{W1}"
+
+@YUM_FEV:580 PLY f8ae0d8d
+(Phew, she's gone. ...That was close.)
+
+@YUM_FEV:581 PLY 4608b9ec
+(I'll stay here until things calm down...)
+
+@YUM_FEV:582 SYS 3b476999
+...And so, I spent the time inside the vaulting box.
+
+@YUM_FEV:585 PLY dac5a14f
+"Oh, Hiiragi. Looks like you're done changing."
+
+@YUM_FEV:586 AKI 088885a4
+"{V0167}{W9}What, {Nm},{W17} you waited{W1} for me?{W27} Thanks."
+
+@YUM_FEV:588 PLY 95d4a100
+"...No, it's just hot out in the Schoolyard, so I'm killing time..."
+
+@YUM_FEV:589 AKI 5d200d2a
+"{V0168}{W7}Ha{W8}ha{W3}ha{W3}ha,{W67} {Eo}I{W1} see...{W28}{Ec}{W5}{Fe9m3}{Eo} That's{W1} like you..."
+
+@YUM_FEV:591 AKI ee6e9776
+"{V0169}{Fm4}{W2}But,{W55} we{W1} can't{W1} stay here forever,{W1} right?{W47} {Fm3}Want to go together?"
+
+@YUM_FEV:592 PLY 8c9f3178
+"No, I'll stay here until the last minute."
+
+@YUM_FEV:593 AKI e08f3a23
+"{V0170}{W9}I see.{W41} {F3}Later."
+
+@YUM_FEV:594 PLY 0daeab72
+"Later."
+
+@YUM_FEV:596 PLY 3df5c2d9
+(Phew, it's going to be hot again today.)
+
+@YUM_FEV:597 YUM 7225fa43
+"{Nm},{V1199}{W5} ha{W2}ve{W2} a{W2} moment...?{W26}{W4}"
+
+@YUM_FEV:598 PLY 84be8cd0
+"Ah, Hoshino. What's up?"
+
+@YUM_FEV:599 YUM dbadbd45
+"{V1200}{Fm4}{W6}Um{W8}...{W79} are{W3} the{W2} boys{W2} {W33}done changing yet?{Fm3}"
+
+@YUM_FEV:600 PLY dc5229b4
+"No, a few are still in there. Why?"
+
+@YUM_FEV:601 YUM a1c99cd2
+"{V1201}{W8}O-{W31}oh{W5}...{W3}"
+
+@YUM_FEV:602 PLY e9a0dbf2
+"What's wrong? Forgot something?"
+
+@YUM_FEV:603 YUM 2874685a
+"{V1202}{W6}Y-{W24}yes.{W38} I{W3} left{W2} my{W3} gym{W2} shoes{W17} hanging{W2} {Fm6}by{W3} my{W2} desk{W2} and{W3} came{W2} without{W2} them...{W2}{W2}{W2}{W2}{W2}{W2}"
+
+@YUM_FEV:604 PLY 6fad598d
+"I see, then..."
+
+@YUM_FEV:605.1 - 0d757a0b
+{Ti0}- I'll get them for you／- Want to talk until everyone's done changing?／- Just walk right in
+
+@YUM_FEV:606 PLY d8d0cea1
+"I'll get them for you."
+
+@YUM_FEV:607 YUM 1051a0c4
+"{V1203}{F4}{W7}Huh?{W29} Really?{W55} ...{Fe9}But{W4}{W29} I{W2} couldn't{W6} ask{W4} that."
+
+@YUM_FEV:608 PLY c837eb02
+"Don't worry about it."
+
+@YUM_FEV:609 PLY 9fd2d2fd
+"It'll only take a second. Wait here."
+
+@YUM_FEV:610 YUM 1aa8fa9b
+"{V1204}{Fe2m3}{Ec}{W8}Thank you."
+
+@YUM_FEV:611 PLY 245b0ff2
+"Want to talk until everyone's done changing?"
+
+@YUM_FEV:612 YUM cbb23b91
+"{V1205}{W8}Ah...{W62} {Ec}{W5}{F6}{Eo}But,{W43} if{W4} I'm{W3} late{W3} {W30}the{W4} teacher{W4} will{W3} be{W4} angry...{W2}{W2}{W2}{W2}"
+
+@YUM_FEV:613 PLY 6bdf01bb
+"R-right. Of course... Then I'll get them for you."
+
+@YUM_FEV:614 YUM 9277addd
+"{V1206}{F4}{W10}Really?{W6} {W34}{Fe2m3}{Ec}Thank you."
+
+@YUM_FEV:615 PLY 91fe9bb4
+"Just walk right in."
+
+@YUM_FEV:616 YUM 0675fb17
+"{V1207}{B100}{W7}What?!{W29} Right{W1} while{W1} everyone's{W1} changing?{W1}"
+
+@YUM_FEV:617 PLY 086c7540
+"Y-you don't have to be that shocked. I'm kidding."
+
+@YUM_FEV:619 YUM a4eb0edc
+"{V1208}{W5}Oh,{W50} {B60}{Fe6}so{W3} that's{W3} it...{W28}{Ec}{W5}{Fe9}{Eo} you were{W6} joking?{W6}{W4} {P6}{F2}{Ec}{B100}{W39}Fufufu."
+
+@YUM_FEV:620 PLY 8ad26cbf
+"I'll get them for you. Wait here a moment."
+
+@YUM_FEV:621 YUM bab67e7c
+"{V1209}{B40}{W8}Thank you."
+
+@YUM_FEV:622 SYS f69b81a0
+...And so, I went and got Hoshino's gym shoes for her.
+
+@YUM_FEV:624 PLY 8bedc54c
+(Hm? A nice smell from the Home Ec Room... Did some class have cooking practice?)
+
+@YUM_FEV:625 PLY 98374be4
+(...Wait, the girls in my class had cooking practice this period.)
+
+@YUM_FEV:626 PLY 745c780b
+(Then maybe...)
+
+@YUM_FEV:627 PLY f4e7fd63
+"Ah, Hoshino. I thought so..."
+
+@YUM_FEV:628 YUM b945e6c3
+"{V1210}{W6}Ah,{W15} {Nm}.{W32} ...{W3}You{W3} thought{W2} so?{W3}{W9}"
+
+@YUM_FEV:629 PLY a0d00a69
+"I figured you'd have stayed behind to clean up."
+
+@YUM_FEV:630 YUM 4746f41a
+"{V1211}{W8}I'm{W34} slow."
+
+@YUM_FEV:631.1 - cab8d5ef
+{Ti0}- You really are leisurely／- It's because you do everyone's share／- It's because you're more careful than everyone
+
+@YUM_FEV:632 PLY 5c1f6912
+"You really are leisurely."
+
+@YUM_FEV:633 YUM d3a35870
+"{V1213}{W5}When{W1} I{W1} concentrate{W2} I{W1} can't{W1} see what's around me.{W32} {Eo}So{W19} I'm{W2} slow{W2} at{W3} everything{W4} I{W2} do."
+
+@YUM_FEV:634 YUM 7998fabf
+"{V1214}{W8}Just{W3} now{W20} I{W1} was{W1} scrubbing{W1} the{W1} burnt bits off a frying pan,{W20} and class ended before I knew it..."
+
+@YUM_FEV:635 YUM ebf4dd13
+"{V1215}{W6}People{W1} who{W2} can{W2} do{W1} things{W1} quickly{W1} and{W1} neatly{W1},{W2} {Ec}I envy them."
+
+@YUM_FEV:636 PLY 59b464a8
+"Hahaha."
+
+@YUM_FEV:637 PLY c76e86cc
+"It's because you do everyone else's share too."
+
+@YUM_FEV:638 YUM 5d52b00c
+"{V1216}{F9}{W6}Nobody{W3} asked{W1} me{W1} to.{W36}{Fe6m4} I{W1} just{W1} thought{W1} about{W3} the{W1} next{W2} person{W3} who'd{W2} use{W2} it,{W16}{Fm3} so{W2} I{W2} felt{W2} I{W2} should{W2} leave{W2} it{W2} clean...{W2}{W2}{W4}{W4}{W4}"
+
+@YUM_FEV:639 PLY 3cdda67b
+"Hoshino, you'd make a great wife."
+
+@YUM_FEV:640 YUM 876b30b3
+"{V1217}{W4}W-{W20}what?!"
+
+@YUM_FEV:641 PLY 06c547e8
+"Ah... I-it's nothing deep. You're tidy and considerate, so you'd surely take care of a husband and kids..."
+
+@YUM_FEV:642 PLY 00c22d79
+"...What am I saying?"
+
+@YUM_FEV:643 YUM 718bda2d
+"{V1218}{W3}N-{W47}no..."
+
+@YUM_FEV:644 YUM 01136ae5
+"{V1219}{W6}Thank you.{W45} {Ec}I'm happy."
+
+@YUM_FEV:645 PLY 7fb89b1f
+"In your case, it's called being careful."
+
+@YUM_FEV:646 YUM cd3d3e65
+"{V1220}{Fe9m4}{W9}That's{W4} not{W4} true...{W3}{W3}"
+
+@YUM_FEV:647 YUM a1b5b446
+"{V1221}{Fm3}{W6}I{W2} just{W6} like{W16} cleaning{W24} and{W2} tidying{W1} up.{W1}{W3}{W3}{W3}{W15}"
+
+@YUM_FEV:648 YUM 560b6fbe
+"{V1222}{W9}Doesn't{W2} it{W3} feel{W3} good{W8} when{W8} the{W3} kitchen{W3} knives{W29} are{W2} lined{W3} up{W3} neatly{W3} by{W2} size,{W39}{Fm3} or{W1} the{W1} dishes{W15} are{W1} sorted{W1} by{W1} type?{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W5}{W4}{W14}"
+
+@YUM_FEV:649 PLY 582265c2
+"It does. It's nice and tidy."
+
+@YUM_FEV:650 YUM daefbe8a
+"{V1223}{Ec}{F3}{W8}Fufu.{W2}{W2}"
+
+@YUM_FEV:651 PLY a2cad84e
+"By the way, what's this nice smell?"
+
+@YUM_FEV:652 YUM c6827b45
+"{V1224}{W6}Oh,{W36} {F3}there's{W2} a{W2} little{W10} miso{W2} soup{W1} left...{W1}{W1}{W1}{W1}{W3}"
+
+@YUM_FEV:653 PLY 67d73d86
+"Oh, miso soup."
+
+@YUM_FEV:654 YUM 39cccbec
+"{V1225}{Ec}{W9}I{W5} made{W3} it.{W21} {Eo}Eggplant{W3} miso{W3} soup.{W2}{W2}{W2}{W2}"
+
+@YUM_FEV:655 PLY 590bb208
+"I see. ...Could I have a taste?"
+
+@YUM_FEV:656 YUM bd8902ad
+"{V1226}{F7}{W6}Sure, but{W33} {Fe9m3}I{W1} have{W1} no{W2} rice{W1} or{W1} side{W1} dishes..."
+
+@YUM_FEV:657 PLY 30ab283b
+"That's fine, just the soup. I'd like to try the miso soup you made."
+
+@YUM_FEV:658 YUM ebc7d68d
+"{V1227}{B100}{Fe9m4}{W5}R-{W53}really?{W4}"
+
+@YUM_FEV:659 YUM ba7176a0
+"{V1228}{Fe9m3}{W5}Then,{W18} I'll{W1} heat{W3} it{W3} up{W1} again,{W7} {F3}{Ec}so{W1} wait a moment."
+
+@YUM_FEV:660 SYS 12c5e37c
+...And so I spent the time with Hoshino in the Home Ec Room.
+
+@YUM_FEV:661 SYS 5518d1d5
+Hoshino's miso soup was delicious.
+
+@YUM_FEV:663 PLY a851e156
+(Let's see... what's the next class? ...Oh, art.)
+
+@YUM_FEV:664 PLY 1be534fb
+(I'm bad at this, seriously drawing or making something...)
+
+@YUM_FEV:665 YUM 483e9a69
+"{V1230}{W7}{Nm},{W2}{W2}{W26} have{W1} you{W1} decided{W2} what{W1} to{W1} sketch{W14} yet?{W1}"
+
+@YUM_FEV:666 PLY a3585da3
+"Huh? Sketch?"
+
+@YUM_FEV:667 YUM ecfe2894
+"{V1231}{Fm4}{W9}Last{W1} week,{W20} don't{W1} you{W1} remember{W19} what{W1} the{W1} art{W1} teacher{W1} said?{Ec}{W5}{Fe9m2}{Eo}{W2}{W2}"
+
+@YUM_FEV:668 PLY c1419536
+"...What was it?"
+
+@YUM_FEV:669 YUM 46312e6d
+"{V1232}{W9}You{W1} know,{W28} we're{W2} doing{W2} sketches{W2} next{W1} class,{W19} {F2}so{W1} everyone{W2} should{W2} think{W2} of{W2} a{W2} subject{W1} beforehand.{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W3}{W3}"
+
+@YUM_FEV:670 PLY ebc0ecbe
+"Ah... I think I'm starting to remember..."
+
+@YUM_FEV:671 YUM 25b5dcbd
+"{V1233}{W7}Fufu.{W4}{W4}"
+
+@YUM_FEV:672 PLY 09f07f39
+"Uh-oh, I haven't thought of anything."
+
+@YUM_FEV:674 YUM 6a084430
+"{V1234}{W9}Then,{W30} if you'd like..."
+
+@YUM_FEV:675 YUM 008e25bd
+"{V1235}{W7}shall{W1} we{W4} draw{W3} each{W1} other's{W8} faces?{W1}{W1}{W1}{W1}{W2}{W2}"
+
+@YUM_FEV:676 PLY f725dd6d
+"Huh..."
+
+@YUM_FEV:677 PLY 31d4c60f
+"Drawing my face would be boring, wouldn't it..."
+
+@YUM_FEV:678 YUM f67e0b01
+"{V1236}{W10}No.{W23} {Fm3}It{W2} wouldn't.{W2}"
+
+@YUM_FEV:679 YUM 4a36a96a
+"{V1237}{W9}I'd like to{W4} draw you, {Nm}."
+
+@YUM_FEV:680 PLY 561fd9c8
+"W-well, then, okay..."
+
+@YUM_FEV:681 SYS 3ee761c8
+...And so, in art class we drew each other's faces.
+
+@YUM_FEV:682 SYS 304559ef
+The me that Hoshino drew was hugely flattering and cool-looking. It startled me.
+
+@YUM_FEV:683 SYS d35fe7b5
+If that's how I look through Hoshino's eyes, I'm really happy.
+
+@YUM_FEV:685 PLY d8ea1869
+(Ah... by the fence, that's... Hoshino and Ms. Kawada...)
+
+@YUM_FEV:686 PLY edbf5d94
+(What are they doing together? It feels kind of serious...)
+
+@YUM_FEV:687 PLY cf2cc964
+(Is she asking for advice? Better not talk to them...)
+
+@YUM_FEV:688 PLY 590aa22f
+(Come to think of it, Hoshino said she needed to talk to my homeroom teacher too...)
+
+@YUM_FEV:689 PLY 1c87341b
+(Always consulting teachers... What is it about?)
+
+@YUM_FEV:690 PLY 30d42b06
+(Ah! She's coming this way!)
+
+@YUM_FEV:692 YUM a1ec9745
+"{V1239}{W6}Ah,{W10} {Nm}..."
+
+@YUM_FEV:693 TOM 8322bbf4
+"{V0045}{W6}Ah,{W30} oh,{W2} {Nm}.{W10}"
+
+@YUM_FEV:694 TOM 436b4594
+"{V0046}{Fe9}{W4}...Don't tell me,{W65} you{W12} heard{W4} what we{W4} said?"
+
+@YUM_FEV:695 PLY 34d8ba47
+"N-no, I didn't hear anything. I just got here."
+
+@YUM_FEV:696 TOM 9d5c2f19
+"{V0047}{W8}I-{W22}I{W2} see.{W26} {Ec}{W5}{F3}{Eo}Then{W1} that's good.{Ec}"
+
+@YUM_FEV:697 PLY 3d9c9240
+"Is it something I shouldn't hear?"
+
+@YUM_FEV:698 TOM 90ea0c3c
+"{V0048}{Eo}{F4}{W6}N-{W8}no,{W23} {Fe9m3}it's{W2} not{W2} that.{W32}{S}{F3}{Ec} Right,{W23} Hoshino?{W2}{W1}"
+
+@YUM_FEV:699 YUM 98748bac
+"{V1240}{Eo}{W4}Y-{W51}yes.{S}{F2}{Ec}{W3}"
+
+@YUM_FEV:700 TOM 994c6e7f
+"{V0049}{W4}Well,{W22} see you.{W38} {Sd}{Eo}{Fe9m3}I have{W1} to{W1} get{W1} back{W1} to the Staff Room."
+
+@YUM_FEV:701 PLY 09504fd3
+"Ah, she's gone..."
+
+@YUM_FEV:702 PLY e4563607
+"Hahaha... Ms. Kawada was really flustered."
+
+@YUM_FEV:703 YUM bc5d44e1
+"{V1241}{W6}Y-{W29}{S}{W10}{Ec}yes.{W3}{W3}"
+
+@YUM_FEV:704 PLY 44eed4e3
+"...Is it bad to ask what you were talking about?"
+
+@YUM_FEV:705 YUM ed15326b
+"{V1242}{W7}N-{W58}no.{W42} {F9}...Sorry,{W40} please{W3} let{W1} me{W3} keep{W1} it{W1} secret.{W1}{W2}{W2}"
+
+@YUM_FEV:706 YUM 4e4075e3
+"{V1243}{Ec}{F6}{W8}But,{W26} someday{W3} I'll{W3} definitely{W2} tell{W2} you.{Eo}{W3}{W3}{W1}"
+
+@YUM_FEV:707 PLY 5e5a2557
+"Oh, you don't have to. It sounds hard to talk about."
+
+@YUM_FEV:708 YUM 2ef82055
+"{V1244}{Fe9m3}{Eo}{W8}No...{W59}{Fe6} someday{W1} it's{W2} something{Fm4} I'll{W2} have{W1} to{W1} tell{W1} you...{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@YUM_FEV:709 YUM be33ebb9
+"{V1245}{F3}{Ec}{W5}Yes.{W2}"
+
+@YUM_FEV:712 YUM fda63414
+"{V1246}{W9}Oh,{W26} class{W2} is{W2} about{W1} to{W1} start!{W1}"
+
+@YUM_FEV:713 PLY 3b62213e
+"Let's hurry back to the classroom!"
+
+@YUM_FEV:714 YUM e4596373
+"{V1247}{F2}{W6}Yes."
+
+@YUM_FEV:715 PLY c21965e4
+(The Terrace is warm and so comfortable...)
+
+@YUM_FEV:717 PLY 6e4b2485
+(Ugh... I'm getting sleepy...)
+
+@YUM_FEV:718 PLY 14bce0ec
+(Maybe I'll nap on that chair for a bit...)
+
+@YUM_FEV:719 PLY c29c9711
+(Yaaawn.)
+
+@YUM_FEV:720 SYS 8592ffd9
+Zzz...
+
+@YUM_FEV:721 SYS 2431f752
+......
+
+@YUM_FEV:722 SYS 76378b8e
+.........
+
+@YUM_FEV:723 PLY 1af72b3d
+(Mmm... how long was I asleep...)
+
+@YUM_FEV:724 PLY b8f17b1e
+"Yaaawn."
+
+@YUM_FEV:725 YUM 9ad46749
+"{V1248}{W7}Fufu,{W48} {Eo}you{W1} were{W1} sleeping{W1} soundly.{W1}{W1}{W1}"
+
+@YUM_FEV:726 PLY 11575b4a
+"Oh, Hoshino. How long have you been there?"
+
+@YUM_FEV:727 YUM fd8d694e
+"{V1249}{W9}About{W5} twenty{W5} minutes...{W17}{Ec}{W5}{F2}{Eo} I{W4} think?{W3}{W3}"
+
+@YUM_FEV:728 PLY 0144bb16
+"That long? You could have woken me up."
+
+@YUM_FEV:729 YUM 7f45b4f4
+"{V1250}{W7}No.{W44} You{W3} looked{W3} so{W1} comfortable{W2} sleeping.{W1}"
+
+@YUM_FEV:730 YUM b80c57dd
+"{V1251}{W9}Besides{W1},{W46} I{W3} thought{W1} reading{W1} beside sleeping {Nm}{W1}{W1}{W1}{W3} with{W1} a{W3} book{W1}{W1}{W1}{W31} {Ec}might{W1} be{W1} nice{W1}{W1}{W1}."
+
+@YUM_FEV:731 YUM ddcb2af5
+"{V1252}{W13}Just being near you{W29} makes{W1} me{W1} happy..."
+
+@YUM_FEV:733 PLY a2eadfe9
+(Ah... isn't that...)
+
+@YUM_FEV:734 PLY c2273679
+"Hoshino, what are you doing here alone?"
+
+@YUM_FEV:735 YUM b5f00a85
+"{V1253}{W6}Oh, {Nm}."
+
+@YUM_FEV:736 YUM b8bf07ed
+"{V1254}{W6}I{W3} was{W8} saying{W22} goodbye{W2} to{W2} the{W2} flowers.{W38} {Ec}I{W2} won't{W3} be{W1} able{W1} to{W1} see{W1} them{W1} much longer..."
+
+@YUM_FEV:737 PLY e5669982
+"I see... You always took good care of them."
+
+@YUM_FEV:738 YUM 7e1589f9
+"{V1255}{W6}No,{W44} it{W3} was{W1} me{W1} they{W1} took{W3} care{W3} of...{W46} {Ec}Whether{W3} I{W3} was{W3} hurting{W3} or{W1} sad,{W35} I{W1} always{W1} came{W1} here.{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W17}{W4}{W4}"
+
+@YUM_FEV:739 YUM dda7f7cb
+"{V1256}{W9}Even{W1} when{W2} it{W1} was{W1} decided{W2} that{W1} I'd{W2} transfer,{W36} I{W2} came{W2} here{W18} {Fe9}{Ec}and{W2} crouched{W1} here{W1} for{W1} a{W1} long{W1} time.{W1}{W1}"
+
+@YUM_FEV:740 PLY 2cbc6496
+"I'll never let them wither."
+
+@YUM_FEV:741 YUM f427f35b
+"{V1257}{W5}Mm.{W40} {B60}{Ec}{F2}Thank you."
+
+@YUM_FEV:743 YUM 7068cebb
+"{V1259}{F4}{W8}Ah..."
+
+@YUM_FEV:744 PLY 23cad5a5
+"What are you doing in a place like this?"
+
+@YUM_FEV:745 YUM c0e24b25
+"{V1260}{Fm9}{W5}...{W5}..."
+
+@YUM_FEV:746 PLY 75a23250
+"Hoshino?"
+
+@YUM_FEV:747 YUM cae4cf5c
+"{V1261}{Ec}{F2}{W5}...{W4}..."
+
+@YUM_FEV:748 PLY cf01ce34
+"What's wrong? You won't even answer... Did I do something wrong?"
+
+@YUM_FEV:749 YUM c9610436
+"{V1262}{Eo}{F9}{W8}...{W8}..."
+
+@YUM_FEV:750 YUM b2e5f424
+"{V1263}{Fm4}{W7}S-{W40}sorry...{W22} {F5}hic.{W49} {Fe9m4}It's{W1} not{W1} that...{W20} {F5}hic...{W22} really.{F6}{W2}"
+
+@YUM_FEV:751 YUM 41e3737c
+"{V1264}{Sd}{W9}I've had{W15} the hiccups since{W1} earlier...{W10} {F5}hic,{W43} {F6}and{W2} they{W2} won't{W2} stop...{W1} {F5}{W10}hic."
+
+@YUM_FEV:752 PLY a42d2443
+"Oh, so that's it. Sorry."
+
+@YUM_FEV:753.1 - 3763ee51
+{Ti0}- Boo!／- Tickle tickle tickle
+
+@YUM_FEV:754 PLY 2a3f566b
+"{Ts4}Boo!"
+
+@YUM_FEV:755 YUM b7c2a77f
+"{V1265}{W4}Hic!"
+
+@YUM_FEV:756 PLY a24d49a9
+"How about it? Did they stop?"
+
+@YUM_FEV:757 YUM df0993c9
+"{V1266}{W8}...Oh,{W47} they{W1} seem{W1} to{W1} have{W1} stopped.{W1}{W1}"
+
+@YUM_FEV:758 PLY a2a3eacb
+"Good."
+
+@YUM_FEV:759 YUM df4aa609
+"{V1267}{F2}{W7}Thank{W1} you,{W1} {Nm}."
+
+@YUM_FEV:761 PLY 7f7b80b7
+"Tickle tickle tickle."
+
+@YUM_FEV:763 YUM 1b8b1c5b
+"{V1268}{B50}{W9}H-{W36}hic!{W43} Hic!{Fm6}"
+
+@YUM_FEV:764 YUM d26e9abd
+"{V1269}{B100}{W8}N-{W15}no!{W11} {Fm5}Hic!{W15}{W12} {Ec}{Fm5}Hic!"
+
+@YUM_FEV:765 YUM 6aa8a5ae
+"{V1270}{Eo}{F5}{W7}Huh?"
+
+@YUM_FEV:766 YUM 19959590
+"{V1271}{W9}Oh,{W52} huh?{W69} {Fe6}They{W2} stopped...{W2} I{W2} think.{Mc}{W2}{W2}{W2}"
+
+@YUM_FEV:767 PLY f5b4e026
+"That's good."
+
+@YUM_FEV:768 YUM 988e0532
+"{V1272}{F2}{W8}Thank you, {Nm}."
+
+@YUM_FEV:769 PLY 6fad6869
+"Shall we go back to class?"
+
+@YUM_FEV:770 YUM c324fcce
+"{V1273}{Ec}{W4}Yes.{W1}"
+
+@YUM_FEV:772 YUM b7a7d78a
+"{V1274}{W6}Hic."
+
+@YUM_FEV:773 PLY 634f9920
+"Ah..."
+
+@YUM_FEV:774 YUM 9c426917
+"{V1275}{W9}I knew it...{W15} {F4}hic,{W52} {F6}it's no{W4} good...{W16} {F4}hic...{W45} {Fe9m3}it{W4} seems."
+
+@YUM_FEV:775 PLY 5483bf2c
+"I guess all we can do is wait for them to go away on their own."
+
+@YUM_FEV:776 YUM 5c5601e0
+"{V1276}{Ec}{W7}Y-{W48}yes,{W6} I{W5} guess{W2}...{W7}{Mo}{F4} hic."
+
+@YUM_FEV:778 PLY a13079bb
+(It's hot already this morning...)
+
+@YUM_FEV:779 PLY f3b9e05a
+(If only a breeze would blow, it'd cool off a little...)
+
+@YUM_FEV:780 PLY 26ab2977
+(Well, it's not going to work out that easily...)
+
+@YUM_FEV:783 YUM 5ea9faf4
+"{V1277}{W8}Eeek!{W1}{W1}{W1}"
+
+@YUM_FEV:784 PLY f9f9fb2a
+"Whoa?!"
+
+@YUM_FEV:785 PLY 4fa82b16
+(A d-divine wind!!)
+
+@YUM_FEV:786 YUM 5824ec17
+"{Nm}..."
+
+@YUM_FEV:787 PLY bd8870fd
+"H-hey..."
+
+@YUM_FEV:788 YUM 7bc26f4f
+"{V1279}{Fm8}{W8}D-{W52}did you{W9} see?"
+
+@YUM_FEV:789.1 - 08592320
+{Ti0}- Every bit!／- N-no, I didn't see
+
+@YUM_FEV:790 PLY ab2cf0d6
+"Every bit!"
+
+@YUM_FEV:791 YUM 10ae8938
+"{V1280}{W8}R-{W36}really?!{W2}"
+
+@YUM_FEV:792 PLY 393b51d9
+"Ah, I lied! I lied! It looked like I'd see, but I didn't!"
+
+@YUM_FEV:793 YUM 2c1bebfd
+"{V1281}{W4}R-{W50}really?{W4}{W4}{W4}"
+
+@YUM_FEV:794 PLY 9161a126
+"Yeah. So close~."
+
+@YUM_FEV:795 YUM 8b47b0d2
+"{V1282}{W9}Honestly{W7}...{W5}"
+
+@YUM_FEV:796 PLY 3917f8a5
+"We have to watch out for the wind, hahaha."
+
+@YUM_FEV:797 YUM 32c0cfb5
+"{V1283}{W5}Yes.{W2}"
+
+@YUM_FEV:798 PLY a6039db7
+"I-I didn't see."
+
+@YUM_FEV:799 YUM aba1acb6
+"{V1284}{S}{W8}Really?{W7}"
+
+@YUM_FEV:800 PLY 469f8c21
+"Really."
+
+@YUM_FEV:801 YUM e660d537
+"{V1285}{W7}Thank{W6}{W5} goodness.{W5}"
+
+@YUM_FEV:802 YUM 68c39add
+"{V1286}{Eo}{B100}{W7}Yes.{W2}"
+
+@YUM_FEV:803 PLY d5eaece0
+(Truth is, I saw a little...)
+
+@YUM_FEV:805 PLY 6fd3a87a
+(I wonder if Hoshino's here?)
+
+@YUM_FEV:806 PLY 2f44ee0c
+(Huh? She's not here...)
+
+@YUM_FEV:807 YUM 38374ef7
+"{V5007}{W10}Let's{W18}{W18} see...{W4}{W56} This{W6} book{W4} goes{W6} here...{W65} This{W2} book...{W30} Heave-ho.{W7}{W7}{W7}{W11}{W2}{W3}{W3}"
+
+@YUM_FEV:808 PLY 41835f96
+(Ah, that voice...)
+
+@YUM_FEV:810 PLY aefe1916
+"I knew it, Hoshino."
+
+@YUM_FEV:811 YUM 15ed8fe0
+"{V1287}{W8}Ah,{W10} {Nm}."
+
+@YUM_FEV:812 PLY 5d23bfe8
+"Are you putting back the returned books?"
+
+@YUM_FEV:813 YUM 0501b736
+"{V1288}{W8}Yes."
+
+@YUM_FEV:814 PLY eae17cd5
+"I talked to you at a time like this before, too. Remember?"
+
+@YUM_FEV:815 YUM 4e82c22f
+"{V1289}{W8}Yes,{W22} of course."
+
+@YUM_FEV:816 YUM a80d454c
+"{V1290}{W10}Because...{W48} that's when I became{Nm}{W1} friends{W28}{W2}{W3}{W3}{W3}{W1}{W1}{W1}{W2}{W1}{W1} with you."
+
+@YUM_FEV:817 YUM da302bfd
+"{V1291}{W10}I'm{W4} putting{W4} the{W3} returned{W3} books{W3} back{W4}{W21} where{W2} they{W1} belong{W1}, in{W2} their{W1} places{W2}{W1}{W1}{W1}."
+
+@YUM_FEV:818 PLY 2ae95ec7
+"I see. They look heavy, want me to help?"
+
+@YUM_FEV:819 YUM ca86f34b
+"{V1292}{W7}No,{W2}{W2}{W27} I'm{W5} fine.{W31} I'm{W5} almost done."
+
+@YUM_FEV:821 PLY 61f7328b
+"Library Committee work is pretty hard, huh?"
+
+@YUM_FEV:822 YUM ba509f93
+"{V1293}{F6}{W10}Actually{W5}{W5}...{W45} not{W1} really."
+
+@YUM_FEV:823 YUM 1a846742
+"{V1294}{W8}There are only about{W4} ten{W3} books{W2} a{W2} day{W2} lent{W2} out{W4} or{W3} returned{W3},{W28}{W3}{W3}{W2}{W2}{W2}{W1}{W1}{W1}{W1}..."
+
+@YUM_FEV:824 YUM 34bd5a2f
+"{V1295}{W7}If{W1} everyone{W1} would{W1}{W23} borrow{W1} more{W1} books{W1}{W2}{W2}{W1}{W1}{W1}{W1}{W1}{W1}{W20} we'd{W3} get{W1} busy{W1}{W1}{W1}{W1}, though."
+
+@YUM_FEV:826 TOM d30d1194
+"{V0050}{W7}All{W2} right,{W45} let's start Modern Japanese class.{W2}{W2}{W1}{W2}{W2}{W1}{W2}{W2}{W2}{W2}{W49} {F3}Everyone,{W11} did you do your homework?{W2}{W2}"
+
+@YUM_FEV:827 PLY c7179464
+(Huh? Homework? Was there any?)
+
+@YUM_FEV:828 TOM 43310d5e
+"{Nm}, {V0051}{W9}it's written all over your face."
+
+@YUM_FEV:829 TOM 10fb657b
+"{V0052}{W9}You look like you're wondering{W1}{W1} if there was homework.{Fe9}{Eo}"
+
+@YUM_FEV:830 PLY 68b69b51
+"Hahahaha... sorry."
+
+@YUM_FEV:831 TOM a24bc1d3
+"{V0053}{W9}You{W8} forgot{W5}{5} it,{W6} didn't you.{W47} {Ec}Honestly,{W2}{W34} {Fe9m6}{Eo}I told you so clearly to do it."
+
+@YUM_FEV:832 PLY 3210e650
+"I'm sorry..."
+
+@YUM_FEV:833 TOM 4b86e6ff
+"{V0054}{W9}Honestly{W4}...{W34} you{W3} still{W3} haven't{W2} shaken{W1} off{W1} your{W1} summer{W1} vacation{W1} haze{W1} no{W1} matter{W1} how{W1} long{W1} it{W1} has{W1} been{W1}."
+
+@YUM_FEV:834 TOM 2a8c3d61
+"{V0055}{W7}To get you focused,{W31} anyone{W2} who{W6} forgot{W2} their{W2} homework{W1} today{W1}{W1}{W10} can{W2} stand{W1} in{W1} the{W1} hallway{W1} for me{W1}."
+
+@YUM_FEV:835 PLY a5cd1754
+"What? But..."
+
+@YUM_FEV:836 TOM 919f6ba1
+"{V0056}{W9}No{W5} arguing,{W6}{W3}{W5} {Nm}."
+
+@YUM_FEV:837 PLY 89da66ef
+"Yes..."
+
+@YUM_FEV:838 TOM 011d6081
+"{V0057}{W9}Anyone{W3} else{W2} forget{W3} their{W3} homework?{W3}{W2}{W1}{W7}"
+
+@YUM_FEV:839 TOM cd2f33dd
+"{V0058}...Looks{W3} like{W4} not.{W3}{W2}{W2}{W2}{W24} {Ec}Excellent,{W5} excellent.{W6}{W5}{W93} {Fe1m3}{Eo}Well then,{W3} {Nm},{W5} you stand there alone."
+
+@YUM_FEV:840 YUM 993468ed
+"{V1296}{W5}Um,{W34} Ms.{W6} Kawada..."
+
+@YUM_FEV:841 TOM df0b4d18
+"{V0059}{W4}What is{W2} it?{W17} Hoshino?"
+
+@YUM_FEV:842 YUM 2d12e3ca
+"{V1297}{W8}I{W9} forgot{W4} mine{W63} too.{W7}{W7}{W6}{W4}{W4}{W3}"
+
+@YUM_FEV:843 TOM 253af260
+"{V0060}{W5}What?!"
+
+@YUM_FEV:844 PLY 21e4acd1
+"What?!"
+
+@YUM_FEV:845 TOM 9fc6c117
+"{V0061}{W6}Hoshino,{W30} you?"
+
+@YUM_FEV:846 YUM a6ffcfec
+"{V1298}{W5}Yes{W6}..."
+
+@YUM_FEV:847 TOM b40c9e22
+"{V0062}{W4}Hmm{W6}{W5}...{W64} that's{W2} rare."
+
+@YUM_FEV:848 YUM 104c1558
+"{V1299}{W9}I'm{W6} sorry{W2}{W2}{W1}..."
+
+@YUM_FEV:849 TOM 764d0853
+"{V0063}{W6}Oh{W2} well,{W3}{W2}{W38} you can stand in the hallway too."
+
+@YUM_FEV:850 YUM 09f24834
+"{V1300}{W4}Yes{W2}."
+
+@YUM_FEV:853 YUM 8d0621f7
+"{V1301}{Ts1}{W6}Fu{W2}fu,{W1}{W66} {Eo}I've never{W1} been{W1} made{W1} to{W1} stand{W1} in the hallway{W10} before.{W3}{W2}"
+
+@YUM_FEV:854 PLY 18bc5bf7
+"{Ts1}You forgetting homework surprised me."
+
+@YUM_FEV:855 YUM 96637f17
+"{V1302}{Ts1}{W6}Fu{W2}fu,{W1}{W20} me{W9} too."
+
+@YUM_FEV:856 YUM 22e49501
+"{V1303}{Ts1}{W3}...An{W2} empty{W1}{W1}{W1}{W1} hallway{W2}{W1}{W1}{W10} is{W3} so{W3} quiet.{W3}{W4}{W2}{W2}{W2}{W45} {F3}It{W3} feels{W2} really{W3} new{W2}{W2}{W2}{W4}."
+
+@YUM_FEV:857 PLY 4ad5814a
+"{Ts1}Hahaha, it does."
+
+@YUM_FEV:858 SYS 1d3d0c86
+...And so, Hoshino and I were made to stand in the hallway together.
+
+@YUM_FEV:861 PLY cc75276d
+"Oh, class is over. ...Making us stand until the very end is harsh."
+
+@YUM_FEV:862 YUM b01cffdb
+"{V1304}{Fe2}{Ec}{W8}Fu{W2}fu,{W1}{W33} {Eo}{Fe9}it is.{W2}{W2}"
+
+@YUM_FEV:863 TOM 31fb94c4
+"{V0064}{W8}So?{W2}{W24} You two.{W1}{W44} Reflected{W1} on it?{W1}"
+
+@YUM_FEV:864 PLY 74dd446c
+"I have."
+
+@YUM_FEV:865 YUM 7b2d092b
+"{V1305}{F6}{W7}I{W4} won't{W11} forget{W2} homework{W2} again.{W2}{W1}{W1}"
+
+@YUM_FEV:866 TOM a191c5f9
+"{V0065}{W6}Good.{W2}{W2}{W1}{W37} You may go back to class."
+
+@YUM_FEV:867 YUM 5efdc177
+"{V1306}{W4}Yes."
+
+@YUM_FEV:868 PLY 57160512
+"Hahaha... go back or not, it's already break."
+
+@YUM_FEV:869 TOM ba05d1b7
+"{V0066}{Fe8m4}{Ec}{W5}No{W3} complaining.{W2}{W2}"
+
+@YUM_FEV:870 TOM bc4e0baa
+"{V0067}{W7}Hoshino,{W8}{W6}{W5} a moment.{W8}"
+
+@YUM_FEV:871 YUM 5489a79d
+"{V1307}{F4}{Eo}{W5}Yes?"
+
+@YUM_FEV:876 YUM 9b9cf6e6
+"{V1308}{W7}What{W5} is{W3} it?{W3} {W8}Ms.{W1} Kawada{W1}{W1}"
+
+@YUM_FEV:877 TOM 43e14901
+"{V0068}{Ts1}{Eh}{W9}You{W5} actually{W5} did{W18} your homework, didn't you?"
+
+@YUM_FEV:878 YUM 302e2e53
+"{V1309}{Ts1}{B80}{F4}{W5}What?!{W28} {Fe9m4}That's{W3} not{W3}{W3}{W1}..."
+
+@YUM_FEV:879 TOM 4fe14eeb
+"{V0069}{Ts1}{Fe4}{Ec}{W7}I won't be angry, so be{W2} honest.{W2}{W1}{W1}{W1}{W1}{W1}{W2}{W2}{W30} {Eh}{F3}I{W1} could check your notebook, you know."
+
+@YUM_FEV:880 YUM c3ed7e83
+"{V1310}{Ts1}{B40}{W7}I'm{W4} sorry{W3}{W3}{W2}{W1}...{W60} I did it."
+
+@YUM_FEV:881 TOM 85547fbc
+"{V0070}{Ts1}{Eo}{Fe9m4}{W6}Honestly,{W3}{W40} {Fm3}I knew it{W1}{W1}.{W2}{W2}"
+
+@YUM_FEV:882 TOM 83d41d5b
+"{V0071}{Ts1}{Ec}{Fm4}{W9}The{W4} reason{W5} is{W2}...{W47} {Eo}{Fm3}no need to ask..."
+
+@YUM_FEV:883 YUM 676c16c7
+"{V1311}{Ts1}{Eo}{B100}{W7}I'm{W7} sorry{W3}{W2}{W2}{W1}..."
+
+@YUM_FEV:884 TOM 620cb26b
+"{V0072}{Ts1}{Fe9}{W5}You're{W4} {W1}{W1}surprisingly{W12} bold,{W1}{W2}{W1}{W2}{W2}{W2} aren't you.{W1}"
+
+@YUM_FEV:885 YUM a69949d5
+"{V1312}{Ts1}{B80}{Eo}{F6}{W7}I-{W34}it's not like that..."
+
+@YUM_FEV:886 TOM c8563dc8
+"{V0073}{Ts1}{Ec}{W4}Fu{W2}fu{W1},{W50} I{W4} have{W4} been{W3} there{W3} myself{W3}{W3}{W3} too.{W40} {Eo}{Fe9m4}Girls{W2} change{W1} when{W1} they{W1} fall{W2} in{W1} love{W1}{W1}{W1}{W1}."
+
+@YUM_FEV:887 YUM 1b382629
+"{V1313}{Ts1}{F3}{W4}......{W4}{W2}"
+
+@YUM_FEV:888 TOM 0dbe8bab
+"{V0074}{Fm3}{W4}See you.{W33} {F3}{Ec}Don't do this again."
+
+@YUM_FEV:889 YUM 503b5a55
+"{V1314}{B40}{Ec}{F2}{W3}Yes."
+
+@YUM_FEV:890 PLY 5e8814f1
+"Hoshino, what was that about?"
+
+@YUM_FEV:891 YUM dacc8f12
+"{V1315}{W3}Fufu,{Bt100}{W30} {F3}{Ec}it's nothing.{W4}{W1}"
+
+@YUM_FEV:893 PLY b2e43335
+(It's after school, but it's hot today...)
+
+@YUM_FEV:894 YUM 61df52a7
+"{V1316}{W8}Eek!"
+
+@YUM_FEV:895 PLY 0bfdc99e
+"Whoa?!"
+
+@YUM_FEV:896 YUM 5c366583
+"{Nm}...{V1317}{Fe9m3}{W4} D-{W55}did you{W5} see?"
+
+@YUM_FEV:897 PLY 9b230df5
+"Uh... yeah... a glimpse..."
+
+@YUM_FEV:898 YUM 56c306b3
+"{V1318}{F4}{B100}{W10}What!"
+
+@YUM_FEV:899 PLY 7867bcad
+"B-but it's okay if it shows, right? I mean... you're a cheerleader."
+
+@YUM_FEV:900 YUM 157fdac9
+"{V1319}{B40}{Fe6}{W7}Y-{W29}yes,{W2}{W2}{W2}{W2} but...{W38} it's{W1} embarrassing{W1}{W1}{W1}{W1}.{W1}"
+
+@YUM_FEV:901 YUM 4e793a10
+"{V1320}{S}{B100}{F3}{Ec}{W7}Well,{W40} see{W2} you.{W2}{W2}"
+
+@YUM_FEV:902 PLY 979f39a2
+"Ah... y-yeah."
+
+@YUM_FEV:903 PLY eeec3f9d
+(It was unavoidable, so it can't be helped...)
+
+@YUM_FEV:904 PLY c67c8fbd
+(It's already evening...)
+
+@YUM_FEV:905 PLY b5ee79cc
+(I wonder if Hoshino's in the library?)
+
+@YUM_FEV:906 PLY c7000793
+(Not here... She must be in the back.)
+
+@YUM_FEV:908 PLY 4b559f1f
+(Ah... there she is.)
+
+@YUM_FEV:909 YUM b76a9bb1
+"{V1321}{W9}Ah,{W10} {Nm}."
+
+@YUM_FEV:910 YUM 1ced7e05
+"{V1322}{W8}I was{W6} saying{W20} goodbye{W1} to{W3} the{W2} books{W1}{W1}{W1}.{W35} {Fe6}Soon{W1} I{W1} won't{W1} see{W1} the books{W2} here{W1} anymore..."
+
+@YUM_FEV:911 YUM 7534172d
+"{V1324}{W7}This{W1} book{W1} was{W2} so{W5} popular{W2}{W1}{W1}{W1}{W1}{W1}{W1},{W16} its{W1} cover{W2} kept{W2} tearing{W2}{W2}{W3}{W2}{W1}{W1}{W1}...{W27} I{W3} mended{W2} it{W1} many{W2} times{W1}{W1}."
+
+@YUM_FEV:912 YUM bf52964b
+"{V1325}{F6}{W5}This{W2} book{W2} is{W3} good,{W25} really{W1} good{W1}{W29} and nobody borrowed it...{W40} {Fe9m3}I picked it for this week's recommendation{W20} many{W3} times{W2}{W1}{W2}{W1}{W1}."
+
+@YUM_FEV:913 YUM 6fa10ffe
+"{V1326}{W5}This{W2} one{W2} was{W3} borrowed{W32} by{W2} the{W1} same{W2} person{W1} again{W2} and{W2} again{W2}{W1}{W1}{W1}{W1}.{W59} It's{W2} old{W1} and{W2} hard{W1} to{W1} get,{W6} so{W37} they must have loved it.{Ec}"
+
+@YUM_FEV:914 YUM f1100a4b
+"{V1327}{Eo}{Fe6m3}{W6}This{W2} book{W3}{W4} is...{W2}"
+
+@YUM_FEV:915 PLY dc9fb714
+"I see... every book is full of your memories, Hoshino."
+
+@YUM_FEV:916 YUM 7883b0d0
+"{V1328}{W6}Yes."
+
+@YUM_FEV:917 PLY f9937f54
+"The books must be lonely too."
+
+@YUM_FEV:918 YUM c5353ee5
+"{V1329}{Eo}{W6}Lots{W1} of{W1} different{W1} people{W27}{W1}{W1}{W1}{W2}{W1}{W1}{W2}{W2}{W1} will borrow them from now on, too,{W22} {Ec}so I'm sure{W1} they'll{W3} be{W3} fine."
+
+@YUM_FEV:919 SYS 4416934a
+...And so, I spent the time with Hoshino in the library.

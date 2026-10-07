@@ -1,0 +1,986 @@
+# YUM_KIS_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@YUM_KIS_A:44 PLY c20a675c
+(Hoshino and I became friends... and started talking...)
+
+@YUM_KIS_A:47 PLY 4cb83112
+(I feel like our conversations have started to get lively, too)
+
+@YUM_KIS_A:48 PLY fe6a7a12
+(...Would it be okay to ask something a little more personal?)
+
+@YUM_KIS_A:49 PLY 3b7abb49
+(Like, whether she's ever kissed anyone... No, there's no way I can ask that)
+
+@YUM_KIS_A:51 PLY 8c8c0299
+(...But I want to ask. I want to know more about Hoshino)
+
+@YUM_KIS_A:54 YUM b33c259d
+"{Nm}, {V5035}{W10}what's{W5} wrong?{W31} You{W5} suddenly{W6} went{W6} quiet..."
+
+@YUM_KIS_A:55 PLY c7ecd608
+(Okay! I'll just go for it! I decided I'd be more proactive from the second term on!)
+
+@YUM_KIS_A:56 PLY 9f6fecfb
+"H-Hoshino, can I ask you something?"
+
+@YUM_KIS_A:58 YUM 77f00385
+"{V5036}{W5}Huh?{W2} {W22}W-{W29}what?"
+
+@YUM_KIS_A:59 PLY 7b90bd0d
+"Well..."
+
+@YUM_KIS_A:60 YUM 1896df7b
+"{Nm}, {V0362}{W15}what's{W4} wrong?{W24} You{W6} suddenly{W5} went{W5} quiet..."
+
+@YUM_KIS_A:61 PLY 950c7ba8
+"H-Hoshino, can you come with me for a minute?"
+
+@YUM_KIS_A:62 YUM f7ee497e
+"{V0363}{W7}Huh? {W29}W-{W16}where to?"
+
+@YUM_KIS_A:63 PLY a4c4bf80
+"Just come..."
+
+@YUM_KIS_A:67 YUM 0d79c8a1
+"{V0367}{W7}O-{W36}okay...{W1}{W1}"
+
+@YUM_KIS_A:72 PLY abd53045
+(O-okay! No one will come here)
+
+@YUM_KIS_A:76 YUM 4c89aed4
+"{V0368}{W8}What is it? {W21}{Ec}{W5}{F6}{Eo}Bringing me to a place like this..."
+
+@YUM_KIS_A:77 PLY 28074395
+"Hoshino, there's something I want to ask you."
+
+@YUM_KIS_A:78 YUM 77fa3f9d
+"{V0369}{W7}W-{W22}what?"
+
+@YUM_KIS_A:79 PLY 16c8c06f
+"Have you... ever kissed anyone?"
+
+@YUM_KIS_A:89 YUM 43cefb32
+"{V0370}{W9}What?!"
+
+@YUM_KIS_A:91 YUM 89cc2cee
+"{V0371}{W7}W-{W21}why would you suddenly ask that..."
+
+@YUM_KIS_A:92 PLY 970e135c
+"Because..."
+
+@YUM_KIS_A:93 PLY e2178822
+(Say it... say it! You decided to be proactive...!)
+
+@YUM_KIS_A:94 PLY 6a062827
+"Well... I've had my eye on you since Year 1..."
+
+@YUM_KIS_A:95 PLY 2bad167d
+"But I never really had a chance to talk to you..."
+
+@YUM_KIS_A:96 PLY d8b57df8
+"So... um... Hahaha, what am I even saying..."
+
+@YUM_KIS_A:97 YUM 0108a728
+"{V0058}{Nm}..."
+
+@YUM_KIS_A:98 PLY 4f7701f8
+"Sorry for asking something weird! Forget it! I wasn't thinking!"
+
+@YUM_KIS_A:99 YUM 5f062329
+"{V0373}......"
+
+@YUM_KIS_A:100 YUM 764a9663
+"{V0374}{W4}...I{W3} h{W5}a{W4}v{W4}en't{W3}."
+
+@YUM_KIS_A:101 PLY 122df4f6
+"Huh?"
+
+@YUM_KIS_A:102 YUM b288c59b
+"{V0375}{W6}A kiss...{W53} I{W1} h{W1}a{W1}v{W4}en't{W2}.{W2}"
+
+@YUM_KIS_A:103 PLY 5128afa1
+"Hoshino..."
+
+@YUM_KIS_A:104 PLY 11ae75e5
+"Thank you for answering a question like that..."
+
+@YUM_KIS_A:105 YUM 4b859cb4
+"{V0376}{W11}N{W2}o{W2}...{W50} I{W3} d{W2}on't{W3} w{W3}ant{W2} to{W2} see{W1} {Nm} looking{W2} troubled.{W26} {Fe9m6}{Ec}{W1}{W1}{W1}{W1}"
+
+@YUM_KIS_A:106 YUM 8bee0638
+"{V0377}{W9}We-{W21}well then...{W34} I{W40} should{W3} go{W4}.{W3}"
+
+@YUM_KIS_A:107 PLY 1ea1b704
+"Y-yeah."
+
+@YUM_KIS_A:110 YUM 84c36b6a
+"{V0378}{W10}See{W2} you{W2}, {Nm}."
+
+@YUM_KIS_A:111 PLY dac1331f
+"See you."
+
+@YUM_KIS_A:113 PLY 76ed088c
+(I did something stupid... Sorry, Hoshino)
+
+@YUM_KIS_A:114 PLY 501c25f6
+"Meeting kiss, bloomers or school swimsuit: Yuumi won't do it"
+
+@YUM_KIS_A:115 PLY 5e3d40d9
+(I blew it earlier... Asking something like that so suddenly...)
+
+@YUM_KIS_A:116 PLY cc4004b1
+(Asking if she's ever kissed anyone...)
+
+@YUM_KIS_A:117 PLY 9cebad72
+(...But so Hoshino has never... kissed anyone...)
+
+@YUM_KIS_A:118 PLY c2073262
+(This is bad... Now that I'm aware of it, I don't know what to talk about)
+
+@YUM_KIS_A:119 PLY 94b5e25f
+"Oh, no... um... Sorry. I just remembered something I have to do..."
+
+@YUM_KIS_A:120 YUM b4d97233
+"{V2357}{W7}Oh{W3}...{W34} I see..."
+
+@YUM_KIS_A:123 YUM 6a714a0a
+"{V2358}{W9}Well then,{W8} see you, {Nm}."
+
+@YUM_KIS_A:124 PLY e03a6130
+"Yeah, see you."
+
+@YUM_KIS_A:125 PLY 2555cff3
+(Hoshino...)
+
+@YUM_KIS_A:126 YUM 54803fd8
+"{V0388}{W9}What?"
+
+@YUM_KIS_A:127 PLY 00e4d0f9
+"Sorry about asking something weird the other day."
+
+@YUM_KIS_A:128 YUM f4c19666
+"{V0389}{W6}Huh? {W35}{E}{C}{W5}{F9}{Eo}{B80}Oh...{W81} you mean{W2} the{W2} kiss{W2} thing?"
+
+@YUM_KIS_A:129 PLY bad3355d
+"Yeah..."
+
+@YUM_KIS_A:130 YUM 6964430b
+"{V0390}{W6}No,{W57} it's fine."
+
+@YUM_KIS_A:132 YUM 3119bfc5
+"{V0391}{W5}...I{W1} thought{W1}, so{W1} this{W8} is{W3} how{W6} it feels{W17}."
+
+@YUM_KIS_A:133 YUM e23d9936
+"{V0392}{W5}I thought,{W2} when{W4} we've only just become{W1} friends,{W37} this{W1} is{W3} how{W2} it{W1} feels{W1}.{W10}"
+
+@YUM_KIS_A:134 YUM 0f50647c
+"{V7800}{W10}It's{W2} my{W1} first{W1} time,{W1} so{W1}{W48} it feels{W3} kind{W3} of{W5} fresh.{W9}"
+
+@YUM_KIS_A:135 PLY a6edfb5d
+"Same here."
+
+@YUM_KIS_A:136 YUM 884fa947
+"{Nm}..."
+
+@YUM_KIS_A:137 YUM ba130bde
+"{V0395}{W12}Um{W5}...{W91} {Ec}{W5}{Fe9}{Eo}me{W6} too{W6}..."
+
+@YUM_KIS_A:138 YUM 983ff968
+"{V0396}......"
+
+@YUM_KIS_A:139 YUM b08c18b1
+"{V0397}...No,{W42} never mind."
+
+@YUM_KIS_A:140 PLY a39d8eb8
+"Hoshino... um... would you want to try kissing me?"
+
+@YUM_KIS_A:142 YUM 67bc7d2d
+"{V0398}{W4}Eh..."
+
+@YUM_KIS_A:143 PLY 10729099
+"Ah... sorry! I said something weird again! There's no way, right..."
+
+@YUM_KIS_A:144 YUM dc7be940
+"{V0399}{W9}N...{W67}no.{W4}"
+
+@YUM_KIS_A:145 PLY c124429f
+(Ugh... I blurted out something stupid again and troubled Hoshino...)
+
+@YUM_KIS_A:146 YUM 98dd38e9
+"{V0400}{W6}Ah...{W21} {Nm},{W32} {Ec}{W5}{Fe6}{Eo}don't{W3} make{W3} that{W4} face{W2}.{W5}{W2}"
+
+@YUM_KIS_A:147 YUM d4d76b6a
+"{V0401}{W7}I{W2} don't{W4} want{W3} to{W3} see{W3} you{W1} troubled,{W1} {Nm}{W1}.{W26}{W1}{W62} Because,{W28} {Ec}we{W1} finally got to where we can talk..."
+
+@YUM_KIS_A:148 PLY aba9c7d6
+"No, I'm not troubled. If anything, I'm the one troubling you..."
+
+@YUM_KIS_A:149 YUM 74ed7b63
+"{V0402}{W6}N{W2}o{W2}.{W58} I{W48} don't{W2} really{W1} understand{W2} boys{W1},{W1}{W27} so...{W25}{Fe6} that's why..."
+
+@YUM_KIS_A:150 PLY 992bbf41
+"No, if we're talking about that, I understand girls even less..."
+
+@YUM_KIS_A:151 YUM 244edc9b
+"{V0403}{W3}......"
+
+@YUM_KIS_A:152 PLY 0d80b9d5
+"......"
+
+@YUM_KIS_A:153 YUM 6382f36a
+"{V0404}Hehe."
+
+@YUM_KIS_A:154 PLY 04733997
+"Hahaha."
+
+@YUM_KIS_A:155 YUM 261892e9
+"{V0405}{W3}...I wish I'd gotten to know you{W4} sooner{W3},{W48} {Nm}."
+
+@YUM_KIS_A:156 PLY 8e4f9d02
+(If only I'd found the courage sooner...)
+
+@YUM_KIS_A:157 YUM c7ecd5f5
+"{V0407}{W10}Um{W7}...{W128} on{W2} the cheek...{W65} you can{W33} kiss me."
+
+@YUM_KIS_A:158 PLY 21e4acd1
+"Huh?!"
+
+@YUM_KIS_A:159 YUM a1100ba4
+"{V0408}{W6}I{W1} want{W1} to{W1} know{W1} how{W1} you{W1} feel{W44} even more."
+
+@YUM_KIS_A:161 YUM fa2f353b
+"{V0409}......"
+
+@YUM_KIS_A:162 PLY 35b5211e
+"Are you... really sure?"
+
+@YUM_KIS_A:163 YUM 5c9984a4
+"{V0410}Mm."
+
+@YUM_KIS_A:171 YUM e6569cd4
+"{V0411}{W4}Ah..."
+
+@YUM_KIS_A:173 PLY 269bcc51
+(I'm touching... Hoshino's cheek...)
+
+@YUM_KIS_A:179 YUM 3db18cf3
+"{V0413}{W4}Fufu,{W67} {Fe7m3}{Eo}I{W2}t{W3}'s{W2} so{W8} embarrassing."
+
+@YUM_KIS_A:180 PLY 511b320d
+"Y-yeah."
+
+@YUM_KIS_A:181 YUM d85f024e
+"{V0414}{W9}Well,{W33} I...{W46} should go."
+
+@YUM_KIS_A:182 PLY 499877e1
+"O-oh, okay."
+
+@YUM_KIS_A:183 YUM 95696488
+"{V0415}{W5}Mm."
+
+@YUM_KIS_A:184 YUM 64b79b5b
+"{V0416}{W6}Well then..."
+
+@YUM_KIS_A:185 PLY cadabfe2
+"LV1 kiss, uniform, with mob. Yuumi won't do it"
+
+@YUM_KIS_A:186 PLY b459d2d1
+"LV1 kiss, bloomers or school swimsuit. Yuumi won't do it"
+
+@YUM_KIS_A:187 YUM cd7023f5
+"{V0417}{W11}What?"
+
+@YUM_KIS_A:188 PLY 9886413a
+"Um... can I kiss you on the cheek again?"
+
+@YUM_KIS_A:189 YUM 256cf8be
+"{V0418}{W8}Eh!"
+
+@YUM_KIS_A:190 YUM d01424f6
+"{V0419}......"
+
+@YUM_KIS_A:191 PLY 019e9373
+"Is that a no?"
+
+@YUM_KIS_A:192 YUM 2cbccbd7
+"{V0431}{W9}N{W4}o{W4}...{W101} if {Nm} wants to...{W44}{W67} {Ec}{W5}{Fe9}{Eo}okay."
+
+@YUM_KIS_A:193 YUM ec0aa626
+"{V0432}{W8}I{W2} w{W2}ant{W2} to{W2} know{W2} how{W2} you feel...{W38} more{W4}."
+
+@YUM_KIS_A:194 YUM 13ffc1ed
+"{V0433}......"
+
+@YUM_KIS_A:195 YUM 908fa479
+"{V0434}{W4}Fufu."
+
+@YUM_KIS_A:196 YUM 9e670d9c
+"{V0435}{W9}That tickles."
+
+@YUM_KIS_A:197 PLY a083e5f2
+"D-does it? Hahaha..."
+
+@YUM_KIS_A:198 YUM 44e1fa57
+"{V0436}{W7}Well, I...{W60} should go."
+
+@YUM_KIS_A:199 YUM 45de338b
+"{V0437}{W5}See you, {Nm}."
+
+@YUM_KIS_A:200 YUM cc6deba4
+"{V0425}{W8}N{W4}o{W4}...,{W39} it's not that I mind..."
+
+@YUM_KIS_A:201 PLY b2207f21
+"But?"
+
+@YUM_KIS_A:202 YUM bcedc40c
+"{V0426}{W10}Th{W3}ere{W3} are{W8} people{W2} around..."
+
+@YUM_KIS_A:203 PLY 6b9a8533
+"Ah... right. Sorry..."
+
+@YUM_KIS_A:204 YUM 03e22a83
+"{V0427}{W9}No,{W16} d{W6}on't apologize."
+
+@YUM_KIS_A:205 YUM 6e0ee506
+"{V0428}......"
+
+@YUM_KIS_A:206 YUM 75ff8c71
+"{V0429}{W5}Well,{W20} well then...{W60} I{W23} should{W2} go{W2}."
+
+@YUM_KIS_A:207 PLY 979f39a2
+"Ah... y-yeah."
+
+@YUM_KIS_A:208 YUM 3ea76a94
+"{V0430}{W6}See you, {2}{2}{Nm}."
+
+@YUM_KIS_A:209 PLY 31fd9bc5
+(Ugh... I troubled Hoshino again. With people around, too...)
+
+@YUM_KIS_A:210 YUM f350e796
+"{V0420}{W7}N{W3}o{W3}...,{W52} it's not that I{W4} mind{W4}...{W3}{W13}"
+
+@YUM_KIS_A:212 YUM 601a1032
+"{V0421}{W6}Not{W3} in{W3} this{W2} outfit{W2}..."
+
+@YUM_KIS_A:213 PLY fa689c37
+"Ah... right."
+
+@YUM_KIS_A:214 YUM 9c824bda
+"{V0422}{W5}Mm..."
+
+@YUM_KIS_A:215 YUM 72f0bac0
+"{V0423}{W7}Well,{W20} well then,{W41} I{W10} need to change."
+
+@YUM_KIS_A:216 YUM fc0587a5
+"{V0424}{W7}See you."
+
+@YUM_KIS_A:217 PLY 11856e65
+"Ah... Hoshino..."
+
+@YUM_KIS_A:218 PLY 05250615
+(A kiss in that outfit is just too much, no matter what...)
+
+@YUM_KIS_A:220 PLY 6fbe28e6
+"What is it, Hoshino?"
+
+@YUM_KIS_A:221 YUM 33fb7915
+"{V0448}{W5}This{W5}...{W103} is all new{W2} to me.{W12}"
+
+@YUM_KIS_A:222 YUM 42b72425
+"{V0449}{W8}Getting{W4} close{W2} to{W4} a{W4} boy{W4},{W3} and{W3} b{W2}eing{W2} a{W2}lone{W2} with{W2} him...{W19} {Ec}{W2}{W3}"
+
+@YUM_KIS_A:223 YUM b9e07b88
+"{V0450}{W7}It's...{W77} my heart{W43} is pounding so much."
+
+@YUM_KIS_A:224 PLY 87239c0c
+"Y-yeah... same here."
+
+@YUM_KIS_A:225 YUM 988851a0
+"{V0451}{W3}Fufu,{W66} {Eo}you too, {Nm}?"
+
+@YUM_KIS_A:226 YUM 53fb01af
+"{V0452}{W5}I'm glad..."
+
+@YUM_KIS_A:228 YUM 197f70a5
+"{Nm}...{W2} {V0453}{W4}Um,{W80} {Ec}there's{W65} {Eo}something{W2} I want to tell you..."
+
+@YUM_KIS_A:229 PLY 6adae0d3
+"Something you want to tell me?"
+
+@YUM_KIS_A:230 YUM 3f467784
+"{V0454}{W4}Y{W3}es...{W82} it's{W1} embarrassing,{W62} {Ec}{W5}{F9}{Eo}but{W1} I{W1} really{W1} want{W1} to tell you..."
+
+@YUM_KIS_A:231 PLY 35c45c19
+"W-what is it?"
+
+@YUM_KIS_A:232 YUM 877f24b3
+"{V0455}......"
+
+@YUM_KIS_A:233 YUM 1ed21c33
+"{V0456}{W4}Lean down{W8} a little, {Nm}."
+
+@YUM_KIS_A:234 PLY f013a154
+"Like this?"
+
+@YUM_KIS_A:238 YUM ee3e6714
+"{V0457}{W4}Yes,{W28} that's good."
+
+@YUM_KIS_A:239 PLY 745cc98f
+(N-no way...)
+
+@YUM_KIS_A:240 YUM 41867712
+"{Nm}... {V0458}{W5}thank{W1} you{W51} for{W1} always{W4} watching{W1} over{W1} me{W1}.{W22}"
+
+@YUM_KIS_A:242 YUM 3507b5db
+"{V0459}......"
+
+@YUM_KIS_A:243 PLY 634f9920
+"Ah..."
+
+@YUM_KIS_A:248 PLY 39e3ca6d
+"H-Hoshino...!"
+
+@YUM_KIS_A:249 YUM 85c80c0f
+"{V0460}{W7}I'd{W5} be{W5} happy{W5} if{W5} you...{W38} {Ec}felt{W2} how I feel{W7}..."
+
+@YUM_KIS_A:250 YUM d6d9226d
+"{V0461}{W4}Well, well then,{W40} I'm going.{W47} See you, {Nm}."
+
+@YUM_KIS_A:251 PLY 50a1bcfc
+"She's gone..."
+
+@YUM_KIS_A:252 PLY fd3d86ea
+LV2 kiss, uniform, with mob / Yuumi won't do it
+
+@YUM_KIS_A:253 PLY 2d9f8324
+LV2 kiss, bloomers or school swimsuit / Yuumi won't do it
+
+@YUM_KIS_A:254 YUM 3f4e1f85
+"{V0462}{W8}What{W2} is it?"
+
+@YUM_KIS_A:255 PLY 1350e2e8
+"Um... could you kiss me on the forehead again?"
+
+@YUM_KIS_A:256 YUM 3843e596
+"{V0463}{W6}Eh..."
+
+@YUM_KIS_A:257 YUM 32835329
+"{V0464}{W4}I'm sorry.{W44} That's,{W18} well...
+
+@YUM_KIS_A:258 PLY c9a17088
+"Huh? You won't?"
+
+@YUM_KIS_A:259 YUM 9a3991cf
+"{V0465}{W3}No.{W57} {Ec}I'm embarrassed...{W13}"
+
+@YUM_KIS_A:260 PLY 8bb1fa1a
+"R-right... But earlier..."
+
+@YUM_KIS_A:262 YUM fa15f7de
+"{V0466}{W4}That{W5} was...{W66} {Fe6}even I think{W30} it was a bold{W5} thing to do..."
+
+@YUM_KIS_A:263 PLY b7ee487a
+"Yeah, I was surprised too."
+
+@YUM_KIS_A:264 YUM 69e8633d
+"{V0467}{W2}I{W2} knew{W2} it!{W52} {Ec}Please forget it, it's embarrassing."
+
+@YUM_KIS_A:265 PLY 7c547f23
+"I can't do that. I can't forget it..."
+
+@YUM_KIS_A:266 YUM 33bf692b
+"{V0469}{W8}W-{W5}well then,{W26} I...{W41} I'm going."
+
+@YUM_KIS_A:267 PLY ca2ae96b
+"Okay. See you."
+
+@YUM_KIS_A:268 YUM 98226084
+"{V0470}{W5}Yes."
+
+@YUM_KIS_A:269 PLY bffeb2e7
+(What does Hoshino think of me...?)
+
+@YUM_KIS_A:270 PLY bf932ba8
+(I want to find out... But if she doesn't like me at all, we might not even be able to go back to being friends...)
+
+@YUM_KIS_A:271 PLY 1f91e5c2
+(...But I want to know. Hoshino, I...)
+
+@YUM_KIS_A:272 PLY 520117dc
+"Hoshino... There's something I want to tell you."
+
+@YUM_KIS_A:273 YUM 7476699a
+"{V0030}Eh..."
+
+@YUM_KIS_A:274 PLY 2fb9b0c4
+"Can I tell you now? We can talk, just the two of us, here..."
+
+@YUM_KIS_A:275 YUM 94c7bf9d
+"{V0472}{W4}Mm..."
+
+@YUM_KIS_A:276 YUM d1685e57
+"{V0473}{W3}...There's{W5} something{W2} I{W80} want{W2} to{W2} talk{W2} about{W51} with{W2} you{W1} too,{W1} {Nm}.{W1}{W1}{W1}"
+
+@YUM_KIS_A:277 PLY 14adb4a8
+"Really? ...What is it?"
+
+@YUM_KIS_A:278 PLY 92faf07c
+"...Would you like to go somewhere we can be alone?"
+
+@YUM_KIS_A:279 PLY 09d900cb
+"I see... Is it something you can't say here?"
+
+@YUM_KIS_A:280 YUM 41a58f87
+"{V0474}{W4}Um,{W43} {F6}yes...{W70} a little..."
+
+@YUM_KIS_A:281 PLY 405ffe9a
+"Okay. Then shall we go behind the school?"
+
+@YUM_KIS_A:282 YUM ba5b75aa
+"{V0475}{W4}Mm."
+
+@YUM_KIS_A:283 YUM 0cb56c68
+"{V0476}{W9}Then,{W54} I'll go{W14} change first."
+
+@YUM_KIS_A:284 PLY 049ac97a
+"Oh, right, of course."
+
+@YUM_KIS_A:285 YUM 7276e838
+"{V0477}Fufu."
+
+@YUM_KIS_A:286 PLY b0af9767
+"Then I'll go ahead and wait for you."
+
+@YUM_KIS_A:287 YUM 1f1e982b
+"{V0478}{W4}Mm."
+
+@YUM_KIS_A:288 YUM bea5bbd3
+"{Nm}, {V0479}{W6}sorry to keep you waiting."
+
+@YUM_KIS_A:289 PLY daf71da4
+"So... what did you want to talk about, Hoshino?"
+
+@YUM_KIS_A:290 YUM 3764d477
+"{V0480}{W5}Ah{W1}...{W49} no,{W50} mine{W7} can{W6} wait{W7} until{W27} later.{W2}{W2}"
+
+@YUM_KIS_A:291 PLY 2a16b2f5
+"Really?"
+
+@YUM_KIS_A:292 YUM 2d7b3990
+"{V0481}{W3}Yes."
+
+@YUM_KIS_A:293 PLY 7e51afb2
+"...Then I'll go first."
+
+@YUM_KIS_A:294 YUM 33aea543
+"{V0482}{W5}Mm."
+
+@YUM_KIS_A:295 PLY 8e7cd182
+"Hoshino... I want to know how you feel..."
+
+@YUM_KIS_A:296 YUM 977a9e97
+"{V0483}{W4}Eh..."
+
+@YUM_KIS_A:297 PLY 3fcd4a13
+"What do you think of me?"
+
+@YUM_KIS_A:298 PLY b8db28a2
+"Ah... sorry. Let me say it first. Hoshino, I..."
+
+@YUM_KIS_A:300 YUM b98bd251
+"{V0485}{W9}Wait..."
+
+@YUM_KIS_A:301 YUM 9f743742
+"{V0486}{W9}Please...{W40} don't say any more."
+
+@YUM_KIS_A:302 PLY d9372ba1
+"Why?"
+
+@YUM_KIS_A:303 YUM b5efa0cc
+"{V0487}...I just can't let you."
+
+@YUM_KIS_A:304 YUM a88fc394
+"{V0488}{W10}I'm sorry.{W59} I...{W65} I want things to stay as they are."
+
+@YUM_KIS_A:305 PLY 0730b04a
+"As they are... you mean, as friends?"
+
+@YUM_KIS_A:306 YUM d89226cb
+"{V0489}{W3}Mm..."
+
+@YUM_KIS_A:307 PLY 45e6e63c
+"Then you don't feel anything for me..."
+
+@YUM_KIS_A:308 YUM 21f216b9
+"{V0490}{W13}N{W4}o{W3}, {W25}that's not true! {W45}{Fe9}That's not true at all! {W40}{Fe6}{Ec}But..."
+
+@YUM_KIS_A:309 PLY b5793390
+"But...?"
+
+@YUM_KIS_A:310 YUM 0e4e995a
+"{V0491}{W7}I{W5}..."
+
+@YUM_KIS_A:313 YUM 2a7cab37
+"{V0492}{W11}I'm sorry..."
+
+@YUM_KIS_A:314 PLY 5a17ae31
+"Hoshino... sorry, I rushed things. We've only just gotten close, and I..."
+
+@YUM_KIS_A:315 YUM 00ef5130
+"{V0493}{W14}No,{W22} it's not that. {W35}{Ec}{W5}{F6}{Eo}If{W8} anything,{W25} it's{W7} my{W6} fault{W6}..."
+
+@YUM_KIS_A:316 PLY dec34063
+"Huh? It's not your fault at all."
+
+@YUM_KIS_A:317 YUM 6fe489e7
+"{V0494}{W10}N{W2}o...{W34} {Ec}it{W5} is{W7} my{W4} fault{W4}..."
+
+@YUM_KIS_A:318 YUM 33060224
+"{V0495}......"
+
+@YUM_KIS_A:319 YUM 2cd5f0fa
+"{Nm}... {V0496}{Ec}{W9}kiss me..."
+
+@YUM_KIS_A:320 PLY f725dd6d
+"Eh..."
+
+@YUM_KIS_A:321 YUM bede9e99
+"{V0497}{W8}I can't say it{W3} in words,{W60} {Ec}{W5}{F6}{Eo}but I can{W25} show you how I feel."
+
+@YUM_KIS_A:322 YUM 0f46060c
+"{V0498}......"
+
+@YUM_KIS_A:323 PLY 906c4b48
+"...Are you sure?"
+
+@YUM_KIS_A:324 YUM ac7401c5
+"{V0499}{W5}Mm."
+
+@YUM_KIS_A:331 YUM 01f53ed1
+"{V0500}{W3}Mm..."
+
+@YUM_KIS_A:332 PLY f51afd41
+(Hoshino... I love you...)
+
+@YUM_KIS_A:333 YUM 5824ec17
+"{Nm}..."
+
+@YUM_KIS_A:334 PLY fab4fdc1
+(Ah... Hoshino's crying...)
+
+@YUM_KIS_A:337 PLY a7893feb
+"Why are you crying? Is it... my fault...?"
+
+@YUM_KIS_A:338 YUM 9fc4377e
+"{V0502}{W8}N{W4}o{W4}...{W57} it's nothing.{W74} Please don't mind it."
+
+@YUM_KIS_A:339 PLY 131f4861
+"You say don't mind it, but..."
+
+@YUM_KIS_A:340 YUM 32860952
+"{V0503}{W9}I'm{W2} really{W2} fine{W39}...{W80} {Ec}my{W1} heart{W1} was{W1} just{W1} full.{W1}"
+
+@YUM_KIS_A:341 YUM dede256f
+"{Nm},{W2} {V0504}{W8}do{W4} you{W2} have{W33} any{W3} plans{W4} this{W1} weekend?{W1}{W1}"
+
+@YUM_KIS_A:342 PLY eede4fa2
+"Plans? No, I don't."
+
+@YUM_KIS_A:343 YUM 8f2bb610
+"{V0505}{W7}Then,{W41} {Ec}{W5}{F3}{Eo}shall{W3} we{W3} go{W11} somewhere{W1} together?{W1}{W1}{W2}"
+
+@YUM_KIS_A:344 PLY 364c2b42
+"Somewhere? Sure, but where?"
+
+@YUM_KIS_A:345 YUM b7127c8c
+"{V0506}{W11}Anywhere{W1} you{W1} want{W1} to{W1} go,{W1} {Nm}{W2}{W2}{W2},{W1} is{W1} fine.{W57} You went{W4} to{W3} the{W4} park{W4} on{W4} the{W2} hill{W5} with{W2} me...{Fe2}{Ec}"
+
+@YUM_KIS_A:346 PLY e2226109
+"Hoshino... Then, since summer's ending, how about the pool?"
+
+@YUM_KIS_A:347 YUM 4bd4ce33
+"{V0507}{W5}The{W2} pool...?"
+
+@YUM_KIS_A:348 PLY 1c28110e
+"Don't you like it?"
+
+@YUM_KIS_A:349 YUM 5e11aef0
+"{V0508}{W5}N{W3}o{W3}, {W34}it's not that..."
+
+@YUM_KIS_A:350 YUM f94b7d86
+"{V0509}{W4}I'm{W70} bad{W4} at{W3} swimming,{W4} and{W4} {Ec}{W5}{F7}{Eo}I{W2} didn't{W2} buy{W35} a{W2} swimsuit{W2} this{W2} year...{W2}{W36}"
+
+@YUM_KIS_A:351 PLY e7763ad2
+"Don't worry about that."
+
+@YUM_KIS_A:352 PLY 5bf516a5
+"Let's go to the pool together."
+
+@YUM_KIS_A:353 YUM 9bc4ed88
+"{V0510}...Mm."
+
+@YUM_KIS_A:354 PLY bc455f16
+"Then, Sunday at noon, meet at the shopping street?"
+
+@YUM_KIS_A:355 YUM 3600564a
+"{V0511}Yes."
+
+@YUM_KIS_A:357 YUM 64db3dab
+"{V0512}{W10}I'm looking forward to it."
+
+@YUM_KIS_A:358 YUM 87466500
+"{V0513}{W8}Well,{W22} I'm going."
+
+@YUM_KIS_A:359 PLY 11d98397
+"Oh, Hoshino, wait. What did you want to tell me?"
+
+@YUM_KIS_A:360 YUM 0cc815b3
+"{V0514}{W4}Ah...{W69} I'm{W4} sorry.{W68} I'll{W5} tell{W5} you{W4} on{W4} Sunday.{W34} {Ec}{W5}{F6}{Eo}Please{W3} let{W3} me{W3} do{W3} that.{W4}"
+
+@YUM_KIS_A:361 PLY 58472ad5
+"Okay, if you say so..."
+
+@YUM_KIS_A:362 YUM f2f4f96e
+"{V0515}{W4}Then,{W21} I'll{W3} go{W3} back{W4} to{W4} class{W4} first{W4}.{W3}{W2}"
+
+@YUM_KIS_A:363 PLY cc4af171
+"Okay."
+
+@YUM_KIS_A:364 PLY e25fd2ec
+(Hoshino cried. What on earth was that about...)
+
+@YUM_KIS_A:365 PLY 8331d188
+"Hoshino."
+
+@YUM_KIS_A:366 YUM 306d39c8
+"{V0516}{W7}Yes?"
+
+@YUM_KIS_A:367 PLY 1381c059
+"I'm looking forward to the weekend."
+
+@YUM_KIS_A:368 YUM 2042e5c5
+"{V0517}{W7}Yes."
+
+@YUM_KIS_A:369 PLY 7b078805
+(What does Hoshino want to tell me... I want to ask, but I probably shouldn't...)
+
+@YUM_KIS_A:370 YUM 255f39aa
+"{Nm}, {V0518}{W7}I'm sorry.{W65} I...{W60} I have{W4} to{W5} go now."
+
+@YUM_KIS_A:371 YUM 17a13620
+"{V0519}{W3}Mm...{W90} Well,{W30} {Ec}{W5}{F6}{Eo}see you."
+
+@YUM_KIS_A:372 PLY 11e5109d
+(Hoshino looked so troubled... I shouldn't have asked about the weekend.)
+
+@YUM_KIS_A:373 YUM 1798e31d
+"{V5037}{W9}Yes?"
+
+@YUM_KIS_A:374 PLY 26e3a993
+"Sorry I couldn't make it last weekend. ...If you're up for it, how about the pool this time?"
+
+@YUM_KIS_A:375 YUM 9442a2b9
+"{V5038}{W7}Ah..."
+
+@YUM_KIS_A:376 YUM 064b586a
+"{V5039}{W1}...You{W1} won't{W28} forget{W2} our{W2} promise{W3} again?{W2}"
+
+@YUM_KIS_A:377 PLY 986d5c08
+"No. I'll never forget it."
+
+@YUM_KIS_A:378 YUM 9f19ccc6
+"{V5040}......"
+
+@YUM_KIS_A:379 YUM a3d96dec
+"{V5041}{W7}Then,{W9} all right.{W29} Take me to the pool."
+
+@YUM_KIS_A:380 PLY c9918b04
+"Really?"
+
+@YUM_KIS_A:381 YUM bd18051a
+"{V5042}{W4}Yes.{W43} {Eo}I{W6} want{W30} to go to the pool{W10} with you too, {Nm}."
+
+@YUM_KIS_A:382 PLY 17bddb5b
+"Great... Then Sunday at noon, meet at the shopping street?"
+
+@YUM_KIS_A:383 YUM 576d6fa1
+"{V5043}{W5}Yes.{W37} This{W2} time{W3} I'll really look forward to it."
+
+@YUM_KIS_A:384 YUM 134fbdd0
+"{V5044}{W4}Well,{W18} see you."
+
+@YUM_KIS_A:385 YUM 3e600a99
+"{V5053}{W7}Yes?"
+
+@YUM_KIS_A:386 PLY 6ac1ec8c
+"We couldn't go last weekend, but if you want, how about going to the pool together this weekend?"
+
+@YUM_KIS_A:387 YUM 09ff29fe
+"{V5054}{W6}Ah..."
+
+@YUM_KIS_A:388 YUM 718221fe
+"{V5055}{W4}I'm{W2} sorry.{W30} I{W3} couldn't{W4} go{W5} last{W16} time{W4} be{W3}cause{W2} of{W2} my{W3} circum{W2}stances{W2}...{Ec}{W2}"
+
+@YUM_KIS_A:389 PLY 50f2557e
+"It's fine, don't worry about it."
+
+@YUM_KIS_A:390 YUM 3337f921
+"{V5056}...Mm.{W32} I{W2} want{W2} to{W1} go{W1} to{W1} the{W2} pool{W1} too.{W21} I{W3} think{W3} this{W3} weekend{W5} will{W2} be{W3} okay{W2}...{W2}{W2}{W2}{W1}{W3}{W3}"
+
+@YUM_KIS_A:391 PLY 08bd6121
+"Great. Then Sunday at noon, meet at the shopping street?"
+
+@YUM_KIS_A:392 YUM b98eda12
+"{V5058}{W5}Yes."
+
+@YUM_KIS_A:393 YUM 1c0ccfd1
+"{V5059}{W9}Then,{W6} I'll{W2} be{W1} look{W1}ing{W1} forward{W1} to it.{W27} {Ec}See you, {Nm}."
+
+@YUM_KIS_A:394 PLY b0128c39
+"Hoshino... I want to kiss you..."
+
+@YUM_KIS_A:395 YUM 7fccae1d
+"{V0520}{W8}Eh...?"
+
+@YUM_KIS_A:396 YUM a23782ae
+"{V0521}{W11}Here?"
+
+@YUM_KIS_A:397 PLY adc5c588
+"Yes."
+
+@YUM_KIS_A:399 YUM 7604ad61
+"{V0523}{W12}With everyone around?"
+
+@YUM_KIS_A:400 YUM 3bddb9dd
+"{V0058}......"
+
+@YUM_KIS_A:401 YUM b5010f6a
+"{V0524}{W8}If you{W28} want to, {Nm}..."
+
+@YUM_KIS_A:402 YUM 5407fcee
+"{V0525}{W7}Mm..."
+
+@YUM_KIS_A:404 YUM 40889b0e
+"{V0526}{W5}Mm..."
+
+@YUM_KIS_A:405 PLY 38866a45
+(Hoshino... I love you... But if I tell her how I feel when she's going far away...)
+
+@YUM_KIS_A:406 PLY 063acf7d
+(She'll suffer even more than now.)
+
+@YUM_KIS_A:407 PLY 94d07b4a
+(But... I want to tell her how I feel...)
+
+@YUM_KIS_A:408 PLY 2ab31fb6
+(What should I do...)
+
+@YUM_KIS_A:409 PLY ddb6e44b
+(No matter how many kisses we share, I can't tell her...)
+
+@YUM_KIS_A:410 YUM 918e46a9
+"{Nm},{W2} {V0527}{W11}not{W2} that{W2} long{W2}...{W9} {W50}If{W3} some{W2}one{W2} sees{W1} us{W1}...{W9}{W1}{W1}"
+
+@YUM_KIS_A:411 PLY 67bde82b
+"Ah... sorry..."
+
+@YUM_KIS_A:414 YUM 75d7915a
+"{V0528}Ah,{W23} {Nm}...{W28} you're{W5} crying..."
+
+@YUM_KIS_A:415 PLY 06526828
+"Huh? ...Oh? That's odd. Maybe I got something in my eye. Hahaha..."
+
+@YUM_KIS_A:416 YUM 5861d1f7
+"{V0529}{W9}I'm{W1} so{W1}rry{W1}..."
+
+@YUM_KIS_A:417 YUM 3632041b
+"{V0530}...I{W90} should{W1} not{W1} have{W8} told{W3} you{W3} I{W1} was{W1} transferring{W37} {Eo}schools...{W1}{W1}{W1}{W1}{W2}"
+
+@YUM_KIS_A:418 PLY bdf9aa21
+"W-why?"
+
+@YUM_KIS_A:419 YUM c07601ce
+"{V0531}{W5}Because,{W48} I've{W2} done{W3} nothing{W3} but{W30} cause{W2} you{W1} pain,{W1} {Nm}...{W1}{W1}{W1}"
+
+@YUM_KIS_A:420 PLY d8c1f861
+"That's not true! Sure, it hurts, but just getting to spend our last time together, Hoshino, I..."
+
+@YUM_KIS_A:421 PLY a5437f8f
+"Hoshino, we can go around the school festival together, right?"
+
+@YUM_KIS_A:422 YUM 75b92923
+"{V0533}{W11}Mm.{W80} {Eo}I{W71} want to{W2} go{W2} around{W2} with{W1} you,{W1} {Nm}..."
+
+@YUM_KIS_A:423 YUM c2e7687e
+"{V0534}{W8}Then,{W48} I'll{W1} be{W2} looking{W3} forward{W1} to{W1} the{W1} school{W33} festival."
+
+@YUM_KIS_A:424 YUM 1a9265e3
+"{V0535}{W4}See{W2} you,{W3}{W20} {Eo}{Nm}."
+
+@YUM_KIS_A:425 YUM be3d4582
+"{V0536}{W9}Eh...?"
+
+@YUM_KIS_A:426 YUM 763425dd
+"{V0537}...Mm."
+
+@YUM_KIS_A:428 YUM 7974985d
+"{V0538}{W6}Mm..."
+
+@YUM_KIS_A:429 PLY 319a30de
+"Sorry..."
+
+@YUM_KIS_A:430 YUM 8fa84397
+"{V0539}{W8}Why{W3} are{W3} you{W3} apologizing?{W13}{W5}{W5}"
+
+@YUM_KIS_A:431 PLY 20cfac18
+"...Nothing has changed, and I can't tell you anything, yet I keep on kissing you..."
+
+@YUM_KIS_A:432 PLY 65ae26b6
+"I'm pathetic..."
+
+@YUM_KIS_A:433 YUM 5f1d3fcc
+"{V0540}{W9}No{W3}{W3}...{W28} that's not true."
+
+@YUM_KIS_A:434 YUM 91911fd5
+"{V0541}{W5}Every{W1} kiss,{W2}{W2}{W1}{W15} {Eo}{Nm}, carries{W1}{W1}{W2}{W2}{W1}{W1}{W3}{W1} your feelings to me."
+
+@YUM_KIS_A:435 YUM 55df1168
+"{V0542}Mm."
+
+@YUM_KIS_A:436 YUM 9c390f6d
+"{V0543}{W5}I feel like{W2}{W2}{W2}{W2}{W2}{W1}{W10} you're telling me{W44} not to go anywhere."
+
+@YUM_KIS_A:437 YUM 1dc7b427
+"{V0546}{W5}I'll{W51} go now."
+
+@YUM_KIS_A:438 PLY 752bc6cc
+"Huh? Why?"
+
+@YUM_KIS_A:440 YUM f00bdb7f
+"{V0547}{W4}...Because{W30} {Eo}I feel like{W7} everyone's watching."
+
+@YUM_KIS_A:441 PLY 67919fb4
+"O-oh, right."
+
+@YUM_KIS_A:442 YUM 1bd4d2f3
+"{V0548}{W7}Well then,{W42} see you."
+
+@YUM_KIS_A:443 YUM 009a20a6
+"{V0544}{W7}I{W55} have to{W2} change{W2} now."
+
+@YUM_KIS_A:444 PLY 4537aaf9
+"Oh, okay. See you in class."
+
+@YUM_KIS_A:445 YUM 4af667b9
+"{V0545}{W2}Yes."
+
+@YUM_KIS_A:446 YUM d431dbd4
+"{V1351}See you."
+
+@YUM_KIS_A:447 YUM 59a7d73a
+"{V0549}{W3}Well then,{W29} I'll{W31} go now."
+
+@YUM_KIS_A:448 PLY 98adcd37
+"Hey, there's no such thing as No Way House. Welcome. Yeah, it's KIS A."

@@ -1,0 +1,74 @@
+# NAR_TEN -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_TEN:40 NAR affd7583
+"{V0048}{W10}Senpai{W15}!{W15} {Ec}Good morning!"
+
+@NAR_TEN:42 PLY d8a1414c
+"Morning, Narumi."
+
+@NAR_TEN:45 PLY 3afff88b
+"Oh, morning, Narumi."
+
+@NAR_TEN:47 NAR 4d6351ff
+"{V0049}Oh,{W5}{W25} {Nm}!{W20} {F3}Good morning."
+
+@NAR_TEN:48 PLY 3f1917c2
+"Nice weather, isn't it?"
+
+@NAR_TEN:50 NAR 2cd24272
+"{V0050}It sure is~"
+
+@NAR_TEN:51 NAR 98697b2d
+"{V0051}{W10}Oh,{W10} {Nm},{W15} {Ec}good morning~!"
+
+@NAR_TEN:53 NAR 17153ee1
+"{V0052}It's lovely weather, isn't it?"
+
+@NAR_TEN:54 PLY 851b6dc4
+"It is."
+
+@NAR_TEN:55 NAR d574e862
+"{V0053}Oh!{W20} {Nm},{W40} good morning!"
+
+@NAR_TEN:58 NAR f5d77eb7
+"{V0054}{W10}Senpai, seeing{W2} you first thing in{W2} the morning{W20} {Ec}makes me feel lucky."
+
+@NAR_TEN:59 PLY 499877e1
+"R-really?"
+
+@NAR_TEN:60 NAR dec6e7ce
+"{V0055}Yes."
+
+@NAR_TEN:62 NAR d125062b
+"{V0056}Good morning!"
+
+@NAR_TEN:64 NAR 6c5180ef
+"{V0057}{W10}Senpai,{W25} want to race to the shoe lockers?"
+
+@NAR_TEN:65 PLY da86adc7
+"Huh? ...It's too hot, so I'll pass."
+
+@NAR_TEN:67 NAR eccd0b8e
+"{V0058}Ah{W10} uh{W10}...{W30} {F9}{Sp}Right, of course."
+
+@NAR_TEN:68 PLY dcf6771f
+"You're full of energy this early in the morning, Narumi."
+
+@NAR_TEN:69 NAR 285c482a
+"{V0059}Yes!{W52} {F9}{Eo}Well{W5}{W5} then,{W15} I'll be going{Ti1} now."
+
+@NAR_TEN:70 PLY e03a6130
+"Yeah, see you."
+
+@NAR_TEN:71 NAR 03393f14
+"{V0060}{Nm},{W25} {Ec}good morning."
+
+@NAR_TEN:73 NAR 85096c5e
+"{V0061}{W10}Seeing you{W4} first thing{W4} in the{W4} morning, Senpai,{W32} I{W3} feel{W3}{W3} like{W3} today{W20} {Ec}will be a good{Ti1} day."
+
+@NAR_TEN:74 PLY 36d8865d
+"You're making a big deal of it, Narumi."
+
+@NAR_TEN:75 NAR 18d632b8
+"{V0062}But,{W22} I just have that feeling!"

@@ -1,0 +1,551 @@
+# ERI_KIS_B -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_KIS_B:36 PLY 17cc0ae9
+"Futami, you're always alone, aren't you?"
+
+@ERI_KIS_B:38 ERI 05cacbba
+"{V0500}{W15}Yes."
+
+@ERI_KIS_B:40 PLY eecbd865
+"Have you never... liked anyone?"
+
+@ERI_KIS_B:43 ERI b230b4b0
+"{V0501}{W15}No."
+
+@ERI_KIS_B:44 PLY 98f7eae3
+"Not even once?"
+
+@ERI_KIS_B:46 ERI ece9a4a1
+"{V0502}{W15}No.{W36} I've never liked anyone,{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W49} {Ec}...and probably{W36} no one has ever liked me."
+
+@ERI_KIS_B:47 PLY a7ad4f25
+"I see. That's lonely..."
+
+@ERI_KIS_B:51 ERI d7dda35e
+"{V0503}{W15}{Fe1m4}Is it?{W60} People feel{W4}{W4}{W4} differently about these things."
+
+@ERI_KIS_B:52 PLY 0d80b9d5
+"......"
+
+@ERI_KIS_B:53 PLY 9ea552aa
+"...You're bad at dealing with people, huh."
+
+@ERI_KIS_B:54 ERI 6e0f919b
+"{V0504}{W15}I don't intend to get{W3} better at it."
+
+@ERI_KIS_B:55 PLY 876a2929
+"I see..."
+
+@ERI_KIS_B:56 ERI 49d13e00
+"{V0505}{W15}But..."
+
+@ERI_KIS_B:58 ERI b8543529
+"{V0506}{W19}I do want to get better at kissing."
+
+@ERI_KIS_B:59 PLY 21e4acd1
+"What?!"
+
+@ERI_KIS_B:60 ERI 66ad3dfe
+"{V0507}{W18}A kiss{W2}{W2}{W3}{W3}{W3}{W1}{W1}{W1}{W1}{W1} is supposed to feel good,{W42} and I cannot put up with{W1} one{W4} like that."
+
+@ERI_KIS_B:61 ERI 1c6c9915
+"{V0508}{W18}Being tone-deaf{W4}{W1}{W4}{W1}{W1}{W1}{W1} at singing is fine,{W45} but being kiss-deaf{W4}{W1}{W2}{W2}{W6} is not."
+
+@ERI_KIS_B:62 PLY c3cf1ce3
+"Y-you can't mean, again..."
+
+@ERI_KIS_B:66 ERI 902260ca
+"{V0509}{W18}You don't mind,{W1}{W1}{W1} do you?{W12} Let me practice.{W4}{W5}"
+
+@ERI_KIS_B:67 PLY 7b4024c7
+"I-I can't do that!"
+
+@ERI_KIS_B:69 ERI 7b22ae19
+"{V0510}{W18}{Fm3}I told you,{W33} didn't I?{W8} That you were out of luck{W5}{W1}{W1}{W1}{W5}{W1}{W1}{W3} for coming near me."
+
+@ERI_KIS_B:71 ERI 69de511e
+"{V0511}{W15}You may practice on me{W8} too.{W3}{W4}"
+
+@ERI_KIS_B:73 ERI 9fdac5bc
+"{V0512}{W18}If both{W4}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1} of us get better,{W27} that is{W1} rational,{W3}{W1}{W3} isn't it?"
+
+@ERI_KIS_B:74 PLY 6a755ab2
+"F-Futami, wait a sec..."
+
+@ERI_KIS_B:80 ERI 6438d09a
+"{V0513}......"
+
+@ERI_KIS_B:81 PLY ae62a322
+(W-whoa...)
+
+@ERI_KIS_B:95 PLY 061238dd
+"Pwah!"
+
+@ERI_KIS_B:96 ERI 59d3f143
+"{V0515}{W15}......"
+
+@ERI_KIS_B:97 PLY 1beee9df
+"H-how was it?"
+
+@ERI_KIS_B:98 ERI ad91134a
+"{V0516}...{W8}I can't tell.{W76} It's the same as{W8} last time..."
+
+@ERI_KIS_B:99 PLY af85d10c
+"Same here..."
+
+@ERI_KIS_B:100 ERI 94bfdd3c
+"{V0517}{W15}Once or twice{W4} is not enough,{W45} {Ec}so{W4} kiss-deafness does not get cured{W3}, it seems."
+
+@ERI_KIS_B:101 PLY a53f074e
+"D-don't say such scary things..."
+
+@ERI_KIS_B:103 ERI 9f4aa7d8
+"{V0518}{W15}See you, {Nm}."
+
+@ERI_KIS_B:104 PLY 634f9920
+"Ah..."
+
+@ERI_KIS_B:106 PLY 5095d38a
+(She's gone...)
+
+@ERI_KIS_B:107 PLY 4b8f1688
+(N-nobody saw that, right...?)
+
+@ERI_KIS_B:108 ERI 6b665e30
+"{Nm}, {V0519}{W15}want to try again?{W4}"
+
+@ERI_KIS_B:109 PLY d271269f
+"Huh? Try what?"
+
+@ERI_KIS_B:110 ERI 04423a65
+"{V0520}{W15}Isn't it obvious?{Ec} A kiss."
+
+@ERI_KIS_B:111 PLY a8bb0879
+"What?! B-but that's... a problem."
+
+@ERI_KIS_B:112 ERI d5dbfc8f
+"{V0521}Why?"
+
+@ERI_KIS_B:113 PLY 4ec4d97b
+"Well... kissing like that isn't right."
+
+@ERI_KIS_B:114 ERI 9a96109f
+"{V0522}Do you dislike it?"
+
+@ERI_KIS_B:115 PLY 851b6dc4
+"I guess so."
+
+@ERI_KIS_B:116 ERI c4110510
+"{V0523}{W18}I see.{W66} If you dislike it,{W4} it{W4} can't be helped.{W35} {Ec}It would not be rational.{W3}{W3}"
+
+@ERI_KIS_B:118 ERI c3e52d8e
+"{V0524}{W15}I'm leaving now.{W36} {Ec}See you."
+
+@ERI_KIS_B:119 PLY 8eb25093
+"Ah... Futami..."
+
+@ERI_KIS_B:120 PLY fea27437
+(Phew... she backed down more easily than I expected.)
+
+@ERI_KIS_B:121 PLY 98409137
+"Futami, you and I have quite a few secrets now."
+
+@ERI_KIS_B:122 ERI 1dfde587
+"{V0525}{W15}I suppose{W1}{W1} so...{W60} {Fe6}Unfortunately..."
+
+@ERI_KIS_B:123 PLY 35b19529
+"Why do you keep all your "deafness" stuff secret?"
+
+@ERI_KIS_B:124 ERI c584edfe
+"{V0526}{W15}Because it's embarrassing.{W30} {Fm8}Obviously."
+
+@ERI_KIS_B:125 PLY 6c5179be
+"But if people saw that side of you, they'd be happy."
+
+@ERI_KIS_B:126 ERI e7219076
+"{V0527}{W15}Why should I{W8} have to{W30} make everyone happy?"
+
+@ERI_KIS_B:127 PLY 0d3509dc
+"Because you'd make friends."
+
+@ERI_KIS_B:128 ERI 357e40b7
+"{V0528}Huh?"
+
+@ERI_KIS_B:129 PLY 7c7f22ab
+"Your guard is way too high, Futami. You're already so smart that everyone is wary of you..."
+
+@ERI_KIS_B:130 ERI 85b6cb98
+"{V0529}{W18}I{W8} don't...{W75} particularly{W4}{W4} want friends{W5} badly.{W4}"
+
+@ERI_KIS_B:131 ERI 035fbb78
+"{V0530}{W15}I don't really{W4}{W4} know what{W24} a friend even is..."
+
+@ERI_KIS_B:132 PLY 2ca64493
+"Futami..."
+
+@ERI_KIS_B:134 ERI cd19b756
+"{Nm}, {V0531}{W15}what{W4}{W4} does{W3} "friend" mean?{W40}"
+
+@ERI_KIS_B:135 PLY 8be60bf1
+"Well... if you get along when you talk, share hobbies, and are together a lot, I think that counts..."
+
+@ERI_KIS_B:136 ERI 3c454640
+"{V0532}{W15}I see...{W75} I don't know{W8} anything{W60} about {Nm}'s{W3} hobbies,{W39} {Ec}and I{W8} can't tell if we'd{W4} get along when we talk."
+
+@ERI_KIS_B:137 PLY a9bebc32
+"Right..."
+
+@ERI_KIS_B:138 ERI 7f387c81
+"{V0533}...{W15}But{W30} we are together a lot.{W45} {F9}{Eh}Thanks to that,{W39} you've seen me in some very embarrassing moments."
+
+@ERI_KIS_B:139 PLY 774403ad
+"I think of you as a friend, Futami."
+
+@ERI_KIS_B:140 PLY d982a846
+"So I want you to think of me as one too."
+
+@ERI_KIS_B:141 ERI 5f9e4d35
+"{V0534}{W12}{F6}...May I{W4}{W5} think that...{W45} really?"
+
+@ERI_KIS_B:142 PLY b81065be
+"Of course."
+
+@ERI_KIS_B:143 ERI df42d231
+"{V0535}{W12}...{W3}Then,{W45} we{W8} are{W12} friends."
+
+@ERI_KIS_B:144 ERI fd32b08a
+"{V0536}{W15}Heh,{W40} {Eo}I made a friend{W4}{W5} for the first time.{W4}"
+
+@ERI_KIS_B:146 ERI 5be69751
+"{V0537}{W15}I'm counting on you, {Nm}."
+
+@ERI_KIS_B:148 ERI 76822b58
+"{V0538}{W15}Mm..."
+
+@ERI_KIS_B:149 PLY 6a228046
+"Ah!"
+
+@ERI_KIS_B:152 PLY 3ea421d7
+"F-Futami! What are you doing all of a sudden...!"
+
+@ERI_KIS_B:153 ERI b80ce645
+"{V0539}{W15}{Fm4}How{W5} was{W2} that kiss?{W30}"
+
+@ERI_KIS_B:154 PLY 6b93b3dd
+"H-how was it? It surprised me!"
+
+@ERI_KIS_B:155 ERI 89cbe49b
+"{V0540}{W15}Heh,{W60} I{W8} enjoyed it.{W5}"
+
+@ERI_KIS_B:156 PLY 35bf818a
+"I wonder if anyone saw..."
+
+@ERI_KIS_B:157 ERI 5d29efeb
+"{V0541}{W15}You worry{W1}{W1}{W1}{W1} about trivial things."
+
+@ERI_KIS_B:158 ERI e6a2fc39
+"{V0542}{W18}Well then,{W15} see you, {Nm}."
+
+@ERI_KIS_B:159 PLY e03a6130
+"Yeah, see you."
+
+@ERI_KIS_B:160 PLY dae5fbba
+"Futami... you surprised me earlier, kissing me out of nowhere."
+
+@ERI_KIS_B:161 ERI 6ae2f7d1
+"{V0543}{W15}It has been like that{W8} since we met.{W4} {W40}{Ec}There is nothing to be surprised about.{W6}"
+
+@ERI_KIS_B:162 PLY 26223c8a
+"W-well, that's true, but..."
+
+@ERI_KIS_B:163 PLY aaaa2687
+"How do I put it... doing it suddenly isn't good. Honestly, I can't go along with that."
+
+@ERI_KIS_B:164 ERI abfa8b6d
+"{V0544}{W12}{Nm}..."
+
+@ERI_KIS_B:165 ERI 0008eebf
+"{V0545}{W15}I understand...{W45} I won't do it suddenly{W1} anymore.{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W30} {Fe9}Is{W1} that{W1} all right?"
+
+@ERI_KIS_B:166 PLY b71c89f9
+"Y-yeah. ...You're more agreeable than I expected."
+
+@ERI_KIS_B:167 ERI 016655e9
+"{V0546}{W18}I suppose.{W60} {Eh}I'm{W4} surprised{W20} myself."
+
+@ERI_KIS_B:168 ERI 5db0ec66
+"{V0547}{W12}Maybe it is because {Nm}{W3} is my friend?{W4}{W4}{W45} {Ec}Heh,{W60} {Eo}friends are amazing,{W30} aren't they."
+
+@ERI_KIS_B:169 PLY 7aa469c1
+"Hahaha..."
+
+@ERI_KIS_B:171 ERI fa486b14
+"{V0548}{W15}See you, {Nm}.{W24} Bye for now."
+
+@ERI_KIS_B:172 ERI 6f5b1d73
+"{V0549}{W15}{Nm}...{W60} Kiss me."
+
+@ERI_KIS_B:173 PLY cf6774b2
+"What?! T-that's sudden."
+
+@ERI_KIS_B:174 ERI 0f2b9826
+"{V0550}{W15}It isn't sudden.{W45} I am asking you properly."
+
+@ERI_KIS_B:175 PLY 6c6b1e77
+"R-right..."
+
+@ERI_KIS_B:176 PLY b3630891
+(For Futami, this might be huge progress...)
+
+@ERI_KIS_B:177 ERI 98817e46
+"{V0551}{W15}Do you dislike it?"
+
+@ERI_KIS_B:178 PLY 22660e5b
+"...It's not that..."
+
+@ERI_KIS_B:179 ERI 253aa8c7
+"{V0552}{W18}Then{W30} why do you hesitate?"
+
+@ERI_KIS_B:180 PLY be950f06
+"There are people around..."
+
+@ERI_KIS_B:181 ERI ce374603
+"{V0553}{W15}{Fe4}{Ec}You worry about trivial things.{W45} {Fe9}{Eh}They'll pretend not to see."
+
+@ERI_KIS_B:182 PLY 0e5e53c0
+"All right. ...Then close your eyes."
+
+@ERI_KIS_B:183 ERI 0c3378f5
+"{V0554}Like this?"
+
+@ERI_KIS_B:195 ERI 14f86b9d
+"{V0555}{W24}Ah...{W63} on the forehead..."
+
+@ERI_KIS_B:198 - 25157001
+Mama
+
+@ERI_KIS_B:200 ERI cc1b240c
+"{V5019}{W21}Eri,{W5} {W12}you did so well~. {,}{E}{R}{I}{.}{s}{e}{t}{T}{e}{x}{t}{Sp}{e}{e}{d}{(}{0}{.}{0}{)}{,}{W30}Here's your reward."
+
+@ERI_KIS_B:201 - 6a84c8ce
+Eriko
+
+@ERI_KIS_B:202 ERI 989c0dd3
+"{V0556}{W15}Wow~,{W60} thank you, Mama~!"
+
+@ERI_KIS_B:203 ERI 74e40c2f
+"{V5020}{W15}Eri is so smart,{W45} {,}{E}{R}{I}{.}{s}{e}{t}{T}{e}{x}{t}{Sp}{e}{e}{d}{(}{0}{.}{5}{)}{,}that Mama is very proud{W4} of you."
+
+@ERI_KIS_B:204 ERI c051f195
+"{V0557}{W15}Yes.{W36} I'll{W8} {W30}{,}{E}{R}{I}{.}{s}{e}{t}{T}{e}{x}{t}{Sp}{e}{e}{d}{(}{0}{.}{5}{)}{,}study even more and more~{Sd}{W3}{W4}"
+
+@ERI_KIS_B:205 - d829d2cf
+Eriko
+
+@ERI_KIS_B:206 ERI 61ec0524
+({V0577}{W15}Mama...)
+
+@ERI_KIS_B:211 ERI fc22771c
+"{V0558}{W10}Why...{W30} a kiss on the forehead?"
+
+@ERI_KIS_B:212 PLY 99ee5148
+"...The lips are impossible."
+
+@ERI_KIS_B:213 ERI 21f74cc4
+"{V0559}{W10}I see..."
+
+@ERI_KIS_B:214 PLY 314aa5df
+"Are you upset?"
+
+@ERI_KIS_B:215 ERI c4e141da
+"{V0560}{W15}No...{W60} it reminded me{W33} of{W4} my childhood.{W4}{W4}"
+
+@ERI_KIS_B:216 PLY ec02ae70
+"Your childhood?"
+
+@ERI_KIS_B:217 ERI 4a441a57
+"{V0561}{W15}Yes.{W45} ...In kindergarten,{W4}{W1}{W4}{W1}{W48} every time I solved a problem,{W4}{W4}{W1}{W1}{W45} Mama would kiss me on the forehead."
+
+@ERI_KIS_B:218 PLY b037f62d
+"I see. She sounds like a good mother."
+
+@ERI_KIS_B:221 ERI cb5a56e9
+"{V0562}{F9}{W15}Not{W2} really,{W2}{W30} actually."
+
+@ERI_KIS_B:222 ERI d2f7235f
+"{V0563}{W15}She never let me do{W4}{W4}{W4} anything{W33} but study."
+
+@ERI_KIS_B:223 ERI 2462989f
+"{V0564}{W15}{Fe6m3}I{W8} wanted{W45} to play outside{W4}{W4} with everyone too..."
+
+@ERI_KIS_B:224 ERI 2e426db7
+"{V0565}{W15}But{W45} I loved{W30} that kiss on the forehead so much... {W50}{F9}{Eo}How awful...{W30} that I had completely forgotten it...{W4}"
+
+@ERI_KIS_B:225 ERI 2f6d941c
+"{V0566}{W15}Heh,{W80} {Eo}a kiss as a reward...{W1}{W1}{W1} {W55}{Ec}{W5}{Fe1}{Eo}Children are simple.{W3}{W3}{W4}"
+
+@ERI_KIS_B:226 PLY 24a4af10
+"...I know! Why don't we do now what you wanted to do as a kid, Futami?"
+
+@ERI_KIS_B:227 ERI 70c4bf09
+"{V0567}{W15}Huh?"
+
+@ERI_KIS_B:228 PLY 2997bf53
+"Let's go somewhere to have fun, just the two of us."
+
+@ERI_KIS_B:229 ERI d023d3bb
+"{V0568}{W12}...{W3}I suppose.{W36} It sounds fun.{W4}{W4}"
+
+@ERI_KIS_B:230 ERI 864fb277
+"{V0569}{W15}As a child,{W53} I{W4} wanted to go to an amusement{W34} park.{W34}{W3}{W3} {Ec}{W5}{F6}{Eo}But{W45} no one would take me..."
+
+@ERI_KIS_B:231 PLY 62d32553
+"An amusement park? Great, let's go!"
+
+@ERI_KIS_B:232 ERI 1c50c711
+"{V0570}{W15}Would it be fun{W4}{W30} even{W4} now?{W4}"
+
+@ERI_KIS_B:233 PLY 9d701059
+"Of course! If you've never been, it's even more fun."
+
+@ERI_KIS_B:234 ERI 0275e072
+"{V0571}{W15}I{W3} see{W3}...{W75} {F3}Then{W54} maybe I will go."
+
+@ERI_KIS_B:235 PLY acc912bb
+"Sunday at 11:30, meet in front of the station?"
+
+@ERI_KIS_B:236 ERI dbd6de2e
+"{V0572}{W15}Yes,{W45} that's fine."
+
+@ERI_KIS_B:237 ERI a2013d89
+"{V0573}{W15}See you, {Nm}.{W51} {Ec}Thank you."
+
+@ERI_KIS_B:238 ERI 11959015
+"{V0574}{W15}{Nm},{W57} I have a{W3} favor to ask..."
+
+@ERI_KIS_B:239 PLY 3150f24e
+"What is it?"
+
+@ERI_KIS_B:240 ERI fa9f4d90
+"{V0575}{W12}Again...{W75} kiss me{W8} on the forehead."
+
+@ERI_KIS_B:241 PLY 308d0a17
+"Here?"
+
+@ERI_KIS_B:242 ERI 2dfeb8d5
+"{V0576}{W15}Yes."
+
+@ERI_KIS_B:243 PLY 6d3bdc66
+"Okay... Close your eyes..."
+
+@ERI_KIS_B:244 ERI 61e854af
+"{V0577}{W15}Ah..."
+
+@ERI_KIS_B:245 ERI 43bba5e5
+({V5021}{W15}Mama...{W93} I...{W8})
+
+@ERI_KIS_B:246 PLY 6d01e338
+"Did you remember being little again?"
+
+@ERI_KIS_B:248 ERI fd63c846
+"{V0578}{W15}{Fe6m3}Yes.{W45} {F3}I feel so happy.{W4}"
+
+@ERI_KIS_B:249 ERI 7dc28baf
+"{V0579}{W15}Thank you, {Nm}."
+
+@ERI_KIS_B:250 ERI 5e015579
+"{V0580}{W15}See you."
+
+@ERI_KIS_B:251 ERI a88ebf2a
+"{V0581}{W15}{Nm}..."
+
+@ERI_KIS_B:252 ERI c4f5ab69
+"{V0582}{W15}Kiss me..."
+
+@ERI_KIS_B:253 PLY 4a9ab9a0
+"I was thinking I wanted to kiss you too, Futami."
+
+@ERI_KIS_B:255 ERI 0c34207c
+"{V0583}{W18}Fufu,{W39} what good timing."
+
+@ERI_KIS_B:256 ERI c585b5ec
+"{V0584}{W21}Ah...{W30} {Nm}......"
+
+@ERI_KIS_B:257 ERI e4a1b651
+"{V0585}{W15}Mm..."
+
+@ERI_KIS_B:258 PLY 407a550a
+(Futami...)
+
+@ERI_KIS_B:259 ERI f2ee4f71
+"{V0586}{W15}......"
+
+@ERI_KIS_B:260 ERI 09f87841
+"{V0587}{W18}{Fe9}?"
+
+@ERI_KIS_B:261 PLY 9a2468a6
+"You're completely cured of being tone-deaf at kissing."
+
+@ERI_KIS_B:263 ERI 682c0f40
+"{V0588}{W18}{F4}Eh..."
+
+@ERI_KIS_B:264 ERI 6cf642d6
+"{V0589}{W15}That goes{W30} for both{W3} of us{W3}."
+
+@ERI_KIS_B:265 PLY 9f6ca6ff
+"Y-yeah, you're right. Hahaha..."
+
+@ERI_KIS_B:266 PLY 0b865e30
+"...Futami, what are you doing for the school festival?"
+
+@ERI_KIS_B:268 ERI 1a1cdedd
+"{V0590}{W18}{B60}I have{W4} not decided anything."
+
+@ERI_KIS_B:269 PLY 1fcae246
+"Then, want to spend it together?"
+
+@ERI_KIS_B:270 ERI 11886a71
+"{V0591}{W15}That's fine."
+
+@ERI_KIS_B:271 PLY 622e8b9a
+"Then let's meet in front of the Fountain. Okay?"
+
+@ERI_KIS_B:272 ERI 1eaf994c
+"{V0592}{Ec}Yes."
+
+@ERI_KIS_B:273 ERI e5ef2c0a
+"{V0593}{W15}{Eo}Well then,{W15} see you, {Nm}."
+
+@ERI_KIS_B:274 PLY c9183eb4
+"See you, Futami."
+
+@ERI_KIS_B:275 ERI 6e3be4d3
+"{V0594}What?"
+
+@ERI_KIS_B:276 PLY 9ff7b572
+"Um... want to kiss?"
+
+@ERI_KIS_B:277 ERI 885b3292
+"{V0595}{W15}That's fine.{W60} ...{Ec}{W5}{Fe6}{Eh}I{W6} was{W45} thinking I wanted to kiss too."
+
+@ERI_KIS_B:278 PLY 284b6c15
+"I see... what good timing."
+
+@ERI_KIS_B:279 ERI 20be55cd
+"{V0596}{W15}Fufu,{W21} {Eh}it is."
+
+@ERI_KIS_B:280 ERI 1eac7870
+"{V0597}{W15}Ah...{W15} {Nm}..."
+
+@ERI_KIS_B:281 ERI eb3a546e
+"{V0598}{Ec}{W15}Heh,{W60} {Eo}{Fe9m4}we{W6} have...{W54} done nothing but kiss{W4}{W36} {Fm3}since the day we met."
+
+@ERI_KIS_B:282 PLY 511b320d
+"Y-yeah, we have."
+
+@ERI_KIS_B:283 ERI ae3a11cf
+"{V0599}{W18}Well then...{W30} {F3}see you, {Nm}."
+
+@ERI_KIS_B:284 PLY 0177a518
+"That's not fair TT"

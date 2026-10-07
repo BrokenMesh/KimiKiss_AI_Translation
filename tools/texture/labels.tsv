@@ -5,7 +5,7 @@ entry	japanese	english	notes
 10	体育館	Gym	map tag, highlighted state
 12	履歴	History	
 14	読書	Reading	
-16	菜々	Nana	REVIEW: given name only; surname unknown
+16	菜々	Nana	given name only (surname is the player's {Nm}); glossary D1
 17	テスト	Test	
 21	日	Sun	weekday (日 = Sunday)
 23	おまけ	Extras	extras/bonus menu; the old TSV read おまかせ
@@ -31,7 +31,7 @@ entry	japanese	english	notes
 64	ダンス	Dance	
 66	昔	Past	REVIEW: topic
 68	設定	Settings	button guide; 48 px wide
-72	栗生 恵	Kuriu Megumi	REVIEW: name order and romanization
+72	栗生 恵	Kuryuu Megumu	glossary D1/D2/D4: family-given, Hepburn long vowels; Megumu, not Megumi
 75	プール	Pool	location panel
 78	アクセサリー	Accessories	
 79	水	Wed	weekday (水 = Wednesday)
@@ -57,7 +57,7 @@ entry	japanese	english	notes
 122	寝る	Sleep	
 124	アルバム	Album	
 125	消す	Erase	
-128	二見 瑛理子	Futami Eriko	REVIEW: name order and romanization
+128	二見 瑛理子	Futami Eriko	glossary D1/D2: family-given, Hepburn long vowels
 140	制服	Uniform	
 144	微笑む	Smile	
 145	音楽室	Music Room	location panel
@@ -73,7 +73,7 @@ entry	japanese	english	notes
 173	家庭	Home Ec	
 177	音楽	Music	
 179	スクロール	Scroll	
-180	里仲 なるみ	Satonaka Narumi	REVIEW: name order and romanization
+180	里仲 なるみ	Satonaka Narumi	glossary D1/D2: family-given, Hepburn long vowels
 186	その他	Other	
 190	美容健康	Beauty	REVIEW
 199	化粧	Makeup	
@@ -90,7 +90,7 @@ entry	japanese	english	notes
 227	下校デートをしよう！	Let's go on an after-school date!	hint banner
 230	ロード	Load	
 232	なし	None	
-233	祇条 深月	Gijo Mizuki	REVIEW: name order and romanization
+233	祇条 深月	Shijou Mitsuki	glossary D1/D2: family-given, Hepburn long vowels (was Gijo Mizuki, wrong reading)
 236	渡り廊下	Walkway	location panel
 238	娯楽	Leisure	
 241	噴水	Fountain	location panel
@@ -113,7 +113,7 @@ entry	japanese	english	notes
 283	家庭	Home Ec	map tag
 284	ジャンクフード	Junk Food	
 285	情報	Info	
-292	水澤 摩央	Mizusawa Mao	REVIEW: name order and romanization
+292	水澤 摩央	Mizusawa Mao	glossary D1/D2: family-given, Hepburn long vowels
 294	1年廊下	Year 1 Hall	location panel
 295	学校生活	School Life	
 304	移動エリアを決定しますか？	Go to this area?	dialog panel, line 1 of 3
@@ -171,7 +171,7 @@ entry	japanese	english	notes
 423	木	Thu	weekday (木 = Thursday)
 424	全員	Everyone	REVIEW
 426	いいえ	No	
-429	菜々	Nana	REVIEW: given name only; surname unknown
+429	菜々	Nana	given name only (surname is the player's {Nm}); glossary D1
 432	体育館	Gym	
 433	おしゃれ	Stylish	REVIEW; CHECK-ART: 80x32, heavy outline
 436	体育館	Gym	map tag; "Gymnasium" is too wide for it
@@ -195,7 +195,7 @@ entry	japanese	english	notes
 481	花壇	Garden	REVIEW: same place as entry 354
 483	戻る	Back	
 486	好きな話題が変わりました	Favorite topic changed!	hint banner
-487	咲野 明日夏	Sakino Asuka	REVIEW: name order and romanization
+487	咲野 明日夏	Sakino Asuka	glossary D1/D2: family-given, Hepburn long vowels
 491	勉強	Study	
 496	食堂	Cafeteria	
 499	行動	Action	
@@ -213,7 +213,7 @@ entry	japanese	english	notes
 535	ひきつぎ	Carry Over	REVIEW: main menu
 536	週末に休日デートがあるぞ！	Holiday date this weekend!	hint banner
 537	パターン	Pattern	
-539	星乃 結美	Hoshino Yumi	REVIEW: name order and romanization
+539	星乃 結美	Hoshino Yuumi	glossary D1/D2: family-given, Hepburn long vowels
 542	観察	Observe	
 545	メインメニュー	Main Menu	main menu header
 547	ロード	Load	

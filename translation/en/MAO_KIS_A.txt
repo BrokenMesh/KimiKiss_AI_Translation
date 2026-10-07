@@ -1,0 +1,968 @@
+# MAO_KIS_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_KIS_A:39 PLY 0babda39
+"Mao... there's something I want to ask you. Is that okay?"
+
+@MAO_KIS_A:43 MAO 1b463c97
+"{V0371}Something you want to ask? {W35}{Ec}{W5}{F3}{Eo}What is it?"
+
+@MAO_KIS_A:44 PLY 888bfdaa
+"Well... how do I put this... I don't think you'll actually tell me..."
+
+@MAO_KIS_A:47 MAO a2fe7009
+"{V0372}What{W2}is{W2}it? {W30}You look like you can't say it. {W35}{Ec}{W5}{Fe3}{Eo}Why not just spit it out?"
+
+@MAO_KIS_A:48 PLY cadc1db0
+"O-okay. All right, I'll just say it!"
+
+@MAO_KIS_A:51 MAO 2897f7d8
+"{V0373}Go right ahead."
+
+@MAO_KIS_A:52 PLY 4713eee4
+"Mao, what does a kiss feel like?!"
+
+@MAO_KIS_A:65 MAO 824e18ea
+"{V0374}{Sp}What?!"
+
+@MAO_KIS_A:68 MAO 6a82cc33
+"{V0375}W-{W50}what are you saying all of a sudden! {W30}In a place like this!"
+
+@MAO_KIS_A:69 PLY ce52713a
+"S-sorry..."
+
+@MAO_KIS_A:72 MAO/PLY 0d80b9d5
+"......"
+
+@MAO_KIS_A:74 MAO e1e3cde4
+"{V0376}{W10}Hmm{W5}...{W50} so{W5} you're{W20} at{W4} that{W4} age{W4} now,{W4} {Nn}.{W5} {W50}{Ec}{W5}{F3}{Eo}You're{W4} {W25}{Ti1}interested{W4} in{W4} that{W4} stuff?{W4}"
+
+@MAO_KIS_A:75 PLY 766b666a
+"I'm a guy... of course I am, right?"
+
+@MAO_KIS_A:76 MAO 3cbda25d
+"{V0377}Fufu, {W75}{Eo}I see. {W30}Of course you are~"
+
+@MAO_KIS_A:77 MAO 7910c4e2
+"{V0378}......"
+
+@MAO_KIS_A:78 PLY 134a04aa
+"S-sorry, for asking something weird. I know you wouldn't tell me."
+
+@MAO_KIS_A:81 MAO b49a230d
+"{V0379}{W10}What,{W5} {W35}{Ec}{W5}{F6}{Eo}I never said no."
+
+@MAO_KIS_A:82 PLY 7cb658b8
+"Huh...?"
+
+@MAO_KIS_A:83 MAO 470199c3
+"{V0380}You want to know, right? {W40}What a kiss feels like."
+
+@MAO_KIS_A:84 PLY bad3355d
+"Yeah..."
+
+@MAO_KIS_A:85 MAO bc5d12ed
+"{V5034}{W10}Oh, all right... {W100}{Ec}{W5}{Fe3}{Eo}Fine, {W10}you can try it."
+
+@MAO_KIS_A:86 PLY 122df4f6
+"Huh?"
+
+@MAO_KIS_A:87 MAO b4960033
+"{V0381}{W15}Then {W15}come with me."
+
+@MAO_KIS_A:91 PLY 91e35ae6
+"Mao, where on earth are we going..."
+
+@MAO_KIS_A:98 MAO f5b61cb4
+"{V0382}{W10}Mm,{W5} {W60}{Ec}no one {W20}{Eo}will come here."
+
+@MAO_KIS_A:99 PLY 80decc91
+"Mao..."
+
+@MAO_KIS_A:100 MAO ce16f969
+"{V0383}Experiencing it {W3}is {W3}faster {W3}than{W20} {W4}explaining {W4}it {W3}in {W3}words, {W3}right?"
+
+@MAO_KIS_A:101 PLY 9d492cbe
+"What?!"
+
+@MAO_KIS_A:102 MAO 9cb24fb5
+"{V0384}{W10}Come on, {W40}go ahead."
+
+@MAO_KIS_A:103 PLY 0186cba2
+"M-Mao..."
+
+@MAO_KIS_A:109 PLY a7c596b3
+(U-ugh...)
+
+@MAO_KIS_A:110 MAO 18aaf7e1
+"{V0385}......"
+
+@MAO_KIS_A:112 MAO dbd3b1cc
+"{V0386}...You're not going to?"
+
+@MAO_KIS_A:113 PLY a1cd67ae
+"But I can't just do that..."
+
+@MAO_KIS_A:114 MAO 99666b31
+"{V0387}{Br50t120}{W10}You're such a coward when it counts. {W50}{Ec}After asking something so bold."
+
+@MAO_KIS_A:115 PLY 319a30de
+"Sorry..."
+
+@MAO_KIS_A:116 MAO de70e9f4
+"{V0388}{W10}...Then {W30}why not try somewhere harmless? {W50}{F2}{Ec}{Ti1}{Fe4}You{W4} {W4}might{W4} {W4}get{W4} {W4}a{W4} {W4}little{W4} {W4}idea."
+
+@MAO_KIS_A:117 PLY 3f8fa37c
+"Somewhere harmless?"
+
+@MAO_KIS_A:118 MAO 840c60c5
+"{V0389}{W10}Let{W0} me {W10}see... {W60}my cheek, {W10}or {W40}{F3}the back {W10}of{W10} {W20}my hand,{W1} {W50}or{W1} my{W1} {W1}knee..."
+
+@MAO_KIS_A:119 PLY 4ab7eee1
+"M-your knee?!"
+
+@MAO_KIS_A:122 MAO 328f8c3f
+"{V0390}{W10}Huh? {W30}Is that not harmless? {W40}{F2}{Ec}{Sp}Then {Ti1}we'll {W4}skip{W4} {W4}that{W4} {W4}one."
+
+@MAO_KIS_A:123 PLY 1cba3c36
+"No, the knee is fine. I want you to teach me, Mao."
+
+@MAO_KIS_A:124 MAO f599c32e
+"{V0391}{W10}...Honestly, {W40}{W10}you're {W10}so {W10}shameless."
+
+@MAO_KIS_A:125 PLY 34f12d09
+"Ah... no, if you don't like it, Mao, I don't really... I just wanted you to tell me what a kiss feels like..."
+
+@MAO_KIS_A:126 MAO 4724043b
+"{V0392}I {W3}don't {W3}mind,{W3} {W3}you{W3} {W3}know.{W3} {W55}{F9}{Eo}...As{W3} long as you're{W45} nicer{W1} to{W1} me{W1} from{W1} now{W1} on."
+
+@MAO_KIS_A:128 MAO 9c1f87a0
+"{V0393}{W10}Same school, and not even a hi?{W50}{Ec} So{W20} you hate me.{W65}{Ec}{W5}{F9}{Eo}{Ti1}We{W6} were{W6} so{W6} close{W6}{W30} through{W6} middle{W6} school{W6}{W6}{W6}{W6}{W6}{W6}{W6}{W6}{W6}{W6}...{W45}{Fe2}{Ec} right?"
+
+@MAO_KIS_A:129 PLY 688a0ee2
+"Yeah, sorry..."
+
+@MAO_KIS_A:131 MAO 6b0b8e1b
+"{V0394}If {Nn}{W5} is nice to me, {W60}{Fe4}{Ec}I'll {W5}be {W40}{Fe3}{Eo}nice to {Nn} too. {W60}We're {W40}{Ec}childhood friends, after all."
+
+@MAO_KIS_A:132 MAO c5b4a70a
+"{V0395}...Now, {W40}want to try?"
+
+@MAO_KIS_A:133 PLY 7d68aa58
+"Y-yeah..."
+
+@MAO_KIS_A:145 MAO 3ce6d276
+"{V0396}{Nn}{W10}'s hair {W10}is... {W80}so fluffy. {W110}Mine's {W30}so curly, {Ti1}I'm{W3} {W3}kind{W3} {W3}of{W3} {W3}jealous."
+
+@MAO_KIS_A:146 MAO 7ef84973
+"{V0397}Fufu, {W80}like a puppy."
+
+@MAO_KIS_A:148 PLY 3037e43a
+"Thank you, Mao."
+
+@MAO_KIS_A:149 MAO f2dea1ac
+"{V0398}{W10}How was it?"
+
+@MAO_KIS_A:150 PLY 0a9e3753
+"My heart was pounding."
+
+@MAO_KIS_A:151 MAO f3e61e31
+"{V0399}{W10}{Ec}Fufu, {W50}{Eh}you're exaggerating."
+
+@MAO_KIS_A:152 MAO c1b290ac
+"{V0400}Well, {W20}see you, {Nn}."
+
+@MAO_KIS_A:154 PLY 00182bc9
+"Let's see..."
+
+@MAO_KIS_A:155 PLY d20b0bbc
+(What should I talk about...)
+
+@MAO_KIS_A:156 PLY 8d5b8050
+(I could talk fine a moment ago, but now I'm so aware of her that I can't think of anything...)
+
+@MAO_KIS_A:157 PLY 570cb1b9
+(Mao...)
+
+@MAO_KIS_A:158 MAO 6a9d78b7
+"{V7500}{Nn}?"
+
+@MAO_KIS_A:159 PLY 6e1fc47a
+(My heart pounds just remembering it...)
+
+@MAO_KIS_A:160 MAO 8e801284
+"{V7501}Hellooo..."
+
+@MAO_KIS_A:161 MAO 34061133
+"{V7502}......"
+
+@MAO_KIS_A:162 MAO aab83ee1
+"{V7503}Oh, {W30}right. I just remembered I have something to do."
+
+@MAO_KIS_A:163 PLY f596f20c
+"Huh? Really?"
+
+@MAO_KIS_A:164 MAO 2c2ccba9
+"{V7504}Well, {W10}see you~"
+
+@MAO_KIS_A:165 PLY 47b1c80c
+(She's gone... Oh well...)
+
+@MAO_KIS_A:166 MAO 805a9167
+"{V0403}Hm?"
+
+@MAO_KIS_A:167 PLY 928f16bf
+"Mao, you've gone out with someone before... haven't you?"
+
+@MAO_KIS_A:168 MAO 9a83b8b1
+"{V0404}{Sp}W-{W60}why {W20}do you assume I have?"
+
+@MAO_KIS_A:169 PLY c040c92e
+"Because... you're popular, Mao..."
+
+@MAO_KIS_A:170 MAO ad06c8ec
+"{V0405}Being popular has nothing to do with it. {W25}{Ec}{W5}{Fe3}{Eo}{Ti1}It's{W4} {W4}about{W4} {W4}whether{W4} {W4}you{W4} {W4}fall{W4} {W4}for{W4} {W4}someone{W4} {W4}or{W4} {W4}not."
+
+@MAO_KIS_A:171 PLY 504bae39
+"That's true, but..."
+
+@MAO_KIS_A:173 MAO 558f21cb
+"{V0406}...I haven't, {W35}{Ec}gone out with anyone. {W70}{F3}{Eo}I have lots of{W10} friends, guys and girls alike."
+
+@MAO_KIS_A:174 PLY 876a2929
+"I see..."
+
+@MAO_KIS_A:175 MAO 656f4ac1
+"{V5003}{W10}What? {W40}Does it bother you?"
+
+@MAO_KIS_A:176 PLY a0375539
+"W-well... of course it does..."
+
+@MAO_KIS_A:177 MAO 95bbaa13
+"{V0407}{F2}{Ec}{W10}Fufu, {W45}{Eo}you're honest. {W53}{Ec}{W5}{F3}{Eo}I like that about {Nn}, {W10}you{W10} know."
+
+@MAO_KIS_A:178 MAO 08c1c287
+"{V0408}{W10}You know, {W20}guys who never show their feelings? {W20}{Ec}You can't tell what they're thinking.{W30}{F6}{Eo} I can't stand those types..."
+
+@MAO_KIS_A:179 PLY 439f97f3
+"Mao."
+
+@MAO_KIS_A:180 MAO d0fdb130
+"{V0409}{W10}Hm?"
+
+@MAO_KIS_A:181 PLY 67cc101d
+"Is that a Mao Check?"
+
+@MAO_KIS_A:183 MAO 50f65322
+"{V0410}No. {W40}That's one of {W5}{Nn}'s good points. {W55}{F2}{Ec}I hope it never changes."
+
+@MAO_KIS_A:184 PLY 762bbe0d
+"...Then you can tell what I'm thinking right now?"
+
+@MAO_KIS_A:185 MAO 19762e5f
+"{V0411}I can."
+
+@MAO_KIS_A:186 MAO 7b61a86c
+"{V0412}...You look like you want me to teach you about kissing {Ec}again."
+
+@MAO_KIS_A:187 PLY f2e9ffcf
+"W-with... no, that's...!"
+
+@MAO_KIS_A:188 MAO 208c8333
+"{V0413}Am I wrong?"
+
+@MAO_KIS_A:189 PLY 03778e77
+"No... I can't say you're wrong..."
+
+@MAO_KIS_A:190 MAO 4187ae56
+"{V0414}Geez... {W70}{Ec}you're really{W5} honest."
+
+@MAO_KIS_A:191 MAO 72165058
+"{V5035}...Come on, {W40}come here."
+
+@MAO_KIS_A:192 MAO 8b976547
+"{V0415}...Come on, {W10}come over here."
+
+@MAO_KIS_A:193 MAO aff3f8ee
+"{V0416}{F2}{Ec}Fufu."
+
+@MAO_KIS_A:194 MAO f3bef35f
+"{V0417}{W10}What's{W3} wrong?{W3} {W20}{Ti1}Just{W3} {W3}standing{W3} {W3}there.{W3}"
+
+@MAO_KIS_A:195 PLY cde07721
+"You can't just say that..."
+
+@MAO_KIS_A:196 MAO 5971727c
+"{V0418}{W10}Mao Check {W5}#{W5}2: {W40}{Ec}{W5}{F3}{Eo}'At times like this, {W20}be a little forceful.'"
+
+@MAO_KIS_A:197 PLY 5e5b2c14
+"Forceful?"
+
+@MAO_KIS_A:198 MAO e605353a
+"{V0419}Right."
+
+@MAO_KIS_A:199 PLY 7887268e
+"...That's hard, Mao."
+
+@MAO_KIS_A:200 MAO dd24d0f6
+"{V0420}Then {W40}how about this?"
+
+@MAO_KIS_A:204 MAO 8f39ae23
+"{V0421}{W10}See, {W30}it's right in front of you..."
+
+@MAO_KIS_A:205 MAO 30ee6bb6
+"{V0422}You want to know, right? {W40}If you can't even manage a kiss, {W25}you won't be popular."
+
+@MAO_KIS_A:207 SYS 35d7e98c
+...I don't really remember what happened after that. I only felt the soft touch of her lips...
+
+@MAO_KIS_A:208 MAO 38db8bfe
+"{V0423}Well, {W30}see you... {Nn}."
+
+@MAO_KIS_A:209 PLY 21dc86e2
+"Huh!"
+
+@MAO_KIS_A:210 PLY d70cf7fa
+"Mao... she's gone..."
+
+@MAO_KIS_A:211 PLY 2c5a9b01
+"We kissed... didn't we? Me and Mao..."
+
+@MAO_KIS_A:212 PLY 8a3c9b94
+"Mao... um..."
+
+@MAO_KIS_A:213 MAO 2a180c70
+"{V0401}Hm? {W20}{Ec}{W5}{F5}{Eo}Oh no, is it{W10} this late already! {W25}I have to change quickly!"
+
+@MAO_KIS_A:214 PLY 6c6b1e77
+"R-right..."
+
+@MAO_KIS_A:215 MAO 76868966
+"{V0402}See you, {Nn}, {W10}bye."
+
+@MAO_KIS_A:216 PLY e03a6130
+"Yeah, see you."
+
+@MAO_KIS_A:217 PLY e0b98163
+"Mao, um... thanks for earlier."
+
+@MAO_KIS_A:218 MAO c282f0d8
+"{V0424}{Br60t90}Don't {W3}mention{W3} {W3}it, {W30}no thanks needed. {W25}{Ec}You're embarrassing me."
+
+@MAO_KIS_A:219 PLY 1d858490
+"...But actually... I don't remember it well."
+
+@MAO_KIS_A:220 MAO af091c5a
+"{V0425}What?"
+
+@MAO_KIS_A:221 PLY 09273dc2
+"I got so carried away, I don't know what happened..."
+
+@MAO_KIS_A:222 MAO ceaa33c1
+"{V0426}{Ts3}How{W3} {W10}cru{W10}el{W10}~{W10}!{W3} {W30}After{W3} {W10}doing{W3} {W20}that{W3} {W3}to{W3} {W3}me!"
+
+@MAO_KIS_A:223 PLY 1b02f332
+"Eep, not so loud..."
+
+@MAO_KIS_A:224 MAO 5d02184c
+"{V0427}{Ec}Fufu."
+
+@MAO_KIS_A:225 PLY 541137f5
+"Sorry, Mao..."
+
+@MAO_KIS_A:226 MAO 6bb515c8
+"{V0428}You're{W2} hopeless{W2},{W2} {W2}you{W2} know.{W2} {Br60t30}{W35}{Ec}{W5}{Fe7}{Eo}Want{W2} to{W2} try{W2} once more?"
+
+@MAO_KIS_A:227 PLY 5dcd6a58
+"...No, it's okay."
+
+@MAO_KIS_A:228 MAO 448e2bc8
+"{V0429}{Br0t30}Why not?"
+
+@MAO_KIS_A:229 PLY 4617bdc3
+"Well... I didn't mean it like that. I just wanted to tell you I was so happy I can't even remember it."
+
+@MAO_KIS_A:230 MAO de7125e9
+"{V0430}...I see. {W80}Hearing that {W30}{Fe2}{Ec}makes me happy too."
+
+@MAO_KIS_A:231 MAO c44a470c
+"{V0431}See you, {Nn}. {W25}Bye."
+
+@MAO_KIS_A:232 MAO beaa39cc
+"{V0432}Hm?"
+
+@MAO_KIS_A:233 PLY 44dcedce
+"Mao, why did you kiss me...? It was your first kiss..."
+
+@MAO_KIS_A:234 MAO 5a0660c6
+"{V0433}Why{W3}...{W3} {W60}you{W3} don't{W3} {W10}need{W3} to{W3} worry so much about it."
+
+@MAO_KIS_A:235 PLY f8724f5a
+"But..."
+
+@MAO_KIS_A:236 MAO e032834a
+"{V0434}We used to{W4} kiss{W4} all{W4} the{W4} time{W4} when{W4} we{W4} were{W4} kids,{W4} {Fe3}{Ti1}didn't{W4} {W4}we?"
+
+@MAO_KIS_A:237 PLY 13dc3e1b
+"What?! W-we did?"
+
+@MAO_KIS_A:238 MAO 97f9f1e0
+"{V0435}{W10}You{W1} don't{W1} remember?{W1} {W15}{Ec}{W5}{Fe9m3}{Eo}How{W1} mean~!{W1} {W26}I{W4} even{W4} made{W4} you{W4} play doctor."
+
+@MAO_KIS_A:239 PLY d2ec3ed9
+"T-that's because you wanted to, Mao! And I was always the patient, and you were always undressing me..."
+
+@MAO_KIS_A:240 MAO 2e09de98
+"{V0436}{W10}{F3}{Ec}Fufu, {W30}{Fe9}{Fm3}{Eo}sorry,{W1} {W1}sorry.{W1} {W25}{Ec}{W5}{Sd}{Fe7}{Eo}I{W1} was{W1} {W10}a little bookish, {W20}{Fe3}so I wanted to know about boys."
+
+@MAO_KIS_A:241 PLY e5498160
+"Right... I always just did what you told me, Mao..."
+
+@MAO_KIS_A:242 MAO e86127d5
+"{V0437}Do you mind?"
+
+@MAO_KIS_A:243 PLY 9f5efbdc
+"A little."
+
+@MAO_KIS_A:244 MAO 130b5a47
+"{V0438}{Br80t80}Fufu, {W50}{Eo}that's why I'm teaching you now,{W5} {W10}{Ec}about{W5} {W10}girls."
+
+@MAO_KIS_A:245 MAO cef4a43c
+"{V0439}Come on, {W30}no one's watching right now."
+
+@MAO_KIS_A:246 MAO 3aed13e7
+"{V0440}Come on, {W30}no one's around right now."
+
+@MAO_KIS_A:247 PLY 05cc1af0
+"Huh? ...Really?"
+
+@MAO_KIS_A:248 MAO a55e3132
+"{V0441}{Bt30}{Ec}Yes."
+
+@MAO_KIS_A:249 PLY 85e31048
+"T-then..."
+
+@MAO_KIS_A:253 PLY 24571763
+(Mao's lips... h-here I go!)
+
+@MAO_KIS_A:255 PLY 6a228046
+"Ah!"
+
+@MAO_KIS_A:256 MAO 18445265
+"{V0442}Fu{W20}fu{W10}~{W10}~{W10}n."
+
+@MAO_KIS_A:258 PLY 85a51192
+"Why did you dodge?"
+
+@MAO_KIS_A:260 MAO db882c79
+"{V0443}{W10}Not. Yet."
+
+@MAO_KIS_A:261 PLY 62bb4eba
+"Why?"
+
+@MAO_KIS_A:262 MAO aa9cc9af
+"{V0444}{W10}If you{W1} do{W1} it{W1} all{W1} the{W1} time,{W1} it loses its charm, doesn't it?"
+
+@MAO_KIS_A:263 MAO 24e91971
+"{V0445}{W10}I{W4} don't{W4} want{W4} a{W4} kiss{W4} that's{W4} like{W4} air.{W30} {Ti1}{Ec}{Fe4m3}You{W4} have{W4} to{W4} make{W4} my{W4} heart{W4} race{W4} more{W4} than{W4} that{Eo}."
+
+@MAO_KIS_A:264 PLY 82a14add
+"Make your heart race, huh..."
+
+@MAO_KIS_A:265 MAO 8f263688
+"{V0446}Right."
+
+@MAO_KIS_A:266 MAO e35d2107
+"{V0447}{Br0t120}Girls{W10} love{W10} romance, so{W15} {Fe3}you have to give me kisses{W20} that I'll remember, one by one."
+
+@MAO_KIS_A:267 PLY b16f9888
+"...Is that a Mao Check?"
+
+@MAO_KIS_A:269 MAO 2bd8036a
+"{V0448}{Ec}Right.{W40} {Eo}Mao Check{W5} #{W5}6:{W40} {Ec}{W5}{Fe8}{Eo}'Value{W5} the{W10} mood.'"
+
+@MAO_KIS_A:270 PLY 295a45da
+"Mao, that's tough..."
+
+@MAO_KIS_A:271 MAO a0909763
+"{V449}Then{W30} no kiss for now."
+
+@MAO_KIS_A:272 PLY 6b410038
+"Ugh..."
+
+@MAO_KIS_A:273 MAO 75fecb8a
+"{V0450}{W10}Heh,{W50} {Eo}see you, {Nn}."
+
+@MAO_KIS_A:274 PLY 24d526b4
+"...Yeah, see you, Mao."
+
+@MAO_KIS_A:275 PLY 55b6c8de
+(The mood matters for a kiss, huh... I guess that's true...)
+
+@MAO_KIS_A:276 PLY 7953f8e6
+(But... how am I supposed to create a mood...)
+
+@MAO_KIS_A:277 MAO 15a80066
+"{V0451}Hm?{W20} What?"
+
+@MAO_KIS_A:278 PLY aae713f0
+"How do you create a mood?"
+
+@MAO_KIS_A:279 MAO b1a8a22c
+"{V0452}Eh...{W35} {Ec}{W5}{F2}{Eo}Pfft,{W60} {Ec}hehe."
+
+@MAO_KIS_A:280 PLY 21fdf42d
+"Why are you laughing?"
+
+@MAO_KIS_A:281 MAO bda3c562
+"{V0453}{Br80t90}{W10}Well,{W30} if you're asking{W4} me{W4} that,{W25} {Ec}{W5}{F3}{Eo}it{W5} means{W10} {Ti1}you{W5} want{W5} to{W5} kiss{W5} me{W5} right{W5} now,{W4} doesn't{W4} it?"
+
+@MAO_KIS_A:282 PLY 6c6205c0
+"Ah... n-no. I just..."
+
+@MAO_KIS_A:283 MAO e4ff5bfc
+"{V0454}Just?"
+
+@MAO_KIS_A:284 PLY 7901e107
+"...I don't really know myself."
+
+@MAO_KIS_A:285 MAO 4fe1c272
+"{V0455}{W10}Fufu,{W70} {F9}{Eo}if you don't know that,{W20} you may not be able to make a mood."
+
+@MAO_KIS_A:286 MAO fe4b0498
+"{V0456}{Nn},{W5} you're{W5} not the smooth type,{W25} so empty words won't do."
+
+@MAO_KIS_A:287 MAO 76c82b2c
+"{V0457}So,{W20} that{W2} being{W10} said,{W20} {Fe1}no{W2} kiss{W2} for{W2} a{W2} while{W2},{W2} okay?{W2}{W2}{W2}"
+
+@MAO_KIS_A:288 MAO b5afcd8e
+"{V0458}See you, {Nn}."
+
+@MAO_KIS_A:289 PLY d2269bca
+"Y-yeah, see you."
+
+@MAO_KIS_A:290 PLY 2b0db94b
+(She said something kind of difficult...)
+
+@MAO_KIS_A:291 MAO c4577b47
+"{V0459}What?"
+
+@MAO_KIS_A:292 PLY 2058960f
+"...Want to go somewhere this weekend?"
+
+@MAO_KIS_A:293 MAO 4c1c90d4
+"{V0460}{W10}This weekend?{W25} {Fe3}Sure."
+
+@MAO_KIS_A:294 MAO f93762e8
+"{V0461}...But{W30} {Eh}is that a date?"
+
+@MAO_KIS_A:295 PLY a6bf53a6
+"Y-yeah. If you don't mind, I'd like to go somewhere, just the two of us..."
+
+@MAO_KIS_A:296 MAO b3ce0dd9
+"{V0462}Fufu...{W40} sure.{W30} {Eo}Where shall we go?"
+
+@MAO_KIS_A:297 PLY ad95631c
+"Anywhere you want to go is fine."
+
+@MAO_KIS_A:298 MAO 7d38938b
+"{V0463}{W10}Then,{W10} how about an overnight trip..."
+
+@MAO_KIS_A:299 PLY b16b2a8d
+"A-an overnight trip?!"
+
+@MAO_KIS_A:301 MAO a12aa2dc
+"{V0464}{Ec}Heh,{W50} {Fe9}{Eo}I'm{W10} kidding,{W10} kidding.{W40} Your face{W5} is bright{W10} red,{W10} {Fe2}{Ec}how cuuute~"
+
+@MAO_KIS_A:302.1 - 09d272c6
+{Ti0}- Quit teasing me...／- Oh, a joke...／- ...I'm fine with an overnight trip
+
+@MAO_KIS_A:303 PLY adb4f2cc
+"Quit teasing me..."
+
+@MAO_KIS_A:304 MAO 38fc5e0b
+"{V0465}{Ec}Fufu,{W50} sorry, sorry."
+
+@MAO_KIS_A:305 PLY 9334bc3f
+"Oh, a joke..."
+
+@MAO_KIS_A:306 MAO 7f616be7
+"{V0466}Disappointed?"
+
+@MAO_KIS_A:307 MAO c3d20fb0
+"{V0467}Fufu."
+
+@MAO_KIS_A:308 PLY 489ac39e
+"...I'm fine with an overnight trip."
+
+@MAO_KIS_A:309 MAO b945c886
+"{V0468}Oh,{W30} bold words, {Nn}~"
+
+@MAO_KIS_A:310 MAO 7a075c4f
+"{V0469}{W10}Don't push yourself~"
+
+@MAO_KIS_A:311 PLY 9e6650de
+"I-I'm not pushing myself..."
+
+@MAO_KIS_A:312 MAO 79fa34b9
+"{V0470}Fufu."
+
+@MAO_KIS_A:313 MAO 155fc330
+"{V0471}Hey,{W20} let's{W4} go{W4} to{W4} the{W5} pool.{W20} {Ec}{W5}{Fe7}{Eo}{Ti1}I{W5} haven't{W5} swum{W5} enough{W5} yet{W5} this{W5} year.{W4}{W4}"
+
+@MAO_KIS_A:314 PLY 06c28c0f
+"The pool, huh? Sounds good, let's go!"
+
+@MAO_KIS_A:315 PLY 40c0e854
+"Want to meet on the shopping street at 11:30 on Sunday?"
+
+@MAO_KIS_A:316 MAO 59d74e36
+"{V0472}{Ec}Yes,{W20} {Eo}that's fine."
+
+@MAO_KIS_A:317 MAO b229b5f6
+"{V0473}Fufu,{W55} {Fe7}{Eo}the pool, just the two{W10} of us...{W45} {F2}{Ec}I can't wait..."
+
+@MAO_KIS_A:318 MAO 64352fde
+"{V0474}{W10}{F3}{Eo}Hey,{W20} when was the last time?{W40} Elementary school?{W30} {F2}Middle school?"
+
+@MAO_KIS_A:320 MAO b811367e
+"{V0475}It's been ages since we went together, hasn't it?"
+
+@MAO_KIS_A:322 MAO 3a185891
+"{V0476}{Nn}{W30}...{W45}{Ec}{W5}{F9}{Eo}why{W10} aren't you answering?"
+
+@MAO_KIS_A:323 MAO d77b53e5
+"{V0477}{Br60t60}...{W10}Geez,{W90} your eyes have gotten serious."
+
+@MAO_KIS_A:324 PLY 819cff78
+(Mao... at a time like this, it's okay to be a little forceful, right?)
+
+@MAO_KIS_A:327 MAO e2fc9560
+"{V0479}{W10}Mm..."
+
+@MAO_KIS_A:328 PLY 97997bfe
+(Mao... I want to stay like this forever...)
+
+@MAO_KIS_A:329 PLY cd8cc47e
+(...She smells like lemon.)
+
+@MAO_KIS_A:330 MAO 961edbf6
+"{Nn}, {V0480}{W10}on the day of our date,{W20} make us a lunch, okay?"
+
+@MAO_KIS_A:331 PLY b24adeb8
+"Huh? Me?"
+
+@MAO_KIS_A:332 MAO da0827a3
+"{V0481}Guys{W2} who{W2} can{W1} cook{W1} are{W2} popular,{W20} you{W1} know."
+
+@MAO_KIS_A:333 PLY e9ffba92
+"R-really?"
+
+@MAO_KIS_A:334 MAO 37a9c387
+"{V0482}{W10}Of{W8} course!"
+
+@MAO_KIS_A:335 MAO 00a92e9d
+"{V0483}{W10}Mao Check{W10} #{W5}8:{W50} 'Guys{W5} who love cooking{W5} are{W10} popular!'"
+
+@MAO_KIS_A:336 PLY 78c8e40a
+"Even if you say that..."
+
+@MAO_KIS_A:337 MAO 943c9858
+"{V0484}{W5}Just rice balls is fine,{W25} {Ec}okay?"
+
+@MAO_KIS_A:338 PLY 0a1df964
+"O-okay..."
+
+@MAO_KIS_A:339 MAO f13dc57c
+"{V0485}{W10}Oh,{W10} leave out the pickled plum.{W20} I can't stand it."
+
+@MAO_KIS_A:340 PLY 2b409048
+"Then make them yourself..."
+
+@MAO_KIS_A:341 MAO 267e68fb
+"{V0486}See you~!"
+
+@MAO_KIS_A:342 PLY 5e6ab856
+"Ah, she's gone... Oh well..."
+
+@MAO_KIS_A:343 MAO 68bc9d7e
+"{V0487}{W10}Our{W5} weekend{W5} date,{W25} I can't wait~"
+
+@MAO_KIS_A:344 PLY e3f8be68
+"Yeah, me neither."
+
+@MAO_KIS_A:345 PLY cdab0427
+"By the way, Mao."
+
+@MAO_KIS_A:346 MAO 63d0bc69
+"{V0488}Hm?"
+
+@MAO_KIS_A:347 PLY 242c4a8c
+"The rice balls... do I really have to make them?"
+
+@MAO_KIS_A:348 MAO f343557d
+"{V0489}Yes,{W10} you{W10} do.{W30} {Eo}{Ti1}I'm{W4} really{W4} looking{W4} forward{W4} to{W4} it,{W15} you{W4} know.{W4}{W4}{W4}{W4}{W4}"
+
+@MAO_KIS_A:349 MAO 8e58e20a
+"{V0490}{W10}I{W3} do{W3} all{W3} sorts{W3} of{W3} things{W4} for{W4} you,{Ti1} so{W4} you{W4} can{W4} do{W4} that{W4} much,{W4} right?"
+
+@MAO_KIS_A:350 PLY f8a5ba3b
+"All sorts of things for me... that's blatant."
+
+@MAO_KIS_A:351 MAO f87b45fe
+"{V0491}{Sp}Th-{W50}that's not what I meant!"
+
+@MAO_KIS_A:352 MAO bb5b4c66
+"{V0492}{W10}I'm teaching you{W10} all sorts of{W10} tricks to be popular,{W15} right{Ti1}?!"
+
+@MAO_KIS_A:353 PLY c408b869
+"Oh... that's what you meant."
+
+@MAO_KIS_A:354 MAO ef605b30
+"{V0493}{W10}Of{W3} course{W3} it{W3} is,{W46} {Eo}geez.{W3}"
+
+@MAO_KIS_A:355 MAO cfd8db09
+"{V0494}{W01}You always jump straight to that..."
+
+@MAO_KIS_A:356 PLY 019e9373
+"Can't I get out of it?"
+
+@MAO_KIS_A:357 MAO e48dd89e
+"{V0495}Of course you can't."
+
+@MAO_KIS_A:358 MAO 0260c7b1
+"{V0496}Honestly,{W10} {Nn}, you..."
+
+@MAO_KIS_A:359 MAO ae1c6f32
+"{V0497}{W10}When I{W10} do{W1} this{W5} to{W1} you..."
+
+@MAO_KIS_A:360 MAO a863d6f3
+"{V0498}{W10}Geez,{W10} ...{W60} {Eo}you're{W2} not{W2} answering{W2} again,{W2} are{W2} you.{W2}{W2}{W2}"
+
+@MAO_KIS_A:361 MAO dec948a3
+"{V0499}{W10}Just{W2} because{W2} no{W2} one's{W2} looking,{W60} {Ec}that's{W2} a{W2} little...{W30} {Eo}too{W1} forceful.{W2}{W2}{W2}{W1}{W1}{W1}"
+
+@MAO_KIS_A:362 MAO 3f75be90
+"{V0504}The rice balls,{W90} don't you dare forget them."
+
+@MAO_KIS_A:363 PLY cab6ce5c
+"I know..."
+
+@MAO_KIS_A:364 MAO 823f2c7d
+"{V0505}See you."
+
+@MAO_KIS_A:365 MAO 1479c6fc
+"{V5038}What?"
+
+@MAO_KIS_A:366 PLY 26e3a993
+"Sorry I couldn't make it last weekend. ...If you'd like, want to go to the pool this time?"
+
+@MAO_KIS_A:367 MAO a34cbe7e
+"{V5039}......"
+
+@MAO_KIS_A:368 MAO fdfcef2e
+"{V5040}You won't stand me up this time, right?"
+
+@MAO_KIS_A:369 PLY 4f513b5e
+"Of course not! I'll definitely be there!"
+
+@MAO_KIS_A:370 MAO a077a2f0
+"{V5041}Okay,{W30} then fine.{W30} {F3}Let's go."
+
+@MAO_KIS_A:371 PLY ae4249e8
+"Really? Then want to meet on the shopping street at 11:30 on Sunday?"
+
+@MAO_KIS_A:372 MAO 1cb3733d
+"{V5042}That's fine."
+
+@MAO_KIS_A:373 MAO 4636c086
+"{V5043}See you, {Nn}."
+
+@MAO_KIS_A:374 MAO 0d55fd57
+"{V5044}What?"
+
+@MAO_KIS_A:375 PLY 70cc1d28
+"Are you free this weekend?"
+
+@MAO_KIS_A:376 MAO e8080531
+"{V5045}Ah...{W55} {F3}{Ec}yes,{W15} I'm fine."
+
+@MAO_KIS_A:377 MAO 6f59b6a4
+"{V5046}{W10}Sorry{W20} about last week,{W30} for not coming."
+
+@MAO_KIS_A:378 PLY 50f2557e
+"It's fine, don't worry about it."
+
+@MAO_KIS_A:379 MAO 4b8e9a4b
+"{V5047}{W10}Then,{W10} shall we go to the pool{Ec} and swim to our hearts' content?"
+
+@MAO_KIS_A:380 PLY a0784160
+"Want to meet on the shopping street at 11:30 on Sunday?"
+
+@MAO_KIS_A:381 MAO 68ef886b
+"{V5049}That's fine.{W30} {F2}I'm looking forward to it."
+
+@MAO_KIS_A:382 MAO 36213b27
+"{V5050}See you, {Nn}."
+
+@MAO_KIS_A:383 PLY 84201678
+"Your hair is pretty, Mao."
+
+@MAO_KIS_A:384 MAO 50eac793
+"{V0506}{W10}You{W10} think?{W40} I{W5} hate{W1} it,{W1} though.{W30} It's{W10} curly{W1} and{W1} frizzy.{W1}"
+
+@MAO_KIS_A:385 MAO 24f63af3
+"{V0507}{W10}Blow-drying in the morning is pointless,{W20} {Eo}and I get bed head so easily."
+
+@MAO_KIS_A:386 MAO 6c6b5574
+"{V0508}No matter what new{W5} shampoo I try,{W20} {F1}it never gets smooth and silky like they say.{W35} {Ec}{W5}{F9}{Eo}Those{W5} commercials are all lies."
+
+@MAO_KIS_A:387 PLY adaeb24e
+"Haha, I see."
+
+@MAO_KIS_A:388 MAO fd97c00e
+"{V0509}{W10}Even now, when I undo my{W4} braid,{W4} {Ti1}it's{W4} all{W4} poofy."
+
+@MAO_KIS_A:389 MAO e0562375
+"{V0510}Ah{W5}~{W5}h,{W35} {Ec}{W5}{F9}{Eo}I{W5} wish{W5} {Ti1}I'd{W5} been{W5} born{W5} with{W5} straight{W5} black{W5} hair.{W5}"
+
+@MAO_KIS_A:390 PLY 0ccdd7fa
+"I like it because it's your hair, Mao."
+
+@MAO_KIS_A:391 MAO 6ece095e
+"{V0511}{Br80t60}Huh? {Nn}..."
+
+@MAO_KIS_A:392 PLY 2bf82fa8
+(Mao... I... how I feel about Mao...)
+
+@MAO_KIS_A:396 MAO 6ac4caf2
+"{V0512}Ah!{W20} Hey!{W10} What are you doing all of a sudden..."
+
+@MAO_KIS_A:397 MAO 4b0b800a
+"{V0513}{W10}In a place{W5} like this{W10}...{W60} Geez..."
+
+@MAO_KIS_A:398 PLY e2315c21
+"No one's watching."
+
+@MAO_KIS_A:399 PLY 65a9a0b4
+"You smell nice..."
+
+@MAO_KIS_A:401 MAO be5708d8
+"{V0515}...Geez,{W60} don't{W2} talk{W2} there.{W40} {Ti1}It{W4} tickles,{W4} you{W4} know.{W2}{W2}{W2}{W2}{W2}{W4}{W4}{W4}{W4}{W4}{W4}"
+
+@MAO_KIS_A:402 PLY cfd564d1
+"Fuuuuu~"
+
+@MAO_KIS_A:405 MAO 1923c34b
+"{V0516}Ah,{W27} geez!{W30} Don't{W1} blow{W1} on me!"
+
+@MAO_KIS_A:406 MAO b895c5af
+"{V0517}{W10}I said{W30} stop{W10} it!{W50} I'll get angry!"
+
+@MAO_KIS_A:407 PLY d3c532d1
+"Go ahead and get angry, Mao."
+
+@MAO_KIS_A:408 MAO 94d6f057
+"{V0519}...{W10}You're{W2} mean.{W2}{W2}"
+
+@MAO_KIS_A:409 MAO fc4529f7
+"{Nn}, {V0521}{W10}what{W5} are{W5} you doing{W20} for{W5} the school festival?"
+
+@MAO_KIS_A:410 PLY 76841760
+"I haven't decided. Why?"
+
+@MAO_KIS_A:411 MAO 53795c93
+"{V0522}{W10}Then go{W4} with{W4} me.{W20} {Ti1}There's{W4} a{W4} place{W4} I{W4} want{W4} to{W4} go{W4} to{W4} with{W4} you,{W4} {Ec}just{W4} us{W4} two."
+
+@MAO_KIS_A:412 PLY cf543578
+"Sure, okay."
+
+@MAO_KIS_A:413 MAO 6cbfa008
+"{V0523}Then it's settled.{W30} {Ec}See you, {Nn}."
+
+@MAO_KIS_A:414 PLY 30de57f5
+"Your ears are cute, Mao."
+
+@MAO_KIS_A:415 MAO 87505c0c
+"{V0524}{Br80t120}Eh?!"
+
+@MAO_KIS_A:416 MAO 568fa69a
+"{V0525}{Sp}{W10}W-{W60}what are you saying{W25} all of a sudden?!{W65} No one's ever{W20} said that to me before."
+
+@MAO_KIS_A:417 PLY c7dc7ea0
+"Of course not."
+
+@MAO_KIS_A:418 MAO c12b4e5e
+"{V0526}{W10}Why?{Br0t120}"
+
+@MAO_KIS_A:419 PLY 5f0b0745
+"Because I'm the only one who's ever seen your ears up close, right?"
+
+@MAO_KIS_A:420 MAO ac151304
+"{V0527}{W10}I{W1} guess{W5} so.{W60} {F3}Right."
+
+@MAO_KIS_A:423 PLY 70adb206
+"Let me see it better."
+
+@MAO_KIS_A:424 MAO fd2eb2b0
+"{V0528}{Br80t60}Ah{W10}...{W30} Hey..."
+
+@MAO_KIS_A:425 MAO 538880a5
+"{V0529}{W10}Geez{W5}...{W40} Not in a place like this..."
+
+@MAO_KIS_A:426 MAO c4ca4c86
+"{V0530}{W10}I'm sure people are pretending not to see, but..."
+
+@MAO_KIS_A:427 MAO 0cd44de0
+"{V0531}{W10}Ah...{W30} Hey!{W20} That tickles..."
+
+@MAO_KIS_A:428 PLY 4a42f852
+"I'm so happy that only I get to see it..."
+
+@MAO_KIS_A:429 MAO f7e4c239
+"{V0532}{W10}That's{W10} why,{W30} don't{W3} talk{W3} there!{W10}{W3}{W3}{W3}{W20}"
+
+@MAO_KIS_A:430 MAO fcf5ef70
+"{V0533}Ah!{W60} Don't{W10} blow{W5} on{W5} it!{W5}{W5}{W5}{W5}"
+
+@MAO_KIS_A:431 MAO 44a68348
+"{V0534}{W10}I{W2} said{W2} no!{W50} I'll{W2} get{W2} mad!{W2}{W2}{W50}"
+
+@MAO_KIS_A:432 PLY 3c27cadf
+"You won't get mad, Mao..."
+
+@MAO_KIS_A:433 MAO 3a0ab5a3
+"{V0535}...{W10}Geez,{W80} that's{W10} not fair, {Nn}."
+
+@MAO_KIS_A:438 MAO a6fb209c
+"{V0537}Mm{W10}~,{W100} I'm{W10} still{W10} all{W1} shiv{W1}ery.{W1}{W1}{W1}{W1}"
+
+@MAO_KIS_A:439 PLY 6c1b2754
+"S-sorry."
+
+@MAO_KIS_A:440 MAO 83c68f2a
+"{V0538}{W10}Honestly{W30},{W5} really...{W5}"
+
+@MAO_KIS_A:441 PLY 2dab1063
+"I'm looking forward to the school festival."
+
+@MAO_KIS_A:442 MAO 20db7494
+"{V0539}{Br30t90}Me too."
+
+@MAO_KIS_A:443 PLY 449bb3d0
+"Where is the place you want us to go together?"
+
+@MAO_KIS_A:444 MAO 22a3237d
+"{V0540}{Br0t30}That's{W35} a{W2} surprise{W2} for{W2} the{W2} day.{W2}{W2}{W2}"
+
+@MAO_KIS_A:445 PLY 24f6bd77
+"You could tell me, you know..."
+
+@MAO_KIS_A:446 MAO 798fca90
+"{V0541}{W10}Fufu,{W30} {Eo}nope."
+
+@MAO_KIS_A:447 MAO 67230fca
+"{V0542}See you, {Nn}."
+
+@MAO_KIS_A:448 PLY 98adcd37
+"Hey, welcome to the You Can't Do That House. Yeah, it's KIS A."

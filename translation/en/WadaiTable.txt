@@ -1,0 +1,152 @@
+# WadaiTable -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@WadaiTable:0.0.0 - c7351344
+Dud
+
+@WadaiTable:0.1.0 - 1b03e09f
+Small Talk
+
+@WadaiTable:0.2.0 - 692d8367
+Clubs
+
+@WadaiTable:0.3.0 - 86b19c9a
+Uniform
+
+@WadaiTable:0.4.0 - d723799d
+Committee
+
+@WadaiTable:0.5.0 - 835f3187
+Rules
+
+@WadaiTable:0.6.0 - a6e9f6d9
+Teacher
+
+@WadaiTable:0.7.0 - 85a56ea6
+Transfer
+
+@WadaiTable:0.8.0 - 18141a25
+Home Study
+
+@WadaiTable:0.9.0 - b65af422
+Grades
+
+@WadaiTable:0.10.0 - 478c4199
+Exams
+
+@WadaiTable:0.11.0 - 6018e0c0
+Italian
+
+@WadaiTable:0.12.0 - 82d0f5fd
+P.E.
+
+@WadaiTable:0.13.0 - 67cd3162
+Swimming
+
+@WadaiTable:0.14.0 - fa5e8912
+Sports
+
+@WadaiTable:0.15.0 - 795d25e7
+Dance
+
+@WadaiTable:0.16.0 - 6376c974
+Music
+
+@WadaiTable:0.17.0 - 679afa27
+Movies
+
+@WadaiTable:0.18.0 - b9b17806
+Reading
+
+@WadaiTable:0.19.0 - 97940c41
+Shopping
+
+@WadaiTable:0.20.0 - fde5cffe
+Fashion
+
+@WadaiTable:0.21.0 - 56301c76
+Accessories
+
+@WadaiTable:0.22.0 - 32d078a6
+Makeup
+
+@WadaiTable:0.23.0 - 62ac7942
+Swimsuit
+
+@WadaiTable:0.24.0 - f0ddd1ec
+Meals
+
+@WadaiTable:0.25.0 - e256569e
+Sweets
+
+@WadaiTable:0.26.0 - c5dc3aa7
+Drinks
+
+@WadaiTable:0.27.0 - 7686014f
+Cooking
+
+@WadaiTable:0.28.0 - 9df6df12
+Udon
+
+@WadaiTable:0.29.0 - b1416362
+Junk Food
+
+@WadaiTable:0.30.0 - 28ff5ffe
+Health
+
+@WadaiTable:0.31.0 - 5f8e507f
+Diet
+
+@WadaiTable:0.32.0 - d37fc6a5
+Body
+
+@WadaiTable:0.33.0 - 3e119f29
+Love
+
+@WadaiTable:0.34.0 - e2a7c4ba
+Private Life
+
+@WadaiTable:0.35.0 - e148396e
+Naughty
+
+@WadaiTable:0.36.0 - 6f9c2cea
+Future
+
+@WadaiTable:0.37.0 - cccfb185
+Old Days
+
+@WadaiTable:0.38.0 - 88809a51
+Praise
+
+@WadaiTable:0.39.0 - e1c9ab5e
+Gaze
+
+@WadaiTable:0.40.0 - e564bd1d
+Smile
+
+@WadaiTable:0.41.0 - f5965bb6
+Act Cool
+
+@WadaiTable:0.42.0 - e77f7c8d
+Hold Hands
+
+@WadaiTable:0.43.0 - bb7912e6
+Kamikaze
+
+@WadaiTable:1.0.0 - 9b8b569b
+Ordinary
+
+@WadaiTable:1.1.0 - 8c66e418
+Serious
+
+@WadaiTable:1.2.0 - ba42f73d
+Lively
+
+@WadaiTable:1.3.0 - e148396e
+Naughty
+
+@WadaiTable:1.4.0 - 40ea1288
+Foodie
+
+@WadaiTable:1.5.0 - c27a843c
+Stylish

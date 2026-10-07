@@ -1,0 +1,305 @@
+# MEG_FEV -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MEG_FEV:20 PLY a13079bb
+(It's hot already, and it's still morning...)
+
+@MEG_FEV:23 PLY f3b9e05a
+(If only a breeze would blow, it'd cool down a little...)
+
+@MEG_FEV:24 PLY 26ab2977
+(Well, things never work out that nicely...)
+
+@MEG_FEV:39 MEG 3c58863f
+"{V0591}Eeeeeek!"
+
+@MEG_FEV:40 PLY f9f9fb2a
+"Ah?!"
+
+@MEG_FEV:43 PLY 4fa82b16
+(A d-divine wind!!)
+
+@MEG_FEV:56 PLY bd8870fd
+"H-hey..."
+
+@MEG_FEV:57 MEG c23365a3
+"{Nm}...{V0592} Don't tell me you were there the whole time?"
+
+@MEG_FEV:58 PLY 1ea1b704
+"Y-yeah."
+
+@MEG_FEV:59 MEG 986b5b6a
+"{V0593}{W10}You saw...{W10} didn't you?"
+
+@MEG_FEV:60.1 - b9de88ee
+{Ti0}- Just a little...／- N-no, I didn't see
+
+@MEG_FEV:61 PLY d5a5c2d1
+"Just a little..."
+
+@MEG_FEV:64 MEG 1b57a6b9
+"{V0594}I can't believe you! {W70}{Eo}You should have shut your eyes!"
+
+@MEG_FEV:65 PLY a2fd5799
+"I c-can't do that on the spur of the moment."
+
+@MEG_FEV:66 MEG e4cc6e84
+"{V0595}Geez! {W55}{Eh}You're the {W15}worst!{W25} Peeking under a girl's skirt!{Eo}"
+
+@MEG_FEV:68 PLY 96b9ebdf
+"I wasn't peeking! It was an accident, an accident!"
+
+@MEG_FEV:69 MEG 885549c5
+"{V0596}Grr! {W95}You weakling! {W75}You're a disgrace to boys!"
+
+@MEG_FEV:70 PLY 7aa469c1
+"Hahaha..."
+
+@MEG_FEV:71 MEG 4e19ff8d
+"{V0597}See you!"
+
+@MEG_FEV:74 PLY 57f7a7d8
+(Even a skirt that follows the school rules on length flips up when it flips up... Yeah.)
+
+@MEG_FEV:75 PLY a6039db7
+"I-I didn't see."
+
+@MEG_FEV:76 MEG 51bde832
+"{V0598}Really?!"
+
+@MEG_FEV:77 PLY 469f8c21
+"Really."
+
+@MEG_FEV:78 MEG 600f872f
+"{V0599}{W45}...I see.{W60} {Ec}Then it's fine."
+
+@MEG_FEV:80 MEG f4d25fae
+"{V0600}I was sure you'd seen,{W75} but I guess I was mistaken."
+
+@MEG_FEV:81 PLY 79118285
+"Um... I turned my face away right away."
+
+@MEG_FEV:82 MEG f6df08de
+"{V0601}You did? {W80}{F2}So you do have a kind side.{W20} {Ec}I think better of you now."
+
+@MEG_FEV:83 MEG 697be240
+"{V0602}See you, {Nm}."
+
+@MEG_FEV:84 PLY c75c06d3
+"Yeah, see you."
+
+@MEG_FEV:85 PLY 19afd6cb
+(Sorry... I actually caught a glimpse... But it's better not to say so, right?)
+
+@MEG_FEV:89 MEG 1c4d6174
+"{V0603}Hey! {W30}Stop running away!"
+
+@MEG_FEV:90 ERI 9be9ce03
+"{V5073}No way. I'm running!"
+
+@MEG_FEV:93 MEG 25344fa6
+"{V0604}Ah! {W60}No running in the hallway!"
+
+@MEG_FEV:94 ERI 283b054e
+"{V5074}Fufu, can't you run? How convenient."
+
+@MEG_FEV:98 ERI 20297c32
+"{V5075}Ah, {Nm}."
+
+@MEG_FEV:99 PLY 3da9285e
+"Futami, what's wrong?"
+
+@MEG_FEV:100 ERI 2d496906
+"{V5076}What's wrong? {Eo}A Discipline Committee member is chasing me with giant scissors to cut my hair."
+
+@MEG_FEV:101 PLY 21e4acd1
+"What?!"
+
+@MEG_FEV:102 ERI 1d4aa758
+"{V5077}I'll leave the rest to you."
+
+@MEG_FEV:104 PLY 9fe11296
+"Ah... Futami."
+
+@MEG_FEV:107 MEG 75083a64
+"{V0605}{Nm},{W30} did Futami Eriko come this way?"
+
+@MEG_FEV:108 PLY 96279c90
+"She did, but she's already gone."
+
+@MEG_FEV:109 MEG 48e4e908
+"{V0606}I see...{W75} She got away again...{Ec}"
+
+@MEG_FEV:110 PLY 0f2a7fd9
+"...Chasing someone with giant scissors to cut their hair is kind of dangerous."
+
+@MEG_FEV:111 MEG 1ac2d65e
+"{V0607}I don't want to do it either.{W90} But{W35} {Ec}that hair length is clearly a violation of the school rules."
+
+@MEG_FEV:112 PLY 9fc331ce
+"...Well, that's true."
+
+@MEG_FEV:113 PLY b763a54f
+"But trying to cut it with scissors is going too far, isn't it..."
+
+@MEG_FEV:114 MEG 428e62d7
+"{V0608}Don't worry,{W50} I'm not serious."
+
+@MEG_FEV:115 PLY 122df4f6
+"Huh?"
+
+@MEG_FEV:116 MEG 7ce8e210
+"{V0609}No matter how often I warn her, she won't cut it,{W30} so I just gave her a little scare."
+
+@MEG_FEV:117 PLY 18b0ca17
+"Oh, I see."
+
+@MEG_FEV:118 MEG 1a772801
+"{V0610}Unless I go this far,{W30} {Ec}she doesn't take it to heart at all.{Eo}"
+
+@MEG_FEV:119 PLY 01538f7d
+"Hahaha, maybe so."
+
+@MEG_FEV:120 MEG 931e09b6
+"{V0611}See you, {Nm}."
+
+@MEG_FEV:121 PLY e03a6130
+"Yeah, see you."
+
+@MEG_FEV:122 PLY e408ebeb
+(Huh? Who's that talking over there...)
+
+@MEG_FEV:125 PLY 4d4ab920
+(Hoshino and Kuryuu. An unusual pair... not really, I guess. They're in the same class.)
+
+@MEG_FEV:126 PLY ca0796e2
+"Hoshino, Kuryuu, what are you talking about?"
+
+@MEG_FEV:127 MEG 7e5e2c32
+"{V0612}Oh, {Nm}."
+
+@MEG_FEV:128 YUM 991bb4af
+"{V5060}Oh, {Nm}."
+
+@MEG_FEV:130 MEG 4d2897b4
+"{V0613}{W5}I was praising Hoshino."
+
+@MEG_FEV:132 MEG 063096ed
+"{V0614}{W5}She always{W5} follows the school rules properly,{W45} and she's never late..."
+
+@MEG_FEV:133 MEG 2be8a7f1
+"{V0615}{W5}If everyone were like Hoshino,{W35} my job would be so much easier, I{W5} said."
+
+@MEG_FEV:134 YUM b226eceb
+"{V5061}Th-{W50}that's not true..."
+
+@MEG_FEV:135 PLY bfbdc5ab
+"Yeah, that's definitely true."
+
+@MEG_FEV:136 MEG 568a5834
+"{V0616}When I come to the Library{W20} it's obvious.{W60} It's clean,{W30} tidy,{W45} {Ec}comfortable..."
+
+@MEG_FEV:137 MEG 3af24268
+"{V0617}{W5}If the whole school were like this,{W5} it would feel wonderful.{Ec}"
+
+@MEG_FEV:138 PLY e3f8be68
+"Yeah, it would."
+
+@MEG_FEV:139 YUM 77dc4fec
+"{V5062}Oh, stop,{W45} Kuryuu, {Nm},{W55} don't praise me so much."
+
+@MEG_FEV:140 MEG 26ade4cc
+"{V0618}{W5}I only said what's true."
+
+@MEG_FEV:141 MEG 2a640834
+"{V0619}{Nm},{W10} {Ec}I'd be happy if you'd take after Hoshino a little{W30} and follow the school{W20} rules properly too.{Eo}"
+
+@MEG_FEV:142 PLY 16f6ec70
+"Whoa, I poked a snake. S-see you."
+
+@MEG_FEV:143 MEG c82a59f8
+"{V0620}Hey,{W30} wait,{W30} we're not finished talking."
+
+@MEG_FEV:144 YUM d7c76bc9
+"{V5063}Heh,{W45} see you, {Nm}.{Ec}"
+
+@MEG_FEV:145 PLY 6f9f37db
+(Hm? I hear voices from the Music Room...)
+
+@MEG_FEV:146 MEG 6af6547a
+"{V0621}Shijou,{W90} your family is rich,{W30} so why not just buy a new skirt?"
+
+@MEG_FEV:147 MIT 4e1d194a
+"{V5000}But... I couldn't throw away a skirt I can still wear."
+
+@MEG_FEV:148 MEG 1632e452
+"{V0622}Hmm...{W90} I understand how you feel,{W80} but you can't keep breaking the school rules forever, can you?"
+
+@MEG_FEV:149 MIT 9f308d1d
+"{V5001}That is true, but..."
+
+@MEG_FEV:150 PLY cb0c1cb3
+"What are you two talking about?"
+
+@MEG_FEV:155 MIT 3e133a47
+"{V5002}Ah, {Nm}."
+
+@MEG_FEV:156 MIT 0cfde2e0
+"{V5003}Ah, Mas...{F9} I mean, {Nm}.{F3}"
+
+@MEG_FEV:158 MEG e6670b12
+"{V0623}Oh, {Nm}."
+
+@MEG_FEV:160 MEG 76e43599
+"{V0624}{W5}We're talking about Shijou's skirt.{W85} {Eo}Look,{W30} it's really short, isn't it?"
+
+@MEG_FEV:161 PLY 97a57175
+"W-well, yeah."
+
+@MEG_FEV:162 MIT 01d00021
+"{V5004}...I am sorry."
+
+@MEG_FEV:163 MEG b34d8991
+"{V0625}{W5}Shijou herself is{W50} serious,{W10} {F9}{Eo}a model student, but..."
+
+@MEG_FEV:164 MEG 6f759fa6
+"{V0626}The trouble is{W60} that only her skirt length is{W20} extremely short."
+
+@MEG_FEV:165 MEG 58a569cc
+"{V0627}In terms of exposed leg,{W55} she even beats that Year 3 girl, Mizusawa!{Ec}"
+
+@MEG_FEV:166 MIT 1bb5bb37
+"{V5005}I hemmed the skirt up without checking the rules properly, and so I have caused trouble..."
+
+@MEG_FEV:167 MEG cdb73bd1
+"{V0628}...That's enough for today."
+
+@MEG_FEV:168 MEG 22a275fb
+"{V0629}But{W20} I'm on the Discipline Committee,{W40} {Ec}so every now and then{W45} I have no choice but to ask you{W35} {F1}{Eo}to fix your rule violations."
+
+@MEG_FEV:169 MIT 4623981e
+"{V5006}Yes, I understand. I am sorry to trouble you."
+
+@MEG_FEV:170 MEG f5edef9f
+"{V0630}Well then,{W10} see you.{W45} Don't take it the wrong way.{Ec}"
+
+@MEG_FEV:171 MIT dc046254
+"{V6009}Take it the wrong way? Never...{Ec}"
+
+@MEG_FEV:172 PLY cefa4eff
+"That's rough..."
+
+@MEG_FEV:173 MIT 6379df1a
+"{V5007}No, it is my own fault."
+
+@MEG_FEV:174 MIT 144e9e3e
+"{V5008}By the way, {Nm}. Did you need something from me?"
+
+@MEG_FEV:175 MIT e4692b0b
+"{V5009}By the way, Master. Did you need something from me?"
+
+@MEG_FEV:176 PLY 22870934
+"Ah... um, it's nothing. See you."
+
+@MEG_FEV:177 MIT 3385b9ee
+"{V5010}Heh.{Eo} Yes, excuse me."

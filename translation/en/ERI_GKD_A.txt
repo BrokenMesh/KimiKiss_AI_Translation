@@ -1,0 +1,566 @@
+# ERI_GKD_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_GKD_A:21 PLY 22c841c3
+"Futami, is there anywhere you want to stop by?"
+
+@ERI_GKD_A:24 ERI 0e245bf5
+"{V0699}{W12}Not really..."
+
+@ERI_GKD_A:25 PLY 876a2929
+"I see..."
+
+@ERI_GKD_A:27 PLY 58d11bca
+"Something funny happened at school today..."
+
+@ERI_GKD_A:28 ERI 0d80b9d5
+"......"
+
+@ERI_GKD_A:30 ERI 03f9ca75
+"{V0701}{W15}I see.{W30} That's good."
+
+@ERI_GKD_A:31 PLY 9c3328c8
+"Did anything happen to you today, Futami?"
+
+@ERI_GKD_A:33 ERI df24f1a4
+"{V0702}{W8}Not really...{W48} nothing {W4}at all."
+
+@ERI_GKD_A:34 PLY 17274ee6
+"Oh..."
+
+@ERI_GKD_A:35 PLY 08eb5290
+(...This is bad, the conversation won't go anywhere.)
+
+@ERI_GKD_A:46 ERI 8d514500
+"{V0703}{W9}See you,{W15} {Nm}.{W30} This is fine here.{Ec}"
+
+@ERI_GKD_A:47 PLY a323818f
+"Ah... don't you want to stop somewhere?"
+
+@ERI_GKD_A:50 ERI 7806065a
+"{V0704}{W12}I{W3} will{W3} pass."
+
+@ERI_GKD_A:51 PLY 13ab91b0
+"Oh... well, see you."
+
+@ERI_GKD_A:57 ERI 38c40722
+"{V0705}{W12}Goodbye."
+
+@ERI_GKD_A:60 SYS 2a6e46a5
+...And so I walked home with Futami.
+
+@ERI_GKD_A:63 PLY 70c71e0b
+"Futami, want to stop by the shopping street?"
+
+@ERI_GKD_A:64 ERI 38fb6bb7
+"{V0706}{W8}All right."
+
+@ERI_GKD_A:65 PLY 39ad82c5
+"Huh? Really?"
+
+@ERI_GKD_A:66 ERI 10595dac
+"{V0707}{W8}Yes.{W30} You want to stop by, don't you?"
+
+@ERI_GKD_A:67 PLY b8723747
+"Then shall we go?"
+
+@ERI_GKD_A:68 ERI 933a6aab
+"{V0708}{W9}Yes."
+
+@ERI_GKD_A:70 ERI 92d3e516
+"{V0709}{W8}{Nm},{W30} are you {W4}buying {W4}something?"
+
+@ERI_GKD_A:71 PLY ad93e1be
+"...No, there's nothing in particular I want to buy..."
+
+@ERI_GKD_A:73 ERI ef46a99a
+"{V0710}{W8}{F4}{Eo}Nothing?{Ti0} {Ti2}{W42}{F5}{Eh}Then{W18} why are we here?"
+
+@ERI_GKD_A:74 PLY fbf5486c
+"I just thought we could wander around..."
+
+@ERI_GKD_A:76 ERI c34c944a
+"{V0711}{W8}Wan{W1}der{W1} around...?"
+
+@ERI_GKD_A:77 PLY 0fab6762
+"Futami, don't you ever wander around the shopping street for no reason?"
+
+@ERI_GKD_A:78 ERI 9644da7e
+"{V0712}{W12}{Fe4m1}No."
+
+@ERI_GKD_A:80 ERI 5d671744
+"{V0713}{W8}If {W4}there is no reason,{W15} {Eh}{Fe3m1}I {W2}want to go home."
+
+@ERI_GKD_A:81 PLY 8f1b886a
+"R-right. Let's go home..."
+
+@ERI_GKD_A:83 ERI eafa0ae6
+"{V0714}{W12}To {W4}the {W4}shopping street{W4}?"
+
+@ERI_GKD_A:84 ERI 223b0e6b
+"{V0715}{W9}...If {W5}there is no reason,{W39} I do not want to go."
+
+@ERI_GKD_A:85 PLY 241b2694
+"Do you have something to do if you go straight home?"
+
+@ERI_GKD_A:86 ERI 1a154e92
+"{V0716}{W5}No."
+
+@ERI_GKD_A:87 PLY 2f9c48d8
+"Then wouldn't a little detour be more fun?"
+
+@ERI_GKD_A:88 ERI d01b642b
+"{V0717}{W8}Oh..."
+
+@ERI_GKD_A:89 ERI 18409708
+"{V0718}{W5}...Is that how everyone{W30} passes{W3} the{W3} {W3}time?"
+
+@ERI_GKD_A:90 PLY 851b6dc4
+"Yeah."
+
+@ERI_GKD_A:91 ERI 0fb4f10f
+"{V0719}{W12}I{W4} see...{W75} So{W1} wan{W2}der{W1}ing{W2} around{W1} has{W1} a{W1} meaning,{W39} too.{W3}{W2}{W2}{W1}{W1}{W1}"
+
+@ERI_GKD_A:92 PLY 431e7285
+"I wouldn't call it a meaning, exactly..."
+
+@ERI_GKD_A:93 ERI 1c4528fc
+"{V0720}{W8}Fine.{W30} I{W3} will{W3} try{W3} the{W3} shopping{W2} street{W1}."
+
+@ERI_GKD_A:94 PLY 94406078
+"Then let's go."
+
+@ERI_GKD_A:95 ERI 94c76337
+"{V0721}{W8}{Nm},{W45} how{W1} do{W4} I wander around?"
+
+@ERI_GKD_A:96 PLY e202de9d
+"That's a hard one to answer..."
+
+@ERI_GKD_A:97 PLY aa24153a
+"Like talking about popular CDs and stopping by a CD shop..."
+
+@ERI_GKD_A:98 ERI 6bce048c
+"{V0722}{W8}{Fe9m1}I{W4} am{W2} not interested..."
+
+@ERI_GKD_A:99 PLY d67fc80e
+"Or looking at things you want but are too expensive to buy..."
+
+@ERI_GKD_A:100 ERI b51f5dd7
+"{V0723}{W10}{Eh}{F5}Not {W2}re{W2}ally{W8}..."
+
+@ERI_GKD_A:101 PLY ee39e537
+"Or reading manga at the bookstore..."
+
+@ERI_GKD_A:102 ERI bf4edc0a
+"{V0724}{W15}A {W4}bookstore?{Ti0} {Ti2}{W75}{Ec}{Fe3}I could{W21} stop by there."
+
+@ERI_GKD_A:103 PLY 796bac4a
+"All right! Then let's go to the bookstore."
+
+@ERI_GKD_A:105 PLY 999153b8
+"I'll tell you about the popular manga."
+
+@ERI_GKD_A:106 ERI 7d5aa1ca
+"{V0725}{S}...{W5}I{W3} will{W2} pass."
+
+@ERI_GKD_A:107 SYS ba848933
+...And so I wandered around the shopping street with Futami.
+
+@ERI_GKD_A:110 PLY 399883a6
+"Futami, want to stop by the park?"
+
+@ERI_GKD_A:111 ERI 76f84ff8
+"{V0726}{W8}The {W4}park{W4}?{Ti0} {Ti2}{W90}...{W5}I{W2} don't{W1} feel like it."
+
+@ERI_GKD_A:112 PLY d4c142ed
+"Don't say that. It feels odd to just go home, so let's stop by for a bit."
+
+@ERI_GKD_A:113 ERI f3d04716
+"{V0727}{W12}If you insist...{W45} fine."
+
+@ERI_GKD_A:114 PLY 0e6125bc
+"Really? All right, let's go!"
+
+@ERI_GKD_A:115 PLY 8917fda8
+"Look, the swings and the jungle gym. So nostalgic~"
+
+@ERI_GKD_A:117 ERI 5e1fc65b
+"{V0728}{W15}{Ec}No."
+
+@ERI_GKD_A:118 PLY d9372ba1
+"Why not?"
+
+@ERI_GKD_A:119 ERI f80ff066
+"{V0729}{W8}{Fe6}{Eh}I{W9} have{W60} nev{W3}er{W3} played{W1} in{W3} a{W1} park.{W1}"
+
+@ERI_GKD_A:120 PLY 52be8dd1
+"R-really? That's unusual."
+
+@ERI_GKD_A:121 ERI eb940e42
+"{V0730}{W8}{Fe6m3}My {W4}parents stopped me.{W45} {Ec}They said it would be{W1} terrible if I{W2} hit{W3} my{W8} head."
+
+@ERI_GKD_A:122 PLY 7cb658b8
+"Huh...?"
+
+@ERI_GKD_A:132 - 6a84c8ce
+Eriko
+
+@ERI_GKD_A:134 ERI 50c468b6
+"{V0731}{W12}Mama~,{W27} I{W8} want{W33} to ride the{W3} swing."
+
+@ERI_GKD_A:135 - 25157001
+Mama
+
+@ERI_GKD_A:137 ERI bb8319c4
+"{V5022}{W12}It's{W4} dan{W2}ger{W2}ous,{W1} so{W1} no.{W42} If you fell{W4} and{W1} hit{W1} your{W1} head,{W18} it{W2} would{W6} be{W4} terrible,{W3} wouldn't it?"
+
+@ERI_GKD_A:138 ERI 4cbe74d9
+"{V0732}{W12}If I{W1} hold on{W1} tight,{W4} I'm{W4} sure I won't fall.{W33} Please,{W15} okay?{Ti0} {Ti2}{W5}Ma{W3}ma."
+
+@ERI_GKD_A:140 ERI 328cccb8
+"{V5023}{W12}No{W2}pe.{W2}"
+
+@ERI_GKD_A:141 ERI 2c3b31c8
+"{V5024}{W8}What's{W1} wrong{W1}{Ti0}?{W3} {Ti2}Eri?{W30} You{W1} never{W1} act{W1} so{W1} selfish.{W1}{W1}{W1}{W1}{W1}"
+
+@ERI_GKD_A:142 ERI 501d5877
+"{V0733}{W8}But{W12} everyone{W57} looks{W3} like{W4} they're{W1} having{W1} fun.{W1}{W2}{W2}{W2}{W2}"
+
+@ERI_GKD_A:143 ERI 8f3be61e
+"{V5025}{W8}Eri{W1} is{W1} a{W1} spe{W4}cial{W4} child,{W42} so{W1} you{W1} have{W1} to{W1} put{W1} up{W1} with{W1} it.{W1}{W1}{W1}{W1}"
+
+@ERI_GKD_A:144 ERI 86187ebe
+"{V5026}{W8}If{W2} that{W4} smart{W4} head{W4} of{W2} yours{W4} got{W4} hurt,{W45} it{W4} could{W9} never{W1} be{W4} undone,{W1} could{W1} it?{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+
+@ERI_GKD_A:145 ERI d13b7e27
+"{V0734}{W12}Ma{W3}ma..."
+
+@ERI_GKD_A:146 ERI 4f8a775b
+"{V0735}{W8}...Sniff.{W75} I{W1} wish{W4} it would{W1} just{W1} break,{W60} this{W1} head{W12} of{W1} mine."
+
+@ERI_GKD_A:148 ERI a85ba682
+"{V5027}{W8}Eri,{W21} you{W6} must{W6} not say{W2} things{W3} like{W3} that.{Ti0} {Ti2}{W72}Ma{W3}ma{W3} will{W30} get{W8} angry."
+
+@ERI_GKD_A:150 ERI 3dfcde8a
+"{V0736}{W8}That{W1} is{W5} when{W4} I{W2} realized{W1} it.{W114} Mama{W8} likes{W3} my{W8} head,{W8} not{W1} me.{W73} {F6}{W1}{W2}"
+
+@ERI_GKD_A:151 PLY 2ca64493
+"Futami..."
+
+@ERI_GKD_A:152.1 - 1dfa7414
+{Ti0}- I don't think that's it／- That's awful／- Futami as a child...
+
+@ERI_GKD_A:153 PLY 83510995
+"I don't think that's it. Maybe she said no because she cared about you?"
+
+@ERI_GKD_A:154 ERI 15da396f
+"{V0737}{W8}{F6}{Ec}Yes,{W42} I know.{W60} {Eo}That is why{W33} I did not ride the swing."
+
+@ERI_GKD_A:155 ERI 3af9cd2f
+"{V0738}{W12}There{W8} is{W1} no{W8} doubt{W1} she{W4} was{W4} wor{W1}ried{W1} about{W1} my{W3} body.{W30} {Ec}A{W69} little{W18} over{W4}done, though."
+
+@ERI_GKD_A:156 PLY b7df7664
+"That's awful."
+
+@ERI_GKD_A:157 ERI c3843504
+"{V0739}{Ec}{Fe4m3}...{W3}But{W30} it's fine."
+
+@ERI_GKD_A:158 ERI ef4956bb
+"{V0740}{W12}{Eh}{Fe9m3}There{W9} is{W2} no{W9} doubt{W2} she{W5} was{W5} wor{W2}ried{W2} about{W2} my{W30} body.{W90} {Ec}{F3}A{W1} little{W1} over{W1}done,{W1} though.{W1}{W1}{W1}{W1}{W1}{W4}{W3}"
+
+@ERI_GKD_A:159 PLY ad90864b
+"Futami as a child, huh... What kind of kid were you?"
+
+@ERI_GKD_A:160 ERI 821d9403
+"{V0741}{W12}A child with no charm."
+
+@ERI_GKD_A:161 PLY 2401dabb
+"I-is that so..."
+
+@ERI_GKD_A:162 PLY 4da42ac5
+"Want to ride one now?"
+
+@ERI_GKD_A:163 ERI 2661b796
+"{V0742}{W12}What?"
+
+@ERI_GKD_A:164 PLY cdde55b5
+"The swing."
+
+@ERI_GKD_A:165 ERI b01ccff7
+"{V0743}{W5}...I will pass."
+
+@ERI_GKD_A:166 PLY a18c4623
+"Why? You can ride as much as you like now."
+
+@ERI_GKD_A:167 ERI 99e8a5ff
+"{V0744}{W12}{Eh}I was raised to never jump or{W2} hop{W4} around...{W72} {Ec}{Fe9m3}It's a trauma."
+
+@ERI_GKD_A:168 PLY a65b4cde
+"I see... that's too bad..."
+
+@ERI_GKD_A:169 ERI 188b8302
+"{V0745}{W8}{F4}{Eo}Too{W4} bad{W4}?{Ti0} {Ti2}{W45}{Eh}{Fe9m4}Why?"
+
+@ERI_GKD_A:170.1 - 4d47937f
+{Ti0}- It might cheer you up／- It'd be a mismatch／- Your skirt on the swing...
+
+@ERI_GKD_A:171 PLY 3a289e9d
+"I thought it might cheer you up..."
+
+@ERI_GKD_A:172 ERI 8bbed4b6
+"{V0746}...Thank you.{B40}{Ec}"
+
+@ERI_GKD_A:173 PLY c4f88d73
+"...Shall we get going?"
+
+@ERI_GKD_A:174 PLY 2e08e2bd
+"I thought it'd be a nice mismatch..."
+
+@ERI_GKD_A:175 ERI 22b592fd
+"{V0747}{W5}{F4}{Eo}...A{W2} mis{W2}match?{Ti0} {Ti2}{W75}{Fm3}Me{W8} and{W3} the swing?{W75} {Fe9}Heh,{W60} you{W3} say{W3} that quite plainly."
+
+@ERI_GKD_A:176 PLY 6c1b2754
+"S-sorry."
+
+@ERI_GKD_A:177 ERI 0a6734b7
+"{V0748}{W8}{F3}It's fine.{P0}{F2}{Ec}{W15} You're{W4} right."
+
+@ERI_GKD_A:178 PLY ad933ff0
+"Your skirt on the swing..."
+
+@ERI_GKD_A:179 ERI dad31016
+"{V0749}{W12}{F4}{Eo}What?"
+
+@ERI_GKD_A:180 ERI 9b497679
+"{V0750}{W12}Are{W4} you serious?"
+
+@ERI_GKD_A:181 PLY 17fc7d53
+"O-of course I'm joking. Hahaha..."
+
+@ERI_GKD_A:182 ERI 017df01c
+"{V0751}{W8}{F1}{Ec}...{W5}..."
+
+@ERI_GKD_A:183 PLY 8fa2f471
+"S-shall we get going?"
+
+@ERI_GKD_A:184 ERI 86b1a2a6
+"{V0752}{W12}Yes,{W27} {F3}{Eh}I suppose."
+
+@ERI_GKD_A:185 SYS 5779b880
+...And so I spent time with Futami at the park.
+
+@ERI_GKD_A:187 ERI e2cc8dc5
+"{V0753}{W12}The{W4} {W3}park...{W52} no, thank you."
+
+@ERI_GKD_A:188 PLY ee263aaf
+"Don't say that... Tell me about you when you were little."
+
+@ERI_GKD_A:189 ERI e46f58ea
+"{V0754}{W12}No more{W8} about{W8} me,{W54} please."
+
+@ERI_GKD_A:190 ERI e70c18fb
+"{V0755}{W8}...{W3}..."
+
+@ERI_GKD_A:191 ERI b5dc577d
+"{V0756}{W8}If{W1} {Nm}{W3} tells{W1} me{W4} about{W1} when{W1} you{W1} were{W1} little,{W60} I{W1} would{W1} go{W1} to{W4} the{W4} park.{W6}{W2}"
+
+@ERI_GKD_A:192 PLY 867f4f06
+"Really? Then let's go!"
+
+@ERI_GKD_A:193 ERI eb159941
+"{V0757}{W8}{Nm},{W3} did you{W60} play{W4} here{W4} often{W39} as{W3} a child?"
+
+@ERI_GKD_A:194 PLY f57edbd8
+"Of course!"
+
+@ERI_GKD_A:195 PLY a13787d7
+"I played until sunset and got covered in mud... Mom scolded me all the time."
+
+@ERI_GKD_A:196 ERI ec3c491e
+"{V0758}{W12}Hm{W5}m{W3}...{W66} {Ec}That sounds nice,{W21} that kind of thing."
+
+@ERI_GKD_A:197 ERI 2a292c16
+"{V0759}{W12}I{W9} wanted{W2} to{W4} play{W2} too.{W1}"
+
+@ERI_GKD_A:198 ERI 77d97572
+"{V0760}{W8}{F3}{Eo}What's{W4} it{W4} like?{W30} Playing{W4} while{W1} cov{W1}ered{W1} in{W1} mud?{W1}{W5}"
+
+@ERI_GKD_A:199 PLY 14aaf2c7
+"It's endlessly fun."
+
+@ERI_GKD_A:200 ERI 37178d68
+"{V0761}{W8}{Eh}I see.{W60} End{W5}less{W2}ly...{W65} {F9}{Ec}I{W2} cannot{W4} even{W4} imagine{W3} it."
+
+@ERI_GKD_A:201 PLY 3f235264
+"You can't imagine it... huh. ...But maybe someday you'll find out."
+
+@ERI_GKD_A:202 ERI 3a414af6
+"{V0762}{W8}Why?"
+
+@ERI_GKD_A:203 PLY ec6f0f93
+"...W-well, when we grow up and have kids... you know."
+
+@ERI_GKD_A:204 ERI 6b748b33
+"{V0763}{W8}{B30}What?"
+
+@ERI_GKD_A:205 ERI 18af4c13
+"{V0764}{W8}Heh,{W36} {Eo}{B0}and{W3} I{W3} wondered{W4} what you were about{W4} to say..."
+
+@ERI_GKD_A:206 ERI 3110b5b9
+"{V0765}{W8}Me{W13} rais{W3}ing{W3} a{W6} child{W2}...{W4} impossible.{W1}{W1}{W45}"
+
+@ERI_GKD_A:207 ERI 36e2d476
+"{V0766}{W8}I{W1} can{W4}'t{W1} even{W4} raise{W3} myself well,{W30} {Ec}after all."
+
+@ERI_GKD_A:208 ERI c95559d1
+"{V0767}{W5}...{W3}But,{W75} if{W2} I{W2} ever{W1} had{W4} a{W1} child,{W43} {Eh}{Fe6}I{W1} would{W1} let{W1} them{W1} play{W4} as{W4} much{W4} as{W3} they{W46} liked."
+
+@ERI_GKD_A:209 PLY 7ceefa1d
+"Yeah. That would be good."
+
+@ERI_GKD_A:210 ERI 7ec5f379
+"{V0768}{W8}{Fe9m3}{B60}Heh,{W3} {W3}that's{W75} a dream{W8} unlike{W4} me.{Ec}"
+
+@ERI_GKD_A:211 PLY 02d20e2c
+"Not at all, I'm sure..."
+
+@ERI_GKD_A:213 ERI 01c59c8b
+"{V0769}{W8}{Nm}..."
+
+@ERI_GKD_A:214 PLY 3150f24e
+"What is it?"
+
+@ERI_GKD_A:215 ERI 3e370c6b
+"{V0770}{W8}Are{W2} we not{W15} stopping somewhere today?"
+
+@ERI_GKD_A:216 PLY af514db2
+"Do you want to?"
+
+@ERI_GKD_A:217 ERI 0199019c
+"{V0771}{W15}I{W2} do.{W1} {W54}I want to{W5} go somewhere."
+
+@ERI_GKD_A:218 PLY 4978a074
+"Then, let's see..."
+
+@ERI_GKD_A:219 PLY 5ee6f551
+"Oh, how about Kibina Pond? The water's clean and it's green, so I think it'd feel nice."
+
+@ERI_GKD_A:220 ERI 9e30dce6
+"{V0772}{W8}Ki{W4}bi{W4}na{W4} Pond{W6}?{W60}{Ti0} {Ti2}{W60}...{W30}That's fine."
+
+@ERI_GKD_A:221 PLY 334c6e04
+"Then let's go!"
+
+@ERI_GKD_A:222 ERI 7ff97090
+"{V0773}{W5}Yes..."
+
+@ERI_GKD_A:223 ERI 0bec25ab
+"{V0774}{W12}Kibina{W1} Pond{W18} is{W51} up{W1} ahead?{W4}"
+
+@ERI_GKD_A:224 PLY bae092cf
+"It is. Don't you know it?"
+
+@ERI_GKD_A:225 ERI 11671c48
+"{V0775}{W12}{Eh}I haven't{W18} been there much."
+
+@ERI_GKD_A:226 PLY dbe339a9
+"I see. Then I'll show you the way. Follow me."
+
+@ERI_GKD_A:227 ERI 4eed9313
+"{V0776}{W8}{Eo}{Fe8m6}Y-{W30}yes."
+
+@ERI_GKD_A:228 PLY 2230527b
+"Look, we're here."
+
+@ERI_GKD_A:229 ERI b520a5a1
+"{V0777}{W12}R-{W52}right.{W2}"
+
+@ERI_GKD_A:230 PLY 3390d5d2
+"The sunset is beautiful."
+
+@ERI_GKD_A:231 ERI 0c1f2933
+"{V0778}{W21}Y-{W21}yes,{W15} it{W2} is beautiful."
+
+@ERI_GKD_A:232 PLY c7dee045
+"Oh, there's a flock of ducks swimming."
+
+@ERI_GKD_A:233 ERI c3db0d7c
+"{V0779}{W12}Is{W1} there.{W60} How nice for them."
+
+@ERI_GKD_A:234 PLY a13c5448
+"...What's wrong? It's hard to talk when you're standing behind me..."
+
+@ERI_GKD_A:237 ERI c9a95b2d
+"{V0780}{W15}I{W12} am{W5} bad{W8} with{W5} water.{W78} I{W3} cannot{W2} swim.{W2}{W4}"
+
+@ERI_GKD_A:238 PLY 67919fb4
+"R-right."
+
+@ERI_GKD_A:239 ERI d664174a
+"{V0781}{W8}{Sd}{Ec}Ponds{W8} are{W5} especially{W8} bad,{W39} because{W3} you{W2} cannot{W2} see{W5} the{W2} bottom...{W45} {Eo}It{W2} feels{W1} like{W1} it{W1} could{W1} pull{W4} you in, does it not?"
+
+@ERI_GKD_A:240 PLY aeb7b3b5
+"I see..."
+
+@ERI_GKD_A:241 PLY ef86e2c5
+"Sorry for bringing you to a weird place."
+
+@ERI_GKD_A:243 ERI 1fc2a9c9
+"{V0782}{W30}It's fine.{W27} {Eo}{Fe9}I wanted{W8} to see it too."
+
+@ERI_GKD_A:244 ERI 3a0ebbca
+"{V0783}{W51}{B30}{S}S-{W60}so{W1} this{W1} is{W15} Kibina{W3} Pond...{W40} {F3}{Eh}It{W1} is{W1} a{W3} lovely{W4} place."
+
+@ERI_GKD_A:245 PLY efffb78d
+"It's okay, you don't have to force yourself."
+
+@ERI_GKD_A:246 ERI ec5619d8
+"{V0784}{W8}{B60}Heh,{W45} {Fe2m9}{Ec}I{W3} suppose."
+
+@ERI_GKD_A:248 ERI 26da3d17
+"{V0785}{W8}{Nm}..."
+
+@ERI_GKD_A:249 ERI 75cb782f
+"{V0786}{W12}Shall we{W2} stop{W1} somewhere{W33} today{W1} too?"
+
+@ERI_GKD_A:250 PLY 13d9daee
+"Sounds good."
+
+@ERI_GKD_A:251 ERI fd3cc051
+"{V0787}{W10}I'll tell you{W3} now,{W33} not{W4} Kibina Pond.{W5} I{W4} refuse."
+
+@ERI_GKD_A:252 PLY 796500ed
+"Hahaha, then how about walking along the tree-lined path just before Kibina Pond?"
+
+@ERI_GKD_A:253 ERI 046287ac
+"{V0788}{W8}That sounds good."
+
+@ERI_GKD_A:254 ERI b2cfd57f
+"{V0789}{W8}Fufu,{W55} the{W5} breeze{W5} on{W3} my{W5} cheeks{W15} feels{W1} nice.{W1}"
+
+@ERI_GKD_A:261 ERI cb86dab4
+"{V0790}{W12}A{W2} stroll{W5} down{W5} a{W5} tree-lined{W5} path{W2} together,{W5} hmm...{W69} {Ec}Heh,{W42} {F3}{Eh}it{W5} is{W2} like{W3} some{W2} teen{W2} drama.{W3}{W3}{W1}{W1}{W1}{W1}{W1}{W4}"
+
+@ERI_GKD_A:262 PLY 03ebb905
+"Hahaha, it is."
+
+@ERI_GKD_A:263 ERI 6b8571a6
+"{V0791}{W12}Huh?"
+
+@ERI_GKD_A:264 PLY 164c8098
+"Look, you can see Kibina Pond behind us."
+
+@ERI_GKD_A:269 ERI 9ff02683
+"{V0792}{W5}{Eo}{F4}What?!"
+
+@ERI_GKD_A:270 ERI 41cdb5c9
+"{V0793}{W8}{B40}{Nm}!{Ti0} {Ti2}{W57}You{W1} knew{W8} I{W2} am{W2} bad{W4} with{W2} it...{W47} {Fe8m4}{Ec}I{W3} will{W3} absolutely{W4} not{W3} turn{W1} around{Fm8}!"
+
+@ERI_GKD_A:271 PLY 5b466241
+"Hahaha, sorry, sorry."
+
+@ERI_GKD_A:272 PLY c615fdf0
+"Come on, let's head back at a leisurely pace."
+
+@ERI_GKD_A:273 ERI 49edcf47
+"{V0794}{W12}{F3}{B20}Right{Ec}."

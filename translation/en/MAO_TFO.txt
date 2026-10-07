@@ -1,0 +1,221 @@
+# MAO_TFO -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_TFO:42 MAO 1e457e2f
+"{Nn}..."
+
+@MAO_TFO:44 PLY 2f767c09
+"Ah! Mao!"
+
+@MAO_TFO:48 MAO 85dd4e9d
+"{V7802}{Nn}, what happened?{W30} I waited and waited, and you never came.{W50} Did something happen?"
+
+@MAO_TFO:49 PLY 319a30de
+"Sorry..."
+
+@MAO_TFO:50 PLY b8491b67
+"Well... something urgent came up, and I ended up going the other way."
+
+@MAO_TFO:51 PLY 7cb3be81
+"I meant to tell you, Mao, but I couldn't find you..."
+
+@MAO_TFO:55 MAO 7e7d84bc
+"{V0858}I see.{W80}{Ec}{W5}{F9}{Eo} In that case,{W30} it can't be helped."
+
+@MAO_TFO:56 PLY c6808e7c
+"Sorry I left you waiting for nothing..."
+
+@MAO_TFO:57 MAO c87d144c
+"{V0859}It's fine,{W30} missing each other{W7} happens."
+
+@MAO_TFO:59 MAO 9542c272
+"{V0860}{W15}See you, {Nn}."
+
+@MAO_TFO:60 PLY fccf9db2
+"Yeah... see you."
+
+@MAO_TFO:64 PLY 870f0120
+(No good, I can't go on like this...)
+
+@MAO_TFO:65 PLY 63225729
+"Ah! Mao!"
+
+@MAO_TFO:66 MAO 7a080085
+"{V7801}...{W10}You{W5} promised{W15} to go home{W10} with{W5} me,{W35} didn't you?"
+
+@MAO_TFO:67 MAO ca2e74cb
+"{V0816}And yet,{W40} going home with some other girl?{W30} {Fe9}What{W10} were you thinking?"
+
+@MAO_TFO:68 PLY 541137f5
+"Sorry, Mao..."
+
+@MAO_TFO:69 PLY 643341c4
+"...W-well, our promise, Mao... I forgot..."
+
+@MAO_TFO:70 MAO 16a95298
+"{V0817}You forgot?! {W35}{E}Our promise?!"
+
+@MAO_TFO:71 PLY 9449c080
+"Yeah... I'm really sorry..."
+
+@MAO_TFO:72 MAO 3df0e15d
+"{V0818}I see...{W90} You forgot...{W77} {Ec}In that case,{W35} it can't{W3} be helped."
+
+@MAO_TFO:73 MAO 1d621da6
+"{V0819}But,{W10} going home together, just the two of you?{W30} You sure are close."
+
+@MAO_TFO:74 PLY 7d68aa58
+"Y-yeah..."
+
+@MAO_TFO:75 MAO 43f27067
+"{V0820}...Well, fine.{W40} {Eo}I won't pry any further.{W50} {Ec}{W5}{Fe6}{Eo}It's not like you're going out{W5} with me, after all."
+
+@MAO_TFO:76 MAO ab659576
+"{V0821}But,{W63} remember this much.{W50} {Fe8}{Ec}Stop being{W3} so indecisive.{W80} {F1}{Eo}It hurts me,{W30} and it hurts her{W10} too."
+
+@MAO_TFO:77 PLY bad3355d
+"Yeah..."
+
+@MAO_TFO:78 MAO 351344f4
+"{V0822}See you, {Nn}."
+
+@MAO_TFO:79 SYS 44eb17f6
+...And so, Mao forgave me.
+
+@MAO_TFO:80 SYS 7b9b407d
+Promising to walk home with two different girls... I'm such an idiot...
+
+@MAO_TFO:81 PLY d3733648
+"Ah! M-Mao!"
+
+@MAO_TFO:82 MAO 245aa2f7
+"{V0753}{W10}How cruel!{W80} That's too cruel!{W105} {Ec}{W5}{Fe9}{Eo}You're still cozying up to that girl!"
+
+@MAO_TFO:83 PLY 6b410038
+"Ugh..."
+
+@MAO_TFO:86 MAO 3317c7ec
+"{V0825}That girl,{W60} {Fe9}she's {Nn}'s{W3} classmate,{W5} isn't{W2} she?"
+
+@MAO_TFO:88 MAO ac8f77d6
+"{V0826}If you want{W15} to go home with her that badly,{W30} then don't make promises to me,{W5} {Ec}just go home with her!"
+
+@MAO_TFO:89 MAO 057c1277
+"{V0827}She's quiet,{W40} and she seems kind,{W75} {Ec}{W5}{F8}{Eo}a perfect match for {Nn}!"
+
+@MAO_TFO:90 MAO 52514447
+"{V0828}That girl,{W90} she's Nana's{W5} friend, isn't she?"
+
+@MAO_TFO:92 MAO 995b2782
+"{V0829}If you want to go home with her that badly,{W10} then don't make promises to me,{W5} {Ec}just go home with her!"
+
+@MAO_TFO:93 MAO af3fc47d
+"{V0830}She's little,{W30} and adorable,{W75} {Fm9}she and {Nn},{W5} a perfect match."
+
+@MAO_TFO:94 MAO cdd5847d
+"{V0831}That girl,{W90} she's in the soccer club,{W5} right?"
+
+@MAO_TFO:95 MAO c209162c
+"{V0832}If you want to go home with her that badly,{W15} then don't make promises to me,{W5} {Ec}just go home with her!"
+
+@MAO_TFO:96 MAO 693cc4bf
+"{V0833}She's lively,{W50} and so healthy,{W75} {Ec}{W5}{F9}{Eo}she and {Nn},{W5} a perfect match."
+
+@MAO_TFO:97 MAO 2155034c
+"{V0834}That girl,{W75} she's the one{W20} famous{W10} for being a genius, right?"
+
+@MAO_TFO:98 MAO e279cc2b
+"{V0835}If you want to go{W3} home with her that badly,{W35} {Eo}then don't make{W3} promises to me,{W10} just go home with her!"
+
+@MAO_TFO:99 MAO 1326da8b
+"{V0836}She's cool,{W28} and intelligent,{W90} {Ec}{W5}{Fe6}{Eo}she and {Nn},{W10} a perfect match."
+
+@MAO_TFO:100 MAO 0e12139c
+"{V0837}That girl,{W70} she's the one{W10} famous{W5} as a young lady, right?"
+
+@MAO_TFO:101 MAO dc201c5b
+"{V0838}If you want to go home with her that badly,{W55} {Ec}then don't make promises{W35} to me,{W20} {Eo}just go home with her!"
+
+@MAO_TFO:102 MAO ac8df66e
+"{V0839}She's demure,{W60} and quiet,{W80} she and {Nn},{W5} a perfect match."
+
+@MAO_TFO:103 MAO 51154a47
+"{V6133}If you want{W5} to go home with her{W3} that badly,{W15} {Eo}then don't make promises{W5} to me,{W5} just go home with her!"
+
+@MAO_TFO:105 MAO d7733a35
+"{V6134}She's serious,{W50} and responsible,{W60} {Ec}she and {Nn},{W5} a perfect match!"
+
+@MAO_TFO:106 PLY 80decc91
+"Mao..."
+
+@MAO_TFO:107 MAO 4bc0d215
+"{V0840}Don't{W5} call me Mao{W5} so casually!"
+
+@MAO_TFO:108 MAO 46b9cb06
+"{V0841}Goodbye.{W110} {Fe8}Don't{W33} ever{W2} talk to me again."
+
+@MAO_TFO:109 PLY 5ad65645
+"Ah... Mao..."
+
+@MAO_TFO:110 PLY 471fac2d
+(I... I did something... that can't be undone...)
+
+@MAO_TFO:111 PLY 7723c9cc
+(Mao... I'm sorry...)
+
+@MAO_TFO:112 MAO c873cfbe
+"{V0850}You never learn,{W3} do you?{W100} Leaving me{W2} behind{W2} to go home...{W50} Was that fun?"
+
+@MAO_TFO:113 MAO da4d2fc9
+"{V0851}...And what's more,{W55} it's a different girl{W15} {Ec}from last time!"
+
+@MAO_TFO:114 MAO 18ce761f
+"{V0852}How many{W2} girls{W2} do you have to hurt{W5} {Eo}before you're satisfied?!"
+
+@MAO_TFO:115 PLY 1886b376
+"Mao, I didn't mean it like that..."
+
+@MAO_TFO:116 MAO f4d01f31
+"{V0853}Then{W5} what did you mean?!{W40} Go on, say it!"
+
+@MAO_TFO:117 PLY 0d80b9d5
+"......"
+
+@MAO_TFO:118 MAO 9a968a00
+"{V0854}Goodbye, {Nn}.{W60} I don't want{W30} to even{W2} see your face anymore."
+
+@MAO_TFO:119 MAO 01c34146
+"{V0855}Don't ever{W20} talk to me again!"
+
+@MAO_TFO:120 PLY e0164981
+(I'm... I'm hopeless. I couldn't pick just one, and I kept dragging it out this long, so indecisive...)
+
+@MAO_TFO:121 PLY 0d75c791
+(Mao... I'm sorry...)
+
+@MAO_TFO:122 PLY 4de7c50b
+(I... I...)
+
+@MAO_TFO:123 MAO cbe4d97f
+"{V0824}Geez,{W60} I won't accept{W3} 'I forgot our promise'{W40} as an excuse{W3}."
+
+@MAO_TFO:124 MAO d2d0f9ee
+"{V0843}Geez,{W80} I won't accept{W5} 'I forgot our promise'{W40} {F1}{Eo}as an excuse{W5}."
+
+@MAO_TFO:125 MAO 56e42612
+"{V0844}One girl after another,{W45} you go home{W3} with all sorts of girls{W5}...{W75} {Ec}{W5}{Fe9}{Eo}Don't you think{W10} that's awful?!"
+
+@MAO_TFO:126 MAO bcae70e2
+"{V0845}...I'm not saying you can't go home with anyone.{W25} {Ec}But,{W50} {Fe9}{Eo}you didn't have to{W5} blow off our promise{W20} to do it!"
+
+@MAO_TFO:127 PLY 90aff939
+"Mao... I'm sorry..."
+
+@MAO_TFO:128 MAO 79ee1276
+"{V0846}{W10}Is it fun?{W50} Hurting me{W23} like that{W5}...{W35} {E}{C}{W5}{F6}{Eo}Those girls would get hurt too,{W10} {Fe9}if they found out about this!"
+
+@MAO_TFO:129 MAO d8b0ddff
+"{V0847}Enough...{W30} I don't even want to see your face.{W30} {Ec}Never{W15} talk to me again!"
+
+@MAO_TFO:130 MAO 735b3a71
+"{V0848}Goodbye."

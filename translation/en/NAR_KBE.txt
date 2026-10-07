@@ -1,0 +1,185 @@
+# NAR_KBE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_KBE:40 NAR 8d9f6192
+"{V0599}{Nm}{W3}{W15}{W12}..."
+
+@NAR_KBE:42 PLY ffc9c834
+"Ah! N-Narumi!"
+
+@NAR_KBE:45 NAR 4918d991
+"{V0600}{W12}Senpai{W8}{W8}...{W60} just now,{W4}{W54} what were{W5} you{W2} doing{W2}...?"
+
+@NAR_KBE:46 PLY 59abef53
+"W-what do you mean, what..."
+
+@NAR_KBE:50 NAR 18799d8b
+"{V0601}{W15}I{W5} was{W1} behind{W1} you,{W1}{W33} so I{W2} couldn't{W1} see{W1} well,{W1} but{W1}...{W1}{W81} {Fe6}um...{W78} {Ec}you{W2} looked{W2} so{W2} very{W5} close{W2} to{W2} each{W2} other{W2}{W1}...{W1}"
+
+@NAR_KBE:51 PLY 65928068
+"Narumi..."
+
+@NAR_KBE:53 NAR 3ddd81cc
+"{V0602}{W12}...{W3}..."
+
+@NAR_KBE:54 PLY e53fa3ba
+"I..."
+
+@NAR_KBE:58 NAR 538d7bb7
+"{V0603}{W15}N-{W33}no! {Ti2}{W12}I'm sorry!{W15} I said{W4} something{W1} strange!{W27} {Ec}It{W1} must{W9} have{W2} been{W2} a{W6} mistake{W3},{W2} right{W2}?{W2}"
+
+@NAR_KBE:60 NAR 13f5ca81
+"{V0604}{W12}Because,{W39} there's{W1} no{W1} way{W1} that{W4}...{W85}{P3}{Fe8m6}{W10} there's{W1} no{W2} way{W2} it{W6} could{W1} be."
+
+@NAR_KBE:61 NAR 9f965fbf
+"{V0605}{W12}What a fool,{W15} I am.{W45} {Ec}{W5}{F6}{Eo}I didn't even look properly,{W30} {Fe9}{Ec}and I{W4} made a fuss{W4} all on my own,{W12} and got{W4} hurt..."
+
+@NAR_KBE:63 NAR 58f99c40
+"{V0606}{W12}Senpai,{W4}{W4} I'll{W4} be{W4} going now.{W54} {Ec}I'm going{W1} to{W6} cool{W8} my{W1} head a bit."
+
+@NAR_KBE:67 PLY 9e9b29ae
+"Ah... Narumi..."
+
+@NAR_KBE:68 PLY 9cede81b
+(I'm sorry... I... What a terrible person I am...)
+
+@NAR_KBE:69 PLY 772be3f3
+(I have to sort out my feelings quickly. Before it's too late to fix anything...)
+
+@NAR_KBE:70 NAR 5dfba166
+"{V0607}{Nm}{W3}{W12}{W10}..."
+
+@NAR_KBE:71 NAR 4901d23b
+"{V0608}{W12}So the other day{W8}{W2}...{W63} I wasn't{W4} seeing things, was I."
+
+@NAR_KBE:74 NAR 7828f26c
+"{V0609}{W10}Oh{W2} no{W2},{W6} come{W2} on.{W54} Besides{W10} me{W2},{W6} there's{W42} {Ec}someone{W1} else{W1} you{W1} like{W4}, isn't{W1} there?"
+
+@NAR_KBE:76 NAR ce166301
+"{V0610}{W15}If{W5} you{W2} like{W5} Hoshino{W5}{W3}{W1}{W1},{W87} {F9}{Ec}then{W3} please{W4} just{W2} tell{W1} me so right away."
+
+@NAR_KBE:77 NAR 9873e5b7
+"{V0611}{W15}I{W8}...{W8} what{W1} a{W1} fool{W2} I am.{W80} Hoshino{W5} is{W1} so{W5} pretty,{W5}{W5}{W1}{W1}{W1}{W48} {Ec}slender{W5},{W1}{W1}{W52} kind{W5}{W1}{W1},{W60}...{W3}{Eh} and{W63} {Fe9m6}{Eo}she's{W3} in{W4} your{W15} class{W4}."
+
+@NAR_KBE:78 NAR 3c794339
+"{V0612}{W8}I don't stand a chance against her..."
+
+@NAR_KBE:79 NAR 05348ab4
+"{V0613}{W8}That person{W4}...{W30} she's the one{W1} who's{W3} often{W4} in{W1} the library{W1}, {W1}right{W1}?{W1}{W5}"
+
+@NAR_KBE:80 NAR 44370a49
+"{V0614}{W12}She's{W6} kind{W2}{W2},{W36} beautiful{W1}{W1}{W1},{W30} {Ec}and so{W2} very{W3} attentive{W2}{W1}{W1}{W1}...{W90} {Fe9m6}{Eo}Me{W9}{W2}{W1}{W1}...{W99} I{W1} don't{W1} stand a chance."
+
+@NAR_KBE:81 NAR 81f16fba
+"{V0615}{W12}If{W6} you{W7} like{W5} Mizusawa{W5}{W3}{W1}{W1},{W45} then{W1} just{W5} tell{W5} me{W2} so right away."
+
+@NAR_KBE:82 NAR efcbedfe
+"{V0616}{W21}Sigh{W3}...{W39} {Ec}I{W8} really am a fool.{W100} {Eh}Mizusawa{W4}{W4}{W3}{W4} is beautiful,{W18} and{W36} {Ec}popular{W4}{W1}{W1}{W4}{W1} with the boys,{W36} {Fe9}{Eo}so I don't stand a chance..."
+
+@NAR_KBE:84 NAR 34c31376
+"{V0617}{W8}If{W1} you{W1} like{W1} Asuka{W5}{W5}{W2},{W75} then just tell me so right away{W4}{W1}{W2}{W1}."
+
+@NAR_KBE:85 NAR 45d2f9e2
+"{V5025}{W10}I{W10} can't compete.{W70} {Eh}Asuka is such a wonderful person,{W35} even I look up to her.{W95} {Ec}Me, I...{W60} I don't stand a chance."
+
+@NAR_KBE:86 NAR 80ff4d0a
+"{V0618}{W15}Futami{W4}{W1}{W5}{W5} is{W3} really{W60} smart{W2}{W1}{W1}{W12}{W2} and{W15} famous{W4}{W4}{W1}{W5}{W1}, isn't she..."
+
+@NAR_KBE:87 NAR c9e82e86
+"{V0619}{W15}And,{W30} she's beautiful,{W18} {Ec}and she's tall{W4}, too...{W93} {F9}{Eo}Me,{W8} I...{W15} I don't stand a chance."
+
+@NAR_KBE:89 NAR 4e1b3563
+"{V0620}{W21}Shijou{W3}{W12}{W6}{W6}, {W33}she's{W1} a{W2} young lady{W2} who{W1} lives{W4} in{W1} a{W1} huge{W1} mansion{W1}{W2}{W2}{W6}{W6}{W1}{W1}, right?"
+
+@NAR_KBE:90 NAR 37869199
+"{V0621}{W15}And on top of that,{W45} she's{W2} so{W2} beautiful{W2} and{W2} so{W1} graceful{W1}{W1},{W42} {Ec}{W2}{W2}{W2}{W1}{W1}...{W105} {Fe9m6}{Eo}Me{W9}{W1}{W1}...{W87} I{W1} don't{W1} stand{W1} a{W1} chance."
+
+@NAR_KBE:91 NAR 6507025f
+"{V0622}{W12}Kuryuu{W1}{W10}{W6}{W6} is on the Discipline Committee,{W60} and{W3} she's{W1} a{W1} very{W3} responsible,{W54}{W1}{W1}{W1}{W5}{W5}{W5}{W1} {W43}dependable person{W5}{W1}{W1}{W1}, right?"
+
+@NAR_KBE:92 NAR d8a2c8bb
+"{V0623}{W12}And,{W102} she's{W1} so{W2} very{W3} beautiful{W1}{W1}{W1}...{W121} {Ec}Me{W8}...{W48} I don't stand a chance."
+
+@NAR_KBE:93 NAR 376d13b8
+"{V0624}{W12}But,{W89} if that's so...{W96} {Ec}why{W4}{W2} me{W9}..."
+
+@NAR_KBE:94 PLY f20df96b
+"Narumi, I'm sorry... I..."
+
+@NAR_KBE:95 NAR bccb73ba
+"{V0625}{W8}Don't{W4} say{W1} anything{W1} more!"
+
+@NAR_KBE:96 NAR d79a344b
+"{V0626}{W12}I{W1} don't{W1} want{W5} to{W3} hear{W1} anything{W1} more{W1} at{W1} all{W1}!{W60} {Eo}As{W5} for you,{W5} Senpai{W2}{W1}{W1},{W48} {Ec}I{W2} totally{W3} utterly{W5} hate{W2} you!"
+
+@NAR_KBE:97 NAR ffa437ca
+"{V0627}{W12}Never{W3} again{W3}...{W55} {Ec}I{W1} won't{W1} ever{W1} see you again!{W65} {Fe9}{Eo}Don't talk{W9} to{W1} me{W5} anymore{W1}{W1}{W1}{W1}!"
+
+@NAR_KBE:100 NAR 43fa35c7
+"{V0628}{W15}Goodbye!"
+
+@NAR_KBE:101 PLY 471fac2d
+(...I... I did something I can't take back...)
+
+@NAR_KBE:102 PLY 3cb8dc65
+(Narumi... I'm sorry...)
+
+@NAR_KBE:103 NAR a28ee975
+"{V0629}{Nm}{W3}{W12}{W10}..."
+
+@NAR_KBE:104 NAR 8edbecf4
+"{V0630}{W12}So{W2} the{W2} other day{W9}{W2},{W47} I{W1} wasn't{W4} mistaken{Eo} after all."
+
+@NAR_KBE:105 NAR 9697c2aa
+"{V0631}{W12}That's{W1} cruel{W1}{W1}, Senpai{W8}{W4}{W4}.{W90} I can't trust{W5} anything{W3} anymore{W5}{W1}."
+
+@NAR_KBE:106 NAR 724b3306
+"{V0632}{W12}Because{W1}, {W60}she{W1} is a{W6} different{W9} girl{W5} from{W2} last{W2} time{W1}, you know{W2}."
+
+@NAR_KBE:108 NAR 777c475d
+"{V0633}{W12}How{W9} many{W1} girls{W1} like me{W1} are{W33} there{W1} at{W4} all{W4}, exactly{W5}?"
+
+@NAR_KBE:109 PLY e6805060
+"Narumi... that's..."
+
+@NAR_KBE:110 NAR 98841097
+"{V0634}{W15}Don't{W4} say{W1} anything{W1}!"
+
+@NAR_KBE:111 NAR 4df69d65
+"{V0635}{W12}As for you,{W6}{W6} Senpai{W1}{W1}...{W60} {Ec}you{W5}{W5}, Senpai,{W60} {Eo}I{W2} utterly{W3} hate{W4} you!"
+
+@NAR_KBE:112 PLY 7dae436f
+"Ah! Narumi!"
+
+@NAR_KBE:113 PLY e0164981
+(I... I... I'm hopeless. I couldn't choose just one, and I let things drag on indecisively until it came to this...)
+
+@NAR_KBE:114 PLY 4de7c50b
+(I... I...)
+
+@NAR_KBE:115 NAR 88a9e9b7
+"{V0638}{W12}Surely{W1}, {W48}you{W5} won't{W5} make{W2} the excuse{W4} that you{W3} forgot{W4} our{W7} promise{W45}, will{W1} you{W1}{W5}?"
+
+@NAR_KBE:116 NAR 8b1fac7a
+"{V0609}{W10}Oh{W2} no{W2},{W6} come{W2} on.{W54} Besides{W10} me{W2},{W6} there's{W42} {Fe9}{Ec}someone{W1} else{W1} you{W1} like{W4}, isn't{W1} there?"
+
+@NAR_KBE:117 NAR 71fc49a7
+"{V0704}{Nm}{W3}{W12}{W8}..."
+
+@NAR_KBE:118 NAR 01d61278
+"{V0705}{W18}Surely{W2}, {W30}you{W5} won't{W5} make{W3} the excuse{W4} that you{W3} forgot{W3} our{W6} promise,{W36} will{W1} you{W1}{W6}{W1}{W1}{W2}{W1}?"
+
+@NAR_KBE:119 NAR 0bf1a535
+"{V0706}{W18}That's{W3} cruel{W2}{W1}{W1}, Senpai{W8}{W5}{W5}.{W70} {Eo}I can't trust{W4} anything{W3} anymore."
+
+@NAR_KBE:120 NAR 5c01dc59
+"{V0707}{W12}Because,{W45} she's{W8} not{W1} the{W3} girl{W4} you{W1} were{W1} walking home with {Fe9}{Ec}the other day{W6}{W2}{W3}{W1}{W1}."
+
+@NAR_KBE:121 NAR 11c799c6
+"{V0708}{W12}How{W9} many{W1} girls{W1} like{W1} me{W1} are{W1} there{W69} at{W1} all{W4}, exactly{W4}{W4}?"
+
+@NAR_KBE:122 NAR 4c60e0d6
+"{V0709}{W15}Don't{W4} say{W1} anything{W1}!"
+
+@NAR_KBE:123 NAR 57cc2ec7
+"{V0710}{W15}As for you,{W6}{W6} Senpai{W2}{W1}...{W60} you{W5}{W5}{W1}{W1}, Senpai,{W45} {Ec}I{W3} utterly{W4} hate you!"

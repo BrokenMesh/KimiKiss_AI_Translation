@@ -1,0 +1,668 @@
+# NAR_MAT -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_MAT:19 NAR 4e9fa176
+"{V2541}{F3}{W4}{Nm}{W2}{W3}{W1}"
+
+@NAR_MAT:21 PLY 3150f24e
+"What?"
+
+@NAR_MAT:24 NAR b8d2cfa6
+"{V2542}Well{W6} then,{W10} I{W58} {Ec}{Fe2m3}should{W2} be{W2}{W2} going{W2} soon."
+
+@NAR_MAT:25 PLY 18b0ca17
+"Oh, I see."
+
+@NAR_MAT:27 NAR fc47c76a
+"{V2543}{F3}Yes.{W4}{W29} {Fe2}{Eo}Well{W9} then, I'll{W2} be going{W1} now."
+
+@NAR_MAT:28 PLY e03a6130
+"Yeah, see you."
+
+@NAR_MAT:29 NAR 7b2b7dc7
+"{V2544}{Ec}Yes.{W2}"
+
+@NAR_MAT:30 PLY 587a5661
+(Narumi really seems to look up to me.)
+
+@NAR_MAT:32 PLY 7b36c455
+(So frank and cheerful... she's a good kid.)
+
+@NAR_MAT:34 NAR 910669bf
+"{Fe9m3}{Nm}{V0302}?{W7}{W4}"
+
+@NAR_MAT:35 PLY 21e4acd1
+"Huh?!"
+
+@NAR_MAT:36 NAR 2c8a9158
+"{V0303}{Fm4}What's{W5} wrong?{W18} You{W4}{W3} suddenly{W3}{W3} went{W3}{W2} so{W2}{W2} quiet...{W48} {Fm3}Are{W5} you{W4} lost{W5}{W4} in{W4} thought?"
+
+@NAR_MAT:37 PLY 503198bd
+"Oh... no, it's nothing. Hahaha..."
+
+@NAR_MAT:38 NAR bdbb89dc
+"{V0304}{F4}{Mo}......{W2}{W1}{W1}"
+
+@NAR_MAT:39 NAR d15ed51d
+"{V0305}{Mc}{F2}{Ec}Hehe,{W45} {Fe9m3}you're{W4} weird,{W3}{W4} Senpai."
+
+@NAR_MAT:40 PLY 401a8607
+"Hahahahaha..."
+
+@NAR_MAT:41 NAR dd433d8e
+"{V0306}{Eo}Well,{W3}{W11} I'm{W21} going{W2}{W2}{W2}{W2} now.{W31} {F3}I have to change."
+
+@NAR_MAT:42 PLY 64055989
+"I see. See you, Narumi."
+
+@NAR_MAT:43 NAR 3ea78f1a
+"{V0307}{F2}{Ec}Yes!{W3}"
+
+@NAR_MAT:44 PLY 827bbfa7
+"That's not fair T_T You again, MAT! Enough already."
+
+@NAR_MAT:49 NAR b8630cd6
+"{V2545}{W12}Senpai...{W7}"
+
+@NAR_MAT:50 NAR 7bec1628
+"{V2546}{Fm3}I'm{W4} sorry{W6}{W4} to{W3} leave{W5} in{W4}{W4} the{W6} middle{W4} of{W4}{W4} our{W4} talk.{P2}{W43} I have{W10} to{W1}{W1}{W1}{W1}{W1} go{W1}{W1}{W1}{W1}{W1} now..."
+
+@NAR_MAT:51 NAR 281b41ac
+"{V2547}{Ec}I{W4} wanted{W4}{W5} to{W1} talk{W2}{W2} to{W1} you{W3}{W1} about{W1} something,{W1}{W1} too,{W1} Senpai..."
+
+@NAR_MAT:52 PLY f596f20c
+"Huh? Really?"
+
+@NAR_MAT:53 NAR 54615354
+"{V2548}Yes...{W6}"
+
+@NAR_MAT:54 NAR d72bebb0
+"{V2549}{Eo}{Fe6}But,{W3}{W14} I have to go now...{W39}{P0} {F3}{W15}Senpai, I'll be{W2} going now."
+
+@NAR_MAT:55 NAR b8f717df
+"{V2550}Yes.{W7}"
+
+@NAR_MAT:56 NAR 19f62187
+"{V2551}Senpai...{W9}{W6}{W2}"
+
+@NAR_MAT:58 NAR b976182c
+"{V2552}{Fm3}{W10}I'm{W4} sorry{W2}{W2} to{W3} leave{W2} in{W2}{W4} the{W2} middle{W2} of{W2}{W2} our{W8} talk.{P2}{W35} I have to go now..."
+
+@NAR_MAT:59 NAR e7a56eb7
+"{V2553}{Fe6}I{W3} was{W1} having{W1}{W1} such{W1} a{W2} nice{W2} talk{W1}{W2} with{W1} you,{W1} Senpai,{W23} {Fe9}{Ec}and now I'm so disappointed..."
+
+@NAR_MAT:60 PLY 9c69292b
+"Hahaha, if you have something to do, it can't be helped."
+
+@NAR_MAT:62 NAR 032ae7e6
+"{V2554}{Eo}Yes...{W5}{W1}{W1}{W15}{P0}{Fm3}{W40} I'll be going now."
+
+@NAR_MAT:63 PLY ca2ae96b
+"Yeah. See you."
+
+@NAR_MAT:64 NAR a6c62e9e
+"{V2555}Yes."
+
+@NAR_MAT:67 NAR 19de7138
+"{V0332}{W4}{Nm}...{W8}{W4}{W3}{W37} I...{W30} Senpai, there's something I'd like{W5} to talk to you about."
+
+@NAR_MAT:68 PLY 6404d14b
+"Huh? What is it?"
+
+@NAR_MAT:69 NAR 26abfae8
+"{V0333}{Fe6m3}Not{W5} right{W2} now...{W50} {Fe9m6}I have to change soon, too..."
+
+@NAR_MAT:70 PLY 696225c1
+"I see."
+
+@NAR_MAT:71 NAR a99ed70e
+"{V0334}Next{W2}{W2} time,{W30} I'll definitely{W4} tell you."
+
+@NAR_MAT:72 NAR 698d2fce
+"{V0335}{F3}Well{W2} then,{W20} I'll be{W8} going now,{W2} Senpai."
+
+@NAR_MAT:73 PLY d1990596
+"Yeah. See you, Narumi."
+
+@NAR_MAT:74 NAR f05604d7
+"{V0307}{F2}Yes!{W3}{Ec}"
+
+@NAR_MAT:75 PLY 9fd6d065
+(Something she wants to talk about... What could it be?)
+
+@NAR_MAT:76 PLY 88a44220
+"Narumi, if you're free, want to walk home together today?"
+
+@NAR_MAT:77 NAR cb408f28
+"{V2561}Yes!{W7}{W1}{W10} {Ec}I'm{W1}{W1} so{W1}{W1} happy~!"
+
+@NAR_MAT:78 PLY 91f51f3e
+"Then let's meet at the school gate after school."
+
+@NAR_MAT:79 NAR ca9c59ac
+"{V2562}{Eo}Yes!{W3}{W11} Understood."
+
+@NAR_MAT:80 PLY c95d5951
+"Then see you after school."
+
+@NAR_MAT:82 NAR cd59cfc7
+"{V2563}Yes!{W3}{W11} {Eo}Senpai,{W31} I'll be going now."
+
+@NAR_MAT:83 NAR 19ecbe30
+"{V2556}{F4}Huh?!{W2}{W14} Really?!{W3}{W3}{W1}{W1}{W33} {Ec}{F2}I'm{W1}{W1}{W1}{W1} so{W1}{W1}{W1}{W1} happy~!"
+
+@NAR_MAT:84 PLY 0f368a5f
+(Wow... she's this happy about it.)
+
+@NAR_MAT:86 NAR 731ae6e3
+"{V2557}Senpai,{W2}{W2}{W30} {Fm3}where should we meet?{W38} {Fm4}Shall I come to your classroom?"
+
+@NAR_MAT:87 PLY 1acb6ae6
+"No, um... is meeting at the school gate after school okay?"
+
+@NAR_MAT:88 NAR 368d37bd
+"{V2558}{F2}Yes!{W3}{W19} {Fe8m3}I'll run there!"
+
+@NAR_MAT:89 PLY 77aa955d
+"Hahaha, you don't have to run."
+
+@NAR_MAT:90 NAR e3d881e5
+"{V2559}{Ec}{Fe2m3}Ehehe{W3}{W3}{W3}"
+
+@NAR_MAT:91 NAR 08804601
+"{V2560}{F3}{Eo}Yes! {W3}{W5}{Nm},{W19} I'll be going now.{F2}{Ec}"
+
+@NAR_MAT:92 NAR 9f3cc103
+"{V2564}{F2}Yes!{W4}{W2}{W25} {Ec}I'm so happy~!"
+
+@NAR_MAT:93 PLY ed571c89
+"Then, where we meet is..."
+
+@NAR_MAT:94 NAR 2e6dded7
+"{V2565}Ah...{W3}{W2}"
+
+@NAR_MAT:95 PLY 122df4f6
+"Huh?"
+
+@NAR_MAT:96 NAR cfdd7e9d
+"{V2566}{F9}Senpai,{W4}{W2}{W40} I'm sorry.{W46} {Ec}I{W4} have{W3} something{W4} to{W4} do{W3} after school{W3} today,{W10} I{W4}{W3}{W3}{W2} just{W2}{W2}{W2}{W2}{W2} remembered..."
+
+@NAR_MAT:97 PLY e43f389d
+"I see."
+
+@NAR_MAT:98 NAR 1e9166cf
+"{V2567}{Eo}And{W3} you{W1}{W1} were{W1} kind{W1} enough{W1}{W1} to{W1} invite{W1}{W1} me,{W1} Senpai..."
+
+@NAR_MAT:99 NAR 726502a9
+"{V2568}{Fm8}Please{W3} ask{W5} me{W1} again~!"
+
+@NAR_MAT:100 PLY cc4af171
+"Okay."
+
+@NAR_MAT:101 NAR 836f6b29
+"{V2569}{Fm4}...Well then, Senpai.{W27} {Fm3}I'll{W1} be going{W1} now."
+
+@NAR_MAT:102 NAR a1da6863
+"{V2570}Yes."
+
+@NAR_MAT:104 NAR 033e7c30
+"{V2577}Yes!{W8}{W10} {Ec}I'm so happy~!"
+
+@NAR_MAT:105 PLY bfce1f08
+"...Huh? But Narumi, didn't you have something to do after school?"
+
+@NAR_MAT:106 NAR 5b6316a6
+"{V2578}{Eo}{Fm4}As{W6}{W1}{W1} luck{W2}{W1} would{W1}{W1}{W1} have{W1}{W1}{W1} it,{W18}{Fm3} that just got canceled."
+
+@NAR_MAT:107 NAR cde53101
+"{V2579}{F2}{Ec}Yes!{W3}{W10} Understood.{W1}"
+
+@NAR_MAT:108 NAR 1ac7dae1
+"{V2580}{Eo}Yes! {W3}{Nm},{W17} I'll{W1} be going{W1} now."
+
+@NAR_MAT:109 NAR 8f6f5d2d
+"{V2571}{F4}Huh?!{W2}{W13}{Fm3} Really?!{W3}{W3}{W2}{W2}{W33} {Ec}{F2}I'm so happy~!"
+
+@NAR_MAT:111 PLY 406e3277
+"Huh? But Narumi, didn't you have something to do after school?"
+
+@NAR_MAT:112 NAR 7afe11b9
+"{V2572}As{W7}{W1}{W1} luck{W1}{W1} would{W1}{W1}{W1} have{W1}{W1}{W1} it,{W11} {Fm3}{Ec}that just got canceled."
+
+@NAR_MAT:113 NAR dc6e0214
+"{V2573}{Eo}{Fm4}So,{W5} Senpai,{W40} {Fm3}where{W1}{W1}{W1}{W1} should{W1}{W1}{W1} we{W1}{W1}{W1}{W1} meet?{W33} {Fm4}Shall{W3}{W3} I{W2}{W3}{W2} come{W2}{W1} to{W1}{W1}{W1} your{W1}{W1} classroom?"
+
+@NAR_MAT:114 NAR 183d2a28
+"{V2574}{Fe8m3}Yes!{W7}{W14} I'll run there!"
+
+@NAR_MAT:115 NAR e811d0a5
+"{V2575}Ehehe{W3}{W3}{W3}"
+
+@NAR_MAT:116 NAR 5f5e2a37
+"{V2576}{Eo}Yes! {W3}{Nm},{W19} I'll be going now."
+
+@NAR_MAT:117 PLY 0177a518
+"That's not fair T_T"
+
+@NAR_MAT:119 NAR 4510d72a
+"{V2581}{Fe9m4}{W10}Senpai{W10}...{W7}"
+
+@NAR_MAT:120 NAR c328218d
+"{V2582}{Ec}I'm{W4} sorry{W5}{W4} to{W4} leave{W4} in{W4}{W4} the{W6} middle{W4} of{W4}{W4} our{W4} talk.{W28} {Eo}{Fe9m3}I have{W3} to go{W1} now..."
+
+@NAR_MAT:122 NAR 5916ee13
+"{V2583}I{W7} was having{W1} such a{W1} nice talk{W3} with you,{W9} Senpai, {Ec}and now I'm so disappointed..."
+
+@NAR_MAT:123 NAR 1a443bd1
+"{V2584}{Eo}Yes...{W4}{P0}{Fe6m3}{W25} I'll be going now."
+
+@NAR_MAT:124 NAR 58ac1aca
+"{V2585}Yes.{W3}"
+
+@NAR_MAT:125 NAR 5359e363
+"{Fe9m4}{V0390}{W3}{Nm},{W67} would you{W3} do{W40} one favor{W14} for me?"
+
+@NAR_MAT:126 PLY 5722d239
+"A favor? What kind?"
+
+@NAR_MAT:127 NAR dcc347fc
+"{V0394}Ah...{W3}{W68} but, {W1}{W1}{Fe6}there{W2} are people{W1} around..."
+
+@NAR_MAT:128 NAR e2239b9c
+"{V0395}{Fe9m1}{W20}Senpai,{W33} next time,{W35} when it's just the two of us, could I ask you?"
+
+@NAR_MAT:129 PLY 748ef5d7
+"S-sure, but..."
+
+@NAR_MAT:130 NAR a571cd58
+"{V0396}{Fm6}Promise{W3}{W3}{W3} me,{W3}{W3}{W3} okay!{W25} {Fm3}Well then,{W10} I'll be going now."
+
+@NAR_MAT:131 PLY 8ed27b65
+(A favor that has to be asked when we're alone... What could it be?)
+
+@NAR_MAT:132 NAR 58880d82
+"{V0391}Ah...{W4}{W55} {Fe9m3}But,{W4} I{W3} have to{W1} go{W1} change{W1} now."
+
+@NAR_MAT:133 PLY 2ccff8c4
+"I see. We did talk for quite a while."
+
+@NAR_MAT:134 NAR b6a16046
+"{V0392}{Fm4}Next{W3}{W2} time,{W28} may I ask my favor?"
+
+@NAR_MAT:135 PLY cf543578
+"Sure, go ahead."
+
+@NAR_MAT:136 NAR f40a8c8f
+"{V0393}Yes!{W3}{W31} Well{W3} then, {Ec}I'll be going now."
+
+@NAR_MAT:137 PLY dac1331f
+"See you."
+
+@NAR_MAT:138 NAR a5f34ea9
+"{V2592}{F4}Really?!{W9}{W6}{W7}{W4}{W4}{W4}{W13} {F2}{Ec}I'm so happy~!"
+
+@NAR_MAT:139 PLY a7d301ee
+"Then is meeting at the school gate after school okay?"
+
+@NAR_MAT:140 NAR 55c158e2
+"{V2593}Yes! {W3}{W1}{W7}{Eo}Understood."
+
+@NAR_MAT:141 NAR e539e01f
+"{V2594}I'm{W2}{W2} already{W2}{W2} looking{W2} forward{W2}{W1} to{W1}{W1} it~!"
+
+@NAR_MAT:142 NAR f997667f
+"{V2595}{Eo}{F3}Senpai,{W3}{W35} I'll be going now."
+
+@NAR_MAT:143 NAR b812d381
+"{V2596}{F4}Ah...{W3}{W60} {Fe9}Senpai{W10},{W65} {Fm3}about{W3}{W3} that...{W43} I{W1}{W1}{W1}{W1} can't{W1}{W1}{W1}{W1} today."
+
+@NAR_MAT:144 PLY 542af83a
+"I see..."
+
+@NAR_MAT:145 NAR 5eba353e
+"{V2597}Uuh...{W3}{W2}{W2}{W48} You{W1}{W1} were{W1}{W1} kind{W2}{W2} enough{W2} to{W2}{W2} invite{W2}{W1} me,{W1}{W1} Senpai,{W1}{W2} and {Ec}I can't go..."
+
+@NAR_MAT:146 NAR 8a6e925e
+"{V2598}Please{W5} ask{W1}{W1} me{W2} again{W1}{W2} sometime~!"
+
+@NAR_MAT:147 NAR c4e49209
+"{V2599}{Fm4}Promise me,{W2} okay?"
+
+@NAR_MAT:148 NAR c4b396ff
+"{V2600}{Fm3}Well then,{W19} I'll be going now..."
+
+@NAR_MAT:149 NAR 0b035386
+"{V2601}{F2}Really?!{W9}{W7}{W7}{W5}{W5}{W4}{Ec}{Mo} {W22}Yaaay!{W2}{W2}{W6}{W7}{W7}{W6}{W35} {Eo}{Fm4}{Mc}My errand for after school{W20} just{W3}{W2}{W3}{W2} got{W3}{W2}{W1} canceled{W2}{W2}{W2}{W2} a{W2}{W2}{W2} moment{W2}{W2}{W2}{W2} ago{Fm3}."
+
+@NAR_MAT:150 PLY 36ddc6cd
+"Oh, really? Then is meeting at the school gate after school okay?"
+
+@NAR_MAT:151 NAR 9a76fc80
+"{V2602}{Ec}Yes!{W3}{W15} Understood.{W1}{W1}{W1}{W1}"
+
+@NAR_MAT:153 NAR 1616eb03
+"{V2603}I'm already looking{W2} forward to it~!"
+
+@NAR_MAT:154 NAR 3503827e
+"{V2604}{Eo}{F3}Senpai,{W6}{W2}{W35} I'll be going now."
+
+@NAR_MAT:156 NAR fd6cfbff
+"{V2605}{Fe9m4}{Nm}...{W3}{W5}{W3}"
+
+@NAR_MAT:157 PLY 20684f7f
+"Narumi... what's wrong? You look so serious."
+
+@NAR_MAT:158 NAR 51dae1d1
+"{V2606}{F4}{Fm3}{Ec}No.{W6}{W3}{W3}{W50} {Eo}{Fe6}It's{W2}{W1}{W1}{W1}{W1} nothing..."
+
+@NAR_MAT:159 PLY bf4b9545
+"Even if you say it's nothing, you don't look like it..."
+
+@NAR_MAT:160 NAR 4fc9d47d
+"{V2607}I'm{W8} sorry,{W4}{W4} Senpai.{W40} {Fm4}I've got{W40} something to do,{W43} {Fm3}so I have to go now..."
+
+@NAR_MAT:161 NAR dabbe9ce
+"{V2608}Well{W6} then,{W27} I'll{W2} be{W2}{W1} going{W1} now."
+
+@NAR_MAT:162 NAR 5c287587
+"{V533}{F4}......{W4}{W4}{W4}"
+
+@NAR_MAT:163 PLY bd09fe50
+"Hm?"
+
+@NAR_MAT:164 PLY dcd2ecaf
+"Narumi?"
+
+@NAR_MAT:165 NAR 2d429ee4
+"{V534}......{W4}{W4}{W4}"
+
+@NAR_MAT:166 PLY c352a6ee
+"Hey, Narumi!"
+
+@NAR_MAT:167 NAR d41a86b0
+"{V535}{Eo}{F4}Ah!{W3}"
+
+@NAR_MAT:168 PLY c8749112
+"Were you thinking about something?"
+
+@NAR_MAT:170 NAR 96edc5c4
+"{V536}S-{W3}{W33}sorry...{W2}{W2}{W3}{W3}{W3}"
+
+@NAR_MAT:171 NAR 922d02d3
+"{V537}{Fm3}I{W8} was{W8}{W8} having{W6} such{W7}{W5} a{W5} nice{W5}{W7} talk{W5} with{W5}{W5} you,{W4} Senpai,{W23} {Ec}{Fm4}and I went{W1} and started thinking about{W2} the new udon."
+
+@NAR_MAT:172 NAR afd41f0b
+"{F7}......{W3}{W3}{W3}"
+
+@NAR_MAT:173 NAR 71956d1f
+"{V539}{Fe9m4}Senpai,{W5} I'm{W2}{W3} sorry.{W19} {Fm3}I'll{W10} get going."
+
+@NAR_MAT:174 PLY d2269bca
+"Y-yeah, see you."
+
+@NAR_MAT:175 NAR 43007ebd
+"{V540}{F9}{Ec}I'll{W3} be{W3} going{W3} now."
+
+@NAR_MAT:176 - 7e07f63b
+(Character: Narumi fades out)
+
+@NAR_MAT:177 PLY c6c2100f
+(Narumi's having trouble getting her udon right. I hope she's not overworking herself.)
+
+@NAR_MAT:178 NAR 27f1fa4b
+"{V538}{F6}Ah{W3}{W2}{W2} uh...{W35} And on top of that,{W17} {Ec}I have to change now."
+
+@NAR_MAT:179 NAR d568a3ba
+"{V539}{Eo}Senpai,{W3}{W3} I'm{W3}{W3} sorry.{W20} {Fm3}I'll{W12} get{W1}{W1}{W1} going."
+
+@NAR_MAT:180 NAR 073ccae6
+"{V540}{F9}{Ec}I'll{W4} be{W2}{W2} going{W1} now."
+
+@NAR_MAT:181 NAR 3303168c
+"{V2614}{W10}{Nm}!{W3}{W3}{W39} {Fm2}Want to walk home together today?"
+
+@NAR_MAT:182 PLY 9b856156
+"Sure, I don't mind."
+
+@NAR_MAT:184 NAR e3031ffd
+"{V2615}Yaay!{W4}{W5}{W5}{W14} Really?{W11} {Ec}Yippee~!{W3}{W2}{W3}"
+
+@NAR_MAT:185 NAR 8e5e43c2
+"{V2616}{Eo}{F3}Then,{W5}{W15} same{W1} as{W2}{W1} always,{W1} after school,{W12} we{W2} meet at{W2} the school gate,{W1} right?"
+
+@NAR_MAT:186 PLY 851b6dc4
+"Right."
+
+@NAR_MAT:187 NAR d23f359c
+"{V2617}{Ec}{Fe2m4}I'm{W3} looking{W2}{W1} forward{W1} to{W1}{W1} it,{W12} Senpai{W2}{Fm3}."
+
+@NAR_MAT:188 NAR 0030fb19
+"{V2618}Well then,{W4} I'll be{W9} going now!"
+
+@NAR_MAT:189 PLY b3850314
+"Yeah, see you later."
+
+@NAR_MAT:190 PLY c05b8bcc
+"Narumi, want to walk home together today?"
+
+@NAR_MAT:191 NAR e7dcfd3a
+"{V2622}{F9}Ah...{W3}{W3}{W36} about{W2}{W2} that...{W39} {Fm4}I{W1} have{W1} something to{W1} do{W1} today..."
+
+@NAR_MAT:192 NAR 9f80d9fa
+"{V2623}{E}{Fe6}If{W8} I'd{W4} known{W4}{W3} you{W2} were{W2} going{W2} to{W2}{W1} ask{W1} me,{W1} Senpai,{W31} {Ec}{F6}I{W3}{W3} wouldn't{W2} have{W2}{W1} made{W1} any{W1}{W1} plans..."
+
+@NAR_MAT:193 NAR 6f547507
+"{V2624}{Eo}{Fe9m6}Please{W3} ask{W2} me{W2} again~!"
+
+@NAR_MAT:194 PLY e3f8be68
+"Yeah, sure."
+
+@NAR_MAT:195 NAR 02840477
+"{V2625}{E}{Fe6m3}Promise{W3} me..."
+
+@NAR_MAT:196 NAR 0392bbc5
+"{V2626}{Ec}{Fm4}Well{W4} then,{W43} {Eo}{Fe9m3}I'll be{W1} going now..."
+
+@NAR_MAT:197 NAR 75904cd9
+"{V2627}{Nm}!{W2}{W29} {Fm2}Want to walk home together today?"
+
+@NAR_MAT:198 NAR 5484cc3e
+"{V2628}Yaay!{W4}{W8}{W8}{W1}{W18} Really? {W3}{W3}{W2}{W3}{W6}{Ec}Yippee~!"
+
+@NAR_MAT:199 PLY 27b84ace
+"Huh? I thought you said you had something to do today..."
+
+@NAR_MAT:200 NAR 6cbdf323
+"{V2629}{Eo}{Fe2m4}Oh,{W3}{W27} that{W1}{W1} errand?{W19} {Fm3}It just got canceled."
+
+@NAR_MAT:201 NAR af485f8e
+"{V2630}{Ec}Ehehe,{W3}{W2}{W2}{W24} lucky me~!"
+
+@NAR_MAT:202 NAR c8112e9e
+"{V2631}Then,{W3}{W20} same{W1}{W1} as{W1} always,{W2}{W2} after school,{W21} {Fm3}we{W2}{W2} meet{W1} at{W1}{W1} the{W1} school gate,{W1}{W1} right?"
+
+@NAR_MAT:203 NAR e58e31c4
+"{V2632}{Ec}I'm{W3} looking{W1}{W1} forward{W1} to{W1}{W1} it,{W15} Senpai.{W2}"
+
+@NAR_MAT:204 NAR aa118ec1
+"{V2633}{Eo}Well{W3} then,{W10} I'll be going now!"
+
+@NAR_MAT:205 PLY 9bc711c9
+(Narumi's such a good kid...)
+
+@NAR_MAT:206 PLY d1706b37
+(She tries so hard to keep up with me...)
+
+@NAR_MAT:207 PLY 7c1b9adf
+(It's not that she's in love with love. She really does look up to me...)
+
+@NAR_MAT:208 PLY f4de3e44
+(Narumi... What do I feel about her...)
+
+@NAR_MAT:209 PLY e8f648ce
+(Cheerful, cute... and she looks up to me so much...)
+
+@NAR_MAT:210 PLY cd76cbe1
+(Can I really answer her feelings? How do I feel about her...)
+
+@NAR_MAT:212 NAR 70c282a4
+"{V2639}{Fe9m4}{W5}{Nm},{W3}{W39} I'm sorry.{W46} {Fm3}I{W1}{W1} have{W1}{W1} something{W2}{W1} to{W1}{W1} do{W1}{W1} now..."
+
+@NAR_MAT:213 PLY df6b2731
+"O-oh, I see..."
+
+@NAR_MAT:214 NAR 080a97bc
+"{V2640}Uuh...{W4}{W72} I{W4}{W4}{W3}{W2}{W2}{W2}{Eo} want{W2} to{W5} talk{W2} with{W2} you{W2} even{W2} more,{W2} Senpai..."
+
+@NAR_MAT:215 PLY 485197b6
+"We can talk again anytime."
+
+@NAR_MAT:216 NAR 653d08ef
+"{V2641}Yeah,{W4}{W41} {F3}you're right."
+
+@NAR_MAT:217 NAR 2a7188e2
+"{V2642}Well{W3} then,{W17} I'll be going now."
+
+@NAR_MAT:218 PLY 9049c1b3
+"Yeah. See you..."
+
+@NAR_MAT:219 PLY f9f35b35
+"Narumi, want to walk home together today?"
+
+@NAR_MAT:220 NAR fde55f54
+"{V2643}{Ec}{Fe2m3}Yes,{W9}{W54} {Eo}that's fine."
+
+@NAR_MAT:221 PLY f80426d3
+"...Huh?"
+
+@NAR_MAT:222 NAR eb29574f
+"{V2644}{F4}What{W3} is{W2} it?"
+
+@NAR_MAT:223 PLY 59fd7ed7
+"Aren't you going to go 'Yay!' and get all excited?"
+
+@NAR_MAT:224 NAR 5c19b8d5
+"{V2645}{B80}{W10}Huh?{W75} Well...{W50} getting{W20} happy{W5}{W5} in{W2}{W2} such{W2} a{W5}{W7} childish{W6}{W5} way..."
+
+@NAR_MAT:225 NAR abf66f7b
+"{V2646}It's{W4} okay.{W30} {Eo}{B20}{F3}I'm{W4}{W3} savoring{W4}{W4}{W2} it{W2}{W2} inside{W2}{W2}{W2} my{W2}{W2} heart."
+
+@NAR_MAT:226 PLY 499877e1
+"R-really?"
+
+@NAR_MAT:227 NAR 4df89dfb
+"{V2647}{Ec}{Fe2m3}Yes.{W3}"
+
+@NAR_MAT:228 PLY 05f830b8
+"Then is meeting at the school gate after school okay?"
+
+@NAR_MAT:229 NAR d59ed49c
+"{V2648}{Eo}Of{W2} course!"
+
+@NAR_MAT:230 NAR 59f46810
+"{V2649}Yes.{W2}{W32} I'll be going now.{Ec}"
+
+@NAR_MAT:231 NAR 04bed560
+"{V2657}{F2}{Ec}{Mo}Yaaay!{W3}{W3}{W4}{W3}{W15} {Eo}{Mc}I'll{W1} go{W1} home with{W1} you!{W1} I'll{W1} go~!"
+
+@NAR_MAT:232 PLY e0585cbc
+"Hahaha. Then is meeting at the school gate after school okay?"
+
+@NAR_MAT:233 NAR f80ae0fb
+"{V2658}{Ec}Yes!{W3}"
+
+@NAR_MAT:234 NAR 3f245afa
+"{V2659}Yes.{W4}{W20} I'll be{W8} going now, {Eo}Senpai.{W3}"
+
+@NAR_MAT:235 NAR 0fd0b7f9
+"{V2650}{Fe9m4}Ah...{W3}{W79} Senpai,{W4}{W41} {Fm3}I{W2}{W2}{W1}{W1} can't{W1}{W1}{W1}{W1} today.{W55} I{W3} have something{W1} to{W1} do..."
+
+@NAR_MAT:236 NAR 014e82b1
+"{V2651}{F3}Please{W3}{W2}{W2} ask{W2}{W2}{W1} me{W1}{W1}{W1} again.{W27} I'll be going now."
+
+@NAR_MAT:237 PLY 4e0317c9
+(Narumi's acting so calm all of a sudden... It feels strange...)
+
+@NAR_MAT:238 NAR fcb13485
+"{V2660}{F9}Ah...{W3}{W43} about that...{W32} {Fm4}I{W2}{W2} have{W1} something{W1}{W1} to{W1} do{W1}{W1} today..."
+
+@NAR_MAT:240 NAR 4996dc49
+"{V2661}{Fe6}If{W5}{W1} I'd{W1} known{W1}{W2} you{W1}{W1} were{W1} going{W1}{W1} to{W1}{W1} ask{W1} me,{W1}{W1} Senpai,{W14} {Ec}{F6}I{W2} wouldn't have{W2} made any{W1} plans..."
+
+@NAR_MAT:241 NAR 89565371
+"{V2662}Uuh...{W3}{W1}{W1}{W53} what{W2} do{W2}{W2} I{W2} do..."
+
+@NAR_MAT:242 PLY 00bfef95
+"We can walk home together another time, Narumi."
+
+@NAR_MAT:243 NAR b0f26bda
+"{V2663}{Eh}Yeah...{W3}{P0}{Eo}{F3}{W40} you're{W1}{W1}{W1}{W1}{W1} right..."
+
+@NAR_MAT:244 NAR 6a6c998e
+"{V2664}{F2}Well{W3} then,{W10} I'll be going now, {Nm}."
+
+@NAR_MAT:245 NAR 2b6941ba
+"{V2665}{Ec}{Fe2}Yes."
+
+@NAR_MAT:246 NAR a2195c3b
+"{V2652}{F3}Yes,{W9}{W25} that's fine."
+
+@NAR_MAT:248 NAR 04bd8456
+"{V2653}{Fe4}What{W3} is{W1}{W1} it?"
+
+@NAR_MAT:249 PLY 5c23587c
+"Come to think of it, didn't you say you had something to do?"
+
+@NAR_MAT:250 NAR eb971c36
+"{V2654}{Fe9m4}Oh,{W6}{W31} I did have something,{W27} {Fm3}but{W3} it{W1} just{W1} got{W1} canceled."
+
+@NAR_MAT:251 PLY 37304476
+"I see. ...Then is meeting at the school gate after school okay?"
+
+@NAR_MAT:252 NAR f34025ae
+"{V2655}{Ec}{Fe2m3}Of{W3} course."
+
+@NAR_MAT:253 NAR bffd02c0
+"{V2656}{Eo}Yes.{W6}{W24} I'll be going now."
+
+@NAR_MAT:254 NAR 8676902a
+"{V2666}{F2}{Ec}{Mo}Yaaay!{W6}{W2}{W3}{W2}{W2}{W15} {Eo}{Mc}I'll{W1} go{W1} home{W1} with{W1} you!{W1} I'll{W1} go~!"
+
+@NAR_MAT:255 PLY 8fd607a5
+"Ah... but Narumi, didn't you say you had something to do?"
+
+@NAR_MAT:256 NAR 06577505
+"{V2667}{Ec}It's{W5}{W7}{W7}{W6}{W4} fine.{W35} {F4}{Eo}That{W2}{W3} errand,{W18} {F3}it{W1}{W1}{W1} just{W1}{W1}{W1} got{W1}{W1}{W1} canceled."
+
+@NAR_MAT:257 PLY 0b5d4f45
+"Oh, really? That's good."
+
+@NAR_MAT:258 NAR 9ae1db2c
+"{V2668}{Ec}{Fe2m3}Yes!{W5}"
+
+@NAR_MAT:259 PLY 8de3da6c
+"Then is meeting at the school gate after school okay?"
+
+@NAR_MAT:260 NAR 28dfc611
+"{V2669}Yes.{W5}{W18} The{W1}{W1}{W1} usual{W2}{W2} place,{W2}{W1}{W1} right?"
+
+@NAR_MAT:261 PLY 12f51541
+"Then I'm looking forward to it."
+
+@NAR_MAT:262 NAR 4e436353
+"{V2670}{Ec}Me{W5}{W5}{W4}{W2} too."
+
+@NAR_MAT:263 NAR df8d4d84
+"{V2671}{Eo}Well{W3} then, I'll{W9} be{W7} going now,{W1} Senpai."
+
+@NAR_MAT:264 PLY 869f9dc6
+"Narumi, you haven't forgotten our promise to walk home together, have you?"
+
+@NAR_MAT:265 NAR cd6b28ac
+"{V1686}{W10}Yes!{W10} Of course!"
+
+@NAR_MAT:266 NAR 2b60b6e5
+"{V2603}{W2}{Ec}I'm already looking forward to it~!"
+
+@NAR_MAT:267 NAR b8312731
+"{V2649}Yes.{W32} I'll be going now."

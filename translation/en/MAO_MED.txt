@@ -1,0 +1,176 @@
+# MAO_MED -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_MED:47 MAO d4255e79
+"{W3}{Nn}, {V1552}{W20}you've been{W3} on that subject{W8}{W8} ever since a while ago,{W2}{W2}{W2}{W2} you know.{Ec}"
+
+@MAO_MED:49 PLY f125d3df
+"R-right. Sorry."
+
+@MAO_MED:51 MAO 31e5ae68
+"{V1554}{W8}{Nn}'s stories{W8} are {W35}all{W3} really fun{W5}.{Ec}"
+
+@MAO_MED:52 MAO 5f349e31
+"{V1555}{W5}Fufu, {W30}{Nn}'s stories{W8} are {W15}all so wonderful{W5}."
+
+@MAO_MED:53 MAO 963a6391
+"{V1556}{W5}{Nn}, {W30}you know{W5} so many fun stories{W5}{W3}{W3}.{Ec}"
+
+@MAO_MED:54 MAO ea1d71ca
+"{V1557}{W5}Fufu, {W45}they're all pretty good stories{W8}."
+
+@MAO_MED:56 MAO 93146e4b
+"{V1566}{W5}Fufu, {W65}when I talk with {Nn}{W5}, {W30}{Eo}I lose track{W5} of time{W5}."
+
+@MAO_MED:57 MAO 53eaeea9
+"{V1567}{W5}Hey, {W30}just a little longer{W15}, {W8}let's talk some more?{F2}"
+
+@MAO_MED:58 PLY abe2742e
+"Sounds good, then..."
+
+@MAO_MED:59 SYS abf93941
+{Ti0}.{W15} .{W15} .
+
+@MAO_MED:60 SYS a1c6df68
+And so, we had a pleasant time together.
+
+@MAO_MED:62 MAO 6f41a8a8
+"{V1558}{W3}Hmm{W75}...{W15} a lot of {Nn}'s stories{W5} are {W30}so-so, {Ec}you know."
+
+@MAO_MED:63 PLY fec6c656
+"Y-you think?"
+
+@MAO_MED:64 MAO 31c3d3f0
+"{V1559}{W5}Why don't we try{W8} a different{W3} kind of topic{W5}?"
+
+@MAO_MED:65 PLY eb4f502b
+(Okay! Time to switch gears and come up with a different topic!)
+
+@MAO_MED:66 MAO dde597be
+"{V1560}{W5}{Nn}{W5}, {W50}you've got a lot of charm{W3}, you know."
+
+@MAO_MED:68 MAO 60a56911
+"{V1561}{W3}It's true. {W45}I{W5} should know, so I'm not wrong{W5}. {W30}{Eo}My heartbeat{W3} quickens{W5} when we talk{W12} together."
+
+@MAO_MED:69 PLY 6442e32f
+"Th-thanks..."
+
+@MAO_MED:70 PLY 0d30e523
+(Ugh... my heartbeat is racing and I don't know what's going on anymore.)
+
+@MAO_MED:71 MAO 0968ff00
+"{V1562}{W8}Phew..."
+
+@MAO_MED:72 PLY c8ed5e4a
+"What's wrong, Mao?"
+
+@MAO_MED:73 MAO e2016105
+"{V1563}{W5}...{W8}Lately{W5}{W5}, {W40}{Eo}my bra{W5} has{W3} gotten tight again."
+
+@MAO_MED:74 PLY 57f4ee88
+"Wh-what?!"
+
+@MAO_MED:77 MAO f3ce3d08
+"{Nn}, {W7}{V1564}{W8}want to touch{W3} and see?"
+
+@MAO_MED:78 PLY b6b3717a
+"W-what are you saying, all of a sudden?!"
+
+@MAO_MED:79 MAO 49e70b60
+"{V1565}{W5}Fufu, {W60}I'm joking{W8}{W3}, {W30}joking{W5}{W5}. {W25}{Eh}Look how red{W3} you got, {W20}so innocent{W8}{W8}.{Eo}"
+
+@MAO_MED:80 PLY cb788239
+(Ugh... I'm so flustered I don't know what's going on.)
+
+@MAO_MED:82 MAO fbf47fa7
+"{V2732}{W5}Aah, {W15}sorry, {W3}{F9}{Nn}. {W10}I just{W5} remembered{W3} something I have to do."
+
+@MAO_MED:83 PLY f596f20c
+"Huh? Really?"
+
+@MAO_MED:86 MAO 62b461d8
+"{V2733}{W5}Sorry. {W18}See you."
+
+@MAO_MED:87 PLY 1f144e40
+(Ah... she's gone... The conversation wasn't going well...)
+
+@MAO_MED:89 MAO 7d68dbca
+"{V2734}{W5}G-{W30}geez{W3}! {W30}{Ec}Saying such things all the time, {W15}{Eo}aren't you embarrassed?"
+
+@MAO_MED:90 PLY 122df4f6
+"Huh?"
+
+@MAO_MED:91 MAO 3cbed6e7
+"{V2735}{W5}Now{W3} I'm all embarrassed! {W50}{F8}Come up with a better{W3}{W2} topic{W5}, {W8}{W2}{W8}{W2}{W1}{W1}okay!"
+
+@MAO_MED:92 MAO b8fb311a
+"{V2736}{W5}See{W2} you, {Ec}{Nn}."
+
+@MAO_MED:93 PLY 5ad65645
+"Ah... Mao..."
+
+@MAO_MED:94 PLY 3d796206
+(She's gone... Did I say too many embarrassing things?)
+
+@MAO_MED:95 MAO cc658835
+"{V2737}{W5}Aaah{W5}, {W45}it's almost time{W3}. {W45}I'd like to talk more with {Nn}{W3}, {W3}though."
+
+@MAO_MED:96 PLY 851b6dc4
+"Yeah."
+
+@MAO_MED:97 MAO 8c2a683f
+"{V2738}{W5}See you. {W30}I had fun, {W8}{Nn}."
+
+@MAO_MED:98 PLY 2a7133fc
+"Yeah, see you, Mao."
+
+@MAO_MED:99 MAO 7d67c270
+"{V2739}{W3}Ah... {W35}{F9}I'd like to keep talking{W5}, but {W15}I have to go soon."
+
+@MAO_MED:100 PLY e43f389d
+"I see."
+
+@MAO_MED:101 MAO 643dd7f7
+"{V2740}{W5}See you. {W30}I had fun, {W8}{Nn}."
+
+@MAO_MED:102 MAO 440494cb
+"{V2741}{W5}It's almost time {F1}for class{W5}{W5}{W5} to start."
+
+@MAO_MED:103 MAO 68cf91e5
+"{V2742}{W10}Well,{W8} see you, {W8}{Nn}."
+
+@MAO_MED:104 PLY e03a6130
+"Yeah, see you."
+
+@MAO_MED:105 MAO 10cbb014
+"{V2743}{W15}Well, {W15}I'm heading off now, {W5}{Nn}."
+
+@MAO_MED:106 PLY a57547b7
+"Yeah, see you, Mao."
+
+@MAO_MED:107 MAO c8324091
+"{V2744}{W10}See you."
+
+@MAO_MED:108 PLY 56ff50e4
+"Mao, sorry. I have to go soon."
+
+@MAO_MED:109 MAO 624a54ad
+"{V2745}{W8}Huh? {W5}Really? {W20}Why?"
+
+@MAO_MED:110 PLY edad0425
+"I have something to do..."
+
+@MAO_MED:111 MAO 186bcb5e
+"{V2746}{W13}Really? {W40}I was having fun{W5}{W1}{W2}{W1}..."
+
+@MAO_MED:112 PLY 5603bf05
+"Let's pick up the conversation another time."
+
+@MAO_MED:113 MAO b901a961
+"{V2747}{W8}Can't be helped... {W42}{F3}Well then, {W12}see you, {Nn}."
+
+@MAO_MED:114 MAO 9401486c
+"{V2748}Oh, {W3}I see."
+
+@MAO_MED:115 MAO c1be1c2f
+"{V2749}{W8}Well then, {W3}see you, {W5}{Nn}."

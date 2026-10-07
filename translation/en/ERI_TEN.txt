@@ -1,0 +1,38 @@
+# ERI_TEN -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_TEN:39 ERI d6227f33
+"{Nm}, {V0019}{W5}good morning."
+
+@ERI_TEN:41 PLY 5727de1e
+"Oh, good morning, Futami."
+
+@ERI_TEN:42 ERI c77e0300
+"{V0020}{W5}Good morning, {Nm}."
+
+@ERI_TEN:43 PLY 0f8c3768
+"Good morning, Futami."
+
+@ERI_TEN:45 ERI a803efe2
+"{V0021}{W5}{Fe3}Oh,{W15} {Nm}.{W11}{Ec}{W4}{Eh}{Fm3} Good morning."
+
+@ERI_TEN:46 ERI 181347bb
+"{V0022}{W5}Oh,{W20} good morning, {Nm}."
+
+@ERI_TEN:47 PLY 39babd60
+"Good morning, Futami. Nice weather, isn't it?"
+
+@ERI_TEN:50 ERI b4c6c1b9
+"{V0023}{W5}Yes,{W25} {Ec}it is."
+
+@ERI_TEN:51 ERI 5cce300a
+"{V0024}{W5}{Fe3}Oh,{W40} {F3}{Ec}{B20}good morning, {Nm}."
+
+@ERI_TEN:52 ERI 17b4ca72
+"{V0025}{W4}See you,{W11}{Ec}{W4}{Eh} later."
+
+@ERI_TEN:55 ERI 0d80b9d5
+"......"
+
+@ERI_TEN:56 PLY 8d610ae3
+(Ah... she's gone. Didn't she notice me?)

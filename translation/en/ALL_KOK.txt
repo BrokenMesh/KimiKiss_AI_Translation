@@ -1,0 +1,8 @@
+# ALL_KOK -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ALL_KOK:10.1 - 4b494bdc
+
+
+@ALL_KOK:20 - 33acebbb
+{E}{P}{I}{_}{H}{A}{N}{T}{E}{I}{:}Romanceable characters{[}{W}{H}{O}{.}{g}{e}{t}{N}{u}{m}{]}

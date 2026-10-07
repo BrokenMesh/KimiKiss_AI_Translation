@@ -1,0 +1,923 @@
+# PLY_JTM -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@PLY_JTM:19 PLY e5471f23
+"Hey, Nana. Got a minute?"
+
+@PLY_JTM:22 NAN 1de5334f
+"{V0940}Yeah,{W10} sure.{W20} Come in, come in~!"
+
+@PLY_JTM:40 NAN ec79c192
+"{V0941}Big Bro,{W30} {Ec}perfect timing!"
+
+@PLY_JTM:41 PLY bd09fe50
+"Huh?"
+
+@PLY_JTM:46 NAN cf7b95e4
+"{V0942}I {Ec}wanted to ask you{W5} something~"
+
+@PLY_JTM:47 PLY 76f8d633
+"Ask me something? What is it?"
+
+@PLY_JTM:50 NAN 72a9567c
+"{V5011}{W10}Um, Big Bro.{W40} If you want,{W20} why don't we{W20} start{W5} something together?"
+
+@PLY_JTM:51 PLY 8a7752c3
+"Something? ...What kind of something?"
+
+@PLY_JTM:52 NAN d70a8b47
+"{V5012}{W10}Well,{W15} even you{W30} have free nights,{W15} right?{W30} {F2}I thought it'd be nice{W30} if the two of{W5} us{W5} could do{W10} something{W10} then..."
+
+@PLY_JTM:53 PLY 634f9920
+"Oh..."
+
+@PLY_JTM:54.1 - c2b11606
+{Ti0}- No thanks／- Good idea
+
+@PLY_JTM:55 PLY c2e5c479
+"No thanks."
+
+@PLY_JTM:56 NAN 3e0064be
+"{V0943}{W10}Awww,{W30} why not?"
+
+@PLY_JTM:57 PLY f7fe44c5
+"I want to spend my nights quietly by myself. See you."
+
+@PLY_JTM:58 NAN 120d7f0f
+"{V0944}{W10}Aww,{W30} {F6}Big{W5} Bro..."
+
+@PLY_JTM:63 PLY 47e2eefb
+(Well, back to my room...)
+
+@PLY_JTM:64 PLY 3a345852
+"Good idea."
+
+@PLY_JTM:66 NAN 645a0d30
+"{V0945}{W10}Rig{W5}ht{W5}?"
+
+@PLY_JTM:67 PLY a11fd3bb
+"...So what are we going to do?"
+
+@PLY_JTM:68 NAN a44c61e8
+"{V0946}{W5}Let's{W20} see{W10}...{W40} {F3}How about cards?"
+
+@PLY_JTM:69 PLY 4dbd08c6
+"Cards? With just two people, there's not much we can play."
+
+@PLY_JTM:70 NAN 8f5363a4
+"{V0947}{W5}Oh,{W35} right...{W5}"
+
+@PLY_JTM:71 NAN 2ff0ddd4
+"{V0948}{W5}Then,{W15} {F3}how about sugoroku?"
+
+@PLY_JTM:72 PLY 227c7e73
+"...Playing the same board game over and over, though."
+
+@PLY_JTM:73 NAN 385023c1
+"{V0949}{W5}Hmph,{W30} Big Bro,{W35} {Ec}you just complain."
+
+@PLY_JTM:74 NAN 557fa425
+"{V0950}{W10}You think of{W20} something you want{W15} to do too~!"
+
+@PLY_JTM:75 PLY f3fa6560
+"Hm? Let's see..."
+
+@PLY_JTM:76.1 - 5f10fbfd
+{Ti0}- Mahjong／- Putting golf
+
+@PLY_JTM:79 PLY e5aa1f64
+"How about mahjong?"
+
+@PLY_JTM:80 NAN 51482b7e
+"{V0951}{W10}Mah{W10}jong?{W55} {F7}Isn't that the one{W20} where you say "Ron!"{W10} and{W10} "Pon!"{W5} and stuff?{W10}{F2}"
+
+@PLY_JTM:81 PLY 31206315
+"Hey, you know quite a bit."
+
+@PLY_JTM:82 NAN 6ab66f6d
+"{V5013}{W10}Don't you play it with four people?{W20}"
+
+@PLY_JTM:83 PLY 0c7b76cb
+"Two is plenty just to learn the rules. And there are ways to play with two, too."
+
+@PLY_JTM:84 NAN 29bf8e90
+"{V5014}{W10}Hm{W10}mm,{W50} mah{W10}jong{W20}...{W5}"
+
+@PLY_JTM:85 PLY bf757697
+"It's really fun."
+
+@PLY_JTM:86 NAN e1bea78b
+"{V5015}...Okay,{W5} got it!{W15} I'll try it!"
+
+@PLY_JTM:87 PLY bdde47b2
+"All right! Let's try it right now!"
+
+@PLY_JTM:88 PLY 4220d726
+"Wait here a sec, I'll go get the mahjong tiles."
+
+@PLY_JTM:89 NAN 29dfb596
+"{V0952}{W5}Okay!"
+
+@PLY_JTM:92 SYS 14a599aa
+And so I started teaching Nana mahjong from time to time.
+
+@PLY_JTM:106 PLY c6be5b39
+"Okay, these three tiles are ii-suu-chii."
+
+@PLY_JTM:107 NAN 70ea06d9
+"{V0985}{F4}{W5}Ii,{W5} suu,{W5} chii?"
+
+@PLY_JTM:108 PLY 237a5525
+"Right. And this is ryan-uu-paa."
+
+@PLY_JTM:109 NAN 5840dfeb
+"{V0986}{Fe9}Ryan,{W10} uu,{W10} paa..."
+
+@PLY_JTM:110 PLY 15509394
+"And this is sab-roku-kyuu."
+
+@PLY_JTM:111 NAN 94554973
+"{V0987}{Fe6m9}{W5}Sab,{W20} roku,{W20} {Fm4}kyuu..."
+
+@PLY_JTM:112 PLY 47a81c7d
+"All right! We repeat it until you remember!"
+
+@PLY_JTM:113 PLY f27794c3
+"Ii-suu-chii!"
+
+@PLY_JTM:114 NAN 96a4e1ba
+"{V0988}{Fe8m4}Ii{W5} suu{W5} chii!"
+
+@PLY_JTM:115 PLY aaa399ed
+"Ryan-uu-paa!"
+
+@PLY_JTM:116 NAN 3a9988ea
+"{V0989}Ryan{W5} uu{W5} paa!"
+
+@PLY_JTM:117 PLY 02cb7cb8
+"Sab-roku-kyuu!"
+
+@PLY_JTM:119 NAN 7655a151
+"{V0990}Sab{W5} roku{W5} kyuu!"
+
+@PLY_JTM:120 PLY 480b4aba
+"Good! How many is this tile?"
+
+@PLY_JTM:121 NAN baa6ffc5
+"{V0991}{Eo}{F4}Huh? {P1}{F9}{W50}Um{W10}...{Fm3}{W75} Chii?"
+
+@PLY_JTM:122 PLY 434224de
+"It's suu!"
+
+@PLY_JTM:123 NAN 6094eeec
+"{V0992}{Fe9m4}{W5}Aww,{W40} it's{W15} hard,{W5} Big Bro.{W25}"
+
+@PLY_JTM:124 PLY 6fb74934
+"You're not concentrating! Ii-suu-chii!"
+
+@PLY_JTM:125 NAN 107502b5
+"{V0993}Ii{W5} suu{W5} chii!"
+
+@PLY_JTM:126 NAN 2109a196
+"{V0994}Ryan{W5} uu-paa!"
+
+@PLY_JTM:127 NAN f027848c
+"{V0995}Sab{W5} roku-kyuu!"
+
+@PLY_JTM:128 PLY 1845c258
+"Good! What about this tile?"
+
+@PLY_JTM:129 NAN c2e96544
+"{V0996}U{W5}u?"
+
+@PLY_JTM:130 PLY 7864ad5b
+"It's paa!"
+
+@PLY_JTM:131 NAN ae0f3f9b
+"{V0997}{W5}Uu{W5}gh...{W50} I'm{W30} not a dummy..."
+
+@PLY_JTM:132 NAN 9f791e2d
+"{V0998}Ii{W5} suu-chii!"
+
+@PLY_JTM:133 SYS 3aeaef22
+...And so the night wore on.
+
+@PLY_JTM:134 PLY d34065c0
+"How about putting golf?"
+
+@PLY_JTM:135 NAN 24775da1
+"{V0964}{W5}Putting golf?{W80} {E}Isn't that the same as {E}golf?"
+
+@PLY_JTM:136 PLY fd605e50
+"You know, golf played with just a putter. Don't you know it?"
+
+@PLY_JTM:137 NAN bfa48ffc
+"{V0965}{W15}Hmm...{W70} Oh!{W25} {F3}The one{W5} you see in dramas,{W20} where a company president{W20} plays with a manager{W10} in the{W10} president's office?"
+
+@PLY_JTM:138 PLY 254f238a
+"Yes, yes! That's the one!"
+
+@PLY_JTM:139 NAN 5ff3577f
+"{V0966}{W5}Is that...{W50} fun?"
+
+@PLY_JTM:140 PLY c34a7eb1
+"...Well, I'd guess it is. I've never really played it myself."
+
+@PLY_JTM:141 NAN 7ae9d0d7
+"{V0967}{W5}Oh{W10} man,{W50} so you don't know either..."
+
+@PLY_JTM:142 PLY 57beb600
+"But women pro golfers are popular, so I'm sure it's fun."
+
+@PLY_JTM:143 NAN 94502f65
+"{V0968}{W10}Hmm,{W50} {Ec}I guess so..."
+
+@PLY_JTM:144 NAN 1add385e
+"{V0969}...{Ti1}{W6}Okay{W5},{W5} {W25}I'll{W5} try{W5} it{W5}!{W5}"
+
+@PLY_JTM:145 PLY 087d3dd5
+"All right, that's the spirit."
+
+@PLY_JTM:146 PLY df7ef073
+"I think Dad's old putting golf set is at the back of the closet, so I'll look for it."
+
+@PLY_JTM:147 NAN 854242a2
+"{V0970}{W5}Okay!{W5} Thanks,{W5} Big Bro."
+
+@PLY_JTM:148 PLY 7fed173a
+"Well, see you next time."
+
+@PLY_JTM:149 PLY 5a95e940
+"Good night, Nana."
+
+@PLY_JTM:150 NAN 5a5b30e1
+"{V0971}{W10}Okay,{W20} good night,{W10} {Ec}Big Bro."
+
+@PLY_JTM:151 SYS 1775893e
+And so I started playing putting golf with Nana from time to time.
+
+@PLY_JTM:152 NAN bda37385
+"{V0972}Yeah,{W5} sure.{W20} Come in, come in~!"
+
+@PLY_JTM:153 NAN 6cf9a3dd
+"{V0973}What's up,{W5} Big Bro?"
+
+@PLY_JTM:154 PLY 5189bbf2
+"Are you free now?"
+
+@PLY_JTM:155 NAN 3dd5ed70
+"{V0974}{W10}Yeah,{W20} I'm free~!"
+
+@PLY_JTM:156 PLY 69ee69aa
+"Great! Then let's play mahjong!"
+
+@PLY_JTM:157 NAN 22bd4213
+"{V0975}{W5}Okay!{W10} {Ec}Let's play, let's play~!"
+
+@PLY_JTM:158 NAN c15e67e6
+"{V0976}Then,{W20} I'm going to change,{W15} so wait outside a moment."
+
+@PLY_JTM:159 PLY 506ec034
+"Huh? Change? Why?"
+
+@PLY_JTM:162 NAN e4a1e75d
+"{V0977}Never mind, never mind.{W25} Come{W10} on,{W25} hurry{W5} and go{W5} out."
+
+@PLY_JTM:163 PLY 259d015c
+"Ah... hey!"
+
+@PLY_JTM:164 PLY f3279056
+(What is this about...)
+
+@PLY_JTM:165 PLY 3d1b35e3
+(......)
+
+@PLY_JTM:166 NAN 0f4bffeb
+"{V0978}{W5}Big Bro,{W20} you can come in~.{W20} Come in~"
+
+@PLY_JTM:174 PLY 6a3c68fd
+"Whoa! N-Nana, you..."
+
+@PLY_JTM:175 NAN aeef6c6c
+"{V0979}{W10}Ehehe,{W50} what do you think?{W20} This Chinese dress.{W30} Nice, right~?"
+
+@PLY_JTM:176 PLY 760e406b
+"Where did you get that?"
+
+@PLY_JTM:177 NAN 412d2f13
+"{V0980}{W10}When I told Ms. Kawada{W10}{W30} I'd started{W15} mahjong,{W10} she gave it to me.{W30} She said, "You have to start{W10} with the{W10} look.""
+
+@PLY_JTM:178 PLY 47c9543b
+"Oh, really?"
+
+@PLY_JTM:179 NAN 046c8271
+"{V0981}{W15}Ms. Kawada{W10} wore it{W30} in college{W20} for a part-time{W5} job{W20} at a Chinese restaurant."
+
+@PLY_JTM:180 PLY d905bbbf
+"I see."
+
+@PLY_JTM:181 NAN de580fc6
+"{V0982}...But{W20} it was so baggy,{W5} that taking it in{W5} was{W5} a lot of work."
+
+@PLY_JTM:182 PLY 67cfe931
+"Hahaha, I bet. Especially the chest."
+
+@PLY_JTM:183 NAN 5ce91bad
+"{V0983}{W10}Hmph!{W35} Don't{W10} talk{W15} about chests!{W25} {Ec}Someday I'll be like Ms. Kawada too,{W20} you'll see!{Eo}"
+
+@PLY_JTM:184 PLY 1e0f74c8
+"Yeah, yeah, got it. Now let's start training!"
+
+@PLY_JTM:185 NAN a785d543
+"{V0984}{W5}Okay!"
+
+@PLY_JTM:186 PLY eeddbbc7
+"All right, here we go! First, how to stack the tiles!"
+
+@PLY_JTM:187 NAN b2a643ee
+"{V0953}{F4}{W10}Stack...{W40} them?"
+
+@PLY_JTM:188 PLY 5e93aab3
+"You hold seventeen tiles in both hands like this, and stack them on top of the same number of tiles!"
+
+@PLY_JTM:189 NAN 513e75c8
+"{V0954}{W10}Whaaat?{W30} That's{Ti3} too{W10} hard."
+
+@PLY_JTM:190 PLY 095f4cfc
+"We can't start until you can do this. Spread your fingers, grab the row of tiles, and lift them all at once!"
+
+@PLY_JTM:191 NAN b0de59fa
+"{V0955}{W10}Let's{W15} see...{W50} Spread{W30} my{W10} fin{W10}gers...{W50} grab{W10}...{W45} all{W5} at once...{W35} here goes!"
+
+@PLY_JTM:192 SYS 8bde5d0f
+{Ti1}Crash!!
+
+@PLY_JTM:193 NAN 75fee7b9
+"{V0956}{W10}Aww,{P0}{Eo}{W60} they{W10} fell down..."
+
+@PLY_JTM:194 PLY f8e6dd2a
+"Put strength in your pinky! Once more!"
+
+@PLY_JTM:197 NAN 6df4f110
+"{V0957}{W10}Put{W5} strength{W5} in{W15} my{W5} pinky?{W30} L-{W20}like this?"
+
+@PLY_JTM:198 PLY ae853a45
+"Good! That's it!"
+
+@PLY_JTM:201 NAN 60131556
+"{V0958}{Ec}{W10}Aaa{W10}h...{W60} my{W10} pinky's{W5} shaking,{W35} Big Bro."
+
+@PLY_JTM:202 PLY 1ed9d740
+"Hang in there! Lift them all at once!"
+
+@PLY_JTM:204 NAN ddb3fdc8
+"{V0959}{W15}Aaaah,{W45} my pinky...{W55} my{W5} pinky..."
+
+@PLY_JTM:205 PLY 955c6717
+"We'll do it as many times as it takes! Now, line up the tiles!"
+
+@PLY_JTM:206 NAN 1446b509
+"{V0960}{W5}Big Bro, you{W5} ogre~,{Eo}{W20} you de{W10}mon~"
+
+@PLY_JTM:207 PLY 234371cb
+"No complaining, just try harder!"
+
+@PLY_JTM:208 NAN f0e21328
+"{V0961}{F6}{Ti4}Ugh...{Ec}{W30} ughh...{Ti1}..."
+
+@PLY_JTM:209 NAN e62a709a
+"{V0962}{Ti3}Hnnng,{W30} lift up~!"
+
+@PLY_JTM:210 NAN 55de7b8d
+"{V0963}{Ti4}Nnnngh{Ti2}! It's no good~!"
+
+@PLY_JTM:211 NAN 0193d332
+"{V0999}Yeah,{W30} sure.{W30} Come in, come in~!"
+
+@PLY_JTM:212 NAN 8148ca0f
+"{V1000}What's up,{W5} Big Bro?"
+
+@PLY_JTM:213 NAN e2e6ef4d
+"{V1001}{W10}Yeah,{W20} I'm free~!"
+
+@PLY_JTM:214 NAN 00caf77e
+"{V1002}{W5}Okay!{W5} Let's play, let's play~!"
+
+@PLY_JTM:215 NAN 26ad2efd
+"{V1003}{W5}Then,{W5} I'm going to change,{W15} so wait outside{W5} a moment."
+
+@PLY_JTM:216 PLY 258ca90b
+"No, you don't really need to change..."
+
+@PLY_JTM:217 NAN 27475289
+"{V1004}Never mind,{W10} never mind."
+
+@PLY_JTM:218 PLY 00614017
+(Honestly...)
+
+@PLY_JTM:219 PLY e9f9c526
+"Ready yet~?"
+
+@PLY_JTM:220 NAN 9e90a8fc
+"{V1005}{W5}Yeah,{W5} you can come in~!"
+
+@PLY_JTM:221 PLY f9461753
+"Okay! Let's play!"
+
+@PLY_JTM:222 NAN 39da38f8
+"{V1006}{W5}Okay!"
+
+@PLY_JTM:223 PLY 43048997
+"Listen, good mahjong manners mean finishing your turn as fast as you can."
+
+@PLY_JTM:224 NAN 24a4a5f3
+"{V1007}{W5}{F4}Why?"
+
+@PLY_JTM:225 PLY 74953ed1
+"You'd be making the other players wait, right? It gets annoying."
+
+@PLY_JTM:226 NAN 4e93d1f3
+"{V1008}{W10}I see{W5}~"
+
+@PLY_JTM:227 PLY 1e5c00ff
+"So when you draw a tile, discard right away!"
+
+@PLY_JTM:228 NAN e9dbd117
+"{V1009}Huh?{W15} Huh?"
+
+@PLY_JTM:229 PLY 243c4aef
+"Okay, it's your turn, Nana. Give it a try."
+
+@PLY_JTM:231 NAN 8d827d44
+"{V1010}O-{W10}okay."
+
+@PLY_JTM:232 NAN d3c6a078
+"{V1011}...When I draw,{W10} I...{W45} discard."
+
+@PLY_JTM:233 PLY e1392173
+"When you draw, you discard!"
+
+@PLY_JTM:234 NAN 6807ab83
+"{V1012}{W10}W-{W20}When I draw,{W30} I discard!"
+
+@PLY_JTM:235 NAN ccf61cd7
+"{V5017}When I draw, I discard!"
+
+@PLY_JTM:236 NAN 0fc59a7c
+"{V1013}{W10}When I draw, I discard! ...{W15}Ah?!"
+
+@PLY_JTM:237 PLY 77dbaddd
+"What is it?"
+
+@PLY_JTM:238 NAN 0cd81aa8
+"{V1014}{W10}Aaah!{W60} The tile{W10} I just{W5} threw away{W15} would've won!"
+
+@PLY_JTM:239 PLY 365381f2
+"You dummy. That's what you get for not checking your hand. It's called furiten..."
+
+@PLY_JTM:240 NAN 9b10088f
+"{V1015}{W10}You're{W5} so{W5} strict,{W10} Big Bro."
+
+@PLY_JTM:241 PLY 9c07a9f1
+(Good grief, it's a perfectly good Sunday and there's nothing to do.)
+
+@PLY_JTM:242 PLY 990f0bdc
+(I'm bored...)
+
+@PLY_JTM:243 PLY f8a6237b
+(...I know! Maybe I'll play mahjong with Nana.)
+
+@PLY_JTM:244 NAN cc3dfd58
+"{V1016}{W5}Oh,{W25} what is it, Big Bro?{W10} Come in, come in~!"
+
+@PLY_JTM:245 NAN d5587e65
+"{V1017}{W5}What's up?"
+
+@PLY_JTM:246 PLY daff1cfd
+"Nana, do you have any plans today?"
+
+@PLY_JTM:247 NAN 21cc3ba1
+"{V1018}Nope,{W30} nothing.{W30} I'm free."
+
+@PLY_JTM:248 NAN e0e8c432
+"{V1019}{W5}Yay!{W20} {Ec}Yeah!{W5} Let's play, let's play~!{Eo}"
+
+@PLY_JTM:249 NAN 65ce788e
+"{V1020}{W5}Okay,{W15} I'm going to change,{W25} so wait{W5} outside a minute."
+
+@PLY_JTM:250 PLY fff02bdd
+"No, wait. You don't need to change today."
+
+@PLY_JTM:251 NAN b588d261
+"{V1021}{W5}Huh?{W25} Why not?"
+
+@PLY_JTM:252 PLY 117d78b6
+"Two-player mahjong all the time gets boring, right? Today we're heading into town to find some opponents!"
+
+@PLY_JTM:253 NAN 898f6e38
+"{V1022}{W5}What?!{W15} T-{W10}town?{W35} Where{W5} to?{Sd}"
+
+@PLY_JTM:254 PLY 8617d500
+"You'll see when we get there. Come on, let's go."
+
+@PLY_JTM:255 NAN f47eb3b3
+"{V1023}{W5}O-{W35}okay."
+
+@PLY_JTM:256 NAN ede77d45
+"{V1024}{W10}Ehehe,{W55} {Eo}going out{W5} together{W30} on a Sunday,{W25} it's been a while~"
+
+@PLY_JTM:257 PLY 5e7eedbe
+"...Now that you mention it, it has."
+
+@PLY_JTM:258 PLY 36ec7f69
+"Let's see... I think this way's a shortcut..."
+
+@PLY_JTM:259 NAN fccb0fd3
+"{V1025}{W5}Ah...{W15} Big Bro,{W35} {F9}where are you going~?"
+
+@PLY_JTM:260 PLY 57a3bbc8
+"Yep, this way, this way."
+
+@PLY_JTM:261 NAN fd2a0a2a
+"{V1026}{W5}Ugh...{W40} Big Bro,{W35} what are you planning{W5} by going{W5} through{W40} a place like this?"
+
+@PLY_JTM:262 NAN 119bfa16
+"{V1027}{W10}Don't tell me,{W65} you're going{W25} to a mahjong...{W25} parlor?{Eo}"
+
+@PLY_JTM:263 PLY 06dee0c4
+"Hm? What, you know about mahjong parlors? Impressive, Nana."
+
+@PLY_JTM:264 NAN ddc04731
+"{V1028}Noooo!{W30} {F8}No parlors! {Ec}{W5}They're dangerous for kids{W5} to go to!{Eo}"
+
+@PLY_JTM:265 PLY 3073d228
+"Yeah, yeah, right. Parlors are dangerous. Got it, now let's go."
+
+@PLY_JTM:266 NAN c5b1b860
+"{V1029}Noooo,{W40} {Ec}I{W20} won't! {W15}I'm{W20} going home!"
+
+@PLY_JTM:267 PLY 6a2c4404
+"...Honestly, if you keep that up, I'll leave you here."
+
+@PLY_JTM:268 NAN c5537935
+"{V1030}Aaah,{W40} {F6}leaving me in an alley like this{W40} is even worse!"
+
+@PLY_JTM:269 PLY 6be3c395
+"Look, we're here. Going through the back alley saved us five minutes."
+
+@PLY_JTM:270 NAN aeacfa2f
+"{V1031}...Huh?{W60} This is...{W30} a game center?"
+
+@PLY_JTM:271 PLY d67ffa08
+"Yep, we're training here today!"
+
+@PLY_JTM:272 NAN 5d00d454
+"{V1032}Phew,{W50} thank goodness.{W50} It wasn't a parlor after all."
+
+@PLY_JTM:273 PLY 285e3517
+"I never said a word about going to a parlor, did I?"
+
+@PLY_JTM:274 NAN ba47c687
+"{V1033}Ehehe,{W55} right.{W40} {Eo}{F9}I jumped to{W5} conclusions."
+
+@PLY_JTM:275 NAN 59a63349
+"{V1034}{W5}...But,{W35} aren't mahjong{W5} games{W5} at game centers{W55} the kind where you{W10} take off{W25} your clothes if you lose..."
+
+@PLY_JTM:276 PLY 1b4e2530
+"Of course they are! That's the official rule of mahjong!"
+
+@PLY_JTM:277 NAN 359b3480
+"{V1035}Whaaat?!{W30} {Sp}It is?!"
+
+@PLY_JTM:278 PLY 7103ce42
+"Of course."
+
+@PLY_JTM:279 NAN abf214f7
+"{V1036}...{W10}I{W5} see.{W85} So mahjong{W10} is{W35} an embarrassing game.{Ec}"
+
+@PLY_JTM:280 PLY 95590526
+(...Nana believes anything, so I can't help teasing her.)
+
+@PLY_JTM:281 PLY 05f79c34
+"But don't worry. Today we're playing four-player mahjong with no stripping."
+
+@PLY_JTM:282 NAN 3ade3989
+"{V1037}Oh, good.{W50} Even if{W60} it's on a screen,{W35} it'd be sad{W15} for a girl to get stripped."
+
+@PLY_JTM:283 PLY bc8f8652
+"...Right."
+
+@PLY_JTM:284 PLY 400656f1
+"Well then, let's get started."
+
+@PLY_JTM:285 NAN 6d02a1cc
+"{V1038}{W5}Yeah!"
+
+@PLY_JTM:286 PLY d072092e
+"...Oh, there happen to be two open seats. Let's sit there."
+
+@PLY_JTM:287 NAN f9783d28
+"{V1039}Yay,{W45} {Eo}it's been so long{W10} since I came to a game center~!"
+
+@PLY_JTM:288 SYS 60cbeb75
+And so, Nana and I played four-player mahjong.
+
+@PLY_JTM:289 SYS 09842bc9
+You've gotten pretty good, Nana.
+
+@PLY_JTM:290 NAN c8acf8d7
+"{V1040}{W5}Yeah,{W15} it's okay.{W20} Come in, come in~!"
+
+@PLY_JTM:291 NAN 6452c788
+"{V1041}{W5}I was waiting for you,{W20} Big Bro."
+
+@PLY_JTM:292 PLY 56781adc
+"Hm? You were waiting? Why?"
+
+@PLY_JTM:293 NAN 957e4f6c
+"{V1042}...Well, you see."
+
+@PLY_JTM:294 NAN a97d462d
+"{V1043}{W10}Nana,{W45} today{W10} I want to have{W35} a serious{W15} mahjong{W10} match with you."
+
+@PLY_JTM:295 PLY 0eca7ab6
+"A serious match? You mean no take-backs?"
+
+@PLY_JTM:296 NAN 7ac30406
+"{V1044}{W5}Yeah!{W30} {F7}I've gotten{W10} pretty good,{W25} {F3}so I want{W5} to{W15} test my{W5} skills."
+
+@PLY_JTM:297 PLY 13b4be1e
+"All right, bring it on! Then I'll go get the mahjong tiles."
+
+@PLY_JTM:298 NAN 8c81573d
+"{V1045}{W5}Okay.{W35} I'll get changed{W5} in the{W20} meantime.{Ec}"
+
+@PLY_JTM:299 SYS d60b1e61
+And so, I ended up having a serious mahjong match with Nana.
+
+@PLY_JTM:300 PLY 555fff2c
+"Nana, I'm coming in~"
+
+@PLY_JTM:301 NAN 6dc86da6
+"{V1046}{W5}Okay,{W15} come in~"
+
+@PLY_JTM:302 NAN ef0546ca
+"{V1047}{W5}Thanks for waiting,{W20} {Eo}Big Bro."
+
+@PLY_JTM:303 PLY b008239d
+"Why the school uniform? Not your usual Chinese dress?"
+
+@PLY_JTM:304 NAN a3857f7f
+"{V1048}{W5}In that,{W5} I'd lose{W10} everything right away."
+
+@PLY_JTM:305 PLY 122df4f6
+"Huh?"
+
+@PLY_JTM:306 NAN 2ffc5fdc
+"{V1049}{W10}Under the official rules,{W10} {W30}you have to take off clothes{W25} when you lose, right? Today{W25} it's a serious{W5} match{W5} so..."
+
+@PLY_JTM:307 PLY 53c56763
+(...R-right. She still believes what I said at the game center...)
+
+@PLY_JTM:308 NAN 174a3e8d
+"{V1050}{W5}Ehehe,{W40} with a uniform,{W15} even if I lose, I won't be stripped of everything easily!"
+
+@PLY_JTM:309 PLY aeb7b3b5
+"I see..."
+
+@PLY_JTM:310 PLY 69546810
+(Should I tell her the truth, or not...)
+
+@PLY_JTM:311 PLY b939c5e2
+"...All right, let's begin."
+
+@PLY_JTM:312 NAN 40357367
+"{V1051}{W5}Yeah!"
+
+@PLY_JTM:313 PLY d6cfc5a8
+(Forgive your wicked big brother, Nana...)
+
+@PLY_JTM:315 NAN f7d66a74
+"{V1052}{W5}Fufu,{Ti3}{W35} I'll do my best{Ti2}~!"
+
+@PLY_JTM:317 NAN 0de1d643
+"{V1053}{W10}Hmm{W10}...{W60} my hand's{W5} bad..."
+
+@PLY_JTM:318 PLY db34f850
+(Heh heh heh, I'm tenpai.)
+
+@PLY_JTM:319 NAN 081965d7
+"{V1054}{W10}And my draws are bad{W5} too.{W70} ...I don't{W5} need this one."
+
+@PLY_JTM:320 PLY 30ab5781
+"Rooon!"
+
+@PLY_JTM:321 NAN 0f4b5ad8
+"{V1055}{W5}Noooo!"
+
+@PLY_JTM:323 NAN f01a8a48
+"{V1056}{W10}Big Bro,{W40} a silent tenpai{W5} is so unfair~"
+
+@PLY_JTM:324 PLY 98226e62
+"It's not unfair. It's a cheap hand, and a quick win is the priority."
+
+@PLY_JTM:325 PLY 0ff1f452
+"Now, strip, strip."
+
+@PLY_JTM:326 NAN ac08df1f
+"{V1057}{Ti3}Awww...{W45} Oh, I can't help it{Ti2}."
+
+@PLY_JTM:327 PLY 3f639dd5
+(Heart pounding...)
+
+@PLY_JTM:328 NAN 6b58b5b7
+"{V1058}{W10}Here,{W50} Big Bro."
+
+@PLY_JTM:329 PLY 8dc97498
+"Just taking off the scarf? That's cheap!"
+
+@PLY_JTM:330 NAN 9eb043a6
+"{V1059}{W10}It is{W5} not!{W30} A scarf{W10} is clothing too!{W15} That counts as one piece off!"
+
+@PLY_JTM:331 PLY 4e08d3aa
+"...Well, that's true, but..."
+
+@PLY_JTM:332 NAN f7b42de0
+"{V1060}{W5}Okay,{W30} next round,{W10} next round.{W40} This time{W5} you're the dealer, Big Bro."
+
+@PLY_JTM:333 PLY e5ecf575
+(...All right, now I'll strip her of everything, no matter what.)
+
+@PLY_JTM:334 NAN 5d7eb7e9
+"{V1061}{W10}Mmm{W10}...{W50} I don't need this!"
+
+@PLY_JTM:335 NAN 1c3e4096
+"{V1062}{W5}Whaaat?{W10} {W30}Again?!"
+
+@PLY_JTM:336 PLY 26e99f3f
+"Now, strip,{Ts3} strip."
+
+@PLY_JTM:337 NAN 291cf837
+"{V1063}{W10}Mmm{W10}{W5}m,{W50} Big Bro,{W30} you pervert!"
+
+@PLY_JTM:338 PLY 42aa32b6
+"You're the one who challenged me to a serious match, right? No mercy."
+
+@PLY_JTM:339 NAN 724eb9e9
+"{V1064}{W10}Mmm.{W70} Then,{W60} I'll{W10} take it off,{W80} so close...{W30} your eyes.{Ec}"
+
+@PLY_JTM:340 PLY 02c1bf5a
+"L-like this?"
+
+@PLY_JTM:341 PLY b46d73ae
+(Thump-thump-thump-thump...)
+
+@PLY_JTM:342 NAN 58a882d5
+"{V1065}{W5}...Okay,{W30} you can open your eyes now,{W30} Big Bro."
+
+@PLY_JTM:343 PLY 14aa6551
+"O-okay? All right!"
+
+@PLY_JTM:344 PLY 2436f7ac
+"W-why are you wearing gym clothes underneath?!"
+
+@PLY_JTM:345 NAN 05d2f4da
+"{V1066}{W10}Because...{W25} if I didn't layer up, I'd be stripped of everything{W5} in no time."
+
+@PLY_JTM:346 PLY af32216c
+(Oh man... how many times do I have to win...)
+
+@PLY_JTM:347 NAN 5825c9db
+"{V1068}{W5}Okay,{W10} Big Bro,{W25} next round, next round.{W40} You're in pajamas,{W5}{W10} so you{W5} can only lose twice~!"
+
+@PLY_JTM:348 PLY 00b1cd86
+(Damn it, some serious match this is. What a handicap.)
+
+@PLY_JTM:349 NAN 13f90c1b
+"{V1069}{W10}Okay,{W20} deal{W5} the tiles, deal{W5} the tiles."
+
+@PLY_JTM:350 NAN f849ba2c
+"{V1070}{W5}Oh,{W20} Big Bro,{W15} that one,{W35} Rooon!"
+
+@PLY_JTM:351 PLY b11abe63
+"Gah! D-damn!"
+
+@PLY_JTM:352 NAN 95763aaf
+"{V1071}{W5}Okay,{W20} strip, strip~!"
+
+@PLY_JTM:353 PLY 4d172722
+"I can't help it..."
+
+@PLY_JTM:354 NAN 8dc9e886
+"{V1072}{W10}Whaaat?{W10} {W30}Why{W5} start from the bottom?!{W45} I can't believe you!"
+
+@PLY_JTM:355 PLY 9551725a
+"It's my choice which one I take off first."
+
+@PLY_JTM:356 NAN f0d61674
+"{V1073}{W5}Ugh{W10}...{W55} I{W10} don't{W5} know{W30} where to{W5} look!"
+
+@PLY_JTM:357 PLY 03f7f1d1
+"Now, next, next."
+
+@PLY_JTM:358 PLY 7287e750
+"...Ah, self-draw win."
+
+@PLY_JTM:359 NAN f7bdb3c6
+"{V1074}{W10}Noooo!"
+
+@PLY_JTM:360 SYS f0e04d74
+And so the night wore on...
+
+@PLY_JTM:362 PLY df373304
+(Ugh, she's even wearing a school swimsuit... I bet she has a bra and panties under it.)
+
+@PLY_JTM:363 PLY 87def984
+(And I'm already down to my underwear... I'm done for.)
+
+@PLY_JTM:364 PLY 2444dc00
+"Come on, Nana, discard already. I taught you to discard fast when you're the dealer after the deal, remember?"
+
+@PLY_JTM:365 NAN 6e749e45
+"{V1075}{W5}Mmm{W5}m,{W90} Big Bro,{W50} I have nothing to discard."
+
+@PLY_JTM:366 PLY 38762747
+"Nothing to discard..."
+
+@PLY_JTM:367 PLY c175f2ea
+"I get wanting to keep everything, but discard the tile least likely to improve your hand..."
+
+@PLY_JTM:368 NAN c5c7da4a
+"{V1076}{W5}No,{W20} that's not it.{W45} My hand's complete.{W50} I can win just like this."
+
+@PLY_JTM:369 PLY 72dd2860
+"What?! Does that mean heavenly hand?! That's a yakuman!"
+
+@PLY_JTM:370 NAN d6929d30
+"{V1077}{W5}Yaaay!{W20} I did it!{W20} Nana{W10} wins{W5}~!"
+
+@PLY_JTM:371 PLY d03574e9
+"Ugh... how awful. To be finished off with a yakuman."
+
+@PLY_JTM:372 PLY d145e3cd
+"I'm out of points, too. Total defeat..."
+
+@PLY_JTM:373 PLY 1b5496f2
+"You beat me, Nana."
+
+@PLY_JTM:374 NAN 845ca1e3
+"{V1078}{W5}Ehehe,{W45} {Eo}Nana's{W5} strategy{W5} won.{W5}"
+
+@PLY_JTM:375 PLY adf23421
+"...Right. Luck is part of skill, so I'll admit my loss honestly."
+
+@PLY_JTM:376 PLY ed29584b
+"You've surpassed your big brother."
+
+@PLY_JTM:377 NAN 8fefb29f
+"{V1079}{W5}Ehehe,{W30} oh, it's nothing..."
+
+@PLY_JTM:378 PLY 827158b7
+"...Nana."
+
+@PLY_JTM:379 NAN 0f8bcb9f
+"{V1080}{W5}What is it, Big Bro?"
+
+@PLY_JTM:380 PLY 5ae9b529
+"...I'm a man, too. Since I lost, I'll gracefully take off my last piece."
+
+@PLY_JTM:381 NAN 7be96cb1
+"{V1081}{W5}Whaaat?!{W5} No! No!{W20} {Sp}You don't have to!"
+
+@PLY_JTM:382 PLY e42836f7
+"I can't do that. It's a serious match. The loser literally goes naked."
+
+@PLY_JTM:383 NAN 1e878ce9
+"{V1082}{W10}Noooo!{W10} {W15}Nooo!{W10} {W15}Stooop!{W10}{W10}{W10}"
+
+@PLY_JTM:384 PLY 87c6578a
+"Here goes..."
+
+@PLY_JTM:386 NAN 1bd3a30a
+"{V1083}{W5}Noooo!{W40} Get out!{W20} Big Bro,{W40} you id{W5}iot!"
+
+@PLY_JTM:387 PLY 52159bd6
+"You're so cold to the loser. I haven't even taken it off yet."
+
+@PLY_JTM:388 NAN 7c12f597
+"{V1084}{W10}I don't care! Geez!{W25} I'm quitting{W5} mahjong!"
+
+@PLY_JTM:389 PLY 6e248af7
+"Hahaha, don't say that. Let's play again."
+
+@PLY_JTM:390 NAN 9b231b5e
+"{V1085}{W10}...Grr,{W65} not{W10} for{W5} a{W5} while!"
+
+@PLY_JTM:391 PLY 3e4243ce
+"Hahaha, good night, Nana."
+
+@PLY_JTM:392 NAN 41933c7d
+"{V1086}{W5}...Uh,{W60} yeah.{W65} Good night,{W20} Big Bro.{W50} That was fun.{W40} Thanks{W30} for playing with me."
+
+@PLY_JTM:393 SYS ac408db7
+And so, my days of playing mahjong with Nana came to a close, at least for now.

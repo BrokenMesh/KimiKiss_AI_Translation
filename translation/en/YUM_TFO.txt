@@ -1,0 +1,236 @@
+# YUM_TFO -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@YUM_TFO:46 YUM 2635d541
+"{Nm}...{V0796}Good morning..."
+
+@YUM_TFO:48 PLY f146cc29
+"Ah! H-Hoshino!"
+
+@YUM_TFO:50 YUM 69693209
+"{V7019}You made a promise,{W10} and then didn't come?{W20} {Eo}What happened?{W50} {Fe9}I{W40} was worried about you."
+
+@YUM_TFO:51 PLY eb76059e
+"Sorry... Hoshino."
+
+@YUM_TFO:52 PLY b8491b67
+"Well... something urgent came up, so I ended up going over there."
+
+@YUM_TFO:53 PLY 678b4d79
+"I was going to tell you, Hoshino, but I couldn't manage to meet up with you..."
+
+@YUM_TFO:56 YUM 5fcf1d49
+"{V0798}I see..."
+
+@YUM_TFO:59 YUM 2318bbc1
+"{V0799}...Then,{W33} it can't be helped.{W48} {Ec}{W5}{F9}{Eo}Thank goodness.{W25} I thought{W2} something bad had happened,{W30} and I was worried."
+
+@YUM_TFO:60 PLY ababb9b9
+"Sorry for making you worry..."
+
+@YUM_TFO:61 YUM 2f5498a3
+"{V0800}No,{W30} it's okay.{W20} {Eo}Don't worry about it."
+
+@YUM_TFO:64 YUM d7063fc9
+"{V0801}Well then, I...{W30} will go to class{W30} ahead of you."
+
+@YUM_TFO:65 PLY bad3355d
+"Yeah..."
+
+@YUM_TFO:68 PLY 870f0120
+(This is bad, I can't keep doing this...)
+
+@YUM_TFO:69 YUM 3217e525
+"{Nm}...{V0750}Good morning..."
+
+@YUM_TFO:71 YUM 14fd2344
+"{V7000}You promised to go home with me,{W5} and yet,{W60} {Fe6}you go home with another girl..."
+
+@YUM_TFO:72 YUM 69c8921d
+"{V0752}Why?"
+
+@YUM_TFO:73 PLY 021ff3b8
+"...Um, I forgot my promise with you, Hoshino..."
+
+@YUM_TFO:74 YUM 1b2e5dff
+"{V0753}You{W2} forgot{W2}{W2}{W2}...?{W70} {Fe6}That's{W3} terrible..."
+
+@YUM_TFO:76 YUM 1a1483fe
+"{V0754}I...{W40} I was looking forward to going home with you, {Nm},{W30} {Fe6}{Ec}and yet..."
+
+@YUM_TFO:77 PLY 4b7b99be
+"I'm sorry... I'm really sorry..."
+
+@YUM_TFO:78 PLY 53b3cc6f
+"Hoshino, I'll never do anything like that again. So please forgive me just this once..."
+
+@YUM_TFO:79 YUM 5289d269
+"{V0755}......"
+
+@YUM_TFO:80 YUM 20592a5f
+"{V0756}Really?{W60} You won't{W3} do it again?"
+
+@YUM_TFO:81 PLY 5ab2dc15
+"I won't. I swear."
+
+@YUM_TFO:82 YUM 6068a356
+"{V0757}Mm,{W43} okay."
+
+@YUM_TFO:83 YUM 644ede49
+"{V7001}...{W5}That's{W5} enough.{W25} I...{W60} will forget it."
+
+@YUM_TFO:84 PLY 0bf14025
+"Hoshino, thank you."
+
+@YUM_TFO:85 YUM 061020e6
+"{V0759}Mm.{W52} I'll{W40} go ahead{W5} to class{W3}."
+
+@YUM_TFO:86 SYS b362cc11
+...And so, Hoshino forgave me.
+
+@YUM_TFO:87 SYS 7b9b407d
+Promising two girls I'd go home with them... I'm such an idiot...
+
+@YUM_TFO:88 YUM 84798bd7
+"{Nm}...{V0792}Good morning..."
+
+@YUM_TFO:89 YUM 990e42a8
+"{V0793}The other{W3} day...{W50} I wasn't{W20} mistaken{W2} after all."
+
+@YUM_TFO:92 YUM 96131e9a
+"{V7002}That girl,{W40} is she in Year 1?{W70} She's such{W10} a cute girl."
+
+@YUM_TFO:94 YUM e18ef356
+"{V7003}If you have a girl like that,{W30} you don't have to force{W20} yourself {Ec}to go home with me..."
+
+@YUM_TFO:96 YUM ef2703f9
+"{V0677}{W12}Narumi is{W39} so cheerful{W3},{W18} and such{W1} a{W1} cute{W1} girl{W1}, isn't{W1} she?"
+
+@YUM_TFO:98 YUM a03cdbe8
+"{V0678}{W8}{Nm}, I can see{W20} why you're drawn to her."
+
+@YUM_TFO:99 YUM 31978793
+"{V0679}{W12}If you have a girl like that,{W36} {Ec}you didn't have to{W8} be nice{W4} to me..."
+
+@YUM_TFO:101 YUM b76c72c0
+"{V7004}That woman,{W30} she's the Year 3 student, Mizusawa, right?{W35} {Fe9m6}She's really pretty, isn't she?"
+
+@YUM_TFO:102 YUM d8882ad9
+"{V7005}She's cheerful,{W35} the one boys{W5} look{W5} up{W5} to...{W85} {Eo}{Nm}, I can see why you're drawn to her."
+
+@YUM_TFO:103 YUM 26271411
+"{V7006}If you have someone like that,{W50} you don't have to force yourself to go home with me..."
+
+@YUM_TFO:105 YUM f04564a2
+"{V7007}That girl,{W40} she's Sakino from the soccer club, right?{W40} Pretty,{W25} athletic,{W30} cheerful..."
+
+@YUM_TFO:106 YUM e1aec197
+"{V7008}{Nm}, I think I can see why you're drawn to her."
+
+@YUM_TFO:107 YUM b7870ee2
+"{V7009}If you have a girl like that,{W25} you don't have to force yourself{W3} to go home with{W2} me..."
+
+@YUM_TFO:108 YUM 868e02e4
+"{V7010}That girl,{W30} Futami...{W35} right?{W43} {Ec}{W5}{Fe9}{Eo}The really{W5} smart, famous one..."
+
+@YUM_TFO:109 YUM 39155485
+"{V7011}She's a pretty{W2} one, isn't she...{W50} {Eo}{Nm}, I can see why you're drawn to her."
+
+@YUM_TFO:110 YUM e97b5f41
+"{V7012}If you have a girl like that,{W50} you don't have to force yourself to go home with me..."
+
+@YUM_TFO:111 YUM cffec75e
+"{V7013}That girl,{W40} Shijou{W20}, right?{W35} {Fe9m6}The famous{W5}{W5}{W5} young lady, isn't she?"
+
+@YUM_TFO:112 YUM c4851393
+"{V7014}Beautiful,{W35} demure,{W25} {Fe9}{Ec}refined...{W80} {Fe6}{Eo}Even I admire her."
+
+@YUM_TFO:114 YUM 15b059eb
+"{V7015}If you have a girl like that,{W50} you don't have to force{W5} yourself to go home with me..."
+
+@YUM_TFO:115 YUM 99477873
+"{V7016}Kuryuu from the Discipline Committee{W3}, she's{W30} pretty,{W35} serious,{W40} {Fe9}{Ec}responsible{W5}{W5}{W5}, and{W55} {Eo}very dependable, isn't she?"
+
+@YUM_TFO:117 YUM 0b3250a2
+"{V7017}{Nm}, I can see why you're drawn to her."
+
+@YUM_TFO:119 YUM e61b7ba8
+"{V7018}If you have a girl like that,{W45} {Ec}you don't have to force{W20} yourself to go home with me..."
+
+@YUM_TFO:120 PLY 3d3f8d34
+"Hoshino, I'm sorry. I..."
+
+@YUM_TFO:121 YUM f172a693
+"{V0782}No,{W60} that's enough.{W60} {Eo}Just,{W40} leave me...{W45} alone..."
+
+@YUM_TFO:122 YUM 7966039d
+"{V0783}{Nm},{W45} I only want to keep{W5} {Ec}the good memories of us..."
+
+@YUM_TFO:125 YUM ebbebb94
+"{V0784}Goodbye!"
+
+@YUM_TFO:126 PLY 28313ad8
+"Ah... Hoshino...!"
+
+@YUM_TFO:127 PLY 471fac2d
+(...I've done something that can't be undone...)
+
+@YUM_TFO:128 PLY 8a8085a1
+(Hoshino... I'm sorry...)
+
+@YUM_TFO:129 YUM 46df12c1
+"{Nm}...{V0794}Good morning..."
+
+@YUM_TFO:130 YUM 34e39640
+"{V0795}The other{W5} day...{W70} I wasn't{W40} mistaken after all."
+
+@YUM_TFO:132 YUM 91290df9
+"{V0787}Don't tell me...{W40} that besides the girl from the other day,{W2}{W30} {Fe6}you have another girl you're close to..."
+
+@YUM_TFO:133 YUM 443354c1
+"{V0788}{W5}Leaving me...{W55} behind...{W15} to go home..."
+
+@YUM_TFO:134 PLY 742f86e4
+"Hoshino, I'm sorry... I..."
+
+@YUM_TFO:135 YUM 9e3e4ebb
+"{V0789}No,{W53} that's{W2} enough.{W55} {Fe9m6}Please...{W40} don't say anything more..."
+
+@YUM_TFO:137 YUM 605f01a1
+"{V0790}{Nm},{W30} I only want{W3} to keep the good memories of us..."
+
+@YUM_TFO:138 YUM 4216d1ce
+"{V0791}Goodbye!"
+
+@YUM_TFO:139 PLY 9afcf104
+"Ah{!} Hoshino!"
+
+@YUM_TFO:140 PLY e0164981
+(I'm hopeless. I couldn't pick just one, and I let it drag on indecisively until it came to this...)
+
+@YUM_TFO:141 PLY 4de7c50b
+(I... I...)
+
+@YUM_TFO:142 YUM a94d676d
+"{Nm}...{V0760}Good morning..."
+
+@YUM_TFO:143 YUM 5904c4fd
+"{V0761}Oh, come on,{W30} our promise...{W30} you're not going to say you forgot it,{W30} {Ec}are you?"
+
+@YUM_TFO:144 YUM 5d3c5d43
+"{Nm}...{V0785}Good morning..."
+
+@YUM_TFO:145 YUM a7064e2f
+"{V0786}Oh, come on,{W40} our promise...{W35} you're not going to say you forgot it,{W40} {Ec}are you?"
+
+@YUM_TFO:146 YUM c4c4b262
+"{V0787}Don't tell me...{W33} that besides{W2} the girl from the other day,{W15} you have another girl{W3} you're close to..."
+
+@YUM_TFO:147 YUM b4f03e4c
+"{V0788}Leaving me...{W50} behind...{W5} to go home..."
+
+@YUM_TFO:148 YUM 2848534b
+"{V0789}No,{W55} that's enough.{W60} {Eo}Please...{W40} don't say{W3} anything..."
+
+@YUM_TFO:149 YUM 29b3335c
+"{V0790}{Nm},{W20} I only want{W5} to keep the good memories of us..."

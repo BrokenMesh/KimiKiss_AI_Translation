@@ -1,0 +1,689 @@
+# NAR_SEV_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_SEV_A:28 PLY cc672775
+(...There's really no one around.)
+
+@NAR_SEV_A:31 PLY 8a2a31af
+(Well, this is the Year 1 classroom area, so of course.)
+
+@NAR_SEV_A:32 NAR 44fafb6d
+"{V0063}{W5}Ah! {W8}{Nm}{W4}{W3}~!"
+
+@NAR_SEV_A:33 PLY 7376998a
+(Huh? That voice...)
+
+@NAR_SEV_A:37 NAR ae16b1f0
+"{V0064}{W8}Sen{W3}pai{W2}{W2}{W3}{W3}~!"
+
+@NAR_SEV_A:59 SYS 27a9fe64
+{Ti1}Wham!!
+
+@NAR_SEV_A:60 PLY 9ce0e5d3
+"Oof!!"
+
+@NAR_SEV_A:61 PLY 0435e235
+(She d-didn't slow down at all...)
+
+@NAR_SEV_A:63 NAR c5ec5307
+"{V0065}{W8}What{W4} are you doing~?"
+
+@NAR_SEV_A:64 PLY d79811a2
+"J-just wandering around..."
+
+@NAR_SEV_A:65 NAR 5aed65c6
+"{V0066}{W8}Me{W9} too{W8}~!"
+
+@NAR_SEV_A:66 PLY 542af83a
+"Oh, I see..."
+
+@NAR_SEV_A:67 NAR 35c3bded
+"{V0067}{W8}Yes~! {W15}What a{W1} coinci{W3}dence{W1}~!"
+
+@NAR_SEV_A:68 PLY e10f9da0
+(...This is bad, everyone's watching. I have to get away!)
+
+@NAR_SEV_A:78 PLY afddeb39
+"Narumi, you can't just hug me out of nowhere. You startled me."
+
+@NAR_SEV_A:81 NAR 89f50f69
+"{V0068}{W8}Why not?"
+
+@NAR_SEV_A:82 PLY c020e287
+"Why not, well..."
+
+@NAR_SEV_A:85 NAR 47afece9
+"{V0069}{W8}Ehehe,{W1}{W1} {W45}I saw you,{W3}{W3} Senpai,{W8}{W15} and I just{W3} ran over."
+
+@NAR_SEV_A:86 PLY eb76f40d
+(Ugh... when she says it so innocently, I can't say anything...)
+
+@NAR_SEV_A:87 PLY da646e2f
+"R-right... Then it can't be helped. Hahaha..."
+
+@NAR_SEV_A:89 NAR 9419dbde
+"{V0070}{W8}Yes!"
+
+@NAR_SEV_A:90 PLY f81ce6cc
+"Well, I'm going back to class."
+
+@NAR_SEV_A:92 NAR 2b7e8270
+"{V0071}{W8}Okay!{Ti0} {Ti2}{W56}Senpai,{W3}{W3} {W18}I'll be going now~!"
+
+@NAR_SEV_A:95 PLY 2a4ffa2d
+(Whew, that startled me.)
+
+@NAR_SEV_A:97 NAR 77c7bd66
+"{V0072}{W5}Ah! {Ti2}{Nm}{W3}{W5}~!"
+
+@NAR_SEV_A:98 NAR a442c246
+"{V0073}{W8}Senpai~~~~!"
+
+@NAR_SEV_A:99 SYS 8ead44bc
+{Ti1}Wham!!{As0}{b0}
+
+@NAR_SEV_A:100 PLY a002c17d
+"Oof!!"
+
+@NAR_SEV_A:101 PLY 4b2e3366
+(A-again with no slowing down...)
+
+@NAR_SEV_A:102 NAR c3be400d
+"{V0074}{W8}What{W3} are you doing~?"
+
+@NAR_SEV_A:103 PLY 502f4d7a
+"W-what... I'm just wandering around..."
+
+@NAR_SEV_A:104 NAR 76be9f7c
+"{V0075}{W8}Me{W9} too{W8}{W1}~!"
+
+@NAR_SEV_A:105 PLY 60e29361
+"O-oh, I see."
+
+@NAR_SEV_A:106 NAR 365ff0b8
+"{V0076}{W8}Yes!"
+
+@NAR_SEV_A:107 PLY f6942a3b
+"Narumi."
+
+@NAR_SEV_A:108 NAR d1a45027
+"{V0077}{W8}{F4}Yes?{W25}{Ec}{W5}{F3}{Eo}{W3} What is it?"
+
+@NAR_SEV_A:109 PLY c64d605a
+"Well... when you leap at me that hard, it kind of hurts..."
+
+@NAR_SEV_A:111 NAR 17c35fb0
+"{V0078}{W5}Ah...{W70}{Ec}{W5}{Fe9m3}{Eo} I-{W17}I'm sorry."
+
+@NAR_SEV_A:112 NAR 53f35914
+"{V0079}{W8}You were there,{W3}{W3} Senpai,{W8}{Fe3} and I was just so happy..."
+
+@NAR_SEV_A:114 NAR 0dccb19d
+"{V0080}{W8}Ehehe,{W44}{Fe9}{Eo} I'll be careful{W13} from now on."
+
+@NAR_SEV_A:115 PLY e219e116
+"Yeah. People are watching, too."
+
+@NAR_SEV_A:116 NAR 0a53908b
+"{V0081}{W8}Um...{W24}{Nm}...{W4}"
+
+@NAR_SEV_A:117 PLY bd09fe50
+"Hm?"
+
+@NAR_SEV_A:118 NAR ae97f143
+"{V0082}{W8}Can{W4} I ask{W3} you{W30} one{W4} question{W4}?"
+
+@NAR_SEV_A:119 PLY 9b856156
+"Sure?"
+
+@NAR_SEV_A:121 NAR e46f8a0f
+"{V0083}{W8}Yaay!{Ti0} {Ti2}{W39}{Ec}{W5}{F9}{Eo}Well,{W4}{W2} it's...{W60} um...{W8}"
+
+@NAR_SEV_A:122 NAR 811c603b
+"{V0084}...Se-{W90}{F3}Senpai{W4}{W3}... {W76}{F6}d-{W74}do..."
+
+@NAR_SEV_A:123 PLY 7cf1f61a
+"Do?"
+
+@NAR_SEV_A:124 NAR 02408d6c
+"{V0085}{W8}What do you think{W3} of girls{W3} younger than you{W8}?!{W45}"
+
+@NAR_SEV_A:125 PLY 21e4acd1
+"What?!"
+
+@NAR_SEV_A:126 PLY 40161988
+"That's sudden..."
+
+@NAR_SEV_A:127 NAR 8772b67f
+"{V0086}{W7}Please{W3} answer.{W30} I'm begging you."
+
+@NAR_SEV_A:128 PLY 83dcf50e
+(Ugh... you can't just ask me that... how do I answer?)
+
+@NAR_SEV_A:129.1 - ebe99f19
+{Ti0}- I-I think they're cute／- I prefer older girls／- Age doesn't matter
+
+@NAR_SEV_A:130 PLY 395c8cb3
+"W-well... I think they're cute."
+
+@NAR_SEV_A:131 NAR 607f9944
+"{V0087}{W8}Huh? {W21}Really?"
+
+@NAR_SEV_A:132 PLY 1ea1b704
+"Y-yeah."
+
+@NAR_SEV_A:133 PLY fba5d70f
+"I have a little sister, so I'm probably more used to younger girls..."
+
+@NAR_SEV_A:134 NAR 3d1e9e1c
+"{V0088}{W8}Ah,{W5} that's it! {W21}{Fe2}{Ec}Of course!"
+
+@NAR_SEV_A:135 NAR 06c8061d
+"{V0089}{W8}I'm so glad...{W36} that you{W4}{W4} like{W3} {Ec}younger{W5}{W5} girls..."
+
+@NAR_SEV_A:137 PLY 13c954a1
+"No, it's not that I like younger girls exactly... I just don't mind a year or two of difference."
+
+@NAR_SEV_A:138 PLY 87c302fa
+"I prefer older girls, if anything..."
+
+@NAR_SEV_A:139 NAR b92b044a
+"{V0090}{W5}Oh...{W61}{Ec}{W5}{F6}{Eo}Is{W3} that{W3} so..."
+
+@NAR_SEV_A:140 PLY c5668c5e
+"Ah... but I have a little sister, so I'm probably more used to talking to younger girls..."
+
+@NAR_SEV_A:141 NAR 61a0034b
+"{V0091}{W8}Ah, that's it! {Ti2}{W45}Of course!"
+
+@NAR_SEV_A:142 NAR 2a21713d
+"{V0092}{W8}So,{W34} you don't{W5} dislike{W5}{W5} younger girls{W3}{W3}{W3}, right?"
+
+@NAR_SEV_A:143 PLY e3f8be68
+"Right, I don't."
+
+@NAR_SEV_A:144 PLY 8a93feab
+"Age doesn't matter to me."
+
+@NAR_SEV_A:145 NAR a153e5a4
+"{V0093}{W8}Re{W5}ally?"
+
+@NAR_SEV_A:146 PLY dcdebebc
+"Yeah. A year or two difference doesn't change much."
+
+@NAR_SEV_A:147 NAR d2460ea1
+"{V0094}{W8}{F2}{Ec}Ehehe,{W42}{F3}{Eo} maybe you're right."
+
+@NAR_SEV_A:148 PLY d43290ed
+"In my case, I have a little sister, so I'm probably more used to talking to younger girls..."
+
+@NAR_SEV_A:150 NAR 2252feb0
+"{V0095}{W8}Ah,{W15} that's{W3} it!{Ti0} {Ti2}{W42}{Ec}Of{W3} course{W2}!"
+
+@NAR_SEV_A:153 NAR b4a08e98
+"{V0096}{W8}Ah,{W30} class{W3} is{W5} starting.{W3}{W15} {F2}{Nm}{W3}{W4}{W4}, {W30}thank{W3} you for{W3} answering{W3} my question.{W45} I'll{W2} be{W2} going now."
+
+@NAR_SEV_A:154 PLY ca2ae96b
+"Sure. See you."
+
+@NAR_SEV_A:155 NAR c01e6e5b
+"{V0097}{W8}Yes!"
+
+@NAR_SEV_A:156 PLY 821ea990
+(She's gone... She's sudden about everything.)
+
+@NAR_SEV_A:157 PLY e2b56af4
+(But she seems to look up to me, and she's cheerful and sweet...)
+
+@NAR_SEV_A:158 PLY 85855ccc
+(...I don't have time to think about that! I have to get back to class!)
+
+@NAR_SEV_A:159 - 204912e3
+Cafeteria lady
+
+@NAR_SEV_A:161 ETG 3cb91ebe
+"Here's your daily special, thanks for waiting."
+
+@NAR_SEV_A:162 PLY 1a43d982
+"Thanks, ma'am."
+
+@NAR_SEV_A:163 PLY cd517803
+(Today's special is tendon. Looks delicious!)
+
+@NAR_SEV_A:164 PLY be4db9da
+(Now, where should I eat?)
+
+@NAR_SEV_A:165 NAR 00a6e4b9
+"{V0098}{W8}Ah,{W5} {Nm}{W3}{W4}."
+
+@NAR_SEV_A:166 PLY 93deb735
+"Oh, Narumi."
+
+@NAR_SEV_A:167 NAR b60cf24a
+"{V0099}{W10}Today's special is tendon.{W3} {W30}{Ec}It looks delicious{W6}{W3}~!"
+
+@NAR_SEV_A:168 NAR 37830784
+"{V0100}{W8}I'll{W8} get the special{W4} too."
+
+@NAR_SEV_A:169 PLY 3c629e2e
+"Hahaha, then want to eat together?"
+
+@NAR_SEV_A:170 NAR ef17d3b2
+"{V0101}{W8}Yes!{Ti0} {Ti2}{W15}Definitely!"
+
+@NAR_SEV_A:171 PLY b8a3a7aa
+"Then I'll grab us seats."
+
+@NAR_SEV_A:172 NAR a8a47583
+"{V0102}{W8}Yes! {Ti2}{W15}Thank you! {W30}I'll{W4} be right there!"
+
+@NAR_SEV_A:174 SYS c54d6614
+...And so I ended up eating lunch with Narumi.
+
+@NAR_SEV_A:175 NAR a9cc9405
+"{V0103}{W12}Senpai,{W3}{W3} {W21}look closely, this tendon{W2} has {W15}two{W5} big shrimp{W12} in it.{W3} {W30}How{W1} luxu{W2}rious{W3}{W2}{W1}~!"
+
+@NAR_SEV_A:176 PLY 1b758669
+"Hahaha, you're right."
+
+@NAR_SEV_A:177 NAR 67032ce4
+"{V0104}{W8}But if I eat{W3} two{W6} of{W2} them{W2} all{W2} at{W2} once,{W30} I'll get{W3} so{W2} full{W1}..."
+
+@NAR_SEV_A:178 PLY c0ed5ed3
+"There's lots of other tempura on it, too. Maybe it's too much for a girl?"
+
+@NAR_SEV_A:179 NAR 719eb516
+"{V0105}...Senpai,{W4}{W4} {W27}do you like{W12} shrimp tempura?"
+
+@NAR_SEV_A:180 PLY 297a5897
+"Of course. When you say tempura, you mean shrimp."
+
+@NAR_SEV_A:181 NAR 1619613d
+"{V0106}{W5}Then,{W30} I'll give you{W10} one."
+
+@NAR_SEV_A:182 PLY 4e6e8d06
+"Really? Lucky!"
+
+@NAR_SEV_A:183 NAR b743369c
+"{V0107}{W8}Yes!{Ti0} {Ti2}{W15}{Nm}{W3}{W4}, {W30}say{W2} aah{W2}{W2}!"
+
+@NAR_SEV_A:184 PLY 028e8cc8
+"N-Narumi, that's a little..."
+
+@NAR_SEV_A:185 NAR b6a0270d
+"{V0108}{W15}If you don't{W4} eat it quickly,{W3} it'll{W2} get{W3} cold."
+
+@NAR_SEV_A:186 PLY 26223c8a
+"W-well, that's true, but..."
+
+@NAR_SEV_A:188 NAR 54874d09
+"{V0109}{W5}It's{W9} how I{W4} feel.{W21} Please{W2} eat it."
+
+@NAR_SEV_A:189.1 - e0765193
+{Ti0}- W-well, then...／- Even if you say that...
+
+@NAR_SEV_A:190 PLY 85e31048
+"W-well, then..."
+
+@NAR_SEV_A:191 NAR 86c86ce2
+"{V0110}{W8}Okay,{W8} aaah{W2}{W2}{W2}"
+
+@NAR_SEV_A:192 PLY cda8ebc8
+"Even if you say that..."
+
+@NAR_SEV_A:193 NAR 03aa0f0a
+"{V0111}{W5}Oh...{W105} Is it...{W57} not okay...?{W78} Am I{W8} {W78}bothering you{W4} again, Senpai{W4}{W5}{W2}{W2}{W2}{W2}{W2}...?"
+
+@NAR_SEV_A:194 PLY 2b43ba0f
+(Uh-oh... she might start crying again...)
+
+@NAR_SEV_A:195 PLY 901cc459
+"Okay! I'll eat it! I'll eat it! Mmm, looks delicious!"
+
+@NAR_SEV_A:196 NAR 8e9d9a47
+"{V0112}{W12}Okay,{W45} aaaah"
+
+@NAR_SEV_A:197 SYS 243ff378
+Munch munch...
+
+@NAR_SEV_A:198 NAR 4fdc3eb5
+"{V0113}{W8}Senpai,{W3} {W36}is it good?"
+
+@NAR_SEV_A:199 PLY a76c5216
+"Yeah, it's great."
+
+@NAR_SEV_A:200 NAR eab7ff52
+"{V0114}{W5}Ehehe,{W30} I'm glad."
+
+@NAR_SEV_A:201 PLY df76ac49
+(Narumi's gotten so forward somehow...)
+
+@NAR_SEV_A:202 PLY f6918d42
+(She wouldn't stop crying, but maybe hugging her was a mistake...)
+
+@NAR_SEV_A:203 PLY 07deab4a
+(Yaaawn, I'm sleepy.)
+
+@NAR_SEV_A:204 PLY 0fa4ce9c
+(It's hot at night, so I sleep lightly.)
+
+@NAR_SEV_A:205 PLY a5d63bed
+(Yaaaaawn.)
+
+@NAR_SEV_A:206 NAR 9b3e46ab
+"{V0115}{W5}{Nm}{W4}{W4}! {Ti2}{W16}Good morning!"
+
+@NAR_SEV_A:207 PLY f08945c5
+"Oh, Narumi!"
+
+@NAR_SEV_A:208 PLY e8c1456b
+"Morning. What a coincidence."
+
+@NAR_SEV_A:209 NAR 8c225806
+"{V0116}{W8}Ehehe,{W32} it's not{W4} a coincidence{W4}.{W3} {W30}{Fe3}I was waiting for you,{W18} {Fe2}{Ec}Senpai{W3}{W3}!"
+
+@NAR_SEV_A:210 PLY f596f20c
+"Huh? You were?"
+
+@NAR_SEV_A:211 NAR 7d166a62
+"{V0117}{W8}Yes! {Ti2}{W18}I thought we could go to school together."
+
+@NAR_SEV_A:212 PLY 6a9ac30e
+"Weren't you hot, standing out here?"
+
+@NAR_SEV_A:213 NAR 82e91c3e
+"{V0118}{W12}If{W4} I{W4} can{W2} really{W3} go{W5} along{W2} with{W2} you{W2} to{W2} any{W2} place,{W15} {Eo}this is nothing!"
+
+@NAR_SEV_A:214 NAR 7b7b1f30
+"{V0119}{W8}We're{W1} in{W1} different{W3} years{W3} and{W3} classes,{W1} so{W1}{W3}{W25} {Ec}{W5}{F9}{Eo}we{W1} can't{W1} always{W1} get{W1} to{W1} see{W1} you,{W1}{W4}{W1}{W45} {Ec}and I want{W3} to be{W2} with you{W4} a bit longer..."
+
+@NAR_SEV_A:215 PLY 65928068
+"Narumi..."
+
+@NAR_SEV_A:216 NAR 37dbcf26
+"{V0120}{W8}I wish{W4} I'd been born{W6} a year{W5} earlier{W1}{W1}{W1}{W1} and{W30} {Ec}been in {Nm}'s{W4}{W4}{W4} class,{W30} {F9}{Eo}taking{W4} lessons{W2} together{W3}."
+
+@NAR_SEV_A:217 NAR 21021898
+"{V0121}{W8}Then,{W33} {Ec}{E}{m7}I could be with{W3} you{W8} {Fm3}forever{W3}{W3}..."
+
+@NAR_SEV_A:218 PLY bb801fae
+(Together with Narumi forever, huh... That'd be kind of tough...)
+
+@NAR_SEV_A:219 PLY ac46bce5
+"W-well, shall we go?"
+
+@NAR_SEV_A:220 NAR f15e36f8
+"{V0122}{W8}Yes!"
+
+@NAR_SEV_A:221 PLY 47a0f1c5
+(Whew... when you need to think, nothing beats the rooftop.)
+
+@NAR_SEV_A:222 PLY 8a8a41c1
+(Narumi, huh... I have to think about her seriously...)
+
+@NAR_SEV_A:223 PLY 9151395a
+(Cheerful, full of energy, good at cooking, a year younger...)
+
+@NAR_SEV_A:224 PLY e60420bd
+(Wanting to be with me in front of everyone has its good and bad sides...)
+
+@NAR_SEV_A:225 PLY 18417e63
+(If she looks up to me that much, is it okay to just go on and fall for her?)
+
+@NAR_SEV_A:226 PLY 9fe146b2
+(...But I feel like it's less that she likes me and more that she's in love with being in love...)
+
+@NAR_SEV_A:228 NAR db6280c3
+"{V0123}{W8}Ah, {Nm}{W3}! {Ti2}{W19}So this is where you were!"
+
+@NAR_SEV_A:229 PLY 728fe095
+"Oh, Narumi..."
+
+@NAR_SEV_A:230 NAR 797d1a07
+"{V0124}{W8}Ehehe,{W32} you weren't in{W3} class{W2},{W5}{Eo} so I looked all over for you."
+
+@NAR_SEV_A:231 PLY df6b2731
+"O-oh, I see..."
+
+@NAR_SEV_A:232 NAR 393b8639
+"{V0125}{W12}Senpai!{W4} {Ti2}{W29}Listen!{W30} I{W17} came up with{W8} an{W4} amazing udon idea!"
+
+@NAR_SEV_A:233 NAR 7d72bec8
+"{V0126}{W8}Okay, here it is! {Ti2}{W23}Believe it or not,{W15} on top of the udon..."
+
+@NAR_SEV_A:234 PLY b94a7257
+(I was finally thinking seriously about Narumi, and yet...)
+
+@NAR_SEV_A:235 PLY 8908f3d3
+"Narumi, I'm sorry..."
+
+@NAR_SEV_A:236 NAR ec851da4
+"{V0127}{W8}Huh?"
+
+@NAR_SEV_A:237 PLY cdebbe31
+"I want to be alone for a bit. Can we talk another time?"
+
+@NAR_SEV_A:238 NAR bc16f71e
+"{V0138}Ah..."
+
+@NAR_SEV_A:239 NAR 6db13cd9
+"{V0129}{W8}O-{W15}okay...{W16} I{W1} un{W1}der{W1}stand.{W42} I'm{W4} sorry{W1} to{W1} bother you..."
+
+@NAR_SEV_A:240 NAR 8eebe4fc
+"{V0130}{W12}I'll{W6} be{W9} going now..."
+
+@NAR_SEV_A:241 PLY 86099c65
+(Narumi... I guess I was a little cruel to her.)
+
+@NAR_SEV_A:242 PLY b82af7a1
+(But still...)
+
+@NAR_SEV_A:243 PLY 83cbd42a
+(Now then, what should I have for lunch today?)
+
+@NAR_SEV_A:244 NAR 522c4f51
+"{V0131}{Nm}{W3}{W3}{W3},{W27} are you heading{W3} to lunch{W4} now?"
+
+@NAR_SEV_A:245 PLY 654d6a3c
+"Oh, Narumi. Yeah, why?"
+
+@NAR_SEV_A:246 NAR dc4e0f70
+"{V0132}{W8}Then,{W15} please{W10} eat{W3} my{W4} spe{W4}cial{W5} udon!"
+
+@NAR_SEV_A:247 PLY 122df4f6
+"Huh?"
+
+@NAR_SEV_A:251 NAR aed57b6a
+"{V0133}{W8}Ta-{W5}{W3}daa!!"
+
+@NAR_SEV_A:252 NAR 52dbf01d
+"{V0134}{W8}Look! {Ti2}{W25}I put{W3} five{W3} of your{W2} favorite shrimp tempura{W3}{W15} on top~!"
+
+@NAR_SEV_A:253 NAR db551c00
+"{V0135}{W8}I call it{W30} the Special{W4} Extra-Big{W4} Shrimp Tempura Udon!"
+
+@NAR_SEV_A:254 PLY 401a8607
+"Hahahahaha..."
+
+@NAR_SEV_A:255 NAR cc915589
+"{V0136}{W8}The{W1} other{W3} day,{W39} I{W3} couldn't{W4} talk{W1} about{W1} what{W1} kind{W1} of{W1} udon{W1} on{W1} the{W1} rooftop,{W15} so{W4} I{W1} made{W1} it{W1} and{W1} brought{W1} it.{W1}"
+
+@NAR_SEV_A:256 PLY 67919fb4
+"I-I see."
+
+@NAR_SEV_A:257 NAR fb594f7e
+"{V0137}{W8}Come on! {Ti2}{W16}Let's eat together!"
+
+@NAR_SEV_A:258 PLY a1076a3b
+"Ugh... Narumi, I appreciate the thought, but..."
+
+@NAR_SEV_A:259 PLY a946d2ac
+"Five shrimp tempura would give me heartburn. I can't eat that..."
+
+@NAR_SEV_A:261 NAR d5b5aef5
+"{V0138}{W8}Ah..."
+
+@NAR_SEV_A:262 NAR c2c32fba
+"{V0139}{W8}Y-{W72}you're{W3} right,{W56} {Ec}{W5}{Fe6}{Eo}you can't{W6} eat{W2} all{W3} that,{W2} can you..."
+
+@NAR_SEV_A:263 PLY bf824a5f
+"Yeah. No matter how much I like shrimp tempura, this is..."
+
+@NAR_SEV_A:264 NAR 57922c95
+"{V0140}{W8}Ugh...{W10} {Nm}{W4}{W4}..."
+
+@NAR_SEV_A:265 NAR fc32e294
+"{V0141}{Fe6}...{W66}{Fe9}{Ec}Silly, silly Narumi...{W24} {Fe6}{Eo}making an udon like this without thinking it through..."
+
+@NAR_SEV_A:267 NAR e49db132
+"{V0142}{W8}Why{W8} am{W2} I{W14} like{W3} this{W2}...{W1}"
+
+@NAR_SEV_A:268 PLY f71acc68
+"Ah... no, you made it just for me. I'll eat it!"
+
+@NAR_SEV_A:269 NAR 47519bc0
+"{V0143}{W8}No,{W15} it's okay, you don't have to force yourself.{W45} {Fe6}It's{W8} my fault."
+
+@NAR_SEV_A:270 PLY e6cad572
+"No, that's not it... I didn't mean to hurt you."
+
+@NAR_SEV_A:271 NAR b4c711bb
+"{V0144}{W8}Mm.{W24} I know.{W61} {Fm6}{Ec}You're{W3} kind{W3}..."
+
+@NAR_SEV_A:272 PLY 37557aea
+"No, that's not..."
+
+@NAR_SEV_A:273 NAR 6f06d8e4
+"{V0145}{W8}Ehehe,{W45} next{W3} time{W30} I'll{W8} make{W3} an{W3} udon{W2} you'll{W3} love.{W8}"
+
+@NAR_SEV_A:274 PLY 8b7a78ab
+"Ah... Narumi... she's gone..."
+
+@NAR_SEV_A:275 PLY d9d31035
+(What a jerk I am. There had to be some other way to say it...)
+
+@NAR_SEV_A:276 PLY 7bb8885f
+(Sorry, Narumi...)
+
+@NAR_SEV_A:278 NAR 8442d0e8
+"{V0146}{W8}Ah! {Ti2}{W15}{Nm}!"
+
+@NAR_SEV_A:279 PLY d940c53e
+(Here she comes! She's coming! She'll jump on me! I have to brace myself!)
+
+@NAR_SEV_A:283 PLY e543b1e0
+(Okay! Bring it on!)
+
+@NAR_SEV_A:285 NAR d0092ce3
+"{V0147}{W12}Sen{W4}pa{W6}aaa{W2}a{W2}a{W2}a{W2}ai!"
+
+@NAR_SEV_A:286 PLY 8e12934c
+"Oof! Honestly, you never slow down, do you, Narumi?"
+
+@NAR_SEV_A:287 NAR 6323f502
+"{V0148}{W8}But,{W21} I saw{W3} you{W3} there{W8} and{W5} just couldn't help it~!"
+
+@NAR_SEV_A:288 PLY b56394e9
+"Hahahahahaha."
+
+@NAR_SEV_A:289 NAR c9e36845
+"{V0149}{W8}Ehehehehe."
+
+@NAR_SEV_A:290 PLY 8ff3b3ae
+(It's bound to go like this!)
+
+@NAR_SEV_A:298 PLY 8bab4ee2
+(Come on! Bam! Bam! Ba-a-am...)
+
+@NAR_SEV_A:299 NAR 5c8bf99b
+"{V0150}{W8}Good{W2} afternoon,{W15} Sen{W2}pai."
+
+@NAR_SEV_A:300 PLY df3f768e
+"Huh? Oh... good afternoon."
+
+@NAR_SEV_A:301 NAR 3bb7682b
+"{V0151}{W5}What are you doing?"
+
+@NAR_SEV_A:302 PLY 0523c6c8
+"Oh, nothing... I'm just wandering around..."
+
+@NAR_SEV_A:303 NAR 5eb8c136
+"{V0152}{W8}Hehe,{W45} {Eo}just wandering around{W30} is fun, isn't it?"
+
+@NAR_SEV_A:304 PLY 303bae44
+"I-is it? Hahaha..."
+
+@NAR_SEV_A:305 NAR 5aa4ff30
+"{V0153}{Ec}Ufufufu."
+
+@NAR_SEV_A:306 NAR 069e06fd
+"{V0154}{W9}{Eo}Oh, Senpai,{W39} the{W15} school{W4} fes{W3}ti{W6}val{W2} is coming up soon."
+
+@NAR_SEV_A:307 PLY b760811f
+"Oh, right."
+
+@NAR_SEV_A:308 NAR f75c7aba
+"{V0155}{W8}The Home Ec{W4} Club{W27} is planning{W3} to run an udon stand.{W47} {Fe2}{Ec}Please be sure to stop by."
+
+@NAR_SEV_A:309 PLY a94387f2
+"O-of course I'll come."
+
+@NAR_SEV_A:310 NAR c1a8fc71
+"{V0156}{W8}Well then,{W39} I'll be going now."
+
+@NAR_SEV_A:311 PLY b65bc429
+"Oh, okay. See you."
+
+@NAR_SEV_A:312 PLY 4deb36ad
+(What on earth has gotten into Narumi?)
+
+@NAR_SEV_A:313 PLY f2e13e2c
+(Wait... is she trying to become a grown-up woman?)
+
+@NAR_SEV_A:314 PLY 3e1479ff
+(Hahaha... well, it probably won't last long...)
+
+@NAR_SEV_A:316 PLY ef3ae281
+(Hm? Something smells good from the Home Ec Room...)
+
+@NAR_SEV_A:317 PLY e4046e9b
+(Is Narumi making udon? Let's take a peek.)
+
+@NAR_SEV_A:318 PLY ddda3d66
+"Ah, there you are. Narumi, it smells great in here~"
+
+@NAR_SEV_A:320 NAR 5fd0a779
+"{V0157}{W8}Oh,{W6} {Nm}."
+
+@NAR_SEV_A:322 NAR 1b054f8b
+"{V0158}{W8}Did you notice?{W45} I added something to the dashi."
+
+@NAR_SEV_A:323 PLY 8ec81274
+"Something?"
+
+@NAR_SEV_A:324 NAR 7813a4c4
+"{V0159}{W8}Hehe,{W31} it's{W3} a{W3} secret.{W36}"
+
+@NAR_SEV_A:325 PLY 828d0142
+"A secret? Why?"
+
+@NAR_SEV_A:326 NAR c7b8b93b
+"{V0160}{W8}I'm planning to serve this udon{W24} {Ec}{W5}{F3}{Eo}at{W5} the{W4} school{W4} fes{W3}tival stand."
+
+@NAR_SEV_A:327 NAR 9a388df5
+"{V0161}{W8}So{W3} please{W3} look{W27} for{W3}ward{W3} to{W2} it{W2} un{W3}til{W2} then{W5}."
+
+@NAR_SEV_A:328 PLY 42457305
+"I see. Gotta save something to look forward to."
+
+@NAR_SEV_A:329 PLY 2ba6ab15
+"Well, see you, Narumi."
+
+@NAR_SEV_A:330 PLY 509548a9
+(Narumi has gotten kind of quiet, or rather, more ladylike...)
+
+@NAR_SEV_A:331 PLY 6b29ab86
+(I hope she isn't forcing herself...)
+
+@NAR_SEV_A:332 PLY 7e203725
+(Still, I'm curious about that dashi. What was that smell?)

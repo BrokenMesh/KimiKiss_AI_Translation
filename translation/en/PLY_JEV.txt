@@ -1,0 +1,470 @@
+# PLY_JEV -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@PLY_JEV:32 PLY 91b31994
+(Phew... finally a day off. I just can't shake this summer vacation daze.)
+
+@PLY_JEV:35 PLY 72d68963
+(...Come to think of it, I still haven't done my summer vacation homework...)
+
+@PLY_JEV:36 PLY c812c561
+(Guess I can't put it off. Let's get it done...)
+
+@PLY_JEV:42 PLY 305a4ea0
+(...............)
+
+@PLY_JEV:43 PLY 7f70a92b
+(Huh?! Oh no! I fell asleep before I knew it!)
+
+@PLY_JEV:44 PLY d951f351
+(...Homework can wait till next time.)
+
+@PLY_JEV:47 PLY 05ccfb57
+(It's a rare day off, and I've got nothing to do...)
+
+@PLY_JEV:48 PLY 7aefa825
+(Maybe I'll surf the net...)
+
+@PLY_JEV:49 SYS c124fde3
+{Ti0}{Ti2}Click, click
+
+@PLY_JEV:50 SYS 76eb614c
+{Ti0}{Ti2}Clack-clack-clack-clack...
+
+@PLY_JEV:51 PLY 0e7cbeb9
+(I haven't looked in a while, so there are tons of new posts piled up...)
+
+@PLY_JEV:52 SYS c0e6ca04
+...And so I surfed the net all day.
+
+@PLY_JEV:57 PLY c26b9089
+(...Huh? What's that over there...)
+
+@PLY_JEV:58 PLY 3897f86d
+(Whoa! It's that manga I've been looking for! It was here all along?!)
+
+@PLY_JEV:59 PLY 16cf0a99
+(Let's read it right now.)
+
+@PLY_JEV:60 SYS 1b87d5a7
+{Ti0}{Ti2}Flip
+
+@PLY_JEV:61 PLY 8940c07c
+"Hahahahaha."
+
+@PLY_JEV:62 PLY 735bc94b
+(This author's sense of humor really is the best!)
+
+@PLY_JEV:63 PLY 2ffc5da6
+(How do they come up with such funny stuff?)
+
+@PLY_JEV:64 PLY 9f43b0f0
+(All right! Today I'm reading everything this author ever wrote!)
+
+@PLY_JEV:65 SYS c19ca5be
+...And so I buried myself in manga all day.
+
+@PLY_JEV:66 PLY 55e27b92
+(At times like this, nothing beats a nap... Yeah.)
+
+@PLY_JEV:67 PLY 66490833
+"Snrrk, snrrk."
+
+@PLY_JEV:68 PLY 7da89541
+"Snrrk, snrrk, snrrk."
+
+@PLY_JEV:69 PLY dd4c4ea7
+(Aah, that was a good sleep. ...Though I slept a bit too long.)
+
+@PLY_JEV:70 PLY 778519dc
+(...It's starting to feel like autumn, so maybe I'll swap out my clothes.)
+
+@PLY_JEV:71 PLY 7a72e337
+(Put away the summer stuff, and take out the fall and winter stuff... there.)
+
+@PLY_JEV:72 PLY 4f4fb6b8
+(While I'm at it, I'll clean my room too.)
+
+@PLY_JEV:73 SYS 62cc7de4
+...And so the day went by.
+
+@PLY_JEV:76 PLY fbeee11d
+"Hey, Nana. I'm coming in."
+
+@PLY_JEV:87 NAN b051aff1
+"{V0868}{Ts3}Eeek!"
+
+@PLY_JEV:89 PLY 8af2e678
+"Whoa! S-sorry!"
+
+@PLY_JEV:90 NAN 74ee582b
+"{V0869}Close it!{W3} Close it~!"
+
+@PLY_JEV:92 NAN e8ff4d16
+"{V0870}Geez!{W30} At least knock!{W20} Big Bro!"
+
+@PLY_JEV:93 PLY ef586f43
+"Sorry, sorry."
+
+@PLY_JEV:94 NAN 85b164e6
+"{V0871}You're such a{W5} pervert~!"
+
+@PLY_JEV:95 PLY b4b7114a
+"Don't say that. I didn't open it to peek, and I'm apologizing, aren't I?"
+
+@PLY_JEV:97 NAN aa5388d5
+"{V0872}Hmmmph."
+
+@PLY_JEV:98 NAN 6995c616
+"{V0873}...So,{W40} did you{W30} want{W10} something?"
+
+@PLY_JEV:99 PLY 9823f163
+"Um... sorry, I forgot what I came for. All I can remember is Nana's panties."
+
+@PLY_JEV:100 NAN 9cf06d31
+"{V0874}Geez!{W10} I don't care anymore!{W20} {Ts3}Pervert!"
+
+@PLY_JEV:102 PLY 38316f95
+"Dry your hair properly before you sleep~. You'll catch a cold~."
+
+@PLY_JEV:103 PLY bd4da52a
+(Phew, what an incident.)
+
+@PLY_JEV:107 PLY b6c66081
+"W-whoa,{W15} an earthquake!{W60} ...It's... a big one!"
+
+@PLY_JEV:108 PLY 2ac1f0ff
+"Phew... it finally stopped. That scared me."
+
+@PLY_JEV:109 NAN 50458340
+"{V0875}B{W10}B{W15}Big...{W35}{Ts3}Big Bro~~!!"
+
+@PLY_JEV:119 PLY e52a54e7
+"Ah, Nana!"
+
+@PLY_JEV:125 NAN d34b2083
+"{V0876}Eep...{W40} An earthquake,{W50} an earthquake{W3}~~"
+
+@PLY_JEV:127 NAN 0cb5f393
+"{V0877}I was scared...{W80}{Eo} I was so{W5} scared~~~"
+
+@PLY_JEV:128 PLY 6cfaec6e
+"It's all right now, Nana."
+
+@PLY_JEV:130 NAN 7fe06839
+"{V0878}Waaah~~.{W90}{Ec} It shook so much,{W30} so much~~"
+
+@PLY_JEV:131 PLY b06fbc14
+"I know. It's over now, don't worry."
+
+@PLY_JEV:132 NAN b9f1081e
+"{V0879}Hmmph,{W70} I hate{W25} earthquakes~~"
+
+@PLY_JEV:134 NAN fd095c84
+"{V0880}Tonight{W40}{Ec} I'm sleeping{W2} with Big Bro~~!"
+
+@PLY_JEV:135 PLY 9f1a07a5
+"Th-that's not going to work."
+
+@PLY_JEV:136 NAN 42a3c3de
+"{V0881}But,{W50} but...{W40} it might shake again~"
+
+@PLY_JEV:137 PLY ebe78f87
+"That's true, but..."
+
+@PLY_JEV:138 PLY ab9cd80a
+"Come on, I'll walk you to your room, so go to sleep."
+
+@PLY_JEV:139 NAN 0725cb3c
+"{V0882}...O-{W40}okay."
+
+@PLY_JEV:140 NAN 4716cd17
+"{V0883}But,{W40} but...{W30} what if it shakes again...{Ec}"
+
+@PLY_JEV:141 PLY 578ccaf7
+"I'll stay with you until you fall asleep."
+
+@PLY_JEV:142 NAN 83403b99
+"{V0884}Really?{W70} {F9}Promise{W3} me!"
+
+@PLY_JEV:143 PLY 77ca92ba
+"Yeah, yeah."
+
+@PLY_JEV:147 PLY e5471f23
+"Hey, Nana. Got a minute?"
+
+@PLY_JEV:148 NAN 6c1f96a1
+"{V0919}Ah!{W3} W-{W3}wait a second!"
+
+@PLY_JEV:149 PLY 4cb493ec
+"Opening it~."
+
+@PLY_JEV:150 NAN 587b2d29
+"{V0920}Aaah,{W2} I said wait~!"
+
+@PLY_JEV:153 NAN 81eb1de7
+"{V0921}W-{W5}what is it?{W3} Big Bro?"
+
+@PLY_JEV:154 PLY 3a0e5c30
+"Nothing really... More importantly, what were you doing?"
+
+@PLY_JEV:156 NAN 19b9b722
+"{V0922}Huh?{Sp} N-{W30}nothing.{W5} I wasn't{W3} doing anything."
+
+@PLY_JEV:157 PLY 81230213
+"Really~? You seemed pretty flustered."
+
+@PLY_JEV:158 NAN d04bac3a
+"{V0923}Geez!{W20} It's{W3} nothing!{W25} {Eo}You have no delicacy!"
+
+@PLY_JEV:162 NAN 9ecd76d3
+"{V0924}If you don't need anything,{W10} get out~{Ec}"
+
+@PLY_JEV:163 PLY 93dbf975
+"Ah... hey, hey."
+
+@PLY_JEV:164 PLY 9842339b
+(I got kicked out...)
+
+@PLY_JEV:165 PLY dcdfa7ef
+"Hey, Nana~."
+
+@PLY_JEV:166 PLY 5d380b29
+"Coming in~."
+
+@PLY_JEV:167 PLY 27c8ccb4
+"Huh, she's not here..."
+
+@PLY_JEV:169 PLY 0d1fe1fb
+(...Still, it's such a girlish room...)
+
+@PLY_JEV:173 PLY 71bb70ce
+(And it smells kind of nice, too...)
+
+@PLY_JEV:176 PLY c9dd1f78
+(Wait, what am I thinking...)
+
+@PLY_JEV:177 NAN bb695831
+"{V0925}Aaah!{W10} Big{W5} Bro!"
+
+@PLY_JEV:178 NAN acbe5a33
+"{V0926}Geez!{W20} Don't{W3} just walk{W2} into my room{W2}!"
+
+@PLY_JEV:179 PLY 0441ba65
+"Sorry, sorry. I called, but you didn't answer..."
+
+@PLY_JEV:180 NAN e336dafd
+"{V0927}Get out!{W33} Get out~.{W33}{Eo} Geez!"
+
+@PLY_JEV:181 PLY 47ae03c6
+"Hey, hey, Nana..."
+
+@PLY_JEV:182 PLY e4fda6cf
+(Today I promised to go to the beach with Nana, but...)
+
+@PLY_JEV:183 PLY 2b4b5bc9
+(I also promised to hang out with another girl...)
+
+@PLY_JEV:184 PLY 3c9852f3
+(I have no choice but to tell Nana I can't go...)
+
+@PLY_JEV:185 PLY 6f53da83
+"Nana, got a minute?"
+
+@PLY_JEV:186 PLY 0d80b9d5
+"......"
+
+@PLY_JEV:187 PLY 781e8214
+"Huh? No answer... Maybe she's downstairs?"
+
+@PLY_JEV:189 NAN f2369d5b
+"{V0464}Ah,{W20} Big Bro!{Ec}"
+
+@PLY_JEV:190 PLY 508e3fa2
+"Oh, you were here."
+
+@PLY_JEV:192 NAN b61d5fc6
+"{V0465}Yup!{W20} I was waiting{W15} for you to come down."
+
+@PLY_JEV:193 PLY 876a2929
+"I see..."
+
+@PLY_JEV:195 NAN 8213f9f2
+"{V0466}Okay!{W3} Let's go, let's go!{W20}{Ec} To the beach, the beach~~~!"
+
+@PLY_JEV:196 PLY 5c149a28
+"About that, Nana... I'm sorry..."
+
+@PLY_JEV:197 NAN 7e20d3dc
+"{V0467}Huh?"
+
+@PLY_JEV:198 PLY 5a548635
+"Something came up today, and I can't go..."
+
+@PLY_JEV:199 NAN bca36b53
+"{V0468}Whaaat?!{W45} But{W3}...{W3}"
+
+@PLY_JEV:200 PLY 65dfe636
+"I'm really sorry! ...I have to go there already..."
+
+@PLY_JEV:201 NAN afb51685
+"{V0469}......"
+
+@PLY_JEV:202 NAN 51260159
+"{V0470}...Is it{W35} an important{W5} errand{W3}?{Ec}"
+
+@PLY_JEV:203 PLY 2540df1d
+"...Yeah."
+
+@PLY_JEV:204 NAN 8200a9e4
+"{V0471}More important than{W45} going to the beach{W5} with Nana?"
+
+@PLY_JEV:205 PLY 9efd61f7
+"...Y-yeah."
+
+@PLY_JEV:206 NAN 991ef635
+"{V0472}...I see{Ec}"
+
+@PLY_JEV:208 NAN 89f62d66
+"{V0473}Then,{W30} it can't{W3} be helped."
+
+@PLY_JEV:209 PLY 89879d22
+"Sorry, Nana."
+
+@PLY_JEV:210 NAN 7eda2fdd
+"{V0474}No,{W35} it's okay.{W45} Ask me{W5} again.{W60}{Eo} I want to go{W25} to the beach{W3} with Big Bro."
+
+@PLY_JEV:211 PLY 6896fbe6
+"Right..."
+
+@PLY_JEV:212 NAN e19419b5
+"{V0475}I'll{W70} just stay{W5} in my room{W40} all day...{W40}{Ec} See you,{W10} Big Bro."
+
+@PLY_JEV:213 PLY f7da55ba
+"Ah, Nana..."
+
+@PLY_JEV:215 PLY 48ddb734
+(Sorry, Nana... I'm a terrible big brother...)
+
+@PLY_JEV:216 PLY efe2ad9a
+(.........)
+
+@PLY_JEV:217 PLY 55045a3b
+(...A school festival spent with a girl...)
+
+@PLY_JEV:220 PLY c0448f70
+(...I can't wait... I wish the school festival would hurry up and come...)
+
+@PLY_JEV:221.1 - bc877d55
+{Ti0}- I can't wait for the school festival...／- No, there's still stuff I want to do...
+
+@PLY_JEV:222 PLY 2c38ee91
+(Aah, I can't wait... the school festival...)
+
+@PLY_JEV:223 PLY 798126fb
+(No, no, that doesn't mean I should take the days before the school festival lightly...)
+
+@PLY_JEV:224 PLY 8ffbef84
+(All right, I'll do my best from tomorrow, too!)
+
+@PLY_JEV:225 PLY c91a1f6c
+(...I can't wait... the school festival...)
+
+@PLY_JEV:231 PLY 400754c0
+(......?)
+
+@PLY_JEV:232 PLY 779355ce
+(What...?)
+
+@PLY_JEV:233 PLY 6b0c6f00
+(I feel something...)
+
+@PLY_JEV:234 PLY 3d1b35e3
+(......)
+
+@PLY_JEV:235 PLY d48063e3
+(No... must be my imagination.)
+
+@PLY_JEV:236 - 1e898237
+Model kit
+
+@PLY_JEV:238 AKI c4eeffe5
+"The vaulting box. What a wonderful thing it is."
+
+@PLY_JEV:239 AKI 07098744
+"This wooden structure, gathering all the wisdom of mankind."
+
+@PLY_JEV:240 AKI 9f252295
+"From this very moment, your spirit leaves your body and sets off on a mysterious journey."
+
+@PLY_JEV:241 AKI 412c1c3b
+"Now then, whom will you travel to..."
+
+@PLY_JEV:244 - f2aaf3b1
+"
+
+@PLY_JEV:245 - 3a1196bd
+'s vaulting box event... I haven't seen it yet..."
+
+@PLY_JEV:246 AKI 5dcff9fc
+"How disappointing..."
+
+@PLY_JEV:247 - 4339a78c
+"All right! Then let's go to 
+
+@PLY_JEV:248 - 65a9c62b
+'s vaulting box event! Full speed ahead!"
+
+@PLY_JEV:249.1 - 2f501983
+{Ti0}- All right! Let's go!／- No, I choose...／- Return to reality
+
+@PLY_JEV:252 AKI 51863017
+"...No, let's pick a different girl."
+
+@PLY_JEV:253 AKI 43c4b20f
+"I'm truly disappointed..."
+
+@PLY_JEV:259.1 - 9a0c6bb3
+{Ti0}- Hoshino　　　　　- Narumi／- Next　　　　　　　- Return to reality
+
+@PLY_JEV:260.1 - 87c592dd
+{Ti0}- Mao　　　　　　　- Sakino／- Next　　　　　　　- Return to reality
+
+@PLY_JEV:261.1 - ecc7a0a7
+{Ti0}- Futami　　　　　　- Shijou／- Next　　　　　　　- Return to reality
+
+@PLY_JEV:262 - cf3a2302
+Hoshino
+
+@PLY_JEV:263 - a6a0b189
+Narumi
+
+@PLY_JEV:264 - 0e688034
+Mao
+
+@PLY_JEV:265 - 1b734b38
+Sakino
+
+@PLY_JEV:266 - 79f76ab3
+Futami
+
+@PLY_JEV:267 - 5c0ee812
+Shijou
+
+@PLY_JEV:432 - d57d0ac4
+Pose
+
+@PLY_JEV:434 - 367e94cd
+Face
+
+@PLY_JEV:443 SYS 060ab3c8
+{Ti0}- Left/Right: change outfit and pose - Circle: switch location automatically - Triangle: gaze at the girl
+
+@PLY_JEV:454 - ec3771bc
+Outfit: 
+
+@PLY_JEV:455 - 8d45dbbb
+Pose:   
+
+@PLY_JEV:456 - acc6ee36
+Face:   

@@ -1,0 +1,14 @@
+# NAN_MW3_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_MW3_A:8 PLY d1cc3239
+(Nana...)
+
+@NAN_MW3_A:24 NAN 079a58d1
+"...{E}......{E}?"
+
+@NAN_MW3_A:25 PLY 6419c68d
+(...Or rather, what am I expecting from my own sister?!)
+
+@NAN_MW3_A:26 PLY f91b3fc4
+(No good... I have to get a grip...)

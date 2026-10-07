@@ -1,0 +1,110 @@
+# NAN_MKI -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_MKI:46 NAN 0dcb9e9c
+"{V0783}{W10}Um{W17}...{W17} well{W10}...{W54} {Sp}I don't really get it!"
+
+@NAN_MKI:50 NAN bb80dc29
+"{V0784}{W5}Aw, boring~.{W10} That kind of{W4} talk."
+
+@NAN_MKI:54 NAN a9862b22
+"{V0774}{W4}Hmm{W15}...{W15}{W54} It sounds like{W4} it'd be fun{W4}, though..."
+
+@NAN_MKI:57 NAN 5ff05e70
+"{V0775}{W4}Big Bro,{W40} that{W3} story{W4}...{W34} right now{W5} is kind of..."
+
+@NAN_MKI:58 NAN 4690503c
+"{V0776}{W6}I'm sure it's a good story{W3} and all,{W14} but{W3}..."
+
+@NAN_MKI:59 NAN 49f4857f
+"{V0777}{W5}If it weren't for right now,{W6} I'd{W4} say{W4} it's an interesting{W4} story,{W3} but..."
+
+@NAN_MKI:60 NAN 32712b3b
+"{V0778}{W4}W-why,{W15} why{W5} now?{W7} Why{W2} bring{W2} that up...?"
+
+@NAN_MKI:64 NAN 79463f1a
+"{V0797}{W4}Huh?!{W30} {F6}Big Bro,{W19} why are you suddenly saying that..."
+
+@NAN_MKI:65 PLY 6c1b2754
+"S-sorry."
+
+@NAN_MKI:72 NAN 6c9b2602
+"{V0798}{W4}Ah{W6}...{W6}uh...{W35} You can't just say that out of nowhere..."
+
+@NAN_MKI:73 PLY 85969b65
+"S-sorry, sorry..."
+
+@NAN_MKI:74 NAN 0098030c
+"{V0799}{W4}Eh?!{W45} S-{W25}so sudden...{W24} Big Bro."
+
+@NAN_MKI:75 PLY 4e6db937
+"R-really? Sorry..."
+
+@NAN_MKI:78 NAN a2fc6a70
+"{V0750}{W5}What's wrong?{W9} Big Bro?"
+
+@NAN_MKI:79 NAN 3f04a1ce
+"{V0751}{W5}Ah!{W15} M-{W14}maybe,{W32} are my{W5} bangs{W5} weird{W5} or{W4} something{W4}?!"
+
+@NAN_MKI:80 PLY 57a964d3
+"N-no, it's not that. It's nothing, hahaha..."
+
+@NAN_MKI:81 NAN b0538d4b
+"{V0752}{W4}R-{W22}really?{W51} Phew{W4}... that's{W3} a{W3} relief{W3}..."
+
+@NAN_MKI:84 PLY 841493f9
+"Nana."
+
+@NAN_MKI:85 NAN 534cc7c1
+"{V0754}{W5}Huh?"
+
+@NAN_MKI:89 NAN 7a872d2c
+"{V0755}{E}{W3}...{W3}...{W3}"
+
+@NAN_MKI:91 NAN a9ebd4fc
+"{V0756}{W4}He{W6} he{W6}...{W51} What is it, {Eo}Big Bro?{W36} Did something{W4} good{W2} happen?"
+
+@NAN_MKI:92 PLY 953b81ba
+"W-well, sort of..."
+
+@NAN_MKI:94 NAN 065cd534
+"{V0760}{W4}What?"
+
+@NAN_MKI:96 PLY 69e5b896
+"Don't you think this face is cool?"
+
+@NAN_MKI:97 NAN b574a725
+"{V0761}{W4}Eh..."
+
+@NAN_MKI:98 NAN 3330ea86
+"{V0762}{W4}Ah{W6} ha{W6} ha{W6} ha{W5}...{Sp}{W17} Y-{W11}yeah{W2}, I{W3} guess{W3} so.{W21} You look cool...{W12} I think..."
+
+@NAN_MKI:99 PLY aa05b71e
+(Guess that didn't land...)
+
+@NAN_MKI:103 NAN d86e592f
+"{V0766}{E}{W2}...{W3}...{W3}{E}"
+
+@NAN_MKI:104 NAN dc1f8ecf
+"{V0767}{W1}What's wrong?{W35} Taking my hand{W4} all of a sudden..."
+
+@NAN_MKI:105 PLY 086c5029
+"Ah... no, it doesn't mean anything..."
+
+@NAN_MKI:106 NAN eb6c3fa1
+"{V0768}{W5}Is{W4} that so?{W33} You're a{W3} weird{W3} Big Bro."
+
+@NAN_MKI:107 NAN a18fc565
+"{V0785}{W2}Big Bro...{W38} Is talking{W3} to me{W3} really{W17} boring?"
+
+@NAN_MKI:108 PLY ae3874ee
+"N-no, that's not it."
+
+@NAN_MKI:109 NAN bf5d3840
+"{V0786}{W3}Is{W3} that{W3} so?{W56} Well, if you say so..."
+
+@NAN_MKI:110 NAN 921065cf
+"{V0787}{W7}Hmm{W12}...{W12} mm{W7}...{W79} I'm{W2} so{W2} sorry{W2}...{W12} I can't{W8} keep up with your stories, Big Bro..."
+
+@NAN_MKI:111 PLY a126c5cb
+"No, it's fine, don't worry about it..."

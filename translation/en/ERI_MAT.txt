@@ -1,0 +1,293 @@
+# ERI_MAT -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_MAT:19 PLY 221251f3
+"Futami, um..."
+
+@ERI_MAT:22 ERI 66b52753
+"{Nm}..."
+
+@ERI_MAT:23 PLY 122df4f6
+"Huh?"
+
+@ERI_MAT:26 ERI f3a3b5f2
+"{V2244}{W3}I am leaving now."
+
+@ERI_MAT:27 PLY 499877e1
+"R-really?"
+
+@ERI_MAT:34 ERI 7447bdbc
+"{V2245}{W5}Goodbye."
+
+@ERI_MAT:36 PLY 50a1bcfc
+"She's gone..."
+
+@ERI_MAT:37 PLY 5173ec68
+"That's not fair TT I'm out of material already MAT"
+
+@ERI_MAT:38 ERI 1bc55e42
+"{V2247}{W3}I should be going."
+
+@ERI_MAT:39 ERI dbd586a3
+"{V2248}{W5}Goodbye."
+
+@ERI_MAT:40 ERI 2de23450
+"{V2251}{W5}See you."
+
+@ERI_MAT:41 PLY 5095d38a
+(She's gone...)
+
+@ERI_MAT:42 PLY 6588bcd1
+"Futami, if you'd like, want to walk home together today?"
+
+@ERI_MAT:43 ERI cca8eee1
+"{V2252}{W5}Together?{W35} With me{W5}?"
+
+@ERI_MAT:44 PLY adc5c588
+"Yeah."
+
+@ERI_MAT:45 ERI 0075fc6a
+"{V2253}{W3}Why?"
+
+@ERI_MAT:46 PLY ec5791ec
+"I think it would be more fun than going home alone..."
+
+@ERI_MAT:47 ERI 28d71801
+"{V2254}......"
+
+@ERI_MAT:48 ERI b0706a7a
+"{V2255}{W3}All right."
+
+@ERI_MAT:49 PLY d2479fda
+"Really? Then shall we meet at the school gate after school?"
+
+@ERI_MAT:50 ERI ce550eff
+"{V2256}{W5}Yes."
+
+@ERI_MAT:51 PLY c95d5951
+"Then, see you after school."
+
+@ERI_MAT:52 ERI 018b78a8
+"{V2257}{W3}Goodbye."
+
+@ERI_MAT:53 ERI 9dad2c02
+"{V2258}{W3}See you."
+
+@ERI_MAT:54 ERI 7d8a562b
+"{V2252}{W5}Together?{W33} With me{W5}?"
+
+@ERI_MAT:55 ERI 28c6fadf
+"{V2253}{W5}Why?"
+
+@ERI_MAT:56 ERI 79ae89ad
+"{V2260}{W5}I'm{W3} going home{W3} alone,{W20} so never mind."
+
+@ERI_MAT:57 PLY 0bb330f8
+"Ah... Futami... She's gone..."
+
+@ERI_MAT:58 PLY 0177a518
+"That's not fair TT"
+
+@ERI_MAT:59 ERI a53ef06a
+"{V2264}Well,{W45} I should be going now."
+
+@ERI_MAT:60 ERI a2d8d313
+"{V2265}{W5}See you."
+
+@ERI_MAT:61 ERI 06986231
+"{V2266}{W5}Together?{W3}{W45} With me{W5}?"
+
+@ERI_MAT:62 ERI 24971d23
+"{V2268}{W3}Yes,{W18} all right."
+
+@ERI_MAT:63 ERI 1a54864a
+"{V2269}{W10}See you."
+
+@ERI_MAT:64 ERI 914b00db
+"{V2270}{W3}Together?{W55} With me{W5}?"
+
+@ERI_MAT:66 ERI a883cb03
+"{V2271}{W3}Today{W2} I'm going home{W2} alone,{W20} so never mind."
+
+@ERI_MAT:67 ERI 1c1def10
+"{V2272}{W3}See you."
+
+@ERI_MAT:68 PLY 8eb25093
+"Ah... Futami..."
+
+@ERI_MAT:69 PLY b6dfd1c1
+"Futami, um... do you have a minute?"
+
+@ERI_MAT:70 ERI 0b52d984
+"{V2273}{W10}Ah..."
+
+@ERI_MAT:72 ERI b6ff97b0
+"{V2274}{W10}After this,{W25} I have a little{W2} something to do."
+
+@ERI_MAT:73 PLY 67919fb4
+"R-right."
+
+@ERI_MAT:75 ERI f734a954
+"{V2275}{W5}See you,{W15} {Nm}."
+
+@ERI_MAT:76 PLY e03a6130
+"Yeah, see you."
+
+@ERI_MAT:77 ERI 65e0be6d
+"{V2276}......"
+
+@ERI_MAT:78 ERI 8a525704
+"{V2277}{W3}Sure,{Fe3}{W30} that's fine."
+
+@ERI_MAT:79 ERI 88d64b4f
+"{V2278}Yes."
+
+@ERI_MAT:80 ERI 0f974006
+"{V2279}{W3}See you."
+
+@ERI_MAT:81 ERI f71cdc25
+"{V2280}......"
+
+@ERI_MAT:82 ERI 8d1bbd7c
+"{V2281}{W3}Ah...{W40} Sorry{W5}, but{W45} today{W2} I'm going home{W3} alone."
+
+@ERI_MAT:83 ERI c1c1425f
+"{V2282}{W5}See you."
+
+@ERI_MAT:84 ERI d68847f6
+"{V2283}......"
+
+@ERI_MAT:85 ERI 27d55ef5
+"{V2284}{W3}Hmm.{W30} I was going to go home{W2} alone,{W13}{F3} but all right."
+
+@ERI_MAT:86 ERI 3929403c
+"{V2285}{W3}Yes."
+
+@ERI_MAT:87 ERI 9de0e518
+"{V2286}{W3}See you."
+
+@ERI_MAT:90 ERI 526d09bc
+"{V2287}{W5}Ah..."
+
+@ERI_MAT:93 ERI 71c1b3df
+"{V2288}{W5}Well...{W60} after this,{W15} there is something I{W2} absolutely have to do."
+
+@ERI_MAT:94 ERI 8fd63984
+"{V2289}{W15}Bad timing..."
+
+@ERI_MAT:95 PLY 7b464ef2
+"It can't be helped."
+
+@ERI_MAT:96 ERI c4704947
+"{V2290}{W10}Talk{W3} to me{W7} again, {Nm}."
+
+@ERI_MAT:97 PLY e6f568ce
+"Yeah, I will."
+
+@ERI_MAT:98 ERI fbfc50f9
+"{V2291}{W5}See you."
+
+@ERI_MAT:99 ERI b0e3d6e7
+"{V2292}All right.{Ec}"
+
+@ERI_MAT:101 ERI 3bcae042
+"{V2293}I wanted to go home{W45} with {Nm}{W5}, too."
+
+@ERI_MAT:102 PLY 9ce70b64
+"I see... Then shall we meet at the school gate after school?"
+
+@ERI_MAT:103 ERI 341dcb08
+"{V2294}{W5}Yes,{W30} the usual place."
+
+@ERI_MAT:104 PLY 876a2929
+"I see..."
+
+@ERI_MAT:105 PLY 0af56cda
+"Then, Futami, want to eat ramen together on the way home?"
+
+@ERI_MAT:106 ERI 3a39d58b
+"{V2298}{W5}Ramen{W2}?{W3}{W3}{W30}{P3}{F3}{Eh} Ah...{W80} you plan{W2} to test whether I am taste-deaf{W2}."
+
+@ERI_MAT:107 PLY 289a3c2a
+"Yep. If it tastes properly awful, you're normal. If you can eat it like anything else, you're taste-deaf."
+
+@ERI_MAT:108 ERI 53f7c0f0
+"{V2299}All right{W2}.{W45} I{W5} will{W3} prove{W3} that I am not taste-deaf{W5} to you{W2}."
+
+@ERI_MAT:109 PLY 7aa469c1
+"Hahaha..."
+
+@ERI_MAT:110 PLY 9e8fc523
+"Then let's meet at the school gate after school."
+
+@ERI_MAT:111 ERI e4639d32
+"{V2300}{W5}All right,{W30} the usual place."
+
+@ERI_MAT:112 PLY 4a9e7e62
+"See you."
+
+@ERI_MAT:113 ERI 5f648220
+"{V2295}{W3}Yes,{W40} see you."
+
+@ERI_MAT:114 ERI 7c45c6b9
+"{V2302}{W5}Ah..."
+
+@ERI_MAT:116 ERI 134b5760
+"{V2303}...{W3}Sorry,{W30} today{W2} I have something to do..."
+
+@ERI_MAT:117 PLY 60e29361
+"R-really..."
+
+@ERI_MAT:118 ERI d556a3fd
+"{V2304}{W10}I{Fe6}{W45} want to go home with you too, but..."
+
+@ERI_MAT:119 PLY b4affc24
+"If you have something to do, it can't be helped."
+
+@ERI_MAT:120 ERI d2bab5b8
+"{V2305}{W3}Yes."
+
+@ERI_MAT:122 PLY e2b3ed61
+"See you, then."
+
+@ERI_MAT:123 ERI dc6840f2
+"{V2306}{W3}Yes,{W30} see you."
+
+@ERI_MAT:124 PLY 99fadc10
+"Futami, you had something to do today, right?"
+
+@ERI_MAT:125 ERI e5ba8c11
+"{V2307}{W3}Ah...{W30}{F3} that{W5} is all right."
+
+@ERI_MAT:126 ERI cd3b4224
+"{V2308}{W5}I moved it to another{W2} day.{W30} Today I can {Ec}go home with you."
+
+@ERI_MAT:127 PLY 4801ac99
+"Okay, then shall we go home together?"
+
+@ERI_MAT:128 ERI a346b948
+"{V2309}Yes."
+
+@ERI_MAT:129 PLY 4271fb7a
+"Shall we meet at the school gate after school?"
+
+@ERI_MAT:130 ERI 7db02d27
+"{V2310}{W3}The usual place.{W45} All right."
+
+@ERI_MAT:131 PLY f64b43c9
+"Futami, want to eat ramen together on the way home?"
+
+@ERI_MAT:132 ERI 4adcf91e
+"{V2315}{W10}Ramen{W2}?{W3}{W3}{W45}{P3}{F3}{Eh} Ah...{W85} you plan{W3} to test{W3} whether I am taste-deaf{W3}."
+
+@ERI_MAT:133 ERI 3b6a54d7
+"{V2316}{W5}All{W2} right{W2} then{W2}.{W45} I{W5} will{W2} show{W2} you I am not taste-deaf{W3}."
+
+@ERI_MAT:134 ERI d7b60c97
+"{V2317}{W5}All right,{W30} the usual place."
+
+@ERI_MAT:135 ERI db007ec9
+"{V2318}{W5}Yes,{W40} see you."
+
+@ERI_MAT:136 PLY f08fd9b6
+"Futami, you remember our promise to go home together, right?"
