@@ -206,3 +206,13 @@ Full English build (`build/full_en.iso`) in PCSX2, 2026-10-07: new game, prologu
 - Seen working: title, main menu, name entry and its confirm dialog, the prologue/skip choice, the map (English labels), dialogue plates and page breaks, three-way choices, the conversation mini-game, the night menu, settings, memory card format/save/load dialogs, the save slot showing "Aihara Kouichi", play after loading.
 - Still Japanese, image text (texture work, D-020): the help pages opened from the map (`移動エリア選択`, `マッチング会話`). Cosmetic: settings labels differ in size (separate images).
 
+
+## D-028: Hand-edited textures, release xdelta, Phase 6 QA
+
+- **Textures from the contributor** (`current_english.zip`, 35 PNGs, kept outside the repo as D-020 requires): 14 GRAPH0 entries (title logo 178, labels and charts 128, 180, 215, 223, 292, 311, 336, 351, 418, 453, 459; 262 and 289 are byte-identical to the originals) and 19 GRAPH1 help pages (58, 84, 91, 106, 164, 188, 194, 199, 215, 287, 378, 383, 386, 403, 469, 472, 548, 566, 568). 188 is move_area_2of5 and 378 is move_area_special_2of2 in `docs/phase-4-textures.tsv`.
+- GRAPH1 568 was 641x449; the extra row and column were fully transparent, so it is cropped to 640x448 (the original size).
+- All RGBA files (the logo, the help pages) are re-quantized per image with FASTOCTREE into their own 256-entry RGBA palette with tRNS (worst colour error 21-55, against about 102 when quantized onto the original palette). GRAPH1 386 is RGB and keeps the original palette (worst error 14.7).
+- GRAPH0 72 ("Kuriu Megumi") and 233 ("Gijo Mizuki") are not installed: they were drawn from the stale first redraw and spell the names differently from the glossary ("Kuryuu Megumu", "Shijou Mitsuki"). The automatic redraw from `tools/texture/labels.tsv` already produces the glossary spelling. They are in `kimikiss-private/texture_overrides_superseded/`; redraw them with the glossary spelling to install them.
+- Build with overrides: 220 entries replaced in GRAPH0 (font + 219 textures), 19 in GRAPH1; the UDF check passes. Seen in PCSX2: the new title logo and the Load-screen chart (453).
+- **Release.** `build.sh` step 8 writes `<out>.xdelta` (xdelta3 -e -9, clean ISO to patched ISO) and verifies it by applying it and comparing byte for byte. `release/KimiKiss_EN.xdelta` is the file to distribute; the ISO never is. The README logo (`docs/logo.png`) is the contributor's own design, published at their request; the other override PNGs stay out of the repo.
+- **Phase 6 (QA loop)** runs the full build in PCSX2 with scripted input driven by a Haiku agent per segment (`tools/qa/emu.sh`), screenshots in `qa/p6/` (gitignored), triage by the agent, review and fixes by the main session. Results are appended below.

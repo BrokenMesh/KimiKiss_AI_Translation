@@ -26,6 +26,9 @@
 #    descriptors.
 # 7. Runs tools/qa/check_iso_udf.py on the result; the build fails if the
 #    ISO9660 and UDF trees disagree or any UDF tag/CRC is invalid.
+# 8. Writes out.iso.xdelta (clean ISO -> out.iso) when xdelta3 is installed, and checks that
+#    applying it to the clean ISO reproduces out.iso byte for byte. The xdelta is the only
+#    artifact meant for distribution (the ISO itself is never published).
 # The clean ISO is only ever read. Nothing here writes inside the repo
 # except the gitignored build/ directory.
 set -euo pipefail
@@ -69,3 +72,11 @@ python3 tools/build/iso_patch.py "$iso" "$out" "${patches[@]}"
 
 # 7. The ISO9660 and UDF views of the image must agree (decision D-014).
 python3 tools/qa/check_iso_udf.py "$out"
+
+# 8. The distributable: an xdelta from the clean ISO, verified by applying it.
+if command -v xdelta3 >/dev/null; then
+  xdelta3 -e -9 -f -s "$iso" "$out" "$out.xdelta"
+  xdelta3 -d -f -s "$iso" "$out.xdelta" "$work/verify.iso"
+  cmp "$out" "$work/verify.iso" && echo "PASS xdelta: $out.xdelta ($(stat -c %s "$out.xdelta") bytes) reproduces $out"
+  rm -f "$work/verify.iso"
+fi
