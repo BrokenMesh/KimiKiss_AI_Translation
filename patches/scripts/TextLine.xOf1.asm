@@ -3,9 +3,20 @@
 ;   the sum of the advances of characters 0..i-1. Japanese and other codes
 ;   advance by pitch; English codes 0x8540-0x859F by width*pitch/24, the
 ;   glyph's share of its 24 px cell (D-013). TextLineC inherits it.
+; i is clamped to text length: setText leaves destroyed glyphs of a longer
+;   previous text in fList, and setPos asks for their offsets too.
 ; temps: 0 = i, 1 = sum, 2 = k, 3 = code
 ; ivars: 3 pitch, 7 text
         push_nils 3
+        push_temp 0
+        push_ivar 7
+        send 0 #length
+        op >
+        jump_if_false bounded
+        push_ivar 7
+        send 0 #length
+        store_temp 0
+bounded:
         push_const float:0.0
         store_temp 1
         push_int 0

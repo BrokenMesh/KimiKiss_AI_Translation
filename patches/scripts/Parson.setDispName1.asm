@@ -6,10 +6,10 @@ push_nils 0
 push_temp 0
 push_nil
 not_identical
+jump_if_false Lend0
 push_temp 0
 push_const class:String
 send 1 #isKindOf
-and
 jump_if_false Lend0
 push_temp 0
 send 0 #length

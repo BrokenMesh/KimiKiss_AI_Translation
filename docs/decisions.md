@@ -122,3 +122,9 @@ Written after D-017; the number was reserved for the name-entry work of `docs/ph
 - The history page and the plate are not scaled; a name wider than 96 px overlaps the next column, and a plate wider than the 92 px indent only changes where line 1 of the text starts.
 - The grid still shows the full-width glyphs (the mapping is on input); the tab names and button guides are textures. Rewording row `64.3.6` to put `．` or `’` on the grid is a text task.
 - Voice clips, the confirm dialog text and the 履歴 contents are unchanged.
+
+## D-018: Offline bytecode interpreter as the first patch check
+
+- `tools/qa/scfvm.py` runs real SCF bytecode with native classes stubbed and their calls logged; `tools/qa/test_patches_jp.py` runs every patched method and its original on Japanese inputs and fails on any difference in the logged draw calls (details: `docs/qa-scfvm.md`). Every patch must pass it before an emulator run; the emulator stays the final check for how English looks.
+- Its first run found two patch bugs, both fixed: `TextLine >> xOf:` read past the end of `text` when `setText:` had left glyphs of a longer previous text in `fList` (crashed the staff roll; `xOf:` now clamps `i` to the text length), and `Parson >> setDispName:` used the `and` opcode as a guard, but `and` evaluates both operands, so a nil name sent `isKindOf:` to nil (now two jumps).
+- Rule for patches: `and`/`or` never guard a send or an index; use jumps.
