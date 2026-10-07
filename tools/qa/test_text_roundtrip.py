@@ -21,6 +21,9 @@ import img  # noqa: E402
 import lzss  # noqa: E402
 import scf  # noqa: E402
 
+sys.path.insert(0, os.path.join(TOOLS, 'reinsert'))
+from en_text import encode_translation  # noqa: E402
+
 
 def run(*args):
     subprocess.run([sys.executable, *args], check=True, stdout=subprocess.DEVNULL)
@@ -74,7 +77,7 @@ def main():
     path = edit.record['id'].split(':', 1)[1]
     a, b = scf.parse(before[target]), scf.parse(after[target])
     idx = int(path)
-    expect = new_text.replace('{', '').replace('}', '').encode('cp932')
+    expect = encode_translation(new_text)
     others_same = all(a['constants'][i] == b['constants'][i]
                       for i in range(len(a['constants'])) if i != idx)
     if (changed == [target] and b['constants'][idx] == (5, expect) and others_same

@@ -1,0 +1,80 @@
+#!/usr/bin/env python3
+"""Apply the bytecode patches in patches/scripts/ to unpacked SCF members.
+
+Usage: apply_script_patches.py <script_dir> <patch_dir>
+
+Each patch file replaces one method. Its header names the target and pins
+the original bytecode:
+
+  ; target: <Class> <method> argc=<n> table=<methods|methods2>
+  ; original-sha1: <sha1 of the original bytecode>
+
+A patch is refused if the method in <script_dir> matches neither the
+original hash nor the patched result (so applying twice is a no-op).
+`@EN_WIDTHS` is replaced by a float array constant holding the advance
+widths of codes 0x8540..0x859F from tools/font/en_widths.json (trail 0x7F,
+which does not exist, gets 0). Members are modified in place.
+"""
+import glob
+import hashlib
+import json
+import os
+import re
+import struct
+import sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path[:0] = [HERE, os.path.join(HERE, '..', 'extract'), os.path.join(HERE, '..', 'font')]
+import encoding  # noqa: E402
+import scf  # noqa: E402
+import scfasm  # noqa: E402
+
+
+def width_array():
+    widths = json.load(open(os.path.join(HERE, '..', 'font', 'en_widths.json')))['widths']
+    out = []
+    for k in range(0x60):
+        ch = encoding.char_of(0x8540 + k)
+        out.append((3, struct.pack('<f', float(widths[ch]) if ch else 0.0)))
+    return (8, out)
+
+
+def apply(script_dir, patch_path, widths):
+    text = open(patch_path, encoding='utf-8').read()
+    m = re.search(r'^; target: (\S+) (\S+) argc=(\d+) table=(methods2?)$', text, re.M)
+    h = re.search(r'^; original-sha1: ([0-9a-f]{40})', text, re.M)
+    if not (m and h):
+        raise ValueError(f'{patch_path}: missing target or original-sha1 header')
+    cls, meth, argc, table = m.group(1), m.group(2).encode(), int(m.group(3)), m.group(4)
+    path = os.path.join(script_dir, cls + '.scf')
+    d = scf.parse(open(path, 'rb').read())
+    consts = d['constants']
+    idx = consts.index(widths) if widths in consts else None
+    if '@EN_WIDTHS' in text:
+        if idx is None:
+            consts.append(widths)
+            idx = len(consts) - 1
+        text = text.replace('@EN_WIDTHS', f'idx:{idx}')
+    new = scfasm.assemble(text, consts)
+    hits = [i for i, (n, a, _) in enumerate(d[table]) if n == meth and a == argc]
+    if len(hits) != 1:
+        raise ValueError(f'{patch_path}: {len(hits)} methods match {cls}>>{meth.decode()} argc={argc}')
+    old = d[table][hits[0]][2]
+    if old == new:
+        return f'{cls}>>{meth.decode()}: already patched'
+    if hashlib.sha1(old).hexdigest() != h.group(1):
+        raise ValueError(f'{patch_path}: original bytecode hash mismatch, refusing')
+    d[table][hits[0]] = (meth, argc, new)
+    open(path, 'wb').write(scf.serialize(d))
+    return f'{cls}>>{meth.decode()}: {len(old)} -> {len(new)} bytes'
+
+
+def main():
+    script_dir, patch_dir = sys.argv[1:3]
+    widths = width_array()
+    for p in sorted(glob.glob(os.path.join(patch_dir, '*.asm'))):
+        print(apply(script_dir, p, widths))
+
+
+if __name__ == '__main__':
+    main()

@@ -9,8 +9,10 @@ translation is present), and writes <out_dir>/<name>.scf. Members without a
 JSON file are copied unchanged. index.json is copied so img_pack.py can
 rebuild the archive in the original order.
 
-Text is encoded as cp932 with braces stripped. The English encoding is
-decided in Phase 3 and will replace encode_text().
+Original text is re-encoded as cp932 with braces stripped, which is
+byte-identical to the source (Gate G3). A "translation" is encoded with
+en_text.encode_translation(): ASCII outside braces becomes the custom
+English glyph codes (decision D-012).
 """
 import json
 import os
@@ -20,6 +22,9 @@ import sys
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'extract'))
 import scf  # noqa: E402
 from extract_text import unbrace  # noqa: E402
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from en_text import encode_translation  # noqa: E402
 
 
 def encode_text(text):
@@ -52,8 +57,9 @@ def main():
             continue
         parsed = scf.parse(open(src, 'rb').read())
         for rec in json.load(open(jpath, encoding='utf-8')):
-            text = rec.get('translation') or rec['text']
-            set_constant(parsed['constants'], rec['id'].split(':', 1)[1], encode_text(text))
+            payload = (encode_translation(rec['translation']) if rec.get('translation')
+                       else encode_text(rec['text']))
+            set_constant(parsed['constants'], rec['id'].split(':', 1)[1], payload)
             changed += 1
         with open(dst, 'wb') as f:
             f.write(scf.serialize(parsed))
