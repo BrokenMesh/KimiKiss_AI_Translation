@@ -1,4 +1,6 @@
-# KimiKiss (PS2) English Translation: Agent Brief
+# KimiKiss (PS2) English Translation: original project plan
+
+> History. This is the brief the project started from (written for AI agents that did part of the work); the current state is in `docs/decisions.md` and the README.
 
 ## Objective
 

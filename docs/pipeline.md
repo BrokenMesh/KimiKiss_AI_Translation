@@ -32,7 +32,7 @@ python3 tools/qa/test_texture_roundtrip.py build/texrt build/orig/GRAPH/*.ARC bu
 python3 tools/qa/size_report.py build/orig_manifest.json build/orig build/out
 ```
 
-## Phase 0 tooling (paths outside the repo, see docs/phase-0-status.md)
+## Phase 0 tooling (the maintainer's own environment: not needed to build or translate; paths are examples)
 
 ```sh
 # Ghidra: headless import + analysis, then the MCP server and the G1 smoke test

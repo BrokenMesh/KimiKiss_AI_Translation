@@ -1,5 +1,7 @@
 # Phase 0 status
 
+> History. The paths below are the maintainer's cloud environment at the time; nothing here is needed to build the patch or to translate.
+
 The user supplied the tools through their Google Drive (GitHub release downloads are blocked in this cloud session): Ghidra 12.1.3, ghidra-emotionengine-reloaded built for 12.1.3, GhidraMCP 7.0.0-rc.1, PCSX2 v2.9.108 (Linux AppImage), and their own BIOS dumps (Japanese 77000, European 70004).
 
 ## Layout outside the repo

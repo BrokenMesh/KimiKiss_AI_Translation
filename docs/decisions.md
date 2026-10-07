@@ -42,7 +42,7 @@
 ## D-009: Tool versions and where they live
 
 - Ghidra 12.1.3, ghidra-emotionengine-reloaded built for 12.1.3, GhidraMCP 7.0.0-rc.1 (the first release that declares 12.1.3 support), PCSX2 v2.9.108. The extension versions must equal the Ghidra version exactly.
-- Tools live in `/home/user/kimikiss-tools`. The BIOS and the Ghidra project (derived from the game binary) live in `/home/user/kimikiss-private`. Nothing from either directory enters the repo; `.gitignore` also covers BIOS companion files (`.EROM`, `.ROM1`, `.NVM`, `.MEC`, ...).
+- Tools live in a tools directory outside the repo. The BIOS and the Ghidra project (derived from the game binary) live in `../kimikiss-private`. Nothing from either directory enters the repo; `.gitignore` also covers BIOS companion files (`.EROM`, `.ROM1`, `.NVM`, `.MEC`, ...).
 - The Japanese BIOS (77000) is used, matching the NTSC-J disc.
 
 ## D-010: PINE is used serially only

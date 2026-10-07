@@ -1,35 +1,66 @@
+**Discord (general work, planning, questions): https://discord.gg/MXaM8ekzu**
+
 <p align="center"><img src="docs/logo.png" alt="KimiKiss" width="480"></p>
 
 # KimiKiss English translation patch (PS2, SLPS-25850)
 
-Fan translation of KimiKiss (eb!Kore+ re-release, SLPS-25850) into English. Status: test build under QA. Expect bugs; see "Reporting bugs".
+Fan translation of **KimiKiss** (キミキス, Enterbrain, PS2) into English: the full script (about 35,000 lines, all routes), menus, name entry, save/load screens, the in-game help pages and most of the text in images.
 
-This repository contains no game data. The patch only works on your own dump of the disc.
+**The translation was produced with AI assistance** (Claude models, with a glossary, per-scene context and automatic checks) and has been spot-checked, not yet read through by a human editor. It is faithful but sometimes stiff. Human review is the most valuable help right now; see "Helping with the translation".
 
-## Play it (Windows, no programming)
+Status: **test release**. Everything was played through the first days in PCSX2 without crashes, but not every route and every scene has been checked. Expect rough lines and a few leftovers; please report them (see below).
 
-Step-by-step with screenshots-free instructions: **[docs/GETTING_STARTED.md](docs/GETTING_STARTED.md)**.
+This repository contains **no game data**. You need your own dump of the disc. The patch is a binary difference that only works on that exact dump.
 
-Short version:
+| | |
+|---|---|
+| Edition | eb!Kore+ KimiKiss, serial **SLPS-25850**, volume `KIMIKISSPLUS` (2008 budget re-release) |
+| Size | 1,267,597,312 bytes |
+| SHA-1 | `40a70c43ef4c57b8bcdfeab3814437c3eaf4821c` |
+| Tested on | PCSX2 v2.9.108 |
 
-1. Have a dump of your own KimiKiss disc: 1,267,597,312 bytes, SHA-1 `40a70c43ef4c57b8bcdfeab3814437c3eaf4821c`. Check it with `certutil -hashfile "KimiKiss.iso" SHA1` in a Command Prompt.
-2. Download `release/KimiKiss_EN.xdelta` from this repository.
-3. Apply it to your dump with an xdelta patcher (for example xdeltaUI or Delta Patcher). Source file: your ISO. Patch: `KimiKiss_EN.xdelta`. Result: `KimiKiss_EN.iso`.
-4. Start `KimiKiss_EN.iso` in PCSX2 (tested with v2.9.108, with your own BIOS dump).
+## Two ways to get the English game
 
-## Reporting bugs
+### A. Apply the ready patch (recommended, five minutes)
 
-Open an issue on this repository. Include where in the game it happened (day, location, scene), a screenshot, and your PCSX2 version. Typical findings: leftover Japanese, clipped or overlapping text, a wrong name, a crash or hang, text in a picture that is still Japanese.
+1. Check your dump: `certutil -hashfile "KimiKiss.iso" SHA1` (Windows) or `sha1sum KimiKiss.iso` (Linux, macOS). It must print the SHA-1 above.
+2. Download [`release/KimiKiss_EN.xdelta`](release/KimiKiss_EN.xdelta) (open the file on GitHub, press the download button).
+3. Apply it with an xdelta patcher (for example xdeltaUI or Delta Patcher): source = your ISO, patch = `KimiKiss_EN.xdelta`, output = `KimiKiss_EN.iso`. Command line: `xdelta3 -d -s KimiKiss.iso release/KimiKiss_EN.xdelta KimiKiss_EN.iso`.
+4. Start `KimiKiss_EN.iso` in PCSX2.
 
-## Build it yourself
+This patch is the only way to get the hand-made images (title logo, help pages, charts), which are not stored in the repository.
 
-Needs Python 3 (with `pip install -r requirements.txt`), xdelta3, and on Windows Git for Windows. Then:
+### B. Build it yourself from the source
+
+Needs Python 3, `pip install -r requirements.txt`, xdelta3, and on Windows Git for Windows (Git Bash).
 
 ```sh
 tools/build/build.sh "KimiKiss dump.iso" build/KimiKiss_EN.iso      # Linux, macOS, Git Bash
 build.bat "C:\path\to\KimiKiss dump.iso"                              # Windows
 ```
 
-The build checks your ISO's checksum first, never writes to it, prints one line per step (details in `build/build.log`) and ends with the path of the patched image and of its `.xdelta`. Details for contributors: `docs/pipeline.md`. Design decisions: `docs/decisions.md`. Name glossary: `docs/glossary.md`.
+The build checks your ISO's checksum first, never writes to it, prints one line per step and ends with the paths of the patched image and of a `.xdelta`. About a minute. A build from the repository has everything except the hand-made images; to add those, put their PNGs in `texture_overrides/` (see `docs/GETTING_STARTED.md`). Do this if you want to change the translation or the tools.
 
-The logo is a custom design by the project's contributor. The Inter font files in `tools/font/` are under the SIL Open Font License (`tools/font/LICENSE-Inter.txt`).
+Step-by-step with all prerequisites and common errors: **[docs/GETTING_STARTED.md](docs/GETTING_STARTED.md)**.
+
+## Reporting bugs
+
+Open an issue, or write on the Discord. Include: where in the game (day, location, scene), a screenshot, your PCSX2 version, and whether you used the release patch or your own build. Typical findings: leftover Japanese, clipped or overlapping text, a wrong name, a crash or hang, a picture that is still Japanese.
+
+## Helping with the translation
+
+Fixing a line is a one-line edit in a text file. See **[CONTRIBUTING.md](CONTRIBUTING.md)**. All the files of the translation are in `translation/en/`, one per scene.
+
+## Repository map
+
+| Path | What |
+|---|---|
+| `translation/en/` | the English text, one file per scene |
+| `tools/` | extraction, reinsertion, build, texture, translation and QA tools |
+| `patches/` | the changes to the game's scripts (`scripts/`) and executable (`elf/`) |
+| `release/` | the distributable xdelta patch |
+| `docs/` | documentation; start with [docs/README.md](docs/README.md) |
+
+## Legal
+
+Unofficial fan project, not affiliated with the rights holders. No game data is distributed. Code and translation: MIT (`LICENSE`); see `NOTICE.md` for the parts under other licences (the Inter font) and credits. The logo is a custom design by a project contributor.

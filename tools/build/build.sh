@@ -2,6 +2,8 @@
 # Build a patched disc image from the clean ISO.
 #
 # Usage: tools/build/build.sh <clean.iso> <out.iso> [text_dir] [trans_dir]
+#        tools/build/build.sh --text-only <clean.iso>     only extract the Japanese text into text/
+#                                                         (what translators need to run the checks)
 #
 #   text_dir   Japanese records (default: text/, local, gitignored). May also be a directory that
 #              already carries "translation" fields (a prepared or test directory).
@@ -37,6 +39,8 @@
 set -euo pipefail
 cd "$(dirname "$0")/../.."
 
+text_only=0
+if [[ "${1:-}" == "--text-only" ]]; then text_only=1; shift; set -- "${1:-}" build/unused.iso "${@:2}"; fi
 iso="${1:?usage: $0 <clean.iso> <out.iso> [text_dir] [trans_dir]}"
 out="${2:?usage: $0 <clean.iso> <out.iso> [text_dir] [trans_dir]}"
 text_dir="${3:-text}"
@@ -60,7 +64,7 @@ fi
 
 [[ -f "$iso" ]] || die "source ISO not found: $iso"
 for tool in sha1sum cmp; do command -v "$tool" >/dev/null || die "$tool not found (use Git Bash or WSL on Windows)"; done
-if ! command -v xdelta3 >/dev/null && [[ "${KIMIKISS_NO_XDELTA:-}" != 1 ]]; then
+if (( ! text_only )) && ! command -v xdelta3 >/dev/null && [[ "${KIMIKISS_NO_XDELTA:-}" != 1 ]]; then
   die "xdelta3 not found, so no distributable patch can be written. Install it (Linux: apt install xdelta3; Windows: xdelta3 .exe from https://github.com/jmacd/xdelta-gpl/releases, put it on PATH), or set KIMIKISS_NO_XDELTA=1 to build only the ISO."
 fi
 
@@ -93,6 +97,10 @@ if [[ ! -d "$text_dir" ]]; then
     "${PY[@]}" tools/extract/extract_text.py "$work/script_orig" "$text_dir"
 else
   step_n=$((step_n + 1))
+fi
+if (( text_only )); then
+  echo; echo "OK: Japanese text is in $text_dir/ (local only; never commit it). Next: python3 tools/qa/check_translation.py $text_dir"
+  exit 0
 fi
 # Merge Japanese (text_dir) with the English store (D-022) and word-wrap (D-021): dialogue and
 # dialog lines get ／ / \n breaks.

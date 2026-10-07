@@ -1,6 +1,6 @@
 # KimiKiss translation glossary
 
-Phase 5, step 1 of `kimikiss-translation-plan.md`. The decisions D1-D11 were taken by the project owner on 2026-10-07 and are final; this file states them as policy. Machine-readable twin: `tools/translate/glossary.json` (same entries, `approved: true`, `approved_on: 2026-10-07`; the `policy` block holds a compact version of every decision for the translator model).
+Phase 5, step 1 of `docs/project-plan.md`. The decisions D1-D11 were taken by the project owner on 2026-10-07 and are final; this file states them as policy. Machine-readable twin: `tools/translate/glossary.json` (same entries, `approved: true`, `approved_on: 2026-10-07`; the `policy` block holds a compact version of every decision for the translator model).
 
 Counts are occurrences in `text/*.json` after removing `{..}` codes and `／`; the number in brackets is the count over unique line texts (shared files repeat lines across routes). The text has 36,172 records.
 
