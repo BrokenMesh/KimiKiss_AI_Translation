@@ -74,3 +74,11 @@
 
 - `tools/build/iso_patch.py` updates only ISO9660 directory records. PS2 hardware (`sceCdSearchFile`) and PCSX2 read ISO9660, and the Phase 3 gate passed with a relocated `GRAPH0.PAC`.
 - The image's UDF descriptors still point at the old extents. This matters only for PC tools that read UDF. Update them before release.
+
+## D-015: Proportional menu text through one helper method
+
+- Menus, dialogs and lists draw with `TextLine` (left-aligned) and `TextLineC` (centred), one `FontChar` per character at `posX + i·pitch` (centred: minus `(n−1)·pitch/2`). This is computed in `setText:`, `setPos`, `restart` and `move:` of both classes.
+- A new method `TextLine >> xOf: i` returns the x offset of character `i` of `text`: the sum of the advances before it. Japanese and other codes advance by `pitch`; English codes by `width · pitch / 24`, the glyph's share of its 24 px cell. All eight sites call it: `i·pitch` becomes `self xOf: i`, the centring term becomes `((self xOf: n) − pitch) / 2`.
+- Japanese positions are unchanged, except that the centring term is now a float division, so a centred line with an odd `(n−1)·pitch` moves by half a pixel.
+- `setText:` stores `text` before placing glyphs (both classes), and `TextLine >> setText:` ends with `self setPos`, because glyphs reused from the previous text keep their old position.
+- The alternative, keeping menus fixed-width with character limits, was rejected: the English glyphs are narrow and left-aligned in their cell, so fixed spacing leaves visible gaps after narrow letters.

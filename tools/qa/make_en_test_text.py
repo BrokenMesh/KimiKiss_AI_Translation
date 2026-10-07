@@ -10,6 +10,8 @@ PLY_PRO, the scene that runs right after New Game:
   3. every printable ASCII character (glyph and width check),
   4. English mixed with Japanese and a manual '／' break,
   5. a short line, to compare the backlog.
+Phase 4 adds NameEntry:3, the name-entry confirm dialog (centred
+TextLineC): narrow and wide letters, to check proportional menu text.
 """
 import json
 import os
@@ -27,6 +29,7 @@ LINES = {
     'PLY_PRO:43': string.printable[:95].replace('{', '').replace('}', '') + '{W15}',
     'PLY_PRO:44': '…I have never been in love. 「キス」？／Kiss... What does a kiss feel like?{W15}',
     'PLY_PRO:45': 'Will time just keep flowing by like this?{W15}',
+    'NameEntry:3': 'Use this name? little WWW',
 }
 
 
@@ -35,13 +38,14 @@ def main():
     if os.path.exists(out):
         shutil.rmtree(out)
     shutil.copytree(src, out)
-    path = os.path.join(out, 'PLY_PRO.json')
-    recs = json.load(open(path, encoding='utf-8'))
-    for r in recs:
-        if r['id'] in LINES:
-            r['translation'] = LINES[r['id']]
-            print(r['id'], en_text.line_widths(LINES[r['id']]), LINES[r['id']])
-    json.dump(recs, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    for name in sorted({k.split(':')[0] for k in LINES}):
+        path = os.path.join(out, name + '.json')
+        recs = json.load(open(path, encoding='utf-8'))
+        for r in recs:
+            if r['id'] in LINES:
+                r['translation'] = LINES[r['id']]
+                print(r['id'], en_text.line_widths(LINES[r['id']]), LINES[r['id']])
+        json.dump(recs, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 
 
 if __name__ == '__main__':
