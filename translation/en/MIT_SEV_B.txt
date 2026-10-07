@@ -62,13 +62,13 @@
 "{V0144}{W10}Old-fashioned{W3} or not,{W3} it's{W3} reality.{W35} Think{W6} about it."
 
 @MIT_SEV_B:84 AKI 71d9b547
-"{V0145}{W10}Born into a distinguished family,{W7} from early childhood she gets academics,{W12} culture,{W10} the arts,{W12} sports, classical ballet,{W12} every kind of elite education..."
+"{V0145}{W10}Born to a famous family,{W3}{W7} she got top{W3} schooling,{W5}{W3}{W3}{W12} culture,{W3}{W10} arts,{W3}{W5}{W12} sports,{W10} ballet,{W12}{W2}{W2} every{W3}{W2} elite education..."
 
 @MIT_SEV_B:85 AKI 4eec5cc4
 "{V0146}{W10}Raised{W3} to{W3} be{W5} a{W3} perfect{W3} young{W5} lady.{W3} And{W3} then..."
 
 @MIT_SEV_B:87 AKI d09333f4
-"{V0147}{W10}Born in a perfectly ordinary home,{W18} given a perfectly ordinary education,{W18} and raised as a plain commoner: {Nm}.{W20} Are you a match?"
+"{V0147}{W10}Born in an ordinary{W3} home,{W3}{W18} given an ordinary{W3} education,{W5}{W3}{W18} and raised as a mere{W3} commoner{W3} like{W3} {Nm},{W3}{W20} are you a match?"
 
 @MIT_SEV_B:88 PLY c3d846ad
 "Ugh... that's a bigger gap than I imagined."
@@ -539,7 +539,7 @@
 "{V0233}{Ec}{W10}Yes.{W30}{Eo} Ever since I was{W3} little.{W3}{W3}"
 
 @MIT_SEV_B:272.1 - a37ad6b0
-{Ti0}- I'd love to see it.../- Show me here?/- You in a tutu...
+{Ti0}- I'd love to see it...／- Show me here?／- You in a tutu...
 
 @MIT_SEV_B:273 PLY 82c7bdff
 "I'd love to see it..."
@@ -1103,13 +1103,13 @@ Shijou
 {Ti0}- 
 
 @MIT_SEV_B:510 - 5746167f
-!／- 
+! -
 
 @MIT_SEV_B:511 - e666e4dc
 !
 
 @MIT_SEV_B:512 - 05291768
-!／- No, that voice is...!
+! - No, that voice is...!
 
 @MIT_SEV_B:513.1 - 1e5a19f1
 {Ti0}- It's Hoshino!　　　　　　- It's Narumi!／- It's Mao!　　　　　　　　- It's Sakino!／- It's Futami!　　　　　　　- It's Shijou!
