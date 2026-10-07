@@ -21,9 +21,9 @@ SLPM_*
 SCPS_*
 
 # Working copies, extracted original text, QA captures.
-build/
-text/
-qa/
+/build/
+/text/
+/qa/
 
 # Defensive: the private dir if someone points it inside the repo.
 kimikiss-private/
