@@ -287,7 +287,7 @@ In that situation... well...
 "{V1043}{W15}It{W1} hap{W1}pens{W1} of{W1}ten.{W45} I do not mind."
 
 @ERI_FEV:207 PLY 5e300f5b
-"Y-you don't mind...?"
+"I-I said I don't mind..."
 
 @ERI_FEV:208 ERI cec8ef19
 "{V1044}{W15}Goodbye."
@@ -299,7 +299,7 @@ In that situation... well...
 (What do I do... I can't just leave her barefoot. Where might her shoes be hidden...)
 
 @ERI_FEV:211.1 - 934d5d74
-{Ti0}- Behind the school／- Garden／- Fountain
+{Ti0}- Behind the school／- Flower bed／- Fountain
 
 @ERI_FEV:212 PLY 997ab5b7
 (I'll try behind the school!)
@@ -842,13 +842,13 @@ In that situation... well...
 "{V1116}{W12}{Ec}{F2}That{W3} was fun."
 
 @ERI_FEV:442 ERI 71ebb412
-"{V1117}{W12}Here,{W15} I will give{W4} it back."
+"{V1117}{W12}Here,{W15} you can have{W4} it back."
 
 @ERI_FEV:443 PLY ccfc05ae
 "Ah... it's back to how it was..."
 
 @ERI_FEV:444 ERI df3d724e
-"{V1118}{W13}It{W2} would{W2} be{W2} boring{W10} {Fm3}if{W2} it{W2} stayed{W2} apart,{W2} would{W1} it{W1} not?{W1}"
+"{V1118}{W13}It{W2} would{W2} be{W2} boring{W10} {Fm3}if{W2} it{W2} stayed{W2} apart,{W2} wouldn't{W1}{W1} it?{W1}"
 
 @ERI_FEV:445 PLY 9f6ca6ff
 "R-right. Hahaha..."
