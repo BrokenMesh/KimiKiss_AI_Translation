@@ -87,7 +87,15 @@ def cmd_export(a):
             scene = scene_of(p)
             recs = merged[scene]
             if per_scene:
-                out = open(os.path.join(a.out, scene + '.jsonl'), 'w', encoding='utf-8')
+                ext = '.txt' if a.format == 'text' else '.jsonl'
+                out = open(os.path.join(a.out, scene + ext), 'w', encoding='utf-8')
+            if a.format == 'text':
+                n, sk = write_compact(out, scene, recs, limits, labels, terms, a.include_translated)
+                total += n
+                skipped += sk
+                if per_scene:
+                    out.close()
+                continue
             for i, r in enumerate(recs):
                 lim = rules.limit_for(r, limits, labels)
                 if lim['kind'] == 'skip' or (r.get('translation') and not a.include_translated):
@@ -111,6 +119,51 @@ def cmd_export(a):
             out.close()
     print(f'{total} lines exported from {len(paths)} file(s), {skipped} skipped '
           f'(translate=false or already translated) -> {a.out}')
+
+
+def compact_tag(lim):
+    """Per-line limit tag for the compact view; '' for ordinary dialogue (the header states that rule)."""
+    k = lim['kind']
+    if k == 'dialogue':
+        return ''
+    if k == 'choice':
+        return f'[choice x{lim.get("choices")}, one line of {lim["max_px"]} px each, separated by \uff0f]'
+    if k == 'confirm':
+        return f'[dialog box: up to {lim["lines"]} lines of {lim["max_px"]} px, \\n allowed]'
+    note = (lim.get('note') or '').strip()
+    tag = f'[{k}: one line, max {lim["max_px"]} px'
+    return tag + (f'; {note}]' if note and k == 'single' else ']')
+
+
+def write_compact(out, scene, recs, limits, labels, terms, include_translated):
+    """One scene as a script listing: a header, then 'id speaker [tag] japanese' per line. Lines already
+    translated are shown with their English on a '=' line (context, or for revision with
+    --include-translated). Returns (exported, skipped)."""
+    rows, hits, n, skipped = [], [], 0, 0
+    for r in recs:
+        lim = rules.limit_for(r, limits, labels)
+        if lim['kind'] == 'skip':
+            skipped += 1
+            continue
+        done = bool(r.get('translation'))
+        tag = compact_tag(lim) if (not done or include_translated) else ''
+        rows.append(f'{"" if (not done or include_translated) else "~"}{r["id"]} {r["speaker"] or "-"}'
+                    f'{" " + tag if tag else ""} {r["text"]}')
+        if done:
+            rows.append('  = ' + r['translation'].replace('\\', '\\\\').replace('\n', '\\n'))
+        if not done or include_translated:
+            n += 1
+        plain = rules.BRACED.sub('', r['text'])
+        hits += [t for t in terms if t['ja'] in plain and t not in hits]
+    route = recs[0]['route'] if recs else '?'
+    out.write(f'# scene {scene}  route {route}  lines to translate: {n}\n')
+    out.write('# format: <id> <speaker> [limit tag] <japanese>. "~" before an id = already translated, context only;\n'
+              '# its English follows on a "  = " line. Untagged lines are dialogue: max 3 lines, 437 px per line\n'
+              '# for a spoken line (plate in front), 552 px for SYS narration and "-" (no plate).\n')
+    for t in hits:
+        out.write(f'# glossary: {t["ja"]} = {t["en"]}' + (f'  ({t["note"]})' if t.get('note') else '') + '\n')
+    out.write('\n'.join(rows) + '\n')
+    return n, skipped
 
 
 def read_jsonl(path):
@@ -337,6 +390,8 @@ def main():
     e.add_argument('out')
     e.add_argument('--context', type=int, default=3, help='neighbours before and after (default 3)')
     e.add_argument('--include-translated', action='store_true')
+    e.add_argument('--format', choices=('jsonl', 'text'), default='jsonl',
+                   help='jsonl: one object per line with context (default); text: compact script listing per scene')
     e.add_argument('--glossary')
     common(e)
     i = sub.add_parser('import')

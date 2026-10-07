@@ -224,6 +224,13 @@ class Fit(Base):
         self.assertEqual(rules.dialogue_limit('PLY', {'PLY': 'A'})['label_px'],
                          rules.en_text.NAME_PX + rules.en_text.PLATE_GAP_PX)
 
+    def test_ruby_may_be_dropped_whole(self):
+        ja = '「{V5001}{R}柊{R4}ひいらぎだよ」'
+        ok = self.run_check(mk('Scene:1', ja, translation='"{V5001}It\'s Hiiragi."', speaker='AKI'))
+        self.assertNotIn('CC_MISSING', [c for _, c in self.levels(ok)])
+        half = self.run_check(mk('Scene:1', ja, translation='"{V5001}{R}It\'s Hiiragi."', speaker='AKI'))
+        self.assertIn(('FAIL', 'CC_MISSING'), self.levels(half))
+
     def test_name_token_width(self):
         self.assertEqual(rules.text_px('{Nm}'), rules.en_text.NAME_PX)
         self.assertEqual(rules.text_px('{W30}'), 0)
@@ -402,6 +409,23 @@ class Batch(Base):
         self.assertEqual(rows[2]['limit']['kind'], 'choice')
         self.assertEqual(rows[3]['limit']['kind'], 'confirm')
         self.assertEqual(rows[3]['limit']['max_px'], 576)
+
+    def test_export_compact_text(self):
+        out = os.path.join(self.dir, 'b.txt')
+        p = self.batch('export', self.text, 'Scene', out, '--limits', self.limits_path, '--glossary', self.gloss_path,
+                       '--format', 'text')
+        self.assertEqual(p.returncode, 0, p.stderr)
+        with open(out, encoding='utf-8') as f:
+            lines = f.read().splitlines()
+        body = [l for l in lines if not l.startswith('#')]
+        self.assertTrue(lines[0].startswith('# scene Scene'))
+        self.assertTrue(any(l.startswith('# glossary: \u5c71\u7530 = Yamada') for l in lines))
+        self.assertEqual(body[0], 'Scene:1 YUM \u5c71\u7530\u300c{V0001}\u304a\u306f\u3088\u3046\u300d')  # dialogue: no tag
+        self.assertIn('~Scene:3 YUM \u300c{W15}\u3042\u3042\u300d', body)    # translated: context, no tag
+        self.assertIn('  = Existing.', body)
+        self.assertTrue(any(l.startswith('Scene:4.1 - [choice x2') for l in body))
+        self.assertTrue(any(l.startswith('Sys:1 - [dialog box') for l in body))
+        self.assertFalse(any('Sys:4' in l for l in body))                      # translate=false left out
 
     def test_export_tolerates_missing_glossary(self):
         out = os.path.join(self.dir, 'b.jsonl')

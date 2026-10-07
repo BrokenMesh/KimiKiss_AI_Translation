@@ -88,7 +88,15 @@ def family(code):
     return code[:1]
 
 
+def is_ruby(code):
+    return code == 'R' or (code[:1] == 'R' and code[1:].isdigit())
+
+
 def check_codes(res, ja_codes, tr_codes, orig_text, tr_text):
+    # Ruby ({R}base{Rn}reading) is a reading aid for kanji names; English drops it as a whole: when the
+    # Japanese has real ruby ({Rn}) and the translation keeps no {R..} code, the ruby codes are not required.
+    if any(is_ruby(c) and c != 'R' for c in ja_codes) and not any(is_ruby(c) for c in tr_codes):
+        ja_codes = [c for c in ja_codes if not is_ruby(c)]
     miss = collections.Counter(ja_codes) - collections.Counter(tr_codes)
     extra = collections.Counter(tr_codes) - collections.Counter(ja_codes)
     if miss:

@@ -7155,150 +7155,150 @@
  },
  "K2_Script:13": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot PLY (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim). PLY dispName is replaced at once by the player surname (GameParam>>setMyouji -> Parson>>setDispName:, first 3 chars), so this default is only seen before the name is entered."
+  "note": "Speaker label dispName of K2_Script slot PLY (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:19": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot YUM (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot YUM (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:22": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot NAR (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot NAR (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:24": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot MAO (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot MAO (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:26": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot ASU (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot ASU (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:28": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot ERI (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot ERI (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:30": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot MIT (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot MIT (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:32": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot NAN (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot NAN (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:34": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot AKI (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot AKI (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:36": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot TOM (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot TOM (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:38": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot MEG (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot MEG (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:40": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot GUN (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot GUN (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:42": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot KAO (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot KAO (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:44": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot MAN (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot MAN (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:46": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot MIC (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot MIC (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:48": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot KEI (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot KEI (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:50": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot EX1 (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot EX1 (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:52": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot EX2 (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot EX2 (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:54": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot ETB (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot ETB (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:56": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot ETG (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot ETG (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "K2_Script:58": {
   "display": "TextWindow",
-  "max_px": 92,
+  "max_px": 115,
   "lines": 1,
   "translate": true,
-  "note": "Speaker label dispName of K2_Script slot ETC (Parson>>message: puts dispName then putIndent: 4). No gap is added after it and dialogue starts on the same line, so include any trailing space or colon; <= 92 px (= the 4-cell continuation indent, JP is 3 cells = 69 px + 「). Also copied to the backlog (LogLine). Not truncated by the engine (constructor stores it verbatim)."
+  "note": "Speaker label dispName of K2_Script slot ETC (Parson>>message: puts dispName then putIndent: 5). Line 1 starts at the 115 px indent column, or 6 px after a wider plate (D-023), so no trailing space or colon. <= 115 px (glossary D9). Also copied to the backlog (LogLine)."
  },
  "StaffRoll:9.0": {
   "display": "TextLine",

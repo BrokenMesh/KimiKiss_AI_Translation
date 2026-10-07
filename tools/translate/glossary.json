@@ -709,7 +709,10 @@
    "en": "Kobayakawa",
    "kind": "name",
    "note": "Asuka's underclass admirer (speaker MIC)",
-   "count": 3
+   "count": 3,
+   "variants": [
+    "Michi"
+   ]
   },
   {
    "ja": "美千",
@@ -1271,7 +1274,8 @@
    "note": "speaker label KEI",
    "count": 2,
    "variants": [
-    "truancy officer"
+    "truancy officer",
+    "Officer"
    ]
   },
   {

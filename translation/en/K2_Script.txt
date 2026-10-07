@@ -2,52 +2,52 @@
 # Format: docs/translation-format.md
 
 @K2_Script:13 - 2f79f990
-
+Aihara
 
 @K2_Script:19 - 54f3d7fc
-
+Hoshino
 
 @K2_Script:22 - 9c4d5735
-
+Satonaka
 
 @K2_Script:24 - 354ed941
-
+Mizusawa
 
 @K2_Script:26 - 59798616
-
+Sakino
 
 @K2_Script:28 - 1b0e2fca
-
+Futami
 
 @K2_Script:30 - 1ba4775d
-
+Shijou
 
 @K2_Script:32 - f19c138f
-
+Nana
 
 @K2_Script:34 - ab5d1a29
-
+Hiiragi
 
 @K2_Script:36 - e4bfe017
-
+Kawada
 
 @K2_Script:38 - 25481d62
-
+Kuryuu
 
 @K2_Script:40 - c8d03e8e
-
+Gunpei
 
 @K2_Script:42 - 5d381fd9
-
+Hiba
 
 @K2_Script:44 - 0e1826eb
-
+Yuzuki
 
 @K2_Script:46 - 3d43018e
-
+Michi
 
 @K2_Script:48 - 6493e45d
-
+Officer
 
 @K2_Script:50 - 6d2e25d8
 
@@ -56,10 +56,10 @@
 
 
 @K2_Script:54 - 48ba681f
-
+Boy
 
 @K2_Script:56 - 63858b4d
-
+Girl
 
 @K2_Script:58 - b7488b6c
 
