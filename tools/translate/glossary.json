@@ -1,0 +1,2144 @@
+{
+ "_note": "Draft for user approval (docs/glossary.md). Entries with depends_on are pending that decision id; entries with weak=true are single-character keys that occur inside other words (advisory only); policy values are recommendations until policy.approved is true. Checker: when `ja` occurs in the source line the English line should use `en` or one of `alt` (case-insensitive) unless the entry has depends_on that is unresolved.",
+ "approved": false,
+ "policy": {
+  "D1_name_order": {
+   "decide": true,
+   "recommended": "family-given (Japanese order): 'Sakino Asuka'",
+   "options": [
+    "family-given",
+    "given-family (Western, as the anime subtitles and Wikipedia do)"
+   ],
+   "applies_to": "full names in prose, credits, name plates in textures (labels.tsv already family-given). Spoken address is almost always surname+honorific or given name alone, so order rarely shows."
+  },
+  "D2_romanization": {
+   "decide": true,
+   "recommended": "Hepburn, ASCII only (the font has no macrons). Write the kana: おう/おお -> ou/oo, うう -> uu, えい -> ei. Gives Shijou, Yuumi, Kuryuu, Kouichi (= the anime subtitles/MAL spelling). Names that are not long: Mao, Eriko, Narumi, Asuka.",
+   "options": [
+    "drop long vowels (Shijo, Yumi, Kuryu, Koichi; matches D-016 default 'Koichi')",
+    "macrons (Shijo with macron etc.; needs new glyphs in font rows 11-12)"
+   ],
+   "label_changes": {
+    "233": "Shijou Mitsuki (was Gijo Mizuki, wrong reading)",
+    "72": "Kuryuu Megumu (was Kuriu Megumi)",
+    "539": "Hoshino Yuumi (was Hoshino Yumi)"
+   },
+   "default_player_name": "Aihara / Kouichi (D-016 default 'Koichi' would change)"
+  },
+  "D3_honorifics": {
+   "decide": true,
+   "recommended": "Keep, romanized and hyphenated: -san, -kun, -chan, -senpai, -sensei; 姉ちゃん -> -nee; お兄ちゃん -> Onii-chan. Honorific follows the name exactly as the Japanese does; no honorific where the Japanese has a bare name.",
+   "options": [
+    "localize: 'Miss Sakino', 'Mr. Aihara', 'Teacher', 'Big Sis Mao', 'Big Bro'",
+    "keep only -chan/-senpai/-sensei (meaningful), drop -san/-kun"
+   ],
+   "counts": {
+    "surname+さん (nine named characters)": 2432,
+    "ちゃん": 1906,
+    "君": 991,
+    "先輩": 797,
+    "先生": 314,
+    "さん total": 2845
+   }
+  },
+  "D4_megumu_gag": {
+   "decide": true,
+   "recommended": "Keep the joke: she is 'Megumu' (めぐむ), everyone misreads it 'Megumi' (MEG_DEA:46-67, MEG_KIS_A:37). Translate 'Don't call me Megumi! It's Megumu!'",
+   "options": [
+    "Megumi (anime/Wikipedia spelling) and drop the gag",
+    "Megumu and keep the gag (recommended)"
+   ]
+  },
+  "D5_special_address": {
+   "decide": true,
+   "recommended": "ご主人様 -> 'Master' (242 uses, 201 lines by Mitsuki; the player and Nana quote it); 摩央姉ちゃん -> 'Mao-nee'; 先輩 as Narumi's address -> 'Senpai'; Eriko says the bare surname; Mao says the bare given name {Nn}; トモちゃん -> 'Tomo-chan'",
+   "options": [
+    "Master -> 'my lord'/'Mr. {Nm}'; Mao-nee -> 'big sis Mao'; Senpai -> 'Upperclassman'"
+   ]
+  },
+  "D6_sfx_laughs": {
+   "decide": true,
+   "recommended": "Translate sound effects into English interjections (Hehe/Fufu, Ehehe, Ahaha, Hmm...). No romaji SFX in narration; narration onomatopoeia becomes English (Thud! Crash!). Tilde ～: drop in 80 percent, keep a trailing '~' only for Mao, Nana, Narumi when playful; long vowels stretched ('Sooo') only when it carries emphasis.",
+   "options": [
+    "keep Japanese SFX romanized (Fufu, Kusu, Doki-doki)",
+    "convert to action tags like *giggle*"
+   ]
+  },
+  "D7_punctuation": {
+   "decide": true,
+   "recommended": "Ellipsis: three ASCII periods '...' for … and '......' for ……; no spaced dots. Stammer: 'S-sorry', one repeat only. Speech in straight double quotes \"...\", thoughts in (parentheses) as the Japanese does (「」 -> \"\", （） -> ()); narration unquoted. Keep ！？ as '?!'; do not stack more than two marks.",
+   "options": [
+    "use real ellipsis glyph from font rows 11-12 (needs font work)",
+    "drop quotes and rely on the speaker plate"
+   ]
+  },
+  "D8_school_game_terms": {
+   "decide": true,
+   "recommended": "学園祭 'school festival' (labels already); 話題袋 'Topic Bag' (labels already; not 'deck'); 風紀委員 'Discipline Committee'; 校舎裏 'Back Lot' on tabs, 'behind the school' in prose; 花壇 'Garden' on tabs, 'flower bed' only where the flowers matter; Year 1/2/3 and 'Class 2-A'; 先生 -> '-sensei' attached to the name",
+   "options": [
+    "culture festival",
+    "Topic Deck",
+    "Public Morals Committee"
+   ]
+  },
+  "D9_plates": {
+   "decide": true,
+   "recommended": "Plates show surnames as the original (Nana = given name). Measured with tools/font/en_widths.json: Mizusawa 107 px, Satonaka 100, Kirishima 100, Kobayakawa 138, all others <= 86. Current indent is 92 px, so either raise putIndent from 4 to 5 cells (115 px) in one byte, or shorten. Recommend 5 cells and plate 'Michi' for MIC. EX1/EX2 plates: check in game, otherwise 'Girl'/'Boy'.",
+   "options": [
+    "keep indent 92 and use given names on every plate",
+    "abbreviate long surnames"
+   ]
+  },
+  "D10_credits_devnotes": {
+   "decide": true,
+   "recommended": "Credits (StaffRoll + GUN_PRO): romanize names Family-Given as printed, Hepburn without macrons, translate role words; voice actors use their usual romanization (Koshimizu Ami, Mizuhashi Kaori, Ikezawa Haruna, Hirohashi Ryou, Tanaka Rie, Noto Mamiko, Nogawa Sakura, Nakahara Mai, Kawasumi Ayako, Fukuyama Jun). Dev-memo lines in ERI_PRO/MAO_PRO/YUM_KIS_A (about 35 lines in MAO_PRO, ERI_PRO, YUM_KIS_A, ASU_PRO, NAR_KIS_A, e.g. 'LV2 kiss, all outfits, with or without mob') are not story text: translate literally, low priority.",
+   "options": [
+    "leave credits in Japanese",
+    "ask for staff romanizations from the user"
+   ]
+  },
+  "D11_tone": {
+   "decide": true,
+   "recommended": "See the tone table in docs/glossary.md section 1."
+  }
+ },
+ "speakers": [
+  {
+   "code": "PLY",
+   "lines": 14846,
+   "ja": "相原 光一 (default)",
+   "reading": "あいはら こういち",
+   "en": "{Nm} {Nn} (default Aihara Kouichi)",
+   "plate": "{Nm}",
+   "role": "Player character: thoughts （…） and speech 「…」 share the code"
+  },
+  {
+   "code": "SYS",
+   "lines": 997,
+   "ja": "(narration)",
+   "reading": "",
+   "en": "",
+   "plate": "",
+   "role": "Narration, no plate"
+  },
+  {
+   "code": "ASU",
+   "lines": 2762,
+   "ja": "咲野 明日夏",
+   "reading": "さきの あすか",
+   "en": "Sakino Asuka",
+   "plate": "Sakino",
+   "role": "Heroine, 2-C, plays on the boys' soccer team"
+  },
+  {
+   "code": "NAR",
+   "lines": 2708,
+   "ja": "里仲 なるみ",
+   "reading": "さとなか なるみ",
+   "en": "Satonaka Narumi",
+   "plate": "Satonaka",
+   "role": "Heroine, 1-A, Nana's classmate, udon-shop granddaughter, Udon/Home Ec clubs"
+  },
+  {
+   "code": "ERI",
+   "lines": 2698,
+   "ja": "二見 瑛理子",
+   "reading": "ふたみ えりこ",
+   "en": "Futami Eriko",
+   "plate": "Futami",
+   "role": "Heroine, 2-B, IQ-190 loner of the science lab"
+  },
+  {
+   "code": "MIT",
+   "lines": 2674,
+   "ja": "祇条 深月",
+   "reading": "しじょう みつき",
+   "en": "Shijou Mitsuki",
+   "plate": "Shijou",
+   "role": "Heroine, 2-B, heiress; calls the player ご主人様"
+  },
+  {
+   "code": "MAO",
+   "lines": 2662,
+   "ja": "水澤 摩央",
+   "reading": "みずさわ まお",
+   "en": "Mizusawa Mao",
+   "plate": "Mizusawa",
+   "role": "Heroine, 3rd-year older childhood friend ('Mao-nee'); the font prints 水〆"
+  },
+  {
+   "code": "YUM",
+   "lines": 2359,
+   "ja": "星乃 結美",
+   "reading": "ほしの ゆうみ",
+   "en": "Hoshino Yuumi",
+   "plate": "Hoshino",
+   "role": "Heroine, 2-A, shy Library Committee member"
+  },
+  {
+   "code": "NAN",
+   "lines": 1224,
+   "ja": "相原 菜々",
+   "reading": "あいはら なな",
+   "en": "{Nm} Nana",
+   "plate": "Nana",
+   "role": "Player's little sister, 1-A; unlockable route NAN; family name follows the player's {Nm}"
+  },
+  {
+   "code": "MEG",
+   "lines": 859,
+   "ja": "栗生 恵",
+   "reading": "くりゅう めぐむ",
+   "en": "Kuryuu Megumu",
+   "plate": "Kuryuu",
+   "role": "Heroine (unlocked later), 2-A, Discipline Committee, judo dojo; insists on めぐむ"
+  },
+  {
+   "code": "TOM",
+   "lines": 295,
+   "ja": "川田 知子",
+   "reading": "かわだ ともこ",
+   "en": "Kawada Tomoko",
+   "plate": "Kawada",
+   "role": "Modern-Japanese teacher, Swim Club adviser; Mao calls her トモちゃん"
+  },
+  {
+   "code": "AKI",
+   "lines": 271,
+   "ja": "柊 明良",
+   "reading": "ひいらぎ あきら",
+   "en": "Hiiragi Akira",
+   "plate": "Hiiragi",
+   "role": "Player's best friend and adviser, 2-A"
+  },
+  {
+   "code": "KAO",
+   "lines": 43,
+   "ja": "夕月 薫子",
+   "reading": "ゆづき かおるこ",
+   "en": "Yuzuki Kaoruko",
+   "plate": "Yuzuki",
+   "role": "Narumi's friend, 1-B, udon club; Narumi: るっこちゃん"
+  },
+  {
+   "code": "MAN",
+   "lines": 37,
+   "ja": "飛羽 愛美",
+   "reading": "ひば まなみ",
+   "en": "Hiba Manami",
+   "plate": "Hiba",
+   "role": "Narumi's friend, 1-C, udon club; Narumi: まなちゃん"
+  },
+  {
+   "code": "GUN",
+   "lines": 10,
+   "ja": "里仲 軍平",
+   "reading": "さとなか ぐんぺい",
+   "en": "Satonaka Gunpei",
+   "plate": "Gunpei",
+   "role": "Narumi's grandfather, owner of 里なか; 10 lines incl. the 鬼兵 drill-sergeant gag"
+  },
+  {
+   "code": "MIC",
+   "lines": 5,
+   "ja": "小早川 美千",
+   "reading": "こばやかわ みち",
+   "en": "Kobayakawa Michi",
+   "plate": "Michi",
+   "role": "First-year girl who adores Asuka (5 lines; name only in credits and plate)"
+  },
+  {
+   "code": "KEI",
+   "lines": 5,
+   "ja": "霧島 敬子",
+   "reading": "きりしま けいこ",
+   "en": "Kirishima Keiko",
+   "plate": "Officer",
+   "role": "Guidance officer (補導員), 5 lines"
+  },
+  {
+   "code": "ETB",
+   "lines": 30,
+   "ja": "男子",
+   "reading": "",
+   "en": "Boy",
+   "plate": "Boy",
+   "role": "Male student extras (plate 男　子)"
+  },
+  {
+   "code": "ETG",
+   "lines": 10,
+   "ja": "女子",
+   "reading": "",
+   "en": "Girl",
+   "plate": "Girl",
+   "role": "Female student extras (plate 女　子)"
+  },
+  {
+   "code": "ETC",
+   "lines": 9,
+   "ja": "？？？",
+   "reading": "",
+   "en": "???",
+   "plate": "???",
+   "role": "Unnamed speaker: ramen/udon cooks, shop staff (plate ？？？)"
+  },
+  {
+   "code": "EX1",
+   "lines": 7,
+   "ja": "特殊１",
+   "reading": "",
+   "en": "CHECK in game",
+   "plate": "?",
+   "role": "Special extra 1 (Mao's friends, soccer teammates); plate 特殊１ probably blank"
+  },
+  {
+   "code": "EX2",
+   "lines": 6,
+   "ja": "特殊２",
+   "reading": "",
+   "en": "CHECK in game",
+   "plate": "?",
+   "role": "Special extra 2 (same pool)"
+  }
+ ],
+ "terms": [
+  {
+   "ja": "星乃",
+   "en": "Hoshino",
+   "kind": "name",
+   "note": "Yumi's family name; K2 plate 星　乃",
+   "count": 603
+  },
+  {
+   "ja": "結美",
+   "en": "Yuumi",
+   "kind": "name",
+   "note": "given name, ruby ゆうみ (YUM_DEA); written 'Yumi' in labels.tsv entry 539",
+   "alt": [
+    "Yumi"
+   ],
+   "depends_on": "D2",
+   "count": 22
+  },
+  {
+   "ja": "里仲",
+   "en": "Satonaka",
+   "kind": "name",
+   "note": "Narumi's and Gunpei's family name; ruby さとなか (shop 里なか is the same name)",
+   "count": 26
+  },
+  {
+   "ja": "なるみ",
+   "en": "Narumi",
+   "kind": "name",
+   "note": "given name; usually なるみちゃん",
+   "count": 593
+  },
+  {
+   "ja": "水澤",
+   "en": "Mizusawa",
+   "kind": "name",
+   "note": "font has no 澤: the game prints 水〆 (see 水〆)",
+   "count": 0
+  },
+  {
+   "ja": "水〆",
+   "en": "Mizusawa",
+   "kind": "name",
+   "note": "in-game spelling of 水澤 (〆 stands in for the missing glyph)",
+   "count": 37
+  },
+  {
+   "ja": "摩央",
+   "en": "Mao",
+   "kind": "name",
+   "note": "given name; player says 摩央姉ちゃん",
+   "count": 667
+  },
+  {
+   "ja": "咲野",
+   "en": "Sakino",
+   "kind": "name",
+   "note": "ruby さきの",
+   "count": 535
+  },
+  {
+   "ja": "明日夏",
+   "en": "Asuka",
+   "kind": "name",
+   "note": "given name, ruby あすか (credits misprint 明日香)",
+   "count": 30
+  },
+  {
+   "ja": "二見",
+   "en": "Futami",
+   "kind": "name",
+   "note": "ruby ふたみ",
+   "count": 623
+  },
+  {
+   "ja": "瑛理子",
+   "en": "Eriko",
+   "kind": "name",
+   "note": "given name, ruby えりこ",
+   "count": 31
+  },
+  {
+   "ja": "瑛理",
+   "en": "Eri",
+   "kind": "name",
+   "note": "short form: 瑛理ちゃん (classmates), えりちゃん (her mother)",
+   "count": 35
+  },
+  {
+   "ja": "祇条",
+   "en": "Shijou",
+   "kind": "name",
+   "note": "ruby しじょう; labels.tsv entry 233 says 'Gijo' (wrong reading)",
+   "alt": [
+    "Shijo"
+   ],
+   "depends_on": "D2",
+   "count": 565
+  },
+  {
+   "ja": "深月",
+   "en": "Mitsuki",
+   "kind": "name",
+   "note": "given name, ruby みつき; labels.tsv says 'Mizuki' (wrong)",
+   "count": 33
+  },
+  {
+   "ja": "栗生",
+   "en": "Kuryuu",
+   "kind": "name",
+   "note": "ruby くりゅう; labels.tsv entry 72 says 'Kuriu'",
+   "alt": [
+    "Kuryu"
+   ],
+   "depends_on": "D2",
+   "count": 178
+  },
+  {
+   "ja": "栗生恵",
+   "en": "Kuryuu Megumu",
+   "kind": "name",
+   "note": "full name; 恵 alone is also in 知恵の輪, so only the full name is a checkable key",
+   "depends_on": "D4",
+   "count": 2
+  },
+  {
+   "ja": "めぐむ",
+   "en": "Megumu",
+   "kind": "name",
+   "note": "her own reading (MEG_DEA:47, MEG_KIS_A:37); labels.tsv entry 72 says 'Megumi'",
+   "depends_on": "D4",
+   "count": 3
+  },
+  {
+   "ja": "めぐみ",
+   "en": "Megumi",
+   "kind": "name",
+   "note": "the misreading everyone makes; keep as the gag (D4)",
+   "depends_on": "D4",
+   "count": 7
+  },
+  {
+   "ja": "菜々",
+   "en": "Nana",
+   "kind": "name",
+   "note": "little sister; family name is the player's surname {Nm}",
+   "count": 444
+  },
+  {
+   "ja": "川田",
+   "en": "Kawada",
+   "kind": "name",
+   "note": "teacher; reading かわだ from ja.wikipedia (no ruby in text)",
+   "count": 136
+  },
+  {
+   "ja": "知子",
+   "en": "Tomoko",
+   "kind": "name",
+   "note": "Kawada's given name; Mao calls her トモちゃん",
+   "count": 5
+  },
+  {
+   "ja": "柊",
+   "en": "Hiiragi",
+   "kind": "name",
+   "note": "ruby ひいらぎ; called bare 柊 by the player and Eriko",
+   "weak": true,
+   "count": 82
+  },
+  {
+   "ja": "明良",
+   "en": "Akira",
+   "kind": "name",
+   "note": "given name, ruby あきら",
+   "count": 6
+  },
+  {
+   "ja": "夕月",
+   "en": "Yuzuki",
+   "kind": "name",
+   "note": "ゆづき from public sources (ja.wikipedia); not spelled in text",
+   "count": 5
+  },
+  {
+   "ja": "薫子",
+   "en": "Kaoruko",
+   "kind": "name",
+   "note": "nickname るっこ (Rukko) used by Narumi",
+   "count": 5
+  },
+  {
+   "ja": "飛羽",
+   "en": "Hiba",
+   "kind": "name",
+   "note": "ひば from public sources; not spelled in text",
+   "count": 5
+  },
+  {
+   "ja": "愛美",
+   "en": "Manami",
+   "kind": "name",
+   "note": "nickname まなちゃん (Mana-chan) used by Narumi",
+   "count": 8
+  },
+  {
+   "ja": "軍平",
+   "en": "Gunpei",
+   "kind": "name",
+   "note": "Narumi's grandfather, owner of Satonaka udon shop",
+   "count": 3
+  },
+  {
+   "ja": "鬼兵",
+   "en": "Onihei",
+   "kind": "name",
+   "note": "joke persona in GUN_PRO (鬼兵先任伍長, a drill-sergeant gag)",
+   "count": 1
+  },
+  {
+   "ja": "小早川",
+   "en": "Kobayakawa",
+   "kind": "name",
+   "note": "Asuka's underclass admirer (speaker MIC)",
+   "count": 3
+  },
+  {
+   "ja": "美千",
+   "en": "Michi",
+   "kind": "name",
+   "note": "given name from credits",
+   "count": 2
+  },
+  {
+   "ja": "霧島",
+   "en": "Kirishima",
+   "kind": "name",
+   "note": "guidance officer (speaker KEI), credits only",
+   "count": 2
+  },
+  {
+   "ja": "敬子",
+   "en": "Keiko",
+   "kind": "name",
+   "note": "given name from credits",
+   "count": 2
+  },
+  {
+   "ja": "相原",
+   "en": "Aihara",
+   "kind": "name",
+   "note": "default player surname = {Nm} (D-016)",
+   "count": 1
+  },
+  {
+   "ja": "光一",
+   "en": "Kouichi",
+   "kind": "name",
+   "note": "default player given name = {Nn}",
+   "alt": [
+    "Koichi"
+   ],
+   "depends_on": "D2",
+   "count": 1
+  },
+  {
+   "ja": "輝日南高校",
+   "en": "Kibina High School",
+   "kind": "place",
+   "note": "school name; 輝日南 = きびな (ja.wikipedia)",
+   "alt": [
+    "Kibina High"
+   ],
+   "count": 29
+  },
+  {
+   "ja": "輝日南",
+   "en": "Kibina",
+   "kind": "place",
+   "note": "town / school prefix",
+   "count": 43
+  },
+  {
+   "ja": "輝日東商業",
+   "en": "Kibito Commercial High School",
+   "kind": "place",
+   "note": "rival soccer opponent; 輝日東 = きびと",
+   "alt": [
+    "Kibito Commercial"
+   ],
+   "count": 21
+  },
+  {
+   "ja": "きびな池",
+   "en": "Kibina Pond",
+   "kind": "place",
+   "note": "date spot",
+   "count": 14
+  },
+  {
+   "ja": "里なか",
+   "en": "Satonaka",
+   "kind": "place",
+   "note": "Sanuki udon shop run by Narumi's grandfather",
+   "alt": [
+    "Sato-naka"
+   ],
+   "count": 12
+  },
+  {
+   "ja": "教室",
+   "en": "classroom",
+   "kind": "place",
+   "note": "",
+   "alt": [
+    "homeroom"
+   ],
+   "count": 116
+  },
+  {
+   "ja": "図書室",
+   "en": "Library",
+   "kind": "place",
+   "note": "labels: Library",
+   "alt": [
+    "library"
+   ],
+   "count": 83
+  },
+  {
+   "ja": "音楽室",
+   "en": "Music Room",
+   "kind": "place",
+   "note": "labels: Music Room",
+   "alt": [
+    "music room"
+   ],
+   "count": 28
+  },
+  {
+   "ja": "理科室",
+   "en": "Science Lab",
+   "kind": "place",
+   "note": "labels: Science Lab",
+   "alt": [
+    "science lab"
+   ],
+   "count": 22
+  },
+  {
+   "ja": "理科準備室",
+   "en": "Science Prep Room",
+   "kind": "place",
+   "note": "labels: Prep Room (location panel)",
+   "alt": [
+    "science prep room",
+    "prep room"
+   ],
+   "count": 36
+  },
+  {
+   "ja": "家庭科室",
+   "en": "Home Ec Room",
+   "kind": "place",
+   "note": "labels: Home Ec",
+   "alt": [
+    "home ec room"
+   ],
+   "count": 29
+  },
+  {
+   "ja": "保健室",
+   "en": "Infirmary",
+   "kind": "place",
+   "note": "nurse's office; labels: Infirmary",
+   "alt": [
+    "infirmary"
+   ],
+   "count": 37
+  },
+  {
+   "ja": "職員室",
+   "en": "Staff Room",
+   "kind": "place",
+   "note": "",
+   "alt": [
+    "staff room",
+    "teachers' room"
+   ],
+   "count": 19
+  },
+  {
+   "ja": "体育館",
+   "en": "Gym",
+   "kind": "place",
+   "note": "labels: Gym (Gymnasium is too wide)",
+   "alt": [
+    "gym"
+   ],
+   "count": 24
+  },
+  {
+   "ja": "校庭",
+   "en": "Schoolyard",
+   "kind": "place",
+   "note": "labels: Schoolyard",
+   "alt": [
+    "schoolyard"
+   ],
+   "count": 34
+  },
+  {
+   "ja": "校門",
+   "en": "School Gate",
+   "kind": "place",
+   "note": "",
+   "alt": [
+    "school gate"
+   ],
+   "count": 75
+  },
+  {
+   "ja": "校舎裏",
+   "en": "behind the school",
+   "kind": "place",
+   "note": "labels: Back Lot (REVIEW); prose can be 'behind the school'",
+   "alt": [
+    "Back Lot"
+   ],
+   "count": 42
+  },
+  {
+   "ja": "屋上",
+   "en": "Rooftop",
+   "kind": "place",
+   "note": "labels: Rooftop",
+   "alt": [
+    "rooftop",
+    "roof"
+   ],
+   "count": 59
+  },
+  {
+   "ja": "渡り廊下",
+   "en": "Walkway",
+   "kind": "place",
+   "note": "labels: Walkway",
+   "alt": [
+    "walkway"
+   ],
+   "count": 5
+  },
+  {
+   "ja": "廊下",
+   "en": "hallway",
+   "kind": "place",
+   "note": "labels: Year N Hall",
+   "alt": [
+    "hall",
+    "corridor"
+   ],
+   "count": 33
+  },
+  {
+   "ja": "食堂",
+   "en": "Cafeteria",
+   "kind": "place",
+   "note": "labels: Cafeteria",
+   "alt": [
+    "cafeteria"
+   ],
+   "count": 30
+  },
+  {
+   "ja": "テラス",
+   "en": "Terrace",
+   "kind": "place",
+   "note": "labels: Terrace",
+   "alt": [
+    "terrace"
+   ],
+   "count": 35
+  },
+  {
+   "ja": "噴水",
+   "en": "Fountain",
+   "kind": "place",
+   "note": "labels: Fountain",
+   "alt": [
+    "fountain"
+   ],
+   "count": 25
+  },
+  {
+   "ja": "花壇",
+   "en": "Garden",
+   "kind": "place",
+   "note": "labels: Garden (REVIEW); literally flower bed",
+   "alt": [
+    "garden",
+    "flower bed"
+   ],
+   "count": 9
+  },
+  {
+   "ja": "並木道",
+   "en": "tree-lined path",
+   "kind": "place",
+   "note": "",
+   "count": 11
+  },
+  {
+   "ja": "下駄箱",
+   "en": "shoe lockers",
+   "kind": "place",
+   "note": "",
+   "alt": [
+    "shoe locker",
+    "shoe cubbies"
+   ],
+   "count": 9
+  },
+  {
+   "ja": "プール",
+   "en": "Pool",
+   "kind": "place",
+   "note": "labels: Pool",
+   "alt": [
+    "pool"
+   ],
+   "count": 138
+  },
+  {
+   "ja": "更衣室",
+   "en": "Locker Room",
+   "kind": "place",
+   "note": "",
+   "alt": [
+    "locker room",
+    "changing room"
+   ],
+   "count": 9
+  },
+  {
+   "ja": "商店街",
+   "en": "shopping street",
+   "kind": "place",
+   "note": "Narumi's shop and most date meeting points are here",
+   "alt": [
+    "shopping district",
+    "shopping arcade"
+   ],
+   "count": 60
+  },
+  {
+   "ja": "駅前",
+   "en": "in front of the station",
+   "kind": "place",
+   "note": "",
+   "alt": [
+    "station"
+   ],
+   "count": 52
+  },
+  {
+   "ja": "河原",
+   "en": "riverbank",
+   "kind": "place",
+   "note": "Asuka's practice spot",
+   "alt": [
+    "riverside"
+   ],
+   "count": 34
+  },
+  {
+   "ja": "公園",
+   "en": "park",
+   "kind": "place",
+   "note": "",
+   "count": 55
+  },
+  {
+   "ja": "遊園地",
+   "en": "amusement park",
+   "kind": "place",
+   "note": "",
+   "count": 17
+  },
+  {
+   "ja": "ゲームセンター",
+   "en": "game center",
+   "kind": "place",
+   "note": "guidance officers patrol it",
+   "alt": [
+    "arcade",
+    "game centre"
+   ],
+   "count": 19
+  },
+  {
+   "ja": "デパート",
+   "en": "department store",
+   "kind": "place",
+   "note": "",
+   "count": 19
+  },
+  {
+   "ja": "本屋",
+   "en": "bookstore",
+   "kind": "place",
+   "note": "",
+   "alt": [
+    "bookshop"
+   ],
+   "count": 24
+  },
+  {
+   "ja": "路地裏",
+   "en": "back alley",
+   "kind": "place",
+   "note": "",
+   "count": 10
+  },
+  {
+   "ja": "学園祭",
+   "en": "school festival",
+   "kind": "term",
+   "note": "labels hint banner: 'school festival' (alt: culture festival)",
+   "alt": [
+    "School Festival"
+   ],
+   "count": 113
+  },
+  {
+   "ja": "放課後",
+   "en": "after school",
+   "kind": "term",
+   "note": "labels: After School (period tab)",
+   "alt": [
+    "After School"
+   ],
+   "count": 110
+  },
+  {
+   "ja": "昼休み",
+   "en": "lunch break",
+   "kind": "term",
+   "note": "labels tab: Lunch",
+   "alt": [
+    "lunchtime",
+    "Lunch Break"
+   ],
+   "count": 40
+  },
+  {
+   "ja": "休み時間",
+   "en": "break",
+   "kind": "term",
+   "note": "labels: Break 1 / Break 2",
+   "alt": [
+    "recess"
+   ],
+   "count": 16
+  },
+  {
+   "ja": "登校",
+   "en": "going to school",
+   "kind": "term",
+   "note": "",
+   "alt": [
+    "on the way to school"
+   ],
+   "count": 31
+  },
+  {
+   "ja": "下校",
+   "en": "heading home",
+   "kind": "term",
+   "note": "labels hint banner: after-school date",
+   "alt": [
+    "after school",
+    "going home",
+    "after-school"
+   ],
+   "count": 10
+  },
+  {
+   "ja": "夏休み",
+   "en": "summer vacation",
+   "kind": "term",
+   "note": "",
+   "alt": [
+    "summer break"
+   ],
+   "count": 48
+  },
+  {
+   "ja": "週末",
+   "en": "weekend",
+   "kind": "term",
+   "note": "",
+   "count": 84
+  },
+  {
+   "ja": "部活",
+   "en": "club activities",
+   "kind": "term",
+   "note": "labels: Clubs",
+   "alt": [
+    "club"
+   ],
+   "count": 81
+  },
+  {
+   "ja": "サッカー部",
+   "en": "soccer club",
+   "kind": "term",
+   "note": "Asuka is in the boys' team",
+   "alt": [
+    "soccer team"
+   ],
+   "count": 76
+  },
+  {
+   "ja": "水泳部",
+   "en": "Swim Club",
+   "kind": "term",
+   "note": "Kawada is the adviser",
+   "alt": [
+    "swim club",
+    "swim team"
+   ],
+   "count": 36
+  },
+  {
+   "ja": "家庭部",
+   "en": "Home Ec Club",
+   "kind": "term",
+   "note": "Narumi's club",
+   "alt": [
+    "home ec club",
+    "cooking club"
+   ],
+   "count": 15
+  },
+  {
+   "ja": "うどん同好会",
+   "en": "Udon Club",
+   "kind": "term",
+   "note": "Narumi, Manami, Kaoruko",
+   "alt": [
+    "udon club",
+    "Udon Society"
+   ],
+   "count": 12
+  },
+  {
+   "ja": "風紀委員",
+   "en": "Discipline Committee",
+   "kind": "term",
+   "note": "Megumi's post (wiki: school disciplinary group)",
+   "alt": [
+    "discipline committee",
+    "Public Morals Committee"
+   ],
+   "count": 46
+  },
+  {
+   "ja": "図書委員",
+   "en": "Library Committee",
+   "kind": "term",
+   "note": "Yumi's post",
+   "alt": [
+    "library committee"
+   ],
+   "count": 44
+  },
+  {
+   "ja": "保健体育委員",
+   "en": "Health and PE Committee",
+   "kind": "term",
+   "note": "",
+   "count": 7
+  },
+  {
+   "ja": "補導員",
+   "en": "guidance officer",
+   "kind": "term",
+   "note": "speaker label KEI",
+   "alt": [
+    "truancy officer"
+   ],
+   "count": 2
+  },
+  {
+   "ja": "校則",
+   "en": "school rules",
+   "kind": "term",
+   "note": "labels: Rules",
+   "alt": [
+    "rules"
+   ],
+   "count": 74
+  },
+  {
+   "ja": "制服",
+   "en": "uniform",
+   "kind": "term",
+   "note": "labels: Uniform",
+   "count": 91
+  },
+  {
+   "ja": "体操服",
+   "en": "gym clothes",
+   "kind": "term",
+   "note": "",
+   "alt": [
+    "gym uniform",
+    "PE uniform"
+   ],
+   "count": 62
+  },
+  {
+   "ja": "ブルマ",
+   "en": "bloomers",
+   "kind": "term",
+   "note": "",
+   "alt": [
+    "gym shorts"
+   ],
+   "count": 32
+  },
+  {
+   "ja": "スクール水着",
+   "en": "school swimsuit",
+   "kind": "term",
+   "note": "",
+   "count": 59
+  },
+  {
+   "ja": "水着",
+   "en": "swimsuit",
+   "kind": "term",
+   "note": "labels: Swimsuit",
+   "count": 163
+  },
+  {
+   "ja": "先輩",
+   "en": "senpai",
+   "kind": "term",
+   "note": "Narumi's address for the player",
+   "alt": [
+    "Senpai"
+   ],
+   "count": 797
+  },
+  {
+   "ja": "先生",
+   "en": "sensei",
+   "kind": "term",
+   "note": "labels topic: Teacher",
+   "alt": [
+    "teacher",
+    "Teacher"
+   ],
+   "count": 314
+  },
+  {
+   "ja": "現代文",
+   "en": "modern Japanese class",
+   "kind": "term",
+   "note": "Kawada's subject (現代国語)",
+   "alt": [
+    "modern lit"
+   ],
+   "count": 6
+  },
+  {
+   "ja": "宿題",
+   "en": "homework",
+   "kind": "term",
+   "note": "",
+   "count": 40
+  },
+  {
+   "ja": "補習",
+   "en": "remedial lesson",
+   "kind": "term",
+   "note": "",
+   "alt": [
+    "makeup class"
+   ],
+   "count": 7
+  },
+  {
+   "ja": "赤点",
+   "en": "failing grade",
+   "kind": "term",
+   "note": "",
+   "alt": [
+    "failing mark"
+   ],
+   "count": 7
+  },
+  {
+   "ja": "転校",
+   "en": "transfer",
+   "kind": "term",
+   "note": "labels topic: Transfer",
+   "alt": [
+    "Transfer"
+   ],
+   "count": 90
+  },
+  {
+   "ja": "受験",
+   "en": "entrance exams",
+   "kind": "term",
+   "note": "labels topic: Exams",
+   "alt": [
+    "exams"
+   ],
+   "count": 65
+  },
+  {
+   "ja": "話題",
+   "en": "topic",
+   "kind": "term",
+   "note": "game system; labels: topic names",
+   "alt": [
+    "Topic"
+   ],
+   "count": 27
+  },
+  {
+   "ja": "話題袋",
+   "en": "Topic Bag",
+   "kind": "term",
+   "note": "labels entry 319: Topic Bag (REVIEW); alt Topic Deck",
+   "alt": [
+    "Topic Deck"
+   ],
+   "depends_on": "D8",
+   "count": 4
+  },
+  {
+   "ja": "マッチング会話",
+   "en": "Topic Match",
+   "kind": "term",
+   "note": "K2_Script scene label (dev); in-game mini-conversation using topics",
+   "alt": [
+    "matching talk"
+   ],
+   "count": 10
+  },
+  {
+   "ja": "アタック",
+   "en": "Attack",
+   "kind": "term",
+   "note": "labels: Attack",
+   "alt": [
+    "attack"
+   ],
+   "count": 1
+  },
+  {
+   "ja": "リアクション",
+   "en": "reaction",
+   "kind": "term",
+   "note": "dev label",
+   "count": 8
+  },
+  {
+   "ja": "好感度",
+   "en": "affection",
+   "kind": "term",
+   "note": "labels hint banner: affection gauge",
+   "alt": [
+    "Affection"
+   ],
+   "count": 3
+  },
+  {
+   "ja": "テンション",
+   "en": "Tension",
+   "kind": "term",
+   "note": "dev label",
+   "count": 1
+  },
+  {
+   "ja": "ドキドキ",
+   "en": "heartbeat",
+   "kind": "term",
+   "note": "dev label; as interjection see SFX",
+   "alt": [
+    "Doki-doki"
+   ],
+   "count": 60
+  },
+  {
+   "ja": "フリーイベント",
+   "en": "Free Event",
+   "kind": "term",
+   "note": "dev label in EventTable",
+   "count": 27
+  },
+  {
+   "ja": "キス",
+   "en": "kiss",
+   "kind": "term",
+   "note": "title word; LV1/2/3 kiss events",
+   "alt": [
+    "Kiss"
+   ],
+   "count": 308
+  },
+  {
+   "ja": "デート",
+   "en": "date",
+   "kind": "term",
+   "note": "labels: after-school date, holiday date",
+   "count": 44
+  },
+  {
+   "ja": "告白",
+   "en": "confession",
+   "kind": "term",
+   "note": "",
+   "count": 22
+  },
+  {
+   "ja": "主人公",
+   "en": "protagonist",
+   "kind": "term",
+   "note": "dev label; = the player character",
+   "alt": [
+    "Protagonist"
+   ],
+   "count": 116
+  },
+  {
+   "ja": "摩央チェック",
+   "en": "Mao Check",
+   "kind": "term",
+   "note": "Mao's numbered 'rules for girls' (その1..); keep 'Mao Check #N'",
+   "alt": [
+    "Mao Check"
+   ],
+   "count": 14
+  },
+  {
+   "ja": "アスカターン",
+   "en": "Asuka Turn",
+   "kind": "term",
+   "note": "Asuka's soccer move she is perfecting",
+   "alt": [
+    "Asuka Turn"
+   ],
+   "count": 29
+  },
+  {
+   "ja": "勉強アレルギー",
+   "en": "study allergy",
+   "kind": "term",
+   "note": "Mao's studying allergy (hives)",
+   "alt": [
+    "Study Allergy"
+   ],
+   "count": 26
+  },
+  {
+   "ja": "ジンマシン",
+   "en": "hives",
+   "kind": "term",
+   "note": "",
+   "count": 9
+  },
+  {
+   "ja": "ご主人様",
+   "en": "Master",
+   "kind": "term",
+   "note": "Mitsuki's address for the player (242 uses, 201 lines spoken by MIT; the player and Nana quote it); alt 'my lord'",
+   "alt": [
+    "master"
+   ],
+   "depends_on": "D5",
+   "count": 242
+  },
+  {
+   "ja": "お嬢様",
+   "en": "young lady",
+   "kind": "term",
+   "note": "Mitsuki as a rich heiress",
+   "alt": [
+    "ojou-sama"
+   ],
+   "count": 33
+  },
+  {
+   "ja": "婚約者",
+   "en": "fiance",
+   "kind": "term",
+   "note": "Mitsuki's arranged fiance",
+   "alt": [
+    "fiancé"
+   ],
+   "count": 21
+  },
+  {
+   "ja": "讃岐うどん",
+   "en": "Sanuki udon",
+   "kind": "term",
+   "note": "",
+   "alt": [
+    "Sanuki-style udon"
+   ],
+   "count": 9
+  },
+  {
+   "ja": "出汁",
+   "en": "dashi",
+   "kind": "term",
+   "note": "broth",
+   "alt": [
+    "broth"
+   ],
+   "count": 20
+  },
+  {
+   "ja": "知恵の輪",
+   "en": "puzzle ring",
+   "kind": "term",
+   "note": "Nana's puzzle borrowed from Narumi",
+   "alt": [
+    "ring puzzle"
+   ],
+   "count": 18
+  },
+  {
+   "ja": "紙芝居",
+   "en": "kamishibai",
+   "kind": "term",
+   "note": "picture-card storytelling (Yumi's route)",
+   "alt": [
+    "picture-card story"
+   ],
+   "count": 12
+  },
+  {
+   "ja": "デコちゅー",
+   "en": "forehead kiss",
+   "kind": "term",
+   "note": "Nana's 'deco-chu'; alt keep 'deco-chu'",
+   "alt": [
+    "deco-chu"
+   ],
+   "count": 8
+  },
+  {
+   "ja": "ロジ",
+   "en": "Roji",
+   "kind": "term",
+   "note": "Megumi's stray kitten (found in a 路地 alley, hence the name)",
+   "count": 12
+  },
+  {
+   "ja": "リンゴ",
+   "en": "Ringo",
+   "kind": "term",
+   "note": "Mitsuki's family dog",
+   "count": 1
+  },
+  {
+   "ja": "摩央姉ちゃん",
+   "en": "Mao-nee",
+   "kind": "name",
+   "note": "player's name for Mao (627 uses); D3/D5",
+   "depends_on": "D3",
+   "count": 621
+  },
+  {
+   "ja": "なるみちゃん",
+   "en": "Narumi-chan",
+   "kind": "name",
+   "note": "player's name for Narumi",
+   "depends_on": "D3",
+   "count": 538
+  },
+  {
+   "ja": "なるちゃん",
+   "en": "Naru-chan",
+   "kind": "name",
+   "note": "Nana's name for Narumi",
+   "depends_on": "D3",
+   "count": 47
+  },
+  {
+   "ja": "菜々ちゃん",
+   "en": "Nana-chan",
+   "kind": "name",
+   "note": "Narumi and Mao for Nana",
+   "depends_on": "D3",
+   "count": 75
+  },
+  {
+   "ja": "トモちゃん",
+   "en": "Tomo-chan",
+   "kind": "name",
+   "note": "Mao's nickname for Kawada; Kawada objects",
+   "depends_on": "D3",
+   "count": 6
+  },
+  {
+   "ja": "まなちゃん",
+   "en": "Mana-chan",
+   "kind": "name",
+   "note": "Narumi for Hiba Manami",
+   "depends_on": "D3",
+   "count": 12
+  },
+  {
+   "ja": "るっこちゃん",
+   "en": "Rukko-chan",
+   "kind": "name",
+   "note": "Narumi for Yuzuki Kaoruko",
+   "depends_on": "D3",
+   "count": 12
+  },
+  {
+   "ja": "瑛理ちゃん",
+   "en": "Eri-chan",
+   "kind": "name",
+   "note": "Eriko's friends and mother (えりちゃん)",
+   "depends_on": "D3",
+   "count": 3
+  },
+  {
+   "ja": "川田先生",
+   "en": "Kawada-sensei",
+   "kind": "name",
+   "note": "107 uses",
+   "depends_on": "D3",
+   "count": 123
+  },
+  {
+   "ja": "お兄ちゃん",
+   "en": "Onii-chan",
+   "kind": "name",
+   "note": "Nana for the player (375 uses)",
+   "depends_on": "D3",
+   "count": 405
+  },
+  {
+   "ja": "{Nm}君",
+   "en": "{Nm}-kun",
+   "kind": "name",
+   "note": "Asuka, Yumi, Megumi, Kawada",
+   "depends_on": "D3"
+  },
+  {
+   "ja": "{Nm}さん",
+   "en": "{Nm}-san",
+   "kind": "name",
+   "note": "Mitsuki",
+   "depends_on": "D3"
+  },
+  {
+   "ja": "{Nm}先輩",
+   "en": "{Nm}-senpai",
+   "kind": "name",
+   "note": "Narumi",
+   "depends_on": "D3"
+  },
+  {
+   "ja": "明日夏先輩",
+   "en": "Asuka-senpai",
+   "kind": "name",
+   "note": "Narumi, Michi",
+   "depends_on": "D3",
+   "count": 12
+  },
+  {
+   "ja": "栗生先輩",
+   "en": "Kuryuu-senpai",
+   "kind": "name",
+   "note": "Narumi for Megumu",
+   "depends_on": "D3",
+   "count": 2
+  },
+  {
+   "ja": "キミキス",
+   "en": "KimiKiss",
+   "kind": "term",
+   "note": "game title in system prompts",
+   "count": 27
+  },
+  {
+   "ja": "キミキスＰＬＵＳ",
+   "en": "KimiKiss PLUS",
+   "kind": "term",
+   "note": "this disc's title in save/load prompts",
+   "count": 17
+  },
+  {
+   "ja": "メモリーカード",
+   "en": "memory card",
+   "kind": "term",
+   "note": "system text",
+   "count": 128
+  },
+  {
+   "ja": "セーブデータ",
+   "en": "save data",
+   "kind": "term",
+   "note": "system text",
+   "count": 44
+  },
+  {
+   "ja": "ひきつぎ",
+   "en": "Carry Over",
+   "kind": "term",
+   "note": "labels",
+   "count": 0
+  },
+  {
+   "ja": "うどん",
+   "en": "udon",
+   "kind": "term",
+   "note": "",
+   "count": 234
+  },
+  {
+   "ja": "サッカー",
+   "en": "soccer",
+   "kind": "term",
+   "note": "",
+   "count": 222
+  },
+  {
+   "ja": "海",
+   "en": "the sea",
+   "kind": "term",
+   "note": "date destination; beach is fine; 海パン = swim trunks",
+   "weak": true,
+   "count": 114
+  },
+  {
+   "ja": "イタリア",
+   "en": "Italy",
+   "kind": "term",
+   "note": "Asuka's dream league; also a topic",
+   "count": 75
+  },
+  {
+   "ja": "ラーメン",
+   "en": "ramen",
+   "kind": "term",
+   "note": "",
+   "count": 65
+  },
+  {
+   "ja": "ダンス",
+   "en": "dance",
+   "kind": "term",
+   "note": "",
+   "count": 61
+  },
+  {
+   "ja": "テレビ",
+   "en": "TV",
+   "kind": "term",
+   "note": "",
+   "count": 56
+  },
+  {
+   "ja": "おじいちゃん",
+   "en": "Grandpa",
+   "kind": "term",
+   "note": "Narumi's name for Gunpei",
+   "count": 51
+  },
+  {
+   "ja": "イタリア語",
+   "en": "Italian",
+   "kind": "term",
+   "note": "topic label Italian",
+   "count": 51
+  },
+  {
+   "ja": "お父様",
+   "en": "Father",
+   "kind": "term",
+   "note": "Mitsuki; お母様 = Mother; お兄様 appears 0 times",
+   "count": 45
+  },
+  {
+   "ja": "ピアノ",
+   "en": "piano",
+   "kind": "term",
+   "note": "",
+   "count": 41
+  },
+  {
+   "ja": "ダイエット",
+   "en": "diet",
+   "kind": "term",
+   "note": "topic label Diet",
+   "count": 41
+  },
+  {
+   "ja": "ケーキ",
+   "en": "cake",
+   "kind": "term",
+   "note": "",
+   "count": 36
+  },
+  {
+   "ja": "山",
+   "en": "mountain",
+   "kind": "term",
+   "note": "",
+   "weak": true,
+   "count": 36
+  },
+  {
+   "ja": "コーヒー",
+   "en": "coffee",
+   "kind": "term",
+   "note": "",
+   "count": 33
+  },
+  {
+   "ja": "カレー",
+   "en": "curry",
+   "kind": "term",
+   "note": "",
+   "count": 33
+  },
+  {
+   "ja": "夕日",
+   "en": "sunset",
+   "kind": "term",
+   "note": "",
+   "count": 33
+  },
+  {
+   "ja": "跳び箱",
+   "en": "vaulting box",
+   "kind": "term",
+   "note": "Narumi/PE scenes",
+   "count": 33
+  },
+  {
+   "ja": "アイス",
+   "en": "ice cream",
+   "kind": "term",
+   "note": "",
+   "count": 32
+  },
+  {
+   "ja": "アレルギー",
+   "en": "allergy",
+   "kind": "term",
+   "note": "also 勉強アレルギー",
+   "count": 29
+  },
+  {
+   "ja": "映画",
+   "en": "movie",
+   "kind": "term",
+   "note": "",
+   "count": 29
+  },
+  {
+   "ja": "ゴルフ",
+   "en": "golf",
+   "kind": "term",
+   "note": "",
+   "count": 28
+  },
+  {
+   "ja": "麻雀",
+   "en": "mahjong",
+   "kind": "term",
+   "note": "mahjong mini-event (K2_Script 81.26)",
+   "count": 27
+  },
+  {
+   "ja": "クラシックバレエ",
+   "en": "classical ballet",
+   "kind": "term",
+   "note": "Mitsuki's accomplishment",
+   "count": 27
+  },
+  {
+   "ja": "バレーボール",
+   "en": "volleyball",
+   "kind": "term",
+   "note": "",
+   "count": 26
+  },
+  {
+   "ja": "チョコ",
+   "en": "chocolate",
+   "kind": "term",
+   "note": "",
+   "count": 26
+  },
+  {
+   "ja": "紅茶",
+   "en": "tea",
+   "kind": "term",
+   "note": "black tea",
+   "count": 24
+  },
+  {
+   "ja": "参考書",
+   "en": "study guide",
+   "kind": "term",
+   "note": "reference book",
+   "count": 23
+  },
+  {
+   "ja": "チアガール",
+   "en": "cheerleader",
+   "kind": "term",
+   "note": "",
+   "count": 23
+  },
+  {
+   "ja": "監督",
+   "en": "coach",
+   "kind": "term",
+   "note": "Asuka's team; コーチ = coach too (DECIDE-lite: coach vs manager)",
+   "count": 23
+  },
+  {
+   "ja": "手料理",
+   "en": "home cooking",
+   "kind": "term",
+   "note": "topic label Cooking",
+   "count": 22
+  },
+  {
+   "ja": "屋敷",
+   "en": "mansion",
+   "kind": "term",
+   "note": "Mitsuki's house; お屋敷",
+   "count": 21
+  },
+  {
+   "ja": "花火",
+   "en": "fireworks",
+   "kind": "term",
+   "note": "",
+   "count": 20
+  },
+  {
+   "ja": "ラブレター",
+   "en": "love letter",
+   "kind": "term",
+   "note": "",
+   "count": 20
+  },
+  {
+   "ja": "ママ",
+   "en": "Mama",
+   "kind": "term",
+   "note": "also パパ = Papa; お母さん / お父さん = Mom / Dad",
+   "count": 20
+  },
+  {
+   "ja": "洋食",
+   "en": "Western food",
+   "kind": "term",
+   "note": "",
+   "count": 19
+  },
+  {
+   "ja": "テニス",
+   "en": "tennis",
+   "kind": "term",
+   "note": "",
+   "count": 19
+  },
+  {
+   "ja": "スナック菓子",
+   "en": "snacks",
+   "kind": "term",
+   "note": "",
+   "count": 19
+  },
+  {
+   "ja": "コンタクト",
+   "en": "contact lenses",
+   "kind": "term",
+   "note": "",
+   "count": 19
+  },
+  {
+   "ja": "弁当",
+   "en": "bento",
+   "kind": "term",
+   "note": "lunchbox",
+   "count": 18
+  },
+  {
+   "ja": "占い",
+   "en": "fortune-telling",
+   "kind": "term",
+   "note": "Kawada's speciality",
+   "count": 18
+  },
+  {
+   "ja": "ハンバーグ",
+   "en": "hamburger steak",
+   "kind": "term",
+   "note": "",
+   "count": 17
+  },
+  {
+   "ja": "コロッケパン",
+   "en": "croquette bun",
+   "kind": "term",
+   "note": "",
+   "count": 17
+  },
+  {
+   "ja": "カップラーメン",
+   "en": "instant ramen",
+   "kind": "term",
+   "note": "",
+   "count": 17
+  },
+  {
+   "ja": "フランス",
+   "en": "France",
+   "kind": "term",
+   "note": "",
+   "count": 16
+  },
+  {
+   "ja": "ジャンクフード",
+   "en": "junk food",
+   "kind": "term",
+   "note": "topic label Junk Food",
+   "count": 15
+  },
+  {
+   "ja": "逆上がり",
+   "en": "bar flip",
+   "kind": "term",
+   "note": "reverse bar swing (sakaagari)",
+   "count": 15
+  },
+  {
+   "ja": "おじさん",
+   "en": "uncle",
+   "kind": "term",
+   "note": "",
+   "count": 13
+  },
+  {
+   "ja": "カラオケ",
+   "en": "karaoke",
+   "kind": "term",
+   "note": "",
+   "count": 12
+  },
+  {
+   "ja": "味噌汁",
+   "en": "miso soup",
+   "kind": "term",
+   "note": "",
+   "count": 11
+  },
+  {
+   "ja": "ブランコ",
+   "en": "swing",
+   "kind": "term",
+   "note": "",
+   "count": 11
+  },
+  {
+   "ja": "紙飛行機",
+   "en": "paper airplane",
+   "kind": "term",
+   "note": "",
+   "count": 10
+  },
+  {
+   "ja": "ジョギング",
+   "en": "jogging",
+   "kind": "term",
+   "note": "",
+   "count": 10
+  },
+  {
+   "ja": "柔道",
+   "en": "judo",
+   "kind": "term",
+   "note": "Megumi's family dojo",
+   "count": 10
+  },
+  {
+   "ja": "道場",
+   "en": "dojo",
+   "kind": "term",
+   "note": "",
+   "count": 6
+  },
+  {
+   "ja": "ディフェンダー",
+   "en": "defender",
+   "kind": "term",
+   "note": "",
+   "count": 13
+  },
+  {
+   "ja": "顧問",
+   "en": "adviser",
+   "kind": "term",
+   "note": "",
+   "count": 13
+  },
+  {
+   "ja": "ビーチバレー",
+   "en": "beach volleyball",
+   "kind": "term",
+   "note": "",
+   "count": 10
+  },
+  {
+   "ja": "フォークダンス",
+   "en": "folk dance",
+   "kind": "term",
+   "note": "school festival dance",
+   "count": 10
+  },
+  {
+   "ja": "プレゼント",
+   "en": "present",
+   "kind": "term",
+   "note": "",
+   "count": 9
+  },
+  {
+   "ja": "リフティング",
+   "en": "juggling",
+   "kind": "term",
+   "note": "soccer ball juggling",
+   "count": 8
+  },
+  {
+   "ja": "リムジン",
+   "en": "limousine",
+   "kind": "term",
+   "note": "Mitsuki's ride",
+   "count": 7
+  },
+  {
+   "ja": "ユニフォーム",
+   "en": "kit",
+   "kind": "term",
+   "note": "soccer kit",
+   "count": 6
+  },
+  {
+   "ja": "マネージャー",
+   "en": "manager",
+   "kind": "term",
+   "note": "club manager",
+   "count": 6
+  },
+  {
+   "ja": "キャプテン",
+   "en": "captain",
+   "kind": "term",
+   "note": "",
+   "count": 6
+  },
+  {
+   "ja": "ワールドカップ",
+   "en": "World Cup",
+   "kind": "term",
+   "note": "",
+   "count": 5
+  },
+  {
+   "ja": "ソフトボール",
+   "en": "softball",
+   "kind": "term",
+   "note": "Mitsuki",
+   "count": 5
+  },
+  {
+   "ja": "ソフトテニス",
+   "en": "soft tennis",
+   "kind": "term",
+   "note": "",
+   "count": 6
+  },
+  {
+   "ja": "ハムカツパン",
+   "en": "ham cutlet bun",
+   "kind": "term",
+   "note": "",
+   "count": 6
+  },
+  {
+   "ja": "サンドウィッチ",
+   "en": "sandwich",
+   "kind": "term",
+   "note": "",
+   "count": 7
+  },
+  {
+   "ja": "ピザ",
+   "en": "pizza",
+   "kind": "term",
+   "note": "",
+   "count": 7
+  },
+  {
+   "ja": "メイド",
+   "en": "maid",
+   "kind": "term",
+   "note": "",
+   "count": 5
+  },
+  {
+   "ja": "ベンチ",
+   "en": "bench",
+   "kind": "term",
+   "note": "",
+   "count": 7
+  }
+ ]
+}

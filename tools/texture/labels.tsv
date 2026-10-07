@@ -1,0 +1,221 @@
+entry	japanese	english	notes
+1	食べ物	Food	
+2	校舎裏	Back Lot	REVIEW: literally "behind the school building"
+9	校庭	Schoolyard	
+10	体育館	Gym	map tag, highlighted state
+12	履歴	History	
+14	読書	Reading	
+16	菜々	Nana	REVIEW: given name only; surname unknown
+17	テスト	Test	
+21	日	Sun	weekday (日 = Sunday)
+23	おまけ	Extras	extras/bonus menu; the old TSV read おまかせ
+28	昼休み	Lunch	"Lunch Break" does not fit the tab; CHECK-ART: tab overlaps the panel border
+31	保健室	Infirmary	nurse's office; the old TSV read 親備室
+33	3年	Year 3	
+34	食事	Meal	
+35	食べ物	Food	
+36	成績	Grades	
+37	理科	Science	
+38	アルバム	Album	
+41	ストーリーイベントを見よう！	Watch the story event!	hint banner
+44	戻る	Back	
+45	次へ進む	Next	line 1 of 2
+45	決定	OK	line 2 of 2 (beside the button icon)
+46	セーブ	Save	
+48	あり	Yes	REVIEW: あり/なし option value (with/without)
+52	運動	Sports	
+56	テラス	Terrace	location panel
+57	1年	Year 1	map tag
+60	食堂	Cafeteria	map tag
+61	ひらがな	Hiragana	
+64	ダンス	Dance	
+66	昔	Past	REVIEW: topic
+68	設定	Settings	button guide; 48 px wide
+72	栗生 恵	Kuriu Megumi	REVIEW: name order and romanization
+75	プール	Pool	location panel
+78	アクセサリー	Accessories	
+79	水	Wed	weekday (水 = Wednesday)
+80	準備室	Prep Room	location panel
+81	運動	Sports	
+84	先生	Teacher	
+86	カミカゼ	Kamikaze	REVIEW: item or topic name, kept as is
+88	家庭	Home Ec	map tag
+89	うどん	Udon	
+90	名前変更	Rename	
+94	今週末は学園祭だ！	The school festival is this weekend!	hint banner
+95	音声	Voice	settings row
+100	移動	Move	
+102	壁紙	Wallpaper	settings row (bubble)
+105	タイトルへ	To Title	
+110	校庭	Schoolyard	location panel
+111	2年	Year 2	map tag
+116	体育	P.E.	
+117	花壇	Garden	
+118	プライベート	Private	
+119	花壇	Garden	map tag
+120	ショッピング	Shopping	
+122	寝る	Sleep	
+124	アルバム	Album	
+125	消す	Erase	
+128	二見 瑛理子	Futami Eriko	REVIEW: name order and romanization
+140	制服	Uniform	
+144	微笑む	Smile	
+145	音楽室	Music Room	location panel
+149	甘いもの	Sweets	
+150	美容健康	Beauty	REVIEW: 美容健康 = beauty and health
+151	日め	Day	REVIEW: day counter "2 日め (Tue)"; the number sprite stays left of this word, so it reads "2 Day (Tue)"
+153	屋上	Rooftop	map tag
+154	設定	Settings	main menu item, highlighted state
+163	3年廊下	Year 3 Hall	location panel
+170	体育館	Gym	
+171	図書	Library	map tag
+172	ダイエット	Diet	
+173	家庭	Home Ec	
+177	音楽	Music	
+179	スクロール	Scroll	
+180	里仲 なるみ	Satonaka Narumi	REVIEW: name order and romanization
+186	その他	Other	
+190	美容健康	Beauty	REVIEW
+199	化粧	Makeup	
+200	娯楽	Leisure	
+203	エスケープ	Escape	REVIEW: skipping class
+206	削除	Delete	
+215	放課後	After School	period tab; falls back to "After" if it will not fit
+217	ベッド	Bed	location panel
+219	月	Mon	weekday (月 = Monday)
+220	図書	Library	
+221	効果	Effect	
+223	保健	Infirmary	map tag; same place as 保健室 (31)
+224	おまけ	Extras	
+227	下校デートをしよう！	Let's go on an after-school date!	hint banner
+230	ロード	Load	
+232	なし	None	
+233	祇条 深月	Gijo Mizuki	REVIEW: name order and romanization
+236	渡り廊下	Walkway	location panel
+238	娯楽	Leisure	
+241	噴水	Fountain	location panel
+246	食堂	Cafeteria	map tag
+247	カタカナ	Katakana	
+248	学校生活	School Life	
+250	土	Sat	weekday (土 = Saturday)
+253	かっこつける	Act Cool	
+256	ほめる	Praise	
+258	音楽	Music	map tag
+261	ヒント	Hint	button guide
+266	効果	Effect	
+269	休み1	Break 1	period tab
+272	1年	Year 1	
+273	理科室	Science Lab	location panel
+277	転校	Transfer	REVIEW: changing schools
+278	ひきつぎ	Carry Over	REVIEW: main menu, carry over save data
+279	はじめから	New Game	main menu
+282	音楽	Music	
+283	家庭	Home Ec	map tag
+284	ジャンクフード	Junk Food	
+285	情報	Info	
+292	水澤 摩央	Mizusawa Mao	REVIEW: name order and romanization
+294	1年廊下	Year 1 Hall	location panel
+295	学校生活	School Life	
+304	移動エリアを決定しますか？	Go to this area?	dialog panel, line 1 of 3
+304	決定	OK	dialog panel, line 2 of 3
+304	戻る	Back	dialog panel, line 3 of 3
+306	2年	Year 2	map tag
+310	水泳	Swimming	
+311	校庭	Schoolyard	map tag
+315	エッチ	Naughty	REVIEW
+319	話題袋	Topic Bag	REVIEW
+321	はい	Yes	
+330	委員	Committee	REVIEW
+331	準備室	Prep Room	
+333	保健	Infirmary	REVIEW: shown in the period slot as the chosen place; "Health" in the first pass
+335	ドリンク	Drinks	
+336	保健	Infirmary	map tag; same place as 保健室 (31); "Health" in the first pass
+337	恋愛	Romance	
+340	オプション	Options	
+341	アタックを成功させよう！	Make your attack a success!	hint banner
+342	自動文字送り	Auto Advance	
+343	火	Tue	weekday (火 = Tuesday)
+345	枠メモ	Memo	REVIEW: first kanji hard to read (枠 or 終)
+347	レベル|アップ!!	LEVEL|UP!!	two lines in an oval
+350	セーブ	Save	
+351	壁紙	Wall|paper	REVIEW: 40 px wide, two lines; CHECK-ART: two lines in 40x32, 10 px
+354	花壇	Garden	REVIEW: 花壇 = flower bed; "Garden" fits the map tag
+357	受験	Exams	REVIEW: entrance exams
+358	3年	Year 3	map tag
+360	食堂	Cafeteria	
+361	体	Body	REVIEW: single-kanji stat name
+362	映像	Video	REVIEW
+366	決定	OK	
+367	見つめる	Gaze	
+369	次へ	Next	
+375	恋愛	Romance	
+376	休み2	Break 2	CHECK-ART: tab overlaps the panel border (teal dash under the old text removed)
+380	世間話	Small Talk	
+384	2年	Year 2	
+386	水着	Swimsuit	the old TSV read this as a character name
+387	屋上	Rooftop	
+388	おしゃれ	Stylish	REVIEW: おしゃれ (fashion sense)
+390	自宅学習	Home Study	
+392	理科	Science	
+393	つづきから	Continue	
+395	好感度ゲージをあげよう！	Raise the affection gauge!	hint banner
+398	決定	OK	
+401	しおり	Bookmark	
+402	初期設定に戻す	Reset to Default	settings row
+406	図書室	Library	location panel
+411	1年	Year 1	map tag
+417	スポーツ	Sports	
+418	校庭	Schoolyard	map tag
+421	将来	Future	
+422	再生	Play	
+423	木	Thu	weekday (木 = Thursday)
+424	全員	Everyone	REVIEW
+426	いいえ	No	
+429	菜々	Nana	REVIEW: given name only; surname unknown
+432	体育館	Gym	
+433	おしゃれ	Stylish	REVIEW; CHECK-ART: 80x32, heavy outline
+436	体育館	Gym	map tag; "Gymnasium" is too wide for it
+437	ファッション	Fashion	
+438	英数記号	ABC 123	REVIEW: name-entry tab for letters, digits and symbols
+440	家庭科室	Home Ec	location panel
+441	勉強	Study	
+445	校則	Rules	
+447	手を握る	Hold Hands	
+449	音楽	Music	
+451	編集	Edit	
+453	スキ	LIKE	REVIEW: small italic caption on art; CHECK-ART: caption over heart/note art, smeared background
+453	ナカヨシ	FRIENDS	REVIEW: small italic caption on art; CHECK-ART: caption over heart/note art, smeared background
+457	金	Fri	weekday (金 = Friday)
+459	振動	Rumble	settings row; 40 px wide
+472	準備室	Prep Room	location panel
+476	イタリア語	Italian	
+477	3年	Year 3	
+479	恋	Love	
+480	屋上	Rooftop	
+481	花壇	Garden	REVIEW: same place as entry 354
+483	戻る	Back	
+486	好きな話題が変わりました	Favorite topic changed!	hint banner
+487	咲野 明日夏	Sakino Asuka	REVIEW: name order and romanization
+491	勉強	Study	
+496	食堂	Cafeteria	
+499	行動	Action	
+500	漢字	Kanji	
+503	部活	Clubs	
+507	フェンス	Fence	location panel
+513	屋上	Rooftop	map tag
+519	本棚	Bookshelf	location panel
+524	図書	Library	map tag
+526	健康	Health	
+527	理科	Science	
+529	手料理	Cooking	
+532	行動	Action	
+533	アタック	Attack	
+535	ひきつぎ	Carry Over	REVIEW: main menu
+536	週末に休日デートがあるぞ！	Holiday date this weekend!	hint banner
+537	パターン	Pattern	
+539	星乃 結美	Hoshino Yumi	REVIEW: name order and romanization
+542	観察	Observe	
+545	メインメニュー	Main Menu	main menu header
+547	ロード	Load	
+549	2年廊下	Year 2 Hall	location panel
+551	文字速度	Text Speed	
