@@ -83,7 +83,7 @@
 "Huh..."
 
 @ASU_KBE:81 ASU ebbc7859
-"{V0504}{W12}You're a terrible{W4} person,{W23} {Nm}.{W97} {F6}Just because{W8} I{W5} don't know{W4} anything{W4} about love...{W58} {Ec}to think you'd deceive me."
+"{V0504}{W12}You're a terrible{W4} person,{W23} {Nm}.{W97} {F6}Just because{W8} I'm{W5} clueless{W4} about{W4} love...{W58} {Ec}to think you'd deceive me."
 
 @ASU_KBE:83 ASU fe9be493
 "{V0505}{W12}If{W5} you{W2} like{W1} someone{W1} else{W1},{W5} why{W1} not{W1} just{W1} say{W1} so?{W60} Be{W1} honest{W2} about it{W1}{W5}{W5}{W1}!"

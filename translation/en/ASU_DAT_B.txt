@@ -2,262 +2,262 @@
 # Format: docs/translation-format.md
 
 @ASU_DAT_B:16 PLY 2fe1ecba
-
+(It's 10:40. I'm a bit late.)
 
 @ASU_DAT_B:19 PLY a81f3ba9
-
+(Sakino... Good, it doesn't look like she's here yet.)
 
 @ASU_DAT_B:33 ASU 754710db
-
+"{V0885}Oh, {Nm}."
 
 @ASU_DAT_B:34 PLY a5ece806
-
+"Sakino."
 
 @ASU_DAT_B:37 ASU c99a4796
-
+"{V0886}{W2}Sorry!{W3} Did you wait long?"
 
 @ASU_DAT_B:38 PLY 658248e3
-
+"No, I just got here."
 
 @ASU_DAT_B:40 ASU 6a2f5662
-
+"{V0887}Oh good,{W3} that's a relief.{W43} {F9}{Eo}I had a little{W3} trouble{W3} getting ready..."
 
 @ASU_DAT_B:41 PLY 1de2ab51
-
+(Sakino in her own clothes... Pants, huh. Well, that fits her personality.)
 
 @ASU_DAT_B:42 ASU 6149ef3e
-
+"{V0888}Today we've got the pool{W10} and fireworks{W10}!{W35} {F3}{Ec}I can't wait!"
 
 @ASU_DAT_B:43 PLY 52529f36
-
+"Hahaha. Shall we go, then?"
 
 @ASU_DAT_B:44 ASU 99ddb35f
-
+"{V0889}Yeah! Let's go!"
 
 @ASU_DAT_B:47 SYS 0be8cf58
-
+...And so we headed to the pool.
 
 @ASU_DAT_B:48 ASU 6e4778d9
-
+"{V0890}Let's see...{W30}{W60} the Locker Room is...{W35} where?"
 
 @ASU_DAT_B:49 PLY 2423ee3a
-
+"It looks like it's over there."
 
 @ASU_DAT_B:51 PLY a2493bab
-
+"Then, shall we meet at the poolside?"
 
 @ASU_DAT_B:52 ASU bdad320c
-
+"{V0891}Yeah!"
 
 @ASU_DAT_B:55 PLY 12ee7b5f
-
+(I wonder what kind of swimsuit Sakino has... I've only ever seen her in a school swimsuit...)
 
 @ASU_DAT_B:57 PLY f7b5c21c
-
+(There are quite a lot of people. The pool season is nearly over, so maybe everyone's getting in one last swim?)
 
 @ASU_DAT_B:60 ASU cc9d38a9
-
+"{Nm}, {V0892}sorry to keep you waiting!"
 
 @ASU_DAT_B:61 ASU 53fb0a5e
-
+"{V0893}Waaah,{W35} {Ec}the sunshine{W3} feels so good!{W50} {F3}{Eo}Perfect{W5} pool weather!"
 
 @ASU_DAT_B:62 PLY 634f9920
-
+"Ah..."
 
 @ASU_DAT_B:63 ASU 6bb90114
-
+"{V0894}Hm?{W35} What's wrong?"
 
 @ASU_DAT_B:64.1 - a7f20be1
-
+{Ti0}- That's a sporty swimsuit／- That swimsuit looks great on you／- Sakino, you've got a great figure
 
 @ASU_DAT_B:65 PLY 374ac3dd
-
+"That's a sporty swimsuit."
 
 @ASU_DAT_B:66 ASU b4a9f394
-
+"{V0895}Ahaha,{W30} disappointed?{W33} {Ec}Sorry,{W23} I only{W2} have ones with no sex appeal."
 
 @ASU_DAT_B:67 PLY 8f0cc6ba
-
+"No, I think it suits you."
 
 @ASU_DAT_B:69 ASU d7f4094a
-
+"{V0896}Thanks."
 
 @ASU_DAT_B:70 PLY 86ff5b8d
-
+"That swimsuit looks great on you."
 
 @ASU_DAT_B:73 ASU c3a1e5dd
-
+"{V0897}Hehe,{W20} thanks."
 
 @ASU_DAT_B:74 ASU f490a1ca
-
+"{V0898}I'm planning to swim as hard as I can today!"
 
 @ASU_DAT_B:75 PLY 6dc409ce
-
+"You're all fired up, huh."
 
 @ASU_DAT_B:77 ASU 3e367357
-
+"{V0899}Of course!"
 
 @ASU_DAT_B:78 PLY f2808452
-
+"Sakino, you've got a great figure."
 
 @ASU_DAT_B:79 ASU dced3c9d
-
+"{V0900}Eh?!"
 
 @ASU_DAT_B:80 ASU b51ed6bf
-
+"{V0901}T-{W30}that's not true...{W20} Not someone like me..."
 
 @ASU_DAT_B:81 PLY 26a8276d
-
+"...No, I think it's really great. ...Yeah."
 
 @ASU_DAT_B:82 ASU 30227c2b
-
+"{V0902}R-{W40}really?{W45} {F9}Thanks..."
 
 @ASU_DAT_B:83 ASU 750d9473
-
+"{V0903}Okay! Let's go!"
 
 @ASU_DAT_B:84 PLY 8a5b525b
-
+"All right! Time to swim!"
 
 @ASU_DAT_B:88 SYS b288950d
-
+Sakino's swimming was graceful... and fast... and so dazzling.
 
 @ASU_DAT_B:89 SYS 89e23978
-
+The summer... the pool... it's as if they were made just for Sakino...
 
 @ASU_DAT_B:90 SYS e2a6a1c2
-
+Sakino...
 
 @ASU_DAT_B:91 PLY 9537b394
-
+"Shall we get out of the pool soon and head to the riverbank for fireworks?"
 
 @ASU_DAT_B:93 ASU 08966671
-
+"{V0904}Yeah!{W23} Okay,{W10} I'll go change."
 
 @ASU_DAT_B:95 ASU 8ee63987
-
+"{V0905}Sorry to keep you waiting!"
 
 @ASU_DAT_B:96 PLY de19447a
-
+"Ah! A yukata!"
 
 @ASU_DAT_B:97 ASU c15942d4
-
+"{V0906}Ehehe,{W35} I figured I'd change{W3} after getting out of the pool,{W30} so I brought it."
 
 @ASU_DAT_B:98 ASU 779f10f9
-
+"{V0907}How{W2} do I look?"
 
 @ASU_DAT_B:99 PLY 488e5122
-
+"It looks great on you."
 
 @ASU_DAT_B:100 ASU aa9ff151
-
+"{V0908}Hehe,{W33} {Eo}thanks."
 
 @ASU_DAT_B:101 PLY 018a4a50
-
+(She went out of her way to wear a yukata to do fireworks with me...)
 
 @ASU_DAT_B:102 ASU 33c364bb
-
+"{V0909}What's wrong, {Nm}?"
 
 @ASU_DAT_B:103 PLY 3e5ce983
-
+"...I was admiring Sakino in a yukata."
 
 @ASU_DAT_B:104 ASU eda11dc2
-
+"{V0910}Oh, stop,{W45} {F3}{Ec}you're{W3} kidding."
 
 @ASU_DAT_B:105 PLY 469f8c21
-
+"It's true."
 
 @ASU_DAT_B:107 ASU b0d56d0a
-
+"{V0911}Hehe,{W25} nice, isn't it?{W10} This yukata.{W20} My grandma had it made for me.{W25} {F3}{Ec}I really like it."
 
 @ASU_DAT_B:108 PLY dba84ffc
-
+"I see, she sounds like a wonderful grandma."
 
 @ASU_DAT_B:109 ASU 14128d59
-
+"{V0912}Yeah.{W45} She's{W2} so{W2} kind to me."
 
 @ASU_DAT_B:110 PLY 0fd873d8
-
+"They say a granddaughter is precious to her grandma."
 
 @ASU_DAT_B:111 ASU 8cc85cf9
-
+"{V0913}Ahaha,{W30} I guess so."
 
 @ASU_DAT_B:112 PLY 6f02e9d1
-
+"All right, shall we go do the fireworks, then!"
 
 @ASU_DAT_B:113 ASU 7ee64bc2
-
+"{V0914}Yeah!"
 
 @ASU_DAT_B:114 ASU 0fc4e221
-
+"{V0915}Hehe,{W55} {Eo}when you come at night,{W35} even the usual riverbank{W30} {F4}feels a little different,{W30} and my heart pounds."
 
 @ASU_DAT_B:115 PLY e3f8be68
-
+"Yeah, you're right."
 
 @ASU_DAT_B:117 ASU 68a03b29
-
+"{V0916}Hey,{W20} which fireworks should we start with?{W38} {F3}Dragon?{W30} Niagara?{W30} {Ec}We've got the multi-shot kind, too."
 
 @ASU_DAT_B:118 PLY cd869df0
-
+"To start, I think regular hand-held ones would be good."
 
 @ASU_DAT_B:120 ASU d11b852c
-
+"{V0917}Ahaha,{W38} {Ec}{W5}{F9}{Eo}that's right.{W40} The flashy ones{W15} are better{W3} saved for last."
 
 @ASU_DAT_B:121 ASU 7bed15c5
-
+"{V0918}Let's see...{W30}{W55} regular{W5} fireworks,{W60} regular{W5} fireworks...{W75} Found them!{W30} Here,{W10} take these."
 
 @ASU_DAT_B:122 PLY 3a22f571
-
+"Thanks. Okay, I'll light it."
 
 @ASU_DAT_B:123 ASU 7585eb62
-
+"{V0919}Yeah.{W40} I'm so excited..."
 
 @ASU_DAT_B:129 ASU c3ade98f
-
+"{V0920}Waaaah!{W40} So pretty!"
 
 @ASU_DAT_B:130 PLY 038a381c
-
+"Yeah, it's pretty."
 
 @ASU_DAT_B:132 ASU dbcd384e
-
+"{V0921}Oh, look, {Nm}!{W10} The color changed!"
 
 @ASU_DAT_B:133 PLY 32045d77
-
+"You're right!"
 
 @ASU_DAT_B:134 ASU 574423a2
-
+"{V0922}Hehe,{W30} this is fun!"
 
 @ASU_DAT_B:135 PLY deb1c3a4
-
+"...Summer's almost over, huh."
 
 @ASU_DAT_B:136 ASU 7cc652c7
-
+"{V0923}Yeah..."
 
 @ASU_DAT_B:137 ASU 23fdaa5d
-
+"{Nm}...{V0924}Next year,{W15} again..."
 
 @ASU_DAT_B:138 PLY 122df4f6
-
+"Huh?"
 
 @ASU_DAT_B:139 ASU 13ecc4f1
-
+"{V0925}Next year{W5} again,{W70} will you do fireworks{W10} with me?"
 
 @ASU_DAT_B:140 PLY f57edbd8
-
+"Of course!"
 
 @ASU_DAT_B:142 ASU c05f27be
-
+"{V0926}It's a{W2} promise{W2}."
 
 @ASU_DAT_B:143 PLY 47c1fd02
-
+"You're the one who shouldn't forget, Sakino."
 
 @ASU_DAT_B:144 ASU cda6050c
-
+"{V0927}I...{W70} won't forget...{W80} I'll never, ever forget..."
 
 @ASU_DAT_B:145 PLY 98d86410
-
+"Sakino..."
 
 @ASU_DAT_B:147 SYS ef23b678
-
+...And so, Sakino and I set off fireworks together.
 
 @ASU_DAT_B:148 SYS 92de226d
-
+Just one DEATH!

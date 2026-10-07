@@ -68,7 +68,7 @@
 "Y-yeah..."
 
 @MAO_TFO:75 MAO 43f27067
-"{V0820}...Well, fine.{W40} {Eo}I won't pry any further.{W50} {Ec}{W5}{Fe6}{Eo}It's not like we're going out, after all."
+"{V0820}...Well, fine.{W40} {Eo}I won't pry any further.{W50} {Ec}{W5}{Fe6}{Eo}It's not like you're going out{W5} with me, after all."
 
 @MAO_TFO:76 MAO ab659576
 "{V0821}But,{W63} remember this much.{W50} {Fe8}{Ec}Stop being{W3} so indecisive.{W80} {F1}{Eo}It hurts me,{W30} and it hurts her{W10} too."
@@ -95,22 +95,22 @@ Promising to walk home with two different girls... I'm such an idiot...
 "Ugh..."
 
 @MAO_TFO:86 MAO 3317c7ec
-"{V0825}That girl,{W60} {Fe9}she's in the{W3} same class{W5} as {Nn},{W2} isn't she?"
+"{V0825}That girl,{W60} {Fe9}she's {Nn}'s{W3} classmate,{W5} isn't{W2} she?"
 
 @MAO_TFO:88 MAO ac8f77d6
-"{V0826}If you want to go home with her that badly,{W30} then don't make promises to me,{W5} {Ec}just go home with her!"
+"{V0826}If you want{W15} to go home with her that badly,{W30} then don't make promises to me,{W5} {Ec}just go home with her!"
 
 @MAO_TFO:89 MAO 057c1277
 "{V0827}She's quiet,{W40} and she seems kind,{W75} {Ec}{W5}{F8}{Eo}a perfect match for {Nn}!"
 
 @MAO_TFO:90 MAO 52514447
-"{V0828}That girl,{W90} she's Nana's friend, isn't she?"
+"{V0828}That girl,{W90} she's Nana's{W5} friend, isn't she?"
 
 @MAO_TFO:92 MAO 995b2782
 "{V0829}If you want to go home with her that badly,{W10} then don't make promises to me,{W5} {Ec}just go home with her!"
 
 @MAO_TFO:93 MAO af3fc47d
-"{V0830}She's little,{W30} and adorable,{W75} {Fm9}a perfect match for {Nn}."
+"{V0830}She's little,{W30} and adorable,{W75} {Fm9}she and {Nn},{W5} a perfect match."
 
 @MAO_TFO:94 MAO cdd5847d
 "{V0831}That girl,{W90} she's in the soccer club,{W5} right?"
@@ -119,16 +119,16 @@ Promising to walk home with two different girls... I'm such an idiot...
 "{V0832}If you want to go home with her that badly,{W15} then don't make promises to me,{W5} {Ec}just go home with her!"
 
 @MAO_TFO:96 MAO 693cc4bf
-"{V0833}She's lively,{W50} and so healthy,{W75} {Ec}{W5}{F9}{Eo}a perfect match{W5} for {Nn}."
+"{V0833}She's lively,{W50} and so healthy,{W75} {Ec}{W5}{F9}{Eo}she and {Nn},{W5} a perfect match."
 
 @MAO_TFO:97 MAO 2155034c
 "{V0834}That girl,{W75} she's the one{W20} famous{W10} for being a genius, right?"
 
 @MAO_TFO:98 MAO e279cc2b
-"{V0835}If you want to go home{W3} with her that badly,{W35} {Eo}then don't make promises to me,{W10} just go home with her!"
+"{V0835}If you want to go{W3} home with her that badly,{W35} {Eo}then don't make{W3} promises to me,{W10} just go home with her!"
 
 @MAO_TFO:99 MAO 1326da8b
-"{V0836}She's cool,{W28} and intelligent,{W90} {Ec}{W5}{Fe6}{Eo}a perfect match{W10} for {Nn}."
+"{V0836}She's cool,{W28} and intelligent,{W90} {Ec}{W5}{Fe6}{Eo}she and {Nn},{W10} a perfect match."
 
 @MAO_TFO:100 MAO 0e12139c
 "{V0837}That girl,{W70} she's the one{W10} famous{W5} as a young lady, right?"
@@ -137,13 +137,13 @@ Promising to walk home with two different girls... I'm such an idiot...
 "{V0838}If you want to go home with her that badly,{W55} {Ec}then don't make promises{W35} to me,{W20} {Eo}just go home with her!"
 
 @MAO_TFO:102 MAO ac8df66e
-"{V0839}She's demure,{W60} and quiet,{W80} a perfect match for {Nn}."
+"{V0839}She's demure,{W60} and quiet,{W80} she and {Nn},{W5} a perfect match."
 
 @MAO_TFO:103 MAO 51154a47
 "{V6133}If you want{W5} to go home with her{W3} that badly,{W15} {Eo}then don't make promises{W5} to me,{W5} just go home with her!"
 
 @MAO_TFO:105 MAO d7733a35
-"{V6134}She's serious,{W50} and responsible,{W60} {Ec}a perfect match for {Nn}!"
+"{V6134}She's serious,{W50} and responsible,{W60} {Ec}she and {Nn},{W5} a perfect match!"
 
 @MAO_TFO:106 PLY 80decc91
 "Mao..."
@@ -182,7 +182,7 @@ Promising to walk home with two different girls... I'm such an idiot...
 "......"
 
 @MAO_TFO:118 MAO 9a968a00
-"{V0854}Goodbye, {Nn}.{W60} I don't even want to see your face anymore."
+"{V0854}Goodbye, {Nn}.{W60} I don't want{W30} to even{W2} see your face anymore."
 
 @MAO_TFO:119 MAO 01c34146
 "{V0855}Don't ever{W20} talk to me again!"
@@ -203,7 +203,7 @@ Promising to walk home with two different girls... I'm such an idiot...
 "{V0843}Geez,{W80} I won't accept{W5} 'I forgot our promise'{W40} {F1}{Eo}as an excuse{W5}."
 
 @MAO_TFO:125 MAO 56e42612
-"{V0844}One girl after another,{W45} going home with all{W3} kinds of girls...{W75} {Ec}{W5}{Fe9}{Eo}Don't you think{W10} that's awful?!"
+"{V0844}One girl after another,{W45} you go home{W3} with all sorts of girls{W5}...{W75} {Ec}{W5}{Fe9}{Eo}Don't you think{W10} that's awful?!"
 
 @MAO_TFO:126 MAO bcae70e2
 "{V0845}...I'm not saying you can't go home with anyone.{W25} {Ec}But,{W50} {Fe9}{Eo}you didn't have to{W5} blow off our promise{W20} to do it!"
