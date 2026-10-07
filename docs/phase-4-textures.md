@@ -52,3 +52,9 @@ Inventory made by exporting every TIM2 texture (`tools/extract/tim2.py`, `arc.py
 | 345, 361, 362, 48, 438 | Reading or meaning uncertain (see `REVIEW`); not an image problem. |
 
 Translation review: names (16, 429, 487, 539) use given name or Hepburn order only as a guess; 354 and 481 say "Garden" for 花壇 so that the map tag fits.
+
+## First in-game check (coverage walk, stopped early)
+
+- The test build boots with `SCRIPT.IMG` and `GRAPH0.PAC` relocated, reaches the title, main menu, name entry and the prologue.
+- Redrawn textures show in game on the main menu and settings panel: Continue, Text Speed, Yes, Wall paper, OK, Back.
+- Still Japanese on the same screen: the メインメニュー header, the menu items はじめから / ひきつぎ / 設定, and the settings rows 振動, 音声, なし, 初期設定に戻す. They are not in `labels.tsv`, so the first inventory missed them; they need to be located (texture or script string) and added.
