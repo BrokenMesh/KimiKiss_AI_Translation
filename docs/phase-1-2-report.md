@@ -1,6 +1,6 @@
 # Phases 1 and 2: recon and text pipeline
 
-Source image: SLPS-25850 (eb!Kore+ re-release), SHA-1 `40a70c43ef4c57b8bcdfeab3814437c3eaf4821c`. Phase 0 (PCSX2, Ghidra) has not been done: the user asked to start at Phase 1. Gates G0 and G1 are still open.
+Source image: SLPS-25850 (eb!Kore+ re-release), SHA-1 `40a70c43ef4c57b8bcdfeab3814437c3eaf4821c`. Phase 0 was done after Phases 1 and 2, because the user asked to start at Phase 1. Gates G0 and G1 have since passed ([phase-0-status.md](phase-0-status.md)).
 
 ## Gate G2: do the Amagami tools parse KimiKiss? **Pass**
 
@@ -29,9 +29,9 @@ Source image: SLPS-25850 (eb!Kore+ re-release), SHA-1 `40a70c43ef4c57b8bcdfeab38
 
 ## Blockers
 
-None for Phase 2. Phase 3 is blocked on Gate G1: Ghidra cannot be downloaded in this session ([phase-0-status.md](phase-0-status.md)).
+None. The Ghidra download block was resolved by the user supplying the tools through Google Drive ([phase-0-status.md](phase-0-status.md)).
 
 ## Next concrete steps
 
-1. Phase 0: install Ghidra and an R5900 loader, load `SLPS_258.50` (Gate G1). Then PCSX2 headless capture (Gate G0).
-2. Phase 3: find how the ELF opens SCRIPT.IMG (by name or by LBA), the text-code parser (`V`, `W`, `N`, ...), the glyph lookup (Shift-JIS → glyph index) and the advance width.
+1. Phase 3: find how the ELF opens SCRIPT.IMG (by name or by LBA), the text-code parser (`V`, `W`, `N`, ...), the glyph lookup (Shift-JIS → glyph index) and the advance width.
+2. First lead: every data file is named in the ELF (`SCRIPT.IMG` at `0x002B16E0`, referenced from `0x0010359C`), and the ELF contains `sceCdSearchFile` error strings, so files are probably located through the ISO directory. That would make relocating SCRIPT.IMG straightforward.

@@ -20,6 +20,17 @@ SLPS_*
 SLPM_*
 SCPS_*
 
+# PS2 BIOS dumps and their companion files.
+*.EROM
+*.ROM0
+*.ROM1
+*.ROM2
+*.NVM
+*.MEC
+*.erom
+*.nvm
+*.mec
+
 # Working copies, extracted original text, QA captures.
 /build/
 /text/

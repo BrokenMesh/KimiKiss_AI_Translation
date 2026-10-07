@@ -29,3 +29,21 @@ python3 tools/qa/test_text_roundtrip.py build/orig/SCRIPT.IMG
 python3 tools/qa/test_texture_roundtrip.py build/texrt build/orig/GRAPH/*.ARC build/orig/SOUND/MUSIC.ARC
 python3 tools/qa/size_report.py build/orig_manifest.json build/orig build/out
 ```
+
+## Phase 0 tooling (paths outside the repo, see docs/phase-0-status.md)
+
+```sh
+# Ghidra: headless import + analysis, then the MCP server and the G1 smoke test
+$GHIDRA/support/analyzeHeadless /home/user/kimikiss-private/ghidra kimikiss \
+    -import build/orig/SLPS_258.50 -processor r5900:LE:32:default
+/home/user/kimikiss-tools/start_ghidra_mcp.sh &
+/home/user/kimikiss-tools/venv/bin/python tools/qa/ghidra_mcp_smoke.py /home/user/kimikiss-tools/venv/bin/bridge-mcp-ghidra
+/home/user/kimikiss-tools/venv/bin/python tools/re/ghidra_call.py /home/user/kimikiss-tools/venv/bin/bridge-mcp-ghidra \
+    get_xrefs_to '{"address": "0x002b16e0"}'
+
+# PCSX2: boot, capture, PINE check (G0)
+XDG_RUNTIME_DIR=/tmp/pcsx2-runtime \
+PROBE_CMD="/home/user/kimikiss-tools/venv/bin/python tools/qa/pine_check.py \
+    /home/user/kimikiss-tools/mcp-pine/dist/index.js build/orig/SLPS_258.50 /tmp/pcsx2-runtime/pcsx2.sock" \
+tools/qa/boot_capture.sh ../kimikiss-private/kimikiss.iso qa/boot 30 60 90
+```

@@ -38,3 +38,13 @@
 ## D-008: Textures exchanged as indexed PNG
 
 - TIM2 converts to 8-bit indexed PNG with the original header stored in a tEXt chunk. Alpha is scaled when all entries are ≤ 0x80 and copied raw otherwise. Pure Python, no Pillow dependency.
+
+## D-009: Tool versions and where they live
+
+- Ghidra 12.1.3, ghidra-emotionengine-reloaded built for 12.1.3, GhidraMCP 7.0.0-rc.1 (the first release that declares 12.1.3 support), PCSX2 v2.9.108. The extension versions must equal the Ghidra version exactly.
+- Tools live in `/home/user/kimikiss-tools`. The BIOS and the Ghidra project (derived from the game binary) live in `/home/user/kimikiss-private`. Nothing from either directory enters the repo; `.gitignore` also covers BIOS companion files (`.EROM`, `.ROM1`, `.NVM`, `.MEC`, ...).
+- The Japanese BIOS (77000) is used, matching the NTSC-J disc.
+
+## D-010: PINE is used serially only
+
+- `pine_get_info` pipelines opcodes; one dropped reply desyncs mcp-pine's reply queue. QA scripts use only serial PINE calls and keep modal dialogs off (null audio), see `docs/phase-0-status.md`.
