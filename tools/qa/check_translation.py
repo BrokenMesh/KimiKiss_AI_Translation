@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """Deterministic compliance pass for translations (plan Phase 5, step 3). No model calls.
 
-Usage: check_translation.py <text_dir> [--files NAME ...] [--json out.json] [-v]
+Usage: check_translation.py <text_dir> [--files NAME ...] [--json out.json] [-v] [--trans DIR]
            [--glossary PATH] [--limits PATH] [--allow-chars STR] [--whitelist FILE]
            [--no-wrap] [--require-all] [--strict]
 
-Checks every record that has a "translation" (records without one are only counted):
+Japanese comes from <text_dir> (text/*.json, local), the English from the translation store
+(--trans DIR, default translation/en, tools/translate/store.py; 'none' = only "translation" fields
+found in <text_dir>). Checks every record that has a translation (records without one are only counted):
   a  control codes      same codes as the Japanese (D-006 lets a translator move whole tokens, so a
                         different order is a warning), except that the relative order of codes of one
                         family (V voice, E eyes, F face, M mouth, T timing, ...) must be kept; a leading
@@ -19,6 +21,8 @@ Checks every record that has a "translation" (records without one are only count
   d  glossary           the English of a glossary term must appear when its Japanese does (warning)
   e  encodable          characters with no English glyph and no Japanese meaning (accents, curly quotes ...)
   f  suspicious         empty, untranslated copy, double spaces, unbalanced quotes / brackets
+  g  source hash        SRC_STALE (warning): the hash in the store header differs from the current
+                        Japanese, so the line was written against another Japanese text
 
 Per record: PASS, WARN (passes, has warnings) or FAIL. Exit status 1 when any record FAILs
 (--strict: also on WARN; --require-all: records without translation FAIL).
@@ -35,6 +39,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, '..', 'translate'))
 import rules  # noqa: E402
+import store  # noqa: E402
 
 BREAK = rules.BREAK
 # Codes whose order relative to each other is free: waits are plain delays and the name tokens may
@@ -62,13 +67,14 @@ class Result:
 
 
 class Context:
-    def __init__(self, text_dir, limits, terms, allow_chars, allowed_ids, wrap=True):
+    def __init__(self, text_dir, limits, terms, allow_chars, allowed_ids, wrap=True, trans_dir=None):
         self.limits = limits
         self.terms = terms
         self.allow = set(rules.DEFAULT_ALLOWED) | set(allow_chars or '')
         self.allowed_ids = allowed_ids
         self.wrap = wrap
-        self.index = rules.index_dir(text_dir)
+        # trans_dir: the translation store merged in (None: translations found in text_dir only)
+        self.index = store.merged_index(text_dir, trans_dir) if trans_dir else rules.index_dir(text_dir)
         self.labels = rules.speaker_labels(self.index)
 
     def prepared(self, rec):
@@ -302,6 +308,10 @@ def check_record(rec, ctx):
     if not isinstance(tr, str) or not tr.strip():
         res.fail('EMPTY', 'empty translation')
         return res
+    src = rec.get('_src')
+    if src and src != store.src_hash(rec['text']):
+        res.warn('SRC_STALE', f'the store header says this line was written against Japanese {src}, '
+                 f'which is now {store.src_hash(rec["text"])}; check the English, then sync --accept-src')
     if not check_braces(res, tr):
         return res
     check_codes(res, rec['control_codes'], rules.brace_tokens(tr), rec['text'], tr)
@@ -327,6 +337,7 @@ def load_whitelist(path):
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('text_dir')
+    ap.add_argument('--trans', help='translation store directory (default translation/en; "none" = no store)')
     ap.add_argument('--files', nargs='+', help='scene names, file names, paths or globs (default: all)')
     ap.add_argument('--json', help='write the full report here')
     ap.add_argument('--glossary')
@@ -342,8 +353,11 @@ def main():
     wl_chars, wl_ids = load_whitelist(a.whitelist)
     limits = rules.load_limits(a.limits)
     terms = rules.load_glossary(a.glossary)
-    ctx = Context(a.text_dir, limits, terms, a.allow_chars + wl_chars, wl_ids, wrap=not a.no_wrap)
+    tdir = store.DEFAULT_DIR if a.trans is None else (None if a.trans.lower() == 'none' else a.trans)
+    ctx = Context(a.text_dir, limits, terms, a.allow_chars + wl_chars, wl_ids, wrap=not a.no_wrap,
+                  trans_dir=tdir or None)
     paths = rules.resolve_files(a.text_dir, a.files)
+    merged = store.merge(a.text_dir, tdir)
     if not terms:
         print('note: no glossary loaded; glossary check skipped', file=sys.stderr)
 
@@ -352,7 +366,7 @@ def main():
     report = []
     untranslated = skipped = 0
     for p in paths:
-        for rec in rules.load_json(p):
+        for rec in merged[store.scene_of(p)]:
             lim0 = rules.limit_for(rec, limits, ctx.labels)
             if not rec.get('translation') and rec.get('translation') != '':
                 if lim0['kind'] == 'skip':

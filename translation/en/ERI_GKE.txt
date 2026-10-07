@@ -1,0 +1,92 @@
+# ERI_GKE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_GKE:25 SYS 1b192009
+
+
+@ERI_GKE:53 PLY 74b7bdc5
+
+
+@ERI_GKE:54 ERI 3e884bd4
+
+
+@ERI_GKE:56 PLY e3d28766
+
+
+@ERI_GKE:57 PLY bd541034
+
+
+@ERI_GKE:58 ERI 821ed892
+
+
+@ERI_GKE:59 PLY c51d6bad
+
+
+@ERI_GKE:61 PLY 98280538
+
+
+@ERI_GKE:64 ERI 706a6ae6
+
+
+@ERI_GKE:65 ERI 70d59a94
+
+
+@ERI_GKE:68 ERI 0ec16aed
+
+
+@ERI_GKE:70 ERI 9ebe657a
+
+
+@ERI_GKE:72 ERI c49e7c6a
+
+
+@ERI_GKE:74 ERI d31f9023
+
+
+@ERI_GKE:75 ERI e445065b
+
+
+@ERI_GKE:76 PLY 1b758669
+
+
+@ERI_GKE:77 ERI 08eb867b
+
+
+@ERI_GKE:79 ERI f890d83f
+
+
+@ERI_GKE:80 ERI 1c1db515
+
+
+@ERI_GKE:82 ERI e4104f9d
+
+
+@ERI_GKE:83 PLY 117943ea
+
+
+@ERI_GKE:85 ERI 67f78c28
+
+
+@ERI_GKE:86 ERI f3541d06
+
+
+@ERI_GKE:87 ERI 1d15d2b7
+
+
+@ERI_GKE:88 ERI 6f5c5a53
+
+
+@ERI_GKE:89 ERI a1d4788c
+
+
+@ERI_GKE:93 ERI 303d05b9
+
+
+@ERI_GKE:94 PLY c51f6ca1
+
+
+@ERI_GKE:95 PLY 3850afdd
+
+
+@ERI_GKE:96 ERI 9c678d10
+

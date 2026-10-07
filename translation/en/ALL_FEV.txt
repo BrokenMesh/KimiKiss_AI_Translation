@@ -1,0 +1,119 @@
+# ALL_FEV -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ALL_FEV:29 PLY 1c8c376e
+
+
+@ALL_FEV:35 PLY 6a00504d
+
+
+@ALL_FEV:42 PLY cea822b9
+
+
+@ALL_FEV:43 PLY 10638cc5
+
+
+@ALL_FEV:44 PLY 036337cb
+
+
+@ALL_FEV:45 PLY 19d529d1
+
+
+@ALL_FEV:46 PLY 91815a0d
+
+
+@ALL_FEV:47 PLY dcdc550b
+
+
+@ALL_FEV:48 PLY 3378247c
+
+
+@ALL_FEV:49 PLY 8b1af321
+
+
+@ALL_FEV:50 PLY bb2398a0
+
+
+@ALL_FEV:51 PLY 50011e69
+
+
+@ALL_FEV:52 - cf3a2302
+
+
+@ALL_FEV:53 - a6a0b189
+
+
+@ALL_FEV:54 - 0e688034
+
+
+@ALL_FEV:55 - 1b734b38
+
+
+@ALL_FEV:56 - 79f76ab3
+
+
+@ALL_FEV:57 - 5c0ee812
+
+
+@ALL_FEV:58 - 51706724
+
+
+@ALL_FEV:59 - 36c805f3
+
+
+@ALL_FEV:63 - 5a4ef2de
+
+
+@ALL_FEV:64 - 2954d35f
+
+
+@ALL_FEV:65 SYS 0d80b9d5
+
+
+@ALL_FEV:66 PLY c28af708
+
+
+@ALL_FEV:67 PLY 23c768ff
+
+
+@ALL_FEV:68 PLY c6d8cd28
+
+
+@ALL_FEV:70 PLY de8b45b1
+
+
+@ALL_FEV:76 PLY 457e9d6e
+
+
+@ALL_FEV:81 PLY 40ea6149
+
+
+@ALL_FEV:83 PLY 30461e27
+
+
+@ALL_FEV:84 PLY 821292bb
+
+
+@ALL_FEV:85 PLY ac502c46
+
+
+@ALL_FEV:86 SYS 57d6c116
+
+
+@ALL_FEV:100 - 197218e1
+
+
+@ALL_FEV:101 - fabce914
+
+
+@ALL_FEV:102 - b3aaab6f
+
+
+@ALL_FEV:103 - a8f48fbd
+
+
+@ALL_FEV:104 - abfd2a28
+
+
+@ALL_FEV:105 - f3ee384c
+

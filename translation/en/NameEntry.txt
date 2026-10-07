@@ -1,0 +1,11 @@
+# NameEntry -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NameEntry:3 - 6282aa41
+
+
+@NameEntry:4 - 36b2c5c2
+
+
+@NameEntry:5 - 736954e7
+

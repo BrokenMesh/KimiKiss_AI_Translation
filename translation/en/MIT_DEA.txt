@@ -1,0 +1,158 @@
+# MIT_DEA -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MIT_DEA:20 PLY b4639ba4
+
+
+@MIT_DEA:23 PLY 586dffb6
+
+
+@MIT_DEA:25 PLY cc0b5be8
+
+
+@MIT_DEA:26 PLY 739f2da7
+
+
+@MIT_DEA:32 PLY 634f9920
+
+
+@MIT_DEA:33 PLY 27ee0096
+
+
+@MIT_DEA:45 - 64c62dc2
+
+
+@MIT_DEA:47 MIT 76a4f69a
+
+
+@MIT_DEA:48 PLY e0311672
+
+
+@MIT_DEA:52 MIT 71ba32cc
+
+
+@MIT_DEA:53 PLY 9535d8c8
+
+
+@MIT_DEA:54 PLY 1a0c151f
+
+
+@MIT_DEA:56 MIT 037cb59c
+
+
+@MIT_DEA:58 PLY 1d0c6f99
+
+
+@MIT_DEA:59 PLY b789f7d0
+
+
+@MIT_DEA:60 PLY 66e4d770
+
+
+@MIT_DEA:61 MIT cc059b5e
+
+
+@MIT_DEA:62 MIT dade3456
+
+
+@MIT_DEA:63 PLY e6a4c760
+
+
+@MIT_DEA:65 MIT 15d697cc
+
+
+@MIT_DEA:66 PLY ccbf0bb9
+
+
+@MIT_DEA:67 MIT cfea282e
+
+
+@MIT_DEA:68 PLY 05bfda2b
+
+
+@MIT_DEA:69 MIT afed5970
+
+
+@MIT_DEA:70 PLY 0ee16972
+
+
+@MIT_DEA:71 MIT 08bc3f4a
+
+
+@MIT_DEA:72 PLY c3aafa19
+
+
+@MIT_DEA:73 MIT e57cdea5
+
+
+@MIT_DEA:74 PLY ce441781
+
+
+@MIT_DEA:77 MIT bfce0712
+
+
+@MIT_DEA:79 PLY e681c31b
+
+
+@MIT_DEA:80 MIT 4f50c6a4
+
+
+@MIT_DEA:81 PLY fce3ef5f
+
+
+@MIT_DEA:82 PLY 623b4b32
+
+
+@MIT_DEA:83 PLY 2a46b60b
+
+
+@MIT_DEA:84 MIT 05257123
+
+
+@MIT_DEA:86 MIT e264293b
+
+
+@MIT_DEA:87 PLY 9b99921c
+
+
+@MIT_DEA:88.1 - e1404983
+
+
+@MIT_DEA:89 PLY 54b42dbc
+
+
+@MIT_DEA:91 MIT 3e75e204
+
+
+@MIT_DEA:93 PLY a4ddf0ba
+
+
+@MIT_DEA:94 MIT ecc28b19
+
+
+@MIT_DEA:95 PLY c76a7915
+
+
+@MIT_DEA:96 MIT f5236f4b
+
+
+@MIT_DEA:97 PLY b44bb7e0
+
+
+@MIT_DEA:99 MIT d295c1a3
+
+
+@MIT_DEA:100 PLY 696225c1
+
+
+@MIT_DEA:101 PLY a46249ae
+
+
+@MIT_DEA:103 MIT ec38eff1
+
+
+@MIT_DEA:104 PLY e2b3ed61
+
+
+@MIT_DEA:105 MIT 6c11d0f0
+

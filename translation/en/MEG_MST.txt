@@ -1,0 +1,197 @@
+# MEG_MST -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MEG_MST:15 - 961bdeb8
+
+
+@MEG_MST:27 PLY 249fca32
+
+
+@MEG_MST:30.1 - 10830c10
+
+
+@MEG_MST:31 PLY 28e8605b
+
+
+@MEG_MST:45 MEG 48001c51
+
+
+@MEG_MST:46 PLY 02b0b595
+
+
+@MEG_MST:47 MEG e6410c3e
+
+
+@MEG_MST:49 MEG d18ffae5
+
+
+@MEG_MST:50 PLY 197abfac
+
+
+@MEG_MST:53 MEG 8b2a0601
+
+
+@MEG_MST:54 PLY 730db01d
+
+
+@MEG_MST:55 MEG 865605d4
+
+
+@MEG_MST:56 PLY 67919fb4
+
+
+@MEG_MST:58 MEG fe7e6cff
+
+
+@MEG_MST:59 PLY c75138fe
+
+
+@MEG_MST:70 MEG dac23003
+
+
+@MEG_MST:71 PLY db9cefd3
+
+
+@MEG_MST:72 MEG ca81c61f
+
+
+@MEG_MST:73.1 - ebc8ac86
+
+
+@MEG_MST:75 PLY cf543578
+
+
+@MEG_MST:76 MEG 69f870dc
+
+
+@MEG_MST:77 PLY 66aff371
+
+
+@MEG_MST:78 MEG 4d7b12c0
+
+
+@MEG_MST:79 PLY 5c0f3597
+
+
+@MEG_MST:80 MEG af0d087c
+
+
+@MEG_MST:81 MEG 38db88dc
+
+
+@MEG_MST:82 PLY e03a6130
+
+
+@MEG_MST:83 MEG f53865f9
+
+
+@MEG_MST:84 PLY 77402591
+
+
+@MEG_MST:85 MEG 37bdca20
+
+
+@MEG_MST:86 PLY 6fad598d
+
+
+@MEG_MST:87 MEG 25172cab
+
+
+@MEG_MST:88 PLY 876a2929
+
+
+@MEG_MST:89 MEG f834bb87
+
+
+@MEG_MST:90 MEG 09b641ff
+
+
+@MEG_MST:91 MEG b36b459b
+
+
+@MEG_MST:95 MEG 3d0c3edd
+
+
+@MEG_MST:96 PLY db2e778f
+
+
+@MEG_MST:98 MEG 54af10c6
+
+
+@MEG_MST:99.1 - 4a90b521
+
+
+@MEG_MST:100 MEG f0206c48
+
+
+@MEG_MST:101 PLY fc5f34f8
+
+
+@MEG_MST:102 PLY 9130a981
+
+
+@MEG_MST:103 MEG b8cface3
+
+
+@MEG_MST:104 MEG ac617979
+
+
+@MEG_MST:105 MEG f6ad08d1
+
+
+@MEG_MST:106 PLY 1e7f8ab0
+
+
+@MEG_MST:107 MEG d5052bb7
+
+
+@MEG_MST:108 PLY 40e06530
+
+
+@MEG_MST:110 MEG 983d378c
+
+
+@MEG_MST:111 MEG 19bea4e8
+
+
+@MEG_MST:112 PLY 542af83a
+
+
+@MEG_MST:113 MEG 7d33ebbd
+
+
+@MEG_MST:114 MEG a64b950f
+
+
+@MEG_MST:115 MEG 8f00677c
+
+
+@MEG_MST:120 MEG a34fc195
+
+
+@MEG_MST:121 MEG edb85ba5
+
+
+@MEG_MST:122.1 - 4a90b521
+
+
+@MEG_MST:124 MEG bf25d900
+
+
+@MEG_MST:125 MEG 01232eb5
+
+
+@MEG_MST:126 MEG b6e8414a
+
+
+@MEG_MST:127 PLY 7d68aa58
+
+
+@MEG_MST:129 MEG 75dc9bd5
+
+
+@MEG_MST:130 MEG d3b4b6be
+
+
+@MEG_MST:131 PLY fccf9db2
+

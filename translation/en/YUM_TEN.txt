@@ -1,0 +1,65 @@
+# YUM_TEN -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@YUM_TEN:36 YUM caa508c2
+
+
+@YUM_TEN:38 PLY 4b613b16
+
+
+@YUM_TEN:41 PLY 6a4f6c30
+
+
+@YUM_TEN:43 YUM f4696a95
+
+
+@YUM_TEN:44 PLY 94247b8a
+
+
+@YUM_TEN:45 YUM 07c76a22
+
+
+@YUM_TEN:47 YUM 8f66a36d
+
+
+@YUM_TEN:48 PLY 3a06c826
+
+
+@YUM_TEN:49 PLY 02c50198
+
+
+@YUM_TEN:50 YUM 4850d8f6
+
+
+@YUM_TEN:52 YUM a73a8d10
+
+
+@YUM_TEN:53 PLY 851b6dc4
+
+
+@YUM_TEN:54 PLY 17549952
+
+
+@YUM_TEN:56 YUM afbb7629
+
+
+@YUM_TEN:58 YUM 36c8e9aa
+
+
+@YUM_TEN:59 YUM 4cb8085d
+
+
+@YUM_TEN:60 PLY a3d2c0fb
+
+
+@YUM_TEN:61 YUM 9ec47ee9
+
+
+@YUM_TEN:62 PLY 7de92c29
+
+
+@YUM_TEN:63 YUM 7abbd92c
+
+
+@YUM_TEN:64 PLY 9d6abc0b
+

@@ -1,0 +1,56 @@
+# MAO_TEN -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_TEN:37 MAO a015d29b
+
+
+@MAO_TEN:39 PLY 412e0586
+
+
+@MAO_TEN:44 MAO 00aa1ff2
+
+
+@MAO_TEN:48 MAO dcc7cc86
+
+
+@MAO_TEN:49 PLY 4903851a
+
+
+@MAO_TEN:50 MAO 25db0076
+
+
+@MAO_TEN:51 MAO e2cf914f
+
+
+@MAO_TEN:52 PLY 76c31c3a
+
+
+@MAO_TEN:53 MAO 75685857
+
+
+@MAO_TEN:54 PLY 851b6dc4
+
+
+@MAO_TEN:56 MAO d75cd059
+
+
+@MAO_TEN:57 PLY 1b758669
+
+
+@MAO_TEN:58 MAO 975cf819
+
+
+@MAO_TEN:59 PLY abc97cdf
+
+
+@MAO_TEN:60 MAO 685bf930
+
+
+@MAO_TEN:61 PLY 67919fb4
+
+
+@MAO_TEN:62 MAO 405ef763
+
+
+@MAO_TEN:63 PLY a11dced8
+

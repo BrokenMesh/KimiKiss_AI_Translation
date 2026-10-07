@@ -1,0 +1,80 @@
+# NAN_TEL -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_TEL:8 PLY c3f8548c
+
+
+@NAN_TEL:12 PLY 1cc0e37c
+
+
+@NAN_TEL:13 PLY 6bae6772
+
+
+@NAN_TEL:14 PLY c3500a11
+
+
+@NAN_TEL:15 PLY daa9d9ad
+
+
+@NAN_TEL:23 PLY a8a6088a
+
+
+@NAN_TEL:24 PLY 114e6a2f
+
+
+@NAN_TEL:25 PLY 2e0159ba
+
+
+@NAN_TEL:42 NAN 98bc74fe
+
+
+@NAN_TEL:43 PLY 634f9920
+
+
+@NAN_TEL:45 PLY c3428414
+
+
+@NAN_TEL:46 SYS 7399ba53
+
+
+@NAN_TEL:47 PLY f76edb9c
+
+
+@NAN_TEL:49 NAN 51260159
+
+
+@NAN_TEL:50 PLY 2540df1d
+
+
+@NAN_TEL:51 NAN 8200a9e4
+
+
+@NAN_TEL:52 PLY 9efd61f7
+
+
+@NAN_TEL:53 NAN 991ef635
+
+
+@NAN_TEL:54 NAN 89f62d66
+
+
+@NAN_TEL:55 PLY 89879d22
+
+
+@NAN_TEL:56 NAN 7eda2fdd
+
+
+@NAN_TEL:57 PLY 6896fbe6
+
+
+@NAN_TEL:61 SYS db5c84d9
+
+
+@NAN_TEL:62 PLY 426cfa30
+
+
+@NAN_TEL:63 PLY 43edffac
+
+
+@NAN_TEL:64 PLY 2ade7523
+

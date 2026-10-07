@@ -1,0 +1,182 @@
+# YUM_TEL -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@YUM_TEL:9 PLY 31318805
+
+
+@YUM_TEL:11 YUM 6d1ca87d
+
+
+@YUM_TEL:13 PLY e8dbe20d
+
+
+@YUM_TEL:14 YUM fdd1c4ee
+
+
+@YUM_TEL:15 PLY 28c5d3a3
+
+
+@YUM_TEL:16 YUM 473c5118
+
+
+@YUM_TEL:17 PLY 53cf1dd0
+
+
+@YUM_TEL:18 YUM e29b8db0
+
+
+@YUM_TEL:22 YUM e46a256b
+
+
+@YUM_TEL:23 PLY ebfb2f05
+
+
+@YUM_TEL:25 YUM eb8bc089
+
+
+@YUM_TEL:26 PLY 542af83a
+
+
+@YUM_TEL:28 YUM 279a1265
+
+
+@YUM_TEL:29 PLY 541c3cfd
+
+
+@YUM_TEL:33 YUM 96e6282c
+
+
+@YUM_TEL:34 PLY 54db2b27
+
+
+@YUM_TEL:38 PLY f75d6b6c
+
+
+@YUM_TEL:39 YUM add3879b
+
+
+@YUM_TEL:40 YUM c0e9fdb1
+
+
+@YUM_TEL:41 YUM 40a86fcc
+
+
+@YUM_TEL:43 YUM b2e1633c
+
+
+@YUM_TEL:44 PLY 10f1c832
+
+
+@YUM_TEL:45 PLY ea876930
+
+
+@YUM_TEL:46 YUM 28332feb
+
+
+@YUM_TEL:47 PLY 0fe8c60c
+
+
+@YUM_TEL:49 YUM d3f6e4c6
+
+
+@YUM_TEL:50 PLY cba2ffba
+
+
+@YUM_TEL:51 PLY f8e04961
+
+
+@YUM_TEL:52 YUM 6e6fa15f
+
+
+@YUM_TEL:53 YUM 023d98a2
+
+
+@YUM_TEL:54 PLY c9918b04
+
+
+@YUM_TEL:55 YUM 6f394903
+
+
+@YUM_TEL:56 PLY ce7e3739
+
+
+@YUM_TEL:57 YUM 6462c047
+
+
+@YUM_TEL:58 PLY 912a26a6
+
+
+@YUM_TEL:59 PLY 3c27ee02
+
+
+@YUM_TEL:60 YUM 1e4d94f1
+
+
+@YUM_TEL:61 YUM b3a867a9
+
+
+@YUM_TEL:62 PLY fba4204c
+
+
+@YUM_TEL:63 YUM d04a5db7
+
+
+@YUM_TEL:64 PLY f725dd6d
+
+
+@YUM_TEL:65 YUM d85acf89
+
+
+@YUM_TEL:66 PLY 197f9094
+
+
+@YUM_TEL:67 YUM 11973639
+
+
+@YUM_TEL:68 YUM 57d9f4fd
+
+
+@YUM_TEL:69 PLY 5a97e6d0
+
+
+@YUM_TEL:70 YUM d9dd3066
+
+
+@YUM_TEL:71 PLY ef0a0bb9
+
+
+@YUM_TEL:72 YUM 893dfd41
+
+
+@YUM_TEL:73 PLY 99e5930d
+
+
+@YUM_TEL:74 YUM fec5e261
+
+
+@YUM_TEL:75 YUM b8c01452
+
+
+@YUM_TEL:76 YUM 24c8accf
+
+
+@YUM_TEL:77 PLY 69b86dcb
+
+
+@YUM_TEL:78 YUM 1a43dfb9
+
+
+@YUM_TEL:79 YUM 966522a0
+
+
+@YUM_TEL:81 YUM 3a3c825a
+
+
+@YUM_TEL:82 PLY 5128afa1
+
+
+@YUM_TEL:83 YUM ccc61149
+
+
+@YUM_TEL:84 PLY 3cfb4dfd
+

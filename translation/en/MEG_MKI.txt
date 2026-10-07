@@ -1,0 +1,89 @@
+# MEG_MKI -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MEG_MKI:45 MEG e88341f6
+
+
+@MEG_MKI:49 MEG c08b3628
+
+
+@MEG_MKI:50 MEG 378b4a21
+
+
+@MEG_MKI:53 MEG 0d80b9d5
+
+
+@MEG_MKI:54 MEG c441b24f
+
+
+@MEG_MKI:55 MEG 83054af6
+
+
+@MEG_MKI:57 MEG 1ffa7b1c
+
+
+@MEG_MKI:58 MEG 06ed2703
+
+
+@MEG_MKI:60 MEG 2f9fc305
+
+
+@MEG_MKI:67 MEG 1e95883f
+
+
+@MEG_MKI:72 MEG 19b9625a
+
+
+@MEG_MKI:73 MEG 23efb0f6
+
+
+@MEG_MKI:74 PLY 6c1b2754
+
+
+@MEG_MKI:79 MEG 796f25ba
+
+
+@MEG_MKI:81 MEG 0465cf12
+
+
+@MEG_MKI:82 PLY 603c29f3
+
+
+@MEG_MKI:84 PLY 28e8605b
+
+
+@MEG_MKI:85 MEG 0472d9d3
+
+
+@MEG_MKI:89 MEG e9d86829
+
+
+@MEG_MKI:90 MEG 057f5e95
+
+
+@MEG_MKI:92 MEG 1d4325aa
+
+
+@MEG_MKI:94 MEG 2a927fc4
+
+
+@MEG_MKI:95 MEG 0e0f7111
+
+
+@MEG_MKI:96 MEG 32210db4
+
+
+@MEG_MKI:106 MEG f1134be6
+
+
+@MEG_MKI:107 MEG 46c2c00f
+
+
+@MEG_MKI:108 MEG f10731e3
+
+
+@MEG_MKI:109 MEG aad8e3c6
+
+
+@MEG_MKI:111 MEG 426b079c
+

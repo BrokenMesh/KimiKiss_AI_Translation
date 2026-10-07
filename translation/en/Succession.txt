@@ -1,0 +1,80 @@
+# Succession -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@Succession:18 - bb8baa06
+
+
+@Succession:26.1 - 8874353d
+
+
+@Succession:26.2 - bd8f7857
+
+
+@Succession:26.3 - 88111472
+
+
+@Succession:26.4 - 8df6b1ac
+
+
+@Succession:26.5 - 6fb42231
+
+
+@Succession:26.6 - 848671ce
+
+
+@Succession:26.7 - 9c37465c
+
+
+@Succession:26.8 - a9bf9417
+
+
+@Succession:26.9 - 9e0d1d59
+
+
+@Succession:26.10 - 871af71c
+
+
+@Succession:26.11 - 5f17fb05
+
+
+@Succession:26.12 - 329b32ed
+
+
+@Succession:26.13 - dcf537f5
+
+
+@Succession:26.14 - 221b3703
+
+
+@Succession:26.15 - 99a2c169
+
+
+@Succession:26.16 - 365f9690
+
+
+@Succession:26.17 - de8efd75
+
+
+@Succession:26.18 - ef688be2
+
+
+@Succession:26.19 - f00cd9c5
+
+
+@Succession:26.20 - 80ad7f36
+
+
+@Succession:26.21 - 1e842499
+
+
+@Succession:26.22 - 01cce3f7
+
+
+@Succession:43 - b17957df
+
+
+@Succession:44 - 4dd618a5
+
+
+@Succession:46 - e597ea03
+

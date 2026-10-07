@@ -1,0 +1,68 @@
+# ConfigSave -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ConfigSave:0.1 - 8874353d
+
+
+@ConfigSave:0.2 - bd8f7857
+
+
+@ConfigSave:0.3 - 88111472
+
+
+@ConfigSave:0.4 - 8df6b1ac
+
+
+@ConfigSave:0.5 - 6fb42231
+
+
+@ConfigSave:0.6 - 848671ce
+
+
+@ConfigSave:0.7 - 9c37465c
+
+
+@ConfigSave:0.8 - a9bf9417
+
+
+@ConfigSave:0.9 - 9e0d1d59
+
+
+@ConfigSave:0.10 - 871af71c
+
+
+@ConfigSave:0.11 - 5f17fb05
+
+
+@ConfigSave:0.12 - 329b32ed
+
+
+@ConfigSave:0.13 - dcf537f5
+
+
+@ConfigSave:0.14 - 221b3703
+
+
+@ConfigSave:0.15 - 99a2c169
+
+
+@ConfigSave:0.16 - 365f9690
+
+
+@ConfigSave:0.17 - de8efd75
+
+
+@ConfigSave:0.18 - ef688be2
+
+
+@ConfigSave:0.19 - f00cd9c5
+
+
+@ConfigSave:0.20 - 80ad7f36
+
+
+@ConfigSave:0.21 - 1e842499
+
+
+@ConfigSave:0.22 - 01cce3f7
+

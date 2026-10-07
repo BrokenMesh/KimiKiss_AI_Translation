@@ -1,0 +1,83 @@
+# MEG_DEA -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MEG_DEA:16 PLY 0bea9378
+
+
+@MEG_DEA:19 PLY 5daa30e3
+
+
+@MEG_DEA:20 PLY c86d3350
+
+
+@MEG_DEA:21.1 - 67b4740e
+
+
+@MEG_DEA:23 PLY f4967116
+
+
+@MEG_DEA:27 PLY f20d647a
+
+
+@MEG_DEA:41 PLY 634f9920
+
+
+@MEG_DEA:43 MEG 2c410748
+
+
+@MEG_DEA:46 PLY ba17b99f
+
+
+@MEG_DEA:47 MEG 8eb30ba5
+
+
+@MEG_DEA:48 MEG 304262c4
+
+
+@MEG_DEA:49 PLY 1dd3c847
+
+
+@MEG_DEA:51 MEG d58d319d
+
+
+@MEG_DEA:52 PLY a995174b
+
+
+@MEG_DEA:54 MEG 4b4d7d3c
+
+
+@MEG_DEA:58 PLY 4eccbd62
+
+
+@MEG_DEA:59 PLY 4630cf90
+
+
+@MEG_DEA:61 MEG 0a046d82
+
+
+@MEG_DEA:62 PLY 928d9a44
+
+
+@MEG_DEA:63 MEG 0e4e5903
+
+
+@MEG_DEA:64 PLY b6ff3360
+
+
+@MEG_DEA:67 PLY 019e3d13
+
+
+@MEG_DEA:68 PLY d2e40250
+
+
+@MEG_DEA:69 SYS 1c822439
+
+
+@MEG_DEA:70 PLY d7c57c8d
+
+
+@MEG_DEA:71 SYS 0435caad
+
+
+@MEG_DEA:72 SYS e0fb995f
+

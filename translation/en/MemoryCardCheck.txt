@@ -1,0 +1,68 @@
+# MemoryCardCheck -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MemoryCardCheck:9.1 - 8874353d
+
+
+@MemoryCardCheck:9.2 - bd8f7857
+
+
+@MemoryCardCheck:9.3 - 88111472
+
+
+@MemoryCardCheck:9.4 - 8df6b1ac
+
+
+@MemoryCardCheck:9.5 - 6fb42231
+
+
+@MemoryCardCheck:9.6 - 848671ce
+
+
+@MemoryCardCheck:9.7 - 9c37465c
+
+
+@MemoryCardCheck:9.8 - a9bf9417
+
+
+@MemoryCardCheck:9.9 - 9e0d1d59
+
+
+@MemoryCardCheck:9.10 - 871af71c
+
+
+@MemoryCardCheck:9.11 - 5f17fb05
+
+
+@MemoryCardCheck:9.12 - 329b32ed
+
+
+@MemoryCardCheck:9.13 - dcf537f5
+
+
+@MemoryCardCheck:9.14 - 221b3703
+
+
+@MemoryCardCheck:9.15 - 99a2c169
+
+
+@MemoryCardCheck:9.16 - 365f9690
+
+
+@MemoryCardCheck:9.17 - de8efd75
+
+
+@MemoryCardCheck:9.18 - ef688be2
+
+
+@MemoryCardCheck:9.19 - f00cd9c5
+
+
+@MemoryCardCheck:9.20 - 80ad7f36
+
+
+@MemoryCardCheck:9.21 - 1e842499
+
+
+@MemoryCardCheck:9.22 - 01cce3f7
+

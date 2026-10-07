@@ -1,0 +1,71 @@
+# MainMenu -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MainMenu:45.1 - 680a37c7
+
+
+@MainMenu:79.1 - 8874353d
+
+
+@MainMenu:79.2 - bd8f7857
+
+
+@MainMenu:79.3 - 88111472
+
+
+@MainMenu:79.4 - 8df6b1ac
+
+
+@MainMenu:79.5 - 6fb42231
+
+
+@MainMenu:79.6 - 848671ce
+
+
+@MainMenu:79.7 - 9c37465c
+
+
+@MainMenu:79.8 - a9bf9417
+
+
+@MainMenu:79.9 - 9e0d1d59
+
+
+@MainMenu:79.10 - 871af71c
+
+
+@MainMenu:79.11 - 5f17fb05
+
+
+@MainMenu:79.12 - 329b32ed
+
+
+@MainMenu:79.13 - dcf537f5
+
+
+@MainMenu:79.14 - 221b3703
+
+
+@MainMenu:79.15 - 99a2c169
+
+
+@MainMenu:79.16 - 365f9690
+
+
+@MainMenu:79.17 - de8efd75
+
+
+@MainMenu:79.18 - ef688be2
+
+
+@MainMenu:79.19 - f00cd9c5
+
+
+@MainMenu:79.20 - 80ad7f36
+
+
+@MainMenu:79.21 - 1e842499
+
+
+@MainMenu:79.22 - 01cce3f7
+

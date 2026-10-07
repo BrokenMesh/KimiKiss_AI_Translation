@@ -1,0 +1,200 @@
+# PLY_KOK_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@PLY_KOK_A:17 PLY 9eb53b7b
+
+
+@PLY_KOK_A:20 PLY 16508487
+
+
+@PLY_KOK_A:21 PLY 3c38391c
+
+
+@PLY_KOK_A:22 PLY 0a32c583
+
+
+@PLY_KOK_A:23 PLY 351ac171
+
+
+@PLY_KOK_A:24 PLY a0ee7c58
+
+
+@PLY_KOK_A:25 PLY 59264fc2
+
+
+@PLY_KOK_A:30 - df316e17
+
+
+@PLY_KOK_A:34 PLY 076c4cfb
+
+
+@PLY_KOK_A:37 - abfd2a28
+
+
+@PLY_KOK_A:38 - c01800b5
+
+
+@PLY_KOK_A:39 - 1d9cc183
+
+
+@PLY_KOK_A:42 - 51706724
+
+
+@PLY_KOK_A:43 - 8f4233d0
+
+
+@PLY_KOK_A:44 PLY c9d28d9a
+
+
+@PLY_KOK_A:45 - 33ff6d5d
+
+
+@PLY_KOK_A:46 - 6b406a26
+
+
+@PLY_KOK_A:53 PLY b02884d0
+
+
+@PLY_KOK_A:54 PLY b37b8b12
+
+
+@PLY_KOK_A:55 PLY c8a6aaf3
+
+
+@PLY_KOK_A:56 PLY 19813029
+
+
+@PLY_KOK_A:58 - c439c21b
+
+
+@PLY_KOK_A:60 PLY 902698db
+
+
+@PLY_KOK_A:62 - fa354ca6
+
+
+@PLY_KOK_A:63 - e8580620
+
+
+@PLY_KOK_A:64 - cd028f55
+
+
+@PLY_KOK_A:68 PLY 6a6609bd
+
+
+@PLY_KOK_A:69 - cc6f0097
+
+
+@PLY_KOK_A:70 PLY 88904835
+
+
+@PLY_KOK_A:72 PLY 4e9e1abf
+
+
+@PLY_KOK_A:73 PLY 62cd8b23
+
+
+@PLY_KOK_A:74 PLY 04fcda59
+
+
+@PLY_KOK_A:75 PLY fde23588
+
+
+@PLY_KOK_A:76 PLY 9836c61e
+
+
+@PLY_KOK_A:77 SYS c090474f
+
+
+@PLY_KOK_A:78 SYS 72a935a2
+
+
+@PLY_KOK_A:80 SYS f1cc9e5c
+
+
+@PLY_KOK_A:81 PLY 902a6ff2
+
+
+@PLY_KOK_A:93 AKI f810fb3c
+
+
+@PLY_KOK_A:94 PLY 5c77db49
+
+
+@PLY_KOK_A:97 AKI b402315f
+
+
+@PLY_KOK_A:98 PLY b2bb09ec
+
+
+@PLY_KOK_A:100 AKI 28da68e7
+
+
+@PLY_KOK_A:101 PLY 122df4f6
+
+
+@PLY_KOK_A:102 AKI 891dccf5
+
+
+@PLY_KOK_A:103 PLY e23bd864
+
+
+@PLY_KOK_A:104 AKI d4add637
+
+
+@PLY_KOK_A:105 PLY bad3355d
+
+
+@PLY_KOK_A:107 AKI 0ee265b4
+
+
+@PLY_KOK_A:108 PLY f725dd6d
+
+
+@PLY_KOK_A:109 AKI 15d22238
+
+
+@PLY_KOK_A:110 PLY 76ca331a
+
+
+@PLY_KOK_A:111 AKI 2596e380
+
+
+@PLY_KOK_A:114 AKI 32ec549d
+
+
+@PLY_KOK_A:115 PLY 0d80b9d5
+
+
+@PLY_KOK_A:116 AKI 61f38ee0
+
+
+@PLY_KOK_A:117 AKI e23d5982
+
+
+@PLY_KOK_A:118 PLY e173df1b
+
+
+@PLY_KOK_A:126.0 - cf3a2302
+
+
+@PLY_KOK_A:126.1 - a6a0b189
+
+
+@PLY_KOK_A:126.2 - 0e688034
+
+
+@PLY_KOK_A:126.3 - 1b734b38
+
+
+@PLY_KOK_A:126.4 - 79f76ab3
+
+
+@PLY_KOK_A:126.5 - 5c0ee812
+
+
+@PLY_KOK_A:126.6 - 97ea3ba4
+
+
+@PLY_KOK_A:126.7 - 5e2c14c8
+

@@ -1,0 +1,62 @@
+# PLY_MST -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@PLY_MST:15 PLY 5af6c911
+
+
+@PLY_MST:18 PLY 9530f763
+
+
+@PLY_MST:19 PLY 1e56a957
+
+
+@PLY_MST:20 PLY c23b2b57
+
+
+@PLY_MST:21 PLY d79ee682
+
+
+@PLY_MST:22 PLY 3671a763
+
+
+@PLY_MST:23 PLY 1d6be618
+
+
+@PLY_MST:24 PLY 6afa42c7
+
+
+@PLY_MST:25 PLY 3534c99c
+
+
+@PLY_MST:26 PLY ee692ff0
+
+
+@PLY_MST:27 PLY 49e51360
+
+
+@PLY_MST:28 PLY 21c08ab9
+
+
+@PLY_MST:29 PLY 7fee3a7c
+
+
+@PLY_MST:30 PLY 0ffdb339
+
+
+@PLY_MST:31 PLY 49fe9ae8
+
+
+@PLY_MST:32 PLY 7cfb90f6
+
+
+@PLY_MST:33 PLY 659537a0
+
+
+@PLY_MST:34 PLY 211da915
+
+
+@PLY_MST:35 PLY b8386665
+
+
+@PLY_MST:40 PLY a3251082
+

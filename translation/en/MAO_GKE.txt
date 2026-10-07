@@ -1,0 +1,131 @@
+# MAO_GKE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_GKE:25 SYS 1b192009
+
+
+@MAO_GKE:53 MAO 4a472963
+
+
+@MAO_GKE:54 PLY bb3fc3d6
+
+
+@MAO_GKE:55 MAO e7cf43b6
+
+
+@MAO_GKE:56 MAO bf8f10e6
+
+
+@MAO_GKE:57 PLY 1d8b5424
+
+
+@MAO_GKE:59 MAO 50f7f11f
+
+
+@MAO_GKE:61 MAO 9c859a35
+
+
+@MAO_GKE:62 PLY 851b6dc4
+
+
+@MAO_GKE:64 MAO 08d6fd55
+
+
+@MAO_GKE:67 MAO 4c32f11f
+
+
+@MAO_GKE:69 MAO 90ab78b3
+
+
+@MAO_GKE:70 MAO 8d3687ac
+
+
+@MAO_GKE:71 PLY 6c1b2754
+
+
+@MAO_GKE:73 MAO 18b01d94
+
+
+@MAO_GKE:74 PLY b2ecf847
+
+
+@MAO_GKE:75 PLY 67cc101d
+
+
+@MAO_GKE:77 MAO e0b27cdc
+
+
+@MAO_GKE:78 PLY f1f22604
+
+
+@MAO_GKE:79 MAO 47073fa8
+
+
+@MAO_GKE:80 MAO a161a451
+
+
+@MAO_GKE:81 PLY 272408e5
+
+
+@MAO_GKE:82 MAO 229ba523
+
+
+@MAO_GKE:83 MAO 605b67e8
+
+
+@MAO_GKE:84 MAO 7daf8ea4
+
+
+@MAO_GKE:85 PLY 852d2958
+
+
+@MAO_GKE:86 MAO 9c992b30
+
+
+@MAO_GKE:87 PLY b627f6d6
+
+
+@MAO_GKE:88 MAO d99e0fbf
+
+
+@MAO_GKE:89 MAO 0d61cfe4
+
+
+@MAO_GKE:94 MAO c24c62ca
+
+
+@MAO_GKE:95 MAO 8e8e5b34
+
+
+@MAO_GKE:96 MAO 5a403ad8
+
+
+@MAO_GKE:97 PLY 032b231b
+
+
+@MAO_GKE:98 MAO a94d5739
+
+
+@MAO_GKE:99 MAO af08a543
+
+
+@MAO_GKE:100 PLY cc4af171
+
+
+@MAO_GKE:101 MAO 02a181cc
+
+
+@MAO_GKE:102 PLY e3f8be68
+
+
+@MAO_GKE:106 MAO ceb80a00
+
+
+@MAO_GKE:107 PLY 212805b3
+
+
+@MAO_GKE:108 PLY 3850afdd
+
+
+@MAO_GKE:109 MAO e8bd3f0a
+

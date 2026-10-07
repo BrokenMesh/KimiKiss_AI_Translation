@@ -1,0 +1,35 @@
+# ERI_ALB -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_ALB:82 PLY 44ebd691
+
+
+@ERI_ALB:85 PLY 263e79f2
+
+
+@ERI_ALB:86 PLY 20324689
+
+
+@ERI_ALB:130 - 64c62dc2
+
+
+@ERI_ALB:132 PLY cdb63969
+
+
+@ERI_ALB:133 PLY f7e57ed8
+
+
+@ERI_ALB:134 ERI c6cb50eb
+
+
+@ERI_ALB:135 PLY ad96dc8c
+
+
+@ERI_ALB:136 ERI 8794fad4
+
+
+@ERI_ALB:137 PLY 767539a6
+
+
+@ERI_ALB:138 ERI 146df872
+

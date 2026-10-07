@@ -1,0 +1,152 @@
+# ERI_KBE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_KBE:40 ERI eff1e968
+
+
+@ERI_KBE:42 PLY daeef43c
+
+
+@ERI_KBE:45 ERI e52582d9
+
+
+@ERI_KBE:46 PLY 62752346
+
+
+@ERI_KBE:49 ERI f74464bc
+
+
+@ERI_KBE:50 PLY 2ca64493
+
+
+@ERI_KBE:52 ERI b094faed
+
+
+@ERI_KBE:53 PLY 2d752b11
+
+
+@ERI_KBE:54 ERI fd2e7b11
+
+
+@ERI_KBE:55 PLY bad3355d
+
+
+@ERI_KBE:56 PLY cd9776e5
+
+
+@ERI_KBE:57 ERI/PLY 0d80b9d5
+
+
+@ERI_KBE:59 ERI af73663b
+
+
+@ERI_KBE:61 ERI 1f5990a8
+
+
+@ERI_KBE:62 PLY f3e6556e
+
+
+@ERI_KBE:64 ERI 626aa8b7
+
+
+@ERI_KBE:67 PLY d662dece
+
+
+@ERI_KBE:68 PLY 772be3f3
+
+
+@ERI_KBE:69 ERI bfa8bf3b
+
+
+@ERI_KBE:72 ERI 0792c783
+
+
+@ERI_KBE:73 ERI 5596153f
+
+
+@ERI_KBE:74 ERI 1d45349b
+
+
+@ERI_KBE:75 ERI c630141e
+
+
+@ERI_KBE:76 ERI 81445d1e
+
+
+@ERI_KBE:77 ERI 8ec46da9
+
+
+@ERI_KBE:78 ERI c01f2ed9
+
+
+@ERI_KBE:79 ERI 154b0fad
+
+
+@ERI_KBE:80 PLY 299df50c
+
+
+@ERI_KBE:83 ERI 81ab25f9
+
+
+@ERI_KBE:84 PLY 8cccea6e
+
+
+@ERI_KBE:85 PLY 471fac2d
+
+
+@ERI_KBE:86 PLY 0050b859
+
+
+@ERI_KBE:88 ERI b0bfd420
+
+
+@ERI_KBE:90 ERI 5126b705
+
+
+@ERI_KBE:91 PLY 581945bc
+
+
+@ERI_KBE:92 ERI 41e901df
+
+
+@ERI_KBE:93 ERI 919afee2
+
+
+@ERI_KBE:95 ERI 800cd828
+
+
+@ERI_KBE:96 ERI e0b4d045
+
+
+@ERI_KBE:97 PLY 37788190
+
+
+@ERI_KBE:98 PLY e0164981
+
+
+@ERI_KBE:99 PLY 4de7c50b
+
+
+@ERI_KBE:100 ERI f9150de2
+
+
+@ERI_KBE:101 ERI 2c7ec5f3
+
+
+@ERI_KBE:102 PLY 6b410038
+
+
+@ERI_KBE:103 ERI ca9eb6d0
+
+
+@ERI_KBE:104 ERI 816451fe
+
+
+@ERI_KBE:105 ERI 11b69d4d
+
+
+@ERI_KBE:106 ERI 05b4c711
+
+
+@ERI_KBE:107 PLY f3cc5197
+

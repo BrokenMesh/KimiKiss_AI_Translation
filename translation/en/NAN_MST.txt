@@ -1,0 +1,92 @@
+# NAN_MST -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_MST:9 - 961bdeb8
+
+
+@NAN_MST:21 PLY 9b32b205
+
+
+@NAN_MST:24.1 - 431cfe1d
+
+
+@NAN_MST:25 PLY bb970906
+
+
+@NAN_MST:39 NAN d4707c72
+
+
+@NAN_MST:40 PLY b4b8ef57
+
+
+@NAN_MST:42 NAN 891ccb10
+
+
+@NAN_MST:43 NAN bc02d4ce
+
+
+@NAN_MST:44 PLY 6896fbe6
+
+
+@NAN_MST:46 PLY 6f53da83
+
+
+@NAN_MST:47 NAN a6fa4902
+
+
+@NAN_MST:48 NAN 2c744346
+
+
+@NAN_MST:49 PLY 876a2929
+
+
+@NAN_MST:51 NAN b6a405c9
+
+
+@NAN_MST:52 PLY aa468b0a
+
+
+@NAN_MST:54 NAN 4c611d9b
+
+
+@NAN_MST:55 NAN 73277023
+
+
+@NAN_MST:56 PLY 9b8b7a7c
+
+
+@NAN_MST:68 NAN 0009186f
+
+
+@NAN_MST:69 PLY 0c1309d9
+
+
+@NAN_MST:70 NAN 5c1668d8
+
+
+@NAN_MST:71.1 - f52f445f
+
+
+@NAN_MST:73 PLY c028a083
+
+
+@NAN_MST:74 NAN c5bac91d
+
+
+@NAN_MST:75 PLY 9d279816
+
+
+@NAN_MST:76 NAN 58716f4a
+
+
+@NAN_MST:77 PLY 67ad02ce
+
+
+@NAN_MST:78 NAN 2e56b31b
+
+
+@NAN_MST:79 PLY 9bb97d56
+
+
+@NAN_MST:82 NAN ee51167d
+

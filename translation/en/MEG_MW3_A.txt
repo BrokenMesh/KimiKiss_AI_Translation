@@ -1,0 +1,26 @@
+# MEG_MW3_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MEG_MW3_A:9 PLY 8b51fd78
+
+
+@MEG_MW3_A:30 MEG 079a58d1
+
+
+@MEG_MW3_A:31 PLY 9e21761b
+
+
+@MEG_MW3_A:32 PLY f91b3fc4
+
+
+@MEG_MW3_A:33 PLY 0304f087
+
+
+@MEG_MW3_A:35 PLY 618d61ad
+
+
+@MEG_MW3_A:37 PLY 6f3c9fdd
+
+
+@MEG_MW3_A:38 PLY 112e988a
+

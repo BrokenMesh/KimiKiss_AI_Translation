@@ -1,0 +1,8 @@
+# ASU_PRO -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_PRO:17.1 - f429f58e
+
+
+@ASU_PRO:19.1 - 8928dce1
+

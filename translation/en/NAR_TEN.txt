@@ -1,0 +1,74 @@
+# NAR_TEN -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_TEN:40 NAR affd7583
+
+
+@NAR_TEN:42 PLY d8a1414c
+
+
+@NAR_TEN:45 PLY 3afff88b
+
+
+@NAR_TEN:47 NAR 4d6351ff
+
+
+@NAR_TEN:48 PLY 3f1917c2
+
+
+@NAR_TEN:50 NAR 2cd24272
+
+
+@NAR_TEN:51 NAR 98697b2d
+
+
+@NAR_TEN:53 NAR 17153ee1
+
+
+@NAR_TEN:54 PLY 851b6dc4
+
+
+@NAR_TEN:55 NAR d574e862
+
+
+@NAR_TEN:58 NAR f5d77eb7
+
+
+@NAR_TEN:59 PLY 499877e1
+
+
+@NAR_TEN:60 NAR dec6e7ce
+
+
+@NAR_TEN:62 NAR d125062b
+
+
+@NAR_TEN:64 NAR 6c5180ef
+
+
+@NAR_TEN:65 PLY da86adc7
+
+
+@NAR_TEN:67 NAR eccd0b8e
+
+
+@NAR_TEN:68 PLY dcf6771f
+
+
+@NAR_TEN:69 NAR 285c482a
+
+
+@NAR_TEN:70 PLY e03a6130
+
+
+@NAR_TEN:71 NAR 03393f14
+
+
+@NAR_TEN:73 NAR 85096c5e
+
+
+@NAR_TEN:74 PLY 36d8865d
+
+
+@NAR_TEN:75 NAR 18d632b8
+

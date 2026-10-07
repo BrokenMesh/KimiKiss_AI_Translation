@@ -1,0 +1,68 @@
+# LoadMenu -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@LoadMenu:44.1 - 8874353d
+
+
+@LoadMenu:44.2 - bd8f7857
+
+
+@LoadMenu:44.3 - 88111472
+
+
+@LoadMenu:44.4 - 8df6b1ac
+
+
+@LoadMenu:44.5 - 6fb42231
+
+
+@LoadMenu:44.6 - 848671ce
+
+
+@LoadMenu:44.7 - 9c37465c
+
+
+@LoadMenu:44.8 - a9bf9417
+
+
+@LoadMenu:44.9 - 9e0d1d59
+
+
+@LoadMenu:44.10 - 871af71c
+
+
+@LoadMenu:44.11 - 5f17fb05
+
+
+@LoadMenu:44.12 - 329b32ed
+
+
+@LoadMenu:44.13 - dcf537f5
+
+
+@LoadMenu:44.14 - 221b3703
+
+
+@LoadMenu:44.15 - 99a2c169
+
+
+@LoadMenu:44.16 - 365f9690
+
+
+@LoadMenu:44.17 - de8efd75
+
+
+@LoadMenu:44.18 - ef688be2
+
+
+@LoadMenu:44.19 - f00cd9c5
+
+
+@LoadMenu:44.20 - 80ad7f36
+
+
+@LoadMenu:44.21 - 1e842499
+
+
+@LoadMenu:44.22 - 01cce3f7
+

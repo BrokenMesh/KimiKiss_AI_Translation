@@ -1,0 +1,89 @@
+# NAN_DEA -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_DEA:10 PLY e2d5c83a
+
+
+@NAN_DEA:30 NAN 46318a95
+
+
+@NAN_DEA:31 PLY 027faf22
+
+
+@NAN_DEA:36 NAN 23d0b2cf
+
+
+@NAN_DEA:37 PLY 2073c25f
+
+
+@NAN_DEA:39 NAN b8ab1a4b
+
+
+@NAN_DEA:41 NAN 14993600
+
+
+@NAN_DEA:42.1 - 0a55aafb
+
+
+@NAN_DEA:44 PLY bf194fa6
+
+
+@NAN_DEA:45 NAN 5fec147c
+
+
+@NAN_DEA:46 PLY add19267
+
+
+@NAN_DEA:47 NAN e451fd72
+
+
+@NAN_DEA:52 NAN d88c43ac
+
+
+@NAN_DEA:53 PLY 93534bce
+
+
+@NAN_DEA:54 PLY da8451fe
+
+
+@NAN_DEA:55 PLY da532e04
+
+
+@NAN_DEA:57 NAN 7402c200
+
+
+@NAN_DEA:59 PLY 7650e9ce
+
+
+@NAN_DEA:61 SYS bde528b6
+
+
+@NAN_DEA:62 SYS 8826c126
+
+
+@NAN_DEA:63 PLY 40a1119d
+
+
+@NAN_DEA:65 NAN 257cf5e5
+
+
+@NAN_DEA:66 PLY 8f2df498
+
+
+@NAN_DEA:68 NAN 5ef10773
+
+
+@NAN_DEA:69 PLY cbcbd30a
+
+
+@NAN_DEA:71 NAN bb26625f
+
+
+@NAN_DEA:72 PLY 3cc01441
+
+
+@NAN_DEA:73 PLY ded97095
+
+
+@NAN_DEA:74 SYS e0fb995f
+

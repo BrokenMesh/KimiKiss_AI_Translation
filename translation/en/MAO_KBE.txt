@@ -1,0 +1,149 @@
+# MAO_KBE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_KBE:38 MAO 1e457e2f
+
+
+@MAO_KBE:40 PLY d3733648
+
+
+@MAO_KBE:43 MAO d889a7ec
+
+
+@MAO_KBE:45 MAO af91c8f2
+
+
+@MAO_KBE:46 PLY c63a356f
+
+
+@MAO_KBE:47 MAO d7c148f9
+
+
+@MAO_KBE:48 PLY 0d80b9d5
+
+
+@MAO_KBE:53 MAO 3f5e3f74
+
+
+@MAO_KBE:56 MAO a100998a
+
+
+@MAO_KBE:57 PLY 7d68aa58
+
+
+@MAO_KBE:58 MAO 9e1a46e7
+
+
+@MAO_KBE:59 MAO d6622a96
+
+
+@MAO_KBE:61 MAO 35510d64
+
+
+@MAO_KBE:64 PLY 5ad65645
+
+
+@MAO_KBE:65 PLY 9cede81b
+
+
+@MAO_KBE:66 PLY 772be3f3
+
+
+@MAO_KBE:69 MAO bedbd0bd
+
+
+@MAO_KBE:72 MAO 8c53bdb4
+
+
+@MAO_KBE:73 MAO fd082e83
+
+
+@MAO_KBE:74 MAO 7b8f77a1
+
+
+@MAO_KBE:75 MAO a0f6b817
+
+
+@MAO_KBE:76 MAO d404f844
+
+
+@MAO_KBE:77 MAO c4df4146
+
+
+@MAO_KBE:78 MAO 6dac4dd4
+
+
+@MAO_KBE:79 MAO f1242490
+
+
+@MAO_KBE:80 MAO 800ef8c6
+
+
+@MAO_KBE:81 MAO 6d199f3c
+
+
+@MAO_KBE:82 MAO db8b462d
+
+
+@MAO_KBE:83 MAO ccf465ac
+
+
+@MAO_KBE:84 MAO 323edb5d
+
+
+@MAO_KBE:86 MAO a9aba96c
+
+
+@MAO_KBE:87 PLY 80decc91
+
+
+@MAO_KBE:88 MAO a9ee12c2
+
+
+@MAO_KBE:90 MAO 6daf0ba1
+
+
+@MAO_KBE:91 PLY 471fac2d
+
+
+@MAO_KBE:92 PLY a8656e7a
+
+
+@MAO_KBE:93 MAO 4f5f4fb1
+
+
+@MAO_KBE:94 PLY 6b410038
+
+
+@MAO_KBE:95 MAO 08ee9ba5
+
+
+@MAO_KBE:96 PLY 1886b376
+
+
+@MAO_KBE:97 MAO cf989019
+
+
+@MAO_KBE:98 MAO 4f06a56e
+
+
+@MAO_KBE:99 MAO b94ee45c
+
+
+@MAO_KBE:100 PLY 63225729
+
+
+@MAO_KBE:101 PLY e0164981
+
+
+@MAO_KBE:102 PLY 7723c9cc
+
+
+@MAO_KBE:103 PLY 4de7c50b
+
+
+@MAO_KBE:104 MAO 78a81f57
+
+
+@MAO_KBE:105 MAO bcc453ee
+

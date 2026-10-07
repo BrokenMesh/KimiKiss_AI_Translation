@@ -1,0 +1,107 @@
+# YUM_MKI -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@YUM_MKI:48 YUM f1e56b26
+
+
+@YUM_MKI:51 YUM 7710d516
+
+
+@YUM_MKI:52 YUM 07cf3a07
+
+
+@YUM_MKI:55 YUM 1a268870
+
+
+@YUM_MKI:56 YUM 94c312cf
+
+
+@YUM_MKI:57 YUM faf50698
+
+
+@YUM_MKI:59 YUM 640f8d51
+
+
+@YUM_MKI:60 YUM 45ea3dc4
+
+
+@YUM_MKI:61 YUM 91a43963
+
+
+@YUM_MKI:67 YUM e2e076dd
+
+
+@YUM_MKI:71 YUM 500bbc3e
+
+
+@YUM_MKI:72 PLY 6c1b2754
+
+
+@YUM_MKI:78 YUM 2b4d929a
+
+
+@YUM_MKI:79 YUM 80e6da37
+
+
+@YUM_MKI:80 PLY 7f69a5dd
+
+
+@YUM_MKI:81 YUM 2338773c
+
+
+@YUM_MKI:83 PLY 8331d188
+
+
+@YUM_MKI:84 YUM 261bd6e5
+
+
+@YUM_MKI:88 YUM bb62112e
+
+
+@YUM_MKI:89 YUM d7741e95
+
+
+@YUM_MKI:90 PLY 9c347979
+
+
+@YUM_MKI:91 YUM d32a8d7e
+
+
+@YUM_MKI:93 YUM 222252de
+
+
+@YUM_MKI:95 YUM 9315e431
+
+
+@YUM_MKI:96 YUM 3f8878d6
+
+
+@YUM_MKI:97 PLY d719a086
+
+
+@YUM_MKI:98 YUM 76798b9b
+
+
+@YUM_MKI:109 YUM a474ff3b
+
+
+@YUM_MKI:110 YUM a1bc113f
+
+
+@YUM_MKI:111 PLY 634f9920
+
+
+@YUM_MKI:113 YUM 073a620a
+
+
+@YUM_MKI:114 PLY 15ccbb91
+
+
+@YUM_MKI:115 YUM 0d80b9d5
+
+
+@YUM_MKI:116 YUM 26b4b51e
+
+
+@YUM_MKI:118 YUM c06327bc
+

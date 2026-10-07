@@ -1,0 +1,176 @@
+# NAR_MST -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_MST:15 - 961bdeb8
+
+
+@NAR_MST:27 PLY 908097a9
+
+
+@NAR_MST:30.1 - c59be67b
+
+
+@NAR_MST:31 PLY b341bdee
+
+
+@NAR_MST:47 NAR fcc728bb
+
+
+@NAR_MST:51 NAR 55f5ea9a
+
+
+@NAR_MST:52 PLY 876a2929
+
+
+@NAR_MST:53 NAR 239cccbc
+
+
+@NAR_MST:55 NAR 97cfe99f
+
+
+@NAR_MST:56 PLY 30f96b02
+
+
+@NAR_MST:58 NAR 528a7801
+
+
+@NAR_MST:59 PLY fd57ef20
+
+
+@NAR_MST:71 NAR 074a5276
+
+
+@NAR_MST:72.1 - ebc8ac86
+
+
+@NAR_MST:74 PLY cf543578
+
+
+@NAR_MST:77 NAR 79aedd14
+
+
+@NAR_MST:78 PLY 66aff371
+
+
+@NAR_MST:82 NAR b7b41899
+
+
+@NAR_MST:83 PLY 54d0b473
+
+
+@NAR_MST:84 NAR ab49f2e2
+
+
+@NAR_MST:85 PLY f6942a3b
+
+
+@NAR_MST:86 NAR 8633741e
+
+
+@NAR_MST:89 NAR 3191c579
+
+
+@NAR_MST:90 NAR c8ed2559
+
+
+@NAR_MST:91 NAR d9ba23b8
+
+
+@NAR_MST:92 PLY bea7c236
+
+
+@NAR_MST:94 NAR ac32c063
+
+
+@NAR_MST:95 PLY 6c6b1e77
+
+
+@NAR_MST:96 PLY df4c402c
+
+
+@NAR_MST:97 NAR 96e6dc18
+
+
+@NAR_MST:101 NAR 839b4916
+
+
+@NAR_MST:102.1 - 4a90b521
+
+
+@NAR_MST:103 NAR ea406cc0
+
+
+@NAR_MST:104 PLY 9130a981
+
+
+@NAR_MST:106 NAR 3fe8cdb7
+
+
+@NAR_MST:107 PLY baec2bd1
+
+
+@NAR_MST:108 NAR 432c573f
+
+
+@NAR_MST:109 PLY 8392f9a4
+
+
+@NAR_MST:111 NAR 15a28bce
+
+
+@NAR_MST:112 NAR 408d1ff1
+
+
+@NAR_MST:113 PLY 4d0c7c5c
+
+
+@NAR_MST:115 NAR fbf27cc5
+
+
+@NAR_MST:116 NAR e3a8917c
+
+
+@NAR_MST:117 PLY d90bccb0
+
+
+@NAR_MST:118 NAR 71c12f1f
+
+
+@NAR_MST:120 NAR f212350d
+
+
+@NAR_MST:121 NAR cd433fa2
+
+
+@NAR_MST:122 NAR aa8383ee
+
+
+@NAR_MST:123 PLY 65c33a28
+
+
+@NAR_MST:124 NAR 16a6cf28
+
+
+@NAR_MST:125 NAR b95dc036
+
+
+@NAR_MST:129 NAR ff54fe66
+
+
+@NAR_MST:130 PLY 93deb735
+
+
+@NAR_MST:131 NAR 88a9cbb0
+
+
+@NAR_MST:132.1 - 4a90b521
+
+
+@NAR_MST:133 NAR 3aa624d3
+
+
+@NAR_MST:137 NAR 3e119c0b
+
+
+@NAR_MST:138 NAR c1cd6bba
+

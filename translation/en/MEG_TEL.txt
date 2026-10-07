@@ -1,0 +1,116 @@
+# MEG_TEL -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MEG_TEL:9 PLY 31318805
+
+
+@MEG_TEL:11 MEG 41783484
+
+
+@MEG_TEL:13 PLY 727cb633
+
+
+@MEG_TEL:14 MEG ea87dcd7
+
+
+@MEG_TEL:15 PLY 28c5d3a3
+
+
+@MEG_TEL:16 MEG e1dfff22
+
+
+@MEG_TEL:17 PLY 53cf1dd0
+
+
+@MEG_TEL:18 MEG 8f826619
+
+
+@MEG_TEL:21 MEG c5386fb1
+
+
+@MEG_TEL:22 PLY ebfb2f05
+
+
+@MEG_TEL:23 MEG 65a2afc5
+
+
+@MEG_TEL:24 PLY 542af83a
+
+
+@MEG_TEL:25 MEG 4a4f1c5b
+
+
+@MEG_TEL:26 PLY a7763034
+
+
+@MEG_TEL:27 MEG 4728d997
+
+
+@MEG_TEL:28 PLY 541c3cfd
+
+
+@MEG_TEL:30 MEG b14833d9
+
+
+@MEG_TEL:31 PLY 54db2b27
+
+
+@MEG_TEL:34 PLY f75d6b6c
+
+
+@MEG_TEL:36 MEG 901466cf
+
+
+@MEG_TEL:37 MEG bf4b78d0
+
+
+@MEG_TEL:38 MEG 01367b88
+
+
+@MEG_TEL:39 MEG ade888e5
+
+
+@MEG_TEL:40 PLY 7cb658b8
+
+
+@MEG_TEL:41 PLY 3c62ed72
+
+
+@MEG_TEL:42 MEG 6ce47850
+
+
+@MEG_TEL:43 PLY 45989063
+
+
+@MEG_TEL:44 PLY f1825749
+
+
+@MEG_TEL:45 PLY f8e04961
+
+
+@MEG_TEL:46 MEG 963c7f6e
+
+
+@MEG_TEL:47 MEG 4dc583b6
+
+
+@MEG_TEL:48 PLY b7f60c52
+
+
+@MEG_TEL:49 MEG c462dd7e
+
+
+@MEG_TEL:50 PLY 24018c6f
+
+
+@MEG_TEL:51 MEG eda9b360
+
+
+@MEG_TEL:52 MEG c6979729
+
+
+@MEG_TEL:53 PLY 86476c5a
+
+
+@MEG_TEL:54 PLY 3c27ee02
+

@@ -1,0 +1,59 @@
+# NAN_GKE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_GKE:6 NAN 11b9ad06
+
+
+@NAN_GKE:8 PLY 0fc0aef1
+
+
+@NAN_GKE:9 NAN 00b488e3
+
+
+@NAN_GKE:10 PLY 3e4246b3
+
+
+@NAN_GKE:11 NAN 584c602e
+
+
+@NAN_GKE:12 PLY d112aff2
+
+
+@NAN_GKE:13 NAN 71072f9c
+
+
+@NAN_GKE:37 NAN 69358780
+
+
+@NAN_GKE:38 PLY e032dbc8
+
+
+@NAN_GKE:39 NAN da46d5cb
+
+
+@NAN_GKE:41 PLY 8422b3f8
+
+
+@NAN_GKE:42 NAN b93ce875
+
+
+@NAN_GKE:43 PLY 00daeddf
+
+
+@NAN_GKE:44 NAN 39761129
+
+
+@NAN_GKE:45 PLY e095346b
+
+
+@NAN_GKE:46 NAN f6cf8d0f
+
+
+@NAN_GKE:47 PLY 696225c1
+
+
+@NAN_GKE:48 PLY effdc07f
+
+
+@NAN_GKE:50 NAN fd3b9eb8
+

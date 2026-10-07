@@ -1,0 +1,26 @@
+# ERI_MW3_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_MW3_A:10 PLY 407a550a
+
+
+@ERI_MW3_A:29 ERI 079a58d1
+
+
+@ERI_MW3_A:30 PLY 9e21761b
+
+
+@ERI_MW3_A:31 PLY f91b3fc4
+
+
+@ERI_MW3_A:32 PLY 0304f087
+
+
+@ERI_MW3_A:34 PLY 618d61ad
+
+
+@ERI_MW3_A:36 PLY 6f3c9fdd
+
+
+@ERI_MW3_A:37 PLY 112e988a
+

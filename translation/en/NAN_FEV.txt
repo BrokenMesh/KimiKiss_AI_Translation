@@ -1,0 +1,146 @@
+# NAN_FEV -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_FEV:10 PLY 7ee7683d
+
+
+@NAN_FEV:19 PLY 0308c77c
+
+
+@NAN_FEV:20 SYS 61e19b8c
+
+
+@NAN_FEV:24 PLY 4b472bff
+
+
+@NAN_FEV:25 PLY ec55d40a
+
+
+@NAN_FEV:26 PLY 0d80b9d5
+
+
+@NAN_FEV:27 PLY f7056747
+
+
+@NAN_FEV:28 PLY f3131e1f
+
+
+@NAN_FEV:29 PLY b0f37bfc
+
+
+@NAN_FEV:31 PLY d1e4d12d
+
+
+@NAN_FEV:33 PLY 5d292aeb
+
+
+@NAN_FEV:34 PLY 60850e4e
+
+
+@NAN_FEV:35 PLY 78a1cfb4
+
+
+@NAN_FEV:36 PLY 9358d5b3
+
+
+@NAN_FEV:37 PLY 8085bac5
+
+
+@NAN_FEV:38 PLY 61563086
+
+
+@NAN_FEV:39 PLY e5238417
+
+
+@NAN_FEV:40 PLY e69e653d
+
+
+@NAN_FEV:41 PLY c82de11b
+
+
+@NAN_FEV:42 PLY 68e1c64b
+
+
+@NAN_FEV:43 PLY 29d39fa0
+
+
+@NAN_FEV:44 PLY e802c440
+
+
+@NAN_FEV:45 PLY aca19409
+
+
+@NAN_FEV:47 SYS 82bdff36
+
+
+@NAN_FEV:48 NAN c65a67a8
+
+
+@NAN_FEV:50 NAN c37ad5ad
+
+
+@NAN_FEV:52 NAN 4e3cba16
+
+
+@NAN_FEV:54 NAN 5fa506a0
+
+
+@NAN_FEV:55 NAN 87c56caf
+
+
+@NAN_FEV:57 NAN 0b94f328
+
+
+@NAN_FEV:58 NAN c0777479
+
+
+@NAN_FEV:59 NAN cfc3fb3a
+
+
+@NAN_FEV:60 NAN c70dd085
+
+
+@NAN_FEV:61 NAN cdeab59d
+
+
+@NAN_FEV:62 PLY 122df4f6
+
+
+@NAN_FEV:70 NAN ed09b61f
+
+
+@NAN_FEV:71 PLY 2495158f
+
+
+@NAN_FEV:72 NAN a2ec4322
+
+
+@NAN_FEV:73 PLY 96073b10
+
+
+@NAN_FEV:74 NAN 8617dfb9
+
+
+@NAN_FEV:75 PLY 2037793c
+
+
+@NAN_FEV:76 PLY 40c7ce75
+
+
+@NAN_FEV:77 NAN b0cc20df
+
+
+@NAN_FEV:78 PLY 97ce6917
+
+
+@NAN_FEV:79 NAN 97a2564f
+
+
+@NAN_FEV:80 SYS f2829d1e
+
+
+@NAN_FEV:81 PLY f235fef5
+
+
+@NAN_FEV:82 SYS f8a55f8f
+

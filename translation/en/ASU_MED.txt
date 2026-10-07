@@ -1,0 +1,179 @@
+# ASU_MED -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_MED:40 ASU 30c9deb3
+
+
+@ASU_MED:42 PLY f125d3df
+
+
+@ASU_MED:45 ASU b99e4d7c
+
+
+@ASU_MED:46 ASU 40fe9c02
+
+
+@ASU_MED:47 ASU d4d9ada1
+
+
+@ASU_MED:48 ASU 328527ea
+
+
+@ASU_MED:49 ASU 0fedc2f5
+
+
+@ASU_MED:50 PLY 9b3f27c9
+
+
+@ASU_MED:51 SYS abf93941
+
+
+@ASU_MED:52 SYS a1c6df68
+
+
+@ASU_MED:54 ASU f804b9c5
+
+
+@ASU_MED:55 PLY fec6c656
+
+
+@ASU_MED:56 ASU 0dafeaa3
+
+
+@ASU_MED:57 PLY eb4f502b
+
+
+@ASU_MED:58 ASU d1d1ac4a
+
+
+@ASU_MED:59 PLY 122df4f6
+
+
+@ASU_MED:61 ASU 99dacab4
+
+
+@ASU_MED:62 PLY 499877e1
+
+
+@ASU_MED:63 PLY 197de44a
+
+
+@ASU_MED:64 ASU 35aa29ee
+
+
+@ASU_MED:65 PLY 3150f24e
+
+
+@ASU_MED:66 ASU 5aef9a3a
+
+
+@ASU_MED:69 PLY e8e77cd4
+
+
+@ASU_MED:70 ASU 4002136b
+
+
+@ASU_MED:71 PLY 42114c7d
+
+
+@ASU_MED:72 ASU 4b0f8f77
+
+
+@ASU_MED:73 PLY b38c5433
+
+
+@ASU_MED:74 ASU 0a561fa1
+
+
+@ASU_MED:75 PLY f596f20c
+
+
+@ASU_MED:77 ASU 92d4d8ad
+
+
+@ASU_MED:78 PLY 1f144e40
+
+
+@ASU_MED:79 ASU d2dd652a
+
+
+@ASU_MED:80 PLY 09f57218
+
+
+@ASU_MED:81 ASU 0e9bb62a
+
+
+@ASU_MED:82 ASU 4188cee4
+
+
+@ASU_MED:83 PLY 1bd57c25
+
+
+@ASU_MED:85 ASU a12c9feb
+
+
+@ASU_MED:86 PLY 5eb864ba
+
+
+@ASU_MED:87 PLY 3d796206
+
+
+@ASU_MED:88 ASU 40c30fa8
+
+
+@ASU_MED:89 ASU 61b52218
+
+
+@ASU_MED:90 PLY d725b6b3
+
+
+@ASU_MED:91 ASU 28e19741
+
+
+@ASU_MED:92 ASU ee891ae4
+
+
+@ASU_MED:93 ASU aa644c84
+
+
+@ASU_MED:94 PLY afe559bc
+
+
+@ASU_MED:95 ASU 32eb34b8
+
+
+@ASU_MED:96 PLY e03a6130
+
+
+@ASU_MED:97 ASU 81e7a573
+
+
+@ASU_MED:98 ASU e1b3d6aa
+
+
+@ASU_MED:99 PLY 7f41533f
+
+
+@ASU_MED:100 ASU efe490c0
+
+
+@ASU_MED:101 PLY edad0425
+
+
+@ASU_MED:102 ASU b5fe6cf5
+
+
+@ASU_MED:103 PLY 5603bf05
+
+
+@ASU_MED:104 ASU 6ace8b31
+
+
+@ASU_MED:105 PLY f32b1faf
+
+
+@ASU_MED:106 ASU 683cf0f9
+
+
+@ASU_MED:107 ASU 9a21ab71
+

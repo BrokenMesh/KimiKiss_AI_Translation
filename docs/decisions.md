@@ -153,3 +153,18 @@ Written after D-017; the number was reserved for the name-entry work of `docs/ph
 ## D-021: Wrapping runs in the build, not in the reinserter
 
 - D-013 said the reinserter inserts the `／` breaks; it never did (only the test-text builder wrapped). `build.sh` now runs `tools/translate/batch.py prepare` on the text directory first (dialogue wrapped with `en_text.wrap` and the speaker-indent rule, ConfirmDialog lines wrapped), and `reinsert_text.py` reads the prepared copy in `build/work/text`. Translators write unwrapped English; the checker (`tools/qa/check_translation.py`) measures the prepared form. Already-wrapped lines pass through unchanged.
+
+## D-022: English lives in translation/en/*.txt, keyed by record id and a hash of the Japanese
+
+- Until now translations were stored as a `translation` field in `text/*.json`, which is gitignored because it holds the Japanese game text (D-001). The repo is going public and people must be able to fix one English line with a pull request, so the English moves to `translation/en/<SCENE>.txt`: committed, one file per scene, one header line (`@<id> <speaker> <src>`) and one translation line per record, comments allowed. `src` is the first 8 hex digits of the SHA-1 of the Japanese text, so the file proves which Japanese a line was written against without containing any of it. No Japanese text enters the repo (the importer and `tools/qa/test_translation_store.py` refuse it).
+- `text/` stays Japanese only and local. `tools/translate/store.py` reads, writes and syncs the format; `batch.py export/import/prepare/sync/show/migrate` and `check_translation.py` read the English from the store (`--trans`, default `translation/en`). `prepare` merges both into the wrapped JSON the reinserter reads, so `tools/build/build.sh <iso> <out.iso>` builds with the committed translation. Format and contributor guide: `docs/translation-format.md`.
+- Changed Japanese does not silently invalidate English: `sync` keeps the line and marks it `# STALE src`, `check_translation.py` warns `SRC_STALE`, and `sync --accept-src` records the new hash after review.
+- Reasons: the repo is public, a fix must be a one-line diff in a plain text file, and contributors need no JSON tooling. Cost: a sync step when the extractor output changes, and `／` (the choice separator) is the one non-ASCII character that appears in the files.
+
+
+## D-023: Speaker plate column is 5 cells, and line 1 starts at it
+
+- `Parson>>message:` prints the speaker plate, then `putIndent: 4`, which only set the indent of lines 2-3 (92 px); line 1 continued straight after the plate. The Japanese plates are 3 cells and the hanging `「` filled the gap, so the text of line 1 lined up with lines 2-3. English plates have no bracket and are wider (Mizusawa 107 px, Satonaka 100 px, the player's surname up to 120 px), so the text either touched the plate or started right of the indent.
+- Two patches: `Parson.message1.asm` sends `putIndent: 5` (115 px); `TextWindow.output0.asm` makes command 7 (sent only there, only after a plate) also move the pen to the indent column, or 6 px after the plate when the plate is wider. Narration has no plate and no indent and is unchanged.
+- Budget: `en_text.INDENT_PX = 115`, `PLATE_GAP_PX = 6`; `rules.label_px_for` returns `max(115, plate + 6)`. A spoken line has 437 px on every line (552 for narration). The glossary keeps plates at most 115 px (D9).
+- Untranslated Japanese lines also start at 115 px, one cell further right than before: 19 instead of 20 cells on lines 2-3. Accepted, all dialogue is translated. The backlog (`LogLine`) is not changed; its plate layout is not yet checked in the emulator.

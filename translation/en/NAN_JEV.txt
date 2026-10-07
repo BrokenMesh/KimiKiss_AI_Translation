@@ -1,0 +1,83 @@
+# NAN_JEV -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_JEV:21 PLY e5471f23
+
+
+@NAN_JEV:23 NAN 8e1a5538
+
+
+@NAN_JEV:42 NAN c7f2e60c
+
+
+@NAN_JEV:43 PLY aebea591
+
+
+@NAN_JEV:44 NAN bb2d2c8f
+
+
+@NAN_JEV:45 NAN 6133bb8b
+
+
+@NAN_JEV:46 NAN b77680ce
+
+
+@NAN_JEV:47 PLY 866ee34d
+
+
+@NAN_JEV:48 NAN 06b1e42a
+
+
+@NAN_JEV:53 NAN 2641136f
+
+
+@NAN_JEV:54 PLY d9965a5d
+
+
+@NAN_JEV:55 NAN 54a1e933
+
+
+@NAN_JEV:59 NAN 365b8449
+
+
+@NAN_JEV:60 NAN b194cab8
+
+
+@NAN_JEV:61 PLY be81cabb
+
+
+@NAN_JEV:62 NAN 7ff1ac95
+
+
+@NAN_JEV:63 NAN d308f0f3
+
+
+@NAN_JEV:65 NAN 71854123
+
+
+@NAN_JEV:67 NAN 049c4a7f
+
+
+@NAN_JEV:68 PLY 45e53992
+
+
+@NAN_JEV:70 PLY dad935f2
+
+
+@NAN_JEV:71 NAN 61bc01a1
+
+
+@NAN_JEV:72 PLY eb9af751
+
+
+@NAN_JEV:73 NAN e8c84cd1
+
+
+@NAN_JEV:74 PLY d01a0294
+
+
+@NAN_JEV:75 NAN 2464f77f
+
+
+@NAN_JEV:76 NAN 4403eb15
+

@@ -1,0 +1,5 @@
+# MAO_ALB -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_ALB:84 SYS 69bec34c
+

@@ -1,0 +1,65 @@
+# ASU_TEN -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_TEN:37 ASU eb4c308a
+
+
+@ASU_TEN:39 PLY 2bffe542
+
+
+@ASU_TEN:42 PLY daa6e99c
+
+
+@ASU_TEN:43 ASU 236db5ea
+
+
+@ASU_TEN:45 ASU 2c0ee6c2
+
+
+@ASU_TEN:48 ASU de6e6f04
+
+
+@ASU_TEN:50 ASU b6c1b329
+
+
+@ASU_TEN:51 PLY 36a89d32
+
+
+@ASU_TEN:53 ASU 5736976d
+
+
+@ASU_TEN:54 PLY 851b6dc4
+
+
+@ASU_TEN:55 ASU 22dc1a2c
+
+
+@ASU_TEN:57 ASU 5f434c51
+
+
+@ASU_TEN:58 PLY 1b758669
+
+
+@ASU_TEN:59 ASU a8e70929
+
+
+@ASU_TEN:60 ASU c65aa84b
+
+
+@ASU_TEN:61 PLY 9b5bacff
+
+
+@ASU_TEN:63 ASU fca1691f
+
+
+@ASU_TEN:64 PLY 537cd13c
+
+
+@ASU_TEN:65 ASU 4f1df5c9
+
+
+@ASU_TEN:66 ASU 5bbfc90d
+
+
+@ASU_TEN:67 ASU 8dc80203
+

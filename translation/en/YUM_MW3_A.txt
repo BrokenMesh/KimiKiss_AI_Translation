@@ -1,0 +1,26 @@
+# YUM_MW3_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@YUM_MW3_A:10 PLY 2555cff3
+
+
+@YUM_MW3_A:30 YUM 079a58d1
+
+
+@YUM_MW3_A:31 PLY 9e21761b
+
+
+@YUM_MW3_A:32 PLY f91b3fc4
+
+
+@YUM_MW3_A:33 PLY 0304f087
+
+
+@YUM_MW3_A:36 PLY 618d61ad
+
+
+@YUM_MW3_A:38 PLY 6f3c9fdd
+
+
+@YUM_MW3_A:39 PLY 112e988a
+

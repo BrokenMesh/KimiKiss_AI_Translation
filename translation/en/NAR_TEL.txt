@@ -1,0 +1,143 @@
+# NAR_TEL -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_TEL:10 PLY 31318805
+
+
+@NAR_TEL:12 NAR 2a1fe9fc
+
+
+@NAR_TEL:13 PLY 3f09bec3
+
+
+@NAR_TEL:15 NAR aeaf54a2
+
+
+@NAR_TEL:16 PLY 5a217ef0
+
+
+@NAR_TEL:20 NAR 760711ad
+
+
+@NAR_TEL:21 PLY 96724a2a
+
+
+@NAR_TEL:22 NAR 9a2413d8
+
+
+@NAR_TEL:23 PLY 876a2929
+
+
+@NAR_TEL:25 NAR 1ea236e4
+
+
+@NAR_TEL:26 NAR 52e16b53
+
+
+@NAR_TEL:27 PLY 541c3cfd
+
+
+@NAR_TEL:28 NAR d3bf5096
+
+
+@NAR_TEL:29 PLY 54db2b27
+
+
+@NAR_TEL:32 PLY f75d6b6c
+
+
+@NAR_TEL:35 NAR 14a3897c
+
+
+@NAR_TEL:36 NAR 6f925777
+
+
+@NAR_TEL:37 NAR e38d297c
+
+
+@NAR_TEL:38 PLY 6a228046
+
+
+@NAR_TEL:39 PLY 6caab809
+
+
+@NAR_TEL:40 NAR c75ad692
+
+
+@NAR_TEL:41 PLY cce38622
+
+
+@NAR_TEL:43 NAR 37c6332f
+
+
+@NAR_TEL:44 PLY 921a55e2
+
+
+@NAR_TEL:45 NAR 30a94cc4
+
+
+@NAR_TEL:46 PLY 975409bc
+
+
+@NAR_TEL:47 NAR 7141dcbc
+
+
+@NAR_TEL:48 NAR 7dc94c2c
+
+
+@NAR_TEL:49 PLY b7f60c52
+
+
+@NAR_TEL:50 NAR c3ebfb02
+
+
+@NAR_TEL:51 PLY 54014813
+
+
+@NAR_TEL:52 NAR 71f7a0f5
+
+
+@NAR_TEL:53 NAR 47b86a1a
+
+
+@NAR_TEL:54 PLY d3ad56ce
+
+
+@NAR_TEL:55 PLY 3c27ee02
+
+
+@NAR_TEL:56 NAR 1aa9c1b7
+
+
+@NAR_TEL:57 NAR 23cec3c3
+
+
+@NAR_TEL:58 NAR 3b49cfe5
+
+
+@NAR_TEL:59 PLY 9a7db091
+
+
+@NAR_TEL:60 NAR 92ad5e59
+
+
+@NAR_TEL:61 PLY 65928068
+
+
+@NAR_TEL:62 NAR f49a4f9b
+
+
+@NAR_TEL:63 PLY a61ceb39
+
+
+@NAR_TEL:64 NAR 11e9fd20
+
+
+@NAR_TEL:66 NAR 9aaed106
+
+
+@NAR_TEL:67 PLY 62384012
+
+
+@NAR_TEL:68 NAR cc9be76b
+

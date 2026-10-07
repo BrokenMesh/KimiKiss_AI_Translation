@@ -1,0 +1,167 @@
+# MAO_MST -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MAO_MST:15 - 961bdeb8
+
+
+@MAO_MST:27 PLY 8c2a258e
+
+
+@MAO_MST:30.1 - 8005e300
+
+
+@MAO_MST:31 PLY 6174f1a7
+
+
+@MAO_MST:46 MAO b600556e
+
+
+@MAO_MST:47 PLY e9f9f144
+
+
+@MAO_MST:48 MAO b46ca1f2
+
+
+@MAO_MST:50 MAO 57423ec0
+
+
+@MAO_MST:51 PLY 542af83a
+
+
+@MAO_MST:54 MAO 092dcd7d
+
+
+@MAO_MST:55 MAO 68598a90
+
+
+@MAO_MST:56 PLY 876a2929
+
+
+@MAO_MST:57 MAO 366782ac
+
+
+@MAO_MST:58 PLY 2fa2a1ab
+
+
+@MAO_MST:69 MAO 9ea7c641
+
+
+@MAO_MST:71.1 - ebc8ac86
+
+
+@MAO_MST:72 PLY cf543578
+
+
+@MAO_MST:73 MAO a4df0be1
+
+
+@MAO_MST:74 PLY 66aff371
+
+
+@MAO_MST:75 MAO 53b86a12
+
+
+@MAO_MST:77 MAO 566f77dd
+
+
+@MAO_MST:78 PLY e03a6130
+
+
+@MAO_MST:79 PLY 15d8399b
+
+
+@MAO_MST:80 MAO f2ab8c33
+
+
+@MAO_MST:81 MAO 66d18cee
+
+
+@MAO_MST:82 PLY 21458ef1
+
+
+@MAO_MST:83 MAO ab7c2c78
+
+
+@MAO_MST:84 PLY 696225c1
+
+
+@MAO_MST:85 MAO 9bb89cb9
+
+
+@MAO_MST:89 MAO e2b9239e
+
+
+@MAO_MST:90.1 - 4a90b521
+
+
+@MAO_MST:91 MAO 524f3d58
+
+
+@MAO_MST:92 PLY 9130a981
+
+
+@MAO_MST:93 MAO a8594120
+
+
+@MAO_MST:94 PLY 2cc568e3
+
+
+@MAO_MST:96 MAO 6aa70705
+
+
+@MAO_MST:97 MAO 8dde4a2d
+
+
+@MAO_MST:98 PLY 0fec8c4a
+
+
+@MAO_MST:101 MAO d69de15f
+
+
+@MAO_MST:103 MAO d883c7f3
+
+
+@MAO_MST:104 MAO c6f1973c
+
+
+@MAO_MST:105 PLY cc4af171
+
+
+@MAO_MST:106 MAO 81f1650b
+
+
+@MAO_MST:107 MAO 65f3044a
+
+
+@MAO_MST:108 PLY c6ead430
+
+
+@MAO_MST:109 MAO 301b9309
+
+
+@MAO_MST:110 MAO 688dcbaf
+
+
+@MAO_MST:115 MAO b4a1992d
+
+
+@MAO_MST:116 PLY 1f572bcf
+
+
+@MAO_MST:117 MAO f29e7850
+
+
+@MAO_MST:118.1 - 4a90b521
+
+
+@MAO_MST:119 MAO fe2422fe
+
+
+@MAO_MST:120 MAO 48deb7ac
+
+
+@MAO_MST:121 PLY 6712d621
+
+
+@MAO_MST:122 MAO fed4c331
+

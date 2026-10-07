@@ -1,0 +1,149 @@
+# NAN_MED -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_MED:41 NAN 96782dc7
+
+
+@NAN_MED:44 PLY f125d3df
+
+
+@NAN_MED:46 NAN 0830c4bb
+
+
+@NAN_MED:47 NAN fe3c43c5
+
+
+@NAN_MED:50 NAN 7dab1ffa
+
+
+@NAN_MED:52 NAN 715dbcb5
+
+
+@NAN_MED:53 NAN 3a465ec2
+
+
+@NAN_MED:54 PLY bfeb36fd
+
+
+@NAN_MED:56 SYS abf93941
+
+
+@NAN_MED:57 SYS a1c6df68
+
+
+@NAN_MED:59 NAN 047b66af
+
+
+@NAN_MED:60 PLY 012390ca
+
+
+@NAN_MED:61 NAN a710ead9
+
+
+@NAN_MED:62 PLY 7017c632
+
+
+@NAN_MED:63 NAN 7e346fcc
+
+
+@NAN_MED:64 NAN b6a13b0e
+
+
+@NAN_MED:65 PLY 1b73a09e
+
+
+@NAN_MED:66 PLY 84e56887
+
+
+@NAN_MED:67 NAN 7bf4839a
+
+
+@NAN_MED:68 PLY 122df4f6
+
+
+@NAN_MED:70 NAN 003540b9
+
+
+@NAN_MED:71 PLY 67919fb4
+
+
+@NAN_MED:73 NAN ec618464
+
+
+@NAN_MED:74 PLY 39b21236
+
+
+@NAN_MED:75 PLY c800a9de
+
+
+@NAN_MED:76 NAN 76be3b6a
+
+
+@NAN_MED:77 NAN 55f66e24
+
+
+@NAN_MED:78 NAN d26ddec3
+
+
+@NAN_MED:79 PLY 7450a851
+
+
+@NAN_MED:80 PLY 3d796206
+
+
+@NAN_MED:81 NAN cc9b9d31
+
+
+@NAN_MED:82 PLY c028a083
+
+
+@NAN_MED:83 NAN 1cbe0452
+
+
+@NAN_MED:84 PLY 3695183e
+
+
+@NAN_MED:85 NAN c52c64a5
+
+
+@NAN_MED:86 PLY 457cd0be
+
+
+@NAN_MED:87 NAN c0ba6171
+
+
+@NAN_MED:88 NAN 1e9cb541
+
+
+@NAN_MED:89 NAN 618c4d35
+
+
+@NAN_MED:90 PLY e1df672e
+
+
+@NAN_MED:91 NAN af1eaa77
+
+
+@NAN_MED:93 NAN adf5b698
+
+
+@NAN_MED:94 PLY f6765f94
+
+
+@NAN_MED:96 NAN 4477a6b4
+
+
+@NAN_MED:97 PLY 30d01bb0
+
+
+@NAN_MED:98 NAN 515e1171
+
+
+@NAN_MED:99 NAN 9c12a4e7
+
+
+@NAN_MED:100 NAN 7966cbbd
+
+
+@NAN_MED:101 PLY aa468b0a
+

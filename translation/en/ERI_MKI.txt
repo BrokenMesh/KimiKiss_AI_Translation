@@ -1,0 +1,98 @@
+# ERI_MKI -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ERI_MKI:44 ERI de1e7fd0
+
+
+@ERI_MKI:49 ERI 4744eeb8
+
+
+@ERI_MKI:50 ERI d81a0e3a
+
+
+@ERI_MKI:51 ERI 4518817b
+
+
+@ERI_MKI:53 ERI 6e44b616
+
+
+@ERI_MKI:54 ERI 57a2b9eb
+
+
+@ERI_MKI:57 ERI 4531c179
+
+
+@ERI_MKI:59 ERI 06800e0f
+
+
+@ERI_MKI:61 ERI 8a6bafd3
+
+
+@ERI_MKI:62 ERI fe8cf8d3
+
+
+@ERI_MKI:65 ERI 2ded136d
+
+
+@ERI_MKI:66 PLY 6c1b2754
+
+
+@ERI_MKI:76 ERI 52dec89d
+
+
+@ERI_MKI:77 ERI 67f2cb83
+
+
+@ERI_MKI:78 PLY 313ae3ad
+
+
+@ERI_MKI:81 PLY f2fdc86a
+
+
+@ERI_MKI:82 ERI 7db3fbc5
+
+
+@ERI_MKI:88 ERI 0d826335
+
+
+@ERI_MKI:89 ERI 254bcc2a
+
+
+@ERI_MKI:90 PLY aa2b47d8
+
+
+@ERI_MKI:91 ERI f5808ac0
+
+
+@ERI_MKI:93 ERI f66d1768
+
+
+@ERI_MKI:96 ERI 9d2ea8ae
+
+
+@ERI_MKI:97 ERI 67683bcd
+
+
+@ERI_MKI:98 PLY e2d51d78
+
+
+@ERI_MKI:104 ERI a378e67c
+
+
+@ERI_MKI:106 ERI b2b2b618
+
+
+@ERI_MKI:107 PLY 00d0c9d1
+
+
+@ERI_MKI:108 ERI 11e2a99b
+
+
+@ERI_MKI:109 PLY 499877e1
+
+
+@ERI_MKI:110 ERI 13f54a36
+
+
+@ERI_MKI:111 ERI e264d922
+

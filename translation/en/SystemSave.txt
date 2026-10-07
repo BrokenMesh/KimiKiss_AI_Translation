@@ -1,0 +1,71 @@
+# SystemSave -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@SystemSave:10.1 - 8874353d
+
+
+@SystemSave:10.2 - bd8f7857
+
+
+@SystemSave:10.3 - 88111472
+
+
+@SystemSave:10.4 - 8df6b1ac
+
+
+@SystemSave:10.5 - 6fb42231
+
+
+@SystemSave:10.6 - 848671ce
+
+
+@SystemSave:10.7 - 9c37465c
+
+
+@SystemSave:10.8 - a9bf9417
+
+
+@SystemSave:10.9 - 9e0d1d59
+
+
+@SystemSave:10.10 - 871af71c
+
+
+@SystemSave:10.11 - 5f17fb05
+
+
+@SystemSave:10.12 - 329b32ed
+
+
+@SystemSave:10.13 - dcf537f5
+
+
+@SystemSave:10.14 - 221b3703
+
+
+@SystemSave:10.15 - 99a2c169
+
+
+@SystemSave:10.16 - 365f9690
+
+
+@SystemSave:10.17 - de8efd75
+
+
+@SystemSave:10.18 - ef688be2
+
+
+@SystemSave:10.19 - f00cd9c5
+
+
+@SystemSave:10.20 - 80ad7f36
+
+
+@SystemSave:10.21 - 1e842499
+
+
+@SystemSave:10.22 - 01cce3f7
+
+
+@SystemSave:24 - 201c1cc5
+

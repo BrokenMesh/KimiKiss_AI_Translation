@@ -1,0 +1,14 @@
+# GameMain -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@GameMain:135 - aeeaeb2e
+
+
+@GameMain:137 - a3251082
+
+
+@GameMain:172 - 652c0370
+
+
+@GameMain:176 - 79cff54d
+

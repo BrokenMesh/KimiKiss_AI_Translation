@@ -1,0 +1,107 @@
+# NAR_MKI -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_MKI:51 NAR fa39cc26
+
+
+@NAR_MKI:56 NAR 41d01591
+
+
+@NAR_MKI:57 NAR a819727c
+
+
+@NAR_MKI:58 PLY 6c6b1e77
+
+
+@NAR_MKI:59 NAR e0cc1378
+
+
+@NAR_MKI:60 NAR ed3df685
+
+
+@NAR_MKI:63 NAR f9f35372
+
+
+@NAR_MKI:64 PLY 6c1b2754
+
+
+@NAR_MKI:65 NAR a7e5bbf4
+
+
+@NAR_MKI:68 NAR 72aa5ad5
+
+
+@NAR_MKI:69 NAR cdf91c35
+
+
+@NAR_MKI:71 NAR 4889bd72
+
+
+@NAR_MKI:77 NAR b07477c0
+
+
+@NAR_MKI:81 NAR a670bf78
+
+
+@NAR_MKI:88 NAR 9368b83f
+
+
+@NAR_MKI:89 PLY 7c52b658
+
+
+@NAR_MKI:92 NAR 5bd07866
+
+
+@NAR_MKI:94 PLY f6942a3b
+
+
+@NAR_MKI:96 NAR 18a73c04
+
+
+@NAR_MKI:100 NAR 899ebd42
+
+
+@NAR_MKI:101 NAR fe393ab1
+
+
+@NAR_MKI:102 PLY a636c8ba
+
+
+@NAR_MKI:104 NAR f78f1bb4
+
+
+@NAR_MKI:106 NAR c2232be6
+
+
+@NAR_MKI:107 NAR 8afbfef4
+
+
+@NAR_MKI:108 PLY 122df4f6
+
+
+@NAR_MKI:109 PLY 8d8294bb
+
+
+@NAR_MKI:118 NAR 7efe2778
+
+
+@NAR_MKI:119 NAR 9f32c606
+
+
+@NAR_MKI:120 PLY 634f9920
+
+
+@NAR_MKI:122 NAR 97797f4e
+
+
+@NAR_MKI:123 PLY a757bd10
+
+
+@NAR_MKI:124 NAR 0d80b9d5
+
+
+@NAR_MKI:125 NAR 32974f09
+
+
+@NAR_MKI:128 NAR c9997d35
+

@@ -1,0 +1,188 @@
+# ASU_MST -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_MST:15 - 961bdeb8
+
+
+@ASU_MST:27 PLY dfb57436
+
+
+@ASU_MST:30.1 - e64623a1
+
+
+@ASU_MST:31 PLY c110e59a
+
+
+@ASU_MST:46 ASU feefa0da
+
+
+@ASU_MST:47 PLY f7119374
+
+
+@ASU_MST:48 ASU e8d4aa8c
+
+
+@ASU_MST:50 ASU 17bb757f
+
+
+@ASU_MST:51 PLY db4fe694
+
+
+@ASU_MST:52 ASU 5d773e7f
+
+
+@ASU_MST:54 ASU 4bc9fce3
+
+
+@ASU_MST:55 ASU ea49c6d0
+
+
+@ASU_MST:57 PLY 696225c1
+
+
+@ASU_MST:58 ASU 3eb0c510
+
+
+@ASU_MST:61 PLY 3ec1bde1
+
+
+@ASU_MST:62 PLY c302a309
+
+
+@ASU_MST:73 ASU a3ecd2bb
+
+
+@ASU_MST:74 PLY 5edd7500
+
+
+@ASU_MST:76 ASU 2c426a64
+
+
+@ASU_MST:78.1 - ebc8ac86
+
+
+@ASU_MST:79 PLY cf543578
+
+
+@ASU_MST:81 ASU 8b00c7ca
+
+
+@ASU_MST:82 PLY 66aff371
+
+
+@ASU_MST:84 ASU 2891f27c
+
+
+@ASU_MST:85 ASU d7d72d01
+
+
+@ASU_MST:86 PLY e03a6130
+
+
+@ASU_MST:87 PLY bf2c4c5d
+
+
+@ASU_MST:88 ASU 08d4d092
+
+
+@ASU_MST:89 ASU 76edc39c
+
+
+@ASU_MST:90 PLY 542af83a
+
+
+@ASU_MST:91 ASU 92a28bb2
+
+
+@ASU_MST:92 ASU 572f90ef
+
+
+@ASU_MST:93 PLY 876a2929
+
+
+@ASU_MST:94 ASU 8ee189fc
+
+
+@ASU_MST:98 ASU accca12b
+
+
+@ASU_MST:100 ASU c8ec86a1
+
+
+@ASU_MST:101.1 - 4a90b521
+
+
+@ASU_MST:102 ASU ddd6f0ac
+
+
+@ASU_MST:103 PLY 9130a981
+
+
+@ASU_MST:104 ASU 00744710
+
+
+@ASU_MST:105 ASU d45b10e9
+
+
+@ASU_MST:107 ASU aa7068f6
+
+
+@ASU_MST:108 PLY 0fec8c4a
+
+
+@ASU_MST:109 ASU 2af445f7
+
+
+@ASU_MST:110 ASU a3a66b7d
+
+
+@ASU_MST:111 ASU 5f14fc15
+
+
+@ASU_MST:112 PLY e6f568ce
+
+
+@ASU_MST:113 ASU d42a2a4f
+
+
+@ASU_MST:114 ASU 6f2170ab
+
+
+@ASU_MST:115 ASU 4f79bf5a
+
+
+@ASU_MST:116 ASU f1d064bd
+
+
+@ASU_MST:117 PLY 851b6dc4
+
+
+@ASU_MST:118 ASU c4e781c3
+
+
+@ASU_MST:124 ASU 9c1743da
+
+
+@ASU_MST:126 ASU 91a432dc
+
+
+@ASU_MST:127.1 - 4a90b521
+
+
+@ASU_MST:128 ASU 56ae5118
+
+
+@ASU_MST:129 ASU b4c333fe
+
+
+@ASU_MST:130 ASU f1e8a260
+
+
+@ASU_MST:131 PLY 7eb8f4ef
+
+
+@ASU_MST:132 ASU f28bd292
+
+
+@ASU_MST:134 ASU 6c78e224
+

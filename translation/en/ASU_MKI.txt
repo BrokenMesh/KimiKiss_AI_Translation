@@ -1,0 +1,125 @@
+# ASU_MKI -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@ASU_MKI:49 ASU 898bd6b0
+
+
+@ASU_MKI:52 ASU fce696f7
+
+
+@ASU_MKI:53 ASU 0cbf0ae9
+
+
+@ASU_MKI:55 ASU 2048bdcd
+
+
+@ASU_MKI:56 ASU f3411c0d
+
+
+@ASU_MKI:58 ASU 4ac833b9
+
+
+@ASU_MKI:59 ASU 7236ba51
+
+
+@ASU_MKI:61 ASU 17b00a27
+
+
+@ASU_MKI:62 ASU 1f4205cf
+
+
+@ASU_MKI:63 ASU edae5959
+
+
+@ASU_MKI:69 ASU 45f77cfe
+
+
+@ASU_MKI:73 ASU 8eaa93a8
+
+
+@ASU_MKI:74 PLY 6c1b2754
+
+
+@ASU_MKI:79 ASU 0d80b9d5
+
+
+@ASU_MKI:80 ASU ca00502d
+
+
+@ASU_MKI:81 PLY 1c80789b
+
+
+@ASU_MKI:82 ASU 8371ef4d
+
+
+@ASU_MKI:83 PLY b13e6efc
+
+
+@ASU_MKI:85 ASU c49fdd41
+
+
+@ASU_MKI:86 PLY a5ece806
+
+
+@ASU_MKI:87 ASU e5d71d61
+
+
+@ASU_MKI:92 ASU 2bce8e7a
+
+
+@ASU_MKI:93 PLY ed921692
+
+
+@ASU_MKI:94 ASU 1a971509
+
+
+@ASU_MKI:95 PLY 6e1f8bf0
+
+
+@ASU_MKI:96 ASU ebfb9d95
+
+
+@ASU_MKI:98 ASU d89b6667
+
+
+@ASU_MKI:100 ASU f08968d2
+
+
+@ASU_MKI:101 ASU 2801deef
+
+
+@ASU_MKI:102 PLY 599cdb77
+
+
+@ASU_MKI:108 ASU 75eb4f7e
+
+
+@ASU_MKI:109 ASU 99137a09
+
+
+@ASU_MKI:110 PLY 6014b260
+
+
+@ASU_MKI:112 ASU 93e91260
+
+
+@ASU_MKI:113 ASU cc67229c
+
+
+@ASU_MKI:114 PLY 9ee89583
+
+
+@ASU_MKI:115 ASU a0ae417a
+
+
+@ASU_MKI:117 PLY c95d71b5
+
+
+@ASU_MKI:118 ASU 76854210
+
+
+@ASU_MKI:119 PLY fec6c656
+
+
+@ASU_MKI:120 PLY 1436da25
+

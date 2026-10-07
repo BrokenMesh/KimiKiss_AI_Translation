@@ -1,0 +1,152 @@
+# WadaiTable -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@WadaiTable:0.0.0 - c7351344
+
+
+@WadaiTable:0.1.0 - 1b03e09f
+
+
+@WadaiTable:0.2.0 - 692d8367
+
+
+@WadaiTable:0.3.0 - 86b19c9a
+
+
+@WadaiTable:0.4.0 - d723799d
+
+
+@WadaiTable:0.5.0 - 835f3187
+
+
+@WadaiTable:0.6.0 - a6e9f6d9
+
+
+@WadaiTable:0.7.0 - 85a56ea6
+
+
+@WadaiTable:0.8.0 - 18141a25
+
+
+@WadaiTable:0.9.0 - b65af422
+
+
+@WadaiTable:0.10.0 - 478c4199
+
+
+@WadaiTable:0.11.0 - 6018e0c0
+
+
+@WadaiTable:0.12.0 - 82d0f5fd
+
+
+@WadaiTable:0.13.0 - 67cd3162
+
+
+@WadaiTable:0.14.0 - fa5e8912
+
+
+@WadaiTable:0.15.0 - 795d25e7
+
+
+@WadaiTable:0.16.0 - 6376c974
+
+
+@WadaiTable:0.17.0 - 679afa27
+
+
+@WadaiTable:0.18.0 - b9b17806
+
+
+@WadaiTable:0.19.0 - 97940c41
+
+
+@WadaiTable:0.20.0 - fde5cffe
+
+
+@WadaiTable:0.21.0 - 56301c76
+
+
+@WadaiTable:0.22.0 - 32d078a6
+
+
+@WadaiTable:0.23.0 - 62ac7942
+
+
+@WadaiTable:0.24.0 - f0ddd1ec
+
+
+@WadaiTable:0.25.0 - e256569e
+
+
+@WadaiTable:0.26.0 - c5dc3aa7
+
+
+@WadaiTable:0.27.0 - 7686014f
+
+
+@WadaiTable:0.28.0 - 9df6df12
+
+
+@WadaiTable:0.29.0 - b1416362
+
+
+@WadaiTable:0.30.0 - 28ff5ffe
+
+
+@WadaiTable:0.31.0 - 5f8e507f
+
+
+@WadaiTable:0.32.0 - d37fc6a5
+
+
+@WadaiTable:0.33.0 - 3e119f29
+
+
+@WadaiTable:0.34.0 - e2a7c4ba
+
+
+@WadaiTable:0.35.0 - e148396e
+
+
+@WadaiTable:0.36.0 - 6f9c2cea
+
+
+@WadaiTable:0.37.0 - cccfb185
+
+
+@WadaiTable:0.38.0 - 88809a51
+
+
+@WadaiTable:0.39.0 - e1c9ab5e
+
+
+@WadaiTable:0.40.0 - e564bd1d
+
+
+@WadaiTable:0.41.0 - f5965bb6
+
+
+@WadaiTable:0.42.0 - e77f7c8d
+
+
+@WadaiTable:0.43.0 - bb7912e6
+
+
+@WadaiTable:1.0.0 - 9b8b569b
+
+
+@WadaiTable:1.1.0 - 8c66e418
+
+
+@WadaiTable:1.2.0 - ba42f73d
+
+
+@WadaiTable:1.3.0 - e148396e
+
+
+@WadaiTable:1.4.0 - 40ea1288
+
+
+@WadaiTable:1.5.0 - c27a843c
+

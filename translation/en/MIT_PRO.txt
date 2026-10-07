@@ -1,0 +1,50 @@
+# MIT_PRO -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MIT_PRO:24 YUM 3d8312ad
+
+
+@MIT_PRO:29.1 - a32ee14d
+
+
+@MIT_PRO:30.0 - b9f5f623
+
+
+@MIT_PRO:30.1 - ff37499c
+
+
+@MIT_PRO:30.2 - ab8e8821
+
+
+@MIT_PRO:30.3 - ba79c225
+
+
+@MIT_PRO:30.4 - e2d4a395
+
+
+@MIT_PRO:30.5 - 9747eb47
+
+
+@MIT_PRO:31 - f2aaf3b1
+
+
+@MIT_PRO:32 - 5f862fd8
+
+
+@MIT_PRO:33.1 - 7006518e
+
+
+@MIT_PRO:47 NAR c32ada47
+
+
+@MIT_PRO:48 NAR a563bf96
+
+
+@MIT_PRO:49 NAR 48650d4a
+
+
+@MIT_PRO:54 YUM 83daccfa
+
+
+@MIT_PRO:55 NAR 17d69ea5
+

@@ -1,0 +1,20 @@
+# YUM_ALB -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@YUM_ALB:85 PLY 97307e0e
+
+
+@YUM_ALB:87 YUM e77f4e95
+
+
+@YUM_ALB:88 PLY 8f7eb314
+
+
+@YUM_ALB:90 YUM dbfa3327
+
+
+@YUM_ALB:91 PLY 2ae95ec7
+
+
+@YUM_ALB:92 YUM ca36e3fa
+

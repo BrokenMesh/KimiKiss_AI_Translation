@@ -239,7 +239,7 @@ def speaker_labels(index):
 
 
 def label_px_for(speaker, labels):
-    """Width reserved for the speaker label in front of line 1 (0 = no label)."""
+    """Where line 1 starts after the speaker label (0 = no label)."""
     if not speaker or speaker == 'SYS':
         return 0
     px = 0
@@ -251,7 +251,8 @@ def label_px_for(speaker, labels):
         if sp == 'PLY':
             lab = max(lab, en_text.NAME_PX)  # replaced by the player's surname at run time
         px = max(px, lab)
-    return px
+    # D-023: line 1 starts at the indent column, or PLATE_GAP_PX after a plate wider than the indent
+    return max(en_text.INDENT_PX, px + en_text.PLATE_GAP_PX)
 
 
 def dialogue_limit(speaker, labels, lines=3):

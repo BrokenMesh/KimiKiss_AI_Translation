@@ -1,0 +1,119 @@
+# NAR_MW3_A -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAR_MW3_A:10 PLY 3a476f4c
+
+
+@NAR_MW3_A:15 NAR 4dc2a5ea
+
+
+@NAR_MW3_A:18 NAR 7ab912fb
+
+
+@NAR_MW3_A:19 PLY 59b464a8
+
+
+@NAR_MW3_A:20 PLY 3374505c
+
+
+@NAR_MW3_A:22 NAR 45e75008
+
+
+@NAR_MW3_A:24 NAR 534b016a
+
+
+@NAR_MW3_A:25 PLY 068eb2fb
+
+
+@NAR_MW3_A:26 NAR 5af45c08
+
+
+@NAR_MW3_A:29 NAR 109afd66
+
+
+@NAR_MW3_A:30 PLY 65928068
+
+
+@NAR_MW3_A:38 SYS 9b3cbf89
+
+
+@NAR_MW3_A:39 NAR af4a8e53
+
+
+@NAR_MW3_A:41 NAR 0a813a41
+
+
+@NAR_MW3_A:47 PLY f6942a3b
+
+
+@NAR_MW3_A:49 NAR 0aeadc18
+
+
+@NAR_MW3_A:53 SYS a77d0776
+
+
+@NAR_MW3_A:54 NAR a7556979
+
+
+@NAR_MW3_A:55 NAR f699c5b7
+
+
+@NAR_MW3_A:56 PLY 7bcaa667
+
+
+@NAR_MW3_A:60 NAR 049b86fa
+
+
+@NAR_MW3_A:61 SYS c2ab9f12
+
+
+@NAR_MW3_A:62 NAR fcf05e4d
+
+
+@NAR_MW3_A:63 NAR 32aef184
+
+
+@NAR_MW3_A:64 NAR c04c5a9f
+
+
+@NAR_MW3_A:65 PLY 6a0ce4d0
+
+
+@NAR_MW3_A:70 SYS 5ca05822
+
+
+@NAR_MW3_A:71 NAR fb6c1141
+
+
+@NAR_MW3_A:72 NAR 24dd3b0b
+
+
+@NAR_MW3_A:73 NAR 817ff8a2
+
+
+@NAR_MW3_A:74 NAR f1ad1d09
+
+
+@NAR_MW3_A:79 PLY 3abb9c73
+
+
+@NAR_MW3_A:93 NAR 079a58d1
+
+
+@NAR_MW3_A:94 PLY 9e21761b
+
+
+@NAR_MW3_A:95 PLY f91b3fc4
+
+
+@NAR_MW3_A:96 PLY 0304f087
+
+
+@NAR_MW3_A:98 PLY 618d61ad
+
+
+@NAR_MW3_A:100 PLY 6f3c9fdd
+
+
+@NAR_MW3_A:101 PLY 112e988a
+

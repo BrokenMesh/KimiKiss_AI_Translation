@@ -1,0 +1,110 @@
+# NAN_MKI -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@NAN_MKI:46 NAN 0dcb9e9c
+
+
+@NAN_MKI:50 NAN bb80dc29
+
+
+@NAN_MKI:54 NAN a9862b22
+
+
+@NAN_MKI:57 NAN 5ff05e70
+
+
+@NAN_MKI:58 NAN 4690503c
+
+
+@NAN_MKI:59 NAN 49f4857f
+
+
+@NAN_MKI:60 NAN 32712b3b
+
+
+@NAN_MKI:64 NAN 79463f1a
+
+
+@NAN_MKI:65 PLY 6c1b2754
+
+
+@NAN_MKI:72 NAN 6c9b2602
+
+
+@NAN_MKI:73 PLY 85969b65
+
+
+@NAN_MKI:74 NAN 0098030c
+
+
+@NAN_MKI:75 PLY 4e6db937
+
+
+@NAN_MKI:78 NAN a2fc6a70
+
+
+@NAN_MKI:79 NAN 3f04a1ce
+
+
+@NAN_MKI:80 PLY 57a964d3
+
+
+@NAN_MKI:81 NAN b0538d4b
+
+
+@NAN_MKI:84 PLY 841493f9
+
+
+@NAN_MKI:85 NAN 534cc7c1
+
+
+@NAN_MKI:89 NAN 7a872d2c
+
+
+@NAN_MKI:91 NAN a9ebd4fc
+
+
+@NAN_MKI:92 PLY 953b81ba
+
+
+@NAN_MKI:94 NAN 065cd534
+
+
+@NAN_MKI:96 PLY 69e5b896
+
+
+@NAN_MKI:97 NAN b574a725
+
+
+@NAN_MKI:98 NAN 3330ea86
+
+
+@NAN_MKI:99 PLY aa05b71e
+
+
+@NAN_MKI:103 NAN d86e592f
+
+
+@NAN_MKI:104 NAN dc1f8ecf
+
+
+@NAN_MKI:105 PLY 086c5029
+
+
+@NAN_MKI:106 NAN eb6c3fa1
+
+
+@NAN_MKI:107 NAN a18fc565
+
+
+@NAN_MKI:108 PLY ae3874ee
+
+
+@NAN_MKI:109 NAN bf5d3840
+
+
+@NAN_MKI:110 NAN 921065cf
+
+
+@NAN_MKI:111 PLY a126c5cb
+

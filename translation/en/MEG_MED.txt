@@ -1,0 +1,128 @@
+# MEG_MED -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MEG_MED:40 MEG 7dc2f076
+
+
+@MEG_MED:43 PLY f125d3df
+
+
+@MEG_MED:44 MEG f9fccdcd
+
+
+@MEG_MED:45 MEG bd0f8683
+
+
+@MEG_MED:46 MEG ccef6017
+
+
+@MEG_MED:48 MEG 10ffd3a7
+
+
+@MEG_MED:50 MEG cee555a5
+
+
+@MEG_MED:51 PLY b8740af6
+
+
+@MEG_MED:52 SYS abf93941
+
+
+@MEG_MED:53 SYS a1c6df68
+
+
+@MEG_MED:55 MEG 235d3bd5
+
+
+@MEG_MED:56 PLY 499877e1
+
+
+@MEG_MED:57 MEG b07e7d7c
+
+
+@MEG_MED:58 PLY e84f6176
+
+
+@MEG_MED:59 PLY eb4f502b
+
+
+@MEG_MED:60 MEG f0049556
+
+
+@MEG_MED:61 PLY 122df4f6
+
+
+@MEG_MED:64 MEG 43b0017c
+
+
+@MEG_MED:65 PLY 1f1747d7
+
+
+@MEG_MED:66 PLY 1f144e40
+
+
+@MEG_MED:69 MEG 2acbf759
+
+
+@MEG_MED:70 PLY 733f2294
+
+
+@MEG_MED:73 MEG 8f2f1789
+
+
+@MEG_MED:74 MEG eb993471
+
+
+@MEG_MED:75 MEG 30744d82
+
+
+@MEG_MED:76 PLY ee1d6efc
+
+
+@MEG_MED:77 PLY 3d796206
+
+
+@MEG_MED:78 MEG b374ab58
+
+
+@MEG_MED:79 PLY 851b6dc4
+
+
+@MEG_MED:80 MEG e8368d66
+
+
+@MEG_MED:81 PLY e03a6130
+
+
+@MEG_MED:82 MEG eb264e30
+
+
+@MEG_MED:83 PLY 2a16b2f5
+
+
+@MEG_MED:84 MEG 421af222
+
+
+@MEG_MED:85 MEG 849964ee
+
+
+@MEG_MED:86 MEG f6cde717
+
+
+@MEG_MED:87 PLY c7a0f914
+
+
+@MEG_MED:88 MEG f8902c9c
+
+
+@MEG_MED:89 MEG 4e15c50b
+
+
+@MEG_MED:90 PLY a002148c
+
+
+@MEG_MED:91 MEG 813efdc8
+
+
+@MEG_MED:92 MEG 6fb42135
+

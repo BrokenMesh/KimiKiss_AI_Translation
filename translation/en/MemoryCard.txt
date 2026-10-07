@@ -1,0 +1,68 @@
+# MemoryCard -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@MemoryCard:11.1 - 8874353d
+
+
+@MemoryCard:11.2 - bd8f7857
+
+
+@MemoryCard:11.3 - 88111472
+
+
+@MemoryCard:11.4 - 8df6b1ac
+
+
+@MemoryCard:11.5 - 6fb42231
+
+
+@MemoryCard:11.6 - 848671ce
+
+
+@MemoryCard:11.7 - 9c37465c
+
+
+@MemoryCard:11.8 - a9bf9417
+
+
+@MemoryCard:11.9 - 9e0d1d59
+
+
+@MemoryCard:11.10 - 871af71c
+
+
+@MemoryCard:11.11 - 5f17fb05
+
+
+@MemoryCard:11.12 - 329b32ed
+
+
+@MemoryCard:11.13 - dcf537f5
+
+
+@MemoryCard:11.14 - 221b3703
+
+
+@MemoryCard:11.15 - 99a2c169
+
+
+@MemoryCard:11.16 - 365f9690
+
+
+@MemoryCard:11.17 - de8efd75
+
+
+@MemoryCard:11.18 - ef688be2
+
+
+@MemoryCard:11.19 - f00cd9c5
+
+
+@MemoryCard:11.20 - 80ad7f36
+
+
+@MemoryCard:11.21 - 1e842499
+
+
+@MemoryCard:11.22 - 01cce3f7
+

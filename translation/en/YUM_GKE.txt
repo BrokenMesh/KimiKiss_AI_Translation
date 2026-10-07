@@ -1,0 +1,134 @@
+# YUM_GKE -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@YUM_GKE:50 PLY 64e5c597
+
+
+@YUM_GKE:52 YUM fd003e66
+
+
+@YUM_GKE:54 PLY f4b9f1b3
+
+
+@YUM_GKE:55 PLY a0dd257d
+
+
+@YUM_GKE:57 YUM c98f5f9f
+
+
+@YUM_GKE:58 PLY c51d6bad
+
+
+@YUM_GKE:59 PLY 6366847d
+
+
+@YUM_GKE:60 YUM 4e224ebb
+
+
+@YUM_GKE:61 PLY 59b464a8
+
+
+@YUM_GKE:65 YUM 1cbe506b
+
+
+@YUM_GKE:66 PLY 2a16b2f5
+
+
+@YUM_GKE:68 YUM 76eb7c9f
+
+
+@YUM_GKE:69 PLY 112a3d43
+
+
+@YUM_GKE:70 YUM 8da9dab1
+
+
+@YUM_GKE:71 YUM f84deb03
+
+
+@YUM_GKE:73 PLY 2229c063
+
+
+@YUM_GKE:74 YUM 51391f05
+
+
+@YUM_GKE:76 YUM 55e3e84d
+
+
+@YUM_GKE:77 YUM bb095751
+
+
+@YUM_GKE:78 PLY 89084412
+
+
+@YUM_GKE:79 YUM f079ab23
+
+
+@YUM_GKE:80 PLY 94406078
+
+
+@YUM_GKE:83 YUM 055da9e4
+
+
+@YUM_GKE:84 PLY b3376227
+
+
+@YUM_GKE:87 PLY 1a799858
+
+
+@YUM_GKE:88 YUM fda1b477
+
+
+@YUM_GKE:89 YUM b89c4643
+
+
+@YUM_GKE:90 PLY 97404292
+
+
+@YUM_GKE:91 YUM 6bad22b8
+
+
+@YUM_GKE:93 YUM 6cd6204e
+
+
+@YUM_GKE:94 YUM 282d6a83
+
+
+@YUM_GKE:95 PLY 1b758669
+
+
+@YUM_GKE:96 YUM 0d868393
+
+
+@YUM_GKE:98 YUM f1c0a6f6
+
+
+@YUM_GKE:100 PLY 78ea5ab3
+
+
+@YUM_GKE:101 YUM 82639a63
+
+
+@YUM_GKE:102 PLY 84780a4b
+
+
+@YUM_GKE:103 YUM f1e8dad4
+
+
+@YUM_GKE:104 YUM 69b2f0ed
+
+
+@YUM_GKE:105 PLY efa97c36
+
+
+@YUM_GKE:109 YUM 37d4d157
+
+
+@YUM_GKE:110 PLY 91107df6
+
+
+@YUM_GKE:111 PLY 3850afdd
+
+
+@YUM_GKE:112 YUM c4aec769
+

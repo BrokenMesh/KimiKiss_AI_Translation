@@ -1,0 +1,440 @@
+# StaffRoll -- English. Edit the line under each @ header. Empty line under a header = untranslated.
+# Format: docs/translation-format.md
+
+@StaffRoll:9.0 - 5e38e342
+
+
+@StaffRoll:9.2 - 89a2ad33
+
+
+@StaffRoll:9.4 - de50db0a
+
+
+@StaffRoll:9.6 - 0449f310
+
+
+@StaffRoll:9.8 - 44e4d1fb
+
+
+@StaffRoll:9.17 - 6694738e
+
+
+@StaffRoll:9.19 - 1da6979c
+
+
+@StaffRoll:9.28 - 575cf085
+
+
+@StaffRoll:9.30 - 2865571f
+
+
+@StaffRoll:9.39 - 34ac32a9
+
+
+@StaffRoll:9.41 - 2c4832ea
+
+
+@StaffRoll:9.50 - ac940b15
+
+
+@StaffRoll:9.52 - 1da6979c
+
+
+@StaffRoll:9.54 - 2865571f
+
+
+@StaffRoll:9.63 - 7d0d433e
+
+
+@StaffRoll:9.65 - 9d9bbe16
+
+
+@StaffRoll:9.69 - 26d10aad
+
+
+@StaffRoll:9.71 - b6ddf914
+
+
+@StaffRoll:9.73 - 5cd79bea
+
+
+@StaffRoll:9.81 - d479ac65
+
+
+@StaffRoll:9.83 - 2c4832ea
+
+
+@StaffRoll:9.90 - 141a9245
+
+
+@StaffRoll:9.92 - c23beaaa
+
+
+@StaffRoll:9.96 - 9620d776
+
+
+@StaffRoll:9.98 - 96c2c01c
+
+
+@StaffRoll:9.102 - a0054569
+
+
+@StaffRoll:9.104 - a4ac0ad2
+
+
+@StaffRoll:9.113 - dd0d0e15
+
+
+@StaffRoll:9.115 - 96c2c01c
+
+
+@StaffRoll:9.119 - 2d198984
+
+
+@StaffRoll:9.121 - 2865571f
+
+
+@StaffRoll:9.123 - 094a33c0
+
+
+@StaffRoll:9.125 - 96c2c01c
+
+
+@StaffRoll:9.127 - 3645db94
+
+
+@StaffRoll:9.129 - 1da6979c
+
+
+@StaffRoll:9.133 - 16531d79
+
+
+@StaffRoll:9.135 - 6b0f8fa8
+
+
+@StaffRoll:9.137 - 8f57a0ec
+
+
+@StaffRoll:9.150 - 43559b6c
+
+
+@StaffRoll:9.154 - 268ae257
+
+
+@StaffRoll:9.158 - ce39fc85
+
+
+@StaffRoll:9.162 - befec0a6
+
+
+@StaffRoll:9.166 - d0bb87fc
+
+
+@StaffRoll:9.170 - d864140d
+
+
+@StaffRoll:9.174 - fe95e185
+
+
+@StaffRoll:9.178 - 45844f8b
+
+
+@StaffRoll:9.182 - 402b2b2d
+
+
+@StaffRoll:9.188 - ce98cca5
+
+
+@StaffRoll:9.192 - 67e5162c
+
+
+@StaffRoll:9.196 - fba5ea0b
+
+
+@StaffRoll:9.197 - 6e56a807
+
+
+@StaffRoll:9.201 - 6549e7d8
+
+
+@StaffRoll:9.202 - fd428141
+
+
+@StaffRoll:9.206 - 6b0a9ca3
+
+
+@StaffRoll:9.214 - bad6656e
+
+
+@StaffRoll:9.216 - b0e96d64
+
+
+@StaffRoll:9.218 - 576760ae
+
+
+@StaffRoll:9.220 - b32c4aaa
+
+
+@StaffRoll:9.223 - ec9a4e8f
+
+
+@StaffRoll:9.226 - 335bbd7b
+
+
+@StaffRoll:9.233 - 9618f5ac
+
+
+@StaffRoll:9.237 - 87caf5e3
+
+
+@StaffRoll:9.239 - bd6526ba
+
+
+@StaffRoll:9.245 - 6376c974
+
+
+@StaffRoll:9.247 - f6b9cc97
+
+
+@StaffRoll:9.254 - 46c4689b
+
+
+@StaffRoll:9.256 - fb8a9aa9
+
+
+@StaffRoll:9.260 - 310719b8
+
+
+@StaffRoll:9.262 - 8f9d2dfe
+
+
+@StaffRoll:9.266 - a9163956
+
+
+@StaffRoll:9.268 - 09ca1f72
+
+
+@StaffRoll:9.272 - 0cc7e681
+
+
+@StaffRoll:9.274 - bcd5a9cb
+
+
+@StaffRoll:9.278 - dcee02fe
+
+
+@StaffRoll:9.280 - 8f9d2dfe
+
+
+@StaffRoll:9.287 - 3d3daf45
+
+
+@StaffRoll:9.289 - bd6526ba
+
+
+@StaffRoll:9.291 - 263a0e8a
+
+
+@StaffRoll:9.298 - e38d80f3
+
+
+@StaffRoll:9.300 - 5edef5d2
+
+
+@StaffRoll:9.302 - 93c01764
+
+
+@StaffRoll:9.304 - c6ec47ba
+
+
+@StaffRoll:9.306 - ad8a68e8
+
+
+@StaffRoll:9.317 - 6709ffb8
+
+
+@StaffRoll:9.319 - c23beaaa
+
+
+@StaffRoll:9.321 - 2c4832ea
+
+
+@StaffRoll:9.325 - b71963fc
+
+
+@StaffRoll:9.327 - de1a6360
+
+
+@StaffRoll:9.334 - 4f728c43
+
+
+@StaffRoll:9.338 - 985afd6f
+
+
+@StaffRoll:9.340 - ddfd655a
+
+
+@StaffRoll:9.344 - b13d33a5
+
+
+@StaffRoll:9.346 - b7a8ab83
+
+
+@StaffRoll:9.348 - c80d8db3
+
+
+@StaffRoll:9.350 - 573ad0d2
+
+
+@StaffRoll:9.352 - 4f5ac1df
+
+
+@StaffRoll:9.354 - 15cfff8b
+
+
+@StaffRoll:9.356 - b17374a3
+
+
+@StaffRoll:9.358 - 43b3dee2
+
+
+@StaffRoll:9.360 - 18f888d7
+
+
+@StaffRoll:9.362 - 82bc335c
+
+
+@StaffRoll:9.364 - c5027670
+
+
+@StaffRoll:9.366 - 7edf3035
+
+
+@StaffRoll:9.368 - ddfd655a
+
+
+@StaffRoll:9.376 - e17b8b87
+
+
+@StaffRoll:9.378 - 4a9a8a26
+
+
+@StaffRoll:9.380 - 72d0ba71
+
+
+@StaffRoll:9.382 - 2865571f
+
+
+@StaffRoll:9.385 - 02f17fee
+
+
+@StaffRoll:9.387 - 917885e8
+
+
+@StaffRoll:9.389 - ea21ca5a
+
+
+@StaffRoll:9.393 - 34c13a2c
+
+
+@StaffRoll:9.395 - ea21ca5a
+
+
+@StaffRoll:9.403 - 28bd4af7
+
+
+@StaffRoll:9.405 - 64b1325a
+
+
+@StaffRoll:9.407 - 8ea480e2
+
+
+@StaffRoll:9.409 - d9e1c008
+
+
+@StaffRoll:9.411 - a3e9ecad
+
+
+@StaffRoll:9.413 - 6caa668a
+
+
+@StaffRoll:9.421 - 37933641
+
+
+@StaffRoll:9.423 - 7dee8e20
+
+
+@StaffRoll:9.431 - 1f6c0d2d
+
+
+@StaffRoll:9.433 - 72d0ba71
+
+
+@StaffRoll:9.437 - 16c4b8ac
+
+
+@StaffRoll:9.439 - 72d0ba71
+
+
+@StaffRoll:9.441 - 67d3badc
+
+
+@StaffRoll:9.448 - 3706cb50
+
+
+@StaffRoll:9.450 - 2e819c00
+
+
+@StaffRoll:9.452 - 0a31ce43
+
+
+@StaffRoll:9.454 - bc70f7f4
+
+
+@StaffRoll:9.466 - 0b329402
+
+
+@StaffRoll:9.470 - bf59b9c1
+
+
+@StaffRoll:9.474 - 54c5cf48
+
+
+@StaffRoll:9.476 - 85d70205
+
+
+@StaffRoll:9.478 - a078bbe9
+
+
+@StaffRoll:9.480 - 05f32a59
+
+
+@StaffRoll:9.484 - 2fd3a349
+
+
+@StaffRoll:9.486 - cbd125ea
+
+
+@StaffRoll:9.488 - 95544784
+
+
+@StaffRoll:9.492 - 2fba3a5a
+
+
+@StaffRoll:9.494 - a7ae6af0
+
+
+@StaffRoll:9.496 - fd847299
+
+
+@StaffRoll:9.500 - 4252894a
+
+
+@StaffRoll:20 - 60b4b479
+
+
+@StaffRoll:23 - 0e122b3a
+
+
+@StaffRoll:25 - a8f48fbd
+
