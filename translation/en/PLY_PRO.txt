@@ -2,298 +2,298 @@
 # Format: docs/translation-format.md
 
 @PLY_PRO:39 SYS 32aadf2b
-
+Summer vacation of my second year of high school is over...{W15}
 
 @PLY_PRO:42 SYS 73275884
-
+It was just over a month with no encounters and nothing else to speak of...{W15}
 
 @PLY_PRO:43 SYS e55de1c7
-
+...I've never been in love.{W15}
 
 @PLY_PRO:44 SYS 2446c43f
-
+There's a girl I admire, but I've hardly even talked to her.{W15}
 
 @PLY_PRO:45 SYS 45ec108b
-
+...Is time just going to keep passing me by like this?{W15}
 
 @PLY_PRO:54 SYS b7107f0b
-
+A kiss... What does a kiss even feel like?
 
 @PLY_PRO:55 SYS e0bfe5fe
-
+Am I going to finish high school without ever knowing what a kiss is like...?
 
 @PLY_PRO:56 SYS 117d9eaa
-
+I can't go on like this! I have to be more proactive...
 
 @PLY_PRO:57 SYS 11d24000
-
+The new term starts tomorrow. I want a high school life with no regrets.
 
 @PLY_PRO:64 NAN d4c62635
-
+"{V0000}Big Bro,{W3}{W55} wake up~! {W40}It's morning~!"
 
 @PLY_PRO:66 PLY 0b2519d5
-
+"Mm..."
 
 @PLY_PRO:67 NAN 0d4c7961
-
+"{V0001}Big Bro!{W15}{W65} You're going to be late~!"
 
 @PLY_PRO:70 PLY 846338bd
-
+"Ugh{W8}...{W8} {W30}Is it morning already..."
 
 @PLY_PRO:84 NAN f80c190b
-
+"{V0002}Heave-ho,{W35} heave-ho."
 
 @PLY_PRO:90 NAN 927e5869
-
+"{V0003}Being late on the very first day of the new term,{W10} that's not okay, you know."
 
 @PLY_PRO:91 PLY 545353fa
-
+"I know... I stayed up late last night, so I'm sleepy..."
 
 @PLY_PRO:92 NAN bea7eac2
-
+"{V0004}Geez,{W40} still half asleep?{W5}{F9}{m4} Oh, what am I going to do with you..."
 
 @PLY_PRO:93 NAN 4f6659c5
-
+"{V0005}Here,{W25} Nana will give you{W10} a wake-up{W3} {Ec}kiss!{W15}{F3}{m4}"
 
 @PLY_PRO:106 PLY d618d051
-
+"{Ts4}What?! A kiss?!"
 
 @PLY_PRO:110 NAN 982c1cba
-
+"{V0006}Huh?! {W15}Eek!"
 
 @PLY_PRO:126 SYS e5df7a8d
-
+{Ti0}{Ts1}{Ts1}{Ts2}{Ts4}Thud!!
 
 @PLY_PRO:127 PLY 02268725
-
+"A-are you okay?! Nana!"
 
 @PLY_PRO:128 NAN f491a437
-
+"{V0007}Ow,{W10} that hurts,{W45} I hit my{W3} butt~!"
 
 @PLY_PRO:129 PLY 7ccdc01c
-
+"Oh good, it's only your butt that took the hit? Then you're fine."
 
 @PLY_PRO:130 NAN fcde7cfe
-
+"{V0008}{W5}It's {W5}not{E}{5} okay,{W50} it really {W10}{Ec}hurts!"
 
 @PLY_PRO:131 PLY b0c61c8f
-
+"Hahaha, well, it woke me up. Come on, let's go."
 
 @PLY_PRO:132 NAN dcebdbb6
-
+"{V0009}Ugh...{W50} I wanted to wake you up in a more{W3} {Ti2}romantic way~!"
 
 @PLY_PRO:134 NAN d0f3291a
-
+"{V0010}I'm{W5} off~!"
 
 @PLY_PRO:135 PLY 91f6971d
-
+"I'm off."
 
 @PLY_PRO:138 NAN 8aa3795b
-
+"{V0011}Ugh...{W65} {Ec}{Sp}my butt{W5} hurts..."
 
 @PLY_PRO:139 PLY b6e2a0b8
-
+"You're overreacting. It was just a little fall off the ladder."
 
 @PLY_PRO:140 NAN 3a052832
-
+"{V0012}It wasn't a little fall!{W10} {F6}I slid down really, really fast!"
 
 @PLY_PRO:141 NAN 52ca4631
-
+"{V0013}If you hadn't yelled like that,{W15} Big Bro,{W5} I wouldn't have fallen..."
 
 @PLY_PRO:142 PLY 50d07d4d
-
+"Uh... well, that's..."
 
 @PLY_PRO:143 PLY 09cf0cb2
-
+"It's because you said you'd wake me up with a kiss..."
 
 @PLY_PRO:144 NAN 01764509
-
+"{V0014}Is it wrong to wake you up with a kiss?"
 
 @PLY_PRO:145 PLY 85bd805d
-
+"O-of course it is! We're brother and sister!"
 
 @PLY_PRO:146 NAN 0318965b
-
+"{V0015}{W5}But we used to, even though we're siblings."
 
 @PLY_PRO:147 PLY 1a7e93ed
-
+"That was when we were little! And only somewhere harmless, like the forehead..."
 
 @PLY_PRO:148 NAN 14b6316c
-
+"{V0016}Ehehe,{W25} you're right.{W30} {F7}We're too old now{W5} for siblings to {F3}{Ec}kiss, right?"
 
 @PLY_PRO:149 PLY d26de510
-
+"Y-yeah, right."
 
 @PLY_PRO:150 PLY fb2c8cee
-
+(Ugh... why am I talking about kissing my sister first thing in the morning?)
 
 @PLY_PRO:152 NAN 6ef7b15e
-
+"{V0017}We got to school{W25} on time, thank goodness."
 
 @PLY_PRO:153 PLY d4568368
-
+"Honestly, you hobbled along like that, so it took longer than I expected."
 
 @PLY_PRO:154 NAN 0b8ece9e
-
+"{V0018}But,{W65} my butt...{W40} {F6}{Ec}it hurts!"
 
 @PLY_PRO:155 PLY cc30b2d5
-
+"...A girl going on and on about her butt is so unladylike."
 
 @PLY_PRO:156 NAN baf97b50
-
+"{V0019}Ehehe,{W30} {Eo}sorry,{W30} I won't say it again."
 
 @PLY_PRO:157 NAN f1f1b542
-
+"{V0020}See you, Big Bro.{W20} If you're free,{W10} come peek into the Year 1 classrooms{W5} too, okay?"
 
 @PLY_PRO:158 PLY 7c45f8d0
-
+"Yeah, I'll do that."
 
 @PLY_PRO:160 NAN 9028d6f2
-
+"{V0021}See you~!"
 
 @PLY_PRO:161 PLY 0fc6a5dd
-
+(Look at that, Nana's walking just fine. Honestly...)
 
 @PLY_PRO:162 - f3d3e0e4
-
+Boy
 
 @PLY_PRO:164 AKI 64cf36cf
-
+"{V5000}Hey, {Nm}.{W10} Morning."
 
 @PLY_PRO:165 PLY 31c6ba98
-
+"Ah... who are you again?"
 
 @PLY_PRO:166 AKI e5dba02b
-
+"{V5001}It's Hiiragi{W6} Akira.{W55} We're classmates. That's cold."
 
 @PLY_PRO:168 PLY 71be7936
-
+"Hahaha, sorry, sorry. Just kidding, Hiiragi. Morning."
 
 @PLY_PRO:169 AKI 7f26508a
-
+"{V0000}Honestly...{W60} you never change,{Eo} do you?"
 
 @PLY_PRO:170 PLY 2cab2315
-
+"Nothing happened over summer vacation. How could I have changed?"
 
 @PLY_PRO:171 AKI 01269f0f
-
+"{V0001}I see...{W50} so it was a lonely summer vacation,{W5} then."
 
 @PLY_PRO:172 PLY f4656714
-
+"Ugh... yeah, it was. So how about you?"
 
 @PLY_PRO:173 AKI d0349056
-
+"{V0002}Same here, pretty much.{W30} No bites at the beach,{W10} in town,{W30} or at the festivals.{W30} {Ec}Wasted effort."
 
 @PLY_PRO:174 PLY dbf0f501
-
+"I see..."
 
 @PLY_PRO:175 PLY df0bb209
-
+(That's right... Hiiragi can walk right up and talk to girls. I'm so jealous...)
 
 @PLY_PRO:176 PLY 2cf14e1b
-
+(...Wait a second... that's it!)
 
 @PLY_PRO:177 PLY ca673132
-
+"Hey, Hiiragi, if you don't mind, could you teach me how to talk to girls?"
 
 @PLY_PRO:178 AKI dc18f8e8
-
+"{V0003}Tips for talking to girls?{W40} You, of all people?{W65} What brought this on?"
 
 @PLY_PRO:179 PLY e8ae208b
-
+"No... it's just... I figured you'd know all sorts of things."
 
 @PLY_PRO:180 AKI b5c5e432
-
+"{V0004}{W3}Hmm{W3}...{W3}"
 
 @PLY_PRO:181 AKI f9061ee4
-
+"{V0005}A new term starts today,{W65} so you're going for a fresh start{W5} too, is that it..."
 
 @PLY_PRO:182 PLY 6c17b4dc
-
+"Yes, yes! Exactly!"
 
 @PLY_PRO:183 AKI ebc01351
-
+"{V0006}I see...{W40} Sure thing.{W40} {Eo}If I'll do, I'll show you the ropes."
 
 @PLY_PRO:184 PLY be724ff3
-
+"Thanks, Hiiragi."
 
 @PLY_PRO:185 AKI 2194803d
-
+"{V0007}Then{W30} meet me behind the school{W5} at lunch."
 
 @PLY_PRO:186 PLY 924a7dda
-
+"B-behind the school?! Why?!"
 
 @PLY_PRO:187 AKI 5fb1b967
-
+"{V0008}Better if no one's around, right?{W50} {Ec}It's probably going to get embarrassing."
 
 @PLY_PRO:188 PLY 6c6b1e77
-
+"R-right..."
 
 @PLY_PRO:189 AKI dc06f1f7
-
+"{V0009}Later.{W20} {Ec}I'll be waiting."
 
 @PLY_PRO:190 PLY fad09d0a
-
+"Ah... Hiiragi..."
 
 @PLY_PRO:191 PLY 14d4d254
-
+(He's gone... Classes are about to start, so where did he go?)
 
 @PLY_PRO:192 PLY a455e29d
-
+(Oh well. For now, I'll head to class.)
 
 @PLY_PRO:193 PLY a2eadfe9
-
+(Ah... isn't that...)
 
 @PLY_PRO:198 TOM 691a47b5
-
+"{V0000}Well then,{W15} I'm counting on you,{W25} Hoshino."
 
 @PLY_PRO:199 YUM d99b7619
-
+"{V0000}Yes,{W55} I understand."
 
 @PLY_PRO:200 PLY 9a3ff432
-
+(Isn't that Ms. Kawada and Hoshino? What are they talking about...?)
 
 @PLY_PRO:201 TOM fd38c350
-
+"{V0001}You're a lifesaver.{W65} Hoshino,{W25} you're so dependable,{W25} I know I can count on you."
 
 @PLY_PRO:202 YUM 17d28259
-
+"{V0001}Th-{W40}that's not{W10} true."
 
 @PLY_PRO:203 PLY 9b2569f5
-
+(Looks like she's asking for a favor...)
 
 @PLY_PRO:204 PLY 1e0d79e1
-
+(Sigh... Hoshino Yuumi, huh... She's so cute...)
 
 @PLY_PRO:205 PLY 2879302c
-
+(I'd like to be friends, but I can never find a chance to talk to her...)
 
 @PLY_PRO:206 TOM de6f97ac
-
+"{V0002}Well, see you."
 
 @PLY_PRO:207 YUM 06c8f69e
-
+"{V0002}Yes.{W30} Excuse me."
 
 @PLY_PRO:208 PLY 65e9bbe7
-
+(Ah! She's coming this way!)
 
 @PLY_PRO:210 YUM f262fd64
-
+"{V0003}Ah..."
 
 @PLY_PRO:211 PLY 634f9920
-
+"Ah..."
 
 @PLY_PRO:213 YUM 1bf1caaf
-
+"......{Eo}"
 
 @PLY_PRO:214 PLY 7f0c5f27
-
+"Ha... hahaha..."
 
 @PLY_PRO:215 PLY b476898c
-
+(She's gone... That was my chance to talk to her...)
 
 @PLY_PRO:216 PLY 67ae0f02
-
+(I can't go on like this. I have to be more proactive...)
 
 @PLY_PRO:217 PLY 41c66459
-
+(Anyway, behind the school at lunch break... Okay.)

@@ -86,6 +86,9 @@ Printable ASCII only: straight `"` and `'`, `...` (never the `…` glyph), `--` 
 - Voice per character: the tone table in `docs/glossary.md` section 1 (soft Yuumi, bubbly polite Narumi, teasing Mao, tomboy Asuka, dry Eriko, formal Mitsuki without contractions, stern Megumu, cheerful Nana).
 - Terms: school festival, Topic Bag, Discipline Committee, Year 1/2/3, Class 2-A, "behind the school". Mao's surname printed 水〆 is Mizusawa.
 - Do not repeat the speaker's name in the line; the plate shows it.
+- Japanese addresses people in the third person ("if Big Bro hadn't yelled", 星乃さん、しっかりしてる): English uses "you" plus a vocative ("If you hadn't yelled, Big Bro").
+- Punctuation after an ellipsis: none ("Ugh... I wanted", never "Ugh...,"). Stammer applies to any repeated first sound, including そ、そっか -> "R-right...".
+- The glossary English is a default, not a word-for-word rule: use the natural word in context (海 can be "the beach", 教室 "class"); add the variant to the glossary if it recurs.
 - Credits are never exported. Dev memos (production notes such as "LV2 kiss, all outfits"): translate literally.
 
 ## Checklist before handing back

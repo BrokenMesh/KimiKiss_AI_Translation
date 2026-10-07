@@ -800,7 +800,9 @@
    "note": "",
    "count": 116,
    "variants": [
-    "homeroom"
+    "homeroom",
+    "class",
+    "classroom"
    ]
   },
   {
@@ -1135,7 +1137,8 @@
    "count": 40,
    "variants": [
     "lunchtime",
-    "Lunch Break"
+    "Lunch Break",
+    "lunch"
    ]
   },
   {
@@ -1820,7 +1823,11 @@
    "kind": "term",
    "note": "date destination; beach is fine; 海パン = swim trunks",
    "weak": true,
-   "count": 114
+   "count": 114,
+   "variants": [
+    "beach",
+    "sea"
+   ]
   },
   {
    "ja": "イタリア",
