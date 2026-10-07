@@ -32,7 +32,7 @@
 "Huh, someone you want me to meet?"
 
 @PLY_TFO:53 - 64c62dc2
-girl
+Girl
 
 @PLY_TFO:62 NAN 8cc86d42
 "{V0026}Come on,{W10} Naru."

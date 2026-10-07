@@ -416,7 +416,7 @@ Slurrrrrp...
 ...And so, I ate the ramen udon.
 
 @NAR_SEV_B:245 - 204912e3
-Lunch Lady
+Cook
 
 @NAR_SEV_B:247 ETG 3cb91ebe
 "Here's today's special, sorry for the wait."

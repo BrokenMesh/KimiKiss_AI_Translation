@@ -908,7 +908,7 @@ Clunk!
 (Not a chance!)
 
 @NAR_FEV:471 - 1b0ea2ad
-Nana & Naru
+Both
 
 @NAR_FEV:472 NAR c89a429f
 "{V1068}Nnnnnnngh!"

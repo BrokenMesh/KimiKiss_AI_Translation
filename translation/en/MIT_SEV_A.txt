@@ -8,7 +8,7 @@
 (Class is right around that corner! Here goes!)
 
 @MIT_SEV_A:53 - 64c62dc2
-a girl
+Girl
 
 @MIT_SEV_A:55 MIT a2246216
 "{V0023}{W10}Eek!"

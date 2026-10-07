@@ -9007,5 +9007,425 @@
   "lines": 0,
   "translate": false,
   "note": "Piece of the choice list built at run time in ALL_FEV (row break or full-width padding between choices); kept as is."
+ },
+ "ASU_DEA:17": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ASU_FEV:601": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ASU_FEV:733": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ASU_KOK_A:141": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ASU_KOK_A:144": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ASU_KOK_B:140": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ASU_KOK_B:143": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ASU_SEV_A:309": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ASU_SEV_A:315": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_ALB:130": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_DEA:85": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_FEV:450": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_GKD_A:132": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_GKD_A:135": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_GKD_B:126": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_KIS_B:198": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_KIS_B:201": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_KIS_B:205": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_SEV_A:356": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_SEV_A:358": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_SEV_A:73": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_SEV_A:76": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_SEV_A:78": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_SEV_B:484": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_SEV_B:487": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "ERI_SEV_B:82": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "GUN_PRO:16": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "MAO_DEA:115": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "MAO_FEV:140": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "MAO_FEV:241": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "MAO_FEV:243": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "MAO_GKD_A:307": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "MAO_GKD_A:317": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "MAO_GKD_A:324": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "MAO_GKD_A:329": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "MAO_SEV_A:334": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "MIT_DEA:45": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "MIT_FEV:677": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "MIT_SEV_A:53": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "MIT_SEV_B:346": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "NAR_DAT_A:137": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "NAR_DEA:32": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "NAR_FEV:104": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "NAR_FEV:402": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "NAR_FEV:471": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "NAR_FEV:648": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "NAR_FEV:89": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "NAR_GKD_A:198": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "NAR_GKD_B:82": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "NAR_SEV_A:159": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "NAR_SEV_B:245": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "PLY_JEV:236": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "PLY_KAZ:111": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "PLY_KAZ:115": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "PLY_PRO:162": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "PLY_TFO:53": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "YUM_DEA:129": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "YUM_FEV:299": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "YUM_GKD_B:123": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
+ },
+ "YUM_SEV_B:196": {
+  "display": "TextWindow",
+  "max_px": 115,
+  "lines": 1,
+  "translate": true,
+  "note": "Scene plate for a minor character, passed to Parson>>setName: (tempName, shown instead of dispName). The whole string is the plate since D-027 (was cut to 3 characters). <= 115 px like the K2_Script plates (D-023, glossary D9); same Japanese, same English."
  }
 }

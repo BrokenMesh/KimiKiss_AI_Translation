@@ -65,7 +65,7 @@
 (A strange girl, huh. Well, that's true...)
 
 @ERI_SEV_B:82 - 64c62dc2
-girl
+Girl
 
 @ERI_SEV_B:85 ERI 078502bb
 "{V5016}{W15}Ma{W21}na{W3}bi{W7}ya{W5}{W7}ni{W5}{W5}{W87} Hi{W8}ka{W55}ri a{W6}fu{W7}re{W5}te{W5}"

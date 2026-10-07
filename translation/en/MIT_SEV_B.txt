@@ -707,7 +707,7 @@ She's a great cook, Shijou. She really is the perfect young lady...
 "Whoa, again."
 
 @MIT_SEV_B:346 - 64c62dc2
-a girl
+Girl
 
 @MIT_SEV_B:348 MIT ffa79d23
 {V5022}"Eeeeeeek!"

@@ -239,7 +239,7 @@
 (...I don't have time to think about that! I have to get back to class!)
 
 @NAR_SEV_A:159 - 204912e3
-Cafeteria lady
+Cook
 
 @NAR_SEV_A:161 ETG 3cb91ebe
 "Here's your daily special, thanks for waiting."

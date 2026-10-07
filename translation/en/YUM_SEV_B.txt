@@ -323,7 +323,7 @@ First, I want to do something about her shyness...
 "{V0138}So,{W10} Naru,{W10} that thing...{W30} it turns out...{W40} it was a mistake!"
 
 @YUM_SEV_B:196 - 64c62dc2
-Girls
+Girl
 
 @YUM_SEV_B:198 NAR 5febfbe5
 "{V0164}What?!{W20} Really?!{W25} I can't believe it!"
