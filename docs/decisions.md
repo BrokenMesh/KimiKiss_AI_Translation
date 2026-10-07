@@ -82,3 +82,4 @@
 - Japanese positions are unchanged, except that the centring term is now a float division, so a centred line with an odd `(n−1)·pitch` moves by half a pixel.
 - `setText:` stores `text` before placing glyphs (both classes), and `TextLine >> setText:` ends with `self setPos`, because glyphs reused from the previous text keep their old position.
 - The alternative, keeping menus fixed-width with character limits, was rejected: the English glyphs are narrow and left-aligned in their cell, so fixed spacing leaves visible gaps after narrow letters.
+- Verified in PCSX2: the name-entry confirm dialog (`ConfirmDialog`, centred `TextLineC`) shows "Use this name? little WWW" evenly spaced and centred, with no gaps after narrow letters. The Japanese name-entry grid and the dialog buttons render as before.
