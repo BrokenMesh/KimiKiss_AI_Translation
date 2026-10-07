@@ -5,7 +5,7 @@ entry	japanese	english	notes
 10	体育館	Gym	map tag, highlighted state
 12	履歴	History	
 14	読書	Reading	
-16	菜々	Nana	given name only (surname is the player's {Nm}); glossary D1
+16	菜々	Girls	night room menu: opens the heroine relationship chart (was "Nana", D-029)
 17	テスト	Test	
 21	日	Sun	weekday (日 = Sunday)
 23	おまけ	Extras	extras/bonus menu; the old TSV read おまかせ
@@ -160,7 +160,7 @@ entry	japanese	english	notes
 393	つづきから	Continue	
 395	好感度ゲージをあげよう！	Raise the affection gauge!	hint banner
 398	決定	OK	
-401	しおり	Bookmark	
+401	しおり	Save	night room menu: opens the save/load/title submenu (D-029)
 402	初期設定に戻す	Reset to Default	settings row
 406	図書室	Library	location panel
 411	1年	Year 1	map tag
