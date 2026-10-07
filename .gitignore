@@ -27,3 +27,6 @@ SCPS_*
 
 # Defensive: the private dir if someone points it inside the repo.
 kimikiss-private/
+
+# Python bytecode.
+__pycache__/
