@@ -2,121 +2,121 @@
 # Format: docs/translation-format.md
 
 @MEG_GKE:25 SYS 1b192009
-
+A mirror match?! Impossible!
 
 @MEG_GKE:53 PLY bc054a7f
-
+"Oh, Kuryuu, are you on your way to the school gate?"
 
 @MEG_GKE:55 MEG 1819ce67
-
+"{V0297}{W12}{Fm4}Oh, {W12}{Nm}. {W15}{F1}That's right."
 
 @MEG_GKE:57 PLY 84780a4b
-
+"Then it's perfect timing."
 
 @MEG_GKE:58 MEG c2a31e27
-
+"{V0298}{W12}Yes, it is."
 
 @MEG_GKE:59 PLY 28e8605b
-
+"Kuryuu."
 
 @MEG_GKE:60 MEG 86b1fb14
-
+"{V0300}{W8}{Fm4}Oh, {Nm}."
 
 @MEG_GKE:61 PLY 63344ed5
-
+"Sorry, have you been waiting long, Kuryuu?"
 
 @MEG_GKE:62 MEG 1832a3ff
-
+"{V0301}{W15}{F1}Not {W1}really{W1}."
 
 @MEG_GKE:63 PLY b627f6d6
-
+"Oh, good."
 
 @MEG_GKE:65 PLY 94406078
-
+"Shall we go, then?"
 
 @MEG_GKE:66 MEG b01441d0
-
+"{V0299}{W12}Yes."
 
 @MEG_GKE:67 MEG 96fed7c1
-
+"{V0302}{W12}Yes."
 
 @MEG_GKE:70 MEG e3d1e599
-
+"{V0303}{W12}{F2}Oh, {Nm}."
 
 @MEG_GKE:71 MEG 8e19b97f
-
+"{V0304}{W12}Yes, {W12}that's right."
 
 @MEG_GKE:72 MEG 993385ea
-
+"{V0305}{F3}{W12}{Ec}It is."
 
 @MEG_GKE:73 MEG cb4ef092
-
+"{V0307}{W15}{Fe2}Oh, {Nm}."
 
 @MEG_GKE:74 MEG f1310ac6
-
+"{V0308}{W15}{F2}Not {W1}really{W1}."
 
 @MEG_GKE:75 MEG 7370db87
-
+"{V0306}{W12}Yes."
 
 @MEG_GKE:76 MEG 49ae57fa
-
+"{V0309}{W8}Yes."
 
 @MEG_GKE:77 MEG ed3fd469
-
+"{V0310}{W12}{F2}Oh, {Nm}."
 
 @MEG_GKE:79 MEG 273665c9
-
+"{V0311}{W8}Yes, {W15}that's right."
 
 @MEG_GKE:80 MEG 277f81be
-
+"{V0312}{W12}{Ec}Hehe, {W39}{Eo}I {W1}guess {W1}so."
 
 @MEG_GKE:81 MEG 50395323
-
+"{V0314}{W8}{F2}Oh, {Nm}."
 
 @MEG_GKE:82 MEG 6953acc0
-
+"{V0315}{W8}{F1}Not really. {W15}{F2}I just{W4} got here."
 
 @MEG_GKE:83 MEG 55613273
-
+"{V0313}{W15}{F2}Yes, {W15}I {W1}guess {W1}so."
 
 @MEG_GKE:84 PLY b3376227
-
+"Shall we go, then?"
 
 @MEG_GKE:85 MEG 5d46a813
-
+"{V0316}{W15}{F2}Yes, {W15}I {W1}guess so."
 
 @MEG_GKE:89 MEG f801537e
-
+"{V0317}{W8}{F2}Oh, {Nm}, {W27}heading to the school gate{W3}{W3}?"
 
 @MEG_GKE:90 PLY 1437c199
-
+"Oh, Kuryuu. Yes, I am."
 
 @MEG_GKE:92 MEG 285168b9
-
+"{V0318}{W8}Then it's perfect timing."
 
 @MEG_GKE:93 PLY 1b758669
-
+"Hahaha, I guess so."
 
 @MEG_GKE:94 MEG b7f57245
-
+"{V0320}{W8}{F2}Oh, {Nm}."
 
 @MEG_GKE:95 MEG 86247edf
-
+"{V0321}{W15}{Ec}It's {W3}fine{W3}. {W39}{Eo}I {W8}just {W3}got {W4}here, {W1}too."
 
 @MEG_GKE:96 MEG c8efa0a4
-
+"{V0319}{W15}Yes, {W15}it is."
 
 @MEG_GKE:97 MEG 16d6032b
-
+"{V0322}{W12}Yes, {W12}let's go."
 
 @MEG_GKE:102 MEG 355a51c6
-
+"{Nm}, {V0328}{W8}is something wrong?"
 
 @MEG_GKE:103 PLY 91107df6
-
+"Huh? Oh, no, it's nothing."
 
 @MEG_GKE:104 PLY 3850afdd
-
+"Okay, let's go!"
 
 @MEG_GKE:105 MEG 242008bb
-
+"{V0329}{W8}{E}Y-{W30}{E}{W15}{E}{W15}yes."

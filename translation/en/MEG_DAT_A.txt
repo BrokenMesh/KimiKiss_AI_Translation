@@ -2,322 +2,322 @@
 # Format: docs/translation-format.md
 
 @MEG_DAT_A:16 PLY 33078fd1
-
+(It's 10:40. Did I come a bit too early?)
 
 @MEG_DAT_A:19 PLY 177e51c6
-
+(Kuryuu isn't here yet, of course.)
 
 @MEG_DAT_A:33 MEG fe888a07
-
+"{V0526}{W10}Oh, {Nm}."
 
 @MEG_DAT_A:34 PLY db2e778f
-
+"Oh, Kuryuu."
 
 @MEG_DAT_A:37 MEG 870b4b16
-
+"{V0527}{W30}...{W30}You're quite early. {W40}I'm surprised."
 
 @MEG_DAT_A:38 PLY 1007736e
-
+"You're early too, Kuryuu."
 
 @MEG_DAT_A:39 MEG/PLY 0d80b9d5
-
+"......"
 
 @MEG_DAT_A:40 MEG 0ad1a610
-
+"{V0529}{W20}...{W60}I wish you'd come to school {W5}this early {Eo}too."
 
 @MEG_DAT_A:41 PLY 0f7adf39
-
+"I knew you'd say that..."
 
 @MEG_DAT_A:42 MEG 8c0017f6
-
+"{V0530}{W10}Hehe."
 
 @MEG_DAT_A:43 PLY b3376227
-
+"Shall we go, then?"
 
 @MEG_DAT_A:44 MEG 29b59164
-
+"{V0531}{W5}Yes, {W2}let's."
 
 @MEG_DAT_A:47 SYS b8c7cce2
-
+...And so, I headed to the pool with Kuryuu.
 
 @MEG_DAT_A:48 MEG 645e38cd
-
+"{V0532}{W10}It's been a long time since I've been to a pool."
 
 @MEG_DAT_A:49 PLY 5e5b0022
-
+"Oh, really?"
 
 @MEG_DAT_A:50 MEG f5382dbf
-
+"{V0533}{W15}Yes. {W30}{Eo}I often go to the sea with everyone from the dojo, as part of our training."
 
 @MEG_DAT_A:51 PLY d905bbbf
-
+"I see."
 
 @MEG_DAT_A:52 MEG a1b36698
-
+"{V0534}{W10}But {W10}then it's running on the sand, {W20}{Eh}sitting in meditation at a shrine by the sea... {W20}{Eo}it's always stuff like that..."
 
 @MEG_DAT_A:54 MEG 04a892b2
-
+"{V0535}I hardly ever swim at all."
 
 @MEG_DAT_A:55 PLY cdad0561
-
+"Then you have to swim as much as you want today."
 
 @MEG_DAT_A:56 MEG 52c4dbe2
-
+"{V0536}{W5}You're right."
 
 @MEG_DAT_A:57 PLY f94b4825
-
+"Then let's meet at the poolside."
 
 @MEG_DAT_A:58 MEG 1094d8a5
-
+"{V0537}{W10}Yes."
 
 @MEG_DAT_A:60 PLY f7b5c21c
-
+(Lots of people. The pool season's almost over, so maybe it's everyone's last swim of the year?)
 
 @MEG_DAT_A:61 MEG d025a9b8
-
+"{V0538}{W10}Nice weather. {W60}Perfect pool weather."
 
 @MEG_DAT_A:63 PLY 634f9920
-
+"Ah..."
 
 @MEG_DAT_A:64 MEG aa25c2b4
-
+"{V0539}{W20}W-{W40}what?"
 
 @MEG_DAT_A:65 PLY 023b7d7e
-
+"...That's a pretty swimsuit. It suits you."
 
 @MEG_DAT_A:66 MEG 3a95d6f0
-
+"{V0540}{W20}R-{W60}really?"
 
 @MEG_DAT_A:67 MEG db71c372
-
+"{V0541}{W15}My mom {W4}bought it for me. {W39}{Ec}When I said I was going to the pool with a boy, {W15}{Eo}she got {W4}strangely {W6}happy..."
 
 @MEG_DAT_A:68 PLY 696225c1
-
+"I see."
 
 @MEG_DAT_A:69 MEG c47bfb31
-
+"{V0542}{W15}D-{W20}don't stare at me so much..."
 
 @MEG_DAT_A:70 PLY ab23bc61
-
+"That's easy to say, but when we're talking, it's right there in front of my eyes..."
 
 @MEG_DAT_A:71 MEG e11c49c4
-
+"{V0543}{W20}If you keep staring at me like that..."
 
 @MEG_DAT_A:77 MEG 78eacbae
-
+"{V0544}{W10}Heave-ho!"
 
 @MEG_DAT_A:78 PLY ffc5cdbf
-
+"Whoa!"
 
 @MEG_DAT_A:85 MEG ac82ae4e
-
+"{V0545}{W10}...I'll drop you into the pool."
 
 @MEG_DAT_A:86 PLY f791540b
-
+"...You already dropped me in."
 
 @MEG_DAT_A:87 MEG 82fc9dde
-
+"{V0546}{W15}Hehe, {W15}because you're wide open."
 
 @MEG_DAT_A:88 PLY 27383251
-
+"All right! If that's how it is..."
 
 @MEG_DAT_A:89 MEG 1daf5f0a
-
+"{V0547}{W25}Ah! What are you doing?!"
 
 @MEG_DAT_A:90 PLY 0700f90b
-
+"Got your leg!"
 
 @MEG_DAT_A:91 MEG 869b1a77
-
+"{V0548}{W10}Eek! {W5}W-wait!"
 
 @MEG_DAT_A:92 MEG 0d464f7c
-
+"{V0549}{W30}Pwah! {W30}You'll pay for that!"
 
 @MEG_DAT_A:93 PLY 04733997
-
+"Hahaha."
 
 @MEG_DAT_A:94 MEG 4b27ac97
-
+"{V0550}{W20}Challenging me, huh? {W20}I'll give you credit for the nerve, at least!"
 
 @MEG_DAT_A:95 PLY 498b07fd
-
+"All right! Come at me from anywhere!"
 
 @MEG_DAT_A:96 PLY 5fd5fc94
-
+(Without clothes to grab, she shouldn't be able to throw me...)
 
 @MEG_DAT_A:97 MEG c274150a
-
+"{V0551}{W10}Here {W10}I come!"
 
 @MEG_DAT_A:98 PLY fe6f3df5
-
+"W-whoa! She's so fast I can't tell what's happening..."
 
 @MEG_DAT_A:99 MEG 97ca9498
-
+"{V0554}{W20}Got your hand!"
 
 @MEG_DAT_A:100 PLY 4a4b04ac
-
+"Eep..."
 
 @MEG_DAT_A:104 MEG 8c01d2e9
-
+"{V0555}{W15}Take that!"
 
 @MEG_DAT_A:105 PLY ca53f838
-
+"Whoa! I give! I give!"
 
 @MEG_DAT_A:106 MEG 03398c38
-
+"{V0556}{W20}'Give{W10}'? {W30}What's that? {W25}In judo, we say 'I yield'{W5}, you know."
 
 @MEG_DAT_A:107 PLY 98cd34fe
-
+"I yield! I yield!"
 
 @MEG_DAT_A:108 MEG d17be6e2
-
+"{V0557}{W20}Not {W5}yet!"
 
 @MEG_DAT_A:109 PLY 680b5001
-
+"I said I yield..."
 
 @MEG_DAT_A:112 SYS 32ff6777
-
+...And so, we had a fun time at the pool.
 
 @MEG_DAT_A:113 MEG 3577b54a
-
+"{V0558}{W10}That was fun, {Nm}."
 
 @MEG_DAT_A:114 PLY 851b6dc4
-
+"It was."
 
 @MEG_DAT_A:115 MEG dd2efdfd
-
+"{V0559}{W20}Well, {W10}shall we head home?"
 
 @MEG_DAT_A:116 MEG 2f4ce491
-
+"{V0560}{W20}What?"
 
 @MEG_DAT_A:117 PLY 19c544b7
-
+"Um... if you don't mind, want to make a little detour on the way?"
 
 @MEG_DAT_A:118 MEG cc050080
-
+"{V0561}{W10}{E}Eh...{E}?"
 
 @MEG_DAT_A:119 PLY 82053249
-
+"It's not the way home from school, so a detour is okay, right?"
 
 @MEG_DAT_A:120 MEG c19955dc
-
+"{V0562}{W30}That's true, but..."
 
 @MEG_DAT_A:121 MEG 6d10bee8
-
+"{V0563}{W10}......"
 
 @MEG_DAT_A:122 MEG dc66397d
-
+"{V0564}{W20}A detour{W10}... {W40}to where?"
 
 @MEG_DAT_A:123 PLY c2541d4e
-
+"How about Hilltop Park?"
 
 @MEG_DAT_A:124 MEG 1cd8b32d
-
+"{V0565}{W20}Hilltop {W20}Park..."
 
 @MEG_DAT_A:126 MEG ef815aab
-
+"{V0566}{W20}Okay, {W20}as long as we're not late, we can stop by for a little while."
 
 @MEG_DAT_A:127 PLY 5101df1f
-
+"Of course, we'll be back before sunset."
 
 @MEG_DAT_A:128 MEG c7046581
-
+"{V0567}{W5}Yes."
 
 @MEG_DAT_A:129 MEG d5052bb7
-
+"{Nm}."
 
 @MEG_DAT_A:130 PLY 3150f24e
-
+"What?"
 
 @MEG_DAT_A:131 MEG 220de952
-
+"{V0569}{W20}...The view from here is beautiful, {W20}isn't it."
 
 @MEG_DAT_A:132 MEG 09c3ec4e
-
+"{V0570}{W10}......"
 
 @MEG_DAT_A:133 MEG bd8afa9e
-
+"{V0571}{W20}...Thank you for today. {W40}I had a great time."
 
 @MEG_DAT_A:134 PLY f3422159
-
+"...I had a great time too."
 
 @MEG_DAT_A:135 MEG c36aa041
-
+"{V0572}{W15}......"
 
 @MEG_DAT_A:136 MEG 7319f9e1
-
+"{V0573}{W30}But... {W40}Dad must be lonely at home."
 
 @MEG_DAT_A:137 PLY d9372ba1
-
+"Why?"
 
 @MEG_DAT_A:138 MEG a2642e43
-
+"{V0574}{W20}Because {W5}his training {W5}partner, {W5}me, isn't there."
 
 @MEG_DAT_A:140 MEG 3a6812c6
-
+"{V0575}{W20}He's probably... {W30}all alone and lonely, practicing breakfalls by himself."
 
 @MEG_DAT_A:141 PLY 257de5f4
-
+"What about the other students at the dojo?"
 
 @MEG_DAT_A:142 MEG a517956c
-
+"{V0576}{W25}There are some, but {W20}I'm the only one who can keep up with Dad's {W10}practice."
 
 @MEG_DAT_A:143 PLY 542af83a
-
+"I see..."
 
 @MEG_DAT_A:144 MEG 273e234e
-
+"{V0577}{W20}...Dad, {W35}he wanted a boy, you know. {W75}{F1}But, {W35}in the end, all he got {W5}{Ec}was me..."
 
 @MEG_DAT_A:145 MEG 3d5637f8
-
+"{V0578}{W20}Thanks to that, {W20}I was raised just like a boy."
 
 @MEG_DAT_A:146 MEG 9060ca04
-
+"{V0579}{W20}From morning {W10}till night, {W25}every day was nothing but judo..."
 
 @MEG_DAT_A:147 MEG 9d2cc5b1
-
+"{V0580}{W1}It was brutal training that an ordinary girl couldn't have kept up with, but..."
 
 @MEG_DAT_A:148 MEG 27509b05
-
+"{V0581}{W25}Maybe it's in my blood? {W30}Before long, {W20}I found judo incredibly fun..."
 
 @MEG_DAT_A:149 MEG 8cadf861
-
+"{V0582}{W20}These days, the only one who can beat me in the dojo is Dad."
 
 @MEG_DAT_A:150 PLY 76fdc227
-
+"That's amazing."
 
 @MEG_DAT_A:151 MEG a2ba359e
-
+"{V0583}{W30}I... {W60}wanted to live up to Dad's hopes. {W70}{Eh}In everything, {W40}I swore {W15}to be more manly than any boy, {W10}deep down...{Ec}"
 
 @MEG_DAT_A:152 PLY 1e7f8ab0
-
+"Kuryuu..."
 
 @MEG_DAT_A:153 MEG 90003bf3
-
+"{V0584}{W20}Mom {W20}wants me to be more ladylike, though."
 
 @MEG_DAT_A:154 MEG c530b55b
-
+"{V0585}{W15}......"
 
 @MEG_DAT_A:155 MEG f2cf53c9
-
+"{V0586}{W20}...But, {W50}when I'm with you like this, {W40}{Eo}being a girl might be kind of nice{W10}, I think."
 
 @MEG_DAT_A:156 MEG 7165cace
-
+"{V0588}{W30}Hehe, {W50}I've somehow {W5}said things that aren't like me."
 
 @MEG_DAT_A:157 PLY 3f5903cd
-
+"That's not..."
 
 @MEG_DAT_A:158 MEG b996e250
-
+"{V0589}{W10}...It's getting dark. {W30}Shall we go?"
 
 @MEG_DAT_A:159 PLY 777ba6d2
-
+"...Let's go."
 
 @MEG_DAT_A:160 MEG eaf32b3b
-
+"{V0590}{W5}Yes."
 
 @MEG_DAT_A:162 SYS 819aae38
-
+...And so, I spent the day with Kuryuu.
 
 @MEG_DAT_A:163 SYS e0fb995f
-
+There's only one, you know.

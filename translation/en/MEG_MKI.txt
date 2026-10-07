@@ -2,88 +2,88 @@
 # Format: docs/translation-format.md
 
 @MEG_MKI:45 MEG e88341f6
-
+"{V0749}There's no use {W5}talking about {W5}something so difficult, {W30}is there?"
 
 @MEG_MKI:49 MEG c08b3628
-
+"{V0750}Not exactly {W5}a fun {W5}topic, is it."
 
 @MEG_MKI:50 MEG 378b4a21
-
+"{V0748}Hmm... {W50}Is that so? {W50}I've never really thought about it."
 
 @MEG_MKI:53 MEG 0d80b9d5
-
+"......"
 
 @MEG_MKI:54 MEG c441b24f
-
+"{V5015}W-{W40}wait... {W30}Don't {W5}say weird things..."
 
 @MEG_MKI:55 MEG 83054af6
-
+"{V0741}Hmm... {W70}Sounds like an interesting {W10}topic, {W35}but it doesn't feel like the time for it."
 
 @MEG_MKI:57 MEG 1ffa7b1c
-
+"{V0742}If it were any other time, {W5}I'd be interested {W5}in that topic too..."
 
 @MEG_MKI:58 MEG 06ed2703
-
+"{V0743}Sounds like a good {W5}topic, though."
 
 @MEG_MKI:60 MEG 2f9fc305
-
+"{V0744}It's a good topic, {W30}but right now {W5}it's just {W5}not quite it..."
 
 @MEG_MKI:67 MEG 1e95883f
-
+"{V0745}W-{W40}why {W20}are you bringing that up now?"
 
 @MEG_MKI:72 MEG 19b9625a
-
+"{V0762}Eh?! {W5}{F8}O-{W30}out of the blue, what are you saying?!"
 
 @MEG_MKI:73 MEG 23efb0f6
-
+"{V0763}Think about {W5}the flow {W5}of the conversation first!"
 
 @MEG_MKI:74 PLY 6c1b2754
-
+"S-sorry."
 
 @MEG_MKI:79 MEG 796f25ba
-
+"{V5023}......"
 
 @MEG_MKI:81 MEG 0465cf12
-
+"{V5024}Right. {W40}Looking people in the eye when you talk {W5}is a good thing{Ec}."
 
 @MEG_MKI:82 PLY 603c29f3
-
+(No, I wasn't staring at her for that reason...)
 
 @MEG_MKI:84 PLY 28e8605b
-
+"Kuryuu."
 
 @MEG_MKI:85 MEG 0472d9d3
-
+"{V5028}What?"
 
 @MEG_MKI:89 MEG e9d86829
-
+"{V5029}{E}......"
 
 @MEG_MKI:90 MEG 057f5e95
-
+"{V5030}What a {W10}feeble {W5}smile. {W60}{Ec}Men shouldn't {W10}go around grinning {W5}so carelessly{Eo}."
 
 @MEG_MKI:92 MEG 1d4325aa
-
+"{V5034}What?"
 
 @MEG_MKI:94 MEG 2a927fc4
-
+"{V5035}Ah..."
 
 @MEG_MKI:95 MEG 0e0f7111
-
+"{V5036}Oh? {W40}So you can {W5}make a serious face too."
 
 @MEG_MKI:96 MEG 32210db4
-
+"{V5037}You should {W5}look like that all the time."
 
 @MEG_MKI:106 MEG f1134be6
-
+"{V5038}Wah!"
 
 @MEG_MKI:107 MEG 46c2c00f
-
+"{V5039}W-{W30}wait! {W15}What do you think you're doing, all of a sudden!"
 
 @MEG_MKI:108 MEG f10731e3
-
+"{V5040}Honestly... {W40}I can't let my guard down {W5}for a second with you..."
 
 @MEG_MKI:109 MEG aad8e3c6
-
+"{V0751}Hey, {W40}isn't talking to me {W5}boring for you?"
 
 @MEG_MKI:111 MEG 426b079c
-
+"{V0752}Hmm... {W60}{Nm}, you and I {W45}don't seem {W5}to be on the same wavelength."

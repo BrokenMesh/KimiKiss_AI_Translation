@@ -2,82 +2,82 @@
 # Format: docs/translation-format.md
 
 @MEG_DEA:16 PLY 0bea9378
-
+(Phew... It's hot already this morning...)
 
 @MEG_DEA:19 PLY 5daa30e3
-
+(But if I don't run, I'll be late...)
 
 @MEG_DEA:20 PLY c86d3350
-
+(What should I do...)
 
 @MEG_DEA:21.1 - 67b4740e
-
+{Ti0}- Don't run／- Run
 
 @MEG_DEA:23 PLY f4967116
-
+(I'd get drenched in sweat if I ran... A little lateness should be fine.)
 
 @MEG_DEA:27 PLY f20d647a
-
+(I didn't make it after all...)
 
 @MEG_DEA:41 PLY 634f9920
-
+"Ah..."
 
 @MEG_DEA:43 MEG 2c410748
-
+"{Nm}, {V0000}{W5}you're {W1}late {W1}again, {W1}are {W1}you{W1}? {W35}Snap out of your summer vacation daze already{Ti1}!"
 
 @MEG_DEA:46 PLY ba17b99f
-
+"Ugh... Of all people, I got caught by the Discipline Committee's loudest, Kuryuu Megumi..."
 
 @MEG_DEA:47 MEG 8eb30ba5
-
+"{V0001}{W10}Hmph! {W20}Just now, {W10}what did you say?! {W30}It's not Megumi, {W10}it's Megumu! {W30}{Ec}Kuryuu Megumu!"
 
 @MEG_DEA:48 MEG 304262c4
-
+"{V0002}Honestly, {W20}how many times do I have to tell you?"
 
 @MEG_DEA:49 PLY 1dd3c847
-
+"That's easy to say, but the student roster says 'Megumi.'"
 
 @MEG_DEA:51 MEG d58d319d
-
+"{V0003}That's {W1}just {W1}the {W1}name {W1}my {W1}parents {W1}picked {W1}for {W1}me. {W2}{W2}{W2}{W35}{Fe9}It sounds so limp, I hate it."
 
 @MEG_DEA:52 PLY a995174b
-
+"But you can't just say that..."
 
 @MEG_DEA:54 MEG 4b4d7d3c
-
+"{V0004}Anyway, {W15}{Eo}call me Megumi again and I won't forgive you! {W55}If you do..."
 
 @MEG_DEA:58 PLY 4eccbd62
-
+"O-okay! Sorry, sorry!"
 
 @MEG_DEA:59 PLY 4630cf90
-
+(Kuryuu's family runs a judo dojo, and she's a black belt. Defy her and I'll get flung...)
 
 @MEG_DEA:61 MEG 0a046d82
-
+"{V0005}All {W1}I {W1}ask {W1}is {W1}that {W1}you {W1}try {W1}to {W1}get {W1}it {W1}right, {W1}okay? {W1}{W28}From {W1}tomorrow {W1}on, {W2}start going to school properly."
 
 @MEG_DEA:62 PLY 928d9a44
-
+"I'll try..."
 
 @MEG_DEA:63 MEG 0e4e5903
-
+"{V0006}Fine, {W20}you can go to class now."
 
 @MEG_DEA:64 PLY b6ff3360
-
+"See you..."
 
 @MEG_DEA:67 PLY 019e3d13
-
+(Kuryuu Megumi, huh. And there's a nag like that in my own class...)
 
 @MEG_DEA:68 PLY d2e40250
-
+"Okay! Run! I can still make it!"
 
 @MEG_DEA:69 SYS 1c822439
-
+{Ti0}{Ti2}Pitter-patter-patter...
 
 @MEG_DEA:70 PLY d7c57c8d
-
+"Phew, I made it somehow. Thank goodness. The Discipline Committee gets so loud when you're late."
 
 @MEG_DEA:71 SYS 0435caad
-
+...And so I got to school safely.
 
 @MEG_DEA:72 SYS e0fb995f
-
+There's only one, you know.

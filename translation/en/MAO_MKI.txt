@@ -2,112 +2,112 @@
 # Format: docs/translation-format.md
 
 @MAO_MKI:49 MAO 9e3c9325
-
+"{V1533}Sorry. {W30}I couldn't care less, {W10}about that kind of talk."
 
 @MAO_MKI:52 MAO dd3d3e4c
-
+"{V1534}Geez, {W15}I don't want to hear anything that complicated, {W15}okay?"
 
 @MAO_MKI:53 PLY 6c6b1e77
-
+"R-right..."
 
 @MAO_MKI:54 MAO 181ac274
-
+"{V1535}{W5}I'm not good{W5} at it{W5}, you know...{W30} that{W3} kind{W3} of talk..."
 
 @MAO_MKI:55 MAO aebbf979
-
+"{V1536}Sorry to say, {W30}but that's a boring topic..."
 
 @MAO_MKI:56 PLY 499877e1
-
+"I-is it?"
 
 @MAO_MKI:57 MAO d2d83738
-
+"{V1537}Hmm...{W40} Instead of that, {W25}{F2}let's talk about something more fun. {W30}{Ec}Okay?"
 
 @MAO_MKI:60 MAO 5915cebd
-
+"{V1538}{W10}Hey, {W15}hey{W5}, {W20}please don't talk about that{W5}."
 
 @MAO_MKI:62 MAO ce94d2c4
-
+"{V1528}{W5}Hmm{W3}{W3}, {W60}it actually{W2}{W2}{W2} sounds interesting{W3}{W3},{W8} but..."
 
 @MAO_MKI:65 MAO 8f0d822e
-
+"{V1529}{W5}Hmm{W3}{W5}, {W65}I'm not in the mood{W8} to talk about that {W10}right now{W5}..."
 
 @MAO_MKI:66 MAO 0501c461
-
+"{V1530}{W5}Ooh, {W45}that's not a bad{W5} topic{W8}."
 
 @MAO_MKI:67 MAO 58283635
-
+"{V1531}{W3}Hmm{W2}{W3}, {W50}it sounds like fun{W3}{W3}, but{W15} not{W3} right now."
 
 @MAO_MKI:69 MAO 17f25f8d
-
+"{V1532}{W3}Hey, {W15}hey{W5}, {W30}telling me that{W8} right now{W8}, {W3}what am I{W2} supposed to do..."
 
 @MAO_MKI:71 MAO 224d1633
-
+"{V1553}{W10}Eeh?! {W30}S-so suddenly,{W30} {W10}what are you{W5} saying?!"
 
 @MAO_MKI:72 PLY 6c1b2754
-
+"S-sorry."
 
 @MAO_MKI:83 MAO 575403c1
-
+"{V1920}{W5}Hm?"
 
 @MAO_MKI:84 SYS 9b3cbf89
-
+{Ti0}{Ti2}Staaare...
 
 @MAO_MKI:85 MAO 78423455
-
+"{V1921}{W5}What's wrong? {W33}Why{W5} did you suddenly{W8} go quiet? {W3}{W30}{Sd}Are we done{W8} talking already?"
 
 @MAO_MKI:86 PLY 1c80789b
-
+"N-no, it's not that..."
 
 @MAO_MKI:89 PLY 439f97f3
-
+"Mao."
 
 @MAO_MKI:90 MAO 7da54a36
-
+"{V1922}{W5}Hm?"
 
 @MAO_MKI:94 MAO 0d80b9d5
-
+"......"
 
 @MAO_MKI:96 MAO 968717cd
-
+"{V1924}{W8}W-{W30}what? {W30}What's up with you,{W15} suddenly{W3} grinning{W3} like that?"
 
 @MAO_MKI:97 MAO bb67983f
-
+"{V1925}{W3}That's not cool, {W15}laughing{W5} at a memory like that."
 
 @MAO_MKI:98 PLY 76a622ad
-
+"No, it's not like that..."
 
 @MAO_MKI:100 MAO b9e3a604
-
+"{V1926}Hm?"
 
 @MAO_MKI:103 MAO 516227a0
-
+"{V1927}{Sp}{W8}W-{W30}what's wrong? {W30}You're knitting{W3} your brow. {Sd}{Fe9m7}{W15}Did you{W5} bite your tongue or something?"
 
 @MAO_MKI:104 PLY 384136a9
-
+"N-no... It's nothing..."
 
 @MAO_MKI:113 MAO a4e2b57c
-
+"{V1928}{W5}Ow{W5}{W3}!"
 
 @MAO_MKI:114 PLY 77e38448
-
+"Ah, s-sorry!"
 
 @MAO_MKI:115 MAO cf71a9e8
-
+"{V1929}{W8}Geez, {W15}what's that for? {W30}I can't match you{W5}{W5} in a grip{W3} contest. {W15}It's not like when{W3} we were{W3} kids{W3}, you know."
 
 @MAO_MKI:116 PLY e1eed651
-
+"Y-yeah, you're right. Hahaha..."
 
 @MAO_MKI:118 MAO b3b5a584
-
+"{V1539}{W5}Hmm{W3}{W5}...{W60} somehow{W3} {W30}our talk{W5} isn't{W1} clicking."
 
 @MAO_MKI:119 PLY 511b320d
-
+"Y-yeah."
 
 @MAO_MKI:120 MAO 8b30b859
-
+"{V1540}{W3}...{W10}Hey, {W33}are you bored{W8} talking{W5} with me{W15}?"
 
 @MAO_MKI:121 PLY ae3874ee
-
+"N-no, not at all."
 
 @MAO_MKI:122 MAO 15960135
-
+"{V1541}{W5}Is{W3} that so? {W45}{F6}{Ec}Then{W5} that's fine, but..."

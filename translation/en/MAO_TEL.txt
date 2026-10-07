@@ -2,175 +2,175 @@
 # Format: docs/translation-format.md
 
 @MAO_TEL:10 PLY 31318805
-
+"Hello, this is the {Nm} residence."
 
 @MAO_TEL:12 MAO 46e26492
-
+"{V1352}{W4}Oh, {W8}{Nn}? {W10}It's me{W3}..."
 
 @MAO_TEL:13 PLY da55c070
-
+"Oh, Mao?"
 
 @MAO_TEL:16 MAO 98a863bb
-
+"{V1353}{W8}Sorry for calling{W4}{W5} so late{W5}{W5} at night{W2}{W2}{W2}."
 
 @MAO_TEL:17 PLY d07175ed
-
+"No, it's fine, but what's up?"
 
 @MAO_TEL:20 MAO 36061419
-
+"{V1354}{W20}Well...{W84} um, {W45}about our{W5} weekend{W5}{W4} date{W4}{W4}, {W41}I can't{W1} go{W1} after all{W1}, you{W1} see{W1}..."
 
 @MAO_TEL:21 PLY 96724a2a
-
+"What? Why?"
 
 @MAO_TEL:23 MAO 8b3edf1d
-
+"{V1355}{W7}Something{W2}{W1} came up{W2}{W1} that I absolutely{W2}{W1} can't{W2}{W1} get out of{W1}{W1}{W1}{W1}{W1}{W1}, {W25}and so..."
 
 @MAO_TEL:24 PLY 6c6b1e77
-
+"Oh... I see..."
 
 @MAO_TEL:25 MAO f98d7740
-
+"{V1356}{W5}I'm{W1} so{W1} sorry{W1}{W1}..."
 
 @MAO_TEL:27 MAO bf58fe17
-
+"{Nn}, {V1357}{W12}Ask{W5} me{W5} again{W5}{W4}. {W36}I might {W16}be able{W1} to{W1} go{W1} by then{W1}{W1}{W1}{W1}{W1}, you{W1} never{W1} know."
 
 @MAO_TEL:29 PLY 541c3cfd
-
+"Okay."
 
 @MAO_TEL:30 MAO 46bf2cea
-
+"{V1358}{W5}See you...{W55} Good night."
 
 @MAO_TEL:31 PLY 41903989
-
+"Yeah. Good night."
 
 @MAO_TEL:34 PLY f75d6b6c
-
+(What a letdown...)
 
 @MAO_TEL:36 MAO ed6f75c8
-
+"{Nn}, {V1359}{W8}it's{W10} me!"
 
 @MAO_TEL:37 PLY b7cef269
-
+"Oh, Mao. What's up?"
 
 @MAO_TEL:38 MAO ba83a9b6
-
+"{V1360}{W14}Don't ask 'What's up?' like that! {W14}Why{W1} didn't{W1} you{W1} come{W4} today{W1}{W1}?!"
 
 @MAO_TEL:39 PLY 6a228046
-
+"Ah!"
 
 @MAO_TEL:40 PLY c7d5a02f
-
+(Right... I promised Mao...)
 
 @MAO_TEL:41 PLY 394c1f5d
-
+"S-sorry, Mao."
 
 @MAO_TEL:43 MAO f8f52120
-
+"{V1361}{W7}Before{W4}{W3} you apologize{W4}{W3}, tell me the reason! The reason!"
 
 @MAO_TEL:44 PLY 3cd512cb
-
+"Sorry... Mao. Anything I say would just be an excuse..."
 
 @MAO_TEL:45 MAO 153a7d96
-
+"{V1362}{W3}...Honestly{W1}{W1}, {W38}do you{W3} have any{W4} idea{W2} how many{W1} hours{W2} I waited{W1}{W1}{W1}{W2}{W1}{W1}{W2}{W2}?"
 
 @MAO_TEL:46 PLY 4f8d5470
-
+"I'm sorry! I'm really sorry! I'll ask you out again next time. Please forgive me!"
 
 @MAO_TEL:47 MAO f4d1de63
-
+"{W2}...{W2}...{W2}"
 
 @MAO_TEL:49 MAO 14939577
-
+"{V1364}{W7}If you stand me up again{W19}, you'll be in big trouble."
 
 @MAO_TEL:50 PLY b7f60c52
-
+"You forgive me?"
 
 @MAO_TEL:52 MAO a190fb74
-
+"{V1365}{W6}...{W1}I'll{1} forgive{W1} you{W1}{W1}."
 
 @MAO_TEL:53 PLY 8e394929
-
+"Thanks, Mao."
 
 @MAO_TEL:54 MAO a820f482
-
+"{V1366}{W6}Phew{W1}{W1}...{W95} Yelling{W2}{W3}{W3}{W2} made me{W2} feel a little{W2} better{W2}."
 
 @MAO_TEL:56 MAO 90e20bfd
-
+"{V1367}{W3}Good night, {Nn}."
 
 @MAO_TEL:57 PLY 0906e9dc
-
+"Good night, Mao..."
 
 @MAO_TEL:58 PLY 3c27ee02
-
+(I really shouldn't stand her up...)
 
 @MAO_TEL:59 MAO 73564d51
-
+"{V1368}{W6}Oh, {W10}{Nn}? {W20}It's{W4} me{W4},{W4} it's{W4} me{W2}~"
 
 @MAO_TEL:60 PLY 3c4dc00a
-
+"Mao? What's wrong? Calling this late at night."
 
 @MAO_TEL:61 MAO 9d5984df
-
+"{V1369}{W8}It's just... {W46}{Nn}{W4}, I{W3} wanted{W3} to hear your voice{W10}{W2}{W2}{W2}{W2}{W2}{W2}..."
 
 @MAO_TEL:62 PLY 7cb658b8
-
+"Huh...?"
 
 @MAO_TEL:63 MAO 581961a6
-
+"{V1370}{W12}Were{W3} you{W3} already{W2} asleep{W2}? {W24}Sorry."
 
 @MAO_TEL:64 PLY 6b2e45cd
-
+"No, I wasn't asleep, so it's fine."
 
 @MAO_TEL:65 MAO 202dfe98
-
+"{V1371}{W27}Okay, {W34}good..."
 
 @MAO_TEL:66 PLY 286ca566
-
+(What's wrong with Mao? She sounds down...)
 
 @MAO_TEL:67 MAO 4f53d17b
-
+"{V1372}{W9}{Nn}{W4}, {W37}don't you ever have{W8} those{W2} vaguely{W3}{W3}{W3} sad{W3}{W3}{W3} nights{W2}...{W10}?"
 
 @MAO_TEL:68 PLY a20e2fde
-
+"Huh? Not particularly..."
 
 @MAO_TEL:69 MAO 6e7de75a
-
+"{V1373}{W6}I see{W2}..."
 
 @MAO_TEL:70 MAO 209356ba
-
+"{V1374}{W10}Me,{W5} I{W3}...{W119} when I overthink{W3}{W3}{W4}{W3}{W3}{W3}{W3}{W3}, {W39}I sink{W1} deeper{W2} and{W2} deeper{W2}{W2}{W2}{W1}, {W50}and sometimes{W1}{W1}{W1}{W2}{W3}{W1}{W1}{W1}{W1}{W1} I can't float back up."
 
 @MAO_TEL:71 PLY 542af83a
-
+"I see..."
 
 @MAO_TEL:72 MAO 9e190225
-
+"{V1375}{W5}That's... not like me{W2}{W1}{W1}{W1}{W1}{W1}{W1}, I{W1} think{W1}{W1}, but still."
 
 @MAO_TEL:73 PLY 80decc91
-
+"Mao..."
 
 @MAO_TEL:74 PLY c6105723
-
+"...I don't know what to say at a time like this, but I'm glad you called."
 
 @MAO_TEL:75 MAO e9972a71
-
+"{Nn}, {V1376}{W11}Thanks... {W69}I{W7} too{W67} am glad{W2} to talk{W2}{W3} with {Nn}{W3}{W3}{W2}{W2}{W2}{W2}."
 
 @MAO_TEL:76 MAO 0d80b9d5
-
+"......"
 
 @MAO_TEL:77 MAO e495a527
-
+"{V1378}...Yeah, {W64}I'm{W1} okay{W1}{W1}{W1} now. {W50}I'm feeling better."
 
 @MAO_TEL:78 PLY 2f15a205
-
+"Really? Mao?"
 
 @MAO_TEL:79 MAO 19048bf8
-
+"{V1379}Yeah{W1}. {W58}Somehow{W2}{W1}{W2} I think{W2} I can{W1} sleep{W1}."
 
 @MAO_TEL:80 MAO 4c6d2b09
-
+"{V1380}{W6}After one{W4} night's{W5} sleep{W4}{W4}, {W1}I'll{W2} be{W2} fine{W2}{W2}{W2}. {W63}Good night, {Nn}."
 
 @MAO_TEL:81 PLY 013385d3
-
+"Good night, Mao."
 
 @MAO_TEL:82 PLY 1e947cde
-
+(To think Mao would lean on me...)

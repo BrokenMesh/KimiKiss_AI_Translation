@@ -2,127 +2,127 @@
 # Format: docs/translation-format.md
 
 @MEG_MED:40 MEG 7dc2f076
-
+"{V0761}Hey, {W40}that's all you've been talking about since earlier!{Ec}"
 
 @MEG_MED:43 PLY f125d3df
-
+"R-right. Sorry."
 
 @MEG_MED:44 MEG f9fccdcd
-
+"{V0764}Hehe, {W30}{Ec}they're all fun {W2}topics, aren't they?{Eo}"
 
 @MEG_MED:45 MEG bd0f8683
-
+"{V0765}Oh? {W55}{F3}They're all good {W2}topics, aren't they?{Ec}"
 
 @MEG_MED:46 MEG ccef6017
-
+"{V0766}Hmm, {W60}{F2}you know {W3}lots of {W3}fun topics, don't you."
 
 @MEG_MED:48 MEG 10ffd3a7
-
+"{V0767}Hmm, {W50}{F2}you know {W3}lots of good topics, don't you."
 
 @MEG_MED:50 MEG cee555a5
-
+"{Nm}, {V0770}shall we {W5}talk a bit more? {W30}It's {W3}getting lively, {W10}{F9}so it'd be a waste to stop."
 
 @MEG_MED:51 PLY b8740af6
-
+"True. Then..."
 
 @MEG_MED:52 SYS abf93941
-
+{Ti0}.{W15} .{W15} .
 
 @MEG_MED:53 SYS a1c6df68
-
+And so, the two of us spent a pleasant time together.
 
 @MEG_MED:55 MEG 235d3bd5
-
+"{V0768}{Nm}, the {W5}things you want {W3}to talk {W3}about... {W25}{Ec}they just don't {W15}really {W5}click {W5}with me{Eo}."
 
 @MEG_MED:56 PLY 499877e1
-
+"R-really?"
 
 @MEG_MED:57 MEG b07e7d7c
-
+"{V0769}Yes. {W50}Why don't we {W10}try a {W10}completely different topic?"
 
 @MEG_MED:58 PLY e84f6176
-
+"A completely different topic, huh... Okay."
 
 @MEG_MED:59 PLY eb4f502b
-
+(All right! Change gears and come up with a different topic!)
 
 @MEG_MED:60 MEG f0049556
-
+"{V0818}Oh, {W30}that's right! {W20}I have something to do{F1}."
 
 @MEG_MED:61 PLY 122df4f6
-
+"Huh?"
 
 @MEG_MED:64 MEG 43b0017c
-
+"{V0819}Sorry {W3}to interrupt, {W20}but I have to go. {W30}See you."
 
 @MEG_MED:65 PLY 1f1747d7
-
+"Ah... S-see you."
 
 @MEG_MED:66 PLY 1f144e40
-
+(Ah... she's gone... The conversation wasn't getting anywhere...)
 
 @MEG_MED:69 MEG 2acbf759
-
+"{V0820}W-{W35}why {W2}do you keep bringing up stuff like that...?"
 
 @MEG_MED:70 PLY 733f2294
-
+"Huh? What kind of stuff?"
 
 @MEG_MED:73 MEG 8f2f1789
-
+"{V0821}As for what kind of stuff, {W5}{Eo}it's exactly that kind of stuff!"
 
 @MEG_MED:74 MEG eb993471
-
+"{V0822}Honestly... {W50}{Ec}now I'm getting all {Eo}embarrassed..."
 
 @MEG_MED:75 MEG 30744d82
-
+"{V0823}S-{W30}see you!"
 
 @MEG_MED:76 PLY ee1d6efc
-
+"Ah... Kuryuu..."
 
 @MEG_MED:77 PLY 3d796206
-
+(She's gone... Did I talk about too many embarrassing things?)
 
 @MEG_MED:78 MEG b374ab58
-
+"{V0824}Class is about to start. {W30}{F3}I'd better get to my seat."
 
 @MEG_MED:79 PLY 851b6dc4
-
+"You're right."
 
 @MEG_MED:80 MEG e8368d66
-
+"{V0825}See you, {Nm}. I had fun{Ec}."
 
 @MEG_MED:81 PLY e03a6130
-
+"Yeah, see you."
 
 @MEG_MED:82 MEG eb264e30
-
+"{V0826}Well, I'd better get going."
 
 @MEG_MED:83 PLY 2a16b2f5
-
+"Already?"
 
 @MEG_MED:84 MEG 421af222
-
+"{V0827}Yes, {W30}I had fun. {W20}{Eo}See you."
 
 @MEG_MED:85 MEG 849964ee
-
+"{V0828}It's almost {W3}time for class. {W25}See you, {F1}{Nm}."
 
 @MEG_MED:86 MEG f6cde717
-
+"{V0829}Well, I'd better get going. {W30}See you, {Nm}."
 
 @MEG_MED:87 PLY c7a0f914
-
+"Kuryuu, sorry. I have to get going..."
 
 @MEG_MED:88 MEG f8902c9c
-
+"{V0830}Huh? {W30}Really?"
 
 @MEG_MED:89 MEG 4e15c50b
-
+"{V0831}We were {W3}just getting into it...{Ec}"
 
 @MEG_MED:90 PLY a002148c
-
+"Sorry. Let's pick the conversation up next time."
 
 @MEG_MED:91 MEG 813efdc8
-
+"{V0832}It can't be helped. {W50}...Well, {W5}see you."
 
 @MEG_MED:92 MEG 6fb42135
-
+"{V0833}Oh? {W35}Well, {W5}{F1}see you."

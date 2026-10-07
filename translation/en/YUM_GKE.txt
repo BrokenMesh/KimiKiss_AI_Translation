@@ -2,133 +2,133 @@
 # Format: docs/translation-format.md
 
 @YUM_GKE:50 PLY 64e5c597
-
+"Oh, Hoshino, are you on your way to the school gate?"
 
 @YUM_GKE:52 YUM fd003e66
-
+"{V0711}{F3}{Ec}{W8}Yes."
 
 @YUM_GKE:54 PLY f4b9f1b3
-
+"Great. Perfect timing."
 
 @YUM_GKE:55 PLY a0dd257d
-
+"Hoshino, sorry. Did you wait long?"
 
 @YUM_GKE:57 YUM c98f5f9f
-
+"{V0721}{W8}No,{W1}{W1}{W36} I{W8} just got here."
 
 @YUM_GKE:58 PLY c51d6bad
-
+"Oh, good."
 
 @YUM_GKE:59 PLY 6366847d
-
+"Come to think of it, we're in the same class, so we could have just left the classroom together."
 
 @YUM_GKE:60 YUM 4e224ebb
-
+"{V0722}{W12}{Eo}{F4}Oh,{W24} that's{W1} right{W1}.{W39} {F3}{Ec}Fufu{W1}{W1}."
 
 @YUM_GKE:61 PLY 59b464a8
-
+"Hahaha."
 
 @YUM_GKE:65 YUM 1cbe506b
-
+"{V0723}{W12}But,{W42} waiting here like this,{W27} it felt{W1} like{W3} we were{W4} really going{W5} home together,{W1} and{W1} it{W1} was{W30} {Ec}so{W3} fun{W1}..."
 
 @YUM_GKE:66 PLY 2a16b2f5
-
+"Really?"
 
 @YUM_GKE:68 YUM 76eb7c9f
-
+"{V0724}{W8}{Eo}Yes.{W66} {Fe9}{Ec}You see,{W33} {B80}I{W8} have{W18} never{W8} gone{W1} home{W3} with{W3} a boy{W4} before."
 
 @YUM_GKE:69 PLY 112a3d43
-
+"R-right. Then, shall we keep meeting here from now on?"
 
 @YUM_GKE:70 YUM 8da9dab1
-
+"{V0740}{W8}Fufu,{W3}{W3}{W39} {Ec}that{W4} sounds good."
 
 @YUM_GKE:71 YUM f84deb03
-
+"{V0727}{W8}{Ec}No,{W1}{W1}{W24} I{W8} just got here{Eo}."
 
 @YUM_GKE:73 PLY 2229c063
-
+"Come to think of it, we're in the same class, so we could have just left the classroom together."
 
 @YUM_GKE:74 YUM 51391f05
-
+"{V0713}{W12}Oh,{W37} you're{W1} right{W1}...{W1}{F9}"
 
 @YUM_GKE:76 YUM 55e3e84d
-
+"{V0714}{W12}But,{W30} waiting here like this,{W30} it felt{W1} like{W3} we were{W4} really going home together,{W8} and{W22} {Ec}it was{W4} so{W1} much{W1} fun..."
 
 @YUM_GKE:77 YUM bb095751
-
+"{V0715}{W8}{Eo}Yes.{W66} {Fe9}{Ec}You see,{W36} {B80}I{W8} have{W42} never{W8} gone{W1} home{W3} with{W3} a boy{W4} before{W1}{W8}."
 
 @YUM_GKE:78 PLY 89084412
-
+"R-right. Then, when we go home together, shall we meet at the school gate from now on?"
 
 @YUM_GKE:79 YUM f079ab23
-
+"{V0740}{F3}{Eo}{W8}Fufu,{W3}{W3}{W39} that{W4} sounds good."
 
 @YUM_GKE:80 PLY 94406078
-
+"Shall we go, then?"
 
 @YUM_GKE:83 YUM 055da9e4
-
+"{V0712}{Ec}{W8}Yes."
 
 @YUM_GKE:84 PLY b3376227
-
+"Shall we go, then?"
 
 @YUM_GKE:87 PLY 1a799858
-
+"Hoshino, sorry to keep you waiting."
 
 @YUM_GKE:88 YUM fda1b477
-
+"{V732}{W12}{Fe9}No,{W51} I{W8} just{W27} got here{W4} too."
 
 @YUM_GKE:89 YUM b89c4643
-
+"{V0731}{W8}Yes."
 
 @YUM_GKE:90 PLY 97404292
-
+"Oh, Hoshino, are you heading to the school gate?"
 
 @YUM_GKE:91 YUM 6bad22b8
-
+"{V0734}{W12}Oh, {Nm}.{W60} {Ec}Yes,{W24} I{W4} just got here{Eo}."
 
 @YUM_GKE:93 YUM 6cd6204e
-
+"{V0737}{W12}No,{W1}{W1}{W1}{W39} I{W9} just{W18} got{W6} here{W1} too,{W1} so{W15} {F3}{Ec}it's{W3} okay{W3}."
 
 @YUM_GKE:94 YUM 282d6a83
-
+"{V0735}{W12}Running into you here,{W5} {Ec}{F2}what a{W4} coincidence{W5}."
 
 @YUM_GKE:95 PLY 1b758669
-
+"Hahaha, you're right."
 
 @YUM_GKE:96 YUM 0d868393
-
+"{V0736}{W8}Yes."
 
 @YUM_GKE:98 YUM f1c0a6f6
-
+"{V0738}{W8}Yes."
 
 @YUM_GKE:100 PLY 78ea5ab3
-
+"Hoshino, heading to the school gate?"
 
 @YUM_GKE:101 YUM 82639a63
-
+"{V0739}{W12}Oh, {Nm}.{P1}{W54} {Ec}{F2}Yes,{W30} I{W5} just got here{Eo}."
 
 @YUM_GKE:102 PLY 84780a4b
-
+"Then it's perfect timing."
 
 @YUM_GKE:103 YUM f1e8dad4
-
+"{V0742}{W12}{Fe4}Oh, {Nm}.{W39} {F3}No,{W2}{W2}{W23} it's{W3} fine{W3}.{W30} {Ec}I haven't{W1} waited{W1} at all{W1}."
 
 @YUM_GKE:104 YUM 69b2f0ed
-
+"{V0743}{W8}Yes."
 
 @YUM_GKE:105 PLY efa97c36
-
+"Really? Good. Let's go, then."
 
 @YUM_GKE:109 YUM 37d4d157
-
+"{Nm}, {V0748}{W12}is{W1} something{W2} wrong{W1}?"
 
 @YUM_GKE:110 PLY 91107df6
-
+"Huh? Oh, no, it's nothing."
 
 @YUM_GKE:111 PLY 3850afdd
-
+"Come on, let's go!"
 
 @YUM_GKE:112 YUM c4aec769
-
+"{V0749}{W12}{Ec}{Fe2}Yes."

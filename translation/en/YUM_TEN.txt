@@ -2,64 +2,64 @@
 # Format: docs/translation-format.md
 
 @YUM_TEN:36 YUM caa508c2
-
+"{V0100}Oh,{W15} {Nm},{W15} good morning."
 
 @YUM_TEN:38 PLY 4b613b16
-
+"Good morning, Hoshino."
 
 @YUM_TEN:41 PLY 6a4f6c30
-
+"...Um, shall we go to class together?"
 
 @YUM_TEN:43 YUM f4696a95
-
+"{V0114}Yes."
 
 @YUM_TEN:44 PLY 94247b8a
-
+"Oh, good morning, Hoshino."
 
 @YUM_TEN:45 YUM 07c76a22
-
+"{V0102}Oh,{W30} {F9}good morning, {Nm}."
 
 @YUM_TEN:47 YUM 8f66a36d
-
+"{V0103}{W10}You're early this morning."
 
 @YUM_TEN:48 PLY 3a06c826
-
+"Hahaha, I guess."
 
 @YUM_TEN:49 PLY 02c50198
-
+"Then... um, shall we go to class together?"
 
 @YUM_TEN:50 YUM 4850d8f6
-
+"{V0105}Good morning, {Nm}."
 
 @YUM_TEN:52 YUM a73a8d10
-
+"{V0106}{W5}It's nice weather again today."
 
 @YUM_TEN:53 PLY 851b6dc4
-
+"It is."
 
 @YUM_TEN:54 PLY 17549952
-
+"Then, shall we go to class together?"
 
 @YUM_TEN:56 YUM afbb7629
-
+"{V0108}Good morning, {Nm}."
 
 @YUM_TEN:58 YUM 36c8e9aa
-
+"{V0109}Fufu,{W40}{Eo} it's such lovely weather."
 
 @YUM_TEN:59 YUM 4cb8085d
-
+"{V0111}Good morning, {Nm}."
 
 @YUM_TEN:60 PLY a3d2c0fb
-
+"Oh, Hoshino. Morning."
 
 @YUM_TEN:61 YUM 9ec47ee9
-
+"{V0112}Today{W15} you're not cutting it close to being late."
 
 @YUM_TEN:62 PLY 7de92c29
-
+"...Am I really late that often?"
 
 @YUM_TEN:63 YUM 7abbd92c
-
+"{V0113}Fufu,{W35}{Eo} a little."
 
 @YUM_TEN:64 PLY 9d6abc0b
-
+"Hahaha, I see."

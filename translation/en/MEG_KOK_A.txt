@@ -2,262 +2,262 @@
 # Format: docs/translation-format.md
 
 @MEG_KOK_A:16 PLY e2a4368b
-
+(I'm meeting Kuryuu at five.)
 
 @MEG_KOK_A:19 PLY 1f963327
-
+(Until then, I'll just kill some time...)
 
 @MEG_KOK_A:25 SYS 2726f820
-
+...And then.
 
 @MEG_KOK_A:40 MEG 70212f23
-
+"{Nm}, {V0650}{W10}I'm here. {W49}{Ec}{W5}{Eo}{F9}What's this about? Calling {W3}me {W3}out {W2}to a place {W2}like this."
 
 @MEG_KOK_A:41 PLY fc92a71b
-
+"Kuryuu, thanks for coming."
 
 @MEG_KOK_A:42 PLY 7008c823
-
+"For now, let's go into the gym."
 
 @MEG_KOK_A:45 MEG c72e998b
-
+"{V0651}{W2}Okay."
 
 @MEG_KOK_A:49 PLY 7bbf1aa9
-
+"Heave-ho... there, that should do it."
 
 @MEG_KOK_A:51 MEG cde60621
-
+"{V0652}{W8}What's the matter? {W3}Laying out mats and everything. {W30}What {W3}are {W3}you {W3}up to?"
 
 @MEG_KOK_A:52 PLY 63dcafba
-
+"Well, I figured it would hurt without a mat."
 
 @MEG_KOK_A:53 MEG 7399377c
-
+"{V0653}{W6}Huh?"
 
 @MEG_KOK_A:54 PLY b9f43870
-
+"I picked this time because everyone's doing the folk dance, so no one will interrupt."
 
 @MEG_KOK_A:56 MEG cfe50fa8
-
+"{V0654}{W10}Wait {W2}a {W2}minute{W2}, {W45}so what {W3}on {W3}earth {W3}are you..."
 
 @MEG_KOK_A:57 PLY 55b79973
-
+"Kuryuu! I challenge you!"
 
 @MEG_KOK_A:59 MEG a00faf34
-
+"{V0655}{W11}A {W6}match{W4}? {W44}Over what?"
 
 @MEG_KOK_A:60 PLY 19f9d2d9
-
+"Judo, of course!"
 
 @MEG_KOK_A:61 MEG 63ed8576
-
+"{V0656}{E}{W7}Eh{E}?! {W34}{E}Judo{W4}{E}?! {W35}{Ec}{W5}{F9}{Eo}{Sp}What's gotten into you, {W10}all of a sudden? {W25}You {W3}can't {W2}possibly {W2}beat me, can you?{Sd}"
 
 @MEG_KOK_A:62 PLY 94068428
-
+"No, I'm going to win."
 
 @MEG_KOK_A:63 PLY b118a7a9
-
+"Unless I'm stronger than you, Kuryuu, I can't get close to you, right?"
 
 @MEG_KOK_A:64 PLY 8349f3e8
-
+"I will definitely beat you, Kuryuu! ...I'll win, because there's something I have to tell you!"
 
 @MEG_KOK_A:65 PLY 575feb83
-
+"It's on! If I win... if I win..."
 
 @MEG_KOK_A:70 PLY 84767c35
-
+"Yaaaah!"
 
 @MEG_KOK_A:71 MEG de9641a9
-
+"{V0659}{W8}Ugh..."
 
 @MEG_KOK_A:82 MEG de76f6e4
-
+"{V0660}{W6}Hyah!"
 
 @MEG_KOK_A:101 SYS a09b935a
-
+{As1}{b255}Wham!{As0}{b0}
 
 @MEG_KOK_A:102 PLY b1ae7c1e
-
+"Guh!"
 
 @MEG_KOK_A:103 PLY 36680316
-
+"Owowowowow..."
 
 @MEG_KOK_A:104 MEG c25e1a9b
-
+"{V0661}{W7}S-{W48}sorry, {W18}{Ec}I just..."
 
 @MEG_KOK_A:105 PLY 7f69bed6
-
+"That's fine, Kuryuu. Don't hold back. This is a serious match."
 
 @MEG_KOK_A:106 MEG 884fa947
-
+"{Nm}..."
 
 @MEG_KOK_A:107 PLY 06891b65
-
+"I won't forgive you if you go easy on me!"
 
 @MEG_KOK_A:108 MEG 9a074f5b
-
+"{V0663}{W6}Hah!"
 
 @MEG_KOK_A:109 SYS 922f5585
-
+{As1}{b205}Thud!{As0}{b0}
 
 @MEG_KOK_A:110 PLY 1942030b
-
+"Not yet!"
 
 @MEG_KOK_A:111 MEG fa1acbd7
-
+"{V0664}{W7}Hyah!"
 
 @MEG_KOK_A:112 SYS 80fc33c0
-
+{As1}{b155}Thud!{As0}{b0}
 
 @MEG_KOK_A:113 PLY c4385d8d
-
+"One more!"
 
 @MEG_KOK_A:114 MEG 1c9dd63f
-
+"{V0665}{W4}...{W4}...{W4}"
 
 @MEG_KOK_A:115 SYS 6471a8e5
-
+{As1}{b128}Thud!{As0}{b0}
 
 @MEG_KOK_A:116 PLY 741e971d
-
+"Come on!"
 
 @MEG_KOK_A:117 MEG 692baa82
-
+"{V0666}{W4}...{W4}...{W4}"
 
 @MEG_KOK_A:118 SYS 3ef596db
-
+{As0}{b128}Thud!{As0}{b0}
 
 @MEG_KOK_A:120 PLY 0dfee0d8
-
+"Ugh... owowowowow..."
 
 @MEG_KOK_A:121 MEG f0be82ef
-
+"{Nm}, {V0667}{W6}please {W4}stop {W4}now{W4}... {W4}{W72}You {W3}can't {W4}win {W2}against {W2}me{W2}, {W2}you know..."
 
 @MEG_KOK_A:122 PLY ff7f81ba
-
+"Haah... haah... haah... haah..."
 
 @MEG_KOK_A:123 PLY ebb09ef1
-
+"Running away?! I'm serious! I will throw you, Kuryuu, no matter what!"
 
 @MEG_KOK_A:124 MEG e301b02b
-
+"{Nm}... {V0668}{W6}Just {W2}what {W2}kind of {W2}man{Eo} {W2}are {W2}you..."
 
 @MEG_KOK_A:125 PLY 444228c4
-
+"Here I come! Take this!"
 
 @MEG_KOK_A:128 MEG 89fdf2f9
-
+"{V0669}{W4}Ah..."
 
 @MEG_KOK_A:144 MEG 9865abd3
-
+"{V0670}{W6}I {W6}... {W130}I lose..."
 
 @MEG_KOK_A:145 PLY b9de10e2
-
+"Ugh... losing on purpose isn't like you, Kuryuu! This is a serious match!"
 
 @MEG_KOK_A:146 MEG a74cef3d
-
+"{V0671}{W4}No{W5}... {W5}no, {W60}not on purpose. {W40}It's not on purpose at all..."
 
 @MEG_KOK_A:147 MEG b17fe1a9
-
+"{V0672}{W9}I... {W94}I {W2}can't {W2}win..."
 
 @MEG_KOK_A:148 MEG 0bafb8da
-
+"{V0673}{W4}Every time I throw you, {W13}your pain {W3}comes through to my chest..."
 
 @MEG_KOK_A:149 MEG 21727715
-
+"{V0674}{W4}I... {W90}I can't... {W40}throw you anymore...{Ec}"
 
 @MEG_KOK_A:150 PLY 1e7f8ab0
-
+"Kuryuu..."
 
 @MEG_KOK_A:151 MEG 1029e19d
-
+"{V0675}{W4}You {W69}are {W4}a far {W3}stronger {W2}person {W2}than I am..."
 
 @MEG_KOK_A:152 MEG 1862aa07
-
+"{V0676}{W5}To me, {W30}you're {W2}the {W2}one {W2}person {W2}who can't be replaced..."
 
 @MEG_KOK_A:153 MEG cce24b81
-
+"{Nm}... {V0677}{W6}For {W4}my {W2}sake, {W2}{W29}you went this far... {W88}I... {W99}I..."
 
 @MEG_KOK_A:154 PLY ef9edf63
-
+"I see... so I won."
 
 @MEG_KOK_A:155 MEG 48f2e9f6
-
+"{V0678}{W6}That's right. {W85}{Ec}You win..."
 
 @MEG_KOK_A:156 PLY bc6054b8
-
+"...Kuryuu... I can finally say it."
 
 @MEG_KOK_A:157 PLY d39f79df
-
+"I like you."
 
 @MEG_KOK_A:158 MEG 8fa85b10
-
+"{V0679}{W4}Ah..."
 
 @MEG_KOK_A:159 MEG 71529888
-
+"{V0680}{W5}Thank you... {W79}I'm so happy..."
 
 @MEG_KOK_A:160 MEG 51b5f063
-
+"{V0681}...Me {W5}too. {W90}{Ec}...I like you."
 
 @MEG_KOK_A:161 MEG bb2352bf
-
+"{Nm}, {V0682}{W5}I {W50}love you so much..."
 
 @MEG_KOK_A:162 MEG ff8d4de1
-
+"{V0683}{W4}I... {W119}I'm glad I was born a {W2}girl."
 
 @MEG_KOK_A:163 MEG af2f78e3
-
+"{V0684}{W5}I'm glad... {W86}that I fell in love with you."
 
 @MEG_KOK_A:164 PLY 9f70570c
-
+"Kuryuu!"
 
 @MEG_KOK_A:165 MEG 3927b892
-
+"{Nm}!"
 
 @MEG_KOK_A:169 MEG f8cb4bf9
-
+"{V0686}{W5}Mm{W4}..."
 
 @MEG_KOK_A:171 PLY 8b51fd78
-
+(Kuryuu...)
 
 @MEG_KOK_A:173 MEG d2aa81b0
-
+"{V0687}{W6}Ah{W4}..."
 
 @MEG_KOK_A:180 SYS 67b527a7
-
+{V5001}{c10}...That I {W5}would ever have someone I like, {W30}who {W5}could have imagined?
 
 @MEG_KOK_A:181 SYS f59b58f0
-
+{V5002}{c10}...That I {W5}would start going out with a boy, {W5}of all things, {W40}who {W5}could have imagined?
 
 @MEG_KOK_A:182 SYS 3775735b
-
+{V5003}{c10}Touched by his {W5}kindness... {W30}learning of his {W5}strength, {W50}I {W10}changed.
 
 @MEG_KOK_A:183 SYS e976bf28
-
+{V5004}{c10}Now, {W30}I don't have to be so stiff anymore. {W65}With him, {W40}I can be gentle too...
 
 @MEG_KOK_A:184 SYS ba9d520f
-
+{V5005}{c10}...This morning too, {W30}I stand at the school gate as a Discipline Committee member.
 
 @MEG_KOK_A:185 SYS de171d36
-
+{V5006}{c10}My checks are as strict as ever. {W65}But {W30}I try to keep smiling as much as I can.
 
 @MEG_KOK_A:186 SYS a0ddbcb1
-
+{V5007}{c10}Rather than getting angry over violations, {W30}I'd be glad if I could {W20}encourage the wish to follow the rules.
 
 @MEG_KOK_A:187 SYS 0bcd6a6c
-
+{V5008}{c10}That's {W30}what we, {W5}the Discipline Committee, are here for.
 
 @MEG_KOK_A:188 SYS 3302dc35
-
+{V5009}{c10}"Honestly, {W40}late again? {W20}Get it together!"
 
 @MEG_KOK_A:189 SYS be88c062
-
+{V5010}{c10}"One or two minutes I can let slide, but if you're five minutes late, I can't overlook it."
 
 @MEG_KOK_A:190 SYS 8aa1bdcf
-
+{V5011}{c10}"Don't think sweet-talking, 'Megumu, {W10}pleeease, {W10}come on,' {W60}will work. {W15}After school, five laps of the schoolyard. {W30}You'll run them properly."
 
 @MEG_KOK_A:191 SYS 2f30606b
-
+{V5012}{c0}"Ahh{W30}... {W60}to think the guy who beat me {W10}is this pathetic."
 
 @MEG_KOK_A:192 SYS 56552c3e
-
+{V5013}{c10}"If you don't get it together, {W20}I'll throw you again."

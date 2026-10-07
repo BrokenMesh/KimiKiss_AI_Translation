@@ -2,181 +2,181 @@
 # Format: docs/translation-format.md
 
 @YUM_TEL:9 PLY 31318805
-
+"Hello, this is {Nm}."
 
 @YUM_TEL:11 YUM 6d1ca87d
-
+"{V1352}{W10}Oh,{W45} I'm sorry{W3} to call{W3} so{W10} late at night.{W43} This is{W3} Hoshino{W3} calling, but..."
 
 @YUM_TEL:13 PLY e8dbe20d
-
+"Oh, Hoshino? It's me."
 
 @YUM_TEL:14 YUM fdd1c4ee
-
+"{V1353}{W8}Ah... {Nm}?"
 
 @YUM_TEL:15 PLY 28c5d3a3
-
+"What's up? It's rare for you to call."
 
 @YUM_TEL:16 YUM 473c5118
-
+"{V1354}{W10}M-{W35}mm..."
 
 @YUM_TEL:17 PLY 53cf1dd0
-
+"Did you need something?"
 
 @YUM_TEL:18 YUM e29b8db0
-
+"{V1355}{W15}Well...{W40} um..."
 
 @YUM_TEL:22 YUM e46a256b
-
+"{V1356}{W15}It's about{W5} this weekend{W6}...{W70} Something I really can't skip{W3} has{W3} come up..."
 
 @YUM_TEL:23 PLY ebfb2f05
-
+"Eh, really?"
 
 @YUM_TEL:25 YUM eb8bc089
-
+"{V1357}{W10}Mm...{W75} I'm sorry.{W85} I{W6} do want to go{W45} with you, {Nm},{W3} but{W3}{W50} it's a{W3} family matter{W5}...{W40} so I really can't..."
 
 @YUM_TEL:26 PLY 542af83a
-
+"I see..."
 
 @YUM_TEL:28 YUM 279a1265
-
+"{Nm}, {V1358}{W3}please ask me{W3} again.{W60} I might,{W20} just might, be able to go."
 
 @YUM_TEL:29 PLY 541c3cfd
-
+"Okay."
 
 @YUM_TEL:33 YUM 96e6282c
-
+"{V1359}{W15}Well then...{W35} good night."
 
 @YUM_TEL:34 PLY 54db2b27
-
+"Good night."
 
 @YUM_TEL:38 PLY f75d6b6c
-
+(What a letdown...)
 
 @YUM_TEL:39 YUM add3879b
-
+"{V1360}{W10}Oh,{W65} I'm sorry{W3} to call{W3} so{W10} late at night.{W30} This is{W3} Hoshino{W3} calling, but..."
 
 @YUM_TEL:40 YUM c0e9fdb1
-
+"{V1361}{W8}Ah... {Nm}?"
 
 @YUM_TEL:41 YUM 40a86fcc
-
+"{V1362}{W10}M-{W40}mm..."
 
 @YUM_TEL:43 YUM b2e1633c
-
+"{V1363}{W10}Um{W8}{W8}...{W33} Listen,{W20} {Nm}.{W50} About today{W3}...{W35} why didn't you come?"
 
 @YUM_TEL:44 PLY 10f1c832
-
+"Huh? ...Ah!"
 
 @YUM_TEL:45 PLY ea876930
-
+(That's right... I made a promise with Hoshino...)
 
 @YUM_TEL:46 YUM 28332feb
-
+"{V1364}{W10}I{W6}...{W35} I waited for you the whole time..."
 
 @YUM_TEL:47 PLY 0fe8c60c
-
+"S-sorry, Hoshino."
 
 @YUM_TEL:49 YUM d3f6e4c6
-
+"{V1365}{W8}Did something{W3} happen?"
 
 @YUM_TEL:50 PLY cba2ffba
-
+"No... it's just... how do I put it... Sorry... anything I say will sound like an excuse..."
 
 @YUM_TEL:51 PLY f8e04961
-
+"I'll never do this again! I'll ask you out again next time, so please forgive me! Please!"
 
 @YUM_TEL:52 YUM 6e6fa15f
-
+"{V1366}{W10}...{W15}...{W10}"
 
 @YUM_TEL:53 YUM 023d98a2
-
+"{V1367}{W10}All right,{W30} I'll forgive{W3} you."
 
 @YUM_TEL:54 PLY c9918b04
-
+"Really?"
 
 @YUM_TEL:55 YUM 6f394903
-
+"{V1368}{W15}But,{W65} really{W3} and{W3} truly{W38}, don't ever{W5} do it again."
 
 @YUM_TEL:56 PLY ce7e3739
-
+"Yeah, I know."
 
 @YUM_TEL:57 YUM 6462c047
-
+"{V1369}{W10}Well then,{W35} good night..."
 
 @YUM_TEL:58 PLY 912a26a6
-
+"Good night, Hoshino."
 
 @YUM_TEL:59 PLY 3c27ee02
-
+(It'd be bad to stand her up...)
 
 @YUM_TEL:60 YUM 1e4d94f1
-
+"{V1370}{W10}Oh,{W55} I'm sorry{W3} to call{W3} so{W10} late at night.{W25} This is{W3} Hoshino{W3} calling, but..."
 
 @YUM_TEL:61 YUM b3a867a9
-
+"{V1371}{W8}Ah... {Nm}?{W10} Sorry,{W15} for calling this{W4} late{W4}."
 
 @YUM_TEL:62 PLY fba4204c
-
+"No, I don't mind."
 
 @YUM_TEL:63 YUM d04a5db7
-
+"{V1372}...{W3}Um,{W80} {Nm},{W5} I{W3} wanted{W35} to hear your voice..."
 
 @YUM_TEL:64 PLY f725dd6d
-
+"Eh..."
 
 @YUM_TEL:65 YUM d85acf89
-
+"{V1373}...{W5}Sorry,{W30} was that{W3} a{W3} bother?"
 
 @YUM_TEL:66 PLY 197f9094
-
+"N-no, not at all. I'm happy you called."
 
 @YUM_TEL:67 YUM 11973639
-
+"{V1374}{W10}Thank you..."
 
 @YUM_TEL:68 YUM 57d9f4fd
-
+"{V1375}...{Nm},{W60} at this time of night{W3},{W10} what do you{W3} usually do?"
 
 @YUM_TEL:69 PLY 5a97e6d0
-
+"Hmm, watching TV, reading manga, or already asleep, I guess."
 
 @YUM_TEL:70 YUM d9dd3066
-
+"{V1376}{W15}Hmm,{W5}{W5}{W5}{W40} I see."
 
 @YUM_TEL:71 PLY ef0a0bb9
-
+"How about you, Hoshino?"
 
 @YUM_TEL:72 YUM 893dfd41
-
+"{V1377}{W12}I{W6}...{W55} read{W3} books,{W30} study{W3}{W5}, or{W30} I'm already asleep."
 
 @YUM_TEL:73 PLY 99e5930d
-
+"Hahaha, so we both do the 'already asleep' thing."
 
 @YUM_TEL:74 YUM fec5e261
-
+"{V1378}{W15}Fufu,{W3}{W3}{W3}{W28} you're right."
 
 @YUM_TEL:75 YUM b8c01452
-
+"{V1379}{W8}...{W8}...{W8}"
 
 @YUM_TEL:76 YUM 24c8accf
-
+"{V1380}...I like{W3} phones,{W45} you know.{W50} Even when we're far apart{W3} like this,{W15} we can{W3} still talk..."
 
 @YUM_TEL:77 PLY 69b86dcb
-
+"Yeah... Even far apart... we can still talk."
 
 @YUM_TEL:78 YUM 1a43dfb9
-
+"{V1381}...Mm{W3}{W3}.{W45} Thank you..."
 
 @YUM_TEL:79 YUM 966522a0
-
+"{V1382}{W12}Phones{W3}...{W50} I can't see{W3} the other person's face{W3},{W25} so I don't{W10} like them much,{W30} but {Nm},{W3} you're different..."
 
 @YUM_TEL:81 YUM 3a3c825a
-
+"{V1383}{W10}With you, {Nm},{W15} just from{W3} your voice{W15} I can tell what face{W3} you're making.{W10} Your{W5} expression{W5} appears{W15} in{W6} my mind..."
 
 @YUM_TEL:82 PLY 5128afa1
-
+"Hoshino..."
 
 @YUM_TEL:83 YUM ccc61149
-
+"{V1384}{W10}Good night.{W20} See you{W5} tomorrow{W3}."
 
 @YUM_TEL:84 PLY 3cfb4dfd
-
+"Yeah, see you tomorrow."

@@ -2,196 +2,196 @@
 # Format: docs/translation-format.md
 
 @MEG_MST:15 - 961bdeb8
-
+Protagonist's cards remaining:
 
 @MEG_MST:27 PLY 249fca32
-
+(Oh... that's Kuryuu.)
 
 @MEG_MST:30.1 - 10830c10
-
+{Ti0}- Talk to Kuryuu／- Don't talk to her now
 
 @MEG_MST:31 PLY 28e8605b
-
+"Kuryuu."
 
 @MEG_MST:45 MEG 48001c51
-
+"{V0688}Oh, {Nm}, {W30}need something?"
 
 @MEG_MST:46 PLY 02b0b595
-
+"Not really, but if you're free, want to talk for a bit?"
 
 @MEG_MST:47 MEG e6410c3e
-
+"{V0689}{E}Huh..."
 
 @MEG_MST:49 MEG d18ffae5
-
+"{V0690}Sure, I guess..."
 
 @MEG_MST:50 PLY 197abfac
-
+"Really? Then what should we talk about..."
 
 @MEG_MST:53 MEG 8b2a0601
-
+"{V0691}I'm a bit busy right now. {W20}{Eo}See you later."
 
 @MEG_MST:54 PLY 730db01d
-
+"Oh... okay, see you."
 
 @MEG_MST:55 MEG 865605d4
-
+"{V0692}Can't you tell? {W30}I have to go change right now{Ec}."
 
 @MEG_MST:56 PLY 67919fb4
-
+"R-right."
 
 @MEG_MST:58 MEG fe7e6cff
-
+"{V0693}Well, see you later."
 
 @MEG_MST:59 PLY c75138fe
-
+(I guess talking to Kuryuu can wait till next time...)
 
 @MEG_MST:70 MEG dac23003
-
+"{V0694}Oh, {Nm}."
 
 @MEG_MST:71 PLY db9cefd3
-
+"Oh, Kuryuu. What is it?"
 
 @MEG_MST:72 MEG ca81c61f
-
+"{V0695}I have {W5}nothing to do... {W45}If you're free, {W5}want to talk about something?"
 
 @MEG_MST:73.1 - ebc8ac86
-
+{Ti0}- Sure／- Sorry, not now
 
 @MEG_MST:75 PLY cf543578
-
+"Sure."
 
 @MEG_MST:76 MEG 69f870dc
-
+"{V0696}Then, {W5}what {W5}shall we talk about?"
 
 @MEG_MST:77 PLY 66aff371
-
+"Sorry, I can't right now."
 
 @MEG_MST:78 MEG 4d7b12c0
-
+"{V0697}Why? {W30}You look {W5}free to me."
 
 @MEG_MST:79 PLY 5c0f3597
-
+"I have something to take care of."
 
 @MEG_MST:80 MEG af0d087c
-
+"{V0698}I see. {W5}Then it can't be helped."
 
 @MEG_MST:81 MEG 38db88dc
-
+"{V0699}Well, see you later."
 
 @MEG_MST:82 PLY e03a6130
-
+"Yeah, see you."
 
 @MEG_MST:83 MEG f53865f9
-
+"{V0700}Oh, {Nm}, {W35}what is it?"
 
 @MEG_MST:84 PLY 77402591
-
+"Um, want to talk for a bit?"
 
 @MEG_MST:85 MEG 37bdca20
-
+"{V0701}Sure. {W20}I was {W5}free anyway."
 
 @MEG_MST:86 PLY 6fad598d
-
+"Great, then..."
 
 @MEG_MST:87 MEG 25172cab
-
+"{V0702}Ah... {W50}Right now, {W5}I'm a little busy."
 
 @MEG_MST:88 PLY 876a2929
-
+"I see..."
 
 @MEG_MST:89 MEG f834bb87
-
+"{V0703}Well, see you later."
 
 @MEG_MST:90 MEG 09b641ff
-
+"{V0704}Talk? {W80}Not now. {W15}I'm about to go change."
 
 @MEG_MST:91 MEG b36b459b
-
+"{V0705}Well, see you later."
 
 @MEG_MST:95 MEG 3d0c3edd
-
+"{V0706}Oh, {Nm}."
 
 @MEG_MST:96 PLY db2e778f
-
+"Oh, Kuryuu."
 
 @MEG_MST:98 MEG 54af10c6
-
+"{V0707}What are you up to? {W25}If you're free, {W5}want to {W5}talk?"
 
 @MEG_MST:99.1 - 4a90b521
-
+{Ti0}- Sure／- Sorry, not right now
 
 @MEG_MST:100 MEG f0206c48
-
+"{V0708}Then, {W15}what {W5}should we talk about?{Eo}"
 
 @MEG_MST:101 PLY fc5f34f8
-
+"Let's see..."
 
 @MEG_MST:102 PLY 9130a981
-
+"Sorry, I can't right now."
 
 @MEG_MST:103 MEG b8cface3
-
+"{V0709}Really? {W45}You look {W5}free to me..."
 
 @MEG_MST:104 MEG ac617979
-
+"{V0710}I see. {W60}Too bad."
 
 @MEG_MST:105 MEG f6ad08d1
-
+"{V0711}Well, see you later."
 
 @MEG_MST:106 PLY 1e7f8ab0
-
+"Kuryuu..."
 
 @MEG_MST:107 MEG d5052bb7
-
+"{Nm}."
 
 @MEG_MST:108 PLY 40e06530
-
+"If you don't mind, want to talk for a bit?"
 
 @MEG_MST:110 MEG 983d378c
-
+"{V0713}Sure. {W30}{Nm}, I was just {W5}in the mood to talk."
 
 @MEG_MST:111 MEG 19bea4e8
-
+"{V0714}Ah... {W50}I'm a bit busy right now..."
 
 @MEG_MST:112 PLY 542af83a
-
+"I see..."
 
 @MEG_MST:113 MEG 7d33ebbd
-
+"{V0715}Sorry. {W20}See you later, then."
 
 @MEG_MST:114 MEG a64b950f
-
+"{V0716}Sorry, {W50}I {W5}can't right now. {W20}I have to go change..."
 
 @MEG_MST:115 MEG 8f00677c
-
+"{V0717}Well, see you later."
 
 @MEG_MST:120 MEG a34fc195
-
+"{Nm}, {V0718}got a minute?"
 
 @MEG_MST:121 MEG edb85ba5
-
+"{V0719}If it's okay, {W30}want to {W5}talk about {W5}something with me?"
 
 @MEG_MST:122.1 - 4a90b521
-
+{Ti0}- Sure／- Sorry, not right now
 
 @MEG_MST:124 MEG bf25d900
-
+"{V0720}Hehe, {W50}so, {W20}what should we talk about?"
 
 @MEG_MST:125 MEG 01232eb5
-
+"{V0721}Huh? {W35}Really? {W50}That's {W5}too bad..."
 
 @MEG_MST:126 MEG b6e8414a
-
+"{V0722}Do you have {W20}something to do?"
 
 @MEG_MST:127 PLY 7d68aa58
-
+"U-um, yeah..."
 
 @MEG_MST:129 MEG 75dc9bd5
-
+"{V0723}I see... {W60}Then it can't be helped."
 
 @MEG_MST:130 MEG d3b4b6be
-
+"{V0724}See you, {Nm}."
 
 @MEG_MST:131 PLY fccf9db2
-
+"Yeah... see you."

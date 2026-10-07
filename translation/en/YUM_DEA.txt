@@ -2,526 +2,526 @@
 # Format: docs/translation-format.md
 
 @YUM_DEA:20 PLY 87b680c7
-
+(I just kind of ended up in the library...)
 
 @YUM_DEA:23 PLY c59fe4f2
-
+(Nothing else to do, so I might as well read something.)
 
 @YUM_DEA:25 PLY 3888ec56
-
+(...Not that there's any book I particularly want to read.)
 
 @YUM_DEA:26 YUM 360da551
-
+"{V0005}Oh,{W15} {Nm}.{W30} Are you looking{W20} for a book?"
 
 @YUM_DEA:28 PLY 122df4f6
-
+"Huh?"
 
 @YUM_DEA:35 PLY 97307e0e
-
+"Ah! Hoshino!"
 
 @YUM_DEA:38 YUM 5d05db83
-
+"{V0006}W-{W30}why are you so surprised?"
 
 @YUM_DEA:39 PLY 76691270
-
+"Oh, no... it's just..."
 
 @YUM_DEA:40 PLY a10504c6
-
+(I can't tell Hoshino it's because I admire her...)
 
 @YUM_DEA:41 PLY 8fcbe938
-
+"I-I was just wondering why you're sitting there..."
 
 @YUM_DEA:42 YUM b8d60b51
-
+"{V0007}Eh...{W60} Well, I'm{W45} on the Library Committee{Ti2}, so..."
 
 @YUM_DEA:43 PLY 660190bc
-
+"What?! R-right, you are. Sorry."
 
 @YUM_DEA:44 YUM a7fe505e
-
+"{V0008}No,{W45} it's okay.{W45} Please don't{Ti2} worry about it."
 
 @YUM_DEA:57 YUM 5ef663c2
-
+"{V0009}I{W45} just don't stand out..."
 
 @YUM_DEA:58 PLY 0d80b9d5
-
+"......"
 
 @YUM_DEA:59 PLY bd531cd6
-
+(True. She's cute, but so quiet she doesn't stand out. ...Which is kind of what I like about her.)
 
 @YUM_DEA:62 YUM c69d28cd
-
+"{V0010}{Nm},{W15} we've been in the same class since Year 1,{W20} but we've hardly ever talked..."
 
 @YUM_DEA:63 PLY 9f6ca6ff
-
+"R-right. Hahaha..."
 
 @YUM_DEA:64 PLY 736d5d55
-
+(I've always wanted to talk to you, though.)
 
 @YUM_DEA:65 YUM 7958ccf9
-
+"{V0011}Are you looking{W20} for{W5} a book?"
 
 @YUM_DEA:66 PLY d053508f
-
+"Ah... um..."
 
 @YUM_DEA:67.1 - f7b2cd06
-
+{Ti0}- Got any book recommendations?／- I just stopped by for no reason／- The library's nice and cool, you know
 
 @YUM_DEA:68 PLY 73cfd394
-
+"Do you have any book recommendations?"
 
 @YUM_DEA:69 YUM 2ac38938
-
+"{V0012}Yes,{W15} of course."
 
 @YUM_DEA:71 YUM bfe919cd
-
+"{V0013}How about{W10} the philosophy book{W10} that's popular{W2} lately?"
 
 @YUM_DEA:72 PLY a88e3e91
-
+"A philosophy book? Sounds kind of hard."
 
 @YUM_DEA:74 YUM fa30ca45
-
+"{V0014}No,{W30}{Eo} actually,{W30} it has manga illustrations and such,{W15} so it's really easy and fun."
 
 @YUM_DEA:75 YUM d7ba3cd0
-
+"{V0015}With real examples,{W30} it explains what it means to be human,{W30} and what love is{Ti2}."
 
 @YUM_DEA:76 PLY 47c9543b
-
+"Oh, wow."
 
 @YUM_DEA:79 YUM 21e624ee
-
+"{V0016}Wait here, I'll go get it."
 
 @YUM_DEA:80 PLY 211b8d89
-
+"Ah, Hoshino..."
 
 @YUM_DEA:82 PLY a0b5ea76
-
+(She's gone... I haven't even said I'd read it yet...)
 
 @YUM_DEA:83 PLY 91b2b23a
-
+(Still, Hoshino gets really enthusiastic when it comes to books.)
 
 @YUM_DEA:84 PLY 477a021a
-
+(In class, Hoshino just sits quietly at her desk all the time...)
 
 @YUM_DEA:85 PLY 3d1b35e3
-
+(......)
 
 @YUM_DEA:86 PLY 432bf2f5
-
+(She's taking a long time to find it.)
 
 @YUM_DEA:87 PLY 0122c884
-
+"Ah, Hoshino."
 
 @YUM_DEA:88 YUM 1cecbba8
-
+"{Nm}, {V0017}I'm sorry.{W15} It looks like someone's borrowed it..."
 
 @YUM_DEA:89 PLY e3eea86e
-
+"Oh. Then another time is fine."
 
 @YUM_DEA:90 YUM fa2a900f
-
+"{V0018}I'm sorry.{W30} Recommending a book that's checked out... what a terrible Library Committee member I am{Ec}."
 
 @YUM_DEA:91 PLY 6f34dde6
-
+"N-not at all. You searched so hard for it."
 
 @YUM_DEA:92 YUM 21897261
-
+"{V0019}{W15}Thank you..."
 
 @YUM_DEA:94 YUM 732ef2c8
-
+"{V0020}I'm happy{W5} to hear you say that."
 
 @YUM_DEA:95 PLY e6a6dc0f
-
+"I just stopped by for no reason."
 
 @YUM_DEA:96 YUM 32d97e93
-
+"{V0021}{W10}I see..."
 
 @YUM_DEA:97 YUM 7c37cddc
-
+"{V0022}If you want to read something,{W10} just ask me anything.{W30} {F2}Recommending books is part of the Library Committee's job."
 
 @YUM_DEA:98 PLY 2b859f54
-
+"Right... I will."
 
 @YUM_DEA:99 PLY 94a6100f
-
+"The library's nice and cool, you know."
 
 @YUM_DEA:100 YUM d735f56a
-
+"{V0023}Hehe...{W31}{Eo} It's air-conditioned in here, after all."
 
 @YUM_DEA:101 PLY 5e3df110
-
+"...Um, I'll get going, then."
 
 @YUM_DEA:102 YUM 770d7db0
-
+"{V0024}Okay."
 
 @YUM_DEA:103 PLY 8331d188
-
+"Hoshino."
 
 @YUM_DEA:104 YUM eeebdf21
-
+"{V0025}Yes?"
 
 @YUM_DEA:105 PLY e6344d56
-
+"We haven't talked much until now... but would it be okay if I talk to you more from now on?"
 
 @YUM_DEA:106 YUM 5ea57116
-
+"{V0026}Eh?"
 
 @YUM_DEA:107 YUM 627857b9
-
+"{V0027}Does that mean,{W60} we're friends?"
 
 @YUM_DEA:108 PLY 87ed2145
-
+"Y-yeah. ...Is that not okay?"
 
 @YUM_DEA:109 YUM 94fe7355
-
+"{V0028}N-{W15}no.{W45} I was just surprised...{W40} {F7}It's just that I{W40} {F6}{Ec}don't have many{W5} friends..."
 
 @YUM_DEA:110 PLY 6c6b1e77
-
+"R-right..."
 
 @YUM_DEA:111 YUM e9c54fd8
-
+"{V0029}......"
 
 @YUM_DEA:112 PLY de122e42
-
+"Actually, I've always wanted to talk to you, Hoshino."
 
 @YUM_DEA:113 YUM 72d03b17
-
+"{V0030}{W10}Eh..."
 
 @YUM_DEA:114 PLY cee0d49e
-
+"...But I never had a good chance. If you don't mind, I'd like us to be friends."
 
 @YUM_DEA:115 YUM 884fa947
-
+"{Nm}..."
 
 @YUM_DEA:117 YUM 6ceea618
-
+"{V0032}{F2}...Thank you.{W30} {F9}I'll{W15} do my best to talk to you too, {Nm}."
 
 @YUM_DEA:118 PLY 75e2c765
-
+"Really?! Then...!"
 
 @YUM_DEA:119 YUM 6f485233
-
+"{V0033}Yes.{W30} I've made a friend,{W50} {Ec}and I'm happy too."
 
 @YUM_DEA:120 PLY f1ddcd53
-
+"All right! Let's talk about all kinds of things from now on!"
 
 @YUM_DEA:121 YUM 5b86cc42
-
+"{V0034}Yes."
 
 @YUM_DEA:122 PLY ff7c139b
-
+"See you, Hoshino."
 
 @YUM_DEA:123 YUM 6bb874d3
-
+"{V0035}Yes,{W10}{Eo} see you,{W10} {Nm}."
 
 @YUM_DEA:126 PLY 7a57105b
-
+(Yes! Hoshino and I are friends now!)
 
 @YUM_DEA:127 PLY 3c5ad950
-
+(So many books, as always... Well, it's a library, so of course.)
 
 @YUM_DEA:128 PLY 0eda5529
-
+(Hmm, looking at the shelves, I've lost any urge to read...)
 
 @YUM_DEA:129 - 64c62dc2
-
+Girl
 
 @YUM_DEA:132 YUM 04a49843
-
+"{V0036}Let's{W10}...{W30} see{W20}... {W45}this book goes{W30} here...{W60} And this one...{W55} up{Ti1} we go."
 
 @YUM_DEA:134 PLY 22c870c2
-
+(Huh? That voice... I feel like I've heard it somewhere.)
 
 @YUM_DEA:135 PLY c58af105
-
+(It came from over here...)
 
 @YUM_DEA:142 YUM e77f4e95
-
+"{V0037}Eh?{W45} ...Oh,{W15} {Nm}."
 
 @YUM_DEA:143 PLY 8f7eb314
-
+"What are you doing?"
 
 @YUM_DEA:144 YUM dbfa3327
-
+"{V0038}{W15}I'm putting the returned books{W45} back where they belong."
 
 @YUM_DEA:145 PLY 2ae95ec7
-
+"I see. They look heavy. Want me to help?"
 
 @YUM_DEA:146 YUM ca36e3fa
-
+"{V0039}No,{W30} it's okay.{W20} I'm almost{W5} done."
 
 @YUM_DEA:154 YUM 0f8e70eb
-
+"{V0040}Phew,{W45} done."
 
 @YUM_DEA:155 PLY 4efcceed
-
+"Good work."
 
 @YUM_DEA:156 PLY c8b04785
-
+"But still... why are you the one putting the books back, Hoshino?"
 
 @YUM_DEA:157 YUM 8cb428d3
-
+"{V0041}Eh?{W30} {F9}B-{W15}because I'm{W30} {Ec}on the Library Committee..."
 
 @YUM_DEA:158 PLY e7d43468
-
+"R-right, you are. Sorry..."
 
 @YUM_DEA:160 YUM 304901eb
-
+"{V0042}N-{W15}no,{W30} it's okay.{Sd}{W30} Please don't worry about it."
 
 @YUM_DEA:161 YUM 987cb830
-
+"{V0043}I{W45} just don't stand out..."
 
 @YUM_DEA:162 PLY df62e7f3
-
+(True. She's cute, but so quiet she doesn't stand out. ...Which is kind of what I like about her.)
 
 @YUM_DEA:163 YUM b69cfb22
-
+"{V0044}{Nm},{W15} we've been in the same class since Year 1,{W10} but we've{W10} hardly ever talked..."
 
 @YUM_DEA:164 YUM 3ca2f018
-
+"{V0045}{W5}What brings you{W10} to the library?"
 
 @YUM_DEA:165 PLY a35a4bba
-
+"Huh? Um..."
 
 @YUM_DEA:166.1 - f2dc7bff
-
+{Ti0}- No reason, really...／- I like books／- The library's nice and cool, you know
 
 @YUM_DEA:167 PLY 0483b81f
-
+"No reason, really..."
 
 @YUM_DEA:168 YUM 3d8b0cc7
-
+"{V0046}{W10}I see..."
 
 @YUM_DEA:169 YUM 83c35358
-
+"{V0047}If there's a book you want to read,{W10} just ask me anything.{W30} Finding books{W10} is part of the Library Committee's job."
 
 @YUM_DEA:170 PLY b3292c80
-
+"I like books."
 
 @YUM_DEA:171 YUM 15f37ee8
-
+"{V0048}Eh?!{W5} Really?"
 
 @YUM_DEA:172 YUM 57583eba
-
+"{V0049}You like books, {Nm}...{W15} I{W5} didn't know that..."
 
 @YUM_DEA:173 PLY 5ce63d01
-
+"Hahaha... R-really?"
 
 @YUM_DEA:174 YUM 48ff2bad
-
+"{V0050}I love{W30} books{W5} too."
 
 @YUM_DEA:175 PLY b712edee
-
+"Oh, really? Is that why you joined the Library Committee?"
 
 @YUM_DEA:176 YUM 4d395cf7
-
+"{V0051}{Ec}Yes."
 
 @YUM_DEA:177 PLY 876a2929
-
+"I see..."
 
 @YUM_DEA:178 YUM 27b0b73a
-
+"{V0052}{F2}{Ec}Hehe...{W45}{Eo} It's air-conditioned in here, after all."
 
 @YUM_DEA:179 PLY 1b758669
-
+"Hahaha, you're right."
 
 @YUM_DEA:180 PLY f4ddfe4d
-
+"Um... well, I'll get going."
 
 @YUM_DEA:181 YUM ff83f5af
-
+"{V0053}Yes."
 
 @YUM_DEA:182 YUM 38134ed8
-
+"{V0054}Yes?"
 
 @YUM_DEA:183 YUM d71fb668
-
+"{V0055}Eh?"
 
 @YUM_DEA:184 YUM a924a2a1
-
+"{V0056}{W10}Does that mean,{W60} we're{W15} friends?"
 
 @YUM_DEA:185 YUM 0e6660b3
-
+"{V0057}{W5}N-{W15}no.{W45} I was just surprised...{W60} {F7}It's just that I{W45} {F6}{Ec}don't have many friends..."
 
 @YUM_DEA:186 YUM 3bddb9dd
-
+"{V0058}......"
 
 @YUM_DEA:187 YUM bb39f31b
-
+"{V0059}{W10}Eh..."
 
 @YUM_DEA:188 YUM 89df1cfa
-
+"{Nm}...{V0060}{W10} Thank you."
 
 @YUM_DEA:189 YUM 0f9ea1fb
-
+"{V0061}{W5}I'll{W45} do my best{W30} to talk to you too, {Nm}."
 
 @YUM_DEA:190 YUM e0a9d606
-
+"{V0062}Yes.{W45} I've made a friend,{W25} {Ec}and I'm happy too."
 
 @YUM_DEA:191 YUM dc457409
-
+"{V0063}Yes."
 
 @YUM_DEA:192 YUM 6aac86b8
-
+"{V0064}See you, {Nm}."
 
 @YUM_DEA:193 PLY 36ce506d
-
+(Huh? There's a book I don't recognize in my desk...)
 
 @YUM_DEA:195 PLY 3a0158f3
-
+(Ah! Isn't this the book I borrowed for my summer vacation reading report?!)
 
 @YUM_DEA:196 PLY 4c1ca45b
-
+(I couldn't find it anywhere, so I just reworked a book report I wrote in junior high.)
 
 @YUM_DEA:197 PLY 2acacd66
-
+(So I'd left it in my school desk the whole time. No wonder I couldn't find it at home.)
 
 @YUM_DEA:198 PLY 08e54450
-
+(...I'd better go return it right away.)
 
 @YUM_DEA:200 PLY f0f19726
-
+(Let's see... I just take it to the counter to return it, right?)
 
 @YUM_DEA:201 YUM e864a085
-
+"{V0065}Oh,{W30} {Nm}{Mc}."
 
 @YUM_DEA:202 PLY d731efe8
-
+"Ah! H-Hoshino!"
 
 @YUM_DEA:203 YUM fde7c6d6
-
+"{V0066}W-{W30}why are you so surprised?"
 
 @YUM_DEA:204 YUM c12f2040
-
+"{V0067}Eh...{W60} Well, I'm{W45} on the Library Committee{Ti2}, so..."
 
 @YUM_DEA:205 PLY c1831674
-
+"What?! R-right, you are. Sorry."
 
 @YUM_DEA:206 YUM b32c5b9e
-
+"{V0068}No,{W45} it's okay.{W30} Please don't worry about it."
 
 @YUM_DEA:207 YUM 660b592d
-
+"{V0069}I{W40} just don't stand out..."
 
 @YUM_DEA:208 YUM f20e6d00
-
+"{V0070}{Nm},{W15} we've been in the same class since Year 1,{W10} but{W45} we've hardly ever talked..."
 
 @YUM_DEA:209 YUM 0646f2f4
-
+"{V0071}...So,{W60} is there something{W5} the Library Committee{W5} can help you with?"
 
 @YUM_DEA:210 PLY 42657d93
-
+"Ah... I came to return a book."
 
 @YUM_DEA:211 YUM ba628b04
-
+"{V0072}{W5}Thank you for returning it."
 
 @YUM_DEA:212 YUM 968af9ca
-
+"{V0073}Ah..."
 
 @YUM_DEA:213 PLY 4d0c7c5c
-
+"What's wrong?"
 
 @YUM_DEA:214 YUM 3edf2ac4
-
+"{V0074}You{W5} kept it{W5} for quite a long time, didn't you."
 
 @YUM_DEA:215 PLY 547273e1
-
+"S-sorry. I had it checked out the whole summer vacation."
 
 @YUM_DEA:216 YUM b28bb16c
-
+"{V0075}{W5}All our books{W15} have a loan period{W15} of one week at most.{W45} So,{W40} please be careful."
 
 @YUM_DEA:217 PLY a5824d5e
-
+"Y-yeah, I'll be careful."
 
 @YUM_DEA:218 YUM 9b3f51c9
-
+"{V0076}If you don't mind,{W30} tell me what you thought of this book."
 
 @YUM_DEA:219 YUM cf600558
-
+"{V0077}Well?{W15} Was it good?"
 
 @YUM_DEA:220.1 - 09c08fb5
-
+{Ti0}- Y-yeah, it was interesting!／- P-people all feel differently about books／- Actually... I didn't read it
 
 @YUM_DEA:221 PLY 3ab24783
-
+"Y-yeah, it was interesting!"
 
 @YUM_DEA:222 YUM 367cbb58
-
+"{V0078}Really?{W55} Maybe I'll read it too."
 
 @YUM_DEA:223 PLY f7ada0fd
-
+"I-I think you should. Hahaha..."
 
 @YUM_DEA:224 YUM c8181333
-
+"{V0079}What's it{W20} about?"
 
 @YUM_DEA:225 PLY 918d4f29
-
+"W-well... you'll have to read it to find out."
 
 @YUM_DEA:226 YUM f395de7f
-
+"{V0080}Fufu,{W30}{Eo} I suppose so.{W50} Then,{W10} I'll go borrow it today."
 
 @YUM_DEA:227 PLY b2ac9e81
-
+"P-people all feel differently about books, you know."
 
 @YUM_DEA:228 YUM 2e9d8ba2
-
+"{V0081}Fufu,{W30}{Eo} that's true.{W60} {F3}Even with the same book,{W25} {Ec}everyone's impressions are different."
 
 @YUM_DEA:229 YUM a0919f21
-
+"{V0082}{Nm},{W20} you really like books, don't you."
 
 @YUM_DEA:230 PLY 9f680212
-
+"N-no, not that much..."
 
 @YUM_DEA:231 PLY c11d69ed
-
+"Actually... I didn't read it. I left it in my school desk..."
 
 @YUM_DEA:232 YUM 0e0ce752
-
+"{V0083}{W10}Oh, I see..."
 
 @YUM_DEA:233 YUM 6b39a519
-
+"{V0084}That's too bad,{W30} but it happens.{W45} {F9}Forcing yourself through a book that doesn't suit you{W15} is just dull..."
 
 @YUM_DEA:234 YUM e95a9ee6
-
+"{V0085}{W5}Next time,{W30} I hope you meet a book{W25} that suits you better."
 
 @YUM_DEA:235 PLY 851b6dc4
-
+"Yeah."
 
 @YUM_DEA:237 YUM 7be72f74
-
+"{V0086}Yes."
 
 @YUM_DEA:238 YUM 1de30a47
-
+"{V0087}What's wrong?"
 
 @YUM_DEA:239 YUM 68db7d24
-
+"{V0088}Yes?"
 
 @YUM_DEA:240 YUM 1eec1de1
-
+"{V0089}Eh?"
 
 @YUM_DEA:241 YUM 43254d56
-
+"{V0090}Does that mean,{W75} we're friends?"
 
 @YUM_DEA:242 YUM b95a49f1
-
+"{V0091}N-{W15}no.{W45} I was just surprised...{W45}{F7} It's just that I{W60} {F6}{Ec}don't have many friends..."
 
 @YUM_DEA:243 YUM 580ae3db
-
+"{V0092}......"
 
 @YUM_DEA:244 YUM 44967308
-
+"{V0093}{W10}Eh..."
 
 @YUM_DEA:245 YUM 580e1c1e
-
+"{Nm}...{W15}{V0095}{W10} Thank you."
 
 @YUM_DEA:246 YUM 45087883
-
+"{V0096}I'll{W30} do my best, {Nm},{W5} to talk to you too."
 
 @YUM_DEA:247 YUM 3e925913
-
+"{V0097}{W15}Yes.{W30} I've made a friend,{W30} {Ec}and I'm happy too."
 
 @YUM_DEA:248 YUM 46aa4b6a
-
+"{V0098}Yes."
 
 @YUM_DEA:249 YUM 1f0689ba
-
+"{V0099}See you,{W15} {Nm}."

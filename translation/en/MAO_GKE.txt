@@ -2,130 +2,130 @@
 # Format: docs/translation-format.md
 
 @MAO_GKE:25 SYS 1b192009
-
+A same-character match?! Impossible!
 
 @MAO_GKE:53 MAO 4a472963
-
+"{V0778}{W8}Oh, {Nn}."
 
 @MAO_GKE:54 PLY bb3fc3d6
-
+"Oh, Mao. Are you on your way to the school gate?"
 
 @MAO_GKE:55 MAO e7cf43b6
-
+"{V0779}{W12}{Fm4}Yes{W2}{W1}, {W10}what a coincidence{W3}{W3}.{F3}"
 
 @MAO_GKE:56 MAO bf8f10e6
-
+"{V0781}{W15}Oh, {W30}there you are{W1}. {W10}{Fe9}{Nn}, {W5}you're late{W4}{W1}{W1}~{W1}!"
 
 @MAO_GKE:57 PLY 1d8b5424
-
+"Sorry, did I keep you waiting?"
 
 @MAO_GKE:59 MAO 50f7f11f
-
+"{V0782}{W12}{Fe1}A little{W1}{W3}, yes."
 
 @MAO_GKE:61 MAO 9c859a35
-
+"{V0780}{W12}Well then, {F3}shall we go?"
 
 @MAO_GKE:62 PLY 851b6dc4
-
+"Yeah, let's."
 
 @MAO_GKE:64 MAO 08d6fd55
-
+"{V0783}{W12}{Fe3m4}Well,{W3} fine. {W30}{F3}Let's go."
 
 @MAO_GKE:67 MAO 4c32f11f
-
+"{V0784}{W8}Oh, {Nn}."
 
 @MAO_GKE:69 MAO 90ab78b3
-
+"{V0785}{W12}Yep{W1}{W2}, {W27}{F3}perfect timing{W1}."
 
 @MAO_GKE:70 MAO 8d3687ac
-
+"{V0787}{W15}{Fe9m4}Oh, {Nn}, {W36}{Eh}you're late{W8}{W3}{W1}{W1}~{W3}!"
 
 @MAO_GKE:71 PLY 6c1b2754
-
+"S-sorry."
 
 @MAO_GKE:73 MAO 18b01d94
-
+"{V0788}{W8}Keeping{W9} a girl{W1}{W1}{W1}{W1}{W1}{W1}{W1} waiting, {W15}{Fe6}{Eh}that's the{W3} worst{W2}."
 
 @MAO_GKE:74 PLY b2ecf847
-
+"Ugh..."
 
 @MAO_GKE:75 PLY 67cc101d
-
+"Is that a Mao Check?"
 
 @MAO_GKE:77 MAO e0b27cdc
-
+"{V0789}{W8}It's not even worth a{W1} Mao{W1} Check{W1}. {W27}{Ec}{Fm4}It's common{W4} sense{W4}, {W15}common{W4} sense{W4}."
 
 @MAO_GKE:78 PLY f1f22604
-
+"Sorry... I'll be more careful from now on."
 
 @MAO_GKE:79 MAO 47073fa8
-
+"{V0786}{W15}Well then, let's go{W1}."
 
 @MAO_GKE:80 MAO a161a451
-
+"{V0790}{W12}Well,{W3} fine. {W48}{F3}Come on, {W8}let's go{W3}."
 
 @MAO_GKE:81 PLY 272408e5
-
+"Yeah. Let's go."
 
 @MAO_GKE:82 MAO 229ba523
-
+"{V0791}{W8}{F3}Oh, {Nn}."
 
 @MAO_GKE:83 MAO 605b67e8
-
+"{V0792}{W8}Fufu, {W21}that's right{W1}{W2}. {W24}{Ec}Perfect timing{W2}."
 
 @MAO_GKE:84 MAO 7daf8ea4
-
+"{V0794}{W12}{F3}Oh, {W8}there you are."
 
 @MAO_GKE:85 PLY 852d2958
-
+"Sorry, Mao, did I keep you waiting?"
 
 @MAO_GKE:86 MAO 9c992b30
-
+"{V0795}{W13}Nope, {W18}{Ec}I just got here{W4}."
 
 @MAO_GKE:87 PLY b627f6d6
-
+"Oh, good."
 
 @MAO_GKE:88 MAO d99e0fbf
-
+"{V0793}{W12}Shall we go, then?{Ec}"
 
 @MAO_GKE:89 MAO 0d61cfe4
-
+"{V0796}{W12}{Eo}Come on, {W8}let's go."
 
 @MAO_GKE:94 MAO c24c62ca
-
+"{V0797}{W8}{F4}Oh, {F3}{Nn}."
 
 @MAO_GKE:95 MAO 8e8e5b34
-
+"{V0798}{W12}Fufu, {W27}that's right{W2}{W2}. {W39}{F2}{Ec}Lucky to run into you here. {W24}{Eo}We get to walk home{W4} together{W3} a bit{W4} longer{W1}{W3}, {W4}right?"
 
 @MAO_GKE:96 MAO 5a403ad8
-
+"{V0800}{W8}{F3}Oh, {Nn}."
 
 @MAO_GKE:97 PLY 032b231b
-
+"Sorry, Mao, were you waiting?"
 
 @MAO_GKE:98 MAO a94d5739
-
+"{V0801}{W15}Nope, {W15}not at all."
 
 @MAO_GKE:99 MAO af08a543
-
+"{V0799}{W8}Come on, {W8}let's go!"
 
 @MAO_GKE:100 PLY cc4af171
-
+"Yeah."
 
 @MAO_GKE:101 MAO 02a181cc
-
+"{V0802}{W6}Come on, {W10}{Ec}let's go!"
 
 @MAO_GKE:102 PLY e3f8be68
-
+"Yeah, you're right."
 
 @MAO_GKE:106 MAO ceb80a00
-
+"{Nn}, {W7}{V0809}{W12}is something wrong?"
 
 @MAO_GKE:107 PLY 212805b3
-
+"Oh, no, it's nothing."
 
 @MAO_GKE:108 PLY 3850afdd
-
+"Come on, let's go!"
 
 @MAO_GKE:109 MAO e8bd3f0a
-
+"{V0810}{W12}{F3}Fufu, {W18}{Eo}you're right{W1}."

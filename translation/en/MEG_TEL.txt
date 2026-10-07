@@ -2,115 +2,115 @@
 # Format: docs/translation-format.md
 
 @MEG_TEL:9 PLY 31318805
-
+"Hello, this is {Nm}."
 
 @MEG_TEL:11 MEG 41783484
-
+"{V0631}I'm sorry to call so late. {W60}This is Kuryuu..."
 
 @MEG_TEL:13 PLY 727cb633
-
+"Oh, Kuryuu? It's me."
 
 @MEG_TEL:14 MEG ea87dcd7
-
+"{V0632}Ah... {Nm}?"
 
 @MEG_TEL:15 PLY 28c5d3a3
-
+"What's up? It's rare for you to call."
 
 @MEG_TEL:16 MEG e1dfff22
-
+"{V0633}Y-{W45}yes..."
 
 @MEG_TEL:17 PLY 53cf1dd0
-
+"Did you need something?"
 
 @MEG_TEL:18 MEG 8f826619
-
+"{V0634}{W10}Well, about that..."
 
 @MEG_TEL:21 MEG c5386fb1
-
+"{V0635}About this weekend... {W75}I suddenly can't go..."
 
 @MEG_TEL:22 PLY ebfb2f05
-
+"Huh, really?"
 
 @MEG_TEL:23 MEG 65a2afc5
-
+"{V0636}Yes... {W60}Family reasons. {W20}I can't get out of training no matter what."
 
 @MEG_TEL:24 PLY 542af83a
-
+"I see..."
 
 @MEG_TEL:25 MEG 4a4f1c5b
-
+"{V0637}After we made plans and everything, {W50}I'm sorry."
 
 @MEG_TEL:26 PLY a7763034
-
+"No... if it's for family reasons, it can't be helped."
 
 @MEG_TEL:27 MEG 4728d997
-
+"{Nm}, {V0638}{W10}if you don't mind, {W30}would you ask me again? {W45}I might be able to go next time."
 
 @MEG_TEL:28 PLY 541c3cfd
-
+"Okay, I will."
 
 @MEG_TEL:30 MEG b14833d9
-
+"{V0639}Well then... {W45}good night."
 
 @MEG_TEL:31 PLY 54db2b27
-
+"Good night."
 
 @MEG_TEL:34 PLY f75d6b6c
-
+(What a letdown...)
 
 @MEG_TEL:36 MEG 901466cf
-
+"{V0640}Sorry to call {W10}so late at night. {W70}This is Kuryuu..."
 
 @MEG_TEL:37 MEG bf4b78d0
-
+"{V0641}Ah... {Nm}?"
 
 @MEG_TEL:38 MEG 01367b88
-
+"{V0642}......"
 
 @MEG_TEL:39 MEG ade888e5
-
+"{V0643}'What's up?' Is that all you have to say?! {W60}Why didn't you come today?!"
 
 @MEG_TEL:40 PLY 7cb658b8
-
+"Huh...?"
 
 @MEG_TEL:41 PLY 3c62ed72
-
+(Ah! That's right... I made plans with Kuryuu...)
 
 @MEG_TEL:42 MEG 6ce47850
-
+"{V0644}I {W80}waited the whole time! {W40}What was your reason for not coming?! {W10}Your reason?!"
 
 @MEG_TEL:43 PLY 45989063
-
+"Kuryuu... I'm sorry..."
 
 @MEG_TEL:44 PLY f1825749
-
+"It's... how do I put it... Anything I say would just be an excuse..."
 
 @MEG_TEL:45 PLY f8e04961
-
+"I'll never do this again! I'll ask you out again next time, so please forgive me! Please!"
 
 @MEG_TEL:46 MEG 963c7f6e
-
+"{V0645}......"
 
 @MEG_TEL:47 MEG 4dc583b6
-
+"{V0646}...{W15}Just this once."
 
 @MEG_TEL:48 PLY b7f60c52
-
+"You'll forgive me?"
 
 @MEG_TEL:49 MEG c462dd7e
-
+"{V0647}Yes... {W95}if you swear never to do it again."
 
 @MEG_TEL:50 PLY 24018c6f
-
+"I swear. Never again."
 
 @MEG_TEL:51 MEG eda9b360
-
+"{V0648}...Then fine. {W75}About today, {W35}I'll forget it."
 
 @MEG_TEL:52 MEG c6979729
-
+"{V0649}Bye, {Nm}. {W25}Good night."
 
 @MEG_TEL:53 PLY 86476c5a
-
+"Good night, Kuryuu."
 
 @MEG_TEL:54 PLY 3c27ee02
-
+(Standing someone up is really bad...)

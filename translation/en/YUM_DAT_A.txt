@@ -2,370 +2,370 @@
 # Format: docs/translation-format.md
 
 @YUM_DAT_A:16 PLY 5e847be7
-
+(Ten to twelve. That's about right.)
 
 @YUM_DAT_A:31 YUM baea8552
-
+"{V0934}{W8}Oh, {Nm}."
 
 @YUM_DAT_A:32 PLY 017ee3e3
-
+"Oh, Hoshino, you're already here."
 
 @YUM_DAT_A:37 YUM 3e84cb41
-
+"{V0935}{W10}Yes.{W25} {Eo}I just got here."
 
 @YUM_DAT_A:38 PLY 948e1f33
-
+"I see. ...Then let's get going."
 
 @YUM_DAT_A:40 YUM 63a03bb6
-
+"{V0937}{W10}Yes.{W13} Let's go."
 
 @YUM_DAT_A:43 SYS d9d0f696
-
+...And so, I headed to the pool with Hoshino.
 
 @YUM_DAT_A:46 PLY 917fc79b
-
+"See you inside, then."
 
 @YUM_DAT_A:47 YUM 302a141e
-
+"{V0938}{W8}Mm."
 
 @YUM_DAT_A:48 PLY c1a10105
-
+(What kind of swimsuit will Hoshino be wearing...? My heartbeat is racing...)
 
 @YUM_DAT_A:50 PLY f7b5c21c
-
+(Lots of people here. The pool season's almost over, so I guess everyone's here for a last swim?)
 
 @YUM_DAT_A:51 YUM 45d21893
-
+"{Nm}, {V0939}sorry to keep you waiting."
 
 @YUM_DAT_A:53 PLY 634f9920
-
+"Ah..."
 
 @YUM_DAT_A:55 YUM 9aac91aa
-
+"{V0940}{W10}{Bt120}Is it{W3}... strange?{W53} {W68}Since it's a special occasion,{W25} {F9}I{W6} bought{W3} a{W3} new{W8} swimsuit."
 
 @YUM_DAT_A:56 PLY e4015a1c
-
+"Ah, no..."
 
 @YUM_DAT_A:57.1 - a72a4679
-
+{Ti0}- It looks great on you／- I couldn't stop staring...／- The pool is the best!
 
 @YUM_DAT_A:58 PLY 058bac27
-
+"It looks great on you."
 
 @YUM_DAT_A:59 YUM c5cb6b36
-
+"{V0941}{W12}Thank you."
 
 @YUM_DAT_A:61 YUM df1e4921
-
+"{V0942}{W10}I've never worn a bikini{W8} before{W3},{W30} {Fe9m3}so I was worried{W20} about whether{W3} it would{W3} suit me...{Br0t120}"
 
 @YUM_DAT_A:62 PLY 6c6b1e77
-
+"R-right..."
 
 @YUM_DAT_A:63 PLY 86b41b51
-
+"I couldn't stop staring..."
 
 @YUM_DAT_A:66 YUM b2c81940
-
+"{V0944}{W10}Eh?!"
 
 @YUM_DAT_A:67 PLY c98524f9
-
+"You're... so beautiful..."
 
 @YUM_DAT_A:68 YUM fea8a0b5
-
+"{V0945}{W10}{Br50t120}T-{W31}that's not true.{W25} Someone{W6} like me..."
 
 @YUM_DAT_A:69 PLY e6ebb3f0
-
+"No, I really think you're beautiful."
 
 @YUM_DAT_A:70 YUM 698ecf73
-
+"{V0946}{W10}{Bt120}Ah...{W60} thank you...{Br0t120}"
 
 @YUM_DAT_A:71 PLY 2a10d942
-
+"{Ts3}The pool is the best!"
 
 @YUM_DAT_A:72 YUM dcb7e7ad
-
+"{V0947}{W12}{Br0t60}{Ts2}W-{W20}what's wrong?{W10} Suddenly{W5} shouting{W3} out loud{3}."
 
 @YUM_DAT_A:73 PLY 47c5bebf
-
+"Well, you really have to come to the pool with girls. It's not this fun with guys."
 
 @YUM_DAT_A:74 YUM 68f43915
-
+"{V0948}{W10}Fufu."
 
 @YUM_DAT_A:75 PLY 25b1ef30
-
+"Though some guys insist on coming with other guys..."
 
 @YUM_DAT_A:76 YUM 6588f036
-
+"{V0949}{W15}Is that so?{W60} Why?"
 
 @YUM_DAT_A:77 PLY d80e07d5
-
+"So they can pick up girls on the spot."
 
 @YUM_DAT_A:79 YUM 2a3afa15
-
+"{V0950}{W10}H-{W60}hmm..."
 
 @YUM_DAT_A:80 PLY 61a6b3ec
-
+"Hoshino, has anyone ever hit on you?"
 
 @YUM_DAT_A:81 YUM a87e51b5
-
+"{V0951}{W8}Not at a pool,{W25} but {Fe9m4}on the{W5} shopping street{W3}{W3}...{W25} a few{W3} times.{W50} {Ec}{Fe6}But,{W10} it's scary{W3}..."
 
 @YUM_DAT_A:82 PLY c8fdbeb7
-
+"I bet. It's scary when a guy you don't know talks to you."
 
 @YUM_DAT_A:83 YUM 05c3db0d
-
+"{V0952}{W10}Yes."
 
 @YUM_DAT_A:84 PLY b16faec2
-
+"Well then, shall we swim as much as we want?"
 
 @YUM_DAT_A:85 SYS b07e9afc
-
+...And so, Hoshino and I headed out into the pool.
 
 @YUM_DAT_A:86 SYS 87b5b447
-
+The lazy river, the wave pool, the water slide... Everything was so much fun that I lost track of time.
 
 @YUM_DAT_A:87 SYS 09531ad3
-
+Hoshino in her swimsuit was dazzling, and just being next to her made my heartbeat quicken.
 
 @YUM_DAT_A:90 YUM c4c9fa9a
-
+"{V0955}{W12}Oh!"
 
 @YUM_DAT_A:91 PLY c0bdaccc
-
+"What's wrong?"
 
 @YUM_DAT_A:92 YUM 4425e14d
-
+"{V0956}{W15}No,{W32} it's nothing.{W18} Look{W5} the other way."
 
 @YUM_DAT_A:93 PLY b23a56d8
-
+"Look the other way, you say... Ah!"
 
 @YUM_DAT_A:95 PLY ab38d3a3
-
+"Your bikini strap..."
 
 @YUM_DAT_A:96 YUM e4aba85b
-
+"{V0957}{W5}M-{W30}mm...{W48} when I got out{W3} of the water{W3},{W37} it must have come undone."
 
 @YUM_DAT_A:98 PLY 0b26ddb8
-
+"Let me tie it for you."
 
 @YUM_DAT_A:99 YUM ce6d2f25
-
+"{V0958}{W5}N-{W16}no, it's fine!{W25} I'll do it{W3} myself!"
 
 @YUM_DAT_A:100 PLY 5455cdd9
-
+"But you can't tie it while holding the front up, can you?"
 
 @YUM_DAT_A:101 YUM 60d0e728
-
+"{V0959}{W5}I-{W33}I'll go to the{W3} Locker Room{W3}..."
 
 @YUM_DAT_A:102 PLY f7dfba86
-
+"I think tying it here is less embarrassing than walking around with it undone."
 
 @YUM_DAT_A:103 YUM f2fa24f2
-
+"{V0960}{W5}M-{W43}mm{W5}{W5}.{W63} You're right..."
 
 @YUM_DAT_A:104 PLY bdf230a5
-
+"Here, show me your back."
 
 @YUM_DAT_A:118 PLY 606664a2
-
+(Hoshino's back is so exposed...)
 
 @YUM_DAT_A:119 PLY 1ae153a0
-
+(Ugh... I'm only tying a string, but I'm getting nervous... M-my hands are shaking...)
 
 @YUM_DAT_A:121 YUM 8bd5d20e
-
+"{Nm}, {V0962}{W3}a-{W40}aren't you{W8} done yet?"
 
 @YUM_DAT_A:122 PLY 7d7eb162
-
+"S-sorry, I'll do it right away."
 
 @YUM_DAT_A:123 PLY 8a9f64d2
-
+(Focus! Focus! Hoshino's in trouble! Her bare back or whatever, I can't have such impure thoughts...)
 
 @YUM_DAT_A:125 PLY 98bc74fe
-
+"......"
 
 @YUM_DAT_A:127 PLY 6b4d19f1
-
+(Ugh... no good. The more I focus, the more...)
 
 @YUM_DAT_A:128 YUM 6cb73353
-
+"{Nm}, {V0963}I'm embarrassed.{W25} Hurry{W15} up,{W10} please..."
 
 @YUM_DAT_A:129 PLY 3c239f04
-
+"I-I know. Just a second."
 
 @YUM_DAT_A:130 PLY 3535567a
-
+(Calm down. Deep breath, deep breath!)
 
 @YUM_DAT_A:131 PLY 87288bf7
-
+"Breathe in... and out! Okay! Here goes!"
 
 @YUM_DAT_A:132 YUM cec6022f
-
+"{V0964}{W8}Thank you.{W25} You{W3} saved me."
 
 @YUM_DAT_A:133 PLY 3419998d
-
+"You're welcome. It was harder than I expected."
 
 @YUM_DAT_A:134 YUM f7bbd326
-
+"{V0965}{W15}Honestly..."
 
 @YUM_DAT_A:135 SYS b02ffff4
-
+...And so, Hoshino and I had a great time at the pool.
 
 @YUM_DAT_A:136 PLY 677fdb22
-
+"That was fun."
 
 @YUM_DAT_A:137 YUM de8e01f3
-
+"{V0966}{W10}Yes,{W28} very much."
 
 @YUM_DAT_A:138 PLY 4ca2bc71
-
+"What should we do now?"
 
 @YUM_DAT_A:139 YUM f0fee327
-
+"{V0967}{W8}...{W10}...{W8}"
 
 @YUM_DAT_A:140 YUM e4016ccf
-
+"{V0968}{W10}I,{W100} {Nm},{W30} I have something{W3} I have to tell you."
 
 @YUM_DAT_A:141 PLY e87a0e30
-
+(Ah, what she mentioned the other day...)
 
 @YUM_DAT_A:142 YUM 4a45542f
-
+"{V0970}{W8}So,{W48} I want to go somewhere where the two{W3} of us can be alone{W20}..."
 
 @YUM_DAT_A:143 PLY 5195e7c4
-
+"A place where we can be alone..."
 
 @YUM_DAT_A:144 PLY 9326b7a3
-
+(She says that so suddenly... A back alley is out of the question... I know!)
 
 @YUM_DAT_A:145 PLY 95ee8990
-
+"It's a bit far, but how about the park? It's evening already, so I bet no one's there."
 
 @YUM_DAT_A:146 YUM dbf1d4fc
-
+"{V0971}{W8}Yes."
 
 @YUM_DAT_A:148 YUM 21273175
-
+"{V0972}{W10}Fufu,{W75} when I was little,{W3}{W3}{W20} I often played here{W3}.{W45} {Fe6m2}I played{W3} in the sandbox{W3}, and{W30} played house..."
 
 @YUM_DAT_A:150 YUM ce764d72
-
+"{V0973}{W10}I couldn't get down from the{W3} slide{W3}{W40}, and{W40} {Eo}I even cried once..."
 
 @YUM_DAT_A:151 PLY 5128afa1
-
+"Hoshino..."
 
 @YUM_DAT_A:152 YUM 753cf701
-
+"{V0974}{W10}Eh?"
 
 @YUM_DAT_A:153 PLY a91a974c
-
+"What's wrong? You look kind of sad..."
 
 @YUM_DAT_A:154 YUM 7233bd28
-
+"{V0975}{W10}...{W12}..."
 
 @YUM_DAT_A:155 PLY 052452c8
-
+"You looked so happy at the pool."
 
 @YUM_DAT_A:156 PLY 88caa152
-
+"What is it you have to tell me?"
 
 @YUM_DAT_A:157 YUM 884fa947
-
+"{Nm}..."
 
 @YUM_DAT_A:158 YUM d912c6aa
-
+"{V0977}{W12}Listen..."
 
 @YUM_DAT_A:159 YUM 19d82399
-
+"{V0978}{W12}I{W6}......{W128} {Eo}I'm{W3} transferring{W3} schools."
 
 @YUM_DAT_A:160 PLY 21e4acd1
-
+"What?!"
 
 @YUM_DAT_A:161 YUM 4cae08a3
-
+"{V0979}{W8}About this...{W50} I kept thinking{W3} I had to tell you,{W25} but {F6}I just couldn't say it..."
 
 @YUM_DAT_A:162 YUM f525b36c
-
+"{V0980}{W8}I'm sorry..."
 
 @YUM_DAT_A:163 YUM 8a3de513
-
+"{V0981}{W8}I{W6}...{W60} {Nm}, when you{W3} asked{W3} me to be{W5} friends{W3} with you,{W3}{W35} {F9}I was so happy."
 
 @YUM_DAT_A:164 YUM df2c2645
-
+"{V0982}...{W3}But{W3}{W3},{W70} by that time{W3}{W65} {F6}{Ec}it was{W5} already{W1} decided{W1} that{W1} I would{W10} be{W1} transferring{W1} to{W1} another{W1} school{W1}.{W1}"
 
 @YUM_DAT_A:165 PLY 3865080b
-
+"No way... why?"
 
 @YUM_DAT_A:166 YUM 5db19590
-
+"{V0983}{W15}In{W3} August{W3},{W50} my father{W3} got{W3} transferred{W3}.{W70} {F6}He's{W3} alone{W10} for{W3} now{W3}, but{W3}{W60} our house{W3} has a buyer{W3}{W45}, {Ec}so we'll all live together..."
 
 @YUM_DAT_A:167 PLY 2401dabb
-
+"R-right..."
 
 @YUM_DAT_A:169 PLY 329d5ab6
-
+"...When... are you transferring?"
 
 @YUM_DAT_A:170 YUM 4c0faff8
-
+"{V0984}{W10}My mother{W3} said,{W20} until the school festival{W3}{W3}{W3} is over, I can{W5} stay..."
 
 @YUM_DAT_A:171 PLY fdd286eb
-
+"The school festival?! That's right around the corner!"
 
 @YUM_DAT_A:172 YUM 8eab306f
-
+"{V0985}{W10}Mm...{W80} {Fe9m6}{Eo}So,{W45} I knew I had to tell you{W3} soon...{W55} {F6}{Ec}But,{W80} I just...{W25} couldn't say it..."
 
 @YUM_DAT_A:173 YUM b1d8e93a
-
+"{V0986}{W10}I{W6}...{W60} I'll write you letters{W3}.{W40} I'll send you lots{W3} of{W3} photos too{W3}."
 
 @YUM_DAT_A:175 YUM 4e3500ae
-
+"{V0987}{W15}{Nm},{W45} even if we're far{W3} apart{W3},{W10} I'll never{W3} ever{W3} forget{W3} you.{W70} {Eo}So...{W70} {Nm}, please{W55} don't forget{W6} me{W3} either{W3}."
 
 @YUM_DAT_A:176 PLY 767fbb06
-
+"O-of course I won't forget! But... don't say it like we're saying goodbye..."
 
 @YUM_DAT_A:177 YUM bea4a35a
-
+"{V0988}{W10}M-{W80}mm...{W80} {F6}{Ec}I'm sorry."
 
 @YUM_DAT_A:178 YUM 1aeb7460
-
+"{V0989}{W12}I{W6}...{W95} about you, {Nm}..."
 
 @YUM_DAT_A:179 PLY 122df4f6
-
+"Huh?"
 
 @YUM_DAT_A:180 YUM 9f3e2128
-
+"{V0990}{W10}No...{W65} it's{W3} nothing..."
 
 @YUM_DAT_A:181 PLY 4c1da5b0
-
+"Hoshino, tell me. About me... what?"
 
 @YUM_DAT_A:182 YUM 639b35d2
-
+"{V0991}{W15}About you, {Nm}..."
 
 @YUM_DAT_A:183 YUM 065d9c3a
-
+"{V0992}{W15}No{W5}...{W42} I can't say it..."
 
 @YUM_DAT_A:184 PLY d9372ba1
-
+"Why not?"
 
 @YUM_DAT_A:185 YUM cef22977
-
+"{V0993}{W10}Because...{W67} I can't{W5}, {W10}{Nm}, cause you{W3} any more trouble...{W60} {Ec}I{W6},{W27} I'm{W3} still{W3} transferring..."
 
 @YUM_DAT_A:186 YUM 8810c551
-
+"{Nm}, {V0994}...{W3}please{W4} keep{W4} my transfer{W1} a{W1} secret{W1} from{W1}{W42} everyone{W1}{W1}{W1}{W1}{W1}.{W5}"
 
 @YUM_DAT_A:187 PLY 2a6d4805
-
+"Is that better?"
 
 @YUM_DAT_A:188 YUM fc9aea31
-
+"{V0995}{W12}Mm."
 
 @YUM_DAT_A:189 PLY a56c89d3
-
+"Okay..."
 
 @YUM_DAT_A:190 SYS afaf35bc
-
+...And so, I spent the day with Hoshino.
 
 @YUM_DAT_A:191 SYS c44b7aa3
-
+Hoshino is transferring. What on earth am I supposed to do...?
 
 @YUM_DAT_A:192 SYS e0fb995f
-
+There's only one, you know.

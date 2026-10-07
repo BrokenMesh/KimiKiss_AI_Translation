@@ -2,667 +2,667 @@
 # Format: docs/translation-format.md
 
 @YUM_MAT:18 PLY 92fd86a0
-
+"Hoshino... got a moment?"
 
 @YUM_MAT:23 YUM 0b10f974
-
+"{V2233}Ah...{W65} I'm sorry.{W15} I have to go now..."
 
 @YUM_MAT:24 PLY 67919fb4
-
+"R-right."
 
 @YUM_MAT:30 YUM fe53d11e
-
+"{V2234}{W5}...Well,{W10} see you."
 
 @YUM_MAT:31 PLY ca2ae96b
-
+"Yeah. See you."
 
 @YUM_MAT:33 PLY 66fdf66f
-
+(...I wonder if Hoshino has ever kissed anyone?)
 
 @YUM_MAT:36 PLY 614d4e55
-
+(She's so shy that I doubt it... Would she be shocked if I asked her straight out...?)
 
 @YUM_MAT:37 YUM ac0b57ad
-
+"{Nm}, {V0362}{W10}what's wrong?{W25} You suddenly{W2} went{W1} quiet{W1}{W1}{W1}..."
 
 @YUM_MAT:38 PLY 4d5c21b3
-
+(All right! I'll just go for it and ask! I decided I'd be more proactive from the second term on!)
 
 @YUM_MAT:39 PLY 950c7ba8
-
+"H-Hoshino, could you come with me for a second?"
 
 @YUM_MAT:40 YUM e2972901
-
+"{V0363}Eh?{W22} {Sp}W-{W15}where to?"
 
 @YUM_MAT:42 PLY a4c4bf80
-
+"Just come on..."
 
 @YUM_MAT:45 YUM d857582a
-
+"{V0364}B-{W23}but{W60} I'm dressed like this..."
 
 @YUM_MAT:46 PLY e5aade25
-
+"Oh, right... of course. I'll do it another time, then."
 
 @YUM_MAT:47 YUM 7d3f87cc
-
+"{V0365}{W5}Yes."
 
 @YUM_MAT:48 PLY e2b3ed61
-
+"See you, then."
 
 @YUM_MAT:49 YUM b1deb111
-
+"{V0366}Mm,{W31} see you."
 
 @YUM_MAT:50 PLY 3d3f5dad
-
+"That's so unfair TT Doraemon! MAT is broken!"
 
 @YUM_MAT:51 PLY a9dd7174
-
+"Hoshino... got a moment?"
 
 @YUM_MAT:52 YUM 0dccc7bc
-
+"{V2235}{W4}Ah...{W40} I'm sorry.{W20} I have to go now..."
 
 @YUM_MAT:54 YUM f29d5331
-
+"{V2236}{Ec}I'm sorry..."
 
 @YUM_MAT:56 YUM 6a15f486
-
+"{V2237}{W5}Talking with you...{W15} was fun."
 
 @YUM_MAT:57 PLY a6edfb5d
-
+"Same here."
 
 @YUM_MAT:58 YUM 9a5de13b
-
+"{V2238}...Well,{W10} see you."
 
 @YUM_MAT:60 YUM a34d6abf
-
+"{V0379}Ah...{W40} I'm sorry,{W18} I should really go change soon..."
 
 @YUM_MAT:61 PLY 8331d188
-
+"Hoshino."
 
 @YUM_MAT:62 YUM 27683d76
-
+"{V0551}Yes?"
 
 @YUM_MAT:63 PLY f43bf547
-
+"Hoshino, you're shy, aren't you?"
 
 @YUM_MAT:65 YUM 58d43381
-
+"{V0552}Eh?{W65} ...Yes."
 
 @YUM_MAT:66 PLY 3b105a8c
-
+"I think you're great as you are, Hoshino, but it seems hard to get close to everyone in class..."
 
 @YUM_MAT:67 YUM f0c3a8a2
-
+"{V0553}M-{W32}mm...{W50} you're right.{W73} What should I do?"
 
 @YUM_MAT:68 PLY 39134502
-
+(What should she do? Oh no, I hadn't thought that far ahead...)
 
 @YUM_MAT:69 PLY 9e430ef4
-
+"U-um..."
 
 @YUM_MAT:70 PLY a4438ec5
-
+(Right! Maybe she just stands a bit far away when we talk to begin with...)
 
 @YUM_MAT:71 PLY 613f5e55
-
+"Then come closer to me."
 
 @YUM_MAT:77 YUM cdcdb6fd
-
+"{V0554}Eh?"
 
 @YUM_MAT:78 PLY 646a15ef
-
+"Come closer, Hoshino, to a distance that makes you shy."
 
 @YUM_MAT:80 YUM 59402cbe
-
+"{V0555}E-{W40}even now{W20} I'm a little embarrassed,{W60} and you want me closer than this?"
 
 @YUM_MAT:81 PLY cc4af171
-
+"Yeah."
 
 @YUM_MAT:82 YUM 8ec2976a
-
+"{V0556}T-{W48}that's impossible{W27} in this outfit."
 
 @YUM_MAT:83 PLY 6c6b1e77
-
+"R-right..."
 
 @YUM_MAT:84 YUM d288de2c
-
+"{V0557}...Then,{W15} I need to go change."
 
 @YUM_MAT:85 PLY 1ea1b704
-
+"Y-yeah."
 
 @YUM_MAT:86 PLY cd1c846c
-
+(Of course... Next time she's in her uniform, I'll try asking...)
 
 @YUM_MAT:87 PLY 5128afa1
-
+"Hoshino..."
 
 @YUM_MAT:88 YUM fa3878d1
-
+"{V0382}What is it?"
 
 @YUM_MAT:89 PLY 00e4d0f9
-
+"Sorry for asking something strange the other day."
 
 @YUM_MAT:90 YUM 2920becf
-
+"{V0383}Eh?{W60} {P3}{Fe5m6}Ah...{Sp}{W65} You{W1} mean{W1} the{W1} kiss{W1} thing{W1}?"
 
 @YUM_MAT:91 PLY bad3355d
-
+"Yeah..."
 
 @YUM_MAT:92 YUM 4550f595
-
+"{Nm}, {V0384}{W5}bringing that up{W10} in a place like this..."
 
 @YUM_MAT:93 PLY 0d76d31e
-
+"Oh... you're right. There are people around."
 
 @YUM_MAT:94 YUM 707b0288
-
+"{V0385}Mm..."
 
 @YUM_MAT:95 YUM 65f66ba2
-
+"{V0386}If someone heard us...{W45} it would be{W1} so{W1} very{W1} embarrassing."
 
 @YUM_MAT:96 PLY ce52713a
-
+"S-sorry..."
 
 @YUM_MAT:97 YUM ef35c365
-
+"{V0387}W-{W15}well then...{W45} I{W40} should be going."
 
 @YUM_MAT:98 PLY 634f9920
-
+"Ah..."
 
 @YUM_MAT:99 PLY 146575ed
-
+"Hoshino... she's gone..."
 
 @YUM_MAT:100 PLY 629db029
-
+"Hoshino, if you'd like, want to go home together today?"
 
 @YUM_MAT:101 YUM 669e6210
-
+"{V2239}Eh..."
 
 @YUM_MAT:102 PLY 019e9373
-
+"Is that no good?"
 
 @YUM_MAT:103 YUM 9858c4eb
-
+"{V2240}Ah...{W45} It's not that,{W65} I...{W30} commute{W1} to{W1} school{W1} by{W1} train."
 
 @YUM_MAT:104 PLY ed4ff78c
-
+"You take the train, huh... In that case, I'll walk you to the station."
 
 @YUM_MAT:105 YUM d06312d6
-
+"{V2241}{W1}To{W1} the station?{W45} In that case..."
 
 @YUM_MAT:106 PLY ef1e81bd
-
+"Really? Then, shall we meet at the school gate after school?"
 
 @YUM_MAT:107 YUM 23cc0e29
-
+"{V2242}Yes..."
 
 @YUM_MAT:108 PLY c663d146
-
+"Yay! I'm looking forward to after school."
 
 @YUM_MAT:110 YUM 055da9e4
-
+"{V0712}{Ec}{W8}Mm."
 
 @YUM_MAT:111 PLY f8a65654
-
+"Hoshino, if you'd like, want to go home together today?"
 
 @YUM_MAT:112 YUM 84846586
-
+"{V2244}Eh..."
 
 @YUM_MAT:113 YUM e283a161
-
+"{V2245}I don't mind, but..."
 
 @YUM_MAT:114 YUM 8c5d068e
-
+"{V2246}Yes..."
 
 @YUM_MAT:115 SYS 05dc2b32
-
+...And so, I made a plan to go home with Hoshino.
 
 @YUM_MAT:116 YUM 1bdf9bd4
-
+"{V2248}Eh..."
 
 @YUM_MAT:117 YUM f835afe8
-
+"{V2249}{W5}Ah...{W55} It's not that,{W52} I...{W30} commute{W2} to{W2} school{W2} by{W2} train, and{W40} today{W5} I have to get home early..."
 
 @YUM_MAT:118 PLY 542af83a
-
+"I see..."
 
 @YUM_MAT:120 YUM 98178c25
-
+"{V2250}{W5}Sorry...{W45} Well then,{W5} see you."
 
 @YUM_MAT:121 PLY 11856e65
-
+"Ah... Hoshino..."
 
 @YUM_MAT:122 PLY 80508dcc
-
+(No luck... Maybe I needed to make the conversation more fun?)
 
 @YUM_MAT:123 YUM 0c148ca4
-
+"{V2251}Eh..."
 
 @YUM_MAT:124 YUM df2e145d
-
+"{V2252}I don't mind, but..."
 
 @YUM_MAT:125 PLY eda04277
-
+"Really?!"
 
 @YUM_MAT:126 PLY 3458f6cc
-
+"...Huh? Wait, didn't you say you had to go home early today...?"
 
 @YUM_MAT:127 YUM d24a98ba
-
+"{V2253}{W5}Ah...{W30} That's{W5} okay.{W30} Actually,{W18} I remembered the day of the week wrong..."
 
 @YUM_MAT:128 PLY adaeb24e
-
+"Hahaha, I see."
 
 @YUM_MAT:129 PLY 05f830b8
-
+"Then shall we meet at the school gate after school?"
 
 @YUM_MAT:130 YUM b0c2d601
-
+"{V2254}Yes..."
 
 @YUM_MAT:131 YUM a9035bbf
-
+"{V2255}Yes."
 
 @YUM_MAT:132 PLY 0e77e87d
-
+"Hoshino... um..."
 
 @YUM_MAT:133 YUM 7a20b108
-
+"{V2256}{W5}Ah...{W63} I{W41} should be going soon..."
 
 @YUM_MAT:134 PLY f596f20c
-
+"Huh? Really?"
 
 @YUM_MAT:136 YUM 99265de4
-
+"{V2257}Mm...{W28} I'm sorry."
 
 @YUM_MAT:137 PLY 6f1a6b9e
-
+"No, it's fine. ...See you, then."
 
 @YUM_MAT:138 YUM fc04f963
-
+"{V2258}Yes.{W25} See you."
 
 @YUM_MAT:140 YUM a8d57e8f
-
+"{Nm}...{W30}{V0438}{W10} I{W110} have something to tell you, {Nm}."
 
 @YUM_MAT:141 PLY 7cb658b8
-
+"Huh...?"
 
 @YUM_MAT:142 YUM 54c3a1da
-
+"{V0439}{W5}But,{W50} it's not really the place here...{W83} and I have to go change now..."
 
 @YUM_MAT:144 YUM a6f9b8f4
-
+"{V0440}I'll tell you{W33} next{W1} time{W1} we{W1} get{W1} a{W1} chance{W2}, okay{W2}?{W2}{W2}"
 
 @YUM_MAT:145 YUM 12c9656d
-
+"{V0441}{W3}See you, then."
 
 @YUM_MAT:146 PLY 9557c553
-
+(Something she wants to tell me... what could it be...)
 
 @YUM_MAT:147 YUM 749a8344
-
+"{Nm}...{W30}{V0442}{W10} I{W125} have something to tell you, {Nm}."
 
 @YUM_MAT:148 YUM 6d8e03a8
-
+"{V0443}{W3}But,{W42} it's not really the place here...{W65} there{W1} are{W1} people{W1} around{W1} us{W1},{W1} you{W1} see{W1}..."
 
 @YUM_MAT:149 PLY 29b3655c
-
+"So it's no good if there are people around?"
 
 @YUM_MAT:150 YUM ad00e0c4
-
+"{V0444}Y-{W65}yes..."
 
 @YUM_MAT:151 YUM ba0a56c4
-
+"{V0445}{W5}I'll tell you later,{W30} next{W1} time{W1} we{W1} get{W1} a chance{W1}."
 
 @YUM_MAT:152 YUM ef4f4569
-
+"{V0446}{W3}See you, then."
 
 @YUM_MAT:153 PLY dd294b87
-
+"Hoshino, want to go home together today?"
 
 @YUM_MAT:154 YUM ea92dbb0
-
+"{V2259}Eh..."
 
 @YUM_MAT:155 YUM 2ac5c2ba
-
+"{V2260}......"
 
 @YUM_MAT:156 YUM 2af53534
-
+"{V2261}{W2}...Well,{W32} if you don't mind me...{W33} then sure..."
 
 @YUM_MAT:157 PLY 2f483260
-
+"Yay! Then, let's meet at the school gate after school."
 
 @YUM_MAT:158 YUM 53b7931d
-
+"{V2262}{W2}All right{Ec}."
 
 @YUM_MAT:159 PLY 1d8f02b0
-
+"See you after school, then."
 
 @YUM_MAT:160 YUM e2301f89
-
+"{V2263}Yes.{W36} See you, {Nm}."
 
 @YUM_MAT:161 YUM bc2ba730
-
+"{V2264}Eh..."
 
 @YUM_MAT:162 YUM c6e64d7e
-
+"{V2265}I'm sorry.{W42} I have something to do today,{W37} so I have to hurry home..."
 
 @YUM_MAT:163 PLY ba84ea4b
-
+"Then I'll ask you again another time."
 
 @YUM_MAT:164 YUM 11f18c61
-
+"{Ec}{V2266}Mm."
 
 @YUM_MAT:165 PLY 1c093381
-
+"See you, Hoshino."
 
 @YUM_MAT:166 YUM d3402b70
-
+"{V2267}{W3}Mm,{W22} see you."
 
 @YUM_MAT:167 YUM 5de1304e
-
+"{V2268}Eh..."
 
 @YUM_MAT:168 YUM c10a99c3
-
+"{V2269}......"
 
 @YUM_MAT:169 YUM 156a1b11
-
+"{V2270}...Well,{W37} if you don't mind me...{W19} then sure..."
 
 @YUM_MAT:170 PLY 16704f59
-
+"Yes! ...Wait, didn't you say you had something to do today?"
 
 @YUM_MAT:171 YUM a8ab5947
-
+"{V2271}{W4}I do, but...{W43} when I think about it,{W28} another day will be fine."
 
 @YUM_MAT:172 PLY 6783394f
-
+"Is that okay?"
 
 @YUM_MAT:173 YUM fec9b2c1
-
+"{V2272}{Ec}Mm."
 
 @YUM_MAT:174 PLY 9e8fc523
-
+"Then let's meet at the school gate after school."
 
 @YUM_MAT:175 YUM dff978b8
-
+"{V2273}All right."
 
 @YUM_MAT:176 YUM 721f84f8
-
+"{V2274}{W2}Yes.{W20} See you, {Nm}."
 
 @YUM_MAT:177 PLY 828f9b79
-
+"Hoshino... um... if you'd like..."
 
 @YUM_MAT:179 YUM 88a944ce
-
+"{V2275}Ah...{W65} I'm sorry.{W46} I{W30} have to go now..."
 
 @YUM_MAT:180 PLY df6b2731
-
+"R-really..."
 
 @YUM_MAT:181 YUM 6dfc6bda
-
+"{V2276}Yes...{W50} I'm sorry.{W22} See you, {Nm}."
 
 @YUM_MAT:182 PLY e03a6130
-
+"Okay, see you."
 
 @YUM_MAT:183 YUM 19138adc
-
+"{V2279}Ah...{W45} I'm sorry.{W30} I{W28} have something I need to do..."
 
 @YUM_MAT:184 YUM 70d08465
-
+"{V2280}{Ec}Mm..."
 
 @YUM_MAT:185 YUM b66520af
-
+"{V2281}{W5}I'm sorry, {Nm}."
 
 @YUM_MAT:186 PLY fc9b6f2a
-
+"No, it's okay. Don't worry about it."
 
 @YUM_MAT:187 YUM 9f035dfa
-
+"{V2282}{W5}Well then,{W18} see you."
 
 @YUM_MAT:188 PLY 53cecdbe
-
+"Hoshino, want to go home together today?"
 
 @YUM_MAT:189 YUM 3a3e8f7e
-
+"{V2283}{W4}Ah...{W75} Mm.{W65} I{W48} have somewhere I want to go with you too, {Nm}{W2}{W2}{W1}."
 
 @YUM_MAT:190 PLY 3e58df36
-
+"Oh, really? ...Where?"
 
 @YUM_MAT:191 YUM 11976b65
-
+"{V2284}{W5}That's...{W83} I'll{W1} tell{W1} you{W1} later{Ec}{W1}."
 
 @YUM_MAT:192 PLY e837e4a6
-
+"I see. See you after school, then."
 
 @YUM_MAT:193 YUM 3929403c
-
+"{V2285}{W3}Yes."
 
 @YUM_MAT:194 YUM 18a6ccd7
-
+"{V2286}{W3}Yes.{W25} See you."
 
 @YUM_MAT:195 YUM 6e588ecd
-
+"{V2287}{W3}Yes,{W13} that's fine."
 
 @YUM_MAT:196 PLY 1ab91738
-
+"Yay! Then, at the school gate after school."
 
 @YUM_MAT:197 YUM 7095c4e4
-
+"{V2288}Yes{Ec}."
 
 @YUM_MAT:198 YUM e5053615
-
+"{V2289}{W3}Well then,{W19} see you."
 
 @YUM_MAT:200 YUM 89b4a640
-
+"{V2300}{W3}Yes.{W35} If{W2} you{W1} don't mind me."
 
 @YUM_MAT:201 YUM 07e8e3e3
-
+"{V2301}{W2}Mm."
 
 @YUM_MAT:202 PLY ff7c139b
-
+"See you, Hoshino."
 
 @YUM_MAT:203 YUM ad8cadfb
-
+"{V2302}{W2}Yes.{W25} See you, {Nm}."
 
 @YUM_MAT:204 YUM ca8a6d8a
-
+"{V2307}{W3}Ah..."
 
 @YUM_MAT:205 YUM 64240dc6
-
+"{Sp}{V2308}I'm sorry.{W33} I have something to do today..."
 
 @YUM_MAT:206 PLY caee2ac1
-
+"Oh, I see..."
 
 @YUM_MAT:207 YUM 71b123be
-
+"{V2309}{W3}Mm..."
 
 @YUM_MAT:208 PLY 26e72007
-
+"I see... that's too bad."
 
 @YUM_MAT:209 YUM e98527fa
-
+"{V6001}{W3}Will you...{W23} ask{W1} me{W1} again{W1}?"
 
 @YUM_MAT:210 PLY 90bff4a9
-
+"Of course."
 
 @YUM_MAT:211 YUM 6e5dec82
-
+"{V2311}{W2}I'm glad."
 
 @YUM_MAT:212 YUM e783287e
-
+"{V2312}{W3}Well then,{W10} see you, {Nm}."
 
 @YUM_MAT:213 YUM dbc6ce00
-
+"{V2290}Ah..."
 
 @YUM_MAT:214 YUM fe9989dc
-
+"{V2291}{Ec}Mm.{W20} {Eo}Sure."
 
 @YUM_MAT:215 PLY 6feeaff8
-
+"Really? ...Huh? But didn't you say you had something to do today?"
 
 @YUM_MAT:216 YUM 9ae8a169
-
+"{V2292}{W9}It's okay.{W34} There's somewhere{W59} I want to go with you too, {Nm}."
 
 @YUM_MAT:217 PLY 72fa286c
-
+"Oh, really? ...Where?"
 
 @YUM_MAT:218 YUM 002d7ddc
-
+"{V2293}{W5}That's...{W57} I'll tell{W1} you{W1} later{W1}."
 
 @YUM_MAT:219 YUM 30634dd5
-
+"{V2294}{Ec}{W3}Yes."
 
 @YUM_MAT:220 PLY 5d25d4c7
-
+"See you, then."
 
 @YUM_MAT:221 YUM da911cb3
-
+"{V2295}{W2}Yes.{W27} See you."
 
 @YUM_MAT:222 YUM fac6eeb0
-
+"{V2296}{W2}Yes,{W17} that's fine."
 
 @YUM_MAT:223 PLY c1eae9d4
-
+"Yay! ...Wait, didn't you say you had plans today?"
 
 @YUM_MAT:224 YUM 407f19f4
-
+"{V2297}{W5}As{W3} for{W2} that{W2}...{W11} it's{W2} fine{W2}.{W33} I{W5} had that moved to another day."
 
 @YUM_MAT:225 PLY 18b0ca17
-
+"Oh, I see."
 
 @YUM_MAT:226 PLY c550e707
-
+"Then, see you after school."
 
 @YUM_MAT:227 YUM b68a6d7c
-
+"{V2298}{Ec}Yes."
 
 @YUM_MAT:228 YUM cd1b3070
-
+"{V2299}Well then,{W19} see you{W1}."
 
 @YUM_MAT:229 YUM 26243465
-
+"{V2303}Yes.{W35} If{W2} you{W1} don't mind me."
 
 @YUM_MAT:230 YUM e3fab6cd
-
+"{V2304}{W5}As{W1} for{W1} that{W1}...{W5} it's{W1} fine{W1}.{W35} I had that moved to another day."
 
 @YUM_MAT:231 YUM 18b7aefa
-
+"{V2305}{Ec}Mm."
 
 @YUM_MAT:232 YUM 2ca2b8f6
-
+"{V2306}Yes.{W35} See you, {Nm}."
 
 @YUM_MAT:233 PLY f458c37d
-
+"Hoshino, got a moment?"
 
 @YUM_MAT:234 YUM 5a85b17d
-
+"{V2313}Ah..."
 
 @YUM_MAT:235 YUM c82dfa46
-
+"{V2314}{W2}I'm sorry...{W25} I{W27} have to go to the Staff Room now..."
 
 @YUM_MAT:236 YUM 94810d3a
-
+"{V2315}{Ec}Mm..."
 
 @YUM_MAT:237 PLY 24848517
-
+"Then it can't be helped..."
 
 @YUM_MAT:238 YUM 84e51885
-
+"{V2316}{W2}I'm sorry, {Nm}..."
 
 @YUM_MAT:239 PLY bfc819cf
-
+"No... it can't be helped."
 
 @YUM_MAT:240 YUM 5ae22546
-
+"{V2317}{W2}Mm,{W26} see you, {Nm}."
 
 @YUM_MAT:241 YUM 1f18a32f
-
+"{V2318}{Ec}{W3}Mm.{W32} {Eo}{F6}Thank you...{W15} for inviting me..."
 
 @YUM_MAT:242 PLY 1261344f
-
+"Don't thank me... it'll only make it lonelier."
 
 @YUM_MAT:243 YUM e155b299
-
+"{V2319}{W3}M-{W37}mm,{W35} you're right.{W45} I'm sorry."
 
 @YUM_MAT:244 PLY ad94d342
-
+"Then, at the school gate after school."
 
 @YUM_MAT:245 YUM d6fb511b
-
+"{V2320}Yes."
 
 @YUM_MAT:246 PLY ecde507f
-
+"See you, Hoshino."
 
 @YUM_MAT:247 YUM 62183f46
-
+"{V2321}Yes,{W32} see you, {Nm}."
 
 @YUM_MAT:248 YUM 9eb64286
-
+"{V2322}Yes.{W23} I'm happy."
 
 @YUM_MAT:249 YUM 2327bb71
-
+"{V2323}{Ec}Yes."
 
 @YUM_MAT:250 YUM 63289158
-
+"{V2324}Yes,{W21} see you, {Nm}."
 
 @YUM_MAT:251 YUM 6dbb15c6
-
+"{V2325}Ah...{W65} I'm sorry.{W30} I'd like to go home with you, but..."
 
 @YUM_MAT:252 PLY bfdf4141
-
+"Do you have something to do?"
 
 @YUM_MAT:253 YUM 0065f138
-
+"{V2326}{Ec}Mm...{W43} {Eo}I have to get ready for the move,{W35} so today{W14} I have to go home early..."
 
 @YUM_MAT:254 PLY 876a2929
-
+"I see..."
 
 @YUM_MAT:255 YUM e542b72b
-
+"{V2327}{W2}Please,{W2} ask me again.{W36} {Nm}, I{W3} want to go home with you..."
 
 @YUM_MAT:256 PLY d47023ee
-
+"Okay, I will."
 
 @YUM_MAT:257 YUM af1971ca
-
+"{V2328}{Ec}{W3}Thank you."
 
 @YUM_MAT:258 YUM 01d4ab0b
-
+"{V2329}{W2}Yes,{W30} see you, {Nm}."
 
 @YUM_MAT:259 YUM 0ccf2a72
-
+"{V2330}{W5}Mm.{W33} Thank you{W8} for inviting me..."
 
 @YUM_MAT:260 YUM f305c2f4
-
+"{V2331}M-{W35}mm,{W38} you're right.{W37} I'm sorry."
 
 @YUM_MAT:261 PLY acb0b2c4
-
+"Ah... sorry. Didn't you say you had to get ready for the move today?"
 
 @YUM_MAT:262 YUM d214ef5d
-
+"{V2332}{W3}The moving preparations{W30} can wait until tomorrow.{W40} I want to go home with you, {Nm}."
 
 @YUM_MAT:263 YUM 3587b639
-
+"{V2333}{Ec}Yes."
 
 @YUM_MAT:264 YUM 566f0e36
-
+"{V2334}Yes,{W22} see you, {Nm}."
 
 @YUM_MAT:265 YUM 7aecc7e4
-
+"{V2335}Yes.{W25} I'm happy."
 
 @YUM_MAT:266 YUM 08ad1192
-
+"{V2336}{W2}The moving preparations{W30} can wait until tomorrow.{W47} I want to go home with you, {Nm}."
 
 @YUM_MAT:267 YUM d69e5760
-
+"{V2337}{Ec}{W2}Yes."
 
 @YUM_MAT:268 YUM ba920fe7
-
+"{V2338}{W2}Yes,{W25} see you, {Nm}."
 
 @YUM_MAT:269 PLY 981ab9d4
-
+"Hoshino, I'm looking forward to after school."
 
 @YUM_MAT:272 YUM dd7d00f1
-
+"{V0003}{W10}Ah..."
 
 @YUM_MAT:274 YUM b1f7374e
-
+"{V2317}{W2}Mm,{W26} see you."

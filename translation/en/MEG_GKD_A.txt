@@ -2,826 +2,826 @@
 # Format: docs/translation-format.md
 
 @MEG_GKD_A:25 PLY b4bd3710
-
+"Kuryuu, you commute by train, right?"
 
 @MEG_GKD_A:27 MEG 19047a88
-
+"{V0384}That's right."
 
 @MEG_GKD_A:28 PLY 473b7ab7
-
+"How long does it take to get to your house?"
 
 @MEG_GKD_A:30 MEG 76da5e26
-
+"{V0385}About forty minutes."
 
 @MEG_GKD_A:31 PLY 53f958ff
-
+"That's pretty far."
 
 @MEG_GKD_A:32 MEG 4ac09667
-
+"{V0386}It was hard at first, {W45}but I'm used to it now."
 
 @MEG_GKD_A:33 PLY 1dbcfec2
-
+"Even though it's that far, you're here before everyone starts going to school... That's rough."
 
 @MEG_GKD_A:34 MEG 0a974c6d
-
+"{V0387}Like a certain someone, {W15}if there were no latecomers, {W30}I could come to school {W15}at my leisure."
 
 @MEG_GKD_A:35 PLY 2c998b7e
-
+"...I don't think I'm late often enough to stand out that much..."
 
 @MEG_GKD_A:36 MEG cd6b077b
-
+"{V0388}Being late {W10}zero times {W10}is the bare minimum."
 
 @MEG_GKD_A:37 PLY 0d80b9d5
-
+"......"
 
 @MEG_GKD_A:52 MEG 1472532f
-
+"{V0389}Well, this is where we part."
 
 @MEG_GKD_A:53 PLY 4fcabfc3
-
+"Ah... want to make a stop at the shopping street on the way home?"
 
 @MEG_GKD_A:54 MEG 37d9e21b
-
+"{V0390}A detour? {W90}Do you think I'd do something like that?"
 
 @MEG_GKD_A:55 PLY d9372ba1
-
+"Why not?"
 
 @MEG_GKD_A:57 MEG 9bc91d30
-
+"{V0391}Because I'm on the Discipline Committee!"
 
 @MEG_GKD_A:59 MEG d3981492
-
+"{V0392}Honestly,{W30} {Nm}, you don't know the school rules at all. {W75}{Fe8m4}Detours are against the rules."
 
 @MEG_GKD_A:60 PLY a1e6ac08
-
+"What?! They are?"
 
 @MEG_GKD_A:61 MEG a7702923
-
+"{V0393}{W15}It's written clearly in Chapter 2, {W45}'Life Outside School,' {W15}Article 4{W5}."
 
 @MEG_GKD_A:62 MEG ab87bb89
-
+"{V0394}Return home promptly after school. {W70}When going out, {W15}always tell your family {W10}where you're going."
 
 @MEG_GKD_A:63 MEG dd435fae
-
+"{V0395}Not that {W40}I'd get upset over a small detour, {W30}but {W45}{F9}the Discipline Committee can't break the rules, can we?"
 
 @MEG_GKD_A:64 PLY 67919fb4
-
+"R-right."
 
 @MEG_GKD_A:65 MEG be517097
-
+"{V0396}See you, {Nm}. {W15}Go straight home, now."
 
 @MEG_GKD_A:66 PLY 36456e02
-
+"I will. See you."
 
 @MEG_GKD_A:68 PLY a43bde5f
-
+(It's tough... being on the Discipline Committee...)
 
 @MEG_GKD_A:71 PLY c8853040
-
+(Kuryuu's on the Discipline Committee, so she doesn't make detours.)
 
 @MEG_GKD_A:72 PLY d1a89cfa
-
+(...Which means we only get to walk home together for the fifteen minutes to the station.)
 
 @MEG_GKD_A:73 PLY e48a3fb7
-
+(That's over in no time...)
 
 @MEG_GKD_A:74 PLY 056ea813
-
+(And while I was thinking that, we really did get there in no time...)
 
 @MEG_GKD_A:75 MEG 5bbc9a1f
-
+"{V0397}See you, {Nm}."
 
 @MEG_GKD_A:76 PLY 730db01d
-
+"Ah... yeah, see you."
 
 @MEG_GKD_A:77 PLY 2384c2ff
-
+(Dang... I should have talked to her a little more.)
 
 @MEG_GKD_A:79 MEG e1bd37d3
-
+"{V0398}{Nm}, {W45}do you ever hang around in front of the station?"
 
 @MEG_GKD_A:80 PLY 4ca31707
-
+"Huh? W-well, yeah..."
 
 @MEG_GKD_A:81 MEG c233b54e
-
+"{V0399}Then, {W45}haven't you heard the rumor {W45}that delinquents hang out in the back alley?"
 
 @MEG_GKD_A:82 PLY 52eee476
-
+"No, why?"
 
 @MEG_GKD_A:83 MEG 32ae9b54
-
+"{V0400}I see..."
 
 @MEG_GKD_A:84 PLY 20401a49
-
+"Delinquents, huh... That's scary."
 
 @MEG_GKD_A:85 MEG f62ba61d
-
+"{V0401}Yes. {W60}And the thing is... {W45}they seem to be students from our school."
 
 @MEG_GKD_A:86 PLY b14299f5
-
+"What? ...I see. But with that kind of thing, it's best to steer clear."
 
 @MEG_GKD_A:87 MEG 01997e38
-
+"{V0402}I suppose..."
 
 @MEG_GKD_A:88 PLY 83842788
-
+"See you, Kuryuu."
 
 @MEG_GKD_A:89 MEG e5f7e73a
-
+"{V0403}Yes..."
 
 @MEG_GKD_A:90 PLY 8a63038b
-
+"Could it be that you're going to check out the back alley?"
 
 @MEG_GKD_A:91 MEG dc2d4d09
-
+"{V0404}How did you know?"
 
 @MEG_GKD_A:92 PLY 9dce90e0
-
+"You look like you're dead set on it."
 
 @MEG_GKD_A:94 MEG f71e36bd
-
+"{V0405}You're sharper than I thought, {Nm}."
 
 @MEG_GKD_A:95 PLY 80d56a6f
-
+"It's dangerous, so you shouldn't."
 
 @MEG_GKD_A:96 MEG cab6fbd6
-
+"{V0406}It's fine. {W75}{F2}You know how good I am at judo, don't you?"
 
 @MEG_GKD_A:97 PLY 7255ec3e
-
+"It might not be one on one, and they might not be empty-handed."
 
 @MEG_GKD_A:98 MEG 2ddcc508
-
+"{V0407}...Well, {W45}that's true."
 
 @MEG_GKD_A:99 MEG 9a9fcb1b
-
+"{V0408}Then, {W30}I'll take a quick look and come right back."
 
 @MEG_GKD_A:100 PLY d7ff98df
-
+"Even so..."
 
 @MEG_GKD_A:101 PLY d7b78dfa
-
+"Okay! I'll go with you!"
 
 @MEG_GKD_A:102 MEG 4278b496
-
+"{V0409}N-{W30}no need! {W45}{Fe8m7}You'd only get in the way."
 
 @MEG_GKD_A:103 PLY e86f6d6f
-
+"That's harsh. I'll have you know I'm pretty confident in my fake karate."
 
 @MEG_GKD_A:104 MEG 22ee990c
-
+"{V0410}Fake karate? {W90}What's that?"
 
 @MEG_GKD_A:105 PLY bcbac6d0
-
+"I mean karate I made up myself."
 
 @MEG_GKD_A:107 MEG 045cd9ff
-
+"{V0411}Hah, {W60}so you just copy what you've seen. {W75}{Eo}That won't work."
 
 @MEG_GKD_A:108 PLY 60813452
-
+"You won't know until I try, right?"
 
 @MEG_GKD_A:109 MEG 7a0d379c
-
+"{V0412}I do know. {W60}{Ec}There's no way it'd be any use."
 
 @MEG_GKD_A:110 PLY b8264abe
-
+"Even if you tell me not to come, I'm following you anyway."
 
 @MEG_GKD_A:111 MEG 53152955
-
+"{V0413}...Honestly, {W60}fine. {W45}Let's go together."
 
 @MEG_GKD_A:112 MEG 79b230d4
-
+"{V0414}But, {W45}if it looks dangerous, run away right away."
 
 @MEG_GKD_A:113 PLY 711f453d
-
+"I will. You too, Kuryuu."
 
 @MEG_GKD_A:114 MEG 4b92a2d5
-
+"{V0415}I keep telling you I'll be fine..."
 
 @MEG_GKD_A:115 PLY a587cab0
-
+"Okay, let's go."
 
 @MEG_GKD_A:116 MEG 05c346d3
-
+"{V0416}Yes."
 
 @MEG_GKD_A:118 MEG d41e6774
-
+"{V0417}The alley in the rumor is {W45}just around this corner."
 
 @MEG_GKD_A:119 MEG 50cb1b67
-
+"{V0418}If you're going to turn back, now's the time."
 
 @MEG_GKD_A:120 PLY dc87ddd9
-
+"It's too late for that. I can't leave you behind, Kuryuu."
 
 @MEG_GKD_A:121 MEG b13a60de
-
+"{V0419}Honestly... {W75}courage and recklessness are different things..."
 
 @MEG_GKD_A:122 MEG 2d75cdb1
-
+"{V0420}Then, {W30}here we go!"
 
 @MEG_GKD_A:123 PLY 8310ba11
-
+"O-okay!"
 
 @MEG_GKD_A:124 PLY df4ddfe3
-
+"Here goes!"
 
 @MEG_GKD_A:125 MEG 3f84c7d4
-
+"{V0421}......"
 
 @MEG_GKD_A:126 MEG 9dc52ee3
-
+"{V0422}Doesn't look like anyone's here."
 
 @MEG_GKD_A:127 PLY 851b6dc4
-
+"You're right."
 
 @MEG_GKD_A:128 MEG fe9783e1
-
+"{V0423}It doesn't feel like a hangout, either, {W45}{Fe2}so it was just a rumor."
 
 @MEG_GKD_A:129 PLY bdf0e1ce
-
+"Hahaha... what a letdown. I thought I'd get to show off."
 
 @MEG_GKD_A:130 MEG 05e76195
-
+"{V0424}You say that, {W60}{Ec}but aren't you secretly relieved?"
 
 @MEG_GKD_A:131 PLY f779534b
-
+"N-no, I'm not!"
 
 @MEG_GKD_A:132 MEG 5129c219
-
+"{V0425}Hehe, {W45}such a wimp over this little thing."
 
 @MEG_GKD_A:133 PLY 3e155c1d
-
+"I said I'm not!"
 
 @MEG_GKD_A:134 MEG 97520da0
-
+"{V0426}Hm?!"
 
 @MEG_GKD_A:135 PLY 35c45c19
-
+"W-what?"
 
 @MEG_GKD_A:136 MEG 2a28eaf6
-
+"{V0427}Shh! {W45}Don't you hear something?"
 
 @MEG_GKD_A:137 PLY dfc8a4de
-
+"W-what do you mean, something?!"
 
 @MEG_GKD_A:138 MEG 7c2347d3
-
+"{V0428}Shhh..."
 
 @MEG_GKD_A:139 SYS f76a71a5
-
+Meeeow
 
 @MEG_GKD_A:140 MEG a1afd1e6
-
+"{V0429}Oh, {W75}a kitten..."
 
 @MEG_GKD_A:141 PLY 122df4f6
-
+"Huh?"
 
 @MEG_GKD_A:142 MEG 5205f90a
-
+"{V0430}Look, {W45}right by your feet, {Nm}."
 
 @MEG_GKD_A:143 PLY 0363db10
-
+"You're right."
 
 @MEG_GKD_A:144 MEG 7992012a
-
+"{V0431}So cute! {W90}Here, {W15}come here, come here."
 
 @MEG_GKD_A:148 MEG a0b2bd11
-
+"{V0432}Ahaha, {W45}you're so cute!"
 
 @MEG_GKD_A:149 PLY ef7eee87
-
+"Maybe it's a stray?"
 
 @MEG_GKD_A:150 MEG 46eb092b
-
+"{V0433}Probably."
 
 @MEG_GKD_A:151 MEG e2b3ffa6
-
+"{V0434}But {W30}it's very used to people, {W30}so maybe lots of passersby have been looking after it."
 
 @MEG_GKD_A:152 SYS c47a331f
-
+{Ti0}{Ti2}Meeeow
 
 @MEG_GKD_A:153 MEG b42638f1
-
+"{V0435}Ahaha, {W45}that tickles. {W75}My finger isn't milk, you know."
 
 @MEG_GKD_A:154 PLY a78bc7cf
-
+"It must be hungry."
 
 @MEG_GKD_A:155 MEG 1fd34a99
-
+"{V0436}I suppose..."
 
 @MEG_GKD_A:156 MEG 1112bd8d
-
+"{V0437}...Abandoning a kitten this cute, {W75}what a terrible owner."
 
 @MEG_GKD_A:157 MEG 374711b7
-
+"{V0438}...If it stays here like this, {W45}what's going to happen to it?"
 
 @MEG_GKD_A:158 PLY 4e642551
-
+"It might grow up tough, or it might not..."
 
 @MEG_GKD_A:159 MEG a70bf4c3
-
+"{V0439}Yes..."
 
 @MEG_GKD_A:160 MEG c7f1c325
-
+"{V0440}Right, {W45}that's decided! {W30}You, {W10}come be one of ours!"
 
 @MEG_GKD_A:161 PLY 21e4acd1
-
+"What?!"
 
 @MEG_GKD_A:162 MEG 3f230d8f
-
+"{V0441}Our place is a dojo, {W45}so there's lots of room under the eaves and in the attic, {W30}and it's fun."
 
 @MEG_GKD_A:163 PLY 31261eff
-
+"I see... that's great, kitty."
 
 @MEG_GKD_A:164 MEG 2cb6bcb9
-
+"{V0442}Since I found you in the back alley, {W50}your name is {W75}Roji."
 
 @MEG_GKD_A:165 PLY f725dd6d
-
+"Eh..."
 
 @MEG_GKD_A:166.1 - ea8a9ef0
-
+{Ti0}- Maybe a better name...／- That's a great name／- Cats are called Tama or Kuro
 
 @MEG_GKD_A:167 PLY 088ccaf7
-
+"Maybe you should think of a better name..."
 
 @MEG_GKD_A:168 MEG 5e908c10
-
+"{V0443}What? {W75}Roji is fine, isn't it?"
 
 @MEG_GKD_A:169 MEG 237ce537
-
+"{V0444}See, {W45}Roji likes it too."
 
 @MEG_GKD_A:170 PLY 081e60ea
-
+"You think so..."
 
 @MEG_GKD_A:171 PLY cc6167d9
-
+"That's a really great name."
 
 @MEG_GKD_A:172 MEG 1d1f1c29
-
+"{V0445}Right?! {W60}{Eo}A good sense matters when naming."
 
 @MEG_GKD_A:173 PLY 3d41a0e3
-
+"Cats are called Tama or Kuro, you know."
 
 @MEG_GKD_A:174 MEG e7d8f40d
-
+"{V0446}Such a common name, {W30}no thanks."
 
 @MEG_GKD_A:175 MEG fee6baf2
-
+"{V0447}A good sense matters when naming."
 
 @MEG_GKD_A:176 PLY 1d15285b
-
+"{Ts1}I don't think Roji shows good sense either..."
 
 @MEG_GKD_A:177 MEG 20d81e04
-
+"{V0448}{Eo}{Ts2}Did you say something?"
 
 @MEG_GKD_A:178 PLY 16b7f452
-
+"N-no, nothing..."
 
 @MEG_GKD_A:179 PLY f98ddaba
-
+"...Anyway, you're kind, Kuryuu."
 
 @MEG_GKD_A:180 MEG 63736b5e
-
+"{V0449}Huh?"
 
 @MEG_GKD_A:181 PLY f64f452a
-
+"Not many people would pick up a stray cat and keep it."
 
 @MEG_GKD_A:182 MEG 0c4540d4
-
+"{V0450}Not really. {W75}{Eo}It's just that {W30}we have plenty of room to keep one."
 
 @MEG_GKD_A:183 MEG 36f99556
-
+"{V0451}If you get bored of the dojo, you can leave, {W30}or stay as long as you like, {W30}{Fe3}live however you please. {W60}Right, {W15}Roji?"
 
 @MEG_GKD_A:184 SYS 3d1c243a
-
+...And so, Kuryuu took in a stray cat.
 
 @MEG_GKD_A:185 SYS 0ddb49f3
-
+Kuryuu's smile when she picked up the cat... was so cute.
 
 @MEG_GKD_A:187 PLY 8908d3ed
-
+"Kuryuu, come to think of it..."
 
 @MEG_GKD_A:188 MEG 5492f31f
-
+"{V0452}What?"
 
 @MEG_GKD_A:189 PLY e2c09566
-
+"When you picked up Roji, how did you take it home? Animals aren't allowed on trains, right?"
 
 @MEG_GKD_A:190 MEG 5983ad7b
-
+"{V0453}You ask awkward questions..."
 
 @MEG_GKD_A:191 MEG eddf46ec
-
+"...{V0454}I hid it under my uniform {W20}and rode the train."
 
 @MEG_GKD_A:192 PLY d43f443f
-
+"Under your uniform? Don't tell me, your stomach?"
 
 @MEG_GKD_A:193 MEG a0fb42fe
-
+"{V0455}Yes..."
 
 @MEG_GKD_A:194 PLY 1a12ac2f
-
+"T-that makes it look just like you're pregnant..."
 
 @MEG_GKD_A:195 MEG 856bdba9
-
+"{V0456}Thanks to that, people around me stared."
 
 @MEG_GKD_A:196 PLY 7227e1b4
-
+"Well, sure they stared... Why there, though?"
 
 @MEG_GKD_A:197 MEG 1ce9948c
-
+"{V0457}I couldn't just stuff it into my bag. {W90}That would be... cruel."
 
 @MEG_GKD_A:198 PLY 2ab78297
-
+"I see, that's right..."
 
 @MEG_GKD_A:199 PLY 6d8a71c0
-
+(Kuryuu is really gentle with cats.)
 
 @MEG_GKD_A:200 PLY 3d1b35e3
-
+(......)
 
 @MEG_GKD_A:201 PLY 07b43682
-
+(I think a detour now and then would be nice, though...)
 
 @MEG_GKD_A:202 PLY a756e2e2
-
+(Still, with Kuryuu, it's probably impossible...)
 
 @MEG_GKD_A:203 PLY 57e73e7c
-
+(Ugh... we're already at the station. Just in case, I'll ask if she wants to make a detour.)
 
 @MEG_GKD_A:204 MEG 65ef4b72
-
+"{V0458}See you, {Nm}."
 
 @MEG_GKD_A:205 PLY e53a8ca7
-
+"Ah... want to stop somewhere..."
 
 @MEG_GKD_A:206 MEG 3507b5db
-
+"{V0459}......"
 
 @MEG_GKD_A:207 PLY b9955f64
-
+"Never mind. You wouldn't, right?"
 
 @MEG_GKD_A:208 MEG e9c8c77f
-
+"{V0460}Right. {W25}I'm going straight home. {W60}{F}{e}See you, {Nm}."
 
 @MEG_GKD_A:209 PLY fd5672d5
-
+(...Well, time for me to go home too.)
 
 @MEG_GKD_A:211 PLY 28e8605b
-
+"Kuryuu."
 
 @MEG_GKD_A:212 MEG 41441f85
-
+"{V0461}What?"
 
 @MEG_GKD_A:213 PLY 4c0b059f
-
+"Hey, want to make a detour somewhere?"
 
 @MEG_GKD_A:214 MEG b34f3d90
-
+"{V0462}Didn't I tell you before? {W65}I'm on the Discipline Committee, so {W30}I don't make detours."
 
 @MEG_GKD_A:215 PLY 78d381b7
-
+"...You don't have to be so stiff about it."
 
 @MEG_GKD_A:216 MEG fde61e71
-
+"{V0463}Huh..."
 
 @MEG_GKD_A:217 MEG 9f9c5c47
-
+"{V0464}Am I {W20}really that stiff?"
 
 @MEG_GKD_A:218 PLY 2f45b6f3
-
+"Yeah. I get that you want to set an example by following the school rules, but a little detour is no big deal..."
 
 @MEG_GKD_A:219 MEG 1fe32da5
-
+"{V0465}......"
 
 @MEG_GKD_A:220 PLY 15ff6d26
-
+"Well, Kuryuu, this is where we part."
 
 @MEG_GKD_A:221 MEG 17383eeb
-
+"{V0466}Yes...{Ec}"
 
 @MEG_GKD_A:222 PLY 4a9e7e62
-
+"See you."
 
 @MEG_GKD_A:223 MEG 97bfb620
-
+"{V0467}Ah... {Nm}."
 
 @MEG_GKD_A:224 PLY 3150f24e
-
+"What?"
 
 @MEG_GKD_A:225 MEG b39bf618
-
+"{V0468}...N-{W50}nothing. {W45}{Fm2}Well, see you."
 
 @MEG_GKD_A:226 PLY e03a6130
-
+"Yeah, see you."
 
 @MEG_GKD_A:227 MEG 29d0e5b4
-
+"{V0469}...Actually, wait a moment!"
 
 @MEG_GKD_A:239 PLY c0bdaccc
-
+"What is it?"
 
 @MEG_GKD_A:240 MEG 0b4f2ea7
-
+"{V0470}{Bt120}...I thought I'd {W60}patrol the shopping street{W5} now."
 
 @MEG_GKD_A:241 MEG f34e9ad4
-
+"{V0471}If you're free... {W60}want to come along?"
 
 @MEG_GKD_A:242 PLY f4710c4a
-
+"Really? Is that okay?"
 
 @MEG_GKD_A:243 MEG 73fb38c5
-
+"{V0472}Y-{W45}yes..."
 
 @MEG_GKD_A:244 PLY 4add5852
-
+"Of course I'll go."
 
 @MEG_GKD_A:245 MEG c32a9ac3
-
+"{V0473}This isn't a detour, understand? {W30}It's a patrol! {W25}{Fe1}{Eo}You get that, right?"
 
 @MEG_GKD_A:246 PLY 0a9de6ab
-
+"I get it. Shall we go, then?"
 
 @MEG_GKD_A:247 MEG ea57c572
-
+"{V0474}Yes."
 
 @MEG_GKD_A:248 SYS 1b19d33b
-
+...And so, I walked the shopping street with Kuryuu.
 
 @MEG_GKD_A:250 MEG a0141ca4
-
+"{V0475}What?"
 
 @MEG_GKD_A:251 PLY 99304033
-
+"Want to stop by the shopping street again today?"
 
 @MEG_GKD_A:252 MEG b2f26128
-
+"{V0476}Huh...?"
 
 @MEG_GKD_A:253 MEG c79d8366
-
+"{V0477}If it's a P-{W70}patrol, then fine."
 
 @MEG_GKD_A:254 PLY 7aa469c1
-
+"Hahaha..."
 
 @MEG_GKD_A:255 PLY 3db6d0b9
-
+"Right. Then shall we go on a patrol?"
 
 @MEG_GKD_A:256 MEG 79d86301
-
+"{V0478}Yes."
 
 @MEG_GKD_A:258 MEG c0a8f19e
-
+"{V0479}Haah..."
 
 @MEG_GKD_A:259 PLY 32adc60a
-
+"What's wrong? Why the sigh?"
 
 @MEG_GKD_A:260 MEG aa0368a0
-
+"{V0480}Walking the shopping street {W30}in uniform... {W60}{Fe6}that's how delinquency starts..."
 
 @MEG_GKD_A:261 MEG f56e126b
-
+"{V0481}That's right! {W60}Evil takes advantage of gaps in your heart like this, {W10}{Fm4}and creeps up on you!"
 
 @MEG_GKD_A:262 PLY 7f4c2cdf
-
+"But this is a patrol, isn't it?"
 
 @MEG_GKD_A:263 MEG 401362e8
-
+"{V0482}Ah... {W75}you're right, {W45}it's a patrol. {W60}{F2}So it's fine."
 
 @MEG_GKD_A:264 MEG b12a4453
-
+"{V0483}......"
 
 @MEG_GKD_A:265 MEG 314190e8
-
+"{V0484}{Fm4}Phew... {W60}Still..."
 
 @MEG_GKD_A:266 MEG 38ce7365
-
+"{V0485}If someone saw me like this..."
 
 @MEG_GKD_A:267 PLY df52d90c
-
+"It's a patrol, so there's no problem, right?"
 
 @MEG_GKD_A:268 MEG 63b69d6d
-
+"{V0486}R-{W30}right, {W60}...no problem."
 
 @MEG_GKD_A:269 MEG 0a2ca7f3
-
+"{V0487}......"
 
 @MEG_GKD_A:270 MEG b8c3f526
-
+"{V0488}...What's with that, {W10}acting so cool about it? {W60}I don't like it."
 
 @MEG_GKD_A:271 PLY 87502ca7
-
+"N-no... I'm not cool about it..."
 
 @MEG_GKD_A:272 PLY 675ec846
-
+"My heart's pounding too. It's just a different kind of pounding..."
 
 @MEG_GKD_A:273 MEG 7d16d4f8
-
+"{V0489}Huh?"
 
 @MEG_GKD_A:274 PLY 513d902e
-
+"My heart's not pounding because of breaking school rules, it's... because I'm with you, Kuryuu..."
 
 @MEG_GKD_A:275 PLY d836d5bc
-
+"Ah, no, I mean... walking with a girl, just the two of us, makes my heart pound."
 
 @MEG_GKD_A:276 MEG 076eafd2
-
+"{Bt120}{Nm}..."
 
 @MEG_GKD_A:277 MEG 0fa0c3d4
-
+"{V0491}C-{W65}come on! {W25}Let's patrol over there too!"
 
 @MEG_GKD_A:278 PLY 68887d11
-
+"I see, toward the bakery. That's a hangout spot."
 
 @MEG_GKD_A:279 MEG 2446f938
-
+"{V0492}Exactly{Ec}."
 
 @MEG_GKD_A:281 MEG f8ee7ed6
-
+"{V0493}What?"
 
 @MEG_GKD_A:282 PLY abb93f4a
-
+"Want to stop somewhere on the way?"
 
 @MEG_GKD_A:283 MEG 31fa08f5
-
+"{V0494}If it's a patrol, fine."
 
 @MEG_GKD_A:284 PLY 4e407c27
-
+"...Then let's call it a patrol."
 
 @MEG_GKD_A:285 MEG 78925cd5
-
+"{V0495}Hehe. {W50}So, where are we stopping?"
 
 @MEG_GKD_A:286 PLY 1659421d
-
+"Let's see... How about the game center?"
 
 @MEG_GKD_A:287 MEG 70b103fe
-
+"{V0496}G-{W60}game center?! {W40}There's no way {W15}I'd go to a place like that!"
 
 @MEG_GKD_A:288 MEG f7398009
-
+"{V0497}What do you mean, why? {W75}I'm on the Discipline Committee!"
 
 @MEG_GKD_A:289 PLY 4a22c339
-
+"That's why we're patrolling, right?"
 
 @MEG_GKD_A:290 MEG b1c077df
-
+"{V0498}Ah... {W60}R-right. {W90}If you're patrolling, you can't skip the game center."
 
 @MEG_GKD_A:291 PLY b69cf015
-
+"Exactly. Shall we go, then?"
 
 @MEG_GKD_A:292 MEG 3c2000a9
-
+"{V0499}Y-yes..."
 
 @MEG_GKD_A:293 MEG 9214c7c7
-
+"{V0500}{Ts1}...Somehow, {W45}I feel like I've been easily {W20}talked into this..."
 
 @MEG_GKD_A:294 PLY 21966822
-
+"{Ts2}Did you say something?"
 
 @MEG_GKD_A:295 MEG bc024393
-
+"{V0501}N-{W45}nothing!"
 
 @MEG_GKD_A:296 MEG f8478913
-
+"{V0502}Same as always, {W30}dim {W15}and noisy... {W60}{Fe8m1}worth patrolling, though."
 
 @MEG_GKD_A:297 PLY aa49b73d
-
+"Huh? You're really going to patrol?"
 
 @MEG_GKD_A:298 MEG 92639d9d
-
+"{V0503}Of course. {W55}{Fe6}I'll go take a look in the back{F1}."
 
 @MEG_GKD_A:299 PLY a2c1569c
-
+"Ah... she's gone. I never thought she'd really patrol..."
 
 @MEG_GKD_A:300 PLY d954fcf9
-
+"Maybe I brought her to the wrong place?"
 
 @MEG_GKD_A:301 MEG 3ffe3db8
-
+"{V0504}There doesn't seem to be anyone suspicious."
 
 @MEG_GKD_A:302 PLY b627f6d6
-
+"I see, that's good."
 
 @MEG_GKD_A:303 PLY 2ef5b338
-
+"Kuryuu, since we're here, want to play something?"
 
 @MEG_GKD_A:304 MEG 868f6916
-
+"{V0505}Huh? {W120}...N-no, I'm fine. {W65}{Fe6}A Discipline Committee member {Ec}playing games at the game center after school{Eh}..."
 
 @MEG_GKD_A:305 PLY 876a2929
-
+"I see..."
 
 @MEG_GKD_A:306 MEG 7bc3fa49
-
+"{V0506}{Nm}, why don't you play? {W45}I'll wait."
 
 @MEG_GKD_A:307 PLY 360644c5
-
+"You think? ...Then maybe I'll try the crane game."
 
 @MEG_GKD_A:308 MEG c8574458
-
+"{V0507}Huh?"
 
 @MEG_GKD_A:309 MEG 0a86d627
-
+"{V0508}You're going to play the crane game?"
 
 @MEG_GKD_A:310 PLY 733b13b8
-
+"Yeah, why?"
 
 @MEG_GKD_A:311 MEG f882621b
-
+"{V0509}......"
 
 @MEG_GKD_A:312 MEG ece34464
-
+"{V0510}...T-{W40}then, {W40}there's a stuffed cat in there, so could you win it for me?"
 
 @MEG_GKD_A:313 MEG 06324315
-
+"{V0511}It looks like Roji, and it's so cute. {W45}{Fe3}I noticed it while I was patrolling..."
 
 @MEG_GKD_A:314 PLY 696225c1
-
+"I see."
 
 @MEG_GKD_A:315 PLY a033d3a9
-
+"Then try it yourself. The joy of winning it is bigger when you get it yourself."
 
 @MEG_GKD_A:316 MEG f11eaead
-
+"{V0512}But..."
 
 @MEG_GKD_A:317 PLY 142fc024
-
+"You don't have to be so stiff, Kuryuu. I'll show you how."
 
 @MEG_GKD_A:318 MEG 6438d09a
-
+"{V0513}......"
 
 @MEG_GKD_A:319 MEG 0530e507
-
+"{V0514}...R-{W90}really? {W75}Then... I'll try."
 
 @MEG_GKD_A:320 PLY 71f7e840
-
+"Okay! First, check the condition of the plush you're after."
 
 @MEG_GKD_A:321 MEG 2b84bc21
-
+"{V0515}Condition? {W90}{Fe3}...Hmm, {W75}is that important?"
 
 @MEG_GKD_A:322 PLY f7fe32a9
-
+"Of course. For example..."
 
 @MEG_GKD_A:323 SYS 804b9c9b
-
+...And so, I played the crane game with Kuryuu.
 
 @MEG_GKD_A:324 SYS ac5a9b22
-
+On her third try, Kuryuu won the stuffed cat beautifully.
 
 @MEG_GKD_A:325 SYS 4ddd8ad6
-
+Good for you, Kuryuu.
 
 @MEG_GKD_A:327 MEG 33054bea
-
+"{V0516}What?"
 
 @MEG_GKD_A:328 PLY 0784b9f1
-
+"Want to stop by the game center again today?"
 
 @MEG_GKD_A:329 MEG d8969499
-
+"{V0517}Huh..."
 
 @MEG_GKD_A:330 MEG e458d309
-
+"{V0518}If it's a P-{W65}patrol, fine."
 
 @MEG_GKD_A:331 PLY 87c9175a
-
+"Hahaha, then let's go on a patrol."
 
 @MEG_GKD_A:332 MEG daf94bb5
-
+"{V0519}Yes."
 
 @MEG_GKD_A:333 MEG 70f9273e
-
+"{V0520}Well, {W10}I'll go do a quick patrol."
 
 @MEG_GKD_A:334 PLY cc4af171
-
+"Okay."
 
 @MEG_GKD_A:335 PLY f2f12494
-
+(She does patrol properly...)
 
 @MEG_GKD_A:336 PLY 49337ae1
-
+"H-huh? You're back early."
 
 @MEG_GKD_A:338 MEG 044d91d5
-
+"{Nm}, {V0521}{W10}what should I do?{Sd}"
 
 @MEG_GKD_A:339 MEG 9e38b5db
-
+"{V0522}In the crane game, {W45}there's a different version of that cat plush from the other day."
 
 @MEG_GKD_A:340 PLY adaeb24e
-
+"Hahaha, is that so."
 
 @MEG_GKD_A:341 MEG 70c843c0
-
+"{V0523}...But, {W60}I'm on the Discipline Committee, {W65}{Fe1}and playing games after school so many times..."
 
 @MEG_GKD_A:342 PLY 73a9f4b4
-
+"A crane game is no big deal, right? If you don't get it now, someone else might take it."
 
 @MEG_GKD_A:343 MEG 3bab650d
-
+"{V0524}Y-{W90}you're right..."
 
 @MEG_GKD_A:344 MEG 5ee64e0f
-
+"{V0525}Then, {W30}I'll give it a try."
 
 @MEG_GKD_A:345 SYS 27cf099c
-
+...And so, I had fun playing the crane game with Kuryuu.

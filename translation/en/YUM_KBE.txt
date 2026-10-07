@@ -2,208 +2,208 @@
 # Format: docs/translation-format.md
 
 @YUM_KBE:41 YUM 884fa947
-
+"{Nm}..."
 
 @YUM_KBE:43 PLY f146cc29
-
+"Ah! H-Hoshino!"
 
 @YUM_KBE:48 YUM 8999f8f8
-
+"{V0663}{W15}I{W3} didn't{W3} want{W45} to{W1} see{W1} that{W1}...{W33} I{W8} really didn't.{W120} {Nm}{W1},{W1} you...{W22} {Fe9}{Ec}with{W4} another{W8} girl{W1}...{W39} doing that..."
 
 @YUM_KBE:49 PLY 0fd665d3
-
+"H-Hoshino..."
 
 @YUM_KBE:52 YUM ce11873e
-
+"{V0664}{W12}You were far{W6} away,{W2} so{W1} I{W1} couldn't{W5} see{W2} it{W2} very{W1} well{W1} at{W1} all{W1}, but{W1}{W1}{W75} {Fe9}it looked{W1} just{W1} like{W30} a{W5} couple{W5} in{W5} love{W1}...{W1}{W2}"
 
 @YUM_KBE:53 PLY b2ecf847
-
+"Ugh..."
 
 @YUM_KBE:54 YUM a07f0157
-
+"{V0665}{W12}I{W8}...{W69} what should I do?{W75} {Ec}If it's{W1} better{W21} that{W2} we{W1} don't see each other{W4} anymore..."
 
 @YUM_KBE:55 PLY 2237270f
-
+"W-wait, Hoshino..."
 
 @YUM_KBE:56 PLY 4f74e8c2
-
+"T-that's... that's... um... you're mistaken, Hoshino."
 
 @YUM_KBE:57 YUM ba8bcf9a
-
+"{V0666}{W15}Eh?"
 
 @YUM_KBE:58 PLY 726f52b0
-
+"You misread it. Between me and that girl, um... it's not what you're thinking, Hoshino."
 
 @YUM_KBE:59 YUM 9f468015
-
+"{V0667}{W8}...{W3} Really{W5}?"
 
 @YUM_KBE:60 PLY 751ce1bc
-
+"Yeah... it's true."
 
 @YUM_KBE:61 YUM 770cab3a
-
+"{V0668}{W5}......"
 
 @YUM_KBE:63 YUM da3e1b4a
-
+"{V0669}{W12}Yeah...{W78} I{W8} want{W42} to{W1} think{W1} so{W5} too{W1}{W1}.{W114} ...So,{W45} I'll forget{W26} {Ec}what{W3} happened today."
 
 @YUM_KBE:64 PLY 5128afa1
-
+"Hoshino..."
 
 @YUM_KBE:65 YUM 9bdebd28
-
+"{V0670}{W8}But,{W45} don't ever{W18} do something like this again."
 
 @YUM_KBE:66 PLY b2274e26
-
+"Yeah, I know. I promise."
 
 @YUM_KBE:68 YUM 6a0eba2b
-
+"{V0671}{W12}Well, goodbye... {Nm}..."
 
 @YUM_KBE:71 PLY 035b6d2d
-
+(I'm sorry... Hoshino. ...What an awful guy I am...)
 
 @YUM_KBE:72 PLY 772be3f3
-
+(I have to sort out my feelings soon. Before it's too late to fix anything...)
 
 @YUM_KBE:73 YUM df34300b
-
+"{V0673}{W12}I{W8}...{W84} I was wrong about you, {Nm},{W33} {Ec}all{W4} along{W4}."
 
 @YUM_KBE:74 PLY 7cb658b8
-
+"Eh...?"
 
 @YUM_KBE:75 YUM 8f2d62ea
-
+"{V0674}{W12}I never thought you...{W75} {Fe9}would be such an awful person."
 
 @YUM_KBE:79 YUM 77251a49
-
+"{V0675}{W12}That{W3} girl{W1}...{W33} is she{W5} in Year{W5} 1{W3}?{W78} She's{W2} such{W1} a{W2} cute girl{W1}."
 
 @YUM_KBE:82 YUM e3a240f2
-
+"{V0676}{W8}If you have a girl like that,{W45} {Eh}you didn't have to{W8} be{W30} nice{W4} to me{W3}..."
 
 @YUM_KBE:83 YUM ef2703f9
-
+"{V0677}{W12}Narumi is{W39} so cheerful{W3},{W18} and such{W1} a{W1} cute{W1} girl{W1}, isn't{W1} she?"
 
 @YUM_KBE:84 YUM a03cdbe8
-
+"{V0678}{W8}{Nm}, I can see{W20} why you're drawn to her."
 
 @YUM_KBE:85 YUM 08de3e91
-
+"{V0679}{W12}If you have a girl like that,{W36} {Eh}you didn't have to{W8} be nice{W4} to me..."
 
 @YUM_KBE:86 YUM ac79d33c
-
+"{V0680}{W10}That woman{W4}...{W30} she's the Year{W4} 3{W4} student,{W2} Mizusawa{W4}{W4}{W1}, right{W1}?{W28} {Ec}{F9}{Eo}She's{W1} really{W1} pretty{W1}, isn't she{W5}?"
 
 @YUM_KBE:87 YUM 2d0f10a2
-
+"{V0681}{W12}She's cheerful{W4},{W30} the kind of girl boys{W8} look up to{W8}{W1}{W1}{W4}...{W72} {Eo}{Nm}{W1}, I can see why you're drawn to her."
 
 @YUM_KBE:88 YUM 6a920d2c
-
+"{V0682}{W8}If you have someone like that,{W4}{W30} {F9}{Ec}you didn't have to{W8} be nice{W4} to me..."
 
 @YUM_KBE:89 YUM 1bbd9cbd
-
+"{V0683}{W8}{F9}That{W1} girl{W2}...{W30} she's Sakino from the{W8} soccer club{W4}, isn't she?{W33} {F6}Pretty,{W15} athletic{W3}{W3}, and{W30} cheerful{W4}..."
 
 @YUM_KBE:91 YUM 93b1a76b
-
+"{V0684}{W8}{Nm}, I think I can see{W20} why you like her."
 
 @YUM_KBE:92 YUM 88b66ba8
-
+"{V0685}{W12}If you have a girl like that,{W33} {Eh}you didn't have to{W8} be{W1} nice{W4} to{W1} me{W1} at{W12} all..."
 
 @YUM_KBE:93 YUM 25f82551
-
+"{V0686}{W15}That girl,{W24} Futami{W3}{W1}...{W25} {Ec}{W5}{F9}{Eo}right?{W57} The one who's incredibly{W8} smart{W1}{W1}{W1} and{W33} famous{W4}{W4}..."
 
 @YUM_KBE:94 YUM 01a43469
-
+"{V0687}{W12}She's pretty{W4}, isn't she...{W57} {F9}{Ec}{Nm},{W3} I can see{W19} why you're drawn to her."
 
 @YUM_KBE:96 YUM 05c2c194
-
+"{V0688}{W10}If you have a girl like that,{W39} {Eh}you didn't have to{W8} be{W1} nice{W4} to{W1} me{W1} at{W3} all{W1}{W1}{W1}..."
 
 @YUM_KBE:97 YUM a67e74f4
-
+"{V0689}{W10}That girl,{W27} Shijou{W3}, right?{W30} {Ec}{W5}{F9}{Eo}The{W4} famous{W4}{W8}{W8} young lady{W6}, isn't she?"
 
 @YUM_KBE:98 YUM c18b900a
-
+"{V0690}{W10}Beautiful,{W24} {Eh}demure{W1}{W1}{W1},{W18} and{W4} refined{W1}{W1}...{W55} {Ec}{W5}{Fe6m3}{Eo}Even{W8} I{W1}{W1} would{W9} admire{W2} her{W2}."
 
 @YUM_KBE:99 YUM 3cdf2987
-
+"{V0691}{W9}If you have a girl like that,{W50} {F9}{Ec}you{W8} didn't{W33} have{W5} to{W2} be{W2} nice{W1} to{W1} me{W1} at{W3} all{W1}{W1}{W1}..."
 
 @YUM_KBE:100 YUM 10fb3b77
-
+"{V0692}{W18}Kuryuu{W6} from{W2} the{W2} Discipline Committee{W5}{W15},{W1}{W3}{W2} she's{W57} {Fe9}{Ec}pretty{W1}{W1}{W1}, serious{W36}{W1}{W1}{W1}, and{W21} {Eo}responsible{W5}{W5}{W5}{W1}...{W22} {Ec}{W5}{F9}{Eo}A really{W1} dependable{W1} person{W1}{W1}{W5}, isn't she?"
 
 @YUM_KBE:101 YUM 7c199db4
-
+"{V0693}{W8}{Nm}, I can see{W15} why you're drawn to her."
 
 @YUM_KBE:102 YUM 8825d780
-
+"{V0694}{W12}If you have a girl like that,{W45} {Eh}you{W9} didn't{W2} have{W5} to{W1} be{W1} nice{W1} to{W2} me{W3} at{W1} all{W1}..."
 
 @YUM_KBE:103 PLY adce6d04
-
+"Hoshino, I'm sorry... I..."
 
 @YUM_KBE:104 YUM 235c5299
-
+"{V0695}{W15}No{W1}{W2},{W45} it's okay{W1} now.{W66} {Fe1}{Nm},{W3} your{W8} troubled{W4} face{W1}...{W44} {Fe6}I don't want to see it."
 
 @YUM_KBE:105 YUM 2e36710f
-
+"{V0696}{W12}I{W8}...{W81} won't{W30} see you anymore.{W88} {Fe6}{Nm},{W3} I want to keep only{W57} {F9}{Ec}good{W4} memories{W4} of us{W1}."
 
 @YUM_KBE:107 YUM e51f5787
-
+"{V0697}{W10}Goodbye!"
 
 @YUM_KBE:108 PLY 28313ad8
-
+"Ah... Hoshino...!"
 
 @YUM_KBE:109 PLY 471fac2d
-
+(...I've done something that can't be undone...)
 
 @YUM_KBE:110 PLY 8a8085a1
-
+(Hoshino... I'm sorry...)
 
 @YUM_KBE:111 YUM 2af8a9bb
-
+"{V0699}{W12}I{W8}...{W93} {Nm},{W3} I had you{W36} all{W4} wrong."
 
 @YUM_KBE:112 YUM 3d1ecb8d
-
+"{V0700}{W15}I never thought you...{W66} would be such an awful person."
 
 @YUM_KBE:113 YUM 4976a021
-
+"{V0701}{W8}To think that, besides{W8} the girl from the other day{W4}...{W15} you had{W2} another girl close to you..."
 
 @YUM_KBE:114 PLY 0d2739f4
-
+"Hoshino... that's..."
 
 @YUM_KBE:115 YUM cc8c0d7b
-
+"{V0702}{W12}No{W2}{W4},{W52} that's{W3} enough{W4} now{W2}.{W1}{W72} {Fe9}Excuses{W4}...{W2} I don't want to hear them..."
 
 @YUM_KBE:116 YUM b81ca2db
-
+"{V0703}{W8}{Nm}{W3}...{W57} I want to keep{W4} only the good memories of us..."
 
 @YUM_KBE:118 YUM 11361577
-
+"{V0704}{W18}I{W8}...{W63} I won't,{W15} see{W1} you{W1} anymore{W1}.{W88} {Fe9}Even if we met...{W73} {Fe6}{Ec}I wouldn't know{W3} what kind of face to make."
 
 @YUM_KBE:119 YUM 7ec61722
-
+"{V0705}{W12}Goodbye!"
 
 @YUM_KBE:120 PLY 97307e0e
-
+"Ah! Hoshino!"
 
 @YUM_KBE:121 PLY e0164981
-
+(I'm hopeless. I couldn't pick just one, and I let it drag on indecisively until it came to this...)
 
 @YUM_KBE:122 PLY 4de7c50b
-
+(I... I...)
 
 @YUM_KBE:123 YUM fffdc8b5
-
+"{V0707}{W12}Oh, come on,{W57} you're not going{W4} to say{W4} you forgot{W29} our promise{W4},{W33} are{W1} you{W1}?"
 
 @YUM_KBE:124 YUM 82e1a7c9
-
+"{V0709}{W12}Oh, come on,{W60} {Eh}you're not going{W4} to say{W4} you forgot{W30} our promise{W4},{W42} {Ec}are you?"
 
 @YUM_KBE:125 YUM 28354ac3
-
+"{V0710}{W12}Don't tell me{W1}{W1}...{W48} that besides{W1} the{W1} girl{W8} from{W1} the{W1} other{W1} day{W4},{W1} there's{W30} {Eh}another{W4} girl you're close to..."
 
 @YUM_KBE:126 PLY 742f86e4
-
+"Hoshino, I'm sorry... I..."
 
 @YUM_KBE:127 YUM 3f87f53e
-
+"{V0789}No,{W53} that's{W2} enough.{W80} {Fe9}Please...{W30} don't say anything more..."
 
 @YUM_KBE:128 YUM 605f01a1
-
+"{V0790}{Nm},{W30} I only want{W3} to keep the good memories of us..."
 
 @YUM_KBE:129 YUM 4216d1ce
-
+"{V0791}Goodbye!"

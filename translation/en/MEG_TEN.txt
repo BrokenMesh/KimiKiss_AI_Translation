@@ -2,85 +2,85 @@
 # Format: docs/translation-format.md
 
 @MEG_TEN:34 MEG 47e71a40
-
+"{V0007}{W5}Oh, {Nm}. Good morning."
 
 @MEG_TEN:36 PLY 1a809768
-
+"Morning, Kuryuu."
 
 @MEG_TEN:40 MEG 300598e5
-
+"{V0008}{W5}You're early this morning. {W40}Commendable, {W15}commendable{Eo}."
 
 @MEG_TEN:41 PLY 7aa469c1
-
+"Hahaha..."
 
 @MEG_TEN:43 PLY af2bdcec
-
+"Oh, Kuryuu, morning."
 
 @MEG_TEN:45 MEG 35ee9dee
-
+"{V0009}{W5}Oh, {Nm}. Good morning."
 
 @MEG_TEN:46 MEG 8386da28
-
+"{V0010}{W5}You're early this morning."
 
 @MEG_TEN:47 PLY 87af5b42
-
+"Well, yeah."
 
 @MEG_TEN:48 MEG 3248b7ae
-
+"{V0011}{W5}If you came in properly like this every morning, {W20}{Eo}it would lighten my workload."
 
 @MEG_TEN:50 PLY bb065e65
-
+"Oh, good morning, Kuryuu."
 
 @MEG_TEN:51 MEG 72fc0a10
-
+"{V0012}Oh, {W20}{F3}good morning, {Nm}."
 
 @MEG_TEN:52 PLY 322ec586
-
+"It's hot again today."
 
 @MEG_TEN:53 MEG 0220215f
-
+"{V0013}{W5}It's hot {W5}because you keep saying so. {W50}{Eo}A man should look cool {W30}{F1}no matter how hot it gets."
 
 @MEG_TEN:54 PLY 0ac44894
-
+"You can't just say that..."
 
 @MEG_TEN:55 MEG 1d99ad7c
-
+"{V0014}See you{Eo}."
 
 @MEG_TEN:56 PLY 537cd13c
-
+"Ah... she's gone..."
 
 @MEG_TEN:57 MEG ad26ba4b
-
+"{V0015}Ah... {W45}good morning, {Nm}."
 
 @MEG_TEN:59 MEG bec4e721
-
+"{V0016}Heading to class?"
 
 @MEG_TEN:60 PLY 733b13b8
-
+"Yeah, why?"
 
 @MEG_TEN:62 MEG 52d84361
-
+"{V0017}Then why don't we go together?"
 
 @MEG_TEN:63 PLY 5d49de5e
-
+"Sure, but what about your Discipline Committee duty?"
 
 @MEG_TEN:64 MEG 50c0fe37
-
+"{V0018}I just switched off, so it's fine."
 
 @MEG_TEN:65 PLY a9f2f3e4
-
+"I see, then let's go."
 
 @MEG_TEN:66 MEG 320db16a
-
+"{V0019}Yes."
 
 @MEG_TEN:67 MEG 700b8af9
-
+"{V0020}Ah... {W30}good morning, {Nm}."
 
 @MEG_TEN:68 MEG 847392b2
-
+"{V0021}{W5}Nothing wrong with your uniform, {W35}perfect."
 
 @MEG_TEN:69 PLY 693ec0f3
-
+"See you in class, then."
 
 @MEG_TEN:70 MEG c11618d9
-
+"{V0022}Yes."

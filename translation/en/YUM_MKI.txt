@@ -2,106 +2,106 @@
 # Format: docs/translation-format.md
 
 @YUM_MKI:48 YUM f1e56b26
-
+"{V1524}I'm sorry,{W30} I don't really understand what you mean..."
 
 @YUM_MKI:51 YUM 7710d516
-
+"{V1525}I'm sorry,{W45} that topic{W50} seems too difficult for me..."
 
 @YUM_MKI:52 YUM 07cf3a07
-
+"{V1526}I'm sorry,{W30} I've never really{W35} thought about things like that..."
 
 @YUM_MKI:55 YUM 1a268870
-
+"{V1527}{W10}Is that kind of talk{W45} something I have to learn too...?{W45} But..."
 
 @YUM_MKI:56 YUM 94c312cf
-
+"{V1528}I...{W75} I want to talk about something more fun."
 
 @YUM_MKI:57 YUM faf50698
-
+"{V1519}Hmm,{W50} I see.{W50} It sounds like a fun story, but..."
 
 @YUM_MKI:59 YUM 640f8d51
-
+"{V1520}I'm sorry.{W45} That topic right now{W10} is a little..."
 
 @YUM_MKI:60 YUM 45ea3dc4
-
+"{V1521}I'm sure it's an interesting story,{W35} but..."
 
 @YUM_MKI:61 YUM 91a43963
-
+"{V1522}That topic...{W85} Right now,{W30} um...{W45} it's just not{W10} quite right, I think..."
 
 @YUM_MKI:67 YUM e2e076dd
-
+"{V1523}N-{W60}now? Why tell me that now..."
 
 @YUM_MKI:71 YUM 500bbc3e
-
+"{V1540}Eeh?!{W10} I-{W15}I mean, you can't just say that out of the blue..."
 
 @YUM_MKI:72 PLY 6c1b2754
-
+"S-sorry."
 
 @YUM_MKI:78 YUM 2b4d929a
-
+"{V1738}Eh..."
 
 @YUM_MKI:79 YUM 80e6da37
-
+"{V1739}Ah...{W45} Is there, maybe,{W35} something{W35} on my face?"
 
 @YUM_MKI:80 PLY 7f69a5dd
-
+"Ah... no, that's not it. Hahaha..."
 
 @YUM_MKI:81 YUM 2338773c
-
+"{V1740}{W5}Really?"
 
 @YUM_MKI:83 PLY 8331d188
-
+"Hoshino."
 
 @YUM_MKI:84 YUM 261bd6e5
-
+"{V1741}Yes?"
 
 @YUM_MKI:88 YUM bb62112e
-
+"{V1742}......"
 
 @YUM_MKI:89 YUM d7741e95
-
+"{V1743}What's wrong? Laughing all of a sudden."
 
 @YUM_MKI:90 PLY 9c347979
-
+"N-no... it's nothing."
 
 @YUM_MKI:91 YUM d32a8d7e
-
+"{V1744}{W5}Really?"
 
 @YUM_MKI:93 YUM 222252de
-
+"{V1745}Yes?"
 
 @YUM_MKI:95 YUM 9315e431
-
+"{V1746}Ah..."
 
 @YUM_MKI:96 YUM 3f8878d6
-
+"{V1747}W-{W20}why are you glaring at me?"
 
 @YUM_MKI:97 PLY d719a086
-
+"S-sorry, I didn't mean to."
 
 @YUM_MKI:98 YUM 76798b9b
-
+"{V1748}R-{W30}really?"
 
 @YUM_MKI:109 YUM a474ff3b
-
+"{V1749}Eek!"
 
 @YUM_MKI:110 YUM a1bc113f
-
+"{V1750}{W5}Ah..."
 
 @YUM_MKI:111 PLY 634f9920
-
+"Ah..."
 
 @YUM_MKI:113 YUM 073a620a
-
+"{V1751}S-{W10}sorry.{W10} I was startled..."
 
 @YUM_MKI:114 PLY 15ccbb91
-
+"N-no, it's fine. I'm the one who should be sorry."
 
 @YUM_MKI:115 YUM 0d80b9d5
-
+"......"
 
 @YUM_MKI:116 YUM 26b4b51e
-
+"{V1529}I'm sorry...{W30} Talking with me{W20} must be boring."
 
 @YUM_MKI:118 YUM c06327bc
-
+"{V1530}I'm sorry,{W30} {Ec}I can't talk well...{W25}{W15}{Fe9}{Eo} I'm just not used to talking with boys..."
