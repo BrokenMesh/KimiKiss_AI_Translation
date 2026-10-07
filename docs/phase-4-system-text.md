@@ -34,7 +34,7 @@ English advances are `width[c] * scale` px in the message window and `width[c] *
 - Mode (arg 6): 0 = text only, 1 = one OK button, 2 = yes/no. Modes 1 and 2 add two blank lines of height for the buttons (button sprites, not text).
 - Height = `(lines [+2]) * 24`, centred on y 0. Nothing checks the screen: 14 lines in mode 1/2 is (14 + 2) x 24 = 384 px plus a 16 px frame, 400 of the 448 px screen.
 - Width when `width` is `nil`: first pass counts characters per line (breaks at 10 and 0x815E), `textW = maxChars * 18`. `DialogBox` is a 16 px 9-slice scaled to `textW / 16`, total width `textW + 32`. When a width is passed the engine clamps it itself (`< 128 -> 96`, `> 608 -> 576`, else `-32`), which shows the design limit: **576 px of text, 608 px box on a 640 px screen**. Original maximum is 31 chars (558 px) in `SystemSave:10.4` and 6 lines.
-- **ConfirmDialog is not patched** (`patches/scripts` has no entry). The box width comes from character count x 18, not from pixels, so a 60-character English line (about 540 px of text) would get a 1,080 px box. Either patch the first loop to sum `xOf:` widths (then `max_px` 576 is right) or keep every line to **32 chars** (32 x 18 = 576) until that is done.
+- **ConfirmDialog is patched** (`ConfirmDialog.initialize7.asm`, D-017): with `width` nil the box width is the pixel width of the longest built line (`xOf:`), so `max_px` 576 is right. The character count is still used for wrapping when a width is passed (no call site does).
 
 ### Message window
 
@@ -84,7 +84,7 @@ Each of `ConfigSave`, `LoadMenu`, `MainMenu`, `MemoryCard`, `MemoryCardCheck`, `
 | `GameParam:166,167` | default surname / given name | 72 | 1 | `NameEntryEdit` has 3 + 3 cells of 24 px |
 
 - `StaffRoll:23` is `"　　and　"`, then `getMyouji`, `StaffRoll:25`, `getNamae`: the player's name is credited at run time. `StaffRoll:20` replaces row 182 only after the game is cleared.
-- Deck names appear in three places: `DeckListItem` (`TextLine`, pitch 24, name begins 160 px left of the row centre; the first counter sprite sits at the centre in edit mode, so about 160 px), `DeckView>>setName` (`FontChar` at a fixed **26 px pitch**, at most **6** characters, unpatched) and the `NameEntryList` deck page. `NameEntry` holds 6 cells, so decks cannot exceed 6 characters.
+- Deck names appear in three places: `DeckListItem` (`TextLine`, pitch 24, name begins 160 px left of the row centre; the first counter sprite sits at the centre in edit mode, so about 160 px), `DeckView>>setName` (`FontChar` positions from `xOf:` at pitch 26, cut at 156 px = 6 Japanese characters, D-017) and the `NameEntryList` deck page. `NameEntry` holds 6 cells, so decks cannot exceed 6 characters.
 - Leading `U+3000` pairs in credits are 48 px indents. English can keep them (0x8140 still advances 24 px).
 
 ### Not translated

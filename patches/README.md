@@ -21,6 +21,8 @@ A file headed `; add: <Class> <method> argc=<n> table=...` adds a new method ins
 | `TextLine.setPos0.asm`, `restart0`, `move4` | 64 / 88 / 82 bytes | 63 / 87 / 81 bytes | Positions from `xOf:` |
 | `TextLineC.setText1.asm` | 116 bytes | 120 bytes | Centred menu text: positions from `xOf:`; stores `text` first |
 | `TextLineC.setPos0.asm`, `restart0`, `move4` | 76 / 100 / 94 bytes | same sizes | Positions from `xOf:` |
+| `ConfirmDialog.initialize7.asm` | 672 bytes | 736 bytes | Box width from the pixel width of the longest line (`line xOf: text length` on the built `TextLineC` lines) instead of characters x 18; Japanese box unchanged (D-017) |
+| `DeckView.setName0.asm` | 115 bytes | 171 bytes | Deck name on the deck screen: glyph x from a measuring `TextLineC` (`xOf:`), 6-character cut becomes a 156 px cut; Japanese unchanged (D-017) |
 
 ## ELF
 
