@@ -2,169 +2,169 @@
 # Format: docs/translation-format.md
 
 @ERI_TEL:9 PLY 31318805
-
+"Hello, this is {Nm}."
 
 @ERI_TEL:11 ERI 08a0f5ba
-
+"{V1226}{W8}Ah,{W15} {Nm}?{W24} It's{W8} me,{W30} Futami{W2} Eriko."
 
 @ERI_TEL:12 PLY 29398dca
-
+"Ah! Futami?"
 
 @ERI_TEL:14 PLY 28c5d3a3
-
+"What's up? It's unusual for you to call."
 
 @ERI_TEL:15 ERI c2cea544
-
+"{V1227}{W8}Well..."
 
 @ERI_TEL:16 PLY 53cf1dd0
-
+"Did you need something?"
 
 @ERI_TEL:18 ERI 150d5234
-
+"{V1228}{W8}...{W5}Well{W1}, it's{W1} just{W1} that,{W37} I'm{W4} sorry{W1} to{W1} tell{W1} you{W1},{W18} but{W4} this{W4} weekend,{W6} I can't make it."
 
 @ERI_TEL:22 PLY ebfb2f05
-
+"Eh, really?"
 
 @ERI_TEL:23 ERI 7a126e05
-
+"{V1229}{W5}Sorry{W4} about that...{W42} Something{W2} has come up that I cannot get out of{W1}..."
 
 @ERI_TEL:24 PLY 876a2929
-
+"I see..."
 
 @ERI_TEL:26 ERI 001dc6c3
-
+"{V1230}{W12}Would{W2} you{W9} ask{W5} me{W1} again{W1}{W1}{W1}?{W33} I{W1} might{W1} be{W1} able{W1} to{W1} go{W8} after all."
 
 @ERI_TEL:27 PLY 541c3cfd
-
+"Got it."
 
 @ERI_TEL:29 ERI d9b94bd6
-
+"{V1231}{W12}Well then,{W30} good night."
 
 @ERI_TEL:30 PLY 54db2b27
-
+"Good night."
 
 @ERI_TEL:34 PLY f75d6b6c
-
+(What a letdown...)
 
 @ERI_TEL:36 ERI 78919377
-
+"{V1232}{W8}Ah,{W15} {Nm}?{W21} It's{W8} me,{W30} Futami{W2} Eriko."
 
 @ERI_TEL:37 ERI 13bb0b87
-
+"{V1233}{W5}...What's wrong?{Ti0} {Ti2}That's,{W3} my{W1} line{W3}."
 
 @ERI_TEL:38 PLY 122df4f6
-
+"Huh?"
 
 @ERI_TEL:39 ERI 01b9e6f2
-
+"{V1234}{W10}Today{W3}{W1},{W27} you did not show up."
 
 @ERI_TEL:40 PLY 2b71acec
-
+"...Ah!"
 
 @ERI_TEL:41 PLY 8902af50
-
+(That's right... I made a promise with Futami...)
 
 @ERI_TEL:42 ERI ad45c423
-
+"{V1235}{W8}Well{W5} played{W3}{W3}, {Nm}{W3}.{W45} Standing{W4} me{W4} up{W4} like{W1} that{W1}."
 
 @ERI_TEL:43 PLY f51a1681
-
+"S-sorry, Futami."
 
 @ERI_TEL:44 PLY f78578bc
-
+"Um... how do I put it... Sorry... Anything I say would just be an excuse..."
 
 @ERI_TEL:45 PLY f8e04961
-
+"I'll never do this again! I'll invite you next time, so please forgive me! Please!"
 
 @ERI_TEL:46 ERI 0d80b9d5
-
+"......"
 
 @ERI_TEL:47 ERI 1b99a705
-
+"{V1237}{W8}Fine.{W42} I will{W3} forgive you."
 
 @ERI_TEL:48 PLY c9918b04
-
+"Really?"
 
 @ERI_TEL:49 ERI fe60c1a0
-
+"{V1238}{W8}But,{W47} do not do this again."
 
 @ERI_TEL:50 PLY ce7e3739
-
+"Yeah, I know."
 
 @ERI_TEL:51 ERI 66f4f160
-
+"{V1239}{W12}Good night."
 
 @ERI_TEL:52 PLY a1725b56
-
+"G-good night, Futami."
 
 @ERI_TEL:53 PLY 3c27ee02
-
+(Standing someone up is bad news...)
 
 @ERI_TEL:54 ERI 5a1f9fca
-
+"{V1240}{W5}Ah,{W15} {Nm}?{W27} It's{W8} me,{W42} Futami{W3} Eriko."
 
 @ERI_TEL:55 ERI 5c6f54b3
-
+"{V1241}{W12}Am{W5} I{W5} bothering{W1} you?"
 
 @ERI_TEL:56 PLY d8a7aace
-
+"No, not at all. I'm glad you called."
 
 @ERI_TEL:57 ERI 80a8188f
-
+"{V1242}{W12}I see..."
 
 @ERI_TEL:58 PLY a6c5705f
-
+"...Did something happen?"
 
 @ERI_TEL:59 ERI 60b11869
-
+"{V1243}{W12}Nothing{W4} happened.{W60}...{W8} Just..."
 
 @ERI_TEL:60 PLY 9e919dbd
-
+"Just?"
 
 @ERI_TEL:61 ERI 9339c438
-
+"{V1244}{W15}Spending{W3} the night alone{W4}...{W48} I just{W2} thought{W3} it was lonely."
 
 @ERI_TEL:62 PLY 7cb658b8
-
+"Huh...?"
 
 @ERI_TEL:63 PLY 9f3a09f2
-
+"You, feeling lonely when you're by yourself, Futami..."
 
 @ERI_TEL:64 ERI 3da86149
-
+"{V1245}{W8}Strange{W5}, isn't it?"
 
 @ERI_TEL:65 PLY 511b320d
-
+"R-right."
 
 @ERI_TEL:66 ERI 7be0268d
-
+"{V1246}{W10}Even{W3} I{W3} am surprised{W6}.{W60} {Nm}{W3}, I never imagined{W4} I would want{W45} to hear your voice..."
 
 @ERI_TEL:67 PLY 2ca64493
-
+"Futami..."
 
 @ERI_TEL:69 ERI 10ca576d
-
+"{V1247}{W8}If{W3} I go{W3} to school,{W21} we can talk{W4} again,{W33} yet I cannot wait for that...{W27} I{W1} never imagined it."
 
 @ERI_TEL:70 ERI ad22f144
-
+"{V1248}{W8}The{W5} human{W2} heart{W8} is{W4} a{W2} strange{W2} thing{W2}.{W63} Even{W3} my{W3} own feelings{W33} are{W2} out of my control."
 
 @ERI_TEL:71 PLY 94089abe
-
+"...Isn't that what makes it good?"
 
 @ERI_TEL:72 ERI 6d22d53d
-
+"{V1249}{W8}Fufu{W5}{W3}{W3},{W30} I suppose you're right."
 
 @ERI_TEL:73 ERI 0a4012a9
-
+"{V1250}{W8}...{W8}Well then,{W21} I'll hang up now.{W43} Good night, {Nm}."
 
 @ERI_TEL:74 PLY 6783394f
-
+"Are you sure?"
 
 @ERI_TEL:75 ERI c56957a3
-
+"{V1251}{W5}Yes,{W66} I am not lonely{W4} anymore.{W45} I can{W3} sleep.{W57} Thank you."
 
 @ERI_TEL:76 PLY 2bd11876
-
+"...Good night, Futami."
 
 @ERI_TEL:77 ERI 3c315373
-
+"{V1252}{W8}Good night..."

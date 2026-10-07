@@ -2,178 +2,178 @@
 # Format: docs/translation-format.md
 
 @ASU_MED:40 ASU 30c9deb3
-
+"{Nm}, {V1372}{F9}that's all you've been talking about for a while now."
 
 @ASU_MED:42 PLY f125d3df
-
+"R-right. Sorry."
 
 @ASU_MED:45 ASU b99e4d7c
-
+"{V1374}Ahahaha,{W40} {Eo}{Nm}, your stories are all so much fun."
 
 @ASU_MED:46 ASU 40fe9c02
-
+"{V1375}Hehe,{W35} {Nm}, {Eo}{W20}your stories are all really good, you know."
 
 @ASU_MED:47 ASU d4d9ada1
-
+"{V1376}Ahaha,{W30} {Eo}{Nm}, you{W10} know all kinds of funny stories."
 
 @ASU_MED:48 ASU 328527ea
-
+"{V1377}{Ec}Hehe,{W30} {Eo}{Nm}, you{W10} know all kinds of good stories."
 
 @ASU_MED:49 ASU 0fedc2f5
-
+"{V1386}Hey, {Nm}. And then? And then?{W10} {F3}Let's talk a little more!{Ec}"
 
 @ASU_MED:50 PLY 9b3f27c9
-
+"Sure. Well then..."
 
 @ASU_MED:51 SYS abf93941
-
+{Ti0}.{W15} .{W15} .
 
 @ASU_MED:52 SYS a1c6df68
-
+And so, the two of us had a great time together.
 
 @ASU_MED:54 ASU f804b9c5
-
+"{V1378}Hmm...{W80}{Sp}{Nm}, your stories{W30} {Eo}often don't quite{W10} make sense to me, you know.{Sd}"
 
 @ASU_MED:55 PLY fec6c656
-
+"Y-you think?"
 
 @ASU_MED:56 ASU 0dafeaa3
-
+"{V1379}Yeah.{W20} Can we talk about something totally different?{F2}{Ec}"
 
 @ASU_MED:57 PLY eb4f502b
-
+(All right! Time to change gears and think of a different topic!)
 
 @ASU_MED:58 ASU d1d1ac4a
-
+"{V1380}Hey,{W5} hey,{W10} {Ec}what are you going to tell me about next?{Eo}"
 
 @ASU_MED:59 PLY 122df4f6
-
+"Huh?"
 
 @ASU_MED:61 ASU 99dacab4
-
+"{V1381}{Nm}, your stories are so fun,{W5} they get me all excited!{F2}{Ec}"
 
 @ASU_MED:62 PLY 499877e1
-
+"R-really?"
 
 @ASU_MED:63 PLY 197de44a
-
+(Ugh... she's expecting a lot. What should I talk about? I'm getting confused...)
 
 @ASU_MED:64 ASU 35aa29ee
-
+"{V1382}{Nm}."
 
 @ASU_MED:65 PLY 3150f24e
-
+"What?"
 
 @ASU_MED:66 ASU 5aef9a3a
-
+"{V1383}Gotcha!"
 
 @ASU_MED:69 PLY e8e77cd4
-
+"Whoa! W-what's gotten into you all of a sudden?"
 
 @ASU_MED:70 ASU 4002136b
-
+"{V1384}{Ec}Ehehe,{W30} {Eo}I thought talking this close{W5} might be nice, too."
 
 @ASU_MED:71 PLY 42114c7d
-
+"T-this is too close."
 
 @ASU_MED:72 ASU 4b0f8f77
-
+"{V1385}Ahaha,{W12} you're right."
 
 @ASU_MED:73 PLY b38c5433
-
+(Ugh, Sakino came right up next to me so suddenly that I don't know what to say.)
 
 @ASU_MED:74 ASU 0a561fa1
-
+"{V2545}Oh,{W5} shoot!{W25} I just remembered I have something I have to do!"
 
 @ASU_MED:75 PLY f596f20c
-
+"Huh? You do?"
 
 @ASU_MED:77 ASU 92d4d8ad
-
+"{V2546}Sorry.{W15} See you later."
 
 @ASU_MED:78 PLY 1f144e40
-
+(Ah... she's gone... The conversation wasn't going anywhere, I guess...)
 
 @ASU_MED:79 ASU d2dd652a
-
+"{V2547}Um...{W40} Ugh...{Ec}"
 
 @ASU_MED:80 PLY 09f57218
-
+"Sakino, what's wrong?"
 
 @ASU_MED:81 ASU 0e9bb62a
-
+"{V2548}I just{W15} started feeling kind of embarrassed.{Ec}"
 
 @ASU_MED:82 ASU 4188cee4
-
+"{V2549}Because...{W40} {Ec}{Nm}, you keep{Eo} saying such weird things."
 
 @ASU_MED:83 PLY 1bd57c25
-
+"Y-you think...?"
 
 @ASU_MED:85 ASU a12c9feb
-
+"{V2550}W-{W20}well, see you later!"
 
 @ASU_MED:86 PLY 5eb864ba
-
+"Ah... Sakino..."
 
 @ASU_MED:87 PLY 3d796206
-
+(She's gone... Did I talk about too many embarrassing things?)
 
 @ASU_MED:88 ASU 40c30fa8
-
+"{V2551}Ah...{W35} Class is about to start, huh.{W75} {F8}I wanted to talk with you more..."
 
 @ASU_MED:89 ASU 61b52218
-
+"{V2552}But it can't be helped.{W35} {F2}Well, {Ec}see you later!"
 
 @ASU_MED:90 PLY d725b6b3
-
+"Yeah, see you later, Sakino."
 
 @ASU_MED:91 ASU 28e19741
-
+"{V2553}Ah...{W50} I'd better get going.{W60} {F3}{Eo}I wanted to talk with you more..."
 
 @ASU_MED:92 ASU ee891ae4
-
+"{V2554}But it can't be helped.{W40} {F2}Well, {Ec}see you later!"
 
 @ASU_MED:93 ASU aa644c84
-
+"{V2555}Oh, {Nm}, class is about to start."
 
 @ASU_MED:94 PLY afe559bc
-
+"Ah... right."
 
 @ASU_MED:95 ASU 32eb34b8
-
+"{V2556}See you later."
 
 @ASU_MED:96 PLY e03a6130
-
+"Yeah, see you later."
 
 @ASU_MED:97 ASU 81e7a573
-
+"{V2557}Oh, {Nm},{W22} I've got to get going soon.{F9}"
 
 @ASU_MED:98 ASU e1b3d6aa
-
+"{V2558}Yeah.{W22} Well, see you later."
 
 @ASU_MED:99 PLY 7f41533f
-
+"Sakino, sorry. I have to get going soon..."
 
 @ASU_MED:100 ASU efe490c0
-
+"{V2559}Huh?{W10} You do?{W20} Why?"
 
 @ASU_MED:101 PLY edad0425
-
+"I have something to do..."
 
 @ASU_MED:102 ASU b5fe6cf5
-
+"{V2560}Oh...{W30} That's too bad.{W48} {E}{0}{F9}And we were having such a good time."
 
 @ASU_MED:103 PLY 5603bf05
-
+"We can pick up the conversation next time."
 
 @ASU_MED:104 ASU 6ace8b31
-
+"{V2561}Yeah.{W40} See you later."
 
 @ASU_MED:105 PLY f32b1faf
-
+"Sakino, sorry. I have to get going soon."
 
 @ASU_MED:106 ASU 683cf0f9
-
+"{V2562}Oh, I see."
 
 @ASU_MED:107 ASU 9a21ab71
-
+"{V2563}See you later."

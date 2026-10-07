@@ -2,205 +2,205 @@
 # Format: docs/translation-format.md
 
 @ERI_TFO:41 ERI 6c74fcc7
-
+"{V0692}Good morning, {Nm}."
 
 @ERI_TFO:43 PLY daeef43c
-
+"Ah! F-Futami!"
 
 @ERI_TFO:46 ERI 763a32e3
-
+"{V0693}Ditching{W10} our promise{W5} like that,{W20} well played."
 
 @ERI_TFO:47 ERI 75d30557
-
+"{V0694}What{W3} exactly{W3} do you have to say for yourself?"
 
 @ERI_TFO:48 PLY b7566179
-
+"Sorry... Futami."
 
 @ERI_TFO:49 PLY b8491b67
-
+"Um... something urgent came up, and I ended up going there."
 
 @ERI_TFO:50 PLY 926edea6
-
+"I meant to tell you, Futami, but I couldn't find you..."
 
 @ERI_TFO:51 ERI 2703d6b9
-
+"{V0695}...I see.{W35} So that is what happened."
 
 @ERI_TFO:54 ERI 11245f56
-
+"{V0696}If that is so,{W30} it can't be helped."
 
 @ERI_TFO:55 ERI 5353f8b7
-
+"{V0697}This early in the morning{W3}, with a conversation like this,{W20} was a mistake.{W35} {Eo}Don't take offense."
 
 @ERI_TFO:56 PLY 06c2f172
-
+"Y-yeah. It's okay."
 
 @ERI_TFO:59 ERI 7a7ac33a
-
+"{V0698}Well then."
 
 @ERI_TFO:63 PLY 870f0120
-
+(This isn't good, I can't keep doing this...)
 
 @ERI_TFO:65 ERI b0b15835
-
+"{V0656}Good morning, {Nm}."
 
 @ERI_TFO:67 ERI a9b43ab2
-
+"{V0657}Heh,{W70} {Eo}leaving me behind,{W35} going home with another girl{W3}...{W43}{Eh} well played."
 
 @ERI_TFO:68 PLY 6b410038
-
+"Ugh..."
 
 @ERI_TFO:71 ERI 70c889ba
-
+"{V0658}What kind of{W2} face{W2} I would make,{W40} did you want{W2} to see that?"
 
 @ERI_TFO:72 PLY 7e1f7a2d
-
+"T-that's not it."
 
 @ERI_TFO:74 ERI ec100126
-
+"{V0659}Then what?"
 
 @ERI_TFO:75 PLY 8a8db434
-
+"...W-well, about the promise with you, Futami... I forgot..."
 
 @ERI_TFO:77 ERI ccff737a
-
+"{V0660}You forgot?{W50} {Fe8}What a clumsy{W5} excuse."
 
 @ERI_TFO:78 PLY f98b8b32
-
+"I-it's true. I really did forget."
 
 @ERI_TFO:79 ERI/PLY 0d80b9d5
-
+"......"
 
 @ERI_TFO:80 PLY c3dbca27
-
+"Futami, I'll never forget again. So please forgive me just this once..."
 
 @ERI_TFO:81 ERI 22260f09
-
+"{V0663}...Forgiving you or not,{W50} I really{W10} don't mind."
 
 @ERI_TFO:82 ERI 77d89515
-
+"{V0664}...Even I{W40} forget things{W3} sometimes."
 
 @ERI_TFO:83 PLY 2ca64493
-
+"Futami..."
 
 @ERI_TFO:84 ERI 65851789
-
+"{V0665}See you, {Nm}."
 
 @ERI_TFO:85 SYS 91eadcfa
-
+...And so, Futami forgave me.
 
 @ERI_TFO:86 SYS 7b9b407d
-
+Promising to go home with two girls at once... I'm an idiot...
 
 @ERI_TFO:87 ERI 34eacbc7
-
+"{V0684}Good morning, {Nm}."
 
 @ERI_TFO:88 ERI 5fa0b127
-
+"{V0685}Heh,{W65} {Eo}what an elaborate{W10} experiment.{W45} {Eh}This time{W5}, you show off{W3} going home{W3} together with her, in front of me{W2}."
 
 @ERI_TFO:90 ERI f254c379
-
+"{V0686}Well?{W30} Did it feel good?"
 
 @ERI_TFO:91 ERI aaf401a7
-
+"{V0670}...But,{W5} I can see why.{W35} {Ec}She looked{W3} kind, after all."
 
 @ERI_TFO:92 ERI ddbc6bae
-
+"{V0671}...But,{W3} I can see why.{W40} {Ec}She was a{W2} cute girl, after all."
 
 @ERI_TFO:93 ERI c2b683c1
-
+"{V0672}...But,{W3} I can see why.{W45} {Ec}She was{W5} quite a beauty, after all."
 
 @ERI_TFO:94 ERI d8dcb7d2
-
+"{V0673}...But,{W5} I can see why.{W40} {Ec}She looked{W5} healthy, after all."
 
 @ERI_TFO:95 ERI 6ecdbd44
-
+"{V0674}...But,{W5} I can see why.{W40} {Ec}She looked like a{W3} docile girl, after all."
 
 @ERI_TFO:96 ERI 72c73694
-
+"{V0675}...But,{W3} I can see why.{W40} {Ec}She is{W2} a sensible{W3} girl, after all."
 
 @ERI_TFO:97 PLY b2ad76de
-
+"Futami, I'm sorry. I..."
 
 @ERI_TFO:99 ERI 2c9e1d02
-
+"{V0676}The{W3} experiments{W3} between you and me{W3} are over too."
 
 @ERI_TFO:100 ERI e7ef9fdd
-
+"{V0677}Goodbye."
 
 @ERI_TFO:101 PLY 8cccea6e
-
+"Ah... Futami...!"
 
 @ERI_TFO:102 PLY 471fac2d
-
+(...I, I've done something I can never take back...)
 
 @ERI_TFO:103 PLY 0050b859
-
+(Futami... I'm sorry...)
 
 @ERI_TFO:104 ERI 87eb02e2
-
+"{V0687}Good morning, {Nm}."
 
 @ERI_TFO:106 ERI 7cbbe6af
-
+"{V0688}Heh,{W45} {Eo}what an elaborate{W5} experiment{W5}.{W50} {Eh}This time{W3}, flaunting the two of you going home together{W30} in front of me."
 
 @ERI_TFO:107 ERI 972cdcfb
-
+"{V0689}And what's more,{W10} it's a{W5} different girl..."
 
 @ERI_TFO:109 ERI fc2cb377
-
+"{V0690}Well?{W40} Did it feel{W2} good?"
 
 @ERI_TFO:111 ERI ae5f1585
-
+"{V0691}What a{W10} fool..."
 
 @ERI_TFO:112 ERI 8959efe7
-
+"{V0621}Sorry for that,{W30} making you humor me.{W55}{Ec}{W5}{F1}{Eo} From now{W3} on, do as you please."
 
 @ERI_TFO:114 ERI 3e260f8a
-
+"{V0622}Our{W3} experiment{W2} together is over."
 
 @ERI_TFO:115 ERI 00dd2f27
-
+"{V0623}Goodbye."
 
 @ERI_TFO:116 PLY cad6a39a
-
+"Ah! Futami!"
 
 @ERI_TFO:117 PLY e0164981
-
+(I... I... I'm hopeless. Unable to choose just one, I dithered along and dragged things out until now...)
 
 @ERI_TFO:118 PLY 4de7c50b
-
+(I... I...)
 
 @ERI_TFO:119 ERI c7a4267b
-
+"{V0666}Good morning, {Nm}."
 
 @ERI_TFO:120 ERI b755ba04
-
+"{V0667}Heh,{W60} {Eo}claiming{W5} you had already forgotten,{W33} {Eh}a clumsy{W2} excuse{W10} like that will not{W2} work on me."
 
 @ERI_TFO:121 ERI 5e6b2a38
-
+"{V0668}Did you want so badly{W5} to show off{W3} going home with that girl{W25} in front{W10} of me?"
 
 @ERI_TFO:122 PLY fa2b8ab6
-
+"N-no, I wouldn't..."
 
 @ERI_TFO:123 ERI 25300527
-
+"{V0669}{W10}What{W5} bad{W5} taste.{W43} ...Well?{W40} Did it feel good?"
 
 @ERI_TFO:124 ERI 06c1d63a
-
+"{V0678}Good morning, {Nm}."
 
 @ERI_TFO:125 ERI ce4a8d05
-
+"{V0679}Heh,{W50} {Eo}claiming{W15} you had already forgotten{W5},{W50} {Eh}a clumsy{W3} excuse{W10} like that will not work."
 
 @ERI_TFO:127 ERI a811e295
-
+"{V0680}Going home{W2} with all kinds of girls{W3}...{W33} did you want to show that off to me?"
 
 @ERI_TFO:128 PLY f41ccb66
-
+"T-that's not..."
 
 @ERI_TFO:129 ERI c338326b
-
+"{V0681}{W5}Are you going to{W10} make another excuse{W3}?{W60} I will not be deceived anymore."
 
 @ERI_TFO:131 ERI f08050ed
-
+"{V0682}The experiments{W5} between you{W8} and me{W5} are over too."
 
 @ERI_TFO:132 ERI b8ef7c8e
-
+"{V0683}Goodbye."

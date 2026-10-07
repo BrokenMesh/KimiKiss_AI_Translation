@@ -2,196 +2,196 @@
 # Format: docs/translation-format.md
 
 @MIT_MST:22 - 961bdeb8
-
+Protagonist's cards left:
 
 @MIT_MST:34 PLY 6ad7fb55
-
+(Ah... that's Shijou)
 
 @MIT_MST:37.1 - f6be30e5
-
+{Ti0}- Talk to Shijou／- Don't talk to her now
 
 @MIT_MST:38 PLY 91c7a208
-
+"Shijou, what are you doing?"
 
 @MIT_MST:52 MIT 966ebb97
-
+"{V1533}Ah,{W45} {Nm}."
 
 @MIT_MST:53 PLY 8fab94c5
-
+"If you're free, want to talk for a bit?"
 
 @MIT_MST:55 MIT a15e3d6c
-
+"{V1535}Yes.{W35} That would be fine."
 
 @MIT_MST:57 MIT 541b9029
-
+"{V1538}Ah... I am sorry.{W55} There is something I absolutely must{Ec} do right now..."
 
 @MIT_MST:59 PLY 542af83a
-
+"I see..."
 
 @MIT_MST:61 MIT dbdb927f
-
+"{V1539}Yes..."
 
 @MIT_MST:62 PLY e2b3ed61
-
+"Well then, see you."
 
 @MIT_MST:63 MIT 06b2933d
-
+"{V1542}Yes.{W35} Until next time."
 
 @MIT_MST:64 MIT 563ecd02
-
+"{V1541}Ah... I am sorry.{W50} I have to change{Ec} clothes now..."
 
 @MIT_MST:65 PLY a85e75eb
-
+"Oh, right. Of course..."
 
 @MIT_MST:66 PLY 1adf90d8
-
+(I'll talk to Shijou some other time, I guess...)
 
 @MIT_MST:77 MIT cf2a24d9
-
+"{Nm}."
 
 @MIT_MST:78 PLY 3b8220c0
-
+"Oh, Shijou."
 
 @MIT_MST:79 MIT ef02649d
-
+"{V1545}Is now{W65} a good time?"
 
 @MIT_MST:80.1 - ebc8ac86
-
+{Ti0}- Yeah, it's fine／- Sorry, now's not a good time
 
 @MIT_MST:82 PLY cf543578
-
+"Yeah, it's fine."
 
 @MIT_MST:83 MIT 6a0a338e
-
+"{V1546}Wonderful.{W55} Then,{W25} shall we talk for a little while?"
 
 @MIT_MST:84 PLY 37b5d0d9
-
+"Sure. What should we talk about..."
 
 @MIT_MST:85 PLY 66aff371
-
+"Sorry, now's not a good time."
 
 @MIT_MST:87 MIT bcd90c55
-
+"{V1547}I see..."
 
 @MIT_MST:90 MIT 144c04b5
-
+"{V1548}Well then,{W35} excuse me."
 
 @MIT_MST:91 PLY e03a6130
-
+"Yeah, see you."
 
 @MIT_MST:92 MIT 1820c7a5
-
+"{V1534}Ah,{W45} Master."
 
 @MIT_MST:93 MIT 0f26850c
-
+"{V1533}Ah, {Nm}."
 
 @MIT_MST:94 MIT cc56cc2e
-
+"{V1537}Yes.{W40} With pleasure."
 
 @MIT_MST:95 MIT 065dc131
-
+"{V1536}Yes,{W45} by all means."
 
 @MIT_MST:96 MIT a7e30b90
-
+"{V1540}Yes.{W35} Until next time."
 
 @MIT_MST:100 MIT 8e3596ce
-
+"{V1544}Master."
 
 @MIT_MST:101.1 - 4a90b521
-
+{Ti0}- Yeah, it's fine／- Sorry, now's not a good time
 
 @MIT_MST:102 MIT c5a4e143
-
+"{V1550}Ah,{W35} Master."
 
 @MIT_MST:103 MIT 44b42a70
-
+"{V1549}Ah, {Nm}."
 
 @MIT_MST:104 MIT 94465efa
-
+"{V1551}Yes.{W20} With pleasure."
 
 @MIT_MST:106 MIT dc8c2012
-
+"{V1552}Ah... I am sorry.{W60}{Eo} I have an errand that I absolutely must attend to..."
 
 @MIT_MST:107 MIT 61f41930
-
+"{V1553}Yes..."
 
 @MIT_MST:108 PLY 76b15208
-
+"Then it can't be helped. See you, Shijou."
 
 @MIT_MST:109 MIT 07ccd03f
-
+"{V1554}Yes.{W35} Until next time."
 
 @MIT_MST:110 MIT e0818e2e
-
+"{V1555}Ah...{W75} I would like to talk with you,{W45}{Ec} but I have to change clothes now..."
 
 @MIT_MST:111 PLY c6ead430
-
+"Oh, right..."
 
 @MIT_MST:112 MIT c237fd5c
-
+"{V1556}Yes.{W35} Until next time."
 
 @MIT_MST:116 MIT 1866c7c4
-
+"{V1558}Master,{W62} what are you doing?{Eo}"
 
 @MIT_MST:117 MIT 7e8e5b64
-
+"{Nm},{V1557}{W10} what are you doing?"
 
 @MIT_MST:119 MIT 15951e42
-
+"{V1559}If you like,{W25} shall we talk for a little while?"
 
 @MIT_MST:120.1 - 4a90b521
-
+{Ti0}- Yeah, it's fine／- Sorry, now's not a good time
 
 @MIT_MST:121 PLY 9130a981
-
+"Sorry, now's not a good time."
 
 @MIT_MST:122 MIT b2ebdafd
-
+"{V1561}Ah...{W43} Is that so...{W50}{Ec} What a shame."
 
 @MIT_MST:124 MIT 0a5a8f09
-
+"{V1562}...Well then,{W35} excuse me."
 
 @MIT_MST:125 PLY d4b0c6b0
-
+"Shijou."
 
 @MIT_MST:126 MIT 310d0d08
-
+"{V1563}Ah, {Nm}."
 
 @MIT_MST:127 PLY c3c269c7
-
+"If you're free... want to talk for a bit?"
 
 @MIT_MST:129 MIT 788c3900
-
+"{V1564}Yes,{W35}{Ec} by all means."
 
 @MIT_MST:132 MIT 979abccc
-
+"{V1565}Ah... I am sorry.{W60} I have something to attend to now...{Ec}"
 
 @MIT_MST:133 PLY 876a2929
-
+"I see..."
 
 @MIT_MST:134 MIT 9144cd5c
-
+"{V1566}Yes.{W70}{Ec} Well then,{W20} until next time..."
 
 @MIT_MST:135 MIT 320f1839
-
+"{V1567}Ah... I am sorry.{W65} I have to change now...{Ec}"
 
 @MIT_MST:136 MIT 0709730a
-
+"{V1568}Yes.{W100}{Ec} Well then,{W45} until next time..."
 
 @MIT_MST:141 MIT 0dd40973
-
+"{Nm}{V1569}, what are you doing?"
 
 @MIT_MST:142 MIT af61cea3
-
+"{V1570}If you like...{W50} shall we talk{W5} for{W3} a little while?"
 
 @MIT_MST:143.1 - 4a90b521
-
+{Ti0}- Yeah, it's fine／- Sorry, now's not a good time
 
 @MIT_MST:145 MIT aa745cd6
-
+"{V1571}...Wonderful.{W65}{Ec} I am so happy..."
 
 @MIT_MST:147 MIT 706aac77
-
+"{V1572}Ah...{W70} Is that so...{W70}{Ec} What a shame."
 
 @MIT_MST:148 MIT 2675cc0f
-
+"{V1573}...Well then,{W50} excuse me.{Ec}"

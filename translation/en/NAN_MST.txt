@@ -2,91 +2,91 @@
 # Format: docs/translation-format.md
 
 @NAN_MST:9 - 961bdeb8
-
+Cards left in the protagonist's hand:
 
 @NAN_MST:21 PLY 9b32b205
-
+(Oh... that's Nana.)
 
 @NAN_MST:24.1 - 431cfe1d
-
+{Ti0}- Talk to Nana／- Don't talk to her now
 
 @NAN_MST:25 PLY bb970906
-
+"Nana, what are you doing?"
 
 @NAN_MST:39 NAN d4707c72
-
+"{V0690}Oh, Big Bro,{F3}{W15} nothing{W12} in particular."
 
 @NAN_MST:40 PLY b4b8ef57
-
+"I see. Then do you want to talk for a bit?"
 
 @NAN_MST:42 NAN 891ccb10
-
+"{V0691}{E}Huh?"
 
 @NAN_MST:43 NAN bc02d4ce
-
+"{V0692}Really?{W15} {Ec}Yaaay!{W15} What do we talk about?{W8} What do we talk about?"
 
 @NAN_MST:44 PLY 6896fbe6
-
+"Let's see..."
 
 @NAN_MST:46 PLY 6f53da83
-
+"Nana, got a minute?"
 
 @NAN_MST:47 NAN a6fa4902
-
+"{V0696}Oh, Big Bro!{F3}"
 
 @NAN_MST:48 NAN 2c744346
-
+"{V0694}Sorry, I'm kind of busy right now{Ec}"
 
 @NAN_MST:49 PLY 876a2929
-
+"Oh, I see..."
 
 @NAN_MST:51 NAN b6a405c9
-
+"{V0695}Well,{W8} see you later, Big Bro."
 
 @NAN_MST:52 PLY aa468b0a
-
+"Yeah, see you."
 
 @NAN_MST:54 NAN 4c611d9b
-
+"{V0697}Sorry,{W30} I have to go change now, so...{Ec}"
 
 @NAN_MST:55 NAN 73277023
-
+"{V0698}Well, see you later, Big Bro."
 
 @NAN_MST:56 PLY 9b8b7a7c
-
+(I guess I can talk to Nana some other time...)
 
 @NAN_MST:68 NAN 0009186f
-
+"{V0699}Oh! Big Bro!"
 
 @NAN_MST:69 PLY 0c1309d9
-
+"Oh, Nana."
 
 @NAN_MST:70 NAN 5c1668d8
-
+"{V0700}Hey, hey, got a minute?{Ec} Let's talk!"
 
 @NAN_MST:71.1 - f52f445f
-
+{Ti0}- Sure／- Maybe next time
 
 @NAN_MST:73 PLY c028a083
-
+"Sure."
 
 @NAN_MST:74 NAN c5bac91d
-
+"{V0701}Yaaay!{W8} Yippee!{W15} What do we talk about?{W8} What do we talk about?"
 
 @NAN_MST:75 PLY 9d279816
-
+"Maybe next time."
 
 @NAN_MST:76 NAN 58716f4a
-
+"{V0702}{W12}Awww,{W30} but why{W1}{W2}~?"
 
 @NAN_MST:77 PLY 67ad02ce
-
+"I'm kind of busy."
 
 @NAN_MST:78 NAN 2e56b31b
-
+"{V0703}{W15}Oh, I see...{W39} That's no fun."
 
 @NAN_MST:79 PLY 9bb97d56
-
+"See you, Nana."
 
 @NAN_MST:82 NAN ee51167d
-
+"{V0704}Okay,{W45} see you later,{W6} Big Bro."

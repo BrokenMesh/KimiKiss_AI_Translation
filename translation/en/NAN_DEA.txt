@@ -2,88 +2,88 @@
 # Format: docs/translation-format.md
 
 @NAN_DEA:10 PLY e2d5c83a
-
+(Now then, time for lunch, I guess.)
 
 @NAN_DEA:30 NAN 46318a95
-
+"{V0039}{W7}Oh,{W10} Big Bro,{W25} {Ec}there you are~!"
 
 @NAN_DEA:31 PLY 027faf22
-
+"Nana? What's up?"
 
 @NAN_DEA:36 NAN 23d0b2cf
-
+"{V0040}Ehehe,{W47} you see,{W33} let's{W20} eat lunch together{Ti1}~!"
 
 @NAN_DEA:37 PLY 2073c25f
-
+"W-why do I have to eat with you?!"
 
 @NAN_DEA:39 NAN b8ab1a4b
-
+"{V0041}Be{W5}cause,{W5}{W30} {Eo}I want to eat with you..."
 
 @NAN_DEA:41 NAN 14993600
-
+"{V0042}Come{W10} on,{W32} what's wrong with that?{W30} {F3}Pleeease?"
 
 @NAN_DEA:42.1 - 0a55aafb
-
+{Ti0}- Oh, all right...／- Eat by yourself
 
 @NAN_DEA:44 PLY bf194fa6
-
+"Oh, all right..."
 
 @NAN_DEA:45 NAN 5fec147c
-
+"{V0043}Yaaay!{W15} {Ec}Yesss!{Eo}"
 
 @NAN_DEA:46 PLY add19267
-
+"Then let's go to the cafeteria."
 
 @NAN_DEA:47 NAN e451fd72
-
+"{V0044}Okay!"
 
 @NAN_DEA:52 NAN d88c43ac
-
+"{V0045}{W10}It's the first time{W10} we've come to the cafeteria together, huh?{F3}"
 
 @NAN_DEA:53 PLY 93534bce
-
+"Now that you mention it, it is..."
 
 @NAN_DEA:54 PLY da8451fe
-
+(Ugh... people keep glancing at us. A boy and a girl coming to the cafeteria together is rare...)
 
 @NAN_DEA:55 PLY da532e04
-
+(Don't get the wrong idea! We're brother and sister! ...No, that sounds even worse.)
 
 @NAN_DEA:57 NAN 7402c200
-
+"{V0046}Come on, Big Bro,{W18} let's{W2} hurry{W2} up{W2} and{W2} get{W2} in{W2} line{W2}!{W40} {Eo}The daily{W2} special,{W30} it looks so good!"
 
 @NAN_DEA:59 PLY 7650e9ce
-
+"Oh... yeah..."
 
 @NAN_DEA:61 SYS bde528b6
-
+...And so, I ate lunch with Nana.
 
 @NAN_DEA:62 SYS 8826c126
-
+You're way too excited, Nana...
 
 @NAN_DEA:63 PLY 40a1119d
-
+"Eat by yourself."
 
 @NAN_DEA:65 NAN 257cf5e5
-
+"{V0047}...Big Bro,{W50} you're{W2} so{W2} cold{W2}~"
 
 @NAN_DEA:66 PLY 8f2df498
-
+"We're at school. I'm not eating lunch with my sister here!"
 
 @NAN_DEA:68 NAN 5ef10773
-
+"{V0048}Hmph{W10}!{W10}{W60} {Fm4}Fine! {W20}I'll eat by myself!"
 
 @NAN_DEA:69 PLY cbcbd30a
-
+"Please do."
 
 @NAN_DEA:71 NAN bb26625f
-
+"{V0049}Hmph!{W10} {Eo}You're so mean, Big Bro!"
 
 @NAN_DEA:72 PLY 3cc01441
-
+(Sigh...)
 
 @NAN_DEA:73 PLY ded97095
-
+(Maybe I should've just eaten lunch with her... No, no, if I spoil her, she'll only get carried away.)
 
 @NAN_DEA:74 SYS e0fb995f
-
+There's only one, you know.

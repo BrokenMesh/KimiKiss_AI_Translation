@@ -2,157 +2,157 @@
 # Format: docs/translation-format.md
 
 @MIT_DEA:20 PLY b4639ba4
-
+(Huh? There's a piano coming from the Music Room...)
 
 @MIT_DEA:23 PLY 586dffb6
-
+(Is it a teacher? Let me take a little peek...)
 
 @MIT_DEA:25 PLY cc0b5be8
-
+(Huh? I can faintly hear a piano...)
 
 @MIT_DEA:26 PLY 739f2da7
-
+(Is that the Music Room?)
 
 @MIT_DEA:32 PLY 634f9920
-
+"Ah..."
 
 @MIT_DEA:33 PLY 27ee0096
-
+(Who is it? ...They're really good...)
 
 @MIT_DEA:45 - 64c62dc2
-
+Girl
 
 @MIT_DEA:47 MIT 76a4f69a
-
+"{V5011}Who is there?"
 
 @MIT_DEA:48 PLY e0311672
-
+"Ah... S-sorry, did I interrupt you?"
 
 @MIT_DEA:52 MIT 71ba32cc
-
+"{V5012}{Ec}No.{W45}{Eo} Is there something{W2} I can do for you?{E}{p}"
 
 @MIT_DEA:53 PLY 9535d8c8
-
+"No... I just heard the piano."
 
 @MIT_DEA:54 PLY 1a0c151f
-
+"You play really well."
 
 @MIT_DEA:56 MIT 037cb59c
-
+"{V5013}{E}{W3}Thank you."
 
 @MIT_DEA:58 PLY 1d0c6f99
-
+(Oh no, I'm on Music Room cleaning duty! I totally forgot!)
 
 @MIT_DEA:59 PLY b789f7d0
-
+(The cleaning must be over by now...)
 
 @MIT_DEA:60 PLY 66e4d770
-
+(Huh? There's a piano in the Music Room... Maybe it's the teacher?)
 
 @MIT_DEA:61 MIT cc059b5e
-
+"{V5017}Who is there?"
 
 @MIT_DEA:62 MIT dade3456
-
+"{V5018}{Ec}No.{W42}{Eo} Is there something{W2} I can do for you?{E}{p}"
 
 @MIT_DEA:63 PLY e6a4c760
-
+"I'm on cleaning duty for the Music Room, but it looks like it's already done. Hahaha..."
 
 @MIT_DEA:65 MIT 15d697cc
-
+"{V5019}{Ec}Hehe,{W53}{Eo} when I arrived,{W20} it was already spotless."
 
 @MIT_DEA:66 PLY ccbf0bb9
-
+"Oh man, I totally forgot... I'll have to apologize to everyone tomorrow."
 
 @MIT_DEA:67 MIT cfea282e
-
+"{V5020}{Ec}Hehe,{W45}{Eo} I suppose you will."
 
 @MIT_DEA:68 PLY 05bfda2b
-
+"Anyway... you play the piano really well."
 
 @MIT_DEA:69 MIT afed5970
-
+"{V5021}{W3}Thank you."
 
 @MIT_DEA:70 PLY 0ee16972
-
+"What was that piece you were playing?"
 
 @MIT_DEA:71 MIT 08bc3f4a
-
+"{V5014}This is a piece{W30} that I composed{W2} myself."
 
 @MIT_DEA:72 PLY c3aafa19
-
+"Wow, really? That's amazing!"
 
 @MIT_DEA:73 MIT e57cdea5
-
+"{V5015}No,{W25} it is nothing like that..."
 
 @MIT_DEA:74 PLY ce441781
-
+"I'm {Nm} {Nn} from Class 2-A. And you?"
 
 @MIT_DEA:77 MIT bfce0712
-
+"{V5016}I am in Class{W3} 2-B.{W2} {W45}My name is Shijou{W2} Mitsuki.{Ec}"
 
 @MIT_DEA:79 PLY e681c31b
-
+"Huh? Shijou, as in the big mansion by Kibina Pond?"
 
 @MIT_DEA:80 MIT 4f50c6a4
-
+"{V0000}{Ec}Yes.{W30}{Eo} You know of it."
 
 @MIT_DEA:81 PLY fce3ef5f
-
+"Well... it's an unusual name."
 
 @MIT_DEA:82 PLY 623b4b32
-
+(Half the land around Kibina Pond belongs to that mansion. Hahaha... she's an incredible young lady...)
 
 @MIT_DEA:83 PLY 2a46b60b
-
+"Do you play the piano here often?"
 
 @MIT_DEA:84 MIT 05257123
-
+"{V0001}{Ec}Yes."
 
 @MIT_DEA:86 MIT e264293b
-
+"{V0002}{W5}The teacher has asked me,{W30} whenever I have time,{W2} to play the piano for others,{Ec} so I do."
 
 @MIT_DEA:87 PLY 9b99921c
-
+"Wow, I see."
 
 @MIT_DEA:88.1 - e1404983
-
+{Ti0}- You look better than the teacher, too／- You really love the piano／- Don't you have a piano at home?
 
 @MIT_DEA:89 PLY 54b42dbc
-
+"You look like you're better than the teacher, too."
 
 @MIT_DEA:91 MIT 3e75e204
-
+"{V0003}N-{W20}not at all..."
 
 @MIT_DEA:93 PLY a4ddf0ba
-
+"You really love the piano, huh?"
 
 @MIT_DEA:94 MIT ecc28b19
-
+"{V0004}{Ec}Yes.{W40}{Eo} I love it very much."
 
 @MIT_DEA:95 PLY c76a7915
-
+"Don't you have a piano at home?"
 
 @MIT_DEA:96 MIT f5236f4b
-
+"{V0005}Pardon?"
 
 @MIT_DEA:97 PLY b44bb7e0
-
+"Ah... Living in a mansion like that, of course you'd have a piano. Hahaha."
 
 @MIT_DEA:99 MIT d295c1a3
-
+"{V0006}{Ec}Hehe,{Eo}{W45} I have a piano{W5} that my mother gave me{W30} when I was little."
 
 @MIT_DEA:100 PLY 696225c1
-
+"I see."
 
 @MIT_DEA:101 PLY a46249ae
-
+"If I come here again, will I get to hear your piano, Shijou?"
 
 @MIT_DEA:103 MIT ec38eff1
-
+"{V0007}Yes.{W40} If you like, you are welcome any time."
 
 @MIT_DEA:104 PLY e2b3ed61
-
+"Then, see you."
 
 @MIT_DEA:105 MIT 6c11d0f0
-
+"{V0008}Yes,{W35} until next time."

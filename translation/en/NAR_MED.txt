@@ -2,181 +2,181 @@
 # Format: docs/translation-format.md
 
 @NAR_MED:41 NAR 8edbdefa
-
+"{V1442}Senpai,{W5}{W15} {W30}you've been talking about nothing but that since earlier..."
 
 @NAR_MED:43 PLY f125d3df
-
+"R-right. Sorry."
 
 @NAR_MED:47 NAR 4bbd255f
-
+"{V1444}{W10}All{W2}{W2} your{W1} stories,{W2}{W1} Senpai,{W25} are{W10} so {Ec}interesting."
 
 @NAR_MED:49 NAR ab8e0665
-
+"{V1445}Your{W5}{W5} stories,{W5}{W5} Senpai,{W30} are all{W10} such wonderful stories.{W38} {Ec}{B60}They make my heart pound."
 
 @NAR_MED:51 NAR 115b6e74
-
+"{V1446}Ehehe,{W2}{W2}{W25} {Eo}they're all such fun stories."
 
 @NAR_MED:52 NAR 19a18449
-
+"{V1447}{W15}Hehe,{W35} they're all such good stories,{W30} Senpai~"
 
 @NAR_MED:54 NAR 901671b5
-
+"{V1455}Your{W5} stories,{W6}{W6} Senpai,{W5} are{W10} so much{W5} fun.{W30} {W50}{F2}May I{W10} talk with you some more?"
 
 @NAR_MED:55 PLY 731e7798
-
+"Of course, sure."
 
 @NAR_MED:56 SYS abf93941
-
+{Ti0}.{W15} .{W15} .
 
 @NAR_MED:57 SYS a1c6df68
-
+And so, the two of us had a fun time together.
 
 @NAR_MED:59 NAR bb3efe40
-
+"{V1448}{W10}Your{W10} stories,{W10} Senpai,{W5}{W10} are{W5}{W62} {F6}how should{W2} I put{W1} it,{W20} um...{W95} {F9}a little{W45} boring, aren't they?"
 
 @NAR_MED:60 PLY 499877e1
-
+"R-really?"
 
 @NAR_MED:62 NAR 66d3bf4b
-
+"{V1449}{W10}Yes...{W32} If possible,{W20} I'd like you to talk about something {Ec}different."
 
 @NAR_MED:63 PLY e3499321
-
+"I see. Then..."
 
 @NAR_MED:64 PLY 37954f8e
-
+(I'll think of some different things to talk about!)
 
 @NAR_MED:68 PLY 4fb0187d
-
+"W-what's wrong, Narumi?"
 
 @NAR_MED:69 NAR 4a43b2be
-
+"{V1450}{W10}Senpai,{W5}{W5}{W40} you're wonderful~"
 
 @NAR_MED:70 PLY 027541ed
-
+"Huh? R-really...?"
 
 @NAR_MED:72 NAR 89bed008
-
+"{V1451}Yes.{W5}{W20} You're really wonderful.{W55} Just looking at you {Ec}makes my heart pound."
 
 @NAR_MED:73 PLY 6442e32f
-
+"Th-thanks..."
 
 @NAR_MED:74 PLY 0d30e523
-
+(Ugh... now my heart's pounding too, and I can't tell what's going on anymore.)
 
 @NAR_MED:76 NAR f057e121
-
+"{V1452}{W10}Senpai{W10},{W40} I{W15}...{W45} my chest just won't get any bigger!"
 
 @NAR_MED:77 PLY 9d492cbe
-
+"What?!"
 
 @NAR_MED:82 PLY 18b4938f
-
+(...W-well, that's true, it does seem that way, but...)
 
 @NAR_MED:83 NAR 09f156c9
-
+"{V1453}Do you know what I could do to make it bigger?"
 
 @NAR_MED:84 PLY 7552dde6
-
+"H-how would I know that?"
 
 @NAR_MED:87 NAR 0baf16a6
-
+"{V1454}Ah{W10} uh{W10}...{W30} Right,{W1} of{W1} course{W1}{W1} you{W1} wouldn't.{W30} I'm sorry for asking something so strange."
 
 @NAR_MED:88 PLY cb788239
-
+(Ugh... I'm so flustered I can't tell what's going on anymore.)
 
 @NAR_MED:90 NAR cd3dfb8c
-
+"{V2672}Senpai,{W5}{W10}{W25} I'm sorry.{W40} I just{W15} remembered something I have to do..."
 
 @NAR_MED:91 PLY f596f20c
-
+"Huh? Really?"
 
 @NAR_MED:92 NAR 954f6528
-
+"{V2673}Yes..."
 
 @NAR_MED:94 NAR 1a3cbdfa
-
+"{V2674}I'm sorry.{W10} I'll be going now..."
 
 @NAR_MED:95 PLY 1f144e40
-
+(Ah... she's gone... The conversation wasn't very lively, I guess...)
 
 @NAR_MED:96 NAR 927653de
-
+"{V2675}Ah{W5}{W10} uh{W10}...{W100} Senpai{W10}..."
 
 @NAR_MED:97 PLY 3150f24e
-
+"What?"
 
 @NAR_MED:98 NAR be97601a
-
+"{V2676}{W10}Somehow,{W40} my heart is pounding so much it's a real struggle..."
 
 @NAR_MED:99 PLY 122df4f6
-
+"Huh?"
 
 @NAR_MED:101 NAR d065bf01
-
+"{V2677}{W10}I{W10}...{W50} I{W10}...{W78} {Ti1}I'll be going now!"
 
 @NAR_MED:103 PLY 1b3cf713
-
+"Ah... Narumi!"
 
 @NAR_MED:104 PLY 3d796206
-
+(She's gone... Did I talk about too many embarrassing things?)
 
 @NAR_MED:105 NAR eb42942c
-
+"{V2678}Ah!{W5}{W20} {F9}Class is about to start."
 
 @NAR_MED:106 NAR 5e2640a5
-
+"{V2679}And I want to keep talking with you, Senpai..."
 
 @NAR_MED:107 PLY c12a6368
-
+"See you, Narumi."
 
 @NAR_MED:108 NAR 05e72dc0
-
+"{V2680}Yes. I'll be{W5} going now, Senpai."
 
 @NAR_MED:109 NAR 77bfe6ce
-
+"{V2681}Ah...{W15} I{W20} should be going soon..."
 
 @NAR_MED:110 PLY 876a2929
-
+"I see..."
 
 @NAR_MED:111 NAR b3620954
-
+"{V2682}And I want to keep talking with you, Senpai..."
 
 @NAR_MED:112 NAR 434713c6
-
+"{V2683}Yes.{W10} I'll be going now, Senpai."
 
 @NAR_MED:113 NAR befce9f3
-
+"{V2684}{W10}Oh,{W30} it's{W1}{W1} almost{W1}{W1} time{W1}{W1} for{W1}{W1} class.{W30} I'll be going now,{W10} Senpai."
 
 @NAR_MED:114 PLY e03a6130
-
+"Yeah, see you."
 
 @NAR_MED:115 NAR eace9b70
-
+"{V2685}Oh,{W5}{W10} I{W40} should be going soon.{W30} {F3}I'll be going{W5} now, Senpai."
 
 @NAR_MED:116 PLY ef912105
-
+"Narumi, sorry. I'm going to head out soon."
 
 @NAR_MED:118 NAR fb18fb9d
-
+"{V2686}Aww,{W30} why?"
 
 @NAR_MED:119 NAR 6949b004
-
+"{V2687}I was having such a good time..."
 
 @NAR_MED:120 PLY 65158278
-
+"We'll pick up the rest of our talk another time."
 
 @NAR_MED:121 NAR 14a920e8
-
+"{V2688}Yes.{W20} Promise me, okay?"
 
 @NAR_MED:122 PLY 911bbf88
-
+"See you, Narumi."
 
 @NAR_MED:123 NAR c2592f95
-
+"{V2690}Oh,{W10} okay."
 
 @NAR_MED:124 PLY 147ddd83
-
+"See you later, Narumi."
 
 @NAR_MED:125 NAR df73ac9f
-
+"{V2691}Yes.{W40} I'll be going now."

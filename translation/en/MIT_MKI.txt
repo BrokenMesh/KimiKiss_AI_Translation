@@ -2,109 +2,109 @@
 # Format: docs/translation-format.md
 
 @MIT_MKI:51 MIT e4466c5b
-
+"{V1579}I am sorry.{W40} I do not understand very well."
 
 @MIT_MKI:54 MIT 921e8715
-
+"{V1580}I am sorry.{W45} That seems{W5} a little{W12}{Ec} difficult for me{W8}..."
 
 @MIT_MKI:55 MIT 5e607ae1
-
+"{V1581}Is that so...{W58} It does not interest me very much..."
 
 @MIT_MKI:58 MIT 2cd8c31f
-
+"{V1582}I...{W60} I cannot{Ec} keep up with that sort of talk..."
 
 @MIT_MKI:60 MIT e7d213af
-
+"{V1583}Not that sort of{W5} talk.{W45} Is there not something better to talk about?"
 
 @MIT_MKI:61 MIT 747c675a
-
+"{V1574}Is that so...{W70} I think it is a good topic,{W45} but right now..."
 
 @MIT_MKI:63 MIT fc3866c1
-
+"{V1575}I am sorry.{W65} That topic,{W25} it need not be now..."
 
 @MIT_MKI:64 MIT 092d2e3c
-
+"{V1576}{W5}I am sure it is{W5} a pleasant topic, but..."
 
 @MIT_MKI:65 MIT 277c2096
-
+"{V1577}Well...{W70} right now,{W50} that topic{W8} is a bit..."
 
 @MIT_MKI:72 MIT 610a11f2
-
+"{V1578}Eh!{W25} N-{W20}not now... Not with a topic like that..."
 
 @MIT_MKI:78 MIT 708cb954
-
+"{V1595}Eh!{W30}{F6} To bring that up so suddenly..."
 
 @MIT_MKI:79 PLY 6c1b2754
-
+"S-sorry."
 
 @MIT_MKI:85 MIT 81fc6e50
-
+"{V1853}Ah..."
 
 @MIT_MKI:86 SYS 9b3cbf89
-
+{Ti0}{Ti2}Staaaaaare
 
 @MIT_MKI:88 MIT f7332fdd
-
+"{V1854}When you stare at me so,{W45}{Sp} I do not know what to do..."
 
 @MIT_MKI:89 PLY f3988426
-
+"Hahaha... Yeah, I guess so..."
 
 @MIT_MKI:91 PLY 5248279b
-
+"Shijou..."
 
 @MIT_MKI:92 MIT 80e2cd9e
-
+"{V1856}What is it,{W20} Master?"
 
 @MIT_MKI:93 MIT 6ea94cab
-
+"{V1855}What is it?"
 
 @MIT_MKI:98 MIT 07a7a51c
-
+"{V1857}......"
 
 @MIT_MKI:100 PLY 4ea2b9d1
-
+(Somehow I seem to have made her uncomfortable...)
 
 @MIT_MKI:102 MIT 1fe084c0
-
+"{V1860}What is it,{W20} Master?"
 
 @MIT_MKI:103 MIT 1f96fdb0
-
+"{V1859}What is it?"
 
 @MIT_MKI:105 MIT b01ac534
-
+"{V1861}Ah..."
 
 @MIT_MKI:106 MIT cb18db99
-
+"{V1862}Did I...{W70} do something wrong?"
 
 @MIT_MKI:107 PLY c0ab3c55
-
+"Ah, no, it's not that. Sorry for the weird look. Don't worry about it."
 
 @MIT_MKI:108 MIT a3679af5
-
+"{V1863}{W3}Are you sure...?"
 
 @MIT_MKI:109 PLY 572c0d96
-
+(Maybe my face looked angry...?)
 
 @MIT_MKI:119 MIT 54537fc1
-
+"{V1864}Eek!"
 
 @MIT_MKI:120 MIT 9fedbb17
-
+"{V1865}Ah..."
 
 @MIT_MKI:121 PLY 634f9920
-
+"Ah..."
 
 @MIT_MKI:122 MIT 1ffd7e83
-
+"{V1867}S-{W60}sorry, Master.{W48} It was so sudden that I was startled..."
 
 @MIT_MKI:123 PLY 5103acfa
-
+"R-right. Sorry."
 
 @MIT_MKI:124 MIT 42a2cc05
-
+"{V1866}S-{W40}sorry.{W40} ...But,{W20} I am at a loss."
 
 @MIT_MKI:126 MIT ff11dc0b
-
+"{V1584}{W5}I am sorry.{W50} It is because I{W5} am not used to{W30} talking with men..."
 
 @MIT_MKI:128 MIT 33516a44
-
+"{V1585}{W5}I am sorry,{W25} for not being able to speak well...{W68} {Ec}It is my fault."

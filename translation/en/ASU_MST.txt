@@ -2,187 +2,187 @@
 # Format: docs/translation-format.md
 
 @ASU_MST:15 - 961bdeb8
-
+Cards left in the protagonist's hand: 
 
 @ASU_MST:27 PLY dfb57436
-
+(Ah... that's Sakino.)
 
 @ASU_MST:30.1 - e64623a1
-
+{Ti0}- Talk to Sakino／- Don't talk to her now
 
 @ASU_MST:31 PLY c110e59a
-
+"Sakino, what are you up to?"
 
 @ASU_MST:46 ASU feefa0da
-
+"{V1312}Oh, {Nm}.{W10} Nothing{W10} really."
 
 @ASU_MST:47 PLY f7119374
-
+"Then, want to talk for a bit?"
 
 @ASU_MST:48 ASU e8d4aa8c
-
+"{V1313}{E}Sure."
 
 @ASU_MST:50 ASU 17bb757f
-
+"{V1314}Oh, {Nm}.{W50} {F6}Let's see...{W15} Just a little thing."
 
 @ASU_MST:51 PLY db4fe694
-
+"Do you have an errand?"
 
 @ASU_MST:52 ASU 5d773e7f
-
+"{V1315}Something like that."
 
 @ASU_MST:54 ASU 4bc9fce3
-
+"{V1316}Well, see you later."
 
 @ASU_MST:55 ASU ea49c6d0
-
+"{V1317}Oh, {Nm}.{W20} I'm on my way back to the Locker Room{W5} to change. Why?"
 
 @ASU_MST:57 PLY 696225c1
-
+"I see."
 
 @ASU_MST:58 ASU 3eb0c510
-
+"{V1318}So, yeah.{W20} See ya!"
 
 @ASU_MST:61 PLY 3ec1bde1
-
+(Ah... she's gone...)
 
 @ASU_MST:62 PLY c302a309
-
+(I'll talk to Sakino next time, then...)
 
 @ASU_MST:73 ASU a3ecd2bb
-
+"{V1319}Oh, {Nm}.{W10} What are you up to?"
 
 @ASU_MST:74 PLY 5edd7500
-
+"Oh, Sakino."
 
 @ASU_MST:76 ASU 2c426a64
-
+"{V1320}If you're free,{W10} want to talk for a bit?"
 
 @ASU_MST:78.1 - ebc8ac86
-
+{Ti0}- Yeah, sure／- Sorry, I can't right now
 
 @ASU_MST:79 PLY cf543578
-
+"Yeah, sure."
 
 @ASU_MST:81 ASU 8b00c7ca
-
+"{V1321}{Ec}Lucky!{W20} {Eo}I was just bored.{W20} So,{W15} what should we talk about?"
 
 @ASU_MST:82 PLY 66aff371
-
+"Sorry, I can't right now."
 
 @ASU_MST:84 ASU 2891f27c
-
+"{V1322}Oh, I see,{W15} {F9}too bad."
 
 @ASU_MST:85 ASU d7d72d01
-
+"{V1323}Well, see you later."
 
 @ASU_MST:86 PLY e03a6130
-
+"Yeah, see you later."
 
 @ASU_MST:87 PLY bf2c4c5d
-
+"Sakino, got a minute?"
 
 @ASU_MST:88 ASU 08d4d092
-
+"{V1324}Oh, {Nm}.{W5} Sure.{W5} What is it?"
 
 @ASU_MST:89 ASU 76edc39c
-
+"{V1325}Oh, {Nm}. Sorry,{W35} I just{W10} got something I have to do."
 
 @ASU_MST:90 PLY 542af83a
-
+"Oh, I see..."
 
 @ASU_MST:91 ASU 92a28bb2
-
+"{V1326}Next time,{W5} call out to me, okay?{W30} See ya!"
 
 @ASU_MST:92 ASU 572f90ef
-
+"{V1327}Oh, {Nm}. Sorry, I'd better go back and change, or I'll be in trouble."
 
 @ASU_MST:93 PLY 876a2929
-
+"I see..."
 
 @ASU_MST:94 ASU 8ee189fc
-
+"{V1328}See you later."
 
 @ASU_MST:98 ASU accca12b
-
+"{Nm}, {V1329}what are you up to?"
 
 @ASU_MST:100 ASU c8ec86a1
-
+"{V1330}Hey,{W20} want to talk for a bit?"
 
 @ASU_MST:101.1 - 4a90b521
-
+{Ti0}- Yeah, sure／- Sorry, I can't right now
 
 @ASU_MST:102 ASU ddd6f0ac
-
+"{V1331}So, what should we{W1} talk about?{W50} {Nm}, any topic you like{Ec} is fine."
 
 @ASU_MST:103 PLY 9130a981
-
+"Sorry, I can't right now."
 
 @ASU_MST:104 ASU 00744710
-
+"{V1332}Aww,{W10} really?{W30} {Ec}Too{W1} bad..."
 
 @ASU_MST:105 ASU d45b10e9
-
+"{V1333}Well, see you later."
 
 @ASU_MST:107 ASU aa7068f6
-
+"{V1334}Oh, {Nm}{F3}"
 
 @ASU_MST:108 PLY 0fec8c4a
-
+"If you're free, want to talk for a bit?"
 
 @ASU_MST:109 ASU 2af445f7
-
+"{V1335}Yeah.{W11} Of course{Ec} it's okay!"
 
 @ASU_MST:110 ASU a3a66b7d
-
+"{V1336}The thing is,{W45} I{W1} {F9}have something to do..."
 
 @ASU_MST:111 ASU 5f14fc15
-
+"{V1337}Talk to me again.{W20} Okay?"
 
 @ASU_MST:112 PLY e6f568ce
-
+"Yeah, I will."
 
 @ASU_MST:113 ASU d42a2a4f
-
+"{V1338}Promise, okay?"
 
 @ASU_MST:114 ASU 6f2170ab
-
+"{V1339}See you later."
 
 @ASU_MST:115 ASU 4f79bf5a
-
+"{V1340}Ugh...{W75} I want to talk,{W30} {F9}but I have to go change..."
 
 @ASU_MST:116 ASU f1d064bd
-
+"{V1341}Catch you later."
 
 @ASU_MST:117 PLY 851b6dc4
-
+"Yeah."
 
 @ASU_MST:118 ASU c4e781c3
-
+"{V1342}See you, {Nm}."
 
 @ASU_MST:124 ASU 9c1743da
-
+"{Nm}, {V1343}what are you up to?"
 
 @ASU_MST:126 ASU 91a432dc
-
+"{V1344}Right now,{W11} are you free?{W42} If you are...{W30} want to talk for a bit?"
 
 @ASU_MST:127.1 - 4a90b521
-
+{Ti0}- Yeah, sure／- Sorry, I can't right now
 
 @ASU_MST:128 ASU 56ae5118
-
+"{V1345}{Ec}Hehe,{Eo}{W20} what should we talk about?{W30} We can talk about whatever you like, {Nm}."
 
 @ASU_MST:129 ASU b4c333fe
-
+"{V1346}Oh...{W30} I see.{W30} {Ec}Bummer..."
 
 @ASU_MST:130 ASU f1e8a260
-
+"{V1347}Do you have something to do?"
 
 @ASU_MST:131 PLY 7eb8f4ef
-
+"Yeah, kind of..."
 
 @ASU_MST:132 ASU f28bd292
-
+"{V1348}{Ec}I see...{W30} {Eo}Then it can't be helped."
 
 @ASU_MST:134 ASU 6c78e224
-
+"{V1349}See you, {Nm}."

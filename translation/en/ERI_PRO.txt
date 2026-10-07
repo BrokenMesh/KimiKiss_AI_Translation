@@ -2,1024 +2,1024 @@
 # Format: docs/translation-format.md
 
 @ERI_PRO:2.1 - 58c6c44e
-
+{Ti0}- Normal／- Specific background
 
 @ERI_PRO:6.1 - 233f11d6
-
+{Ti0}- Uniform／- School swimsuit／- Gym clothes
 
 @ERI_PRO:8.1 - 6009498f
-
+{Ti0}- Day／- Evening
 
 @ERI_PRO:9 SYS 9fbd7528
-
+There is no evening version, so I'll use daytime.
 
 @ERI_PRO:10.1 - d15647ec
-
+{Ti0}- With mob／- Without mob
 
 @ERI_PRO:11 SYS 26817ab5
-
+There is no version with mob, so I'll use without.
 
 @ERI_PRO:44 PLY 8b36da65
-
+"Meeting kiss, 1st time, all outfits, same with or without mob"
 
 @ERI_PRO:48 ERI af4e4bd8
-
+"Protagonist..."
 
 @ERI_PRO:49 ERI/PLY 3150f24e
-
+"What?"
 
 @ERI_PRO:50 ERI 7375b7f1
-
+"{F3}I haven't talked with anyone this much in a long time."
 
 @ERI_PRO:51 PLY 54d49246
-
+"...R-really?"
 
 @ERI_PRO:52 ERI 894c41e3
-
+"{Ec}{F4}You're an odd one, {Eh}{Fm3}talking to me."
 
 @ERI_PRO:53 PLY 827d784f
-
+"...Am I?"
 
 @ERI_PRO:54 ERI 7a47c246
-
+"Since you're being odd anyway, there is something I would like to ask."
 
 @ERI_PRO:55 ERI db215bac
-
+"{Fm3}Would you do an experiment with me?"
 
 @ERI_PRO:56 PLY 8cc78af5
-
+"An experiment?"
 
 @ERI_PRO:57 ERI 27a28fd7
-
+"Yes. An experiment with me, to find out how good a kiss feels."
 
 @ERI_PRO:61 PLY edef84aa
-
+"Huh?! Eeh?!"
 
 @ERI_PRO:62 ERI e512f574
-
+"{Fm4}You are awfully surprised."
 
 @ERI_PRO:63 PLY cf3e6ff2
-
+"O-of course I am!"
 
 @ERI_PRO:64 ERI 928a6212
-
+"{Ec}What's the harm? It's not as if you would lose anything.{Fm3}"
 
 @ERI_PRO:65 PLY 510b0aa8
-
+"No, that's not the issue..."
 
 @ERI_PRO:66 ERI 9f53f4af
-
+"{Eo}{Fe9m4}Give up. {Eh}{Fe8m3}Coming near me was your bad luck."
 
 @ERI_PRO:67 ERI f2c97935
-
+"Here I come."
 
 @ERI_PRO:68 PLY 7b8a007d
-
+"W-wait..."
 
 @ERI_PRO:74 PLY cb1e047e
-
+(W-whoa! S-so suddenly?!)
 
 @ERI_PRO:75 ERI/PLY 0d80b9d5
-
+"......"
 
 @ERI_PRO:76 PLY 75d24dc7
-
+(Futami... s-so intense......)
 
 @ERI_PRO:77 PLY df22caa0
-
+(Mm... mmm...)
 
 @ERI_PRO:78 PLY 061238dd
-
+"Pwah!"
 
 @ERI_PRO:79 PLY 8ec0f15a
-
+"H-how could you, Futami? Out of nowhere..."
 
 @ERI_PRO:80 ERI c779b278
-
+"{Ec}{Fe8m4}...It doesn't feel good at all."
 
 @ERI_PRO:81 PLY f725dd6d
-
+"Huh..."
 
 @ERI_PRO:82 ERI d9ab41d1
-
+"How disappointing."
 
 @ERI_PRO:84 PLY 8b96c2f8
-
+"Ah... Futami...... she's gone..."
 
 @ERI_PRO:85 PLY 728f8c9d
-
+(Doesn't feel good, huh... She kisses me out of nowhere and then says that? That's a bit much...)
 
 @ERI_PRO:86 PLY 25d652d0
-
+"Meeting kiss, generic (2nd time onward). Lines to be made up later, or newly recorded."
 
 @ERI_PRO:87 PLY a6ee2764
-
+"LV1 kiss, 1st time, all outfits, same with or without mob"
 
 @ERI_PRO:88 PLY 24fe4d55
-
+(A kiss, huh... I've already kissed Futami twice...)
 
 @ERI_PRO:89 PLY fc9da245
-
+(But I'm too scared to bring it up...)
 
 @ERI_PRO:90 PLY d0e15274
-
+(What does Futami think? Does she still want to... experiment?)
 
 @ERI_PRO:91 ERI 270d3105
-
+"{Fe4m3}Protagonist, may I ask you something?"
 
 @ERI_PRO:92 PLY faf5732c
-
+"Huh?! S-sure, what is it?"
 
 @ERI_PRO:93 ERI 441ba833
-
+"You have been talking to me a lot lately. Why?"
 
 @ERI_PRO:94 PLY e471dd46
-
+"W-why... I mean..."
 
 @ERI_PRO:95 ERI fb480374
-
+"{F4}A reason. {Ec}{m3}Don't you have one?"
 
 @ERI_PRO:96 PLY 581945bc
-
+"T-that's..."
 
 @ERI_PRO:97.1 - 3bc9a663
-
+{Ti0}- Because it's fun／- Because I can't leave you alone／- Because I want to experiment
 
 @ERI_PRO:98 PLY 1c9cbb7b
-
+"Because it's fun."
 
 @ERI_PRO:99 ERI a6232304
-
+"Fun? {Fe9m6}Talking with me?"
 
 @ERI_PRO:100 PLY 9166ad64
-
+"Yeah, it is. You're so unusual."
 
 @ERI_PRO:101 PLY 436db5d5
-
+"Don't you have fun talking with me, Futami?"
 
 @ERI_PRO:102 ERI 21c0e55c
-
+"{Fe6}I... {W15}{Eh}only answer because you talk to me. {F1}That's all."
 
 @ERI_PRO:103 PLY f699dbf3
-
+"...That's harsh. Putting it like that..."
 
 @ERI_PRO:104 ERI abbe9b9a
-
+"If you don't like it, you don't have to force yourself to talk to me."
 
 @ERI_PRO:105 PLY 5ac46c8f
-
+"I'm not forcing myself. I just want to talk with you, Futami."
 
 @ERI_PRO:106 ERI 8208270f
-
+"{Fm4}I see. {Fm3}You really mean it."
 
 @ERI_PRO:107 PLY 90bff4a9
-
+"Of course."
 
 @ERI_PRO:108 ERI 4d10baba
-
+"{Fe4m3}{Ec}Heh, {W15}{Eo}how unexpected. {F3}I thought you only wanted to experiment."
 
 @ERI_PRO:109 PLY 036145c0
-
+"Huh?"
 
 @ERI_PRO:110 ERI b79f58be
-
+"{Eh}{Fe7}I forced an experiment on you the other day, {Fe9}so I thought you would not talk to me anymore..."
 
 @ERI_PRO:111 ERI df3ad3c3
-
+"Since you act no differently, {Fm3}I assumed you wanted another experiment.{F3}{Ec}"
 
 @ERI_PRO:112 PLY 68b4a4a8
-
+"Um... an experiment is... an experiment. You're a little odd, Futami, but that doesn't mean I..."
 
 @ERI_PRO:113 ERI a3678d7f
-
+"Heh, then will you let me experiment again?"
 
 @ERI_PRO:114 PLY 37702916
-
+"Huh?! A-again?!"
 
 @ERI_PRO:115 ERI adc5c588
-
+"Yes."
 
 @ERI_PRO:116 PLY c28ccf35
-
+"Because I can't leave you alone."
 
 @ERI_PRO:117 ERI 6cf1a050
-
+"{Eo}{F4}Can't leave me alone? {Fe9m3}Why?"
 
 @ERI_PRO:118 PLY 4cfdcde9
-
+"Because you seem lonely, Futami..."
 
 @ERI_PRO:119 ERI 4e011d98
-
+"{Ec}Heh, {Eh}you said that before, too."
 
 @ERI_PRO:120 ERI 82cf745e
-
+"That is a misunderstanding on your part, Protagonist. {Fe9}I am not lonely at all."
 
 @ERI_PRO:121 PLY b0f566fa
-
+"Even if that's true, I can't leave you alone, Futami."
 
 @ERI_PRO:122 ERI 16152c26
-
+"{Ec}{F3}Heh, {Eh}is that so."
 
 @ERI_PRO:123 ERI e1bd8469
-
+"...Then will you let me experiment again?"
 
 @ERI_PRO:124 PLY 30d205b0
-
+"Because I want to experiment."
 
 @ERI_PRO:125 ERI e37f20a5
-
+"{F3}{Ec}Heh, {Eh}{Fe9m3}I thought it would be something like that."
 
 @ERI_PRO:126 ERI fa1297c3
-
+"Then you will let me experiment again?"
 
 @ERI_PRO:127 PLY 5781d7f1
-
+"Y-yeah. Sure."
 
 @ERI_PRO:128 ERI 2b875914
-
+"Now it's your turn, Protagonist. {Fe6}{Ec}I won't move, so {Fe8}{Eo}do as you like."
 
 @ERI_PRO:129 PLY 57f4ee88
-
+"E-eeh?!"
 
 @ERI_PRO:130 PLY 8785d5a0
-
+"If a mob is present"
 
 @ERI_PRO:131 PLY c58e8a42
-
+"But there are people around..."
 
 @ERI_PRO:132 ERI 2e205bfb
-
+"{Fm4}Don't worry about that. {Fm3}They'll pretend not to see."
 
 @ERI_PRO:133 PLY a861de20
-
+"R-really...?"
 
 @ERI_PRO:134 ERI 73df3fbd
-
+"{Fe3m6}{Eh}{Mh}...Go on."
 
 @ERI_PRO:136 PLY f765450c
-
+"Okay, here I go."
 
 @ERI_PRO:137 ERI 9cd85d73
-
+"{Ec}{Fe4}Yes."
 
 @ERI_PRO:138 PLY d5639a94
-
+(Ugh... another experiment. And this time it's up to me...)
 
 @ERI_PRO:139 PLY 81bad4a6
-
+(Is this okay? I just want to start by becoming normal friends...)
 
 @ERI_PRO:140 ERI 5d5b3d11
-
+"{Eo}{Fm4}What's wrong? {Fe9}Aren't you going to?"
 
 @ERI_PRO:141 PLY 9a91dd89
-
+"I can't, Futami... This is wrong. Let's stop the experiments!"
 
 @ERI_PRO:144 ERI 871211ed
-
+"I see. {W15}{Eh}{Fe6}Then fine. {Fe6}{Fm3}Goodbye."
 
 @ERI_PRO:145 PLY d0331962
-
+"Futami!"
 
 @ERI_PRO:146 ERI/PLY 634f9920
-
+"Ah..."
 
 @ERI_PRO:147 PLY 1a77e9ef
-
+"I can't kiss you, but I can do this..."
 
 @ERI_PRO:148 ERI ca180a70
-
+"...Why?"
 
 @ERI_PRO:149 PLY 38bc17bc
-
+"I don't really know myself... If you hate it, I'll stop..."
 
 @ERI_PRO:150 ERI e9f4e235
-
+"I..."
 
 @ERI_PRO:151 ERI b8af727b
-
+"I don't hate it."
 
 @ERI_PRO:152 ERI 0e263dba
-
+"...Heh, come to think of it, it has been a long time since I touched anyone."
 
 @ERI_PRO:153 ERI/PLY 2ca64493
-
+"Futami..."
 
 @ERI_PRO:158 SYS 693623c0
-
+Futami's long, straight black hair tickled my nose. ...It smelled nice.
 
 @ERI_PRO:159 SYS cccfff17
-
+Her thin, delicate shoulders looked ready to break at any moment, and my tense hands trembled.
 
 @ERI_PRO:160 SYS 66a5819d
-
+It made me uneasy to wonder what she, so much smarter than me, was thinking while we stood like this...
 
 @ERI_PRO:161 SYS 8988c53a
-
+But I didn't mind being seen through... I didn't mind being laughed at...
 
 @ERI_PRO:162 SYS 29dd6659
-
+Even if I got hurt, I would not hurt her... When I made that resolve, I found myself letting her go.
 
 @ERI_PRO:164 ERI 1c5dbd57
-
+"Is that all?"
 
 @ERI_PRO:165 PLY c8183a43
-
+"...Yeah."
 
 @ERI_PRO:166 ERI 11e6e807
-
+"{F3}I see. {Ec}{Fm4}Then... {W30}{Fm3}{Eh}see you, Protagonist."
 
 @ERI_PRO:167 ERI fc9a5768
-
+"{F4}{Eo}Huh?"
 
 @ERI_PRO:168 PLY 5d53c2cd
-
+"You just said, 'See you'..."
 
 @ERI_PRO:170 ERI 70626a73
-
+"Heh, {Eh}we will meet again, won't we? You and I, Protagonist."
 
 @ERI_PRO:171 PLY 23fee3f7
-
+"Of course! Anytime!"
 
 @ERI_PRO:172 PLY c9183eb4
-
+"See you, Futami."
 
 @ERI_PRO:173 ERI dac1331f
-
+"See you."
 
 @ERI_PRO:174 PLY dae035fd
-
+"LV1 kiss, generic (2nd time onward), all outfits, same with or without mob"
 
 @ERI_PRO:175 ERI 3c95b086
-
+"Protagonist, I am not going to do any more experiments."
 
 @ERI_PRO:176 PLY ca6d2f3e
-
+"Really? ...But why?"
 
 @ERI_PRO:177 ERI 4e05579c
-
+"{F3}{Eh}Because you don't like it."
 
 @ERI_PRO:178 ERI 50f6f903
-
+"{Fe6m4}It would not work as an experiment that way."
 
 @ERI_PRO:179 PLY 876a2929
-
+"I see..."
 
 @ERI_PRO:180 ERI 1faf1ccf
-
+"They are suspended until you are in the mood. {Ec}{F4}Though it leaves me unsatisfied."
 
 @ERI_PRO:181 ERI 24c5db1e
-
+"{F3}{Eo}See you, Protagonist."
 
 @ERI_PRO:182 PLY e03a6130
-
+"Yeah, see you."
 
 @ERI_PRO:183 PLY cc5d85c8
-
+"LV2 kiss, 1st time, all outfits, same with or without mob"
 
 @ERI_PRO:184 ERI 21a5ddb6
-
+"Protagonist, may I ask you something?"
 
 @ERI_PRO:185 PLY df81f93c
-
+"Sure, what is it?"
 
 @ERI_PRO:186 ERI 6214d013
-
+"{Fe6m3}Do you... still not want to experiment?"
 
 @ERI_PRO:187 PLY 122df4f6
-
+"Huh?"
 
 @ERI_PRO:188 ERI 4d2f7684
-
+"{Fe9m4}Still not in the mood?"
 
 @ERI_PRO:189 ERI 9879ecae
-
+"Kissing... with me... {Fe9}do you hate it?"
 
 @ERI_PRO:190 PLY 43869dd0
-
+"Not at all. ...But."
 
 @ERI_PRO:191 ERI 70f482fe
-
+"{Fm4}But?"
 
 @ERI_PRO:192 PLY 624073a0
-
+"There's one thing I want to confirm..."
 
 @ERI_PRO:193 PLY 9f6943ac
-
+"You and I are... at least friends, right, Futami?"
 
 @ERI_PRO:194 ERI cdd34f80
-
+"Eh...? {Eh}Friends...? {F6}{P2}{W15}I don't know."
 
 @ERI_PRO:195 PLY 85f1b722
-
+"I see... we're not even friends..."
 
 @ERI_PRO:196 ERI 08795560
-
+"{Fm4}Protagonist... {Fe9}that's not it."
 
 @ERI_PRO:197 ERI df95347f
-
+"I have always been alone, so {Fe6}whether you are a friend or not, {Ec}I cannot tell..."
 
 @ERI_PRO:198 ERI bac8a2e4
-
+"{Fe9}I want to know. {P0}{Fe9m4}{Eo}{W15}What do people mean by 'friends'?"
 
 @ERI_PRO:199 PLY 970e135c
-
+"Well..."
 
 @ERI_PRO:200 PLY 79f89398
-
+"If you get along when you talk, share hobbies, and spend a lot of time together, I think that counts..."
 
 @ERI_PRO:201 ERI 67cfb0f3
-
+"I see. {Eh}We... don't connect in conversation or in hobbies, {Fm3}do we..."
 
 @ERI_PRO:202 PLY a9bebc32
-
+"True..."
 
 @ERI_PRO:203 ERI 18f42bb8
-
+"{Fm4}But, {Fe9}I think we are together often.{F3}{Ec}"
 
 @ERI_PRO:204 PLY f55c0e40
-
+"Yeah... I think that's enough."
 
 @ERI_PRO:205 PLY 774403ad
-
+"I think of you as a friend, Futami."
 
 @ERI_PRO:206 ERI 8876214a
-
+"{Eh}{Fe6m4}May I... {Fe9m3}think so too?"
 
 @ERI_PRO:207 PLY 9629a384
-
+"I... want you to think so."
 
 @ERI_PRO:208 ERI 9d11eca4
-
+"{Fe6m4}...Then we are friends.{Fe9m3}"
 
 @ERI_PRO:209 ERI f6955989
-
+"{Ec}Heh, I made a friend for the first time.{Eo}"
 
 @ERI_PRO:210 ERI 6bee82fc
-
+"{Eh}{Fe7m3}......"
 
 @ERI_PRO:211 ERI 8d028b53
-
+"{Eo}{Fe6m4}Why is it...? {Fm3}I want to touch you."
 
 @ERI_PRO:212 ERI bf185775
-
+"Maybe kissing would feel good now."
 
 @ERI_PRO:213 ERI 05805d37
-
+"{F6}{Eo}Please, try it... Protagonist."
 
 @ERI_PRO:214 PLY a6ad59ac
-
+"...But there are people around..."
 
 @ERI_PRO:215 ERI 693ca7da
-
+"{Fm4}You care about that? {Fm3}I don't mind."
 
 @ERI_PRO:216 PLY 4c14e225
-
+(Futami's lips... are trembling...)
 
 @ERI_PRO:218 PLY 99b8eede
-
+"You were trembling, Futami..."
 
 @ERI_PRO:219 ERI 61591262
-
+"Yes... {Fe9m6}I wonder what is wrong with me."
 
 @ERI_PRO:220 PLY 5a9d883a
-
+"Did you hate it?"
 
 @ERI_PRO:221 ERI cc3f85b9
-
+"{B60}{Fe6m4}Quite the opposite..."
 
 @ERI_PRO:222 ERI be1d798d
-
+"{Fm3}I think I was happy. ...{Fe9}I don't really know, though."
 
 @ERI_PRO:223 PLY d8a135b5
-
+"Even you don't know, Futami."
 
 @ERI_PRO:224 ERI 7c3a21b9
-
+"No. {Ec}{F3}I don't."
 
 @ERI_PRO:226 SYS 0c2824b8
-
+Futami said she didn't know what a friend was. And then... she said she had made her first friend.
 
 @ERI_PRO:227 SYS 5dc6cca7
-
+How lonely must the road she has walked have been...?
 
 @ERI_PRO:228 SYS 2c0aa87f
-
+What can I do for her?
 
 @ERI_PRO:229 SYS 69f7c6d7
-
+...It's too sad that kissing is all I can do. But right now, it felt like that was all there was...
 
 @ERI_PRO:230 ERI 13b76477
-
+"{Eo}Well then, see you, Protagonist."
 
 @ERI_PRO:231 PLY 08eab857
-
+"LV2 kiss, generic (2nd time onward), all outfits, same with or without mob"
 
 @ERI_PRO:232 ERI 3c4a2914
-
+"Protagonist, we are friends, aren't we?"
 
 @ERI_PRO:233 PLY 1f3fb1e6
-
+"Of course we are."
 
 @ERI_PRO:234 ERI 180d4618
-
+"Then, {Fe1}teach me..."
 
 @ERI_PRO:235 PLY 1dd3b1c4
-
+"Me, teach you, Futami? What?"
 
 @ERI_PRO:236 ERI 4574eeb4
-
+"{Ec}Naturally... {Eh}{F3}how to kiss."
 
 @ERI_PRO:237.1 - 5b50ba89
-
+{Ti0}- Friends don't normally kiss／- Why are you so fixated on kissing?
 
 @ERI_PRO:238 PLY 0214333d
-
+"Friends don't normally kiss."
 
 @ERI_PRO:239 ERI 6d213baf
-
+"{Ec}Heh, talking about what is 'normal' with me.{Fe9}{Eo}"
 
 @ERI_PRO:240 ERI 0656ffa2
-
+"Don't you understand yet?{Fm3}"
 
 @ERI_PRO:241 PLY 15056347
-
+"Ugh... that's true, but..."
 
 @ERI_PRO:242 PLY 08c6b7e0
-
+"Why are you so fixated on kissing?"
 
 @ERI_PRO:243 ERI 06398ae5
-
+"{Fe8m4}{Ec}Because I want to know."
 
 @ERI_PRO:244 ERI 7e727afa
-
+"{F6}{Eh}Why people kiss... {Ec}what lies beyond a kiss..."
 
 @ERI_PRO:245 ERI e81fe4f4
-
+"Because you can't kiss alone... {Ec}I need you, Protagonist..."
 
 @ERI_PRO:246 PLY 71878b13
-
+"You need me..."
 
 @ERI_PRO:247 ERI 7f4be2ea
-
+"{Eh}Yes. {Fe9m3}Don't make me read silly magazines anymore."
 
 @ERI_PRO:248 ERI a28ed0a8
-
+"Everyone will pretend not to see."
 
 @ERI_PRO:249 ERI 0b2519d5
-
+"Mm..."
 
 @ERI_PRO:250 PLY 407a550a
-
+(Futami...)
 
 @ERI_PRO:251 PLY 35caad49
-
+"You were trembling again, Futami..."
 
 @ERI_PRO:252 ERI b9124cf5
-
+"{F9}Yes. {Fm3}It is difficult."
 
 @ERI_PRO:253 PLY 848beb53
-
+"Maybe because I'm not good at it..."
 
 @ERI_PRO:254 ERI e9d1e2dd
-
+"{Ec}Heh, {Eo}{Fe9}two people who don't know what they are doing make for poor efficiency."
 
 @ERI_PRO:255 PLY 1b758669
-
+"Hahaha, true."
 
 @ERI_PRO:256 ERI 0d19f1cc
-
+"Well then, see you, Protagonist."
 
 @ERI_PRO:257 PLY b864ca02
-
+"LV3 kiss, 1st time, all outfits, same with or without mob"
 
 @ERI_PRO:258 PLY 9287385f
-
+"Futami... may I kiss you?"
 
 @ERI_PRO:259 ERI 2bea0db3
-
+"{F4}Huh?"
 
 @ERI_PRO:260 PLY 8d1eb150
-
+"Ah... is that... not okay?"
 
 @ERI_PRO:261 ERI 14b0fd92
-
+"{F3}{Ec}Heh, {Eo}{Fe9}that's a first."
 
 @ERI_PRO:262 ERI 3fd6f139
-
+"You saying that you want to kiss me."
 
 @ERI_PRO:263 PLY 529d2d6e
-
+"R-right. Maybe so..."
 
 @ERI_PRO:264 ERI cd7596d8
-
+"{F4}{Ec}I'm fine with it anytime. {Eh}{Fe8m3}As long as it's an experiment."
 
 @ERI_PRO:265 PLY 6f3bd5db
-
+"E-experiment? What kind this time?"
 
 @ERI_PRO:266 ERI 36218382
-
+"{Eo}{F3}Somewhere other than the lips."
 
 @ERI_PRO:267 PLY 34630022
-
+"O-other than the lips?"
 
 @ERI_PRO:268 ERI 8002484b
-
+"Yes. {Fe3}{Eh}I want to know what it's like elsewhere.{Fm3}"
 
 @ERI_PRO:269 PLY 6b410038
-
+"Ugh..."
 
 @ERI_PRO:270 PLY e249994a
-
+"Right now, right here?"
 
 @ERI_PRO:271 ERI 9cb77b14
-
+"Yes."
 
 @ERI_PRO:272 ERI a3d258fa
-
+"{Fm4}Everyone will pretend not to see."
 
 @ERI_PRO:273 PLY 85e31048
-
+"W-well, then..."
 
 @ERI_PRO:274.1 - 2dfe7f76
-
+{Ti0}- On the ear...／- On the neck...
 
 @ERI_PRO:275 PLY a2111579
-
+"On the ear..."
 
 @ERI_PRO:276 ERI e09b2f48
-
+"The ear? Fine. {Ec}Here."
 
 @ERI_PRO:277 PLY 08cd23f3
-
+"On the neck..."
 
 @ERI_PRO:278 ERI 56a4f813
-
+"The neck? Fine. {Ec}Here."
 
 @ERI_PRO:279 PLY b45ba3bd
-
+"When you say 'here' so cheerfully, it throws me off."
 
 @ERI_PRO:280 ERI e12f347d
-
+"Does it? Then what should I say?"
 
 @ERI_PRO:281 PLY 225d543d
-
+"For example..."
 
 @ERI_PRO:282.1 - aeaa7067
-
+{Ti1}- "Come..." - "Don't tease me..."／- "Do as you like..." - "Don't expect much..."／- "I'm embarrassed..." - "Big brother..."
 
 @ERI_PRO:283 PLY f7cdb76e
-
+"Like, 'Come...'"
 
 @ERI_PRO:284 ERI 8e7d8fe7
-
+"{Eh}{Fe4m3}{B40}Come... Protagonist."
 
 @ERI_PRO:285 PLY 72d8b277
-
+"Like, 'Don't tease me...'"
 
 @ERI_PRO:286 ERI 1e207cb1
-
+"{Eh}{Fe4m3}{B40}Don't tease me... Protagonist."
 
 @ERI_PRO:287 PLY d3e4e3e9
-
+"Like, 'Do as you like...'"
 
 @ERI_PRO:288 ERI def878fe
-
+"{Eh}{Fe4m3}{B60}Protagonist, do as you like...{Fe6}{Ec}"
 
 @ERI_PRO:289 PLY 4bfad7b2
-
+"Like, 'Don't expect much...'"
 
 @ERI_PRO:290 ERI 17f6064f
-
+"{Eh}{Fe9m3}Don't expect too much..."
 
 @ERI_PRO:291 PLY a5ed1ae7
-
+"Like, 'I'm embarrassed...'"
 
 @ERI_PRO:292 ERI 41c83beb
-
+"{Eh}{Fe6m4}Protagonist, {Fe9}I'm embarrassed... {Fe6}{Ec}Hurry up."
 
 @ERI_PRO:293 PLY 8feaa0ea
-
+"Like, 'Big brother...'"
 
 @ERI_PRO:294 ERI 1be500c7
-
+"{Eo}{Fe9m4}Big brother? {Fm3}I am not your sister, Protagonist."
 
 @ERI_PRO:295 PLY 0b5f6588
-
+"Futami, if it's an experiment, you have to try all sorts of cases."
 
 @ERI_PRO:296 ERI 813b1a69
-
+"{Eh}...Heh, {F3}all right."
 
 @ERI_PRO:297 ERI c5bdb966
-
+"{Eo}{Fe9m4}Big brother... {Eh}come..."
 
 @ERI_PRO:298 ERI a0c4cd53
-
+"Ah......"
 
 @ERI_PRO:299 ERI 9f24d2bf
-
+"Protagonist... hold me just like that..."
 
 @ERI_PRO:300 PLY c938803d
-
+"Huh? Like this?"
 
 @ERI_PRO:301 PLY 3b4b1288
-
+"You don't need a kiss?"
 
 @ERI_PRO:302 ERI 9ccb01c8
-
+"I don't need it..."
 
 @ERI_PRO:303 ERI f693798c
-
+"It's the first time... that anyone has held me... Not even Papa or Mama..."
 
 @ERI_PRO:304 PLY a4d61866
-
+"Huh? How could that be..."
 
 @ERI_PRO:305 ERI 6afe97fe
-
+"I feel safe... like this..."
 
 @ERI_PRO:306 SYS f4e62964
-
+Futami said it was the first time in her life she had been held. That not even her parents had ever held her...
 
 @ERI_PRO:307 SYS e37f5335
-
+Could that really be possible? Parents who never hug their own daughter... Even so, surely not...
 
 @ERI_PRO:308 SYS 2e93dd32
-
+Maybe not even her parents were people Futami could trust enough to let her guard down with.
 
 @ERI_PRO:309 SYS 417ce41f
-
+And that same Futami told me, in my arms, that she "felt safe."
 
 @ERI_PRO:310 SYS cdfb6cb6
-
+...If I could be a comfort to her, I felt I could do anything.
 
 @ERI_PRO:311 PLY 16764d19
-
+"Futami, want to go somewhere this weekend?"
 
 @ERI_PRO:312 ERI e49a2a3e
-
+"{Eo}{F4}This weekend? Fine. {Fm3}Where to?"
 
 @ERI_PRO:313 PLY c9ac2de5
-
+"How about going swimming at the pool or the beach?"
 
 @ERI_PRO:314 ERI 41a5da82
-
+"{F9}{Eh}Protagonist... I may not have told you, but {Fm3}I can't swim."
 
 @ERI_PRO:315 PLY 59b066b3
-
+"Oh... No, the beach or a pool is fun even if you don't swim."
 
 @ERI_PRO:316 ERI acb21757
-
+"{F4}Is it? {Fe6m4}I haven't been much, so {Eh}{Fm3}I wouldn't know."
 
 @ERI_PRO:317 PLY 76be62b9
-
+"Then all the more reason. Let's go together."
 
 @ERI_PRO:318 ERI 62c76b2a
-
+"{F7}...{W30}{F3}{Ec}All right."
 
 @ERI_PRO:319 PLY f8eb970f
-
+"Which one should we go to?"
 
 @ERI_PRO:320 ERI 352eb55d
-
+"Which one isn't crowded?"
 
 @ERI_PRO:321 PLY e24fd327
-
+"Then the beach. There are fewer people this time of year."
 
 @ERI_PRO:322 ERI 832e6edf
-
+"{Fe2m3}Then the beach is fine.{Ec}"
 
 @ERI_PRO:323 PLY 94c1f969
-
+"All right! Let's go to the beach, then! Shall we meet in front of the station at 11 on Sunday?"
 
 @ERI_PRO:324 ERI e30af389
-
+"{Eo}That's fine."
 
 @ERI_PRO:325 ERI 1f15e129
-
+"Then I will look forward to it. {Ec}See you."
 
 @ERI_PRO:326 PLY e74ae985
-
+"LV3 kiss, generic (2nd time onward), all outfits, same with or without mob"
 
 @ERI_PRO:327 ERI ba30477a
-
+"Protagonist, there is something I want you to do... more than talking."
 
 @ERI_PRO:328 ERI 6e3000fa
-
+"{F6}{Ec}......"
 
 @ERI_PRO:329 ERI a29a0fb0
-
+"{Eh}Hold me..."
 
 @ERI_PRO:330 ERI 7fb716c3
-
+"{Fe9m3}Do you mind?"
 
 @ERI_PRO:331 PLY c7d58b4e
-
+"No, sure."
 
 @ERI_PRO:332 PLY d7eef647
-
+"But... right now, right here?"
 
 @ERI_PRO:333 ERI 42f037b1
-
+"{Fe6}{Ec}Don't worry about the people around us."
 
 @ERI_PRO:334 ERI 8ad66a88
-
+"Heh, why do I feel so safe like this, I wonder?"
 
 @ERI_PRO:335 PLY e51f4d30
-
+"...Maybe because you're leaning on me?"
 
 @ERI_PRO:336 ERI 7c09c4dc
-
+"Leaning on you? Me?"
 
 @ERI_PRO:337 PLY e4cc4c41
-
+"Am I wrong?"
 
 @ERI_PRO:338 ERI 549a8d08
-
+"...I see. I am leaning on you, Protagonist, right now..."
 
 @ERI_PRO:339 ERI 51266d8a
-
+"{Fe3}{Eh}I look forward to the beach."
 
 @ERI_PRO:340 PLY 851b6dc4
-
+"Yeah."
 
 @ERI_PRO:341 ERI b26e4432
-
+"Are you bringing a swimsuit?"
 
 @ERI_PRO:342 PLY 7ac76971
-
+"Yeah. I think we can still swim."
 
 @ERI_PRO:343 ERI 537b937f
-
+"{Fm3}I see. Understood."
 
 @ERI_PRO:344 ERI afb03d6d
-
+"Then, see you, {Fe2}{Ec}Protagonist."
 
 @ERI_PRO:345 PLY add363d9
-
+"LV3 kiss, date re-invitation, protagonist stood her up, all outfits, same with or without mob"
 
 @ERI_PRO:346 PLY e213be0a
-
+"Sorry I couldn't make it last weekend. Um... if you'd like, how about going to the beach this time?"
 
 @ERI_PRO:347 ERI b2236beb
-
+"{Ec}......"
 
 @ERI_PRO:348 ERI 451e19a3
-
+"You don't have to force yourself to go."
 
 @ERI_PRO:349 PLY f2a10ad6
-
+"Don't say that... I want to go with you, Futami!"
 
 @ERI_PRO:350 ERI 49d81ba7
-
+"{Fe9}......"
 
 @ERI_PRO:351 ERI 4e7edde5
-
+"Fine... I will go..."
 
 @ERI_PRO:352 PLY 91ab518f
-
+"Really? Great."
 
 @ERI_PRO:353 PLY 8810b8a2
-
+"Then, Sunday at 11, in front of the station?"
 
 @ERI_PRO:354 ERI 2846e02e
-
+"{F3}Fine."
 
 @ERI_PRO:355 ERI e2b3ed61
-
+"Then, see you."
 
 @ERI_PRO:356 PLY aaee223e
-
+"LV3 kiss, date re-invitation, girl declined, all outfits, same with or without mob"
 
 @ERI_PRO:357 PLY bf929ece
-
+"I know I couldn't make it last weekend, but if you'd like, how about going to the beach together this weekend?"
 
 @ERI_PRO:358 ERI 2cc0274b
-
+"{Eo}{F4}Ah... {F3}I'm glad you invited me. {Fe9}Even though I turned you down on my own last week."
 
 @ERI_PRO:359 PLY 6139514c
-
+"If something came up, it can't be helped. I don't mind."
 
 @ERI_PRO:360 ERI d854f919
-
+"{Eo}{Fe3m4}Yes, fine. {Fm3}This weekend should be all right."
 
 @ERI_PRO:361 PLY 2fb0a808
-
+"Really? Then, Sunday at 11, in front of the station?"
 
 @ERI_PRO:362 ERI c11def7c
-
+"{Ec}Yes."
 
 @ERI_PRO:363 ERI 8b92c7d4
-
+"{Eo}Then, see you."
 
 @ERI_PRO:364 PLY 71d605bf
-
+"LV4 kiss, 1st time, all outfits, same with or without mob"
 
 @ERI_PRO:365 PLY 0313e97f
-
+"Futami... want to kiss?"
 
 @ERI_PRO:366 ERI 240f5511
-
+"All right. Do it."
 
 @ERI_PRO:367 PLY 94bbdd3f
-
+"What kind of experiment should it be?"
 
 @ERI_PRO:368 ERI 858ba456
-
+"{Ec}{Fe6}It doesn't have to be an experiment. {Eh}If you just hold me, that's enough..."
 
 @ERI_PRO:370 ERI 3f4cc672
-
+"Ah... Protagonist..."
 
 @ERI_PRO:371 PLY 0c5a4e4e
-
+"How was it?"
 
 @ERI_PRO:372 ERI 0eee6292
-
+"How was it...? {Eo}{Fe9}Are you going to make me say it out loud?"
 
 @ERI_PRO:373 PLY 7ffdf6e1
-
+"Because it would be bad if you said 'the worst.'"
 
 @ERI_PRO:374 ERI 397f954b
-
+"{Ec}{Fe8m4}...You're mean."
 
 @ERI_PRO:375 ERI 5c72fc58
-
+"...{W30}{Eo}{Fe6}Kissing is difficult.{Fm3}"
 
 @ERI_PRO:376 PLY d9372ba1
-
+"Why?"
 
 @ERI_PRO:377 ERI 6afed9eb
-
+"{Eh}{Fe9m3}I'm happy while we do it, but {F6}when it's over, {Ec}it hurts that much more..."
 
 @ERI_PRO:378 ERI d4bd3c78
-
+"{Eh}{F3}So I end up wanting to do it again and again..."
 
 @ERI_PRO:379 SYS 1dd0003b
-
+When she's glad, I'm glad too. When I see her happy face, I feel happy as well.
 
 @ERI_PRO:380 SYS f85c31b3
-
+I don't want to see her looking lonely. I want to do something for her.
 
 @ERI_PRO:381 SYS cbf40e90
-
+Is this what love is? Do I like her? ...I'm sure I do.
 
 @ERI_PRO:382 SYS f2b53e94
-
+And she... surely me too... A bittersweet ache overflowed in my chest...
 
 @ERI_PRO:383 SYS 6040f8f9
-
+Whether happy or unhappy, the chest tightens with an ache. Just as I felt it, she was feeling it now. Her moist eyes told me...
 
 @ERI_PRO:384 PLY e06c21c6
-
+"What are you doing for the school festival, Futami?"
 
 @ERI_PRO:385 ERI c55e2db7
-
+"{Fe6}I... {Fe9m3}am bad with crowds, so {F3}{Ec}I'll kill time somewhere."
 
 @ERI_PRO:386 ERI 0f5464de
-
+"Hey, why don't we slip out of school together?"
 
 @ERI_PRO:387 PLY 91621fb2
-
+"That's not good. Even if it's a Sunday, it's a school day."
 
 @ERI_PRO:388 ERI 8981e9ec
-
+"{Fe9}You know, {Fm4}you are surprisingly serious."
 
 @ERI_PRO:389 PLY 969c24a0
-
+"I'm just normal."
 
 @ERI_PRO:390 ERI 74bc4df5
-
+"{F4}{Ec}So you don't mind if I spend the day lonely and alone, Protagonist."
 
 @ERI_PRO:391 PLY 1976bade
-
+"No, skipping aside, let's spend it together. Where to meet... let's see, the rooftop?"
 
 @ERI_PRO:392 ERI 97d82a69
-
+"{F3}{Eo}Fine. Then, {Ec}I will wait on the rooftop."
 
 @ERI_PRO:393 ERI 55ef3ff1
-
+"See you, Protagonist."
 
 @ERI_PRO:394 PLY 2cf61409
-
+"LV4 kiss, generic (2nd time onward), all outfits, same with or without mob"
 
 @ERI_PRO:395 ERI 1c74c3b4
-
+"Mm... Protagonist......"
 
 @ERI_PRO:396 ERI a8b8327c
-
+"{Fe9m4}Lately, all we do is kiss..."
 
 @ERI_PRO:397 PLY c97bf3c5
-
+"Is it? We've done nothing but kiss since we met."
 
 @ERI_PRO:398 ERI 6daec46f
-
+"{F3}{Ec}Heh, {Eh}now that you mention it, you're right."
 
 @ERI_PRO:399 ERI ac453124
-
+"{F4}{Eo}What?"
 
 @ERI_PRO:400 PLY 3ce7f37c
-
+"For the school festival, we're meeting on the rooftop, remember."
 
 @ERI_PRO:401 ERI ccd4cac4
-
+"{Fe9m3}Yes, I know.{Fe2}{Ec}"
 
 @ERI_PRO:402 PLY 0177a518
-
+"That's not fair TT"

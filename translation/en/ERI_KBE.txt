@@ -2,151 +2,151 @@
 # Format: docs/translation-format.md
 
 @ERI_KBE:40 ERI eff1e968
-
+"{V0600}{W8}Heh,{W3}{W1}{W40}{Ec}{W5}{Eo} well played, {Nm}."
 
 @ERI_KBE:42 PLY daeef43c
-
+"Ah! F-Futami!"
 
 @ERI_KBE:45 ERI e52582d9
-
+"{V0601}{W10}Experimenting{W5} too,{W4} are you?"
 
 @ERI_KBE:46 PLY 62752346
-
+"N-no, it's not like that."
 
 @ERI_KBE:49 ERI f74464bc
-
+"{V0602}{W12}Maybe I{W12} should{W45} find{W5} some{W1} other{W8} boy{W1} to{W1} {Ec}experiment{W4} with{W6}."
 
 @ERI_KBE:50 PLY 2ca64493
-
+"Futami..."
 
 @ERI_KBE:52 ERI b094faed
-
+"{V0603}{W8}Is that okay?"
 
 @ERI_KBE:53 PLY 2d752b11
-
+"That... I'd rather you didn't..."
 
 @ERI_KBE:54 ERI fd2e7b11
-
+"{V0604}{W5}...You're{W3} so{W8} selfish."
 
 @ERI_KBE:55 PLY bad3355d
-
+"Yeah..."
 
 @ERI_KBE:56 PLY cd9776e5
-
+"Sorry... Futami... I don't know what to say..."
 
 @ERI_KBE:57 ERI/PLY 0d80b9d5
-
+"......"
 
 @ERI_KBE:59 ERI af73663b
-
+"{V0605}{W2}...{W3}Just{W4} this{W4} once."
 
 @ERI_KBE:61 ERI 1f5990a8
-
+"{V0606}{W15}If{W5} I{W3} catch{W1} you{W1} with{W1} her{W1} again,{W75} {Nm},{W3} you{W2} will{W6} no longer{W6} even be a friend."
 
 @ERI_KBE:62 PLY f3e6556e
-
+"Yeah, I understand."
 
 @ERI_KBE:64 ERI 626aa8b7
-
+"{V0607}{W6}See you."
 
 @ERI_KBE:67 PLY d662dece
-
+(Sorry... Futami. ...What a terrible guy I am...)
 
 @ERI_KBE:68 PLY 772be3f3
-
+(I have to sort out my feelings soon. Before it's too late to undo...)
 
 @ERI_KBE:69 ERI bfa8bf3b
-
+"{V0608}{W8}Heh,{W3}{W1}{W80} {Eh}so you{W1} were{W1} still{W1} experimenting{W1} with{W5} that{W12} girl,{W6} weren't{W1} you{W1}."
 
 @ERI_KBE:72 ERI 0792c783
-
+"{V0609}{W15}Do you like that girl so much?"
 
 @ERI_KBE:73 ERI 5596153f
-
+"{V0610}{W12}I{W2} can{W2} see{W1} why{W1}.{W1}{W42} She{W4} looks{W1} kind{W1}, after all."
 
 @ERI_KBE:74 ERI 1d45349b
-
+"{V0611}{W12}I can see why.{W45} She is a cute girl, after all."
 
 @ERI_KBE:75 ERI c630141e
-
+"{V0612}{W12}I{W2} can{W2} see{W2} why{W2}...{W1}{W25} She{W1} is{W1} quite a beauty{W4}, after all."
 
 @ERI_KBE:76 ERI 81445d1e
-
+"{V0613}{W17}I{W2} can{W2} see{W1} why{W1}...{W1}{W40} She{W5} looks{W3} healthy, after all."
 
 @ERI_KBE:77 ERI 8ec46da9
-
+"{V0614}{W12}I{W2} can{W2} see{W1} why{W1}...{W1}{W30} She{W5} looks{W5} like{W1} a{W1} docile{W1} girl, after all."
 
 @ERI_KBE:78 ERI c01f2ed9
-
+"{V0615}{W12}I{W2} can{W2} see{W1} why{W1}...{W1}{W33} She{W5} is{W5} a{W1} sensible{W1} girl, after all."
 
 @ERI_KBE:79 ERI 154b0fad
-
+"{V0616}{W10}Goodbye,{W27} I will not see you again."
 
 @ERI_KBE:80 PLY 299df50c
-
+"Ah... wait, Futami."
 
 @ERI_KBE:83 ERI 81ab25f9
-
+"{V0617}{W12}Goodbye.{W45} The{W4} experiment{W4} is over."
 
 @ERI_KBE:84 PLY 8cccea6e
-
+"Ah... Futami...!"
 
 @ERI_KBE:85 PLY 471fac2d
-
+(...I, I've done something I can never take back...)
 
 @ERI_KBE:86 PLY 0050b859
-
+(Futami... I'm sorry...)
 
 @ERI_KBE:88 ERI b0bfd420
-
+"{V0618}{W10}Heh,{W51} {Eo}well played, {Nm}."
 
 @ERI_KBE:90 ERI 5126b705
-
+"{V0619}{W13}This{W3} time it's experiments{W5} with that girl?"
 
 @ERI_KBE:91 PLY 581945bc
-
+"T-that's..."
 
 @ERI_KBE:92 ERI 41e901df
-
+"{V0620}{W8}What{W2} a{W1} fool..."
 
 @ERI_KBE:93 ERI 919afee2
-
+"{V0621}{W15}Sorry{W5} for{W1} that,{W27} making{W8} you{W1} humor{W1} me{W1} so{W1} long{W1}.{W50}{Fm1}{Eo} From{W1} now{W1} on,{W1} do{W1} as you please."
 
 @ERI_KBE:95 ERI 800cd828
-
+"{V0622}{W15}Our{W8} experiment{W1} together{W1} is{W3} over{W4}."
 
 @ERI_KBE:96 ERI e0b4d045
-
+"{V0623}{W15}Goodbye."
 
 @ERI_KBE:97 PLY 37788190
-
+"Ah{!} Futami!"
 
 @ERI_KBE:98 PLY e0164981
-
+(I... I... I'm hopeless. Unable to choose just one, I dithered along and dragged things out until now...)
 
 @ERI_KBE:99 PLY 4de7c50b
-
+(I... I...)
 
 @ERI_KBE:100 ERI f9150de2
-
+"{V0624}{W10}Heh,{W48} {Eo}Well{W2} played{W3} indeed,{W5} {Nm}."
 
 @ERI_KBE:101 ERI 2c7ec5f3
-
+"{V0625}{W8}Heh,{W42}{Fe8}{Eo} Saying{W2} you{W8} had{W8} already{W2} forgotten{W5} about it{W3}{W3},{W45} a{W4} clumsy{W1} excuse{W4} like that{W4} will not work on{W1} me."
 
 @ERI_KBE:102 PLY 6b410038
-
+"Ugh..."
 
 @ERI_KBE:103 ERI ca9eb6d0
-
+"{V0626}{W12}This{W6} time{W3},{W57} you{W2} flaunt{W1} your{W1} experiments{W4} with{W4} that{W1} girl{W1} in{W1} front{W2} of me,{W50}{Fe8m3} how{W1} very{W3} elaborate{W2} of{W1} you{W1}."
 
 @ERI_KBE:104 ERI 816451fe
-
+"{V0627}{W12}Heh,{W45} {Eo}Well{W2} played{W2} indeed,{W2} {Nm}."
 
 @ERI_KBE:105 ERI 11b69d4d
-
+"{V0628}{W12}{Ec}Heh,{W66} {Eo}Saying{W3} you{W5} had{W6} already{W1} forgotten{W1} about{W2} it{W3},{W60} a{W1} clumsy{W5} excuse{W2} like{W4} that{W4} will not work on me."
 
 @ERI_KBE:106 ERI 05b4c711
-
+"{V0629}{W12}Another{W7} experiment{W4}, and{W4} now{W4}{W5}{W7}{W11}{W12}...{W60}{Fe3} with{W81} a{W1} new{W6} girl{W1} this{W1} time{W5}, shown{W1} off{W2} to{W2} me{W2}{W2}{W2}{W2}{W2}{W3}{W3}.{W47}{Fe1}{Eh} I{W5} never{W2} imagined{W1} it{W1} of{W1} you{W1}{W2}{W1}."
 
 @ERI_KBE:107 PLY f3cc5197
-
+"I-I didn't mean it like that..."

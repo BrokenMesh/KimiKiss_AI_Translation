@@ -2,673 +2,673 @@
 # Format: docs/translation-format.md
 
 @MIT_MAT:19 PLY 204a1bf8
-
+"Shijou... there's a favor I'd like to ask you?"
 
 @MIT_MAT:23 MIT 7f95b45c
-
+"{V2423}{W8}{F4}Ah...{W25}{Fe9} I am sorry,{W35}{Fm3} I must{W3} be going now..."
 
 @MIT_MAT:24 PLY 876a2929
-
+"I see..."
 
 @MIT_MAT:30 MIT f6339419
-
+"{V2424}{W8}Well then,{W28} excuse me."
 
 @MIT_MAT:31 PLY ca2ae96b
-
+"Okay. See you."
 
 @MIT_MAT:32 PLY 5cb8d811
-
+"Shijou, there's a favor I'd like to ask. Is that okay?"
 
 @MIT_MAT:34 MIT df278271
-
+"{V0312}{W5}{F4}Ah...{W20} I am sorry.{W20}{Fe9} If I do not change{W3} now,{W20}{Fm3} I will be late for{W3} the next{W3} class..."
 
 @MIT_MAT:35 PLY c6ead430
-
+"Oh, right..."
 
 @MIT_MAT:36 MIT 7e1473b9
-
+"{V0381}{W8}Well then,{W25} excuse me, {Nm}."
 
 @MIT_MAT:37 PLY e03a6130
-
+"Yeah, see you."
 
 @MIT_MAT:38 PLY 9b46932d
-
+"That's so unfair TT Please, I'm begging you, work properly MAT"
 
 @MIT_MAT:41 PLY e46a6db0
-
+"Shijou... got a minute?"
 
 @MIT_MAT:42 MIT 55f72086
-
+"{V2425}{W8}{F4}Ah...{W30}{Fe9} I am sorry.{W30}{Fm3} I must be going now..."
 
 @MIT_MAT:43 PLY 18b0ca17
-
+"Oh, I see."
 
 @MIT_MAT:44 MIT 89e7f5bf
-
+"{V2426}{W8}{Ec}I am sorry."
 
 @MIT_MAT:46 MIT a399387a
-
+"{V2427}{W8}Well then,{W30} until next time."
 
 @MIT_MAT:47 PLY 77d98a7b
-
+(Even if it was only because we bumped into each other, Shijou and I did kiss once...)
 
 @MIT_MAT:48 PLY 2d9e2be9
-
+(I really did something terrible to her back then...)
 
 @MIT_MAT:49 PLY ec3c1df1
-
+(But thanks to that, I get to talk with Shijou like this now...)
 
 @MIT_MAT:50 PLY fc6f85a9
-
+(I feel bad for Shijou, but... that's lucky, isn't it.)
 
 @MIT_MAT:51 MIT b4928e71
-
+"{Fe9m4}{Nm},{V0326} is something the matter?{W40} You have suddenly{W3} gone silent..."
 
 @MIT_MAT:52 PLY 9af5be8a
-
+"Ah... no, it's nothing, hahaha..."
 
 @MIT_MAT:53 MIT 26d2b750
-
+"{V0327}{W8}I...{W40} I must change soon...{W20}{Fe6} I will be late for{W3} the next{W3} class..."
 
 @MIT_MAT:54 MIT 3b438486
-
+"{V0328}{W8}Well then,{W25} excuse me, {Nm}."
 
 @MIT_MAT:55 PLY bc735574
-
+"Shijou, if you'd like, want to walk home together today?"
 
 @MIT_MAT:58 MIT 09d4993f
-
+"{V2428}{W8}Eh..."
 
 @MIT_MAT:59 MIT 58e4cfd4
-
+"{V2429}{W10}I am sorry.{W48} I,{W40} I must go straight home..."
 
 @MIT_MAT:60 PLY 853a1d3e
-
+"...Then I'll walk you to your house. Is that no good?"
 
 @MIT_MAT:61 MIT a7a63c0d
-
+"{V2430}{W20}Oh, please...{W110} that would trouble me."
 
 @MIT_MAT:62 PLY ec117bb4
-
+"I know... But we could talk on the way home, and I think it'd be fun."
 
 @MIT_MAT:63 MIT e714777e
-
+"{V2431}{W10}Ah..."
 
 @MIT_MAT:65 MIT 5006a548
-
+"{V2432}{W5}...{W8}...{W5}"
 
 @MIT_MAT:68 MIT 621a4bfe
-
+"{V2433}{W15}...Yes, that is true.{W75} I,{W30} too, would like to talk some more{W20} with {Nm}..."
 
 @MIT_MAT:69 MIT 61f4e6df
-
+"{V2434}{W15}Would you...{W50} walk home with me?"
 
 @MIT_MAT:70 PLY 0ab3d007
-
+"Of course!"
 
 @MIT_MAT:71 PLY 05f830b8
-
+"Then, shall we meet at the School Gate after school?"
 
 @MIT_MAT:72 MIT 44aceb15
-
+"{V2435}{W8}Yes."
 
 @MIT_MAT:74 MIT 2a3a0e07
-
+"{V2436}{W8}Well then,{W40} excuse me."
 
 @MIT_MAT:75 MIT 96cf6618
-
+"{V2437}{W8}{F4}Eh..."
 
 @MIT_MAT:76 PLY 2a1b15b2
-
+"I'll walk you home like the other day."
 
 @MIT_MAT:77 MIT 1a5a0fef
-
+"{V2438}{W15}Ah..."
 
 @MIT_MAT:78 MIT 4054660e
-
+"{V2439}{W8}{F3}Yes.{W45} ...Then,{W35} would you walk home with me?"
 
 @MIT_MAT:79 MIT 3163d37a
-
+"{V2440}{W8}Yes."
 
 @MIT_MAT:80 MIT 4ab130a1
-
+"{V2441}{W8}Well then,{W35}{Ec} excuse me."
 
 @MIT_MAT:81 MIT ca465a85
-
+"{V2447}{F4}{W8}Eh..."
 
 @MIT_MAT:82 MIT 41b1d75d
-
+"{V2448}...Y-{W60}yes.{W45}{Fm3} With pleasure."
 
 @MIT_MAT:83 PLY ef1e81bd
-
+"Really? Then, shall we meet at the School Gate after school?"
 
 @MIT_MAT:84 MIT 6818e14e
-
+"{V2449}{F3}{W8}Yes.{W50} Understood."
 
 @MIT_MAT:85 MIT 74482096
-
+"{V2450}{W8}Then,{W35} after school,{W10} at the School Gate."
 
 @MIT_MAT:87 MIT d6334665
-
+"{V2451}{W5}Excuse me,{W40} Master."
 
 @MIT_MAT:88 MIT d4ee40a9
-
+"{V2452}{F4}{W8}Ah..."
 
 @MIT_MAT:89 MIT fe359c66
-
+"{V2453}{W8}{F3}Yes.{W45} With pleasure."
 
 @MIT_MAT:90 MIT c4ef4335
-
+"{V2454}{W8}Yes.{W45} Understood."
 
 @MIT_MAT:91 MIT 584cf899
-
+"{V2455}{W8}Then,{W35} after school,{W10} at the School Gate."
 
 @MIT_MAT:92 MIT 81e2bcfb
-
+"{V2456}{W8}Excuse me,{W30}{Ec} Master."
 
 @MIT_MAT:93 MIT 27e09393
-
+"{V2442}{W8}{F4}Eh..."
 
 @MIT_MAT:94 MIT e03b842d
-
+"{V2443}{W10}I am sorry.{W43} I,{W25} I must go straight home..."
 
 @MIT_MAT:95 MIT 23fd6b03
-
+"{V2444}{W10}Oh, please...{W50}{Fe6} that would trouble me."
 
 @MIT_MAT:96 MIT 1a57a67b
-
+"{V2445}{Eh}{W10}...Today,{W48} well...{W60}{Ec} it is impossible."
 
 @MIT_MAT:97 MIT 92e4dde5
-
+"{V2446}{W8}I am sorry.{W35} Excuse me."
 
 @MIT_MAT:98 PLY 25f37b75
-
+"Ah... Shijou..."
 
 @MIT_MAT:99 PLY cf8f0e64
-
+(That didn't work... Maybe I should have gotten her more excited?)
 
 @MIT_MAT:100 MIT 71fcacce
-
+"{V2457}{F4}Eh..."
 
 @MIT_MAT:101 MIT 27bc3774
-
+"{V2458}{W5}...T-{W45}today is a little...{W60}{Fe6} I am sorry."
 
 @MIT_MAT:102 MIT 7ddc1c21
-
+"{V2459}{W5}{Eh}...{W5}...{W5}"
 
 @MIT_MAT:103 PLY 34fef8e2
-
+"Then I'll ask you again. See you."
 
 @MIT_MAT:104 MIT eaaa3620
-
+"{V2460}{Eo}{Fe9}{W8}Ah..."
 
 @MIT_MAT:105 MIT 0c7304e3
-
+"{V2461}{Eh}{Fe6}{W8}I am sorry...{Ec}"
 
 @MIT_MAT:106 MIT 434d0787
-
+"{V2428}{F4}{W8}Eh..."
 
 @MIT_MAT:107 MIT ed4c08f7
-
+"{V2429}{Fe9}{W10}I am sorry.{W45} I,{W30}{Eh} I must go straight home..."
 
 @MIT_MAT:108 MIT 174c71e8
-
+"{V2430}{Eo}{W10}Oh, please...{W110} that would trouble me."
 
 @MIT_MAT:109 MIT 115b59ee
-
+"{V2431}{W8}Ah..."
 
 @MIT_MAT:110 MIT d83acf4f
-
+"{V2432}{Fe6}{W5}...{W5}...{W5}"
 
 @MIT_MAT:111 MIT a1f6f770
-
+"{V2433}{Fe9m3}{W15}...Yes, that is true.{W75}{F3} I,{W35} too, would like to talk some more{W15} with {Nm}..."
 
 @MIT_MAT:112 MIT a72c0ddc
-
+"{V2434}{W15}Would you...{W50}{Ec} walk home with me?"
 
 @MIT_MAT:113 MIT 762262cf
-
+"{V2435}{Eo}{W8}Yes."
 
 @MIT_MAT:114 MIT 25d46bd7
-
+"{V2436}{W8}Well{W3} then,{W3}{W3}{W25} excuse{W3} me{W3}."
 
 @MIT_MAT:115 MIT 3c3cdf21
-
+"{V2438}{W8}Ah..."
 
 @MIT_MAT:116 MIT 5ac6a4de
-
+"{V2439}{F3}{W8}Yes.{W45}{Eh} ...Then,{W35}{Eo} would you walk home with me?"
 
 @MIT_MAT:118 MIT 15a472c3
-
+"{V2441}{W8}Well{W3} then,{W3}{W3}{W25}{Ec} excuse{W5} me."
 
 @MIT_MAT:119 MIT 43e506ee
-
+"{V2462}{F4}...Y-{W105}{Eh}{Fe7}yes.{Eo}{W65}{F3} With pleasure."
 
 @MIT_MAT:120 MIT 0ff2e893
-
+"{V2463}{W8}Yes.{W50} Understood."
 
 @MIT_MAT:121 MIT 280ac7cb
-
+"{V2464}{W8}Then,{W35} after school,{W10} at the School Gate."
 
 @MIT_MAT:122 MIT bd8bb054
-
+"{V2465}{W8}Excuse me,{W35}{Eo} Master."
 
 @MIT_MAT:123 PLY 0177a518
-
+"That's so unfair TT"
 
 @MIT_MAT:124 MIT 5c584539
-
+"{V2466}{Fe9}{W8}Ah...{W22} I am sorry.{W27}{Fe6} I have to{W5} go now..."
 
 @MIT_MAT:125 PLY 542af83a
-
+"I see..."
 
 @MIT_MAT:126 MIT 572578e0
-
+"{V2467}{Eh}{W8}I am sorry."
 
 @MIT_MAT:127 PLY 5018e071
-
+"It can't be helped. Well, see you."
 
 @MIT_MAT:128 MIT 36caac6d
-
+"{V2468}{Eo}{W8}Yes.{W45}{Fe9m4} Excuse{W3} me{W5}."
 
 @MIT_MAT:129 PLY 702905f1
-
+"Shijou, um..."
 
 @MIT_MAT:130 MIT 0bf4d8b1
-
+"{V379}{F4}{W8}Ah, {Nm}..."
 
 @MIT_MAT:131 MIT fee29958
-
+"{V380}{W10}I,{W30} must change soon...{W30}{Fe9m3} I will be late for the next class..."
 
 @MIT_MAT:132 PLY 810beca8
-
+"Huh? Ah, right..."
 
 @MIT_MAT:133 MIT e59df147
-
+"{V381}{W8}Well{W3} then,{W3}{W20} excuse{W3} me,{W3} {Nm}."
 
 @MIT_MAT:134 MIT 5e562e44
-
+"{V2469}{F4}{W8}Eh..."
 
 @MIT_MAT:135 PLY 019e9373
-
+"Is that no good?"
 
 @MIT_MAT:136 MIT 326ee365
-
+"{V2470}{W10}...{W12}...{W10}"
 
 @MIT_MAT:137 MIT a03d6875
-
+"{V2471}{F2}...No,{W40}{Ec} I will go{W3} with you{W3}."
 
 @MIT_MAT:138 MIT 071ad8e8
-
+"{V2472}{Eo}{W8}Yes."
 
 @MIT_MAT:139 MIT a1385377
-
+"{V2473}{W8}Well then,{W35} excuse{W3} me{W3}."
 
 @MIT_MAT:140 MIT b44113a1
-
+"{V2483}{W8}{F4}Ah..."
 
 @MIT_MAT:141 MIT 46d5ce1f
-
+"{V2484}{W8}{F2}Yes.{W35}{Ec} With{W6} pleasure."
 
 @MIT_MAT:142 MIT 77e7ff2b
-
+"{V2485}{Eo}{Fm4}{W8}Yes,{W40} we meet at the School Gate,{W3}{W3} correct?{W50}{Fm3} Understood."
 
 @MIT_MAT:143 PLY e2b3ed61
-
+"Okay, see you."
 
 @MIT_MAT:144 MIT 9ae55c67
-
+"{V2486}{W8}{F3}Yes.{W30} Excuse{W3} me{W3},{W15} Master{W3}{W3}."
 
 @MIT_MAT:145 MIT ec882c68
-
+"{V2474}{F4}{W8}Eh..."
 
 @MIT_MAT:146 MIT a25966a3
-
+"{V2475}{W8}Today...{W60} is a little..."
 
 @MIT_MAT:147 PLY b2a60cef
-
+"Is that no good?"
 
 @MIT_MAT:148 MIT b28a3173
-
+"{V2476}{Eh}{W10}Yes.{W70} I am sorry...{Ec}"
 
 @MIT_MAT:149 PLY 1bb61118
-
+"I see... Then I'll ask you again."
 
 @MIT_MAT:150 MIT f9a3376c
-
+"{V2477}{W8}{Fm3}Yes.{W50} Excuse{W3} me{W3}."
 
 @MIT_MAT:151 MIT ea818841
-
+"{V2487}{W8}{F4}Ah..."
 
 @MIT_MAT:152 MIT b40dd779
-
+"{V2488}{W10}I am sorry.{W35}{Fe6} Today...{W35} is a little..."
 
 @MIT_MAT:153 MIT 4871e332
-
+"{V2489}{Eh}{W8}Yes..."
 
 @MIT_MAT:154 PLY f8f9afba
-
+"I see... Then it can't be helped."
 
 @MIT_MAT:155 MIT d52b1dc7
-
+"{V2490}{W8}I{W3} am{W3} really{W3} sorry{W3}.{W30} Excuse me."
 
 @MIT_MAT:156 PLY c404490b
-
+"Shijou, I wonder if she has something to do today?"
 
 @MIT_MAT:157 MIT 0ace5f75
-
+"{V2478}{W8}{F4}Eh?"
 
 @MIT_MAT:158 PLY ae54f16b
-
+"If you'd like, want to walk home together today?"
 
 @MIT_MAT:159 MIT 29d3bd7b
-
+"{V2479}{W8}Ah..."
 
 @MIT_MAT:160 MIT aac81c7a
-
+"{V2480}{F2}...Yes,{W45}{Ec} I will go with you."
 
 @MIT_MAT:161 MIT 1646b6ef
-
+"{V2481}{W8}{Eo}Yes."
 
 @MIT_MAT:162 PLY 51749d5b
-
+"Then, see you after school."
 
 @MIT_MAT:163 MIT ca650fb6
-
+"{V2482}{W8}Yes.{W45} Excuse me."
 
 @MIT_MAT:164 PLY 0acd339a
-
+"Shijou, do you have something to do today?"
 
 @MIT_MAT:165 MIT d0533f41
-
+"{V2491}{W8}{F4}Eh?"
 
 @MIT_MAT:166 PLY b448e8b4
-
+"You can't go home together, right?"
 
 @MIT_MAT:167 MIT abecb779
-
+"{V2492}{W8}Ah..."
 
 @MIT_MAT:168 MIT 64c08079
-
+"{V2493}{Fe6}...No,{W35}{F3} I will go with you."
 
 @MIT_MAT:169 PLY 82cd66e4
-
+"Really? Are you sure?"
 
 @MIT_MAT:170 MIT e4eeabe3
-
+"{V2494}{F2}{W8}{Ec}Yes."
 
 @MIT_MAT:171 MIT 725410e6
-
+"{V2495}{W8}Yes,{W35} the School Gate, correct?{W35} Understood."
 
 @MIT_MAT:172 PLY ab931cf6
-
+"Then, see you after school."
 
 @MIT_MAT:173 MIT 7e4c52dc
-
+"{V2496}{W8}Yes{W3}.{W35}{Ec} Excuse me."
 
 @MIT_MAT:174 MIT 0bf7a71e
-
+"{V2497}{F4}{W8}Ah..."
 
 @MIT_MAT:175 MIT 5c369010
-
+"{V2498}{Fe9}{W8}I am sorry.{W30}{Ec} I have to go now..."
 
 @MIT_MAT:176 MIT 239e982f
-
+"{V2499}{W8}{Fe6}{Eh}I am sorry."
 
 @MIT_MAT:177 MIT 0136ac9e
-
+"{V2500}{W8}{Eo}{Fm3}Yes.{W35} Excuse me."
 
 @MIT_MAT:178 PLY d4b0c6b0
-
+"Shijou."
 
 @MIT_MAT:179 MIT 8d0e3c1d
-
+"{V2501}{W8}{Fe4m3}What is it,{W25} Master?"
 
 @MIT_MAT:180 PLY 03e03b9d
-
+"Got a minute?"
 
 @MIT_MAT:181 MIT 35f85040
-
+"{V2502}{W8}{Fe9m4}Ah...{W20} I am sorry.{W30}{Fm3} I have to go now..."
 
 @MIT_MAT:182 MIT 1b4e8380
-
+"{V2503}{W8}{Fe6}I am sorry."
 
 @MIT_MAT:183 MIT 5761b564
-
+"{V2504}{W8}Yes{W3}.{W45}{F3} Excuse me."
 
 @MIT_MAT:184 PLY 5248279b
-
+"Shijou..."
 
 @MIT_MAT:185 MIT 6578651d
-
+"{V0411}{F3}{W8}Yes?"
 
 @MIT_MAT:186 PLY 9ddade6a
-
+"Want to go behind the school?"
 
 @MIT_MAT:187 MIT 939e8a55
-
+"{V2428}{F4}{W8}Eh...?"
 
 @MIT_MAT:188 MIT 5245d632
-
+"{V0412}{W10}I,{W55} must{W5} change now...{W45}{Fe9m3} Otherwise I will be late{W5} for the next{W3} class..."
 
 @MIT_MAT:189 PLY 6c6b1e77
-
+"R-right..."
 
 @MIT_MAT:190 MIT 7ea22922
-
+"{V0413}{W8}{Fe6}{Ec}I am sorry."
 
 @MIT_MAT:191 PLY a77be4b7
-
+"No, it's okay. See you."
 
 @MIT_MAT:192 MIT d30d38f9
-
+"{V0414}{W8}Yes."
 
 @MIT_MAT:193 MIT 728c9e1a
-
+"{V0530}{W8}Master,{W70} I...{W90}{Fe9} there is something I would like to ask..."
 
 @MIT_MAT:194 PLY 547944a8
-
+"Huh? What is it?"
 
 @MIT_MAT:195 MIT d6475b73
-
+"{V0531}...{W8}But,{W40} I must change now...{W30}{Fe9} Next time,{W10} when there is time,{W15} may I ask you then?"
 
 @MIT_MAT:196 PLY cf543578
-
+"Sure, that's fine."
 
 @MIT_MAT:197 MIT cb5f12de
-
+"{V0532}{W8}Yes{W3}.{W35} Excuse me."
 
 @MIT_MAT:198 PLY 298f6438
-
+(I should talk to her when she doesn't have to change...)
 
 @MIT_MAT:199 MIT 023e9aad
-
+"{V2505}{W8}Yes.{W40} With{W3} pleasure."
 
 @MIT_MAT:200 MIT 647db253
-
+"{V2506}{W8}{Fe2}{Ec}Yes."
 
 @MIT_MAT:201 PLY 0d47c6fd
-
+"Then, after school."
 
 @MIT_MAT:202 MIT dc678446
-
+"{V2507}{W8}Yes.{W55} I am looking forward to it."
 
 @MIT_MAT:203 MIT 1ea35fb2
-
+"{V2519}{W8}Yes,{W10} Master.{W38} With{W3} pleasure."
 
 @MIT_MAT:204 MIT 3d61a7dc
-
+"{V2520}{W8}{Fe2}{Ec}Yes.{W2}{W3}"
 
 @MIT_MAT:205 MIT dd3bd970
-
+"{V2521}{W8}Yes.{W50} I am looking forward to it."
 
 @MIT_MAT:206 MIT 74f4eac0
-
+"{V2508}{W8}{F4}Ah...{W75}{Fe9m3} Today{W20} is a little..."
 
 @MIT_MAT:207 PLY 06df2bea
-
+"You can't?"
 
 @MIT_MAT:208 MIT 67dd9469
-
+"{V2509}{W8}No.{W65} I have{W3} something to do..."
 
 @MIT_MAT:209 PLY aa8381d7
-
+"I see... Then it can't be helped."
 
 @MIT_MAT:210 MIT e311376b
-
+"{V2510}{W8}I am sorry.{W25} I{W3} also{W8} would like to go home with {Nm},{W3}{W3}{W5} {Eh}{Fe6}but..."
 
 @MIT_MAT:211 PLY aef54785
-
+"Then I'll ask you again."
 
 @MIT_MAT:212 MIT f9c2e362
-
+"{V2511}{W8}{Eo}{F3}Yes.{W40} Please do."
 
 @MIT_MAT:213 MIT d1628968
-
+"{V2512}{W8}Yes{W3}.{W50} Excuse me."
 
 @MIT_MAT:214 MIT 383e73f5
-
+"{V2522}{F4}{W8}Ah..."
 
 @MIT_MAT:215 MIT ce34cdcf
-
+"{V2523}{Fe9}{W8}I am sorry, Master.{W35}{Fe6} Today{W8} I have something to do..."
 
 @MIT_MAT:216 MIT 83e7d2af
-
+"{V2524}{Eh}{W8}Yes..."
 
 @MIT_MAT:217 MIT 6690ffaa
-
+"{V2525}{W8}I am sorry.{W45} I{W3} want to go home{W3} with you{W3} too,{W3} but..."
 
 @MIT_MAT:218 PLY 98432e74
-
+"I see. Then I'll ask you again."
 
 @MIT_MAT:219 MIT 7889789d
-
+"{V2526}{Eo}{F3}{W8}Yes{W3}.{W45} Please do."
 
 @MIT_MAT:220 MIT 96f745b5
-
+"{V2527}{W8}Yes{W3}.{W40} Excuse me."
 
 @MIT_MAT:221 PLY 9082346b
-
+"Shijou, you have something to do today, right?"
 
 @MIT_MAT:222 MIT 7afdc039
-
+"{V2513}{F4}{W8}Ah...{W65} Yes, but..."
 
 @MIT_MAT:223 MIT b306f4d5
-
+"{V2514}{W8}I...{W80} will go home with {Nm}.{W3}{W3}"
 
 @MIT_MAT:224 PLY 45520a8e
-
+"Huh? Really?"
 
 @MIT_MAT:225 MIT e27f4cb6
-
+"{V2515}{W8}Yes.{W35} I can deal with{W3} my errand{W3} later."
 
 @MIT_MAT:226 PLY 90fbe5ca
-
+"Are you sure?"
 
 @MIT_MAT:227 MIT b6637a1a
-
+"{V2516}{Fe2}{Ec}{W5}It is{W2} all{W2} right."
 
 @MIT_MAT:228 MIT b02e12fb
-
+"{V2517}{W8}Yes."
 
 @MIT_MAT:229 MIT 76a36139
-
+"{V2518}{W8}Yes.{W45} I am looking forward to it.{Ec}"
 
 @MIT_MAT:230 MIT c69ac367
-
+"{V2528}{F4}{W8}Ah...{W55} Yes, but..."
 
 @MIT_MAT:231 MIT 35a0c538
-
+"{V2529}{W8}I...{W75} Master{W3}{W3}{W3}, I will go home{W3} with you."
 
 @MIT_MAT:232 MIT 1547efb5
-
+"{V2530}Yes.{W55} I can deal{W3} with my errand{W3} later,{W8} somehow{W3}."
 
 @MIT_MAT:233 MIT b3fbe608
-
+"{V2531}{Fe2}{Ec}{W8}Yes.{W40}{Eo} Please do not worry about it."
 
 @MIT_MAT:234 MIT 29a7fd0c
-
+"{V2532}{W8}Yes."
 
 @MIT_MAT:235 MIT 5016cf89
-
+"{V2533}{W8}Yes.{W45} I am looking forward to it.{Ec}"
 
 @MIT_MAT:236 PLY 5dbdf749
-
+"Shijou... mind if I have a minute?"
 
 @MIT_MAT:237 MIT ef9ec139
-
+"{V2534}{F4}{W8}Ah..."
 
 @MIT_MAT:238 MIT ed9c1213
-
+"{V2535}{W8}I am sorry...{W35}{Fe6} I have to go now..."
 
 @MIT_MAT:239 MIT 586fbf92
-
+"{V2536}{Eh}{W8}Yes..."
 
 @MIT_MAT:240 MIT 3f08ba77
-
+"{V2537}{W8}Yes.{W50}{F6}{Ec} Excuse me."
 
 @MIT_MAT:241 MIT 3c922d79
-
+"{V2538}{W10}Yes.{W65} I will go with you."
 
 @MIT_MAT:242 MIT 8bc153f5
-
+"{V2539}{F3}{W10}Yes."
 
 @MIT_MAT:243 MIT 3f62e6df
-
+"{V2540}{W8}Yes.{W70} I am looking forward to it."
 
 @MIT_MAT:244 MIT 2d34ffe7
-
+"{V2541}{W8}{Fe9m4}Ah...{W55}{Fm3} Today{W5} is a little..."
 
 @MIT_MAT:245 MIT ae740c14
-
+"{V2542}{W8}{Fe6}Yes.{W40}{Eh} I have something to do..."
 
 @MIT_MAT:246 MIT 2cad14cc
-
+"{V2543}{W10}I am sorry..."
 
 @MIT_MAT:247 PLY 330498e5
-
+"I'll ask you again."
 
 @MIT_MAT:248 MIT 46f69a59
-
+"{V2544}{Fm3}{W10}Yes..."
 
 @MIT_MAT:249 MIT eb46a8d2
-
+"{V2545}{W10}{F3}Yes{W3}.{W45} Excuse me."
 
 @MIT_MAT:250 MIT d6b088fb
-
+"{V2546}{W8}{Fm4}Yes..."
 
 @MIT_MAT:251 MIT e14bcb75
-
+"{V2547}{W10}{Fe6}Yes, but,{W50} I..."
 
 @MIT_MAT:253 MIT 2f0e1bd4
-
+"{V2548}{W3}I will go home with {Nm}."
 
 @MIT_MAT:255 MIT 00c6fc02
-
+"{V2549}{W8}{Eh}Yes.{W80} Spending time with {Nm}.{W3}{W3} That is{W55}{F3}{Ec} more important to me..."
 
 @MIT_MAT:256 PLY 25c022de
-
+"Shijou... Are you sure?"
 
 @MIT_MAT:257 MIT 783d61b7
-
+"{V2550}{Eo}{W10}Yes.{W50}{F2} Please do not worry about it."
 
 @MIT_MAT:258 MIT 6ca31df1
-
+"{V2551}{Ec}{W8}Yes."
 
 @MIT_MAT:259 MIT ec539335
-
+"{V2552}{W8}Yes{W3}{W3}.{W35} I am looking forward to it.{Ec}"
 
 @MIT_MAT:260 PLY 1355e3a0
-
+"Shijou, you remember our promise to walk home together, right?"
 
 @MIT_MAT:261 MIT 0cdbc091
-
+"{V1872}Yes.{W40} Of course."
 
 @MIT_MAT:262 PLY bd07f1b8
-
+"Then, after school at the School Gate."
 
 @MIT_MAT:263 MIT 2e090a8c
-
+"{V2435}{W8}{Ec}Yes."
 
 @MIT_MAT:264 MIT e2196074
-
+"{V0381}{W8}Well then,{W25} excuse me."

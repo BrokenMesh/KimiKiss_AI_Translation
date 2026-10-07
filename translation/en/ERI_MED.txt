@@ -2,196 +2,196 @@
 # Format: docs/translation-format.md
 
 @ERI_MED:41 ERI 374b595b
-
+"{V1455}For a while now, {Eh}it has been the{W2} same topic{W6} over and over."
 
 @ERI_MED:44 PLY f125d3df
-
+"R-right. Sorry."
 
 @ERI_MED:45 ERI 116e13b6
-
+"{V1457}{Nm}, your stories{W4} are {Eo}all so fun{W3}."
 
 @ERI_MED:47 ERI 4b147b46
-
+"{V1458}{Nm}, your stories{W6} all have a nice{W3} feel."
 
 @ERI_MED:48 ERI 08f750d0
-
+"{V1459}You know some pretty fun{W6} stories{W6}, don't you?{Ec}"
 
 @ERI_MED:49 ERI dfc68092
-
+"{V1460}You know some pretty good stories{W6} {Eo}to tell, don't you."
 
 @ERI_MED:50 ERI f488d44d
-
+"{V1469}{Nm}..., shall we talk{W3} a bit more{W5}?"
 
 @ERI_MED:51 PLY ce26e0aa
-
+"Sounds good, let's."
 
 @ERI_MED:52 SYS abf93941
-
+{Ti0}　　　　　　　　　　　　.{W15}／　　　　　　　　　　　　.{W15}／　　　　　　　　　　　　.　　　　　　　　　
 
 @ERI_MED:53 SYS a1c6df68
-
+And so, the two of us had a fun time together.
 
 @ERI_MED:56 ERI cc6c8398
-
+"{V1461}{Nm}, you aren't about to say anything worthwhile, are you?"
 
 @ERI_MED:57 PLY 9966d0bf
-
+"Huh? R-really? How can you tell?"
 
 @ERI_MED:58 ERI c3d86f78
-
+"{V1462}I can tell from the atmosphere.{Eh}"
 
 @ERI_MED:59 ERI e30d16dd
-
+"{V1463}I would like you to think of topics that suit me better.{Ec}"
 
 @ERI_MED:60 PLY eb4f502b
-
+(Okay! Time to switch gears and think of a different topic!)
 
 @ERI_MED:61 ERI 68b3db4c
-
+"{V1464}{Nm}, {Eh}want to kiss?"
 
 @ERI_MED:62 PLY c0e712d5
-
+"E-eeh?! S-so suddenly, what are you saying?!"
 
 @ERI_MED:63 ERI 38b60dc7
-
+"{V1465}Fufu, I'm joking.{Ec}"
 
 @ERI_MED:64 PLY 6c6b1e77
-
+"R-right..."
 
 @ERI_MED:65 PLY 8268d37b
-
+(With Futami, it never sounds like a joke...)
 
 @ERI_MED:66 PLY 5d891df5
-
+(Uh-oh, now I don't know what to talk about.)
 
 @ERI_MED:67 ERI 5522b360
-
+"{V1466}Stare......"
 
 @ERI_MED:68 PLY 0a48d01e
-
+"W-what is it? Why are you staring all of a sudden?"
 
 @ERI_MED:69 ERI 39fff4c9
-
+"{V1467}Fufu, {Eh}it's nothing."
 
 @ERI_MED:70 PLY b5ff89ff
-
+"Nothing, you say... Now I'm curious."
 
 @ERI_MED:71 ERI 8fe40f37
-
+"{V1468}Hehe..."
 
 @ERI_MED:72 PLY e145471d
-
+(What's with that laugh, like she's plotting something...)
 
 @ERI_MED:73 PLY bebf2eeb
-
+(Ah... what was I going to talk about? Ugh... I've lost track.)
 
 @ERI_MED:74 ERI 1dbe551b
-
+"{Nm},{W15} {V2319}{W10}I am leaving now."
 
 @ERI_MED:75 PLY d9393b35
-
+"Huh? R-really?"
 
 @ERI_MED:76 ERI 7f4afa29
-
+"{V2320}{W10}A conversation like this,{W33} is a waste{W3} of time."
 
 @ERI_MED:77 PLY 1f144e40
-
+(Ah... she's gone. The conversation wasn't really taking off...)
 
 @ERI_MED:80 ERI 40e2597d
-
+"{V2321}{W10}{E}Ugh...{E}"
 
 @ERI_MED:81 PLY c0bdaccc
-
+"What's wrong?"
 
 @ERI_MED:83 ERI d0ac73f1
-
+"{V2322}{W10}Ever{W5} since earlier{W60} you have{W5} only talked about weird{W8} things,{W60} {Eo}and I will not put up with it!"
 
 @ERI_MED:84 PLY 8eb25093
-
+"Ah... Futami..."
 
 @ERI_MED:85 PLY 3d796206
-
+(She's gone... Did I talk about too many embarrassing things?)
 
 @ERI_MED:86 ERI ee480ddf
-
+"{V2323}{W5}Ah,{W45} it's time{W3} already.{W55} That was fun,{W10} {Nm}."
 
 @ERI_MED:87 PLY 472ecf34
-
+"Yeah? Good."
 
 @ERI_MED:88 ERI b635f3b1
-
+"{V2324}{W10}See you."
 
 @ERI_MED:89 ERI e5673115
-
+"{V2325}{W5}See you."
 
 @ERI_MED:90 PLY e03a6130
-
+"Yeah, see you."
 
 @ERI_MED:92 ERI f886b9ec
-
+"{V2326}{W5}Ah,{W40} well,{W30} I should be going."
 
 @ERI_MED:93 PLY 62336c0f
-
+"Huh? Already?"
 
 @ERI_MED:94 ERI aba2879a
-
+"{V2327}{W5}That was fun,{W15} {Eo}{Nm}."
 
 @ERI_MED:95 PLY b627f6d6
-
+"Okay, good."
 
 @ERI_MED:97 ERI cec03519
-
+"{V2328}{W10}See you."
 
 @ERI_MED:98 ERI efe18f8d
-
+"{V2329}{W10}See you."
 
 @ERI_MED:99 ERI eccfc390
-
+"{V2330}{W8}It's time{W3} already.{Ec}"
 
 @ERI_MED:100 PLY 876a2929
-
+"I see..."
 
 @ERI_MED:101 ERI 467b61c1
-
+"{V2331}{W5}See you."
 
 @ERI_MED:102 ERI 902b0eb6
-
+"{V2332}{W5}See you."
 
 @ERI_MED:103 ERI 29de80c8
-
+"{V2333}{W5}I am leaving now."
 
 @ERI_MED:104 ERI 65d6992a
-
+"{V2334}{W5}See you."
 
 @ERI_MED:105 ERI 5ae00d7c
-
+"{V2335}{W5}See you."
 
 @ERI_MED:106 PLY d587063b
-
+"Sorry, Futami. I have to get going..."
 
 @ERI_MED:107 ERI 84bc197c
-
+"{V2336}{W5}Eh?{W30}{F6} Is that so?"
 
 @ERI_MED:108 ERI 0087b412
-
+"{V2337}{W5}...{W45}What{W3} a shame{W3}.{Ec}"
 
 @ERI_MED:109 PLY a002148c
-
+"Sorry. Let's continue the conversation another time."
 
 @ERI_MED:110 ERI a17084ed
-
+"{V2338}{W5}Yes."
 
 @ERI_MED:111 PLY 9ed9249c
-
+"See you, then, Futami."
 
 @ERI_MED:112 ERI 8751e76f
-
+"{V2339}{W5}Yes."
 
 @ERI_MED:113 ERI 12ae2ee8
-
+"{V2340}{W5}Yes,{W30} see you."
 
 @ERI_MED:114 ERI ed01d6af
-
+"{V2341}{W5}I see,{W30} bye.{Ec}"
 
 @ERI_MED:115 ERI 7a23a1cb
-
+"{V2342}{W5}I see,{W40} see you.{Ec}"

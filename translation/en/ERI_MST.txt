@@ -2,172 +2,172 @@
 # Format: docs/translation-format.md
 
 @ERI_MST:15 - 961bdeb8
-
+Protagonist's cards left in hand:
 
 @ERI_MST:27 PLY 3b458d39
-
+(Ah... it's Futami...)
 
 @ERI_MST:30.1 - ed24038e
-
+{Ti0}- Talk to Futami／- Don't talk to her now
 
 @ERI_MST:31 PLY 2a5f4b13
-
+"Futami, got a minute?"
 
 @ERI_MST:45 ERI feff31a6
-
+"{V1402}{W10}Did you want{W5} something?"
 
 @ERI_MST:46 PLY 40e06530
-
+"If you're free, want to talk for a bit?"
 
 @ERI_MST:47 ERI 6150facd
-
+"{V1403}{E}{W5}Eh..."
 
 @ERI_MST:50 ERI 4514d7b7
-
+"{V1404}{W10}I{W5} don't{W3} mind{W3}."
 
 @ERI_MST:53 ERI 1354c992
-
+"{V1405}{W5}Make{W3} it{W3} another{W3} time."
 
 @ERI_MST:54 PLY 13ab91b0
-
+"I see... Well, see you."
 
 @ERI_MST:56 ERI 060347d1
-
+"{V1406}{W5}Yes."
 
 @ERI_MST:57 ERI d9fb9455
-
+"{V1407}{W5}I am going back to the locker room{W3} now."
 
 @ERI_MST:58 ERI 0c42f153
-
+"{V1408}{W5}Yes."
 
 @ERI_MST:59 PLY 2caf7dfa
-
+(I can talk with Futami another time...)
 
 @ERI_MST:71 ERI ed6ea20c
-
+"{Nm}, {V1409}{W10}do you have a moment?"
 
 @ERI_MST:72 PLY e3b6b378
-
+"Oh, Futami."
 
 @ERI_MST:74.1 - ebc8ac86
-
+{Ti0}- Sure／- Sorry, now's not a good time
 
 @ERI_MST:75 PLY cf543578
-
+"Sure."
 
 @ERI_MST:76 ERI d0199c25
-
+"{V1410}{W10}Then,{W15} shall we talk about something?"
 
 @ERI_MST:77 PLY 2daf8dad
-
+"Sounds good. What should we talk about..."
 
 @ERI_MST:78 PLY 66aff371
-
+"Sorry, now's not a good time."
 
 @ERI_MST:80 ERI 85fb2f87
-
+"{V1411}{W10}I see.{W45} Never mind, then."
 
 @ERI_MST:83 PLY 39f7653b
-
+"Ah, Futami. She's gone..."
 
 @ERI_MST:84 ERI 3e697d4e
-
+"{V1412}Oh,{W15} {Nm}"
 
 @ERI_MST:85 PLY 8fab94c5
-
+"If you're free, want to talk for a bit?"
 
 @ERI_MST:86 ERI ce40e516
-
+"{V1413}{W10}Yes,{W30} that's fine."
 
 @ERI_MST:87 ERI f0d0fd1b
-
+"{V1414}{W10}Sorry,{W20} I am not free."
 
 @ERI_MST:88 PLY 542af83a
-
+"I see..."
 
 @ERI_MST:89 PLY 9ed9249c
-
+"See you, then, Futami."
 
 @ERI_MST:90 ERI a7462889
-
+"{V1415}{W5}Yes."
 
 @ERI_MST:92 ERI 4c5f28c9
-
+"{V1416}{W10}I am not free.{W28} I am about to change."
 
 @ERI_MST:93 PLY 67919fb4
-
+"R-right."
 
 @ERI_MST:94 ERI 906a9860
-
+"{V1417}{W5}See you,{W15} {Nm}."
 
 @ERI_MST:95 PLY e03a6130
-
+"Yeah, see you."
 
 @ERI_MST:99 ERI d615bbe9
-
+"{V1418}{W10}You look free,{W15} {Nm}."
 
 @ERI_MST:100 ERI d4207467
-
+"{V1419}{W10}Want{W3} to talk{W3} about something?"
 
 @ERI_MST:101.1 - 4a90b521
-
+{Ti0}- Sure／- Sorry, I can't right now
 
 @ERI_MST:102 PLY 9130a981
-
+"Sorry, I can't right now."
 
 @ERI_MST:103 ERI 38ebb9d8
-
+"{V1421}{W10}I see...{W40} Bye."
 
 @ERI_MST:104 PLY 0bb330f8
-
+"Ah... Futami... She's gone..."
 
 @ERI_MST:105 PLY f2fdc86a
-
+"Futami."
 
 @ERI_MST:106 ERI 0e821be6
-
+"{V1422}{W10}Oh,{W15} {Nm}"
 
 @ERI_MST:107 PLY 4c2b3add
-
+"Are you free now? If so, want to talk for a bit?"
 
 @ERI_MST:109 ERI bef95252
-
+"{V1423}{W10}Yes,{W30} {Ec}that's fine."
 
 @ERI_MST:110 ERI 7fd7685a
-
+"{V1424}{W10}Ah...{W45} what a shame.{W33} I have something to do."
 
 @ERI_MST:111 ERI cc4c49f8
-
+"{V1425}{W3}Talk to me again{W2} later."
 
 @ERI_MST:112 PLY 14a743d7
-
+"Right. I will."
 
 @ERI_MST:113 ERI 857d3855
-
+"{V1426}{W3}Well then,{W38} see you."
 
 @ERI_MST:114 ERI 38054b78
-
+"{V1427}{W10}What{W2} a shame{W2}...{W60} I{W8} have to get back and change..."
 
 @ERI_MST:115 PLY 876a2929
-
+"I see..."
 
 @ERI_MST:116 ERI c0d7c07f
-
+"{V1428}{W5}See you,{W15} {Nm}."
 
 @ERI_MST:121 ERI eaf00e72
-
+"{V1429}{W10}{Nm},{W30} what are you doing?"
 
 @ERI_MST:122 ERI 259649c1
-
+"{V1430}{W10}If you're free,{W30} shall we talk for a bit?"
 
 @ERI_MST:123.1 - 4a90b521
-
+{Ti0}- Sure／- Sorry, I can't right now
 
 @ERI_MST:124 ERI 55192a03
-
+"{V1431}{Ec}{W10}Fufu,{W30} that is{W3} what I wanted to hear."
 
 @ERI_MST:125 ERI a44040a1
-
+"{V1432}{W10}I see...{W38} what{W2} a shame{W2}."
 
 @ERI_MST:126 ERI b67d2bbd
-
+"{V1433}{W10}Well then,{W30} see you."

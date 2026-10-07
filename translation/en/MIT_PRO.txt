@@ -2,49 +2,49 @@
 # Format: docs/translation-format.md
 
 @MIT_PRO:24 YUM 3d8312ad
-
+"Hello. This is a sample of the KimiKiss script.{Mc}{Ec}"
 
 @MIT_PRO:29.1 - a32ee14d
-
+{Ti0}- Choice 1／- Choice 2／- Choice 3
 
 @MIT_PRO:30.0 - b9f5f623
-
+1
 
 @MIT_PRO:30.1 - ff37499c
-
+2
 
 @MIT_PRO:30.2 - ab8e8821
-
+3
 
 @MIT_PRO:30.3 - ba79c225
-
+4
 
 @MIT_PRO:30.4 - e2d4a395
-
+5
 
 @MIT_PRO:30.5 - 9747eb47
-
+6
 
 @MIT_PRO:31 - f2aaf3b1
-
+"Choice #
 
 @MIT_PRO:32 - 5f862fd8
-
+was selected."
 
 @MIT_PRO:33.1 - 7006518e
-
+{Ti0}- Choice 1        - Choice 2／- Choice 3        - Choice 4／- Choice 5        - Choice 6
 
 @MIT_PRO:47 NAR c32ada47
-
+"{Mo}This is how it looks with two of us~"
 
 @MIT_PRO:48 NAR a563bf96
-
+"{Mo}And the catchphrase is~! Welcome to the Loli Kingdom~!"
 
 @MIT_PRO:49 NAR 48650d4a
-
+"{Ti3}......"
 
 @MIT_PRO:54 YUM 83daccfa
-
+"{Fe9}{B100}W-{W20}{Fm1}{Eh}{Sp}{Ts1}welcome~...{Sd}"
 
 @MIT_PRO:55 NAR 17d69ea5
-
+"Hoshino, you're no fun~!"

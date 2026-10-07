@@ -2,268 +2,268 @@
 # Format: docs/translation-format.md
 
 @ERI_DEA:17 PLY e1a5efcf
-
+(Hm? Something came flying from above.)
 
 @ERI_DEA:20 PLY d007d9c9
-
+(Phew, I finally finished tidying up the gym storeroom.)
 
 @ERI_DEA:24 PLY 6f3e476c
-
+(I just can't say no when Ms. Kawada asks me...)
 
 @ERI_DEA:25 PLY 845a09ce
-
+(It's hard to say no when Ms. Kawada asks me...)
 
 @ERI_DEA:26 PLY be0a0485
-
+(Hm? Is something lying there?)
 
 @ERI_DEA:28 PLY 52d7c83f
-
+"It's a paper airplane. ...Huh? Isn't this the quiz from the other day?"
 
 @ERI_DEA:29 PLY fb7f2c38
-
+"Who would throw something like this..."
 
 @ERI_DEA:33 PLY db5e35fd
-
+"The score is... zero... Actually, the answer boxes are blank."
 
 @ERI_DEA:34 PLY 17ea1dd2
-
+"The name is... Futami Eriko... Huh? Futami Eriko is..."
 
 @ERI_DEA:35 PLY 83a90a7f
-
+"Ah, another one fell."
 
 @ERI_DEA:36 PLY 33b5949a
-
+"This one's blank too... Why would anyone do this..."
 
 @ERI_DEA:37 PLY 2dd76e03
-
+"Looks like they're being thrown from the rooftop..."
 
 @ERI_DEA:41 PLY 44ebd691
-
+(Nobody's here... Wasn't it the rooftop?)
 
 @ERI_DEA:42 PLY 263e79f2
-
+(Hm? There's a bag here...)
 
 @ERI_DEA:43 PLY 20324689
-
+(Could it be... up there?)
 
 @ERI_DEA:85 - 64c62dc2
-
+Girl
 
 @ERI_DEA:87 PLY cdb63969
-
+"{Ts3}Ah!"
 
 @ERI_DEA:88 PLY f7e57ed8
-
+"{Ts3}Look out!"
 
 @ERI_DEA:89 ERI c6cb50eb
-
+"{V5000}{W10}Huh?"
 
 @ERI_DEA:90 PLY ad96dc8c
-
+"It's dangerous to climb up there!"
 
 @ERI_DEA:91 ERI 8794fad4
-
+"{V5001}Dangerous{W7}?{W5} {W35}...Is it?{W60} Up{W2} here,{W45} the breeze{W1} feels nice."
 
 @ERI_DEA:92 PLY 767539a6
-
+"Maybe, but you should come down!"
 
 @ERI_DEA:93 ERI 146df872
-
+"{V5002}{W10}...You're right.{W35} Now,{W5} I'll come down."
 
 @ERI_DEA:100 ERI aacb0e05
-
+"{V5003}{W5}You shouted all of a sudden, so {Ec}I was startled."
 
 @ERI_DEA:101 PLY 5a752ca0
-
+"S-sorry. But climbing up somewhere like that..."
 
 @ERI_DEA:102 ERI 3cda8466
-
+"{V5004}{W15}Is{W2} that{W2} wrong{W2}?"
 
 @ERI_DEA:103 PLY 1b1ec621
-
+"There's no fence, and what if something happened?"
 
 @ERI_DEA:107 ERI 2640c28e
-
+"{V5005}{W3}What if{W8} something happened?{W73} {F9}You mean I could die?"
 
 @ERI_DEA:108 PLY 5a319c73
-
+"Die? Don't say it so casually..."
 
 @ERI_DEA:109 ERI 92891212
-
+"{V5006}{W5}The{W3} population{W2} just drops by one.{W43} {Ec}It's no big deal."
 
 @ERI_DEA:110 ERI/PLY 0d80b9d5
-
+"......"
 
 @ERI_DEA:111 ERI e0899a28
-
+"{V5007}{W2}What's wrong?{W5} Why the{W2} scary face?"
 
 @ERI_DEA:112.1 - e6b1b0cd
-
+{Ti0}- That's not a good way to think／- If you die, people would be sad, wouldn't they?／- ...Don't tell me you were trying to die?
 
 @ERI_DEA:113 PLY 32c43044
-
+"That's not a good way to think. If you die, you lose everything."
 
 @ERI_DEA:115 ERI ee942d99
-
+"{V5008}...{W3}I suppose."
 
 @ERI_DEA:116 PLY f5db6a73
-
+"Why were you throwing paper airplanes from up there?"
 
 @ERI_DEA:117 PLY acce3441
-
+"If you die, there are people who would be sad, right?"
 
 @ERI_DEA:118 ERI 5e584012
-
+"{V5009}{W5}Maybe..."
 
 @ERI_DEA:119 PLY 18560b5e
-
+"Then I don't think you should say 'die' so casually."
 
 @ERI_DEA:120 ERI bacb21fd
-
+"{V5010}{W5}I see...{W45} I'll be careful."
 
 @ERI_DEA:122 PLY 1be04e20
-
+"...Don't tell me you were trying to die?"
 
 @ERI_DEA:123 ERI b106a7f1
-
+"{V5011}{W5}{Ec}Heh,{W30} {Eo}how did you get that idea?{W45} {Eh}That's{W25} the last thing{W2} I'd{W2} do."
 
 @ERI_DEA:124 ERI 553c27dc
-
+"{V5012}I{W5} was{W3} just{W3} throwing paper airplanes."
 
 @ERI_DEA:125 PLY 7681766d
-
+"Then why did you go up there?"
 
 @ERI_DEA:126 ERI c7d3f55b
-
+"{V5013}{W10}At first{W2} I was{W2} throwing{W2} them next to the gym{W2}.{W20} But then,{W25} {F3}it got fun..."
 
 @ERI_DEA:127 ERI d6bfffc7
-
+"{V5014}{W5}To throw them from up high{W5} I came to the rooftop,{W20} and there was somewhere even{W8} higher.{W10} {Ec}...Heh."
 
 @ERI_DEA:128 PLY 5deba3f5
-
+"I-I see..."
 
 @ERI_DEA:129 ERI a952ba59
-
+"{V5015}I{W45} am in Class 2-B{W2}, my{W3} name is Futami{W2} Eriko.{W45} {Ec}Not that{W23} an{W3} introduction{W2} is {Eo}necessary."
 
 @ERI_DEA:131 PLY ac6824f8
-
+"I know. You're a genius, right? They say your IQ is over 190..."
 
 @ERI_DEA:132 ERI e298245d
-
+"{V0000}{W8}A genius, huh...{W90} everyone says that..."
 
 @ERI_DEA:133 ERI 31157763
-
+"{V0001}But,{W25} I{W2} suppose{W3} it can't be helped.{W15} {Fm3}After all..."
 
 @ERI_DEA:134 ERI 1efccf7f
-
+"{V0002}{W5}Anyone{W8} smarter{W8} than me{W3},{W25} I have never met."
 
 @ERI_DEA:135 PLY de8c6411
-
+(She says something incredible so casually...)
 
 @ERI_DEA:136 ERI 5b341515
-
+"{V0003}{W5}And{W2} who{W2} are{W2} you{W10}?"
 
 @ERI_DEA:137 PLY e435c247
-
+"I'm {Nm} {Nn}, from Class 2-A."
 
 @ERI_DEA:138 ERI 88b8a252
-
+"{V0004}{Nm}, huh.{W105} My paper airplanes,{W40} {Ec}will you give them back?"
 
 @ERI_DEA:139 PLY 122df4f6
-
+"Huh?"
 
 @ERI_DEA:141 ERI 1235ee6b
-
+"{V0005}{W5}You{W2} picked them up, didn't you?"
 
 @ERI_DEA:142 PLY 7650e9ce
-
+"Y-yeah..."
 
 @ERI_DEA:143 ERI a608f03e
-
+"{V0006}{Ec}{W3}Thank you.{Eo}"
 
 @ERI_DEA:144 PLY 80802c12
-
+"Why would you turn a test sheet into a paper airplane..."
 
 @ERI_DEA:145 ERI 60e1d101
-
+"{V0007}{W7}Is it wrong?"
 
 @ERI_DEA:146 PLY 47ce6423
-
+"Well, it's not... exactly wrong, I guess..."
 
 @ERI_DEA:147 ERI 83ba4652
-
+"{V0008}{W2}Heh{W3},{W45} {Eo}right?"
 
 @ERI_DEA:148 ERI 97422b6d
-
+"{V0009}{W5}{Ec}It was a coincidence."
 
 @ERI_DEA:149 PLY bbb6bcd3
-
+"A coincidence?"
 
 @ERI_DEA:151 ERI a5438836
-
+"{V0010}Yes.{W75} The paper at hand{W30} just happened to be a test.{W30} {Ec}If there had been other paper,{W20} I'd have used that."
 
 @ERI_DEA:152 PLY 6c6b1e77
-
+"R-right..."
 
 @ERI_DEA:153 PLY 82f7fc80
-
+(Ugh... I feel like I've been talked around...)
 
 @ERI_DEA:154 PLY 20fea22f
-
+"But why a blank sheet? You're a genius, right?"
 
 @ERI_DEA:155 ERI 36a6893d
-
+"{V0011}{W2}Isn't{W2} it funny?{W30} Me{W5} getting a{W3} zero{W3}."
 
 @ERI_DEA:156 ERI 31c9374d
-
+"{V0012}{W10}I{W2} wanted{W2} to see the teacher's{W2} reaction.{W20} {Ec}Fufu...{W45} {Eo}The teacher looked troubled."
 
 @ERI_DEA:157.1 - 4a89515e
-
+{Ti0}- Hahaha, that's brilliant／- That's in bad taste／- You're a weirdo
 
 @ERI_DEA:158 PLY da0b7b7d
-
+"Hahaha, that's a masterpiece."
 
 @ERI_DEA:159 ERI c3aefcbf
-
+"{V0013}{W10}Hmm{W2}...{W30} that kind of reaction{W3}...{W3} huh."
 
 @ERI_DEA:160 ERI bdb26f11
-
+"{V0014}{Ec}What a nice{W2} smile{W3}."
 
 @ERI_DEA:161 PLY b5e29c43
-
+"That's in bad taste."
 
 @ERI_DEA:162 ERI a1923387
-
+"{V0015}Hmm{W2}...{W35} that kind of reaction{W2}...{W10} huh."
 
 @ERI_DEA:163 ERI 29e66763
-
+"{V0016}You are{W3} the serious{W3} type."
 
 @ERI_DEA:164 PLY 77577441
-
+"You're a weirdo."
 
 @ERI_DEA:165 ERI 4d35373c
-
+"{V0017}{W5}{Ec}Heh,{W50} {Eo}I get{W3} told that{W3} a lot."
 
 @ERI_DEA:167 ERI fed18af0
-
+"{V0018}{W10}Goodbye,{W5} {Nm}."
 
 @ERI_DEA:168 PLY 45a268f7
-
+"Ah... S-see you..."
 
 @ERI_DEA:170 SYS 8b0a957a
-
+Futami Eriko... A girl who, though we had only just met, called me by my bare name right away. Strangely, though, it didn't bother me.
 
 @ERI_DEA:171 SYS 7fe68757
-
+She has an IQ over 190, yet she scores zero and flies the test off the rooftop as a paper airplane... Why would she provoke people like that?
 
 @ERI_DEA:172 SYS 84575049
-
+I can't understand what geniuses do. There's a thin line between a fool and a genius... It would be easy to settle for a saying like that, but...
 
 @ERI_DEA:173 SYS 47dfd490
-
+I found myself wanting to know what kind of girl she was.
 
 @ERI_DEA:174 SYS e8728eb1
-
+...When she said goodbye, my heart skipped. Even though we had only just met, it felt like I might never see her again...
 
 @ERI_DEA:175 SYS d4af2e37
-
+So I hurriedly said it. "See you"...

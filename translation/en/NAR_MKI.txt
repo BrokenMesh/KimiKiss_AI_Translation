@@ -2,106 +2,106 @@
 # Format: docs/translation-format.md
 
 @NAR_MKI:51 NAR fa39cc26
-
+"{V1426}{W10}Senpai,{W15}{W48} I don't really get what you're talking about..."
 
 @NAR_MKI:56 NAR 41d01591
-
+"{V1427}{W10}Senpai~,{W10}{W10}{W30} that's such a hard topic,{W50} I can't make heads or tails of it."
 
 @NAR_MKI:57 NAR a819727c
-
+"{V1428}{W15}Senpai{W5}...{W40} I'm{W80} no good with{W40} that kind of talk..."
 
 @NAR_MKI:58 PLY 6c6b1e77
-
+"R-right..."
 
 @NAR_MKI:59 NAR e0cc1378
-
+"{V1429}{W10}Senpai,{W20}{W50} that kind of talk is boring~!"
 
 @NAR_MKI:60 NAR ed3df685
-
+"{V1430}{W5}Senpai, I'm sorry.{W50} I want to talk about something more{W10} fun~!"
 
 @NAR_MKI:63 NAR f9f35372
-
+"{V1431}{W10}Oh, come on,{W10} Senpai.{W40} Even if you tell me something like that..."
 
 @NAR_MKI:64 PLY 6c1b2754
-
+"S-sorry."
 
 @NAR_MKI:65 NAR a7e5bbf4
-
+"{V1421}Oh,{W20} is{W1} that{W1} so?{W1}{W1}{W1}{W1}{W25} {F3}Wow~"
 
 @NAR_MKI:68 NAR 72aa5ad5
-
+"{V1422}Hmm{W5}{W5},{W30} that sounds like an interesting story."
 
 @NAR_MKI:69 NAR cdf91c35
-
+"{V1423}Senpai,{W10}{W45} that{W10} topic{W10}...{W40} right now{W10} is a bit..."
 
 @NAR_MKI:71 NAR 4889bd72
-
+"{V1424}Hmm{W4}{W4}{W4}...{W55} it does sound like fun, but..."
 
 @NAR_MKI:77 NAR b07477c0
-
+"{V1425}{W10}Eeh?{W1}{W35} {F9}S-{W10}that kind of talk...{W30} right now,{W10} it's trouble for me."
 
 @NAR_MKI:81 NAR a670bf78
-
+"{V1443}{W10}S-{W20}Senpai,{W20}{W40} saying something like that so suddenly..."
 
 @NAR_MKI:88 NAR 9368b83f
-
+"{Nm}{V1745}{W2},{W50} what's wrong?{W40} {F9}Is there{W2} something{W3} on{W2} my face?{W30}{W10}"
 
 @NAR_MKI:89 PLY 7c52b658
-
+"Oh, no... it's nothing..."
 
 @NAR_MKI:92 NAR 5bd07866
-
+"{V1746}{W10}Really...?"
 
 @NAR_MKI:94 PLY f6942a3b
-
+"Narumi."
 
 @NAR_MKI:96 NAR 18a73c04
-
+"{V1747}Yes? What is it, {Nm}?"
 
 @NAR_MKI:100 NAR 899ebd42
-
+"{V1748}......"
 
 @NAR_MKI:101 NAR fe393ab1
-
+"{V1749}{Ec}{W10}Hehe,{W18} {Eo}what's wrong, Senpai?{W40} Did you remember something fun?"
 
 @NAR_MKI:102 PLY a636c8ba
-
+"N-no, it's not like that... Oh well, never mind."
 
 @NAR_MKI:104 NAR f78f1bb4
-
+"{V1750}Yes?"
 
 @NAR_MKI:106 NAR c2232be6
-
+"{V1751}......"
 
 @NAR_MKI:107 NAR 8afbfef4
-
+"{V1752}{W5}What's wrong, Senpai?{W58} Did your stomach{W25} start hurting or something?"
 
 @NAR_MKI:108 PLY 122df4f6
-
+"Huh?"
 
 @NAR_MKI:109 PLY 8d8294bb
-
+"Hahaha, it's nothing..."
 
 @NAR_MKI:118 NAR 7efe2778
-
+"{V1753}{W5}Eek!"
 
 @NAR_MKI:119 NAR 9f32c606
-
+"{V1754}Ah..."
 
 @NAR_MKI:120 PLY 634f9920
-
+"Ah..."
 
 @NAR_MKI:122 NAR 97797f4e
-
+"{V1755}{W5}S-{W40}sorry.{W20} I was just startled..."
 
 @NAR_MKI:123 PLY a757bd10
-
+"No, I'm the one who should be sorry."
 
 @NAR_MKI:124 NAR 0d80b9d5
-
+"......"
 
 @NAR_MKI:125 NAR 32974f09
-
+"{V1432}{W10}Senpai{W5}{W5} and{W5} I{W5}...{W40} I wonder if we{W20} don't really have much to talk about..."
 
 @NAR_MKI:128 NAR c9997d35
-
+"{V1433}{W10}Ah,{W10} uh{W10}...{W70} I'm sorry{W10} I can't talk to you{W2} very well."

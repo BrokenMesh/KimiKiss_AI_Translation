@@ -2,220 +2,220 @@
 # Format: docs/translation-format.md
 
 @MIT_MED:44 MIT 6982c11b
-
+"{V1594}{W8}...Um,{W60} for some time now,{Eo}{W10} you have talked{W10} about nothing but{W5} that..."
 
 @MIT_MED:47 PLY f125d3df
-
+"R-right. Sorry."
 
 @MIT_MED:49 MIT eb85fb73
-
+"{V1597}{W8}Fufu,{W65} Master,{W10} all of your{W10} stories{W40} are{W5} so very{W8}{F2}{Ec} fun."
 
 @MIT_MED:50 MIT ef5b1adf
-
+"{V1596}{W8}Fufu,{W65} {Nm}, all of your stories{W40} are so very{F2}{Ec} fun."
 
 @MIT_MED:51 MIT 1d2373fe
-
+"{V1599}{W8}Fufu,{W65} Master,{W8} all of your{W5} stories{W45} are{W5} so very{W8}{Ec} wonderful."
 
 @MIT_MED:52 MIT 917ba287
-
+"{V1598}{W8}Fufu,{W65} {Nm}, all of your stories{W40} are so very{Ec} wonderful."
 
 @MIT_MED:53 MIT 7cecf33f
-
+"{V1601}{W8}Master,{W50} you really know{W15} so many{W10}{Ec} fun stories."
 
 @MIT_MED:54 MIT ed6daa76
-
+"{V1600}{Nm},{W35} you really know{W10} so many{W10}{Ec} fun stories."
 
 @MIT_MED:56 MIT dc0784bb
-
+"{V1603}{W8}{W8}Master,{W30}{Ec} you know so many{W10} wonderful{W10} stories.{Eo}"
 
 @MIT_MED:57 MIT 711b4869
-
+"{V1602}{W8}{Nm},{W25}{Ec} you know so many{W15} wonderful stories{W8}.{Eo}"
 
 @MIT_MED:58 MIT 6393418e
-
+"{V1613}{W15}Master,{W55}{Eo} may we talk{W20} a little longer, just the two of us?"
 
 @MIT_MED:59 MIT 85d0344d
-
+"{Nm},{V1612}{Eo} may we talk{W20} a little longer, just the two of us?"
 
 @MIT_MED:60 PLY f12907f7
-
+"Of course. Then..."
 
 @MIT_MED:61 SYS abf93941
-
+{Ti0}.{W15} .{W15} .
 
 @MIT_MED:62 SYS a1c6df68
-
+And so, the two of us spent a happy time together.
 
 @MIT_MED:64 MIT 635c6cd2
-
+"{V1605}{W8}Master,{W50} if you do not mind,{W35} shall we try changing the subject entirely?"
 
 @MIT_MED:65 MIT ecf2bcd2
-
+"{Nm},{V1604} if you do not mind,{W30} shall we try changing the subject entirely?"
 
 @MIT_MED:66 PLY 62336c0f
-
+"Huh? You think?"
 
 @MIT_MED:67 MIT fd0a4162
-
+"{V1606}{W8}Yes.{W45} For some reason,{W45}{F3} I feel it would be better."
 
 @MIT_MED:68 PLY 6fad598d
-
+"I see, then..."
 
 @MIT_MED:69 PLY 84e56887
-
+(Time to switch gears and think of a different topic!)
 
 @MIT_MED:70 MIT d5b8fdfc
-
+"{V1607}{W5}Let me{W15} see..."
 
 @MIT_MED:71 PLY 1e8b47b1
-
+"? What's wrong?"
 
 @MIT_MED:72 MIT 84e50e19
-
+"{V1608}{W8}Ah..."
 
 @MIT_MED:74 MIT 87520ce9
-
+"{V1609}{W10}{W8}Um...{W80} what it was I wanted to talk about,{W75}{F9} I have forgotten{Ec}."
 
 @MIT_MED:75 PLY 9d6abc0b
-
+"Hahaha, I see."
 
 @MIT_MED:76 PLY 30a5a9ab
-
+(She's so cute, Shijou. ...Wait, I forgot what I wanted to talk about too!)
 
 @MIT_MED:78 MIT eb3e0f22
-
+"{V1610}{W8}Fufu,{W45}{Ec} it is rare for me to talk with a man{W15} like this, just the two of us,{W15} so{W33}{Eo} my heart is pounding somehow."
 
 @MIT_MED:79 PLY 67919fb4
-
+"R-right."
 
 @MIT_MED:81 MIT 6250997c
-
+"{V1611}{W15}The sound{W15} of my heart{W15}...{W95}{Eo} is about to reach {Nm}..."
 
 @MIT_MED:82 PLY f725dd6d
-
+"Eh..."
 
 @MIT_MED:83 PLY 610023de
-
+(Ugh... now my heart is pounding too, and I can't think what to talk about)
 
 @MIT_MED:84 MIT 72bce7cb
-
+"{V2554}Master,{W45} I am sorry.{W45}{Ec} I just remembered an errand..."
 
 @MIT_MED:85 MIT e501b3d6
-
+"{Nm},{V2553} I am sorry.{W40}{Ec} I just remembered an errand..."
 
 @MIT_MED:86 PLY f596f20c
-
+"Huh? Really?"
 
 @MIT_MED:87 MIT a3bd5164
-
+"{V2555}{W10}Yes..."
 
 @MIT_MED:90 MIT 6e62dfc7
-
+"{V2556}{W8}I am sorry,{W45} excuse me...{Ec}"
 
 @MIT_MED:91 PLY 4de57c3b
-
+"Y-yeah... see you."
 
 @MIT_MED:92 PLY c800a9de
-
+(She's gone... The conversation wasn't getting lively, huh...)
 
 @MIT_MED:93 MIT 0b0a0f25
-
+"{V2558}{W8}M-{W63}Master,{W75} I-{W50}I...{W63} somehow{W8} my heart is pounding..."
 
 @MIT_MED:94 MIT d68e1673
-
+"{Nm},{V2557} I-{W90}I...{W90} somehow{W60} my heart is pounding..."
 
 @MIT_MED:95 PLY 122df4f6
-
+"Eh?"
 
 @MIT_MED:96 MIT 1d38c7f2
-
+"{V2559}{W10}I am sorry!{W8} Excuse me!"
 
 @MIT_MED:97 PLY 25f37b75
-
+"Ah... Shijou..."
 
 @MIT_MED:98 PLY 3d796206
-
+(She's gone... Did I tell too many embarrassing stories?)
 
 @MIT_MED:99 MIT 4d5c642c
-
+"{V2561}{W8}Ah...{W63} It is already{W8} time for class to start{W10}.{W55}{F6} ...I wish I could talk with you longer, Master..."
 
 @MIT_MED:100 MIT 321865cc
-
+"{V2560}{W8}Ah...{W50} It is{W10} already time for class{W10} to start.{W90}{F6} ...I wish I could talk longer with {Nm}..."
 
 @MIT_MED:101 PLY 80899c99
-
+"It can't be helped. See you, Shijou."
 
 @MIT_MED:102 MIT 6b3681be
-
+"{V2562}{W8}Yes.{W55}{Ec} Excuse me."
 
 @MIT_MED:103 MIT 46357185
-
+"{V2563}{W8}Ah...{W48} I,{W25}{F6} must be going now..."
 
 @MIT_MED:104 MIT 02476326
-
+"{V2565}{W8}Yes.{W65} ...{Eo}I wish{W8} I could talk with you, Master,{W10}{W10} some more..."
 
 @MIT_MED:105 MIT 6a18b86c
-
+"{V2564}{W8}Yes.{W50} ...{Eo}I wish I could talk some more with {Nm}..."
 
 @MIT_MED:106 MIT 06a725d8
-
+"{V2566}{W10}I am sorry.{W45} Excuse me."
 
 @MIT_MED:107 PLY f5f90547
-
+"Yeah. See you, Shijou."
 
 @MIT_MED:108 MIT 5f8fbb4b
-
+"{V2567}{W8}Yes."
 
 @MIT_MED:109 MIT 373a2174
-
+"{V2568}{W10}Ah,{W42} it is already time for class.{W45}{F3} Well then,{W30} excuse me."
 
 @MIT_MED:110 PLY e03a6130
-
+"Yeah, see you."
 
 @MIT_MED:111 MIT a4dc9717
-
+"{V2569}{W8}Ah...{W45} I,{W8}{F3} must be going soon..."
 
 @MIT_MED:112 PLY 542af83a
-
+"I see..."
 
 @MIT_MED:113 MIT ca91f9f0
-
+"{V2571}{W8}Excuse me,{W30} Master."
 
 @MIT_MED:114 MIT f0c8c391
-
+"{V2570}{W8}Excuse me, {Nm}."
 
 @MIT_MED:115 PLY e49d0e26
-
+"Sorry, Shijou. I have to get going..."
 
 @MIT_MED:116 MIT 0f134f46
-
+"{V2572}{W8}Eh?{W55}{F6} Is that so?"
 
 @MIT_MED:117 MIT 32370167
-
+"{V2573}{W10}I wish we could talk more,{W5} though...{Ec}"
 
 @MIT_MED:118 PLY a002148c
-
+"Sorry. We'll pick up the conversation next time."
 
 @MIT_MED:119 MIT 93344762
-
+"{V2574}{W10}Yes..."
 
 @MIT_MED:120 PLY 8d07b8b0
-
+"Well, see you, Shijou."
 
 @MIT_MED:121 MIT af32758f
-
+"{V2576}{W10}Yes.{W40} Excuse me,{W40} Master."
 
 @MIT_MED:122 MIT 2d6c0b22
-
+"{V2575}{W10}Yes.{W40} Excuse me, {Nm}."
 
 @MIT_MED:123 PLY 10744036
-
+"Sorry, Shijou. I have to go now."
 
 @MIT_MED:124 MIT 416a152e
-
+"{V2577}{W8}Is that so?"
 
 @MIT_MED:126 MIT 6f6cb152
-
+"{V2579}{W8}Understood.{W40} Well then, excuse me,{W30} Master."
 
 @MIT_MED:127 MIT 841d820d
-
+"{V2578}{W8}Understood.{W40} Well then, excuse me, {Nm}."

@@ -2,325 +2,325 @@
 # Format: docs/translation-format.md
 
 @MIT_TFO:46 MIT 1d2d0e9d
-
+"{Nm}...{V0773}good morning..."
 
 @MIT_TFO:48 MIT 6006a711
-
+"{V6568}Master...{W75} good morning..."
 
 @MIT_TFO:49 PLY 4b2c4a70
-
+"Ah! S-Shijou!"
 
 @MIT_TFO:52 MIT 9fe692cc
-
+"{V7800}...What happened?{W65} We{W5} made{W5} a promise,{W2} and{W2} yet{W2}...{W75} you did not come..."
 
 @MIT_TFO:53 PLY a6a1f32a
-
+"Sorry... Shijou."
 
 @MIT_TFO:54 PLY b8491b67
-
+"It's just... something urgent came up, and I ended up going over there."
 
 @MIT_TFO:55 PLY 39da5c78
-
+"I meant to tell you, Shijou, but I couldn't find you..."
 
 @MIT_TFO:59 MIT 249b9732
-
+"{V0775}Ah...{W80} Is that what happened?"
 
 @MIT_TFO:60 MIT fe140b6f
-
+"{V0776}...In that case,{W10} it cannot be helped.{W50}{Fe6m3}{Eo} I...{W50} was worried that something might have happened."
 
 @MIT_TFO:61 PLY ababb9b9
-
+"Sorry for making you worry..."
 
 @MIT_TFO:62 MIT 9d0e5d8c
-
+"{V0777}No.{W30} If nothing happened, then that is fine."
 
 @MIT_TFO:64 MIT b230ba77
-
+"{V0778}Sometimes it just does not work out for us to meet,{W15} after all."
 
 @MIT_TFO:66 MIT 34d5bdff
-
+"{V0779}Well then,{W40} excuse me."
 
 @MIT_TFO:67 MIT 015475bc
-
+"{V6569}Well then, excuse me,{W40} Master."
 
 @MIT_TFO:68 PLY bad3355d
-
+"Yeah..."
 
 @MIT_TFO:72 PLY 870f0120
-
+(This is bad. I can't keep doing this...)
 
 @MIT_TFO:73 MIT be76972a
-
+"{Nm}...{V0722}good morning..."
 
 @MIT_TFO:74 MIT 0a037715
-
+"{V6532}Master...{W90} good morning..."
 
 @MIT_TFO:76 MIT 7165e286
-
+"{V7000}{W5}You made{W5} a promise{W10} with me,{W10} did you not?{W80}{Fe9} That we would go home together..."
 
 @MIT_TFO:77 MIT 914390eb
-
+"{V7001}{W5}And yet,{W80} to walk home with someone else..."
 
 @MIT_TFO:78 PLY a81c8159
-
+"Sorry, Shijou..."
 
 @MIT_TFO:80 MIT 457f9f72
-
+"{V0725}What on earth...{W65} was the reason?"
 
 @MIT_TFO:81 MIT db1d17e0
-
+"{V7002}That girl{W2}...{W85}{Ec} do you like her?"
 
 @MIT_TFO:82 PLY 7e46c7e5
-
+"N-no, well... it's not that..."
 
 @MIT_TFO:83 PLY 6d73a3cc
-
+"I forgot... about my promise with Shijou..."
 
 @MIT_TFO:84 MIT 75c43ab5
-
+"{V0727}You{W2} forgot{W2} it{W2}?{W70}{F6} That is...{W40} cruel..."
 
 @MIT_TFO:85 PLY 4b7b99be
-
+"Sorry... I'm really sorry..."
 
 @MIT_TFO:86 PLY ba771428
-
+"Shijou, I'll never do that again. So please, just this once, forgive me..."
 
 @MIT_TFO:87 MIT 23a00931
-
+"{V0728}......"
 
 @MIT_TFO:88 MIT 7960c897
-
+"{V0729}I understand."
 
 @MIT_TFO:89 PLY b7f60c52
-
+"You'll forgive me?"
 
 @MIT_TFO:90 MIT 8035f847
-
+"{V0730}Yes..."
 
 @MIT_TFO:92 MIT b619c0f6
-
+"{V7003}But,{W110} if you like that girl,{W70} please tell me so honestly."
 
 @MIT_TFO:94 MIT 74d10737
-
+"{V0732}Even though there is a girl like that,{W22} I asked you to be{W3} my conversation partner..."
 
 @MIT_TFO:95 MIT 53162d33
-
+"{V0733}I,{W75} perhaps I have been making an unreasonable request of you..."
 
 @MIT_TFO:96 PLY 688097a0
-
+"That's not it! That's not it..."
 
 @MIT_TFO:97 MIT 7547234f
-
+"{V0734}......"
 
 @MIT_TFO:98 MIT a437b3de
-
+"{V0735}I understand.{W80} I will believe you."
 
 @MIT_TFO:99 MIT d664bb5e
-
+"{V0736}{Nm},{W60} you are not the kind of person who would{W2} lie to me,{W3} after all."
 
 @MIT_TFO:100 MIT 0ba6cdc6
-
+"{V6545}Master,{W70} you are not the kind of person who would lie{W5} to me, after all."
 
 @MIT_TFO:101 PLY 0d80b9d5
-
+"......"
 
 @MIT_TFO:102 MIT 0d15f0c0
-
+"{V0737}Well then,{W50} excuse me."
 
 @MIT_TFO:103 SYS 0ea5d757
-
+...And so, Shijou forgave me.
 
 @MIT_TFO:104 SYS 7b9b407d
-
+I promised to walk home with two girls at once... I'm such an idiot...
 
 @MIT_TFO:105 MIT ee7b9702
-
+"{Nm}...{V0767}good morning..."
 
 @MIT_TFO:106 MIT fa17adcf
-
+"{V6557}Master...{W90} good morning..."
 
 @MIT_TFO:108 MIT 1c199463
-
+"{V7005}{W5}You like her, do you not,{W80}{Eo} the girl you walked home with..."
 
 @MIT_TFO:109 PLY f725dd6d
-
+"Eh..."
 
 @MIT_TFO:112 MIT e7daeb43
-
+"{V0769}When I saw{W5} you with her before{W3},{W50} you should have been honest{W3} with me..."
 
 @MIT_TFO:113 PLY 5248279b
-
+"Shijou..."
 
 @MIT_TFO:114 MIT 7ea10fe6
-
+"{V0742}That girl,{W45}{Ec} I often see in the Library."
 
 @MIT_TFO:115 MIT a7a30ffe
-
+"{V0743}She is pretty,{W35} modest,{W60} and so{W5} attentive..."
 
 @MIT_TFO:116 MIT 5cc094c1
-
+"{V0744}That girl,{W55}{Ec} I often see on the Year 1 floor."
 
 @MIT_TFO:118 MIT b869dcdb
-
+"{V0745}She is very cute,{W60} and always{W3} runs about{W3} so innocently..."
 
 @MIT_TFO:119 MIT 70c5a66c
-
+"{V0746}That girl,{W50} she is the one that the boys{W2} at school{W3} often gossip about{W2}, is she not?"
 
 @MIT_TFO:120 MIT a926b6c9
-
+"{V0747}She is very{W3} beautiful,{W70} and cheerful..."
 
 @MIT_TFO:121 MIT dcb81af3
-
+"{V0748}That girl,{W45} she is the one in the soccer club{W3} who is doing so well{W2}, is she not?"
 
 @MIT_TFO:122 MIT 5bf10a18
-
+"{V0749}The sight of her{W3} chasing{W3} the ball{W2} against the boys,{W60} even to me{W2}, is{W40} so refreshing{W2}."
 
 @MIT_TFO:123 MIT ad5cdcaa
-
+"{V0750}That girl,{W60} she is a genius{W3}, is she not?"
 
 @MIT_TFO:124 MIT bf0dcc69
-
+"{V0751}She is pretty,{W40} and when she is alone{W3} and lost in thought{W2},{W45} there is a sadness{W2} about her..."
 
 @MIT_TFO:125 MIT 5802490a
-
+"{V0752}That girl,{W60} she is on the Discipline Committee{W2}{W3}, is she not?"
 
 @MIT_TFO:126 MIT db5c76fe
-
+"{V0753}She is pretty,{W40} and at school{W2} she{W3} is always trying to keep order,{W50} working{W5} so hard..."
 
 @MIT_TFO:127 MIT 9d0d6562
-
+"{V0754}{Nm}, why you would{W3} fall for her...{W68}{Ec} I understand."
 
 @MIT_TFO:128 MIT 249b4326
-
+"{V6550}Why you, Master, would{W3} fall for her...{W100}{Ec} I understand."
 
 @MIT_TFO:129 PLY 15279ef3
-
+"Shijou, I'm sorry... I..."
 
 @MIT_TFO:130 MIT 5e04693d
-
+"{V0755}It is all right now.{W40} Please do not say anything."
 
 @MIT_TFO:131 MIT e429a331
-
+"{V0756}Lies...{W95} I do not like them."
 
 @MIT_TFO:132 MIT 63d1ffed
-
+"{V0757}I...{W90} I can no longer,{W10} meet with {Nm}{W2}.{W45}{Ec}{W5}{Fe9}{Eo} I cannot make such a wonderful girl,{W40} sad, after all."
 
 @MIT_TFO:133 MIT 53a1621a
-
+"{V0758}Suffering such{W3} pain...{W80}{Ec} is enough for me alone{W20}..."
 
 @MIT_TFO:134 MIT e64eb319
-
+"{V6553}I...{W80} I can no longer{W2} see you.{W50}{Ec}{W5}{Fe8}{Eo} I will speak{W3} to Father,{W50} and have this matter{W5} called off."
 
 @MIT_TFO:135 MIT 3c074f31
-
+"{V6554}I cannot make such a wonderful girl,{W65} sad, after all."
 
 @MIT_TFO:136 MIT ff11621d
-
+"{V6555}Suffering such pain,{W80}{Ec} is enough for me alone{W10}..."
 
 @MIT_TFO:137 MIT aa954754
-
+"{V0759}Goodbye."
 
 @MIT_TFO:138 PLY cd53346e
-
+"Ah... Shijou...!"
 
 @MIT_TFO:139 PLY 471fac2d
-
+(...I've, I've done something I can't take back...)
 
 @MIT_TFO:140 PLY b51856fd
-
+(Shijou... I'm sorry...)
 
 @MIT_TFO:141 MIT 6caea357
-
+"{Nm}...{V0770}good morning..."
 
 @MIT_TFO:142 MIT 5174d97e
-
+"{V0771}I...{W90} {Nm}, I no longer{Fe9} understand you..."
 
 @MIT_TFO:143 MIT a3ff3469
-
+"{V6558}I...{W100} Master, I no longer{Fe9} understand you..."
 
 @MIT_TFO:144 MIT 94a47f5d
-
+"{V7006}The girl you went{W4} home with{W4},{W80} compared to the one I saw the other day,{W55} was a different person, was she not?"
 
 @MIT_TFO:145 PLY 3efedaae
-
+"S-Shijou... that's..."
 
 @MIT_TFO:146 MIT 4a2a641e
-
+"{V0763}I am sad...{W80} To think that you, {Nm},{Ec} were that kind of person..."
 
 @MIT_TFO:148 MIT f606d97f
-
+"{V6560}I am sad...{W70} To think that you, Master,{Ec} were that kind of person..."
 
 @MIT_TFO:149 MIT 3353988b
-
+"{V0764}Any girl{W5} will do,{W65}{Fe8} to think you were such an insincere person..."
 
 @MIT_TFO:150 MIT 52956729
-
+"{V0765}I,{W100} will not see you any more.{W50}{F6} I have had{W50} quite{W3} enough of such pain."
 
 @MIT_TFO:151 MIT 9741c189
-
+"{V6562}I...{W110} no longer,{W5}{Ec} want to see you..."
 
 @MIT_TFO:152 MIT 45744bc3
-
+"{V6563}I will speak{W3} to Father{W2},{W60}{F6} and have this matter{W5} called off."
 
 @MIT_TFO:153 MIT 28f43d19
-
+"{V6564}Goodbye."
 
 @MIT_TFO:154 PLY dd70608e
-
+"Ah! Shijou!"
 
 @MIT_TFO:155 PLY e0164981
-
+(I... I'm hopeless. Unable to pick just one, drifting along indecisively all the way to this...)
 
 @MIT_TFO:156 PLY 4de7c50b
-
+(I... I...)
 
 @MIT_TFO:157 MIT dfcbb755
-
+"{Nm}...{V0738}good morning..."
 
 @MIT_TFO:159 MIT 6a695112
-
+"{V6547}Master...{W110} good morning..."
 
 @MIT_TFO:161 MIT 7aaaf634
-
+"{V0739}Saying that you forgot{W3} our promise{W3},{W85} it was a lie{W3}, was it not?"
 
 @MIT_TFO:162 MIT b5628087
-
+"{V7005}{W5}You like her, do you not,{W80} the girl you walked home with..."
 
 @MIT_TFO:163 PLY 581945bc
-
+"T-that's..."
 
 @MIT_TFO:164 MIT 48ee906e
-
+"{Nm}...{V0760}good morning..."
 
 @MIT_TFO:165 MIT 394005f9
-
+"{V0761}I...{W90} {Nm}, I no longer understand you..."
 
 @MIT_TFO:166 MIT 7693b394
-
+"{V7004}{W5}The girl you went home with,{W80} compared to the other day,{W5} was a different person, was she not?"
 
 @MIT_TFO:167 MIT b32c056d
-
+"{V0763}I am sad...{W80} To think that you, {Nm},{W2}{Ec} were that{W2} kind of person..."
 
 @MIT_TFO:168 MIT 702cd3d7
-
+"{V6522}I...{W95} Master, I no longer understand you..."
 
 @MIT_TFO:169 MIT 52ebf25a
-
+"{V6523}To think it was a different{W3} girl...{W90} a girl different{W5} from the other day."
 
 @MIT_TFO:170 MIT 00452ec4
-
+"{V6524}I am sad...{W65} To think that you, Master,{W3} were that kind of person..."
 
 @MIT_TFO:171 MIT 83d5836e
-
+"{V0764}{F8}Any girl{W2} will do,{W60}{Ec} to think you were such an insincere{W3} person..."
 
 @MIT_TFO:172 MIT a28a667b
-
+"{V0765}I,{W90} will not{W2} see you{W2} any more.{W50} I have had enough of{W3} this pain,{W40} I have had{W3} quite enough."
 
 @MIT_TFO:173 MIT 6b923667
-
+"{V6526}I...{W110}{Fe8} no longer,{W10} want to see you..."
 
 @MIT_TFO:174 MIT 666b3cfc
-
+"{V6527}I will speak to Father,{W25}{F6} and have this matter called off."
 
 @MIT_TFO:175 MIT 0f74e700
-
+"{V0766}Goodbye!"

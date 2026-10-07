@@ -2,676 +2,676 @@
 # Format: docs/translation-format.md
 
 @NAN_KIS_A:40 PLY 3d1b35e3
-
+(......)
 
 @NAN_KIS_A:43 PLY e8311411
-
+(Has Nana ever kissed anyone...?)
 
 @NAN_KIS_A:44 PLY cf9d7add
-
+(No way... I doubt it, but I'll ask just in case.)
 
 @NAN_KIS_A:45 PLY af78bf27
-
+"Hey, Nana."
 
 @NAN_KIS_A:48 NAN 03c174c8
-
+"{V0196}{W6}What?{W15} Big Bro?"
 
 @NAN_KIS_A:49 PLY ea0a073d
-
+"Nana, have you ever kissed anyone?"
 
 @NAN_KIS_A:53 NAN a77974b2
-
+"{V0197}{W6}Of course{W6} I have."
 
 @NAN_KIS_A:54 PLY add5c673
-
+"What?! Really?"
 
 @NAN_KIS_A:58 NAN 677ff3f9
-
+"{V0198}{W4}Yeah.{W34} When{W4} I{W4} was{W4} little{W4},{W36} {Ec}I did it with Big Bro."
 
 @NAN_KIS_A:59 PLY 1a93bc98
-
+"T-that's different!"
 
 @NAN_KIS_A:62 NAN 0161dd70
-
+"{V0199}{W6}They're{W5} not{W3} any{W3} different{W3}, they're{W3} not!{W29} {Fm8}You gave me lots of them on my forehead!{Ec}"
 
 @NAN_KIS_A:71 PLY a5031527
-
+"That's because you were a crybaby who cried whenever you fell or got lonely, so I did it, right?"
 
 @NAN_KIS_A:72 NAN 061faf5a
-
+"{V0200}{W4}Hehe{W4}{W4},{W47} I{W9}... when{W43} I got a forehead kiss,{W5} I'd stop crying right away, wouldn't I."
 
 @NAN_KIS_A:73 PLY d89c7554
-
+"That still amazes me. Why does a forehead kiss make you stop crying?"
 
 @NAN_KIS_A:74 NAN d1c8bb1b
-
+"{V0201}{W5}Ehehe{W4}{W4},{W65} I get this{W5} soft{W5} feeling{W10} and{W52} I feel happy."
 
 @NAN_KIS_A:75 NAN 9b0d6470
-
+"{V0202}{W4}So,{W33} the hurt{W4} and{W30} the loneliness{W4} too,{W40} I can forget{W4} them all..."
 
 @NAN_KIS_A:76 PLY 8f5c3bcf
-
+"I see..."
 
 @NAN_KIS_A:81 NAN 4dc2e48f
-
+"{V0203}{W5}Hey,{W60} want to try one{W39} now?"
 
 @NAN_KIS_A:82 PLY d79fad55
-
+"Y-you idiot! Of course not!"
 
 @NAN_KIS_A:83 NAN f01098fb
-
+"{V0204}{W4}Ehehe{W4}{W4},{W37} figures, huh?"
 
 @NAN_KIS_A:85 NAN 1eead2e8
-
+"{V0205}{W4}See you,{W10} {Eo}Big Bro.{W30} I just remembered something good."
 
 @NAN_KIS_A:86 PLY dd0727a0
-
+"Hahaha, see you."
 
 @NAN_KIS_A:88 PLY 0d80b9d5
-
+"......"
 
 @NAN_KIS_A:89 PLY c5266949
-
+"Ah! Sorry, Nana. Come to think of it, I have something to do."
 
 @NAN_KIS_A:90 NAN d4033586
-
+"{V0847}{W4}Awww{W5}...{W5} {W26}Really~?"
 
 @NAN_KIS_A:91 PLY f6765f94
-
+"We'll pick the conversation up next time."
 
 @NAN_KIS_A:92 NAN 3d776b51
-
+"{V0849}{W5}Okay...{W59} That's no fun..."
 
 @NAN_KIS_A:93 PLY 30d01bb0
-
+"Don't say that. We can talk anytime, right?"
 
 @NAN_KIS_A:94 NAN 8ae9d248
-
+"{V0850}...Yeah,{W60} you're right."
 
 @NAN_KIS_A:95 NAN 4130c4dd
-
+"{V0851}{W4}See you,{W25} Big Bro."
 
 @NAN_KIS_A:96 PLY 3695183e
-
+"Yeah, see you."
 
 @NAN_KIS_A:97 PLY c9e8207c
-
+(Come to think of it, what happened with that love letter Nana got the other day?)
 
 @NAN_KIS_A:98 PLY f28bacc4
-
+(Did she reply... or not yet...)
 
 @NAN_KIS_A:99 PLY cfe25030
-
+(Maybe I'll ask.)
 
 @NAN_KIS_A:101 NAN f4b9391a
-
+"{V0209}Mm...{W45} {P2}Mmm{W10}...{W10}"
 
 @NAN_KIS_A:102 PLY c5afbfa7
-
+"What's wrong, Nana?"
 
 @NAN_KIS_A:104 NAN 0bd8f3cd
-
+"{V0210}Mm...{W66} my back is itchy."
 
 @NAN_KIS_A:105 PLY 82e63c04
-
+"Maybe a stray hair got in?"
 
 @NAN_KIS_A:107 NAN a21622f4
-
+"{V0211}Yeah...{W60} Awww{W5}...{W5} {W38}{P1}I can't quite reach~"
 
 @NAN_KIS_A:109 NAN facd462f
-
+"{V0212}{W7}Big Bro,{W28} take a look~.{W32} Is{W4} something{W3} in there?"
 
 @NAN_KIS_A:110 PLY 842cab29
-
+(Whoa! What's she doing all of a sudden!)
 
 @NAN_KIS_A:111 PLY 1af7a9a0
-
+(...Why am I getting self-conscious? She's my sister.)
 
 @NAN_KIS_A:112 PLY fa07e40b
-
+(Calm down, it's just my sister's back. She's itchy. Search calmly.)
 
 @NAN_KIS_A:114 NAN 0b64078b
-
+"{V0213}{W5}Big Bro{W3}{W5}, hurry{W30} up{W10}~"
 
 @NAN_KIS_A:115 PLY 7530e4d1
-
+"I-I know."
 
 @NAN_KIS_A:116 PLY 89b02c5f
-
+"...Ah, found it. There's a hair in there."
 
 @NAN_KIS_A:118 NAN 546a582d
-
+"{V0214}{W5}Take it out~!"
 
 @NAN_KIS_A:119 PLY 60cc4570
-
+"T-take it out? Are you serious?"
 
 @NAN_KIS_A:120 NAN a22e8876
-
+"{V0215}{W9}Serious{W8}?{W7} What{W7} do you mean?{W24} It's just itchy,{W39} so{W38} take it out~!"
 
 @NAN_KIS_A:121 PLY 46362c21
-
+"A-all right, hold still."
 
 @NAN_KIS_A:122 NAN 8582c1f2
-
+"{V0216}{W5}Ahaha,{W20} Big Bro,{W24} that tickles!"
 
 @NAN_KIS_A:123 PLY 7a79e870
-
+"Y-you idiot! Stop moving!"
 
 @NAN_KIS_A:124 NAN 810f97e5
-
+"{V0217}But{W7} but{W7}, {W28}it tickles!"
 
 @NAN_KIS_A:125 PLY 9a7644e2
-
+"...O-okay, got it!"
 
 @NAN_KIS_A:127 PLY e94b5a83
-
+"How's that?"
 
 @NAN_KIS_A:128 NAN 438e8ad2
-
+"{V0219}{W4}Yeah,{W50} I'm all better!{W54} {Eo}Thanks,{W8} Big Bro."
 
 @NAN_KIS_A:129 PLY ccf01d15
-
+"N-no... that's good, Nana."
 
 @NAN_KIS_A:130 NAN ed193a9d
-
+"{V0220}{W4}Yeah!{W29} {Ec}See you!"
 
 @NAN_KIS_A:131 PLY a5d91c3e
-
+(Ugh... calm down. She's my sister. So what if I saw her back? So what if I put my hand in...)
 
 @NAN_KIS_A:132 PLY 1198e482
-
+(...I couldn't ask Nana about the love letter earlier...)
 
 @NAN_KIS_A:133 PLY 00f346ea
-
+(I never imagined a hair would get on her back...)
 
 @NAN_KIS_A:134 PLY 9c69b4e3
-
+(Okay, I'll ask this time for real.)
 
 @NAN_KIS_A:136 NAN 3cbdc33d
-
+"{V0223}{W4}Mm...{W40} {P1}Mmm{W10}...{W10} ...{W10}"
 
 @NAN_KIS_A:137 PLY 02edbb89
-
+"What's wrong, Nana? Don't tell me..."
 
 @NAN_KIS_A:138 NAN c02685d0
-
+"{V0224}{W5}Big Bro{W3}{W6}~{W3}{W3}, {W20}my{W4} back{W3} is{W4} itchy"
 
 @NAN_KIS_A:139 PLY e256a021
-
+"A-again?!"
 
 @NAN_KIS_A:140 NAN a3adda52
-
+"{V0225}{W5}Awww,{W30} {P2}I can't reach~!"
 
 @NAN_KIS_A:141 NAN a3ca27e0
-
+"{V0226}{W3}Big Bro,{W20} take a look~.{W19} Is there anything in there?"
 
 @NAN_KIS_A:142 PLY 57e160c1
-
+(Ugh... I have to look at her back again?)
 
 @NAN_KIS_A:143 NAN 1f9a4060
-
+"{V0227}{W5}Big Bro{W4}, {W17}hurry{W14} up{W8}~!"
 
 @NAN_KIS_A:144 PLY 4fe8199d
-
+"...There's a hair in there again. Aren't you shedding an awful lot?"
 
 @NAN_KIS_A:145 NAN cb0b4deb
-
+"{V0228}{W4}I'm not{W2} shedding a lot!{W30} It's just a coincidence!"
 
 @NAN_KIS_A:146 NAN b638e168
-
+"{V0229}{W7}Hurry{W5} up{W7} and take it out~!"
 
 @NAN_KIS_A:147 PLY 66280d53
-
+"Oh, all right... Hold still."
 
 @NAN_KIS_A:148 NAN 4ea2239a
-
+"{V0230}{W5}Ahaha,{W30} Big Bro,{W30} that tickles!"
 
 @NAN_KIS_A:149 PLY e8d35dac
-
+"I told you, don't move!"
 
 @NAN_KIS_A:151 NAN 63cb8f0e
-
+"{V0231}{W5}You{W2} can{W2} say{W2} that{W2} all{W2} you{W2} want,{W17} but it tickles!"
 
 @NAN_KIS_A:152 NAN 42f2ff6c
-
+"{V0232}Ahahahahaha"
 
 @NAN_KIS_A:153 PLY d0b7b445
-
+"Honestly, what a troublesome girl."
 
 @NAN_KIS_A:154 PLY 977c5793
-
+"...Okay, got it!"
 
 @NAN_KIS_A:155 NAN 920b7fc7
-
+"{V0233}{W5}Yeah,{W50} I'm fine!{W60} {Eo}Thanks,{W10} Big Bro."
 
 @NAN_KIS_A:156 PLY cdf7d2a5
-
+"N-no, don't mention it."
 
 @NAN_KIS_A:157 NAN fe0cbdb5
-
+"{V0815}{W3}Well,{W16} see you~!{Ec}"
 
 @NAN_KIS_A:158 PLY 8bc6ab2a
-
+"Yeah, see you..."
 
 @NAN_KIS_A:159 PLY 940794a9
-
+(Ah... Dang. I forgot to ask about the love letter.)
 
 @NAN_KIS_A:160 PLY 05a98992
-
+(...Then again, you can't have a serious talk when she's in a swimsuit...)
 
 @NAN_KIS_A:161 NAN 608dd69c
-
+"{V0221}Well, Big Bro,{W34} I'll{W3} go{W3} get{W3} changed{W6} now."
 
 @NAN_KIS_A:162 PLY 9e154393
-
+"Yeah, okay."
 
 @NAN_KIS_A:163 NAN 4025b8ef
-
+"{V0222}{W3}See you~!"
 
 @NAN_KIS_A:164 PLY 0daeab72
-
+"See you."
 
 @NAN_KIS_A:165 NAN 3ca6b682
-
+"{V0235}{W4}Hey...{W46} Big Bro."
 
 @NAN_KIS_A:166 PLY 012390ca
-
+"What is it?"
 
 @NAN_KIS_A:167 NAN f64ddd31
-
+"{V0236}...Big Bro,{W37} you've been{W11} so{W20} cold{W4} lately...{Ec}"
 
 @NAN_KIS_A:168 PLY 72d7237e
-
+"N-no, that's not true..."
 
 @NAN_KIS_A:169 NAN d7c2115c
-
+"{V0237}{W3}No{W4}...{W4} no,{W30} it is true!"
 
 @NAN_KIS_A:170 NAN ab2e44aa
-
+"{V0238}{W2}Even now,{W20} you're{W4} only{W4} talking{W4} to me reluctantly..."
 
 @NAN_KIS_A:171 PLY 777704e4
-
+"That's not true. There's no way I'm talking to you reluctantly."
 
 @NAN_KIS_A:172 PLY fc00453a
-
+"It's just..."
 
 @NAN_KIS_A:173 NAN 93e939a4
-
+"{V0239}{W5}Just?"
 
 @NAN_KIS_A:174 PLY c102003b
-
+"...It's nothing."
 
 @NAN_KIS_A:175 NAN 0cb941ff
-
+"{V0240}{W5}Big Bro...{Ec}"
 
 @NAN_KIS_A:180 NAN 679aa35b
-
+"{V0241}{W2}If you don't mind talking to me,{W43} look{W6} me{W4} in the eyes."
 
 @NAN_KIS_A:181 PLY 50c8b2fd
-
+"N-Nana, what's with you all of a sudden?"
 
 @NAN_KIS_A:182 NAN 1c9ac851
-
+"{V0242}{W5}Ah!{W29} You looked away!"
 
 @NAN_KIS_A:183 NAN 0b0a7ae7
-
+"{V0243}{W5}Why{Ec} won't you look{Eo} straight at me?"
 
 @NAN_KIS_A:184 PLY 45d55dcf
-
+"I can't help it..."
 
 @NAN_KIS_A:185 PLY 40155114
-
+(If I really look her in the eye...)
 
 @NAN_KIS_A:187 NAN 7a72ea51
-
+"{V0244}{W4}Oh,{W65} Big Bro,{W50} your face turned red."
 
 @NAN_KIS_A:188 PLY 122df4f6
-
+"Huh?"
 
 @NAN_KIS_A:189 NAN b10e182a
-
+"{V0245}{W2}Don't tell me,{W22} you have a fever?"
 
 @NAN_KIS_A:190 PLY 942f660b
-
+"N-no, I don't have a fever."
 
 @NAN_KIS_A:191 NAN 2c7a1abf
-
+"{V0246}{W4}No,{W50} because you're acting strange, Big Bro.{W27} I'll check, so{W16} bend down."
 
 @NAN_KIS_A:192 PLY 18b6fd11
-
+"I'm fine, really."
 
 @NAN_KIS_A:193 NAN c9a1a7a6
-
+"{V0247}{W4}Never{W3} mind{W3} that,{W30} just do what{W4} I{W3} tell you."
 
 @NAN_KIS_A:194 NAN e61a043d
-
+"{V0248}{W3}Hmm{W12}...{W12} {W70}you don't seem to have much of a fever."
 
 @NAN_KIS_A:195 PLY f4265d99
-
+(N-Nana's face is so close...)
 
 @NAN_KIS_A:196 NAN 3d9a3e20
-
+"{V0249}{W4}A slight{W13} fever{W15}, maybe?"
 
 @NAN_KIS_A:197 PLY 4edbc1fc
-
+"I told you, I don't have a fever..."
 
 @NAN_KIS_A:198 PLY d71b8135
-
+(...Nana's got big round eyes, huh. Bright and cute, or... how do I put it...)
 
 @NAN_KIS_A:199 PLY 44e1a68b
-
+(Ugh... what am I thinking about my own sister?)
 
 @NAN_KIS_A:200 NAN 2fdf6e90
-
+"{V0250}But,{W50} your face{W4} is red{W4}, so{W52} maybe it's{W3} the start{W3} of a{W3} cold..."
 
 @NAN_KIS_A:201 PLY 0e53f3ee
-
+"{Ts3}I said I'm perfectly fine!"
 
 @NAN_KIS_A:202 NAN 0caaccba
-
+"{V0251}{W4}Ah..."
 
 @NAN_KIS_A:203 PLY 17695d9d
-
+"S-sorry, I didn't mean to yell..."
 
 @NAN_KIS_A:204 NAN 59909784
-
+"{V0252}{W4}No{W3}...{W3} no...{W55} Nana,{W34} {Ec}I meddled again."
 
 @NAN_KIS_A:205 PLY f76699ed
-
+"N-no, that's not it. It's my fault, sorry."
 
 @NAN_KIS_A:206 NAN 6e6e690e
-
+"{V0253}{W4}No...{W75} I'll{W64} be going{Ec}"
 
 @NAN_KIS_A:207 PLY 7450a851
-
+"Ah... Nana..."
 
 @NAN_KIS_A:208 PLY 43b6fe0e
-
+(What am I doing? All I do is hurt Nana... my own sister...)
 
 @NAN_KIS_A:209 NAN a7baf533
-
+"{V0254}...Well,{W10} Big Bro,{W40} I{W30} should go now."
 
 @NAN_KIS_A:210 PLY cb2996dc
-
+"R-right..."
 
 @NAN_KIS_A:211 NAN 1f9c9d52
-
+"{V0255}{W4}Aren't{W3} you{W3} going to stop me?"
 
 @NAN_KIS_A:212 PLY 329f3c2e
-
+"...Why would I have to stop you?"
 
 @NAN_KIS_A:213 NAN 1ab6fbd6
-
+"{V0256}{W3}Why, you ask{W6}...{Ec}"
 
 @NAN_KIS_A:214 NAN d83af11b
-
+"{V0257}{W4}I thought{W42} you might want{W4} to{W9} talk{W4} with me{W10} some more."
 
 @NAN_KIS_A:215 PLY a074b280
-
+"We can talk again anytime, can't we?"
 
 @NAN_KIS_A:216 NAN a9469c00
-
+"{V0258}...Yeah,{W33} you're right.{W28} {F9}{Eo}We can talk anytime."
 
 @NAN_KIS_A:217 NAN 08198755
-
+"{V0259}See you,{W24} Big Bro."
 
 @NAN_KIS_A:218 PLY 6d73d72d
-
+(Nana... What should your big brother do...)
 
 @NAN_KIS_A:219 PLY 4061406d
-
+(Nana... I've been so cold to you lately; it was really cruel of me...)
 
 @NAN_KIS_A:220 PLY 7a2c62c4
-
+(She always acts so cheerful that I can't tell, but I'm sure I hurt her.)
 
 @NAN_KIS_A:221 PLY 4e2f248b
-
+(To make it up to her, what can I do for her...)
 
 @NAN_KIS_A:222 PLY 68312edd
-
+(...That's it!)
 
 @NAN_KIS_A:223 PLY 00d5e710
-
+"Nana, you haven't been to the sea this summer, have you?"
 
 @NAN_KIS_A:224 NAN ba34d7f3
-
+"{V0260}{W3}Nope,{W24} I haven't."
 
 @NAN_KIS_A:225 PLY 48299c7e
-
+"Summer's almost over, but would you like to go this Sunday?"
 
 @NAN_KIS_A:226 NAN 2d97ecf0
-
+"{V0261}{W3}Eeeh?!{W12} Really{W3}~~?!"
 
 @NAN_KIS_A:227 NAN f8daf63b
-
+"{V0262}{W3}Yes! I'll go! I'll go~~!"
 
 @NAN_KIS_A:229 NAN ecf76f0e
-
+"{V0263}{W4}Yay{W4}~{W4}~! Thank you~~!{W4} Big Bro!{Ec}"
 
 @NAN_KIS_A:232 NAN 1a4e3149
-
+"{V5009}Mwah!"
 
 @NAN_KIS_A:233 PLY efebd773
-
+"Whoa! N-Nana?!"
 
 @NAN_KIS_A:234 NAN c02630d5
-
+"{V0264}{W4}Ehehe{W4}{W4}, {W15}sorry.{W31} I got carried{W4} away{W3} and{W3} bumped{W3} into you."
 
 @NAN_KIS_A:235 PLY 3aa07665
-
+"Bumped into me... honestly..."
 
 @NAN_KIS_A:236 NAN f7780194
-
+"{V0265}{W3}Ah!{W35} You wiped it off!{W31} {F8}That's so mean!{W50} Wiping off{W3} your cute little sister's {Ec}kiss{W3}~~!"
 
 @NAN_KIS_A:237 PLY 8e55710f
-
+"So what if I wiped it off?"
 
 @NAN_KIS_A:238 NAN c586a2dd
-
+"{V0266}{W4}It's not okay!{W35} {Eo}It's not dirty!{W31} You're not allowed to wipe it off!"
 
 @NAN_KIS_A:239 PLY add40bf6
-
+"Honestly, if you keep saying that, I won't take you to the sea."
 
 @NAN_KIS_A:240 NAN b5c8ca97
-
+"{V0267}{W4}Aw...{W77} I won't say it anymore...{W28} {F3}I'm{W3} going{W3} to the sea~!"
 
 @NAN_KIS_A:241 PLY fc5f34d5
-
+"Good. See you later, then."
 
 @NAN_KIS_A:242 NAN 35c257e9
-
+"{V0268}{W4}Okay.{W42} Sunday,{W37} {Eo}I'm looking forward to it."
 
 @NAN_KIS_A:243 PLY 77c9fb2b
-
+"Yeah."
 
 @NAN_KIS_A:244 NAN 2f4a2b39
-
+"{V0269}{W6}See you~,{W5} Big Bro."
 
 @NAN_KIS_A:245 NAN e045a0b1
-
+"{V0270}{W4}Hey{W4} hey, Big Bro.{W34} Sunday{W9} is{W9} going to be{W30} so{W4} much{W3} fun{W3}~"
 
 @NAN_KIS_A:246 PLY c028a083
-
+"Yeah."
 
 @NAN_KIS_A:247 NAN 9d08ed2c
-
+"{V0271}{W3}What should we bring?{W22} The swim ring?{W37} A beach ball?{W50} {F9}A{W2} rubber{W2} boat{W2} is{W2} way{W2} too heavy{W15} to{W4} take{W4} with{W4} us{W4}, right{W3}?"
 
 @NAN_KIS_A:248 NAN a085ad8a
-
+"{V0272}{W4}Oh,{W34} I have to{W4} make{W4} a bento too!{W25} {F7}Is{W4} there{W4} anything you want to eat?"
 
 @NAN_KIS_A:249 PLY ad5114fc
-
+"Nana, if you get this excited already, you'll get so worked up you'll run a fever that morning."
 
 @NAN_KIS_A:250 NAN cecf3f86
-
+"{V0273}{W4}Aw...{W63} you're right.{W64} I have to calm down."
 
 @NAN_KIS_A:251 NAN 6b3d9213
-
+"{V0274}Inhale...{W30} exhale...{W5} inhale...{W25} exhale..."
 
 @NAN_KIS_A:252 NAN b99b0dc9
-
+"{V0275}{W4}Ugh{W7}...{W7} {W56}but I can't sit still~!"
 
 @NAN_KIS_A:253 PLY 59b464a8
-
+"Hahaha."
 
 @NAN_KIS_A:254 NAN 7bba3a2f
-
+"{V0276}{W4}I wish{W3} Sunday{W5} would{W3} hurry{W3} up~{Ec}"
 
 @NAN_KIS_A:255 PLY 92260cf4
-
+"It'll be here soon."
 
 @NAN_KIS_A:256 NAN c012248b
-
+"{V0277}{W4}Ehehe{W4}{W4},{W23} you're right.{W38} Well,{W12} I'd better get going soon,{W25} bye{Ec}"
 
 @NAN_KIS_A:257 PLY 375aa8d4
-
+"You do? See you."
 
 @NAN_KIS_A:258 NAN 69e92c2c
-
+"{V0278}{W4}Yeah,{W18} see you,{W5} Big Bro."
 
 @NAN_KIS_A:259 PLY 1bd07976
-
+(She's looking forward to it that much. I'm glad I invited her...)
 
 @NAN_KIS_A:260 PLY bd8d8b5d
-
+"Nana, sorry about the other weekend. Want to go to the sea this time, for real?"
 
 @NAN_KIS_A:261 NAN 79099ece
-
+"{V0261}Eeeh?! Really~?!"
 
 @NAN_KIS_A:262 NAN 2901b039
-
+"{V0262}Yes! {Ec}I'll go~~!"
 
 @NAN_KIS_A:263 PLY 8a247e21
-
+(I stood her up, and she's still this happy...)
 
 @NAN_KIS_A:264 PLY d85d50f2
-
+"Then Sunday."
 
 @NAN_KIS_A:265 NAN 7357346a
-
+"{V0268}Okay.{W40} I'm looking forward to Sunday{Ec}"
 
 @NAN_KIS_A:266 NAN 81dafdd8
-
+"{V0815}{W3}Well,{W16} see you~!"
 
 @NAN_KIS_A:267 PLY aa468b0a
-
+"Yeah, see you."
 
 @NAN_KIS_A:268 NAN ba56bad2
-
+"{V0279}{W4}Hey,{W40} Big Bro,{W45} who{W4} are{W4} you{W30} going around{W3} the school festival with?"
 
 @NAN_KIS_A:269 PLY 2134d88b
-
+"Hm? I haven't decided."
 
 @NAN_KIS_A:270 NAN 8fc7c26c
-
+"{V0280}{W5}I see..."
 
 @NAN_KIS_A:271 NAN 5f73b16f
-
+"{V0281}{W4}Then,{W22} let's{W4} go around{W4} together!{W30} Okay?{W8} Please?"
 
 @NAN_KIS_A:272 PLY a16a765a
-
+"Sure. Shall we go around together?"
 
 @NAN_KIS_A:273 NAN 492d0269
-
+"{V0282}{W4}Yay{W6}~{W6}! Yippee~~!{Ec}"
 
 @NAN_KIS_A:276 NAN 5cd32a5e
-
+"{V0283}{W4}Big Bro,{W10} thank--!"
 
 @NAN_KIS_A:277 PLY 7802b205
-
+"{Ts4}Wait!"
 
 @NAN_KIS_A:278 NAN a51a38c8
-
+"{V0284}{W4}Huh?"
 
 @NAN_KIS_A:279 PLY 1f0b8e34
-
+"You were about to hug me just now, weren't you?"
 
 @NAN_KIS_A:281 NAN fe834089
-
+"{V0285}{W4}Ugh...{W60} Busted..."
 
 @NAN_KIS_A:285 PLY 8ec681f2
-
+"Nana, we're brother and sister. You can't just go hugging me all the time!"
 
 @NAN_KIS_A:286 NAN e76f7181
-
+"{V0286}{W4}Mmm,{W55} we're close,{W26} so it's fine."
 
 @NAN_KIS_A:287 PLY d620e9cf
-
+"Even if you're close, it looks a little strange to other people, doesn't it?"
 
 @NAN_KIS_A:291 NAN 3e9711a5
-
+"{V0287}{W2}It's not strange.{W22} It's heartwarming."
 
 @NAN_KIS_A:292 PLY 68147d8c
-
+"Aren't you embarrassed, hugging and clinging to me?"
 
 @NAN_KIS_A:293 NAN 142a3ebe
-
+"{V0288}{W4}I'm not embarrassed.{W24} It's fun!"
 
 @NAN_KIS_A:294 PLY b54a5384
-
+"It's no use trying to hug me."
 
 @NAN_KIS_A:295 NAN dcf6c46f
-
+"{V0289}{W4}Mmm{W4}...{W4}{W54} This{W5} is{W5} no{W5} fun{W5}.{W50} Big Bro, you leave no openings{Ec}"
 
 @NAN_KIS_A:296 PLY fce92e6d
-
+"Hahaha, I'm not going to let my guard down that easily."
 
 @NAN_KIS_A:297 NAN 99065826
-
+"{V0290}{W3}Found an opening!"
 
 @NAN_KIS_A:299 NAN bc1bc887
-
+"{V0291}{W4}Thanks,{W10} Big Bro!"
 
 @NAN_KIS_A:300 PLY a6af49b8
-
+"N-Nana..."
 
 @NAN_KIS_A:302 NAN 4681068a
-
+"{V0292}{W4}Well, Big Bro.{W35} The school festival,{W20} {Ec}I'm looking forward to it."
 
 @NAN_KIS_A:303 PLY c192c77c
-
+"Yeah, let's meet at the fountain."
 
 @NAN_KIS_A:304 NAN ed761da9
-
+"{V0293}{W4}In{W5} front{W5} of{W4} the{W5} fountain{W4}, right?{W17} Okay, got it."
 
 @NAN_KIS_A:305 NAN 3beb2e34
-
+"{V0294}{W4}See you then,{W6} Big Bro{Ec}"
 
 @NAN_KIS_A:306 NAN a3cb1d0e
-
+"{V0295}{W4}Hey hey,{W26} Big Bro,{W40} what{W7} is{W7} the{W7} main{W28} attraction{W5} of{W30} the school festival{W5}, anyway{W5}?"
 
 @NAN_KIS_A:307 PLY 1fd301f6
-
+"Main attraction? Oh right, it's your first time at our school festival, Nana."
 
 @NAN_KIS_A:308 NAN b3395c53
-
+"{V0296}{W4}Yeah!{W37} {Eo}Compared{W3} to my middle school's{W4} school festival{W4},{W16} how is it different?"
 
 @NAN_KIS_A:309 PLY ba9f63c2
-
+"Basically the same. The exhibits are just more elaborate."
 
 @NAN_KIS_A:310 NAN 2adedc56
-
+"{V0297}{W4}Hmm{W15}...{W15}"
 
 @NAN_KIS_A:311 PLY 401f6634
-
+"Every year, the staples are the Tea Ceremony Club's Japanese-style cafe and the Track Club's big-pot curry."
 
 @NAN_KIS_A:312 NAN 1add8536
-
+"{V0298}This year, Naru's{W10} serving udon at the Home Ec Club too,{W4} she said!"
 
 @NAN_KIS_A:313 PLY 1edd80d8
-
+"We'll have to go eat there."
 
 @NAN_KIS_A:314 NAN 71676c66
-
+"{V0299}Yeah!"
 
 @NAN_KIS_A:315 NAN 7aeb7d5b
-
+"{V0301}{W4}Well,{W16} I{W14} should go now."
 
 @NAN_KIS_A:316 PLY 6d9d3afc
-
+"You do? See you, Nana."
 
 @NAN_KIS_A:317 NAN f8776649
-
+"{V0302}{W4}Yeah,{W24} {Eo}see you,{W8} Big Bro."
 
 @NAN_KIS_A:318 PLY 0177a518
-
+"That's not fair TT"

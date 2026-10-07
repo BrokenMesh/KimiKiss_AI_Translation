@@ -2,148 +2,148 @@
 # Format: docs/translation-format.md
 
 @NAN_MED:41 NAN 96782dc7
-
+"{V0796}Geez!{W30} Big Bro,{W30} you've been talking{W5} about nothing{W5} but that{W3} for ages!"
 
 @NAN_MED:44 PLY f125d3df
-
+"R-right. Sorry."
 
 @NAN_MED:46 NAN 0830c4bb
-
+"{V0800}Hehe,{W40} your stories,{W2} Big Bro,{W30} {Ec}every one is{W10} so{W3} much fun{W2}~"
 
 @NAN_MED:47 NAN fe3c43c5
-
+"{V0801}Big Bro,{W30} all your stories{W20} are{W10} really{W3} great~{Ec}"
 
 @NAN_MED:50 NAN 7dab1ffa
-
+"{V0802}Hehe,{W30} Big Bro,{W10} {Eo}you know{W5} so many fun{W3} stories,{W5} don't you~"
 
 @NAN_MED:52 NAN 715dbcb5
-
+"{V0803}Ehehe,{W35} {Eo}Big Bro,{W20} you know{W10} so many good{W3} stories,{W5} don't you{W5}~"
 
 @NAN_MED:53 NAN 3a465ec2
-
+"{V0808}Hey, hey,{W20} Big Bro,{W20} let's talk a little more~.{W25} Okay?"
 
 @NAN_MED:54 PLY bfeb36fd
-
+"Sure. Then..."
 
 @NAN_MED:56 SYS abf93941
-
+{Ti0}                                            .{W15}／                                            .{W15}／                                            .
 
 @NAN_MED:57 SYS a1c6df68
-
+...And so, the two of us had a good time.
 
 @NAN_MED:59 NAN 047b66af
-
+"{V0804}Hey,{W40} Big Bro{W3}"
 
 @NAN_MED:60 PLY 012390ca
-
+"What is it?"
 
 @NAN_MED:61 NAN a710ead9
-
+"{V0805}You know,{W40} I think{W5} the story you're about to tell{W5}, Big Bro... {W45}{F9}Nana won't{W3} really{W3} get it..."
 
 @NAN_MED:62 PLY 7017c632
-
+"R-really?"
 
 @NAN_MED:63 NAN 7e346fcc
-
+"{V0806}Yeah.{W35} ...We're siblings{W2}, so{W30} I can just kind of tell."
 
 @NAN_MED:64 NAN b6a13b0e
-
+"{V0807}So,{W30} how about{W5} something totally different{W3} to talk about?"
 
 @NAN_MED:65 PLY 1b73a09e
-
+"You're right... Okay!"
 
 @NAN_MED:66 PLY 84e56887
-
+(Time to switch gears and come up with a different topic!)
 
 @NAN_MED:67 NAN 7bf4839a
-
+"{V0835}Ah...{W20} Oh no!{W20} {F9}I forgot, I have something I need to do."
 
 @NAN_MED:68 PLY 122df4f6
-
+"Huh?"
 
 @NAN_MED:70 NAN 003540b9
-
+"{V0836}Big Bro{W5}, I'm sorry,{W10} but I have to go{Ec}"
 
 @NAN_MED:71 PLY 67919fb4
-
+"R-right."
 
 @NAN_MED:73 NAN ec618464
-
+"{V0837}Well,{W5} see you later."
 
 @NAN_MED:74 PLY 39b21236
-
+"Yeah, see you..."
 
 @NAN_MED:75 PLY c800a9de
-
+(She's gone... The conversation wasn't really taking off, I guess...)
 
 @NAN_MED:76 NAN 76be3b6a
-
+"{V0838}Ughhh,{W40} Big Bro,{W30} you've been telling{W5} weird stories{W10} nonstop{Ec}"
 
 @NAN_MED:77 NAN 55f66e24
-
+"{V0839}Uuu...{W50} {Ec}Stories like that...{W35} Stories like{W5} that...{W45} {Eo}Nana doesn't{W3} get them{W2} at all..."
 
 @NAN_MED:78 NAN d26ddec3
-
+"{V0840}Big Bro,{W25} {Ec}you big dummyyy~!"
 
 @NAN_MED:79 PLY 7450a851
-
+"Ah... Nana..."
 
 @NAN_MED:80 PLY 3d796206
-
+(She's gone... Did I tell too many embarrassing stories?)
 
 @NAN_MED:81 NAN cc9b9d31
-
+"{V0841}Oh,{W20} class is about to{W3} start, huh,{W20} {F3}Big Bro."
 
 @NAN_MED:82 PLY c028a083
-
+"I guess so."
 
 @NAN_MED:83 NAN 1cbe0452
-
+"{V0842}Our chat,{W40} {Ec}it was{W5} super{W3} fun.{W30} {Eo}See you~"
 
 @NAN_MED:84 PLY 3695183e
-
+"Yeah, see you."
 
 @NAN_MED:85 NAN c52c64a5
-
+"{V0843}Oh,{W20} I{W25} should get going now,{W10} {F3}Big Bro."
 
 @NAN_MED:86 PLY 457cd0be
-
+"Is that right?"
 
 @NAN_MED:87 NAN c0ba6171
-
+"{V0844}Yeah.{W30} {Ec}Our chat,{W25} it was{W5} really fun.{W25} {Eo}See you~"
 
 @NAN_MED:88 NAN 1e9cb541
-
+"{V0845}Oh,{W30} class is about to{W10} start, huh,{W30} {F3}Big Bro.{W30} See you."
 
 @NAN_MED:89 NAN 618c4d35
-
+"{V0846}Oh,{W20} I{W20} {F3}should get going now,{W10} Big Bro.{W10} See you."
 
 @NAN_MED:90 PLY e1df672e
-
+"Nana, sorry. I have to go now..."
 
 @NAN_MED:91 NAN af1eaa77
-
+"{V0847}Awww,{W30} really~?"
 
 @NAN_MED:93 NAN adf5b698
-
+"{V0848}And I was finally{W5} having fun..."
 
 @NAN_MED:94 PLY f6765f94
-
+"We'll pick the conversation up next time."
 
 @NAN_MED:96 NAN 4477a6b4
-
+"{V0849}Okay...{W50} That's no fun..."
 
 @NAN_MED:97 PLY 30d01bb0
-
+"Don't say that. We can talk anytime, right?"
 
 @NAN_MED:98 NAN 515e1171
-
+"{V0850}...Yeah,{W33} you're right."
 
 @NAN_MED:99 NAN 9c12a4e7
-
+"{V0851}See you,{W15} Big Bro."
 
 @NAN_MED:100 NAN 7966cbbd
-
+"{V0852}Oh,{W20} I see.{W20} {F3}Well,{W15} see you,{W5} Big Bro."
 
 @NAN_MED:101 PLY aa468b0a
-
+"Yeah, see you."

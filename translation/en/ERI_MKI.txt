@@ -2,97 +2,97 @@
 # Format: docs/translation-format.md
 
 @ERI_MKI:44 ERI de1e7fd0
-
+"{V1439}{W10}What{W3} a{W3} boring{W3} topic.{W3}{W3}{W8}"
 
 @ERI_MKI:49 ERI 4744eeb8
-
+"{V1440}{W10}A{W2} topic{W2} like{W2} that,{W65} it's{W3} so{W3} facile{W5} it's boring."
 
 @ERI_MKI:50 ERI d81a0e3a
-
+"{V1441}{W5}That's{W3} so{W2} trivial,{W10} a topic like that."
 
 @ERI_MKI:51 ERI 4518817b
-
+"{V1442}{W5}I{W2} have{W2} my doubts,{W15} bringing up a topic like that."
 
 @ERI_MKI:53 ERI 6e44b616
-
+"{V1443}{W5}You would{W3} think there{W5} are{W8} better topics than that."
 
 @ERI_MKI:54 ERI 57a2b9eb
-
+"{V1434}{W10}It sounds{W2} interesting{W10} as a topic,{W5} but{W40} not{W2} now..."
 
 @ERI_MKI:57 ERI 4531c179
-
+"{V1435}{W10}That topic{W5} isn't{W40} something to{W3} bring up{W3} right now, is it?"
 
 @ERI_MKI:59 ERI 06800e0f
-
+"{V1436}{W5}I{W5} suppose{W3} it's an interesting{W8} topic,{W5} but{W3}..."
 
 @ERI_MKI:61 ERI 8a6bafd3
-
+"{V1437}Your{W3} timing{W2} is{W2} bad,{W3} for{W3} that topic.{W35}"
 
 @ERI_MKI:62 ERI fe8cf8d3
-
+"{V1438}{W10}Huh? {E}{W30}{E}{W120}Bringing{W2} that{W2} up now{W5}, though..."
 
 @ERI_MKI:65 ERI 2ded136d
-
+"{V1456}{W5}Huh?! {W25}S-{W25}so sudden."
 
 @ERI_MKI:66 PLY 6c1b2754
-
+"S-sorry."
 
 @ERI_MKI:76 ERI 52dec89d
-
+"{V1647}......"
 
 @ERI_MKI:77 ERI 67f2cb83
-
+"{V1648}{F7}......"
 
 @ERI_MKI:78 PLY 313ae3ad
-
+(Ah... she looked away, just slightly...)
 
 @ERI_MKI:81 PLY f2fdc86a
-
+"Futami."
 
 @ERI_MKI:82 ERI 7db3fbc5
-
+"{V1650}{W10}What?"
 
 @ERI_MKI:88 ERI 0d826335
-
+"{E}......"
 
 @ERI_MKI:89 ERI 254bcc2a
-
+"{V1652}{W5}What{W8} is so funny?"
 
 @ERI_MKI:90 PLY aa2b47d8
-
+"Ah... no, it's nothing..."
 
 @ERI_MKI:91 ERI f5808ac0
-
+"{V1653}{Ec}{W8}Don't{W2} laugh for{W8} no{W3} reason."
 
 @ERI_MKI:93 ERI f66d1768
-
+"{V1654}{W10}What?"
 
 @ERI_MKI:96 ERI 9d2ea8ae
-
+"{V1655}{W10}......"
 
 @ERI_MKI:97 ERI 67683bcd
-
+"{V1656}{W10}Heh,{W40} what a funny face{W3} you have."
 
 @ERI_MKI:98 PLY e2d51d78
-
+"R-really? Hahaha..."
 
 @ERI_MKI:104 ERI a378e67c
-
+"{V1657}{W10}Ah..."
 
 @ERI_MKI:106 ERI b2b2b618
-
+"{V1658}{W10}Stop{W6} it{W3}..."
 
 @ERI_MKI:107 PLY 00d0c9d1
-
+(She shook me off, huh...)
 
 @ERI_MKI:108 ERI 11e2a99b
-
+"{V1444}{W10}Our{W8} conversation{W5} doesn't click.{W55} It's{W2} boring{W3}..."
 
 @ERI_MKI:109 PLY 499877e1
-
+"R-really?"
 
 @ERI_MKI:110 ERI 13f54a36
-
+"{V1445}{W5}How{W8} boring{W5}..."
 
 @ERI_MKI:111 ERI e264d922
-
+"{V1446}{W3}What I{W10} want to talk{W5} about,{W25} can't you tell?"

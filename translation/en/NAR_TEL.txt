@@ -2,142 +2,142 @@
 # Format: docs/translation-format.md
 
 @NAR_TEL:10 PLY 31318805
-
+"Hello, this is {Nm}."
 
 @NAR_TEL:12 NAR 2a1fe9fc
-
+"{V1279}Um,{W3}{W33} this{W4} is{W3} Satonaka{W3} calling..."
 
 @NAR_TEL:13 PLY 3f09bec3
-
+"Huh? Narumi?"
 
 @NAR_TEL:15 NAR aeaf54a2
-
+"{V1280}Ah...{W9}{W27} Senpai,{W4} is that{W4} you...?"
 
 @NAR_TEL:16 PLY 5a217ef0
-
+"Yeah, it's me. What's up?"
 
 @NAR_TEL:20 NAR 760711ad
-
+"{V1281}{W30}Senpai...{W4}{W4}{W51} about{W4} this{W3}{W2} weekend's{W1} date,{W45} I can't{W1} go anymore..."
 
 @NAR_TEL:21 PLY 96724a2a
-
+"What, why?"
 
 @NAR_TEL:22 NAR 9a2413d8
-
+"{V1282}{W18}Um...{W1}{W42} that{W1} day,{W1} no{W1} matter{W1} what,{W21} I ended up{W3} having to help out{W2} at the shop."
 
 @NAR_TEL:23 PLY 876a2929
-
+"I see..."
 
 @NAR_TEL:25 NAR 1ea236e4
-
+"{V1283}I'm{W8} sorry,{W2}{W2} Senpai.{W45} Please{W3}{W8}{W4} ask{W1}{W1} me{W1}{W1}{W1} again."
 
 @NAR_TEL:26 NAR 52e16b53
-
+"{V1284}{W10}Maybe,{W15} I{W1} might be{W1} able to{W1} go after{W1} all."
 
 @NAR_TEL:27 PLY 541c3cfd
-
+"Got it."
 
 @NAR_TEL:28 NAR d3bf5096
-
+"{V1285}{W15}Well then...{W15} good night."
 
 @NAR_TEL:29 PLY 54db2b27
-
+"Good night."
 
 @NAR_TEL:32 PLY f75d6b6c
-
+(What a letdown...)
 
 @NAR_TEL:35 NAR 14a3897c
-
+"{V1286}Um,{W8}{W60} this{W4} is{W3} Satonaka{W4} calling..."
 
 @NAR_TEL:36 NAR 6f925777
-
+"{V1287}{W12}Ah...{W90} Senpai{W5}{W18}, is that you...?"
 
 @NAR_TEL:37 NAR e38d297c
-
+"{V1288}...Senpai,{W5}{W3}{W3}{W60} you didn't{W15} come{W2} today."
 
 @NAR_TEL:38 PLY 6a228046
-
+"Ah!"
 
 @NAR_TEL:39 PLY 6caab809
-
+(That's right... I made a promise with Narumi...)
 
 @NAR_TEL:40 NAR c75ad692
-
+"{V1289}I{W8} was looking{W6} forward to{W4} it,{W69} and{W3} you,{W3} Senpai,{W21} didn't come..."
 
 @NAR_TEL:41 PLY cce38622
-
+"S-sorry, Narumi."
 
 @NAR_TEL:43 NAR 37c6332f
-
+"{V1290}Why didn't{W5} you come?!"
 
 @NAR_TEL:44 PLY 921a55e2
-
+"I'm sorry... Anything I say would just be an excuse..."
 
 @NAR_TEL:45 NAR 30a94cc4
-
+"{V1291}I{W8}{W8} waited,{W60} the whole time,{W1} you know."
 
 @NAR_TEL:46 PLY 975409bc
-
+"I'm really sorry! I'll ask you out again next time. Please, forgive me!"
 
 @NAR_TEL:47 NAR 7141dcbc
-
+"{V1292}......{W8}{W3}"
 
 @NAR_TEL:48 NAR 7dc94c2c
-
+"{V1293}...Promise{W3} me,{W2} okay."
 
 @NAR_TEL:49 PLY b7f60c52
-
+"You'll forgive me?"
 
 @NAR_TEL:50 NAR c3ebfb02
-
+"{V1294}I won't{W8} forgive you,{W3} but...{W48} I'll{W5} forgive{W1} you."
 
 @NAR_TEL:51 PLY 54014813
-
+"Thanks, Narumi."
 
 @NAR_TEL:52 NAR 71f7a0f5
-
+"{V1295}I'm going{W8} to bed{W2} now.{W48} If{W3} I sleep{W4} through the{W4} night,{W45} I think I'll{W4} be able to forget{W2} about it."
 
 @NAR_TEL:53 NAR 47b86a1a
-
+"{V1296}Good{W8} night,{W21} Senpai.{W3}{W3}"
 
 @NAR_TEL:54 PLY d3ad56ce
-
+"Good night, Narumi."
 
 @NAR_TEL:55 PLY 3c27ee02
-
+(Standing her up was bad news, wasn't it...)
 
 @NAR_TEL:56 NAR 1aa9c1b7
-
+"{V1297}Um,{W5}{W30} this{W4}{W3} is{W5} Satonaka{W1}{W1} calling..."
 
 @NAR_TEL:57 NAR 23cec3c3
-
+"{V1298}Oh,{W8} Senpai,{W7} is{W3} that{W3} you...?"
 
 @NAR_TEL:58 NAR 3b49cfe5
-
+"{V1299}Let's{W8}{W5} see...{W12} um{W5}{W12}...{W1}{W60} I'm not calling{W1} about anything.{W36} I{W3} just wondered{W3} what you{W2} were{W5} up to,{W3} Senpai."
 
 @NAR_TEL:59 PLY 9a7db091
-
+"I see. I was just about to go to bed."
 
 @NAR_TEL:60 NAR 92ad5e59
-
+"{V1300}Oh!{W5}{W30} Me{W8}{W2}{W2} too!{W40} ...{W15} That's{W2}{W1} why,{W47} I{W4} was{W4} hoping{W30} I{W3} could say{W5} good night{W3} to you,{W8} Senpai..."
 
 @NAR_TEL:61 PLY 65928068
-
+"Narumi..."
 
 @NAR_TEL:62 NAR f49a4f9b
-
+"{V1301}{W12}Was{W9} it a{W9} bother...{W39} for{W4}{W2}{W1}{W3} you?"
 
 @NAR_TEL:63 PLY a61ceb39
-
+"Not at all. I'm glad you called."
 
 @NAR_TEL:64 NAR 11e9fd20
-
+"{V1302}Thank{W8}{W5} you,{W4}{W4} Senpai."
 
 @NAR_TEL:66 NAR 9aaed106
-
+"{V1303}{W12}Senpai...{W4}{W4}{W90} good night."
 
 @NAR_TEL:67 PLY 62384012
-
+"Good night, Narumi. See you tomorrow."
 
 @NAR_TEL:68 NAR cc9be76b
-
+"{V1304}{W12}Yes!"

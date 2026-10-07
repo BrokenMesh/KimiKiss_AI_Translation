@@ -2,118 +2,118 @@
 # Format: docs/translation-format.md
 
 @NAN_MAT:17 PLY 162ba26b
-
+"Nana... got a minute?"
 
 @NAN_MAT:21 NAN 01de8c8b
-
+"{V0809}Ah,{W40} sorry~, Big Bro.{W10} I've got to go now."
 
 @NAN_MAT:22 PLY 55928c31
-
+"Oh, do you?"
 
 @NAN_MAT:25 NAN 73360feb
-
+"{V0810}Yeah.{W20} See you~!"
 
 @NAN_MAT:26 PLY 39b21236
-
+"Yeah, see you..."
 
 @NAN_MAT:27 NAN d8c15fef
-
+"{V0811}Hey, hey,{W5} Big Bro,{W20} let's go home together today!"
 
 @NAN_MAT:28 PLY 722d66f3
-
+"Huh? Together?"
 
 @NAN_MAT:29 NAN c17d56e4
-
+"{V0812}{Ec}Yeah!{W15} That's okay, right?{Eo}"
 
 @NAN_MAT:30 PLY df9d89e7
-
+"...Why do I have to go home with you?"
 
 @NAN_MAT:31 NAN 34bde174
-
+"{V0816}Awww,{W45} come on.{W40} {F3}Pleeease?"
 
 @NAN_MAT:32 PLY 1cf62431
-
+"...Honestly, I guess I have no choice. Fine, I'll walk home with you."
 
 @NAN_MAT:35 NAN 05408851
-
+"{V0817}Really?{W30} Yay,{W5} yay!{W20} {Ec}Yesss~!"
 
 @NAN_MAT:37 PLY 0c0efc7b
-
+"Then let's meet at the school gate after school."
 
 @NAN_MAT:38 NAN 2a047597
-
+"{V0818}Okay,{W20} got it!{W20} I'm looking forward to it."
 
 @NAN_MAT:40 NAN 01db66a7
-
+"{V0819}See you~, Big Bro."
 
 @NAN_MAT:41 PLY 3695183e
-
+"Yeah, see you."
 
 @NAN_MAT:42 PLY 46d9852d
-
+"Nana, want to go home together today?"
 
 @NAN_MAT:43 NAN 0c056637
-
+"{V0820}Eh?!{W20} Really?{W20} Big Bro, I can't believe you'd go home with me..."
 
 @NAN_MAT:44 NAN 0d80b9d5
-
+"......"
 
 @NAN_MAT:45 NAN 793393c8
-
+"{V0821}Ah..."
 
 @NAN_MAT:46 PLY 77dbaddd
-
+"What's wrong?"
 
 @NAN_MAT:47 NAN 3824f95c
-
+"{V0822}Aww{W5}...{W45} I just remembered,{W15} I have something to do today{Ec}..."
 
 @NAN_MAT:48 PLY 8f5c3bcf
-
+"Oh, I see..."
 
 @NAN_MAT:49 NAN d7f634cd
-
+"{V0823}What a bummer{W5}...{W60} Ask me again,{W10} Big Bro.{W20} Please."
 
 @NAN_MAT:50 PLY ddf00689
-
+"...If I feel like it."
 
 @NAN_MAT:51 NAN ec64d4f8
-
+"{V0824}Don't say that,{W5} come on.{W40} Promise me, okay?{W30} ...Well,{W10} see you later."
 
 @NAN_MAT:52 PLY aa468b0a
-
+"Yeah, see you."
 
 @NAN_MAT:53 NAN 700008cd
-
+"{V0825}Hey, hey,{W5} Big Bro,{W30} let's go home together today!"
 
 @NAN_MAT:54 NAN 2c447840
-
+"{V0826}{Ec}Yeah!{W30} That's okay, right?{Eo}"
 
 @NAN_MAT:55 PLY 2e2f478b
-
+"You said you had something to do today."
 
 @NAN_MAT:56 NAN 9802f559
-
+"{V0827}Well,{W30} it just fell through.{W35} {F3}So,{W15} I was hoping{W10} we could{W5} go home together..."
 
 @NAN_MAT:57 PLY dbf0f501
-
+"I see..."
 
 @NAN_MAT:58 PLY 6e38842a
-
+"Then let's go home together."
 
 @NAN_MAT:59 NAN 2f35c7c4
-
+"{V0832}Really?{W30} Yay!{W30} {Ec}Yesss~!"
 
 @NAN_MAT:60 NAN 80397d63
-
+"{V0833}Okay, got it!{W20} I'm looking forward to it."
 
 @NAN_MAT:61 NAN c87e4421
-
+"{V0834}See you~,{W5} Big Bro."
 
 @NAN_MAT:62 PLY 0184a6d6
-
+"Nana, don't be late after school."
 
 @NAN_MAT:63 NAN 4d289891
-
+"{V0560}{Ec}Yeah!{W25} {Eo}Of course!"
 
 @NAN_MAT:64 NAN 3a941614
-
+"{V0834}{W10}See you~, Big Bro."

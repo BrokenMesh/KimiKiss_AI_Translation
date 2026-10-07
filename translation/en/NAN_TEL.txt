@@ -2,79 +2,79 @@
 # Format: docs/translation-format.md
 
 @NAN_TEL:8 PLY c3f8548c
-
+"Nana would never turn down a date, you know? That's an error, man. Fwa-hahaha."
 
 @NAN_TEL:12 PLY 1cc0e37c
-
+(Phew... A lot happened today, one thing after another...)
 
 @NAN_TEL:13 PLY 6bae6772
-
+(...Huh? I feel like I'm forgetting something.)
 
 @NAN_TEL:14 PLY c3500a11
-
+(Oh no! I made plans with Nana today too!)
 
 @NAN_TEL:15 PLY daa9d9ad
-
+(T-this is bad. Either way, I have to go apologize.)
 
 @NAN_TEL:23 PLY a8a6088a
-
+"Nana! Are you in your room?"
 
 @NAN_TEL:24 PLY 114e6a2f
-
+"Nana, you're not there?"
 
 @NAN_TEL:25 PLY 2e0159ba
-
+"...I'm coming in."
 
 @NAN_TEL:42 NAN 98bc74fe
-
+"......"
 
 @NAN_TEL:43 PLY 634f9920
-
+"Ah..."
 
 @NAN_TEL:45 PLY c3428414
-
+"I'm sorry, Nana! It's a long story, but..."
 
 @NAN_TEL:46 SYS 7399ba53
-
+                                    .／                                    .／                                    .
 
 @NAN_TEL:47 PLY f76edb9c
-
+"...So that's why. An urgent errand came up that I couldn't get out of."
 
 @NAN_TEL:49 NAN 51260159
-
+"{V0470}...Was it{W35} really that important{W5} of an{W3} errand?{Ec}"
 
 @NAN_TEL:50 PLY 2540df1d
-
+"...Yeah."
 
 @NAN_TEL:51 NAN 8200a9e4
-
+"{V0471}More important than going{W45} to the beach{W5} with Nana?"
 
 @NAN_TEL:52 PLY 9efd61f7
-
+"...Y-yeah."
 
 @NAN_TEL:53 NAN 991ef635
-
+"{V0472}...I see{Ec}"
 
 @NAN_TEL:54 NAN 89f62d66
-
+"{V0473}Then,{W30} it can't be{W3} helped."
 
 @NAN_TEL:55 PLY 89879d22
-
+"I'm sorry, Nana."
 
 @NAN_TEL:56 NAN 7eda2fdd
-
+"{V0474}No,{W35} it's okay.{W45} Ask me{W5} again.{W60} {Eo}I want to go{W25} to the beach{W3} with you, Big Bro."
 
 @NAN_TEL:57 PLY 6896fbe6
-
+"Yeah..."
 
 @NAN_TEL:61 SYS db5c84d9
-
+...And so, Nana somehow forgave me.
 
 @NAN_TEL:62 PLY 426cfa30
-
+(I shouldn't break promises...)
 
 @NAN_TEL:63 PLY 43edffac
-
+(Sorry, Nana... I'm a terrible big brother...)
 
 @NAN_TEL:64 PLY 2ade7523
-
+"Nana won't be calling you, you know? You get it, right?"
