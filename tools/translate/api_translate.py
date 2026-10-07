@@ -205,13 +205,18 @@ def cmd_run(a):
     if a.batch:
         reqs = [{'custom_id': j[0].replace(':', '_').replace('.', '-'), 'params': request_params(j[1], j[2], a.effort, a.max_tokens)} for j in jobs]
         bymap = {r['custom_id']: j for r, j in zip(reqs, jobs)}
-        b = client.messages.batches.create(requests=reqs)
-        open(os.path.join(WORK, 'batch_id.txt'), 'w').write(b.id)
+        if a.batch_id:   # collect an earlier batch; its requests must match the current parts
+            b = client.messages.batches.retrieve(a.batch_id)
+        else:
+            b = client.messages.batches.create(requests=reqs)
+            open(os.path.join(WORK, 'batch_id.txt'), 'w').write(b.id)
         print('batch', b.id, flush=True)
         while client.messages.batches.retrieve(b.id).processing_status != 'ended':
             time.sleep(60)
         for res in client.messages.batches.results(b.id):
-            j = bymap[res.custom_id]
+            j = bymap.get(res.custom_id)
+            if j is None:
+                continue
             if res.result.type != 'succeeded':
                 print('FAILED', j[0], res.result.type, flush=True)
                 continue
@@ -272,6 +277,7 @@ def main():
     p.add_argument('--budget', type=float, default=20.0)
     p.add_argument('--effort', default='medium')
     p.add_argument('--max-tokens', type=int, default=32000)
+    p.add_argument('--batch-id', default='', help='run --batch: collect this batch instead of creating one')
     a = p.parse_args()
     {'plan': cmd_plan, 'run': cmd_run, 'repair': cmd_repair}[a.cmd](a)
 
