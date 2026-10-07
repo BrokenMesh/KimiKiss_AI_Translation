@@ -89,7 +89,7 @@ These draw `FontChar` sprites with their own fixed-pitch layout and need the sam
 | `NameEntryEdit` | name entry | own layout (not yet read) |
 | `DeckView`, `FontCharEx` users | topic cards | not yet read |
 
-`K2_Script >> zenkaku:` converts name-entry ASCII to full-width: `A`–`Z` → `0x8260`+, `_` → `0x8151`. The player's name is stored and printed as full-width Shift-JIS.
+`K2_Script >> zenkaku:` converts ASCII to full-width (`A`–`Z` → `0x8260`+, `_` → `0x8151`) to build event class names; it is not part of name entry (see `phase-4-name-entry.md`). The player's name is entered from full-width grid pages and stored and printed as full-width Shift-JIS.
 
 ## Debug helpers
 
