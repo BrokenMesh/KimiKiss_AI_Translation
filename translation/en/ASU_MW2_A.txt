@@ -905,7 +905,7 @@
 "Who taught you soccer, Sakino?"
 
 @ASU_MW2_A:362 ASU e186febb
-"{V2008}My dad.{W45}{Fm4} When I said I wanted to{W3} play,{W5}{Fm3} he bought me a soccer ball..."
+"{V2008}My dad.{W45}{Fm4} When I said I wanted to{W3} play,{W5}{Fm3} he bought me{W3} a soccer ball..."
 
 @ASU_MW2_A:363 ASU ec3f83b4
 "{V2009}{Fm4}In elementary school,{W28} the two of us{W3} played until sundown,{W10}{Fe2m3} one-on-one{W3} games."
@@ -1976,7 +1976,7 @@
 "Ah... you don't have one?"
 
 @ASU_MW2_A:749 ASU e22fe872
-"{V2232}M-{W20}more or less.{W40}{Eo}{Fm3} There's a pair{W2} in my closet{W30} from grade school{W20} or so,{W3}{W5} I think{W2}{W45}{Fm4} but I wear them less each year{W2}..."
+"{V2232}M-{W20}more or less.{W40}{Eo}{Fm3} There's a pair{W2} in my closet{W30} from grade school{W20} or so,{W3}{W5} I think{W2}{W45}{Fm4} but I{W5} wear them less each year{W2}..."
 
 @ASU_MW2_A:750 ASU 313a7724
 "{V2233}Nobody's ever told me{W30}{B100}{Ec} they wanted to see me in a skirt..."

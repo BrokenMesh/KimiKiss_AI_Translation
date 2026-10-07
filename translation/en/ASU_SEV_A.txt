@@ -8,7 +8,7 @@
 (Maybe I could sneak a peek... No, I can't do that...)
 
 @ASU_SEV_A:34 PLY 9455a590
-(Right, Ms. Kawada is the Swim Club adviser. I have a question about modern Japanese anyway. Perfect, I have a reason. Let's go!)
+(Right, Ms. Kawada advises the Swim Club. I have a question for her anyway. Perfect, I have a reason. Let's go!)
 
 @ASU_SEV_A:36 PLY e91fbccf
 (All right! Just as I thought, the Swim Club is practicing.)

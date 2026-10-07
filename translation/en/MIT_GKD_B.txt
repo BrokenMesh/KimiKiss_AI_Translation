@@ -134,7 +134,7 @@ And so Shijou and I turned the five hundred yen in at the police box.
 "N-no, that's fine."
 
 @MIT_GKD_B:99 MIT 6a3e4f0e
-"{V0935}{W13}I{W4}{W4}{W4} see{W3}{F6}{Ec}..."
+"{V0935}{W13}I{W4}{W4}{W4} see{W3}{F6}{Ec}...{W3}"
 
 @MIT_GKD_B:100 PLY 233979f2
 (The mansion is so grand that I just get intimidated...)
@@ -386,7 +386,7 @@ And so Shijou and I turned the five hundred yen in at the police box.
 "S-see you."
 
 @MIT_GKD_B:218 MIT ae93e68f
-"{V0974}{W10}Yes.{W33} Excuse{W3} me,{W10} {F3}{Eo}Master.{W3}{W3}{W3}"
+"{V0974}{W10}Yes.{W33} Excuse{W3} me,{W10} {F3}{Eo}Master.{W3}{W3}{W3}{W3}"
 
 @MIT_GKD_B:219 PLY 93097150
 "Nanaaa, wait for me!"

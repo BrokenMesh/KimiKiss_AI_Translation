@@ -74,7 +74,7 @@
 "What?!"
 
 @MAO_SEV_A:77 MAO 464f4b00
-"{V0080}{W5}What{W3} girls{W3} love,{W3} the{W3} key{W3} points{W3} and{W2} stuff{W2} like{W2} that{W2} too,{W2}{W20} {F3}looks that attract, inner stuff,{W20} {Fe8}{Fm3}I'll teach you every secret to being {Ec}popular{Eo}."
+"{V0080}{W5}What{W3} girls{W3} like,{W3} what{W3} draws{W3} them,{W3} how{W2} to{W2} look{W2} and{W2} be,{W2}{W20} {F3}inside and out,{W20} {Fe8}{Fm3}I'll {Ec}teach you every secret to being popular{Eo}."
 
 @MAO_SEV_A:78 PLY 9ffbc1e1
 "R-really?! ...Wait, that just means I'd be your toy, Mao..."
@@ -230,7 +230,7 @@ No meat, so I'm not satisfied...
 (Oh, that's...)
 
 @MAO_SEV_A:145 MAO 76e2a82c
-"{V0104}{W10}Oh{W5} for{W5} goodness'{W5} sake{W5}...{W45} Summer{W1} vacation{W1} is{W1} over,{W1} so{W25} they need to hurry up and switch to a more grown-up, autumn-style{W2} movie,{Ti1}{W2} I{W2} really{W2} wish{W2} they{W2} would{W2} already{W2}~"
+"{V0104}{W10}Oh{W5} for{W5} goodness'{W5} sake{W5}...{W45} Summer's{W1} over{W1} now,{W1} so{W1}{W25} I{W2} want them to switch to grown-up autumn movies{Ti1}{W2} already{W2}{W2}{W2}{W2}{W2}{W2}~"
 
 @MAO_SEV_A:146 PLY 439f97f3
 "Mao."
@@ -458,7 +458,7 @@ No meat, so I'm not satisfied...
 "{V0141}{Br50t90}W-{W50}whoa?! {W28}{F3}That's great,{Ti1} {Nn}."
 
 @MAO_SEV_A:240 MAO a3dc0275
-"{V0142}{W10}Girls{W4} are{W4} funny{W2} like{W2} that,{W5}{W15} {F7}{Eo}{Ti1}{W4}even{W5} flattery{W5} is{W5} fine{W5} with{W5} them,{W4} as{W4} long{W4} as{W10} {F3}they{W4} get{W4} praised,{W4} they{W4} love{W4} it{W5} so{W5} much,{W5} you{W5} know."
+"{V0142}{W10}Girls,{W4}{W4}{W2}{W2} you{W5} know~,{W15} {F7}{Eo}{Ti1}{W4}want{W5} to{W5} be{W5} complimented,{W5} even{W5} if{W4} it's{W4} just{W4}{W10} {F3}flattery.{W4}{W4}{W4}{W4}{W4}{W5}{W5}{W5}{W5}{W5}"
 
 @MAO_SEV_A:241 PLY 19bb7d67
 "No, it's not flattery..."
@@ -686,7 +686,7 @@ Girl
 "{V0176}I only splashed you a little,{W10} so in{W1} this{W1} weather{W1} you'll{W1} dry{W1} fast."
 
 @MAO_SEV_A:346 MAO bf987779
-"{V0177}Besides,{W40} {F8}it's your own fault for strolling into the Pool{W10} {Fm6}hoping to see girls in swimsuits,{Ti1} so{W4} you{W4} have{W4} no{W4} one{W4} to{W4} blame{W4} but{W4} yourself{W4} for{W4} that,{W4} okay?{W20} {Ec}{Fe8m3}Cool{W20} your{W7} head{W7} down{W7} a{W7} little{W7} now.{W7}"
+"{V0177}Besides,{W40} {F8}it's{W10} {Fm6}your{Ti1}{W4} own{W4} fault{W4} for{W4} coming{W4} to{W4} the{W4} pool{W4} for{W4} girls{W4} in{W4} swimsuits.{W4}{W20} {Ec}{Fe8m3}Cool{W20} your{W7} head{W7} down{W7} a{W7} bit{W7} now.{W7}"
 
 @MAO_SEV_A:347 PLY 84d8b473
 "N-no! It was just so hot that I came to cool off..."
@@ -698,7 +698,7 @@ Girl
 "{V0179}{W5}Caught{W1} you.{W1}"
 
 @MAO_SEV_A:350 MAO 14cbdef8
-"{V0180}Oh{W3} for{W3} crying{W3} out loud,{W40} {Ti1}just{W4} not{W4} being{W4} dropped into the Pool{W10} {Ec}is{W5} something{W5} you{W5} ought{W5} to{W5} be{W5} thankful{W5} for,{W5} so{W4} remember{W4} that,{W4} okay?{W4}"
+"{V0180}Good{W3} grief.{W3}{W3}{W40} {Ti1}Be{W4} grateful{W4} you{W4} didn't{W10} {Ec}get{W5} dumped{W5} in{W5} the{W5} pool,{W5} at{W5} least,{W5} all{W5} right?{W4}{W4}{W4}{W4}"
 
 @MAO_SEV_A:351 PLY e11d8bc7
 "I-I guess..."
@@ -752,7 +752,7 @@ I just can't win against Mao... Sigh...
 "You have low blood pressure, Mao, right? Getting up early is impossible for you."
 
 @MAO_SEV_A:369 MAO e55fb5bc
-"{V0189}Aww,{W30} that's not true.{W25} {Ec}{W5}{Fe9m8}{Eo}Anyway, as for{Ti1} the{W3} time{W3} I leave for school,{W5} {Ti1}it{W4} doesn't{W4} really{W4} change{W4} all{W4} that{W4} much{W4} from{W4} day{W4} to{W4} day,{W4} does{W4} it?"
+"{V0189}Aww,{W30} that's not true.{W25} {Ec}{W5}{Fe9m8}{Eo}Anyway, my{Ti1} school{W3} time{W3} too,{W5} {Ti1}it{W4} doesn't{W4} change{W4} all{W4} that{W4} much{W4} from{W4} day{W4} to{W4} day,{W4} does{W4} it?{W4}"
 
 @MAO_SEV_A:370 PLY 6c6b1e77
 "R-right..."

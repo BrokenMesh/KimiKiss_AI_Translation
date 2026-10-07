@@ -215,7 +215,7 @@
 "{V1122}{W15}Yeah,{W18} you can come in~!"
 
 @PLY_JTG:122 NAN a2fc2faf
-"{V1123}{W12}Sorry{W3} to{W3} keep{W3} you waiting~,{W12} Big{W4} Bro."
+"{V1123}{W12}Sorry{W3}{W3} to keep you waiting~,{W12} Big{W4} Bro."
 
 @PLY_JTG:123 PLY 3929b875
 "All right, today let's set up a course and play a real match."
@@ -290,7 +290,7 @@
 "Aah!"
 
 @PLY_JTG:168 NAN 29bd9702
-"{V1136}{W15}I{W5} did{W3} it~~!{W15} It went{W4} in! {W8}Big{W6} Bro!"
+"{V1136}{W15}I{W5} did it~~!{W15} It went{W4} in! {W8}Big{W6} Bro!"
 
 @PLY_JTG:169 PLY d8e44a78
 "Dang, you're good~."
@@ -329,7 +329,7 @@
 "{V1139}{W15}Aah!{W12} Big{W6} Bro,{W24} that's{W6} too hard!"
 
 @PLY_JTG:185 NAN 2332fc4c
-"{V1140}{W15}N{W3}o{W3}~~!{W24} It's going to hit the duckie~!"
+"{V1140}{W15}No{W3}~! {W24}It's going to hit the duckie~!"
 
 @PLY_JTG:186 PLY fd3d5a01
 "...Direct hit, this one."

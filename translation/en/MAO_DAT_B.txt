@@ -215,7 +215,7 @@ Ugh... I kept worrying about her skirt, the one that almost showed but never did
 "{V1069}{W3}Huh...?"
 
 @MAO_DAT_B:136 PLY f469b0be
-"Don't you actually want to go to a top-tier university? You studied so hard in middle school to get into the affiliated high school."
+"You want a top university, don't you? You studied so hard for the affiliated high school back then."
 
 @MAO_DAT_B:137 MAO 795e2033
 "{V1070}{W12}That{W4} is{W4}...{W7} true,{W4} but...{W51} {Fe9}it's{W1} too{W3} late{W2} for{W1} that{W2} now.{W1}{W5}"

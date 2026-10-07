@@ -89,7 +89,7 @@
 "I see, so you can't schedule recordings."
 
 @ERI_KOK_B:84 ERI e1c854f6
-"{V1363}{W12}But{W40} I can{W1}{W1}{W1}!{Ti0} {Ti2}{W24}{Fm4}Surely!{W30}{Eh}{Fe7} I{W2} just...{W24} don't even try{W2}."
+"{V1363}{W12}But{W40} I{W1} can{W1}{W1}{W1}!{Ti0} {Ti2}{W24}{Fm4}Surely!{W30}{Eh}{Fe7} I{W2} just...{W24} don't{W1} even{W1} try{W2}."
 
 @ERI_KOK_B:85 PLY 98a31c76
 "Hmm... so an IQ of 190 isn't much use in real life."

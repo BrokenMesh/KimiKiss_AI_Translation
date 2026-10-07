@@ -1679,7 +1679,7 @@ If I had known I could go with Shijou, I would have gotten up earlier... What a 
 "Oh, really? I didn't know."
 
 @MIT_FEV:763 MIT f9ed9f2c
-"{V1405}{W10}Busily,{W8} the parent{W5} birds{W5} brought{W8} food{W3} to{W3} the chicks{W8} again{W3} and{W8} again,{W3}{W40}{F2} and{W3} the other{W3} day,{W33} they all flew off healthy."
+"{V1405}{W10}Busily,{W8} the parent{W5} birds{W5} brought{W8} food{W3} to{W3} the chicks{W8} again{W3} and{W8} again,{W3}{W40}{F2} and{W3} the{W3} other{W3} day,{W33} they all flew off healthy."
 
 @MIT_FEV:764 PLY 5f741b75
 "I see. I wish I'd seen it."

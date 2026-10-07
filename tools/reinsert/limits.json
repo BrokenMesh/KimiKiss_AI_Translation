@@ -8986,5 +8986,26 @@
   "lines": 1,
   "translate": true,
   "note": "Default given name for GameParam>>setNamae (printed by {Nn}). Name entry holds 8 characters per name (D-016): at most 8 characters and 120 px (en_text.NAME_PX)."
+ },
+ "ALL_FEV:101": {
+  "display": "TextWindow",
+  "max_px": null,
+  "lines": 0,
+  "translate": false,
+  "note": "Piece of the choice list built at run time in ALL_FEV (row break or full-width padding between choices); kept as is."
+ },
+ "ALL_FEV:102": {
+  "display": "TextWindow",
+  "max_px": null,
+  "lines": 0,
+  "translate": false,
+  "note": "Piece of the choice list built at run time in ALL_FEV (row break or full-width padding between choices); kept as is."
+ },
+ "ALL_FEV:103": {
+  "display": "TextWindow",
+  "max_px": null,
+  "lines": 0,
+  "translate": false,
+  "note": "Piece of the choice list built at run time in ALL_FEV (row break or full-width padding between choices); kept as is."
  }
 }

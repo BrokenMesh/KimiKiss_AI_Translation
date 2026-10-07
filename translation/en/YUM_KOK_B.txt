@@ -14,7 +14,7 @@
 "Our opponent is the powerhouse, Kibito Commercial, right? We'd better cheer our hardest."
 
 @YUM_KOK_B:43 YUM 3f8a9b05
-"{V1435}{W7}What{W1} should{W1} I{W1} do?{W42} {F9}My{W1} heart{W1} is{W1} starting{W1} to{W1} pound{W1}..."
+"{V1435}{W7}What{W1} should{W1} I{W1} do?{W1}{W42} {F9}My{W1} heart{W1} is{W1} starting{W1} to{W1} pound{W1}..."
 
 @YUM_KOK_B:44 PLY 0761d457
 "Just do what you practiced. Have confidence."
@@ -119,7 +119,7 @@ Everyone at school had braced for a loss, so the uproar was as if we had won.
 "Hiiragi..."
 
 @YUM_KOK_B:96 AKI e032926d
-"{V0218}{W5}What are you{W25} going{W1} to{W1} do{W1} after this?"
+"{V0218}{W5}What are you{W25} going{W1} to do{W1} after this?"
 
 @YUM_KOK_B:97 PLY 67d76379
 "I'm meeting Hoshino at the school gate. I thought I'd walk her home... one last time."
@@ -149,7 +149,7 @@ Everyone at school had braced for a loss, so the uproar was as if we had won.
 "{V1441}{W12}N{W2}o{W2}."
 
 @YUM_KOK_B:109 YUM 6f42cfc0
-"{V1442}{W12}I{W1} like{W1} waiting{W1} here{W1} like{W1} this.{W20}"
+"{V1442}{W12}Because{W1} I{W1} like{W1} waiting{W1} here like this.{W20}"
 
 @YUM_KOK_B:110 PLY 6cb186f9
 "Me too... Thinking Hoshino would be here, coming here was... always... fun..."
@@ -203,7 +203,7 @@ Everyone at school had braced for a loss, so the uproar was as if we had won.
 "{Nm}...{V1451}{Ec}{Fe3}{W17} I'm{W1} so{W1} happy{W1}...{W1}"
 
 @YUM_KOK_B:131 YUM 7d05b893
-"{V1452}{W9}You{W20} know...{W16} {Nm},{W60} you{W1} didn't{W1} seem{W1} to{W1} notice,{W1} but{W63} {Fe9}I've{W57} loved you{W1} all along."
+"{V1452}{W9}I{W20}...{W16} you know,{W60} {Nm},{W1} you{W1} didn't{W1} seem{W1} to{W1} notice{W1} it{W1} at{W1} all,{W1} but{W63} {Fe9}all along,{W57} {Nm}, I've loved you."
 
 @YUM_KOK_B:132 PLY 50f36002
 "What?! R-really?!"
@@ -257,7 +257,7 @@ Everyone at school had braced for a loss, so the uproar was as if we had won.
 "Hoshino..."
 
 @YUM_KOK_B:149 YUM 19208125
-"{V1463}{W8}I{W2}...{W57} thought{W1} I'd{W1} do{W2} what{W1} you{W1} wanted.{W59} {Ec}And if you didn't want it,{W2} I'd{W1} give{W1} up..."
+"{V1463}{W8}I{W2}...{W57} decided{W1} I'd{W1} do{W2} what{W1} {Nm}{W1} would{W1} want{W1}.{W59} {Ec}And if {Nm}{W1} didn't want it,{W2} I'd{W1} give{W1} up{W1}..."
 
 @YUM_KOK_B:150 PLY c14253cf
 "So that's how it was..."

@@ -314,7 +314,7 @@ What kind of udon will Narumi let me try? I can't wait~.
 "Narumi, the smell is drifting all the way out to the hallway."
 
 @NAR_SEV_B:207 NAR e7d1457c
-"{V0222}{W8}Oh, {F2}{Nm}{W3}{W3}!"
+"{V0222}{W8}Oh, {F2}{Nm}{W3}!"
 
 @NAR_SEV_B:208 NAR c23ac993
 "{V0223}{W8}{Ec}Ehehe,{W27} {Eo}smells good, right~?!{W18} {Ec}{W5}{F7}{Eo}I simmered chicken{W4} bones,{W20} kelp,{W25} and {F3}bonito flakes{W13} {Ec}{W5}{Fe2}{Eo}for a long time."
@@ -338,10 +338,10 @@ What kind of udon will Narumi let me try? I can't wait~.
 "O-okay..."
 
 @NAR_SEV_B:216 PLY 50dfd5d4
-(The toppings are bamboo shoots, chashu, a marinated egg, and scallions... Except for the noodles, it's a perfect soy sauce ramen...)
+(Bamboo shoots, chashu, marinated egg, scallions... Noodles aside, it's perfect soy sauce ramen...)
 
 @NAR_SEV_B:217 NAR 1b9e6c8f
-"{V0227}{W12}Lately,{W27} Japanese-style ramen with a strong bonito flavor{W5}{W2}{W2}{W2}{W5}{W2}{W5}{W1}{W4}{W2}{W2}{W4}{W2}{W1}{W30} has been popular,{W3}{W5}{W2}{W1}{W1}{W1}{W4}{W1}{W1}{W1}{W1} so I tried bringing it into{W30} {Ec}udon{W2}{W2}{W1}{W1}{W1}{W1}{W1}{W1}{W1}."
+"{V0227}{W12}Lately,{W5}{W5}{W27} Japanese-style{W2} ramen{W2} with{W2} a strong{W5} bonito{W2} flavor{W5} has{W1} been{W4} getting{W2} popular,{W2}{W4}{W2}{W1}{W30} so{W3} I{W5} thought{W2} I'd{W1} try{W1} it{W1} in{W4}{W1}{W1}{W1}{W1}{W30} {Ec}udon{W2}{W2}{W1}{W1}{W1}{W1}{W1}."
 
 @NAR_SEV_B:218 NAR e7d7939c
 "{V0228}{W8}Except for using chicken{W3} bones,{W3}{W3}{W24} the{W3} ingredients{W5} are{W3} surprisingly similar~"
@@ -437,7 +437,7 @@ Lunch Lady
 (Huh? Isn't that...)
 
 @NAR_SEV_B:254 NAR 063d7e5d
-"{V0239}{W15}Sniff...{W45} why{W9} am{W5} I{W45} so{W2} clumsy{W2}{W2}{W2}{W2}{W2}{W2} like{W1} this{W1}...{W1}{W1}{W1}{W1}.{W51} {Ec}Dummy, dummy,{W15} Narumi, you dummy..."
+"{V0239}{W15}Sniff{W1}...{W1} {W45}why{W9} am{W5} I{W45} so{W2} clumsy{W2} like{W2} this{W2} again{W2}{W2}{W1} {W1}{W1}{W1}{W1}{W1}...{W51} {Ec}Dummy, dummy,{W15} Narumi, you dummy..."
 
 @NAR_SEV_B:255 PLY 22ce3eab
 "Narumi, what's wrong?"

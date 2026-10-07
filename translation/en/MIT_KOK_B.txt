@@ -77,7 +77,7 @@ Thinking that, it hurt so much I felt my chest might burst...
 "For me too..."
 
 @MIT_KOK_B:79 MIT 47651e1d
-"{V1494}{W10}This{W3} is{W3} the{W5} first time,{W5} {Nm},{W3} that I have been with you{W5} all day{W38} at{W5} school{W2}{W5}."
+"{V1494}{W10}Being{W3} at{W3} school{W5} with you, {Nm},{W5} all day{W3} like this{W38} is{W5} a first{W2} for me{W5}."
 
 @MIT_KOK_B:80 PLY bad3355d
 "Yeah..."
@@ -188,7 +188,7 @@ It's fine to be reckless, fine to trouble her. I...
 "{V1528}{W15}It is enough if{W3} you keep me{W3} at your side.{W75} {Ec}Because..."
 
 @MIT_KOK_B:121 MIT 9724bd1d
-"{V1529}{W20}Because{W6} my{W8} only{W2} Master{W5} is{W5} you,{W5} you{W47} and{W5} you{W3} alone.{W5}{W5}"
+"{V1529}{W20}Because{W6} you{W8} are{W2} my Master{W5} and{W5} my only{W5} Master,{W47} you{W5} alone{W3} in{W5} the world."
 
 @MIT_KOK_B:122 PLY 3fa1f3ad
 "Shijou!"

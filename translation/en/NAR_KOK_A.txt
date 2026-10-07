@@ -47,7 +47,7 @@ Slurrrrrrp...
 "{V1312}{W12}Isn't{W3} it{W1}~~~~~!"
 
 @NAR_KOK_A:66 PLY d2fa91dc
-"The aroma of this dashi... I wondered about it last time too, but it has so much depth, and it really brings out the udon..."
+"This dashi aroma... I noticed it last time too. It's so deep, it really brings out the udon..."
 
 @NAR_KOK_A:67 PLY c575b075
 "Anyway, it's really delicious."
@@ -188,7 +188,7 @@ And then...
 "Eep... Narumi."
 
 @NAR_KOK_A:123 NAR 38cf7792
-"{V1335}{W15}Waaah{W8}{W8}~{W8}~{W8}! {W21}Waaah{W8}{W8}~{W8}~{W8}!{W45} {Eo}I{W10} love{W30} you{W4} too,{W4} Senpai! {W21}I won't{W1} lose{W1} to{W1} you{W1}!"
+"{V1335}{W15}Waaah{W8}{W8}{W8}{W8}! {W21}Waaah!{W8}{W8}{W8}{W8}{W45} {Eo}I{W10} love{W30} you,{W4} Senpai,{W4} so{W4} much! {W21}I won't{W1} lose{W1} to{W1} you{W5}!"
 
 @NAR_KOK_A:124 PLY f37fc397
 "No, it's not about winning or losing..."
@@ -227,7 +227,7 @@ And then...
 {Ti0}{Ti1}Wham!!{W30}
 
 @NAR_KOK_A:148 NAR 4dafe374
-"{V1343}{W12}Sen{W8}pai{W8},{W30} I love{W1}{W3}{W3}{W3}{W3} you so much!{W20}"
+"{V1343}{W12}Senpai,{W8}{W8} {W30}I{W1} love{W3} you{W3} so{W3} much{W1}!{W20}"
 
 @NAR_KOK_A:150 PLY 63847c95
 (Right, this is how Narumi should be.{W20})

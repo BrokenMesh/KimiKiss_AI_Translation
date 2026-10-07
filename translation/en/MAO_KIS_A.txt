@@ -137,7 +137,7 @@
 "{V0392}I {W3}don't {W3}mind,{W3} {W3}you{W3} {W3}know.{W3} {W55}{F9}{Eo}...As{W3} long as you're{W45} nicer{W1} to{W1} me{W1} from{W1} now{W1} on."
 
 @MAO_KIS_A:128 MAO 9c1f87a0
-"{V0393}{W10}Same high school and you never even talk to me,{W50}{Ec} so{W20} you hate me. {W65}{Ec}{W5}{F9}{Eo}{Ti1}We{W6} were{W6} so{W6} close{W6} until{W6} middle{W30} school,{W6} and{W6} now{W6} this,{W45}{Fe2}{Ec} right?"
+"{V0393}{W10}Same school, and not even a hi?{W50}{Ec} So{W20} you hate me.{W65}{Ec}{W5}{F9}{Eo}{Ti1}We{W6} were{W6} so{W6} close{W6}{W30} through{W6} middle{W6} school{W6}{W6}{W6}{W6}{W6}{W6}{W6}{W6}{W6}{W6}...{W45}{Fe2}{Ec} right?"
 
 @MAO_KIS_A:129 PLY 688a0ee2
 "Yeah, sorry..."
@@ -824,7 +824,7 @@
 "{V0509}{W10}Even now, when I undo my{W4} braid,{W4} {Ti1}it's{W4} all{W4} poofy."
 
 @MAO_KIS_A:389 MAO e0562375
-"{V0510}Ah{W5}~{W5}h,{W35} {Ec}{W5}{F9}{Eo}I wish {Ti1}I'd{W5} been{W5} born{W5} with straight black hair."
+"{V0510}Ah{W5}~{W5}h,{W35} {Ec}{W5}{F9}{Eo}I{W5} wish{W5} {Ti1}I'd{W5} been{W5} born{W5} with{W5} straight{W5} black{W5} hair.{W5}"
 
 @MAO_KIS_A:390 PLY 0ccdd7fa
 "I like it because it's your hair, Mao."

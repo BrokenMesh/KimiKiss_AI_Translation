@@ -359,7 +359,7 @@ And so I fled from the Home Ec Room.
 (I'm glad... Hoshino is better...)
 
 @PLY_KAZ:200 NAR 59231218
-"{V1271}{W12}Ah!{W5} Senpai~!"
+"{V1271}{W12}Ah! {W5}{Nm}{W3}{W3}~!"
 
 @PLY_KAZ:201 PLY 122df4f6
 "Huh?"

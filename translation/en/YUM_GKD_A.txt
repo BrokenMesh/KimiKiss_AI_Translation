@@ -71,7 +71,7 @@ I was so nervous that I can hardly remember what we talked about...
 "Okay."
 
 @YUM_GKD_A:69 YUM ab9111c7
-"{V0812}{W5}I had{W1}{W1}{W1}{W1}{W1}{W1}{W1} a really lovely time."
+"{V0812}{W5}I had{W1} a{W1} really{W1} lovely{W1} time{W1}{W1}."
 
 @YUM_GKD_A:70 PLY 1c093381
 "See you, Hoshino."
@@ -110,7 +110,7 @@ I was so nervous that I can hardly remember what we talked about...
 "{V0818}{W3}Mm, {W23}sounds{W8} great{W4}!"
 
 @YUM_GKD_A:93 YUM 5bc94419
-"{V0819}{W3}Fu{W3}fu,{W34} it's{W3} cold{W2}{W2} and{W3} deli{W2}{W2}cious{W3}."
+"{V0819}{W3}Fufu,{W34} it's{W3} cold{W2} and{W2} deli{W3}cious{W2}{W2}{W3}."
 
 @YUM_GKD_A:94 PLY 18ee4a41
 "Yeah. The soft serve at the cake shop on the corner is great."
@@ -200,10 +200,10 @@ I was so nervous that I can hardly remember what we talked about...
 "It is..."
 
 @YUM_GKD_A:140 YUM 396679b5
-"{V0835}{W6}You{W7} know,{W55} I{W1} love{W1} this{W1} town{W2}{W1}{W1}{W1}{W1}{W1}."
+"{V0835}{W6}You{W7} know,{W55} I{W1} love{W1} this{W1} town{W2}{W1}{W1}{W1}."
 
 @YUM_GKD_A:142 YUM 2c136408
-"{V0836}{W5}When{W4} I{W3} was{W3} in{W3} elementary school,{W26} we{W2} were{W2} going{W2} to{W2} move{W2} to{W2} the{W2} next{W1} town{W1} over,{W1}{W1}{W1}{W1}{W1}{W19} and my parents told me{W2} to{W1}{W1} transfer{W2} schools,{W2}{W1} but..."
+"{V0836}{W5}In{W4} grade{W3} school,{W3}{W3}{W26} we{W2} were{W2} moving{W2} one{W2} town{W2} over{W2}{W2}{W1}{W1}{W1}{W1}{W1}{W1}{W1},{W19} and{W2} my{W1} parents{W1} told{W2} me{W2} to{W1} switch schools{W5}{W3}, but..."
 
 @YUM_GKD_A:143 YUM e0770f0b
 "{V0837}{W5}I didn't{W2} want{W1} to say{W2} goodbye{W1} to this{W1} town,{W2}{W20} so{W3} I{W2} asked{W2} to{W2} keep{W1} commuting{W1} by{W1} train{W1}{W1}{W1}{W1}{W1}."
@@ -215,16 +215,16 @@ I was so nervous that I can hardly remember what we talked about...
 "Why do you love this town so much?"
 
 @YUM_GKD_A:147 YUM 4965299c
-"{V0839}{W7}Because...{W51} I{W2} have{W1} so many{W2} memories{W1} here{W1}{W1}{W1}."
+"{V0839}{W7}Because...{W51} I{W2} have{W1} so many{W2} memories{W1}{W1}{W1} here."
 
 @YUM_GKD_A:148 YUM 86215113
-"{V0840}{W4}The{W3} park{W2} where{W2} I{W2} played{W1} as{W3} a{W1} child,{W1}{W3}{W3}{W17} the{W5} riverbank{W4} where{W4} I{W4} picked{W4} flowers,{W4}{W4}{W41} the department store where I got a stuffed toy..."
+"{V0840}{W4}The park{W3} where{W2} I{W2} played{W2} as{W1} a{W3} kid,{W1}{W1}{W3}{W3}{W17} the{W5} riverbank{W4} where{W4} I{W4} picked{W4} flowers,{W4}{W41} the store with my plush toy..."
 
 @YUM_GKD_A:149 YUM 9a980936
 "{V0841}{W4}They're{W1} all{W1} precious{W3}{W3}{W3}{W3} memories{W2}{W2}{W2}..."
 
 @YUM_GKD_A:150 YUM 9f5ee9cd
-"{V0842}{W3}Being{W2} here{W35} with {Nm} today{W2} will{W65} surely{W33} become{W2} a{W1} memory{W1}{W1}{W1} I{W2} can{W2} never{W2} forget{W2}{W2}{W2}..."
+"{V0842}{W3}Being{W2} here{W35} with {Nm} today{W65} will surely{W33} become{W2} a{W1} memory{W1} I{W1} can{W1} never{W2} forget{W2}{W2}{W2}{W2}{W2}..."
 
 @YUM_GKD_A:151 PLY 3e4097f1
 "Hoshino... Then you'll love this town more and more."
@@ -233,13 +233,13 @@ I was so nervous that I can hardly remember what we talked about...
 "{V0843}{W1}Yes."
 
 @YUM_GKD_A:153 YUM 7436dd0c
-"{V0844}{W3}Born{W1} here{W1}...,{W1}{W1}{W1}{W20} raised{W2} here{W3}...,{W3}{W3}{W3}{W36} meeting{W2} you,{W2} {Nm}{W2}...{W2}{W1}{W1} Watching{W30} the{W3} sunset{W3} together{W3}...{W3}{W2}{W3}{W2}{W48} It{W3} feels{W3} strange{W3}{W2}{W2}{W2}."
+"{V0844}{W3}Born{W1} here{W1}{W1}{W1}{W1}...{W20} raised{W2} here{W3}{W3}{W3}{W3}...{W36} meeting{W2} you,{W2} {Nm}{W2}{W2}{W1}{W1}...{W30} watching{W3} the{W3} sunset{W3} together{W3}{W2}{W3}{W2}...{W48} it{W3} feels{W3} strange{W3}{W2}{W2}."
 
 @YUM_GKD_A:154 PLY a66fa9c2
 "Yeah. I know that feeling."
 
 @YUM_GKD_A:155 YUM d0fc9ec5
-"{V0845}{W4}I'm sorry,{W29} I{W1} got{W1} all{W1} sentimental{W1}{W1}{W1}."
+"{V0845}{W4}I'm sorry,{W29} I{W1} got{W1} all{W1} sentimental."
 
 @YUM_GKD_A:156 PLY c2933da5
 "No, I had fun."
@@ -260,7 +260,7 @@ I was so nervous that I can hardly remember what we talked about...
 "{V0848}{W5}The{W3} sunset{W2} is{W4} beau{W4}ti{W3}ful..."
 
 @YUM_GKD_A:164 YUM 3280b9bd
-"{V0849}{W5}Watching{W2} the sunset{W42} like{W1} this{W1}{W1}{W1}{W2} with {Nm},{W3}{W1}{W1}{W54} I{W2} lose{W1} track{W1} of{W1} time{W1}{W3}{W3}{W1}..."
+"{V0849}{W5}Watching{W2} the sunset{W42} like{W1} this{W1} with{W1} {Nm},{W2}{W3}{W1}{W1}{W54} I{W2} lose{W1} track{W1} of{W1} time{W1}{W3}{W3}{W1}..."
 
 @YUM_GKD_A:165 YUM e69317b0
 "{V0850}{W3}It's{W1} like,{W30} we're{W2} the{W2} only{W2} two{W3} people{W3} in{W2} the{W2} whole{W2} world{W3}{W1}{W1}{W1}.{W1}"
@@ -269,7 +269,7 @@ I was so nervous that I can hardly remember what we talked about...
 "Yeah, it is..."
 
 @YUM_GKD_A:167 YUM 31dbded5
-"{V0851}{W3}If we could stay{W30} like{W1} this{W1} forever{W1}..."
+"{V0851}{W3}If we could stay{W30} like{W1} this{W1} forever..."
 
 @YUM_GKD_A:168 YUM 15d4b4e2
 "{V0852}{W3}Oh,{W42} I'm sorry.{W30} I{W5} got sentimental again."
@@ -347,7 +347,7 @@ I was so nervous that I can hardly remember what we talked about...
 "Then..."
 
 @YUM_GKD_A:195.1 - 48d74e13
-{Ti0}- How about this bear?／- How about this rabbit?／- How about this elephant?／- How about this snake?／- How about this koala?／- How about this wolf?
+{Ti0}- This bear?  - This rabbit?／- This elephant?  - This snake?／- This koala?  - This wolf?
 
 @YUM_GKD_A:196 PLY 4e6b878d
 "How about this bear?"
@@ -464,7 +464,7 @@ I was so nervous that I can hardly remember what we talked about...
 "Sure, why?"
 
 @YUM_GKD_A:235 YUM 16789ddb
-"{V0889}{W10}There's nothing{W2} I{W2} need to buy,{W35} I just thought{W1} I'd{W1} look{W1} around{W4} at all sorts of things."
+"{V0889}{W10}There's nothing{W2} I{W2} need to buy,{W35} I just thought{W1} I'd{W1} look around{W4} at all sorts of things."
 
 @YUM_GKD_A:236 PLY addc4877
 "Sounds good. Let's go."

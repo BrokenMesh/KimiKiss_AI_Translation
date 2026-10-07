@@ -80,7 +80,7 @@
 "What drama did you watch?"
 
 @MAO_FEV:122 MAO 679663f0
-"{V1108}{W10}Childhood friends{W5} meet again{W25} and fall in love, but{W20} {Fe9}they already have lovers,{W20} {Fm3}and then one of them{W10} gets in a car accident..."
+"{V1108}{W10}Childhood friends{W5} reunite{W25} and fall in love, but{W20} {Fe9}both already have partners,{W20} {Fm3}and one{W10} gets in a car accident..."
 
 @MAO_FEV:123 MAO d78a7f12
 "{V1109}{W20}...Wait,{W30} why{W15} am I making a sick person{W15} explain all this?"
@@ -380,7 +380,7 @@ Boy A
 Boy B
 
 @MAO_FEV:244 ETB 12b09e74
-"{V1101}{W10}Senior{W10} Mizu{W10}sa{W10}wa?{W70} No,{W30} who's that?"
+"{V1101}{W10}Senior{W10} Mizusawa?{W10}{W70} No,{W30} who's that?"
 
 @MAO_FEV:245 PLY bc39b613
 (Hm? Gossip about Mao coming from a Year 1 classroom...)
@@ -1640,7 +1640,7 @@ Clunk!
 "Hahaha, that's so like you, Mao."
 
 @MAO_FEV:751 MAO 31453bf1
-"{V1314}{W10}...Actually,{W30} in the window corner{W10} I secretly{W20} carved{W5} Ma{W5}o{W5} there.{W10}{Ec}"
+"{V1314}{W10}...Actually,{W30} in the corner of the window{W10} I secretly{W20} carved{W5} M-a-o{W5} into it.{W10}{Ec}"
 
 @MAO_FEV:752 PLY 025762e0
 "I never noticed. Where is it?"

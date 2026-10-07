@@ -294,7 +294,9 @@ def limit_for(rec, limits, labels=None):
                 'cont_px': CONFIRM_PX, 'scale': 1.0, 'jp_px': 24, 'note': 'no entry in limits.json', 'unknown': True}
     if rec.get('speaker'):
         return dialogue_limit(rec['speaker'], labels)
-    if '.' in rec['id'].split(':', 1)[1]:
+    if '.' in rec['id'].split(':', 1)[1] or (BREAK in rec['text'] and re.match(r'(\{Ti\d\})?・', rec['text'])):
+        # sub-records are choice lists; so is a speakerless bullet list with row breaks (PLY_FEV:599,
+        # the rows of a menu whose last item is appended at run time)
         n = rec['text'].count(BREAK) + 1
         return {'kind': 'choice', 'display': 'TextWindow', 'lines': n, 'choices': n, 'max_px': en_text.LINE_PX,
                 'first_px': en_text.LINE_PX, 'cont_px': en_text.LINE_PX, 'scale': 1.0, 'jp_px': en_text.FULL_PX,

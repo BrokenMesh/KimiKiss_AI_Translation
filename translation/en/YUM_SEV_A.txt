@@ -173,7 +173,7 @@ Hoshino helped me with the parts I didn't understand. She's really smart.
 "Hoshino..."
 
 @YUM_SEV_A:120 PLY 5b106692
-(She does whatever she's asked without a frown, but can't ask for anything herself... She's too considerate, or maybe just too shy.)
+(She does what she's asked without a frown, but can't ask for anything herself... Too considerate, or just shy.)
 
 @YUM_SEV_A:121.1 - 522770cd
 {Ti0}- I'll help you／- You should ask properly／- Good luck
@@ -233,7 +233,7 @@ Huh? Come to think of it, I have PE next too! Eep, I have to change! Dash to the
 "You should ask properly."
 
 @YUM_SEV_A:142 YUM f3214d53
-"{V0146}M-{W45}{Ec}mm...{W65} {Eo}I think so too, but{W45} {Ec}{Ti1}I{W4} j{W4}u{W4}s{W4}t{W4} c{W4}a{W4}n{W4}'t{W4} s{W4}a{W4}y{W4} i{W4}t{W4}..."
+"{V0146}M-{W45}{Ec}mm...{W65} {Eo}I think{W4} so{W4} too,{W4} but{W45} {Ec}{Ti1}I{W4} just{W4} can't{W4} bring{W4} myself{W4} to{W4} say{W4} it{W4}..."
 
 @YUM_SEV_A:143 PLY a2fab1f6
 "Hoshino... you shouldn't hold back with your classmates."
@@ -302,7 +302,7 @@ Huh? Come to think of it, I have PE next too! Eep, I have to change! Dash to the
 "Because?"
 
 @YUM_SEV_A:166 YUM 27f74ca4
-"{V0160}You{W30} have PE{W15} next too, right?{W20} You need to change."
+"{V0160}You{W30} have PE{W15} next too, {Nm}, right?{W20} We need to change."
 
 @YUM_SEV_A:167 PLY feb64603
 "Right! If Hoshino has PE, so do I! Change and head to the Schoolyard!"
@@ -398,7 +398,7 @@ Huh? Come to think of it, I have PE next too! Eep, I have to change! Dash to the
 "Y-yeah."
 
 @YUM_SEV_A:206 AKI 5877a366
-"{V0040}...Still,{W55} {Ec}{W5}{Fe3m7}{Eo}I didn't think Hoshino{W20} was the type to talk to boys... {W55}{Fe4}{Eo}{Ti1}D{W4}i{W4}d {W4}s{W4}o{W4}m{W4}e{W4}t{W4}h{W4}i{W4}n{W4}g {W4}h{W4}a{W4}p{W4}p{W4}e{W4}n{W4}?"
+"{V0040}...Still,{W55} {Ec}{W5}{Fe3m7}{Eo}I didn't think Hoshino{W20} was the type to{W4} talk{W4} to{W4} boys...{W4} {W55}{Fe4}{Eo}{Ti1}Did{W4} something{W4} happen{W4}?"
 
 @YUM_SEV_A:207 PLY 60b34978
 "N-no, nothing really..."
@@ -419,7 +419,7 @@ Huh? Come to think of it, I have PE next too! Eep, I have to change! Dash to the
 "Me? What do you mean?"
 
 @YUM_SEV_A:213 AKI 89b33443
-"{V0044}You've been watching Hoshino a lot too,{W5} haven't you?{W55} {F7}Wanting to talk to her but not being able to...{W35} {Ec}that kind of thing."
+"{V0044}You watched Hoshino a lot too,{W5} didn't you?{W55} {F7}Wanting to talk to her but unable to...{W35} {Ec}Something like that."
 
 @YUM_SEV_A:214 PLY 50d07d4d
 "Ugh... well, that's..."
@@ -713,7 +713,7 @@ Just seeing that look on her face made helping worthwhile.
 "{V0213}......"
 
 @YUM_SEV_A:321 YUM db3cae4f
-"{V0214}Y{W5}ou're jok{W40}ing{W3}, a{W2}re{W2}n't{W2} you?"
+"{V0214}You're{W5} joking,{W40} aren't{W3} you?{W2}{W2}"
 
 @YUM_SEV_A:322 PLY 2d8c900e
 "...Can you tell?"

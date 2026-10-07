@@ -641,7 +641,7 @@
 "Wow, sounds fun."
 
 @ASU_MW1_A:266 ASU 0674d257
-"{V1508}{Ec}Yeah,{W20} it was fun~!{W30} {Eo}I'm fast,{W20} and I've got stamina,{W20} so nobody gets past me easily."
+"{V1508}{Ec}Yeah,{W20} it was fun~!{W30} {Eo}I'm fast, and{W20} I've got stamina, so nobody gets past me easily."
 
 @ASU_MW1_A:267 PLY 3ecc8dd1
 "We did this in PE the other day..."

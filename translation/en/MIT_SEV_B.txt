@@ -68,7 +68,7 @@
 "{V0146}{W10}Raised{W3} to{W3} be{W5} a{W3} perfect{W3} young{W5} lady.{W3} And{W3} then..."
 
 @MIT_SEV_B:87 AKI d09333f4
-"{V0147}{W10}Born in an ordinary{W3} home,{W3}{W18} given an ordinary{W3} education,{W5}{W3}{W18} and raised as a mere{W3} commoner{W3} like{W3} {Nm},{W3}{W20} are you a match?"
+"{V0147}{W10}Born to an ordinary{W3} home,{W3}{W18} with an ordinary{W3} education,{W5}{W3}{W18} a mere{W3} commoner{W3}{W3} like {Nm}{W3}...{W20} is that a match?"
 
 @MIT_SEV_B:88 PLY c3d846ad
 "Ugh... that's a bigger gap than I imagined."

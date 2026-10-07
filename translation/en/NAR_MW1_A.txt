@@ -170,7 +170,7 @@
 "{V1487}{W8}Besides, {W30}even{W6} though I'm{W2} in the Home Ec Club, {W15}I{W2} only{W2} do udon..."
 
 @NAR_MW1_A:113 NAR 9cd016dd
-"{V1488}{W10}Two {W3}friends {W3}and {W3}I {W3}started {W30}an {W3}Udon {W3}Club {W3}inside {W3}the Home Ec Club!"
+"{V1488}{W10}Two{W3} friends{W3} and{W3} I{W3} started{W30} an{W3} Udon{W2} Club{W2}{W15} inside{W3} the{W2} Home{W2} Ec Club!{W3}"
 
 @NAR_MW1_A:114 PLY 245fbfa9
 "What does the Udon Club do?"
@@ -233,7 +233,7 @@
 "What do you think of our girls' uniform?"
 
 @NAR_MW1_A:136 NAR 6378e0eb
-"{V1500}{W5}I think {W3}it's {W3}really cute, {W12}and nice~"
+"{V1500}{W5}It's really{W3} cute,{W12} and I think{W2} it's nice~"
 
 @NAR_MW1_A:137 PLY 19db841e
 "Narumi, the uniform looks good on you."
@@ -368,7 +368,7 @@
 "{V1526}......"
 
 @NAR_MW1_A:184 NAR 35d0df03
-"{V1527}{W15}Senpai, {W6}{W6}{W42}please {W3}don't {W3}talk {W9}about {W20}such sad things."
+"{V1527}{W15}Senpai,{W6}{W6}{W42} please{W3} don't{W9} talk{W20} about such{W1} sad{W1} things{W2}.{W1}"
 
 @NAR_MW1_A:185 PLY e50225f5
 "Right... sorry."
@@ -677,7 +677,7 @@
 "{V1586}{W10}{W1}{W1}Really?{W15} {F3}What kind of song{W5} is it?{W1}"
 
 @NAR_MW1_A:292 PLY 8e73da8e
-"It's an upbeat one, and the chorus goes something like, 'At the end of the world~! Let's shout our love~!' or whatever..."
+"Upbeat, and the chorus goes, 'At the end of the world~! Let's shout our love~!' or whatever..."
 
 @NAR_MW1_A:293 NAR dc94af3d
 "{V1587}{W5}Oh,{W30} I know{W5} that song!{W30} {Ec}It's so{W3}{W1}{W1}{W1} cool, isn't it~"
@@ -695,7 +695,7 @@
 "{V1590}{W5}Yes, yes! Exactly!{W1}{W1}{W1}"
 
 @NAR_MW1_A:298 NAR 0a22ed78
-"{V1591}{W8}{W1}{W1}{W1}Ehehe,{W15} {Nm}{W3}{W3}{W3}, I'm so glad you understand idols{W4}{W1}{W1}{W1}~"
+"{V1591}{W8}Ehehe,{W1}{W1}{W1}{W15} {Nm},{W3} I'm{W3} so{W3} glad you understand idols{W4}{W1}{W1}~"
 
 @NAR_MW1_A:299 PLY 40508f6e
 "Narumi, what TV shows do you watch?"
@@ -740,7 +740,7 @@
 "{V1599}......"
 
 @NAR_MW1_A:316 NAR 1528e428
-"{V1600}{W10}{W5}{W3}{W1}{W1}{W1}{W1}{W1}{W1}Really?{W30} {F3}That's{W1}{W3}{W1}{W1}{W2}{W2}{W2} surprising~"
+"{V1600}{W10}Oh{W5} really{W3}?{W1}{W1}{W1}{W1}{W1}{W30} {F3}That's{W1} really{W3} quite{W1} surprising{W2}{W1}{W2}{W2}~"
 
 @NAR_MW1_A:317 PLY 071d7f33
 "Narumi, do you read books or anything?"
@@ -809,7 +809,7 @@
 "{V1616}Huh?{W45} {W3}{W3}{W3}10,000{W66} yen?!{F7} {W5}{W5}{W3}{W1}Let's see..."
 
 @NAR_MW1_A:340 NAR fb8c47a1
-"{V1617}{W8}{W1}{W1}{W1}{W1}{W1}{W6}{W6}{W1}{W1}{W1}{W1}{W1}{W1}{W6}{W1}{W1}{W1}Buy all the girls' comics I haven't bought yet?{W15} {F6}No,{W15} {W1}{W1}{W1}{W1}{W1}{W6}{W6}{W6}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W6}{W1}{W3}{W5}{W5}better to buy all the dango from the wagashi shop on the shopping street..."
+"{V1617}{W8}Buy{W1} all{W1} my{W1} missing{W1} shoujo{W6} manga{W6}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W6}?{W15} {F6}Nope,{W15} I'd{W3} buy{W5} all{W5} the{W1} dango{W1} at{W1} the{W6} shopping{W6} street{W1} sweet{W1} shop{W1}{W1}{W1}{W1}{W1}{W1}{W6}{W6}...{W1}"
 
 @NAR_MW1_A:341 NAR f31de8c9
 "{V1618}{W15}{W5}{W3}Don't be silly,{W13} {W2}{W2}{W4}Narumi...{W18} {Ec}you could never eat{W1}{W1}{W1}{W1} that much{W5}{W6}{W1}{W2}{W3}...{W36} {Eo}{F7}So{W1}{W1} then,{W12} {W1}{W1}{W1}{W1}{W1}what should I do..."
@@ -878,7 +878,7 @@
 "{V1629}{W5}{W6}I don't{W5} care{W4}{W4} at all."
 
 @NAR_MW1_A:363 NAR aaf43198
-"{V1630}{W5}Oh,{W15} but{W5} if I'm going to wear something,{W15} {W1}{W1}{W1}{W1}{W3}{W1}{W1}{W1}{W1}{W1}{W1}cute is better~"
+"{V1630}{W5}Oh,{W15} but{W5} if I'm going to wear{W1} something,{W15} cute{W1} is{W1} better{W3},{W1} don't{W1} you{W1} think{W1}~{W1}"
 
 @NAR_MW1_A:364 PLY 339baba1
 "You know how you can have a closet full of clothes and still always pick the same thing?"
@@ -887,7 +887,7 @@
 "{V1632}{W5}Oh,{W18} I do!{W1} I do!"
 
 @NAR_MW1_A:367 NAR bd233cd5
-"{V1633}{W10}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W5}{W1}{W1}Even if I agonize over what to wear,{W30} {F9}{W3}{W3}in the end,{W30} {W1}{W1}{W1}{W1}{W1}{W3}I{W3} always grab{W1} my favorite{W1} one,{W1}~"
+"{V1633}{W10}Even{W1} if{W1} I{W1} agonize{W1} over{W1} what{W1} to{W1} wear{W5}{W1}{W1},{W30} {F9}in{W3} the{W3} end,{W30} I{W1} always{W1} grab{W1}{W1} my{W1} favorite{W3} one{W1}{W1}~"
 
 @NAR_MW1_A:368 PLY f31355c2
 "They said on TV the other day that this year's fashion is..."
@@ -920,7 +920,7 @@
 "{V1639}......"
 
 @NAR_MW1_A:379 NAR 8d491740
-"{V1640}{W5}Hehe,{W30} right. {W24}Guys{W8} just{W5} wouldn't{W15} get it, would they~?"
+"{V1640}{W5}Hehe,{W30} right.{W24} Guys{W8} just{W5} wouldn't{W15} {F9}get{W1} it,{W1} would{W1} they{W1}~"
 
 @NAR_MW1_A:380 PLY 68a11f71
 "You don't wear makeup, do you, Narumi?"
@@ -1127,7 +1127,7 @@
 "I see... He's a strict grandpa..."
 
 @NAR_MW1_A:456 NAR 84bbc459
-"{V1684}{W8}No.{W30} I just have to try harder and harder,{W15} and make food he can honestly call delicious!{Ec}"
+"{V1684}{W8}No.{W30} I{W6} just have to try harder and harder,{W15} and{W8} {Fe2}{Ec}make{W4} food{W3} he can honestly{W4} call delicious!"
 
 @NAR_MW1_A:457 PLY 93d9bf69
 "You like cooking, don't you, Narumi?"
@@ -1184,7 +1184,7 @@
 "Stepped on udon?"
 
 @NAR_MW1_A:478 NAR 9a884583
-"{V1698}{W5}Oh,{W15} to give Sanuki udon its chewiness,{W26} {F3}you knead the dough, {W10}cover it with a vinyl sheet,{W20} {F2}and tread on it with your feet."
+"{V1698}{W5}Oh,{W15} to make{W3} Sanuki{W1} udon{W1} chewy,{W1}{W1}{W26} you{W3} {F3}knead it,{W10} cover it with vinyl,{W20} {F2}and stomp{W3} on it."
 
 @NAR_MW1_A:479 NAR 14c06190
 "{V1699}{W5}I{W9} don't{W1} really{W1} remember,{P1} {F9}{W33}but{W1} I{W1} think{W1} I{W1} just{W24} wanted{W1} to{W1} play{W1} with{W1} Grandpa.{W1}{W4}{W3}{W3}{W2}"
@@ -1241,7 +1241,7 @@
 "{V1709}{W5}Yes!"
 
 @NAR_MW1_A:499 NAR 17c51eea
-"{V1710}{W5}It's called kamatama.{W30} {F7}You put freshly made udon{W1} straight from the pot into a bowl,{W15} and mix in egg and soy sauce.{W21} {F2}That's how you eat it."
+"{V1710}{W5}It's{W5} called{W3} kamatama{W3}{W5}:{W30} {F7}fresh{W1} udon{W1} straight{W1} from{W1} the{W1} pot{W1}{W1}{W1}{W15} into{W5} a{W1}{W1} bowl{W4}{W4}{W1}{W1}{W21} {F2}mixed{W6} with{W2} egg{W3} and{W3} soy{W1} sauce{W3}{W1}{W1}."
 
 @NAR_MW1_A:500 PLY d7d652a2
 "Wow, that sounds good."
@@ -1523,7 +1523,7 @@
 "{V1763}{W8}Everyone makes yummy food{W3} and eats it together...{W30} {Ec}There's no{W4} better{W3} class{W3} than{W15} that."
 
 @NAR_MW1_A:617 NAR 69521812
-"{V1764}{W8}Lately{W4}{W30} the{W1} girls{W1} in{W1} my{W1}{W1} class{W1} are{W1} into{W15} playing explorers."
+"{V1764}{W8}Lately{W4}{W4}{W30} the{W1} girls{W1} in{W1} my{1}{W1} class{W1} are{W1} really{W1}{W3}{W1} into{W15} playing{W3} explorer{W3} games{W1}{W1}."
 
 @NAR_MW1_A:618 PLY 3c276d94
 "Playing explorers?"
@@ -1694,7 +1694,7 @@
 "{V1804}{W5}Yes,{W1} yes!{W24} {Ec}I{W9} thought{W1} so{W1} too!{W3}"
 
 @NAR_MW1_A:692 NAR 45688625
-"{V1805}{W8}The{W1} other{W9} day,{W30} I{W1} tried{W3} to{W3} put{W1} back{W1} a{W1} book{W3} I{W1} read{W3} in{W3} the{W1} Library{W3} anywhere,{W30} and {F7}a Library{W3} Committee{W3} member{W3} scolded{W30} me{W3} to{W8} put it{F9} back{W2} where it belongs."
+"{V1805}{W8}Recently{W1}{W1}{W9},{W30} I{W1} shelved{W3} a{W1} book{W1}{W3} anywhere{W1}{W3}{W1}{W3}{W1}{W3}{W3}{W1}{W1}{W1}{W1}{W1}{W1}{W30} {F7}and a Library{W3} Committee{W3} member{W3} told me,{W30} to{W3} put{W3} it{W3} back{W3} where{W8} {F9}it belongs{W2}."
 
 @NAR_MW1_A:693 PLY db135d68
 "Can't be helped. If books get put back randomly, it's hard on the committee members who sort them."
@@ -1868,7 +1868,7 @@
 "A highlighter and a plastic sheet?"
 
 @NAR_MW1_A:764 NAR 34474ae0
-"{V1841}{W8}You know,{W30} you highlight the words{W5} and{W1} put{W1} the sheet{W15} over them,{W3} and{W1} they{W1} disappear.{F3} There's{W1} that kind of sheet, right?"
+"{V1841}{W8}You know,{W30} that{W5} thing{W5} where{W5} you{W1} underline{W1} words{W1} and{W1}{W15} cover{W3} them{W1} with{W1} a{W1} sheet{W1}{W1}{W1}{W1}{W15} {F3}and{W1} it{W1} disappears{W1}{W1}{W1}{W1}?"
 
 @NAR_MW1_A:765 PLY 9e92af69
 "Oh yeah, they sell those."
@@ -1889,7 +1889,7 @@
 "{V1845}{W5}Senpai!{W30} I{W3} did{W3} surprisingly{W3} well{W15} on{W3} the{W3} tests{W3} after{W3} summer vacation!"
 
 @NAR_MW1_A:774 NAR fdd7979b
-"{V1846}{W8}My{W3} guesses{W3} hit so well,{W3} it surprised even me!"
+"{V1846}{W8}My{W3} guesses{W3} hit so well, it surprised even me!"
 
 @NAR_MW1_A:775 NAR cd2f0937
 "{V1847}{W8}An{W1} answer{W3} sheet{W3} full{W3} of{W3} circles{W1} is{W8} {Ec}such{W1} a{W1} joy,{W1} isn't{W2} it~!{W1}{W1}"
@@ -1958,7 +1958,7 @@
 "Lately it's mostly basketball."
 
 @NAR_MW1_A:805 NAR 5be6d695
-"{V1862}{W8}Is{W2} that{W2} so~.{W45} {Ec}Boys'{W3} basketball{W3} is so cool, isn't it~"
+"{V1862}{W8}Is{W2} that{W2} right{W2}{W2}{W2}{W2}~.{W45} {Ec}Boys'{W3} basketball{W2} is{W2} so{W1} cool,{W1} isn't{W1} it{W1}~"
 
 @NAR_MW1_A:806 PLY 2a16b2f5
 "You think?"

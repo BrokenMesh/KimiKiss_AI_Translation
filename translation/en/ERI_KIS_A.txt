@@ -197,7 +197,7 @@
 "{V0362}{W18}The{W1} other{W1} day,{W23} I forced{W3} an{W3} experiment{W1} on{W1} you,{W28} {Ec}so{W1} I{W1} thought{W5} you would not talk{W4} to me anymore..."
 
 @ERI_KIS_A:144 ERI 75463243
-"{V0363}{W15}{Nm}{W3}, you{W4} did not change,{W34} {Fm3}so I thought you wanted another experiment."
+"{V0363}{W15}{Nm}{W3}, you{W4} did not change,{W34} {Fm3}so I thought you{W3} wanted{W3} another{W4} experiment."
 
 @ERI_KIS_A:145 PLY 68b4a4a8
 "Ugh... an experiment is... an experiment. You're a bit strange, Futami, but that doesn't mean I..."
@@ -254,7 +254,7 @@
 "S-sure."
 
 @ERI_KIS_A:164 ERI 1678e930
-"{V0374}{W12}This time it is {Nm}{W3}'s turn.{W52} {Ec}I{W8} will not move{W4},{W40} {Fe8}{Fm3}{Eo}so do as you like{W2}."
+"{V0374}{W12}This{W4} time it is {Nm}{W3}'s turn.{W52} {Ec}I{W8} will not move,{W4}{W40} {Fe8}{Fm3}{Eo}so do as you like, {Nm}{W2}.{W3}"
 
 @ERI_KIS_A:165 PLY 9d492cbe
 "What?!"
@@ -377,7 +377,7 @@ Even if I got hurt, I would not hurt her... When I resolved that, I let her go w
 "I see..."
 
 @ERI_KIS_A:222 ERI 995092eb
-"{V0393}{W12}It is suspended until{W4} {Nm}{W3} feels like it.{W63} {Ec}I{W8} am not satisfied with that,{W12} though."
+"{V0393}{W12}It is suspended until{W4} {Nm}{W3} feels like it.{W63} {Ec}I{W8} am{W8} not satisfied with that,{W12} though."
 
 @ERI_KIS_A:223 ERI 50dfb0f7
 "{V0394}{W15}See you, {Nm}."
@@ -425,7 +425,7 @@ Even if I got hurt, I would not hurt her... When I resolved that, I let her go w
 "{V0401}{W12}{Nm}...{W15} that is not it."
 
 @ERI_KIS_A:239 ERI 5462aff0
-"{V0402}{W15}I have always been alone,{W53} so{W57} I do not know whether {Nm}{W3} is{W3} a friend{W4} or{W4} not{W1}{W1}...{W18}"
+"{V0402}{W15}I have always been alone,{W53} so{W57} I do not{W3} know whether {Nm}{W3} is{W3} a friend{W4} or{W4} not{W1}{W1}...{W18}"
 
 @ERI_KIS_A:240 ERI 4534e4a7
 "{V0403}{W15}I want to know.{W30} What do people{W30} call{W4} a friend?"

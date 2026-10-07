@@ -191,7 +191,7 @@
 "Well... if you get along when you talk, share hobbies, and are together a lot, I think that counts..."
 
 @ERI_KIS_B:136 ERI 3c454640
-"{V0532}{W15}I see...{W75} I don't know{W8} anything{W60} about {Nm}'s{W3} hobbies,{W39} {Ec}and I can't tell if we'd{W4} get along when we talk."
+"{V0532}{W15}I see...{W75} I don't know{W8} anything{W60} about {Nm}'s{W3} hobbies,{W39} {Ec}and I{W8} can't tell if we'd{W4} get along when we talk."
 
 @ERI_KIS_B:137 PLY a9bebc32
 "Right..."

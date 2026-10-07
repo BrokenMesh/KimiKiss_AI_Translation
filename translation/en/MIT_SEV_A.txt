@@ -242,7 +242,7 @@ a girl
 "What about you, Shijou?"
 
 @MIT_SEV_A:171 MIT a09168d3
-"{V0058}{W10}I{W6} saw you,{W3} {Nm},{W35} heading to the rooftop,{W10} so{W5}{W20} I followed you."
+"{V0058}{W10}I{W6} saw you,{W3} {Nm},{W35} heading to{W5} the rooftop,{W10} so{W5}{W20} I followed you."
 
 @MIT_SEV_A:172 PLY e43f389d
 "I see."

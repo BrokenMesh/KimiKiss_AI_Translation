@@ -161,10 +161,10 @@
 "Once you graduate, Mao, we won't get to see each other much..."
 
 @MAO_MW3_A:78 MAO 670aaa2f
-"{V2622}{W8}{Sp}What{W7}{W4}{W4}{W4}{W4}{W4}{W4} are you talking about?{W36} Our houses{W7}{W3}{W3}{W3}{W6}{W3}{W7}{W2}{W2}{W2}{W2} are right next door,{W15} {Fe4m9}{W1}so we can{W1} meet any time."
+"{V2622}{W8}{Sp}What{W7}{W4}{W4}{W4}{W4}{W4}{W4} are you talking about?{W36} Our houses{W7}{W3}{W3}{W3}{W6}{W3}{W7}{W2}{W2}{W2}{W2} are right next{W2} door,{W15} {Fe4m9}{W1}so we can{W1} meet any time."
 
 @MAO_MW3_A:79 MAO 121fb9c5
-"{V2623}{W8}{W4}{W4}{W1}{W1}{W1}{W1}{W1}{W1}{W5}{W1}{W1}{W1}{W1}{W1}Seeing each other at school isn't everything, right?{W45} {Fe4}{W4}{W4}{W5}{W1}{W2}{W2}{W2}{W2}{W2}{W1}{W1}We can meet up after school,{W15} {Fe3}{Ec}{W1}{W2}{W1}{W1}and have tea."
+"{V2623}{W8}{W4}{W4}{W1}{W1}{W1}{W1}{W1}{W1}{W5}{W1}{W1}{W1}{W1}{W1}Seeing each other at school isn't everything, right?{W45} {Fe4}{W4}{W4}{W5}{W1}{W2}{W2}{W2}{W2}{W2}{W1}{W1}We can meet up after school,{W15} {Fe3}{Ec}{W1}{W2}{W1}{W1}and{W1} have tea."
 
 @MAO_MW3_A:80 MAO b31b8b03
 "{V2624}{W8}After{W4} I{W4} graduate{W4} high{W4} school,{W15} I'm planning{W7} to get my driver's{W3} license{W2} right away~"
@@ -263,7 +263,7 @@
 "{V2642}{W8}Don't{W4} be so formal.{W43} {Fe3}I{W9} had{W3} {Ec}fun{W5} too."
 
 @MAO_MW3_A:116 MAO fb6e2002
-"{Nn}, {V2643}{W8}{W1}{W1}{W1}{W1}{W1}thank you.{W45} {Fe4}{Nn}{W5}{W1}{W1}{W1}{W1}{W1}, thanks to you,{W30} {W4}{W4}I can {Fe3}{Ec}{W1}{W1}{W1}study again."
+"{Nn}, {V2643}{W8}{W1}{W1}{W1}{W1}{W1}thank you.{W45} {Fe4}{Nn}{W5}{W1}{W1}{W1}{W1}, thanks to you,{W30} {W4}{W4}I can {Fe3}{Ec}{W1}{W1}{W1}study again."
 
 @MAO_MW3_A:117 PLY b65f7bee
 "No, that's because you worked hard, Mao. I only helped a little..."

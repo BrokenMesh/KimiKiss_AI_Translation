@@ -116,7 +116,7 @@
 "{V0078}{W5}Ah...{W70}{Ec}{W5}{Fe9m3}{Eo} I-{W17}I'm sorry."
 
 @NAR_SEV_A:112 NAR 53f35914
-"{V0079}{W8}You were there,{W4}{W3}{W3} Senpai,{W8}{Fe3} and I was just so happy..."
+"{V0079}{W8}You were there,{W3}{W3} Senpai,{W8}{Fe3} and I was just so happy..."
 
 @NAR_SEV_A:114 NAR 0dccb19d
 "{V0080}{W8}Ehehe,{W44}{Fe9}{Eo} I'll be careful{W13} from now on."
@@ -161,7 +161,7 @@
 (Ugh... you can't just ask me that... how do I answer?)
 
 @NAR_SEV_A:129.1 - ebe99f19
-{Ti0}- I think they're cute／- I prefer older girls, if anything.../- Age doesn't matter to me
+{Ti0}- I-I think they're cute／- I prefer older girls／- Age doesn't matter
 
 @NAR_SEV_A:130 PLY 395c8cb3
 "W-well... I think they're cute."
@@ -287,7 +287,7 @@ Cafeteria lady
 "Hahaha, you're right."
 
 @NAR_SEV_A:177 NAR 67032ce4
-"{V0104}{W8}But if I eat{W3} two{W6} of{W2} them,{W2}{W2}{W2}{W2}{W30} I'll{W3} get{W2} so{W1} full..."
+"{V0104}{W8}But if I eat{W3} two{W6} of{W2} them{W2} all{W2} at{W2} once,{W30} I'll get{W3} so{W2} full{W1}..."
 
 @NAR_SEV_A:178 PLY c0ed5ed3
 "There's lots of other tempura on it, too. Maybe it's too much for a girl?"
@@ -305,7 +305,7 @@ Cafeteria lady
 "Really? Lucky!"
 
 @NAR_SEV_A:183 NAR b743369c
-"{V0107}{W8}Yes!{Ti0} {Ti2}{W15}{Nm}{W3}{W4}, {W30}say{W2} aah{W2}{W2}{W2}!"
+"{V0107}{W8}Yes!{Ti0} {Ti2}{W15}{Nm}{W3}{W4}, {W30}say{W2} aah{W2}{W2}!"
 
 @NAR_SEV_A:184 PLY 028e8cc8
 "N-Narumi, that's a little..."
@@ -320,7 +320,7 @@ Cafeteria lady
 "{V0109}{W5}It's{W9} how I{W4} feel.{W21} Please{W2} eat it."
 
 @NAR_SEV_A:189.1 - e0765193
-{Ti0}- W-well, then.../- Even if you say that...
+{Ti0}- W-well, then...／- Even if you say that...
 
 @NAR_SEV_A:190 PLY 85e31048
 "W-well, then..."
@@ -392,16 +392,16 @@ Munch munch...
 "Weren't you hot, standing out here?"
 
 @NAR_SEV_A:213 NAR 82e91c3e
-"{V0118}{W12}If I can go{W4}{W4} with{W2} you,{W3}{W5}{W2}{W2}{W2}{W2}{W2}{W2} {W15}{Eo}this is nothing!"
+"{V0118}{W12}If{W4} I{W4} can{W2} really{W3} go{W5} along{W2} with{W2} you{W2} to{W2} any{W2} place,{W15} {Eo}this is nothing!"
 
 @NAR_SEV_A:214 NAR 7b7b1f30
-"{V0119}{W8}We're in different{W3} years{W3} and{W3} classes{W1}{W1}{W1}{W1}{W1},{W25} {Ec}{W5}{F9}{Eo}so we can't{W1} see{W1} each{W1} other{W1} whenever{W1} we{W1} want{W4}{W1},{W45} {Ec}and I want to be with you, even a little..."
+"{V0119}{W8}We're{W1} in{W1} different{W3} years{W3} and{W3} classes,{W1} so{W1}{W3}{W25} {Ec}{W5}{F9}{Eo}we{W1} can't{W1} always{W1} get{W1} to{W1} see{W1} you,{W1}{W4}{W1}{W45} {Ec}and I want{W3} to be{W2} with you{W4} a bit longer..."
 
 @NAR_SEV_A:215 PLY 65928068
 "Narumi..."
 
 @NAR_SEV_A:216 NAR 37dbcf26
-"{V0120}{W8}I wish I'd been born{W4} a year{W6} earlier{W5}{W1}{W1}{W1}{W1},{W30} {Ec}so I could be in your class,{W4} {W30}{F9}{Eo}Senpai, and{W4} take lessons{W2} with you{W3}."
+"{V0120}{W8}I wish{W4} I'd been born{W6} a year{W5} earlier{W1}{W1}{W1}{W1} and{W30} {Ec}been in {Nm}'s{W4}{W4}{W4} class,{W30} {F9}{Eo}taking{W4} lessons{W2} together{W3}."
 
 @NAR_SEV_A:217 NAR 21021898
 "{V0121}{W8}Then,{W33} {Ec}{E}{m7}I could be with{W3} you{W8} {Fm3}forever{W3}{W3}..."
@@ -434,7 +434,7 @@ Munch munch...
 (...But I feel like it's less that she likes me and more that she's in love with being in love...)
 
 @NAR_SEV_A:228 NAR db6280c3
-"{V0123}{W8}Ah, {Nm}{W3}{W3}! {Ti2}{W19}So this is where you were!"
+"{V0123}{W8}Ah, {Nm}{W3}! {Ti2}{W19}So this is where you were!"
 
 @NAR_SEV_A:229 PLY 728fe095
 "Oh, Narumi..."
@@ -497,7 +497,7 @@ Munch munch...
 "{V0133}{W8}Ta-{W5}{W3}daa!!"
 
 @NAR_SEV_A:252 NAR 52dbf01d
-"{V0134}{W8}Look!{W25} I put{W3} five{W3} of your favorite shrimp tempura{W2}{W15} on top~!"
+"{V0134}{W8}Look! {Ti2}{W25}I put{W3} five{W3} of your{W2} favorite shrimp tempura{W3}{W15} on top~!"
 
 @NAR_SEV_A:253 NAR db551c00
 "{V0135}{W8}I call it{W30} the Special{W4} Extra-Big{W4} Shrimp Tempura Udon!"
@@ -512,7 +512,7 @@ Munch munch...
 "I-I see."
 
 @NAR_SEV_A:257 NAR fb594f7e
-"{V0137}{W8}Come on!{W16} Let's eat together!"
+"{V0137}{W8}Come on! {Ti2}{W16}Let's eat together!"
 
 @NAR_SEV_A:258 PLY a1076a3b
 "Ugh... Narumi, I appreciate the thought, but..."
@@ -566,7 +566,7 @@ Munch munch...
 (Sorry, Narumi...)
 
 @NAR_SEV_A:278 NAR 8442d0e8
-"{V0146}{W8}Ah!{W15} {Nm}!"
+"{V0146}{W8}Ah! {Ti2}{W15}{Nm}!"
 
 @NAR_SEV_A:279 PLY d940c53e
 (Here she comes! She's coming! She'll jump on me! I have to brace myself!)
@@ -575,7 +575,7 @@ Munch munch...
 (Okay! Bring it on!)
 
 @NAR_SEV_A:285 NAR d0092ce3
-"{V0147}{W12}Sen{W4}{W6}paaa{W2}{W2}{W2}{W2}{W2}ai!"
+"{V0147}{W12}Sen{W4}pa{W6}aaa{W2}a{W2}a{W2}a{W2}ai!"
 
 @NAR_SEV_A:286 PLY 8e12934c
 "Oof! Honestly, you never slow down, do you, Narumi?"

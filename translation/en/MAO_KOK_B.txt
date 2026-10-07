@@ -272,7 +272,7 @@
 "{Nn},{V1476} I'm so happy...{W125}{Eo} I never{W33} thought you'd say that to me..."
 
 @MAO_KOK_B:195 MAO e47db55c
-"{V1477}{Br40t120}I was{W70} scared. {W70}I couldn't tell{W63} if the one {Nn} loves{W5} is the me of now,{W75}{Fm4} or the me of the past..."
+"{V1477}{Br40t120}I was{W70} scared. {W70}I couldn't tell{W63} if the one {Nn} loves{W5} is the me of now,{W75}{Fm4} or the{W5} me of the past..."
 
 @MAO_KOK_B:196 MAO 9035d5f0
 "{V1478}{Br0t90}I thought,{W60} what if I{W5} went back{W10} to how I used to look,{W70} and {Nn}{W10} hated me..."

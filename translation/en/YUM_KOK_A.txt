@@ -8,7 +8,7 @@
 Some were shocked, some were sad, some cried... Everyone reacted differently, but
 
 @YUM_KOK_A:27 SYS 38003c1e
-they understood how Hoshino felt, having been unable to say it until the very last moment, so they didn't make a fuss and decided to see her off quietly.
+Sensing how Hoshino felt, unable to speak up until the last moment, they saw her off quietly without a fuss.
 
 @YUM_KOK_A:28 SYS 771f53a4
 ...Even so, the circle of people sad to see her go never left her side, and the two of us could no longer walk around the school festival together.
@@ -53,7 +53,7 @@ I spent the school festival alone, and in the evening I arranged to meet Hoshino
 "{V1388}{W4}Mm."
 
 @YUM_KOK_A:60 YUM 9479cb00
-"{V1389}{W12}Come to think of it,{W33} this is the place{W14} where{W2} {Fe4}you and I{W1} became{W1} friends,{W1} {Nm}.{W1}{W1}{W3}{W3}{W1}{W1}"
+"{V1389}{W12}Come to think of it,{W33} this is the place{W14} {Fe4}where{W1} {Nm}{W1} and{W2} I{W1} became{W1} friends,{W1} you{W1} know{W2}.{W3}{W3}"
 
 @YUM_KOK_A:61 PLY 1c09344f
 "I was just thinking about that, too."
@@ -71,7 +71,7 @@ I spent the school festival alone, and in the evening I arranged to meet Hoshino
 "Yeah, go ahead and sit..."
 
 @YUM_KOK_A:70 YUM b3001d9f
-"{V1392}{W9}Fufu,{W74} may I help{W1} you{W1} with{W1} something{W16} in the{W2} library?{W2}{W2}{W1}{W2}{W1}"
+"{V1392}{W9}Fufu,{W74} may{W1} I{W1} help{W1} you{W16} with{W2} something{W2} in{W1} the{W2} library?{W1}"
 
 @YUM_KOK_A:71 PLY 6354666c
 "No... I came to meet someone..."
@@ -92,7 +92,7 @@ I spent the school festival alone, and in the evening I arranged to meet Hoshino
 "Yeah..."
 
 @YUM_KOK_A:78 YUM 9480ff95
-"{V1396}{W7}I{W1} won't{W1} be{W1} sitting{W2} here{W2} anymore,{W2}{W2} {W25}will{W3} I...{W3}{W2}{W2}{W2}{W2}"
+"{V1396}{W7}I{W1} won't{W1} be{W1} sitting{W2} here{W2} anymore{W2} either,{W25} will{W3} I{W3}...{W2}{W2}{W2}{W2}"
 
 @YUM_KOK_A:79 PLY 5128afa1
 "Hoshino..."
@@ -161,7 +161,7 @@ I spent the school festival alone, and in the evening I arranged to meet Hoshino
 "{V1408}{W8}That{W3} person{W3} has{W4} been{W35} in{W3} my{W3} class{W2} since{W3} Year{W3} 1,{W3} but{W2}{W2}{W2}{W2}{W2}{W2} {W45}they{W1} hardly{W1} ever{W2} spoke{W2} to{W1} me...{W1}{W1}{W1}{W1}{W1}{W2}{W1}{W1}"
 
 @YUM_KOK_A:110 YUM 4d42d1f3
-"{V1409}{W8}Even when our eyes met{W27} now{W1} and{W1} then,{W1} they{W1} looked{W1} down...{W63} {Fe6}I{W2} thought{W1} maybe{W2} they{W1} disliked{W1} me.{W2}{W1}{W13}{W1}{W3}{W2}{W2}"
+"{V1409}{W8}Even when our eyes met,{W27} they{W1} looked{W1} down{W1} shyly...{W1}{W63} {Fe6}I{W2} thought{W1} maybe{W2} you{W1} disliked{W1} me{W2}{W1}{W13} or something,{W1}{W3} I{W2} guess{W2}"
 
 @YUM_KOK_A:111 PLY 0d80b9d5
 "......"
@@ -224,7 +224,7 @@ I spent the school festival alone, and in the evening I arranged to meet Hoshino
 "{V1421}{W4}I{W100} didn't{W1} know{W1} what{W2} to{W2} do...{W1}{W1}"
 
 @YUM_KOK_A:131 YUM b5785d98
-"{V1422}{W4}I{W2}...{W72} decided{W1} to do{W3} what{W2} you{W2} wanted,{W2}{W2}{W2}{W2}{W1} {Nm}.{W65} {Eo}And if{W1} you didn't want it,{W23} to{W1} give{W1} up...{W1}{W1}"
+"{V1422}{W4}I{W2}...{W72} decided{W1} to{W2} do{W3} whatever{W2} {Nm}{W1} wanted,{W2}{W2}{W2}{W2}{W2}{W2}{W1}{W65} {Eo}And if {Nm}{W1} didn't want it,{W23} to{W1} give{W1} up{W1}...{W1}{W1}"
 
 @YUM_KOK_A:132 PLY c14253cf
 "So that's how it was..."

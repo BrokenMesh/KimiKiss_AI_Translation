@@ -38,13 +38,13 @@
 "Oh, wow."
 
 @YUM_GKD_B:59 YUM a32cd961
-"{V0898}{W3}They{W3} write{W3} about{W2} being{W17} confused{W4} by{W4} differences{W4} in{W4} culture{W4} and{W4} daily{W3} life,{W4}{W3}{W4}{W3}{W3} or{W17} things that surprised them,{W9} and{W2} it's{W1} told{W1} so{W1} fun{W1}ni{W1}ly{W1}{W1}{W1}{W1}{W18} that{W2} it's{W2} really{W2} enjoyable{W3}.{W2}{W2}"
+"{V0898}{W3}Being confused{W3} by{W3} differences{W2} in{W17} culture{W4} and{W4} daily{W4} life,{W4}{W4}{W4}{W3}{W4}{W3}{W4}{W3}{W3}{W17} or surprised,{W9} it{W2} all{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1} adds up,{W18} and{W2} it's{W2} really{W2} so{W3} much{W2} fun{W2}."
 
 @YUM_GKD_B:60 PLY cea4ce60
 "I see. It sounds interesting."
 
 @YUM_GKD_B:61 YUM 635f2e7c
-"{V0899}{W4}Oh,{W32} {F3}this book{W2} is good too.{W35} It won{W1} this{W2} year's{W1} Mystery{W2} Grand{W2} Prize{W1}...{W2}{W2}{W1}{W2}{W2}{W1}{W1}{W2}"
+"{V0899}{W4}Oh,{W32} {F3}this book{W2} is good too.{W35} It's the{W1} book{W2} that{W1} won{W2} this{W2} year's{W1} Mystery{W2} Grand{W2} Prize{W1}...{W1}{W2}"
 
 @YUM_GKD_B:62 PLY 9a23fdf6
 (Hoshino really loves books...)
@@ -80,7 +80,7 @@
 "Then maybe we played together when we were little."
 
 @YUM_GKD_B:76 YUM 4fa80330
-"{V0904}{W7}Yes.{W42} ...If{W1} so,{W1}{W1}{W32} I'd be happy."
+"{V0904}{W7}Yes.{W42} ...If{W1} so,{W1} I'd be{W32} happy."
 
 @YUM_GKD_B:77 PLY 9d710fd3
 "Huh? Kids are gathering over there... What's going on?"
@@ -209,7 +209,7 @@ Children
 "{V0925}{W3}The{W2} ogre{W20} loved{W1} cur{W1}ry{W1} rice{W1} with{W1} all{W5} his{W5} heart{W6}~,{W2}{W2}{W2} and{W35} he{W1} never{W2} got{W2} tired{W1} of{W1} eating{W1} it{W1} every{W1} day."
 
 @YUM_GKD_B:136 YUM 752db77e
-"{V0926}{W5}Do you all{W25} like curry rice{W6} too{W2}?{W2}{W2}{W2}~"
+"{V0926}{W5}Do you all{W25} like curry rice{W6} too?{W2}{W2}{W2}"
 
 @YUM_GKD_B:137 AKI 19b823fe
 "We love it~!"
@@ -254,7 +254,7 @@ Even if the audience was just children, doing kamishibai in front of people... T
 "Oh! It's the big sis from the other day~!"
 
 @YUM_GKD_B:155 YUM 17d0a870
-"{V0932}{W4}Th{W1}is{W1} time,{W2} big{W1} sis{W3}{W1}{W1} will{W20} read{W5} you{W1} a kamishibai{W1}{W1}{W1} again."
+"{V0932}{W4}Next{W1} time,{W2} big{W1} sis{W3} will{W1}{W1}{W20} read{W5} you{W1} another{W1} kamishibai{W1} story."
 
 @YUM_GKD_B:156 YUM 7ca43ab7
 "{V0933}{W4}Now{W2} then,{W26} it{W7} be{W6}gins{W5} be{W3}gins{W2}~{W2}~"

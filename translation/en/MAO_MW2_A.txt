@@ -71,7 +71,7 @@
 "{V2093}{W8}As{W5} expected{W5} of{W5} a pro.{W18} {Ec}Perfect,{W12} it{W1} all{W1} came{W1} out{W1} just{W1} gorgeous{W1}."
 
 @MAO_MW2_A:55 MAO a892b688
-"{V2094}{W3}I{W4} wish{W4} I{W1} could{W1} blow-dry{W1} my hair{W2} that nicely,{W1} you{W1} know,{W1} it{W1} would{W1} be{W1} so{W1} great.{F3}"
+"{V2094}{W3}I{W4} wish{W4} I{W1} could{W1} blow-dry{W1} my hair{W2} that{W2} nicely,{W1} you{W1} know,{W1} it{W1} would{W1} be{W1} so{W1} great.{F3}"
 
 @MAO_MW2_A:56 MAO 817a4068
 "{V2095}Boys{W10}{W20} often don't care about what they wear{W20}, you know~{Fe3}"

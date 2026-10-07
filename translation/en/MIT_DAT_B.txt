@@ -254,7 +254,7 @@ She doesn't seem to know anything either...
 "{V1138}{W10}Yes.{W100} I{W3}...{W105} mistook{W3}{W3} the person.{W8}"
 
 @MIT_DAT_B:146 MIT 728caa09
-"{V1140}{W10}My{W6}{W10} fiance{W3}{W3}{W3}{W70} is not at Kibina{W1}{W1}{W3} High School,{W5}{W7} {W55}but at Kibina{W1}{W1}{W1} University.{W3}{W3}{W10}{W80} His{W3} name{W30} differed{W3} a bit{W10}{W3}..."
+"{V1140}{W10}My{W6}{W10} fiance{W3}{W3}{W3}{W70} is not at Kibina{W1}{W1}{W3} High School,{W5}{W7} {W55}but at Kibina{W1}{W1}{W1} University.{W3}{W3}{W10}{W80} His{W3} name{W30} differed{W3} a{W3} bit{W10}{W3}..."
 
 @MIT_DAT_B:147 PLY fcfe1549
 "I see... So you thought I was your fiance all along."

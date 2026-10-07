@@ -41,7 +41,7 @@
 "Hahaha, Narumi, if you get too carried away, you'll trip."
 
 @NAR_DAT_B:52 NAR 7e1f907d
-"{V0954}{W8}I'm not{W1} a{W4} child,{W1}{W1}{W1}{W1} so{W24} I won't{W1}{W1}{W4} trip{W4}{W2} that{W4}{W1} easily{W1}{W1}{W1}{W1}~{W5} na-na-na!"
+"{V0954}{W8}I'm{W1} not{W4} a{W1} child,{W1} so{W1}{W1}{W24} I{W1} won't{W1}{W4} trip{W4} that{W2} easily{W4}{W1}{W1}{W1}{W1}~{W5} you know."
 
 @NAR_DAT_B:54 NAR 66efb2a6
 "{V0955}{W8}The{W4} beach{W5} is{W1} that{W1} way!{W30} Let's{W3} hurry~{W1}{W1}!{Ec}"
@@ -125,7 +125,7 @@
 "Here I come!"
 
 @NAR_DAT_B:111 NAR fc4d274e
-"{V0969}{W5}Yaaay{W1}{W2}{W2}{W2}{W2}!"
+"{V0969}{W5}Yaaay{W1}{W2}{W2}{W2}!"
 
 @NAR_DAT_B:112 SYS 71a9b3b6
 And so, Narumi and I swam to our hearts' content.

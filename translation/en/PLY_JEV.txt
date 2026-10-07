@@ -458,7 +458,7 @@ Pose
 Face
 
 @PLY_JEV:443 SYS 060ab3c8
-{Ti0}- Left/Right on the directional buttons changes outfit and pose. - The Circle button switches the location automatically. - The Triangle button makes you gaze at the girl.
+{Ti0}- Left/Right: change outfit and pose - Circle: switch location automatically - Triangle: gaze at the girl
 
 @PLY_JEV:454 - ec3771bc
 Outfit: 

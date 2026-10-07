@@ -218,7 +218,7 @@ Was it you who came to steal my treasure~~?
 "I'd be... grateful..."
 
 @NAR_DAT_A:215 NAR d3fccc33
-"{V0898}{W8}Ah,{W8} Sen{W45}pai!{W8} {W27}Th{W1}er{W1}e's{W1} an{W30} at{W5}trac{W5}tion{W5} cal{W5}led{W5} Mystery{W12} of Egypt,{F2} over{W1} there{W1}!{W1}"
+"{V0898}{W8}Ah,{W8} Sen{W45}pai!{W8} {W27}Th{W1}er{W1}e's{W1} an{W30} at{W5}trac{W5}tion{W5} cal{W5}led{W5} Mystery{W12} of{W1} Egypt,{F2} over{W1} there{W1}!{W1}{W1}{W1}"
 
 @NAR_DAT_A:216 PLY 3e052fec
 "Huh? Where?"
@@ -242,7 +242,7 @@ Was it you who came to steal my treasure~~?
 "{V0901}{W5}Yes!"
 
 @NAR_DAT_A:225 NAR bbcb5d4f
-"{V0902}{W10}Maybe{W7} it's{W7} a{W7} special{W5} mu{W7}seum{W7} exhi{W7}bit{W3}.{W45} {F2}I{W5} never{W5} thought{W1} I{W1} could{W4} stu{W4}dy{W5} at{W5} an {Ec}amu{W3}se{W1}ment{W1} park{W1}!{W1}"
+"{V0902}{W10}Is{W7} it{W7} a{W7} special{W5} museum{W7} exhibit{W7}{W7}{W3}?{W45} {F2}I{W5} never{W5} thought{W1} I'd{W1} study{W4} at{W4} an{W5} {Ec}amusement{W3} park{W1}{W1}{W1}{W1}!"
 
 @NAR_DAT_A:226 PLY 0d0f916a
 "I think it'll be educational~"
@@ -311,7 +311,7 @@ Was it you who came to steal my treasure~~?
 "What?!"
 
 @NAR_DAT_A:250 NAR 6beca7ef
-"{V0936}{W12}More{W2} gra{W1}ce{W1}ful{W1}, {W21}{Ec}smart{W4} and{W19} el{W4}egant,{W24} {Fe8m2}a wo{W8}man{W3} who{W1} twirls{W3} men{W1} {Eo}around{W2} her{W1} fin{W1}ger{W12}, that's{W3} who{W4} I'll be!"
+"{V0936}{W12}I'll{W2} be{W1} more{W1} ladylike,{W1}{W1}{W21} {Ec}smart{W4} and{W19} elegant,{W4}{W24} {Fe8m2}a woman{W8} who{W3} wraps{W1} men{W3} {Eo}around{W2} her{W1} finger.{W12} That's{W3} my{W4} goal!"
 
 @NAR_DAT_A:251 PLY 5c4d0d04
 (I don't think twirling men around her finger is the right goal, though...)

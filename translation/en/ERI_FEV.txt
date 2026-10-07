@@ -1472,7 +1472,7 @@ None
 "{V1334}{W12}I{W2} don't{W2} eat{W2} ramen{W2} with a weird{W2} flavor{W2} like extra-spicy mayo,{Eo} okay!"
 
 @ERI_FEV:710 MAO 3edfecb5
-"{V1335}{W12}There's{W1} no{W1} point{W3} looking{W1} for{W1} the{W1} owner{W3} of{W1} trash like that,{W33} searching{W2} for{W1} it{W1} is{W1} pointless,{W1} right?{W2}{W1}{W1}{W1}{W30} {Fm3}Just throw it away."
+"{V1335}{W12}There's{W1} no{W1} point{W3} looking{W1} for{W1} the{W1} owner{W3} of{W1} trash like{W1} that,{W33} searching{W2} for{W1} it{W1} is{W1} pointless,{W1} right?{W2}{W1}{W1}{W1}{W30} {Fm3}Just throw it away."
 
 @ERI_FEV:711 MAO d8615ab1
 "{V1336}{W10}Honestly,{W2}{W2}{W5}{W3} geez.{W45} See{W2} you."

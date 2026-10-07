@@ -677,7 +677,7 @@ The treatment was very rough... Oh dear.
 "You shouldn't be standing! Lie down quick!"
 
 @ASU_FEV:345 ASU e5659e5d
-"{V1012}{Eo}{F4}{W10}Who'd have thought{W10} I'd{W25} get anemic from studying{W5} too much.{Ec}{F2}{W40} Ehehe,{W65} I kind of{Eo} dreamed{W50} of feeling sick{W15} and coming here."
+"{V1012}{Eo}{F4}{W10}Who'd have thought{W10} I'd{W25} get anemic from studying{W5} too much.{Ec}{F2}{W40} Ehehe,{W65} I always kind of{Eo}{W50} wanted to come here{W15} sick."
 
 @ASU_FEV:346 PLY e9992877
 "This isn't the time for that... Just lie down, quick!"
@@ -935,7 +935,7 @@ And so I witnessed Sakino's early lunch.
 "{V1053}{Sd}{F8}Well, you're so skinny,{W20} you look like a ghost yourself!"
 
 @ASU_FEV:455 ERI dcb75675
-"{V1008}{Sd}What did you say?!{W10} You're one to talk, baking your skin{W10} without fearing UV rays. Reckless girl!"
+"{V1008}{Sd}What did you say?!{W10} You're one to talk, baking your skin{W10} without fearing UV{W10} rays. Reckless girl!"
 
 @ASU_FEV:458 ASU be4bdec4
 "{V1054}I do wear sunscreen, you know!"

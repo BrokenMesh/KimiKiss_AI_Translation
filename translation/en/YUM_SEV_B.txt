@@ -653,7 +653,7 @@ Now the conversation is clicking. Steering it to a topic she's good at... nice o
 "But if you're doing it, you have to give it your all."
 
 @YUM_SEV_B:340 YUM 16db4bef
-"{V0343}{F3}{E}{0}Yes.{W20} I'll{W2} cheer{W2} with{W2} all{W2} my{W2} might{W1}.{W1}"
+"{V0343}{F3}{E}{0}Yes.{W20} I'll{W2}{W2}{W2}{W2} cheer{W1}{W1} you on with all my might."
 
 @YUM_SEV_B:341 PLY 8c380efa
 "I'm cheering for you too, Hoshino."
@@ -800,7 +800,7 @@ Now the conversation is clicking. Steering it to a topic she's good at... nice o
 "{V0106}Still...{W75} Hoshino{W5} {Eo}{Fm3}really seems different now..."
 
 @YUM_SEV_B:397 AKI 52f73c0d
-"{V0107}{W5}Before,{W40} if someone saw her in a school swimsuit,{W55} she'd have been so embarrassed she'd {Fm3}have hidden away..."
+"{V0107}{W5}Before,{W40} being seen in a school swimsuit{W55} would have made her so embarrassed she'd {Fm3}hide away..."
 
 @YUM_SEV_B:398 AKI d2be6428
 "{V0108}But now she talks so normally."

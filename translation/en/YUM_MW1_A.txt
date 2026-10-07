@@ -884,7 +884,7 @@
 "Hoshino, why are you in the Infirmary? Are you not feeling well?"
 
 @YUM_MW1_A:350 YUM a3a7b7f5
-"{V1712}Ah...{W30} no,{W30} that's not it.{W35} The school nurse{W5} got a sudden phone call,{W5} and asked me to stay here for a bit..."
+"{V1712}Ah...{W30} no,{W30} that's not it.{W35} The school nurse{W5} got a sudden phone call, and asked me to stay here for a bit..."
 
 @YUM_MW1_A:351 PLY e43f389d
 "I see."
@@ -1196,7 +1196,7 @@
 "The newspaper club? Why?"
 
 @YUM_MW1_A:471 YUM b6eab251
-"{V1770}{W4}Writing articles about school events,{W2} like{W2} "The flowers in the garden have bloomed"{W8} or{W46} the library's new book announcements,{W34} sounds like fun."
+"{V1770}{W4}Writing{W2} about{W2} flowers{W2} blooming{W2} in{W2} the{W1} garden{W1}{W1}{W8} or{W46} the{W2} new{W2} library{W2} books,{W2} school{W2} news{W2}{W34} sounds fun."
 
 @YUM_MW1_A:472 PLY 3acfca1f
 "Hahaha, I see."
@@ -1976,7 +1976,7 @@
 "{V1931}{W7}I{W3} don't{W51} really drink while walking..."
 
 @YUM_MW1_A:805 YUM df98015f
-"{V1932}{W4}A{W4} girl{W4} drinking{W4} while{W4} walking{W4} is{W4} a{W4} bit{W4} improper,{W4}{W4}{W4}{W4}{W3}{W3}{W3}{W3}{W4} don't you think?{W36}{W4}"
+"{V1932}{W4}A{W4} girl{W4} drinking{W4} while{W4} walking{W4} is{W4} a{W4} bit{W4} improper,{W4} don't{W4} you{W4} think?{W3}{W3}{W3}{W3}{W4}{W36}{W4}"
 
 @YUM_MW1_A:806 PLY 6d37b8ae
 "...Yeah, you're right."

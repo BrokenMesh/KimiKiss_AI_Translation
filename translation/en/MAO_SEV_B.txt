@@ -128,7 +128,7 @@
 "No, it just hardly ever happens..."
 
 @MAO_SEV_B:125 MAO 631a2801
-"{V0235}{Nn},{W3}{W1}{W1}{W1}{W2}{W1}{W1}{W1} you're the only one I can ask,{W50} {Ec}please."
+"{V0235}{Nn},{W3}{W1}{W1}{W1}{W2}{W1}{W1}{W1} you're the only one I can{W1} ask,{W50} {Ec}please."
 
 @MAO_SEV_B:126 PLY 1781297b
 (Mao seems really worried about something...)
@@ -215,7 +215,7 @@
 "{V0246}Uuu...{W140}{Eo} It's{W10} a{W10} tale{W7} of{W6} tears{W65} {Eh}to{W6} hear{W6} and{W6} tears{W6} to{W6} tell.{W6}"
 
 @MAO_SEV_B:175 MAO 5d2fc192
-"{V0247}{W5}{Nn},{W5} as you know,{W55}{W4}{W4}{W4}{W4}{W4} in middle school,{W40}{W20}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4} I was a super serious,{W20}{W20}{W1}{W1} {W20}{W5}{W5}{W10}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1} study-crazy girl aiming high."
+"{V0247}{W5}{Nn},{W5} as you know,{W55}{W4}{W4}{W4}{W4}{W4} in middle school,{W40}{W20}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4} I was{W4} a{W4} super{W4} serious,{W20}{W20}{W1}{W1} {W20}{W5}{W5}{W10}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1} study-crazy girl aiming high."
 
 @MAO_SEV_B:176 PLY e3f8be68
 "Yeah, that's right."
@@ -809,7 +809,7 @@
 "What's wrong?"
 
 @MAO_SEV_B:405 NAN 7229914b
-"{V0171}{W8}{W1}{W1}{W1}{W1}{W1}{W1}Can you even study now, Mao?{W37}{W2}{W2}{W2}{W4}{W4}{W2}{W2}{W2}{W70} {Fe6}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W18} {Fe9}No swirly glasses,{W22} no desk..."
+"{V0171}{W8}{W1}{W1}{W1}{W1}{W1}{W1}Can you even study now, Mao?{W37}{W2}{W2}{W2}{W4}{W4}{W2}{W2}{W2}{W70} {Fe6}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W18} {Fe9}No{W1} swirly{W1} glasses,{W22} no desk..."
 
 @MAO_SEV_B:406 NAN 8b94a9cc
 "{V0172}Maybe{W1} she{W15} {Ti1}gave{W1} up{W1} studying{W1} altogether...{W4}{W4}{W5}{W5}{W5}{W5}{W5}{W5}"
@@ -965,7 +965,7 @@
 "{V0194}{W10}Yeah!"
 
 @MAO_SEV_B:463 MAO 7527f7ae
-"{V0349}{W10}Okay,{W95}{Ec}{W5}{F9}{Eo} get{W10} out{W10} your{W40} {Ec}textbook.{W70}{Eo} Which part don't you get?"
+"{V0349}{W10}Okay,{W95}{Ec}{W5}{F9}{Eo} get{W10} out{W10} your{W40} {Ec}textbook.{W70}{Eo} Which{W10} part don't you get?"
 
 @MAO_SEV_B:464 NAN ef3b5e44
 "{V0195}Um,{W1} um...{W1}{W1}{W1}{W1}"

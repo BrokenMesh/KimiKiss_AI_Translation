@@ -593,7 +593,7 @@
 "No, it's fine... What I did was only a tiny thing, so you didn't need to say anything..."
 
 @ASU_KIS_A:272 ASU 3641c1c8
-"{V0310}{W12}N{W2}o{W2}.{W42} {Eo}I want to tell everyone{W40} the Asuka Turn was born from{W6} me{W6} and {Nm},{W28} {Fe2}the{W3} two of us{W6} together,{W35} {W5}
+"{V0310}{W12}N{W2}o{W2}.{W42} {Eo}I want to tell everyone{W40} the Asuka Turn was born from{W6} me{W6} and {Nm},{W28} {Fe2}the{W3} two of{W5} us{W6} together,{W35} {W5}
 
 @ASU_KIS_A:273 PLY 72c54e75
 "No, I'm happy."
@@ -602,7 +602,7 @@
 "{V0311}{W12}Really?{W20} {Ec}Good.{W3}{W3}"
 
 @ASU_KIS_A:275 ASU 215aef4c
-"{V0312}{W12}I{W54} want to tell everyone{W35} the Asuka Turn was born{W6} from{W8} me and {Nm},{W23} {Fe2}the{W3} two of us,{W33} {W3}together."
+"{V0312}{W12}I{W54} want to tell everyone{W35} the Asuka Turn was{W6} born{W6} from{W8} me and {Nm},{W23} {Fe2}the{W3} two of us,{W33} {W3}together."
 
 @ASU_KIS_A:276 PLY e9bf03f5
 "Everyone's going to be jealous..."
@@ -620,7 +620,7 @@
 "{V0314}{W12}You know...{W10}"
 
 @ASU_KIS_A:281 ASU 2ec401d4
-"{V0315}{W12}I want to tell everyone{W48} the Asuka Turn was born{W6} from{W5} me and {Nm},{W28} {Fe2}the{W3} two of us,{W35} {W5}together."
+"{V0315}{W12}I want to tell everyone{W48} the Asuka Turn was{W6} born{W6} from{W5} me and {Nm},{W28} {Fe2}the{W3} two of us,{W35} {W5}together."
 
 @ASU_KIS_A:282 ASU f846098f
 "{V0316}{W12}That it was born because I met you, {Nm}..."
@@ -635,7 +635,7 @@
 "It's nothing..."
 
 @ASU_KIS_A:286 ASU 5099cfe6
-"{V0319}{W18}No,{W63} {Eo}it's{W3} more{W3} than gratitude...{W79} something{W3} more{W3} precious...{W103} {Fe6}Maybe,{W62} it's{W3} feelings I never knew{W3} before...{W105} {Ec}that make me look at you{W60} like this."
+"{V0319}{W18}No,{W3}{W3}{W63} {Eo}more{W3}{W3} than gratitude...{W79} something{W3}{W3} deeper...{W103} {Fe6}Maybe a feeling{W62} I never{W3} knew{W3} is{W105} {Ec}why I watch you{W60} like this.{W3}"
 
 @ASU_KIS_A:287 ASU 4da70c3e
 "{V0320}{W12}Yeah,{W75} nobody{W8} is{W5} watching{W5}...{W28} right?"
@@ -722,7 +722,7 @@
 "Beach volleyball? I've never played."
 
 @ASU_KIS_A:325 ASU f5ef1248
-"{V0335}{W8}It's{W3} fine{W5}.{W27} {Fe3}Tournament{W3} or not,{W3} {W10}it's{W3} just{W2} an event{W2} for boy-girl pairs.{W5} {W50}{F2}{Ec}The{W5} prize{W3} is{W18} an{W3} Okinawa{W3} trip{W3} for two{W3}!"
+"{V0335}{W8}It's{W3} fine{W5}.{W27} {Fe3}Tournament{W3} or not,{W3} {W10}it's{W3} just{W2} an event{W2} for boy-girl{W5} pairs.{W5} {W50}{F2}{Ec}The{W5} prize{W3} is{W18} an{W3} Okinawa{W3} trip{W3} for{W3} two{W3}!"
 
 @ASU_KIS_A:326 PLY 987b6781
 "An Okinawa trip for two?! Th-that means, just the two of us?!"
@@ -905,7 +905,7 @@
 "Cheer?"
 
 @ASU_KIS_A:387 ASU 38f700d9
-"{V0356}{W12}Yeah.{W60} Kibito{W3} Commercial,{W3} a top-eight{W3} national{W3} power,{W20} {W3}{W5}is{W5} coming{W5} for an invitational{W6} match."
+"{V0356}{W12}Yeah.{W60} Kibito{W3} Commercial,{W3} a top-eight{W3} national{W3} power,{W20} {W3}{W5}is{W5} coming{W5} for{W3} an{W5} invitational{W6} match."
 
 @ASU_KIS_A:388 PLY d4cd3c17
 "Oh, right, the soccer club plays a match at the school festival every year, doesn't it?"
@@ -920,13 +920,13 @@
 "I see. ...But cheer together? Can't you play, Sakino?"
 
 @ASU_KIS_A:392 ASU 1a721c49
-"{V0359}{W12}Oh,{W30} {Ec}me?{W6} No{W5} way!{W35} {Eo}Not official,{W15} but{W3} it's{W3} a{W3} match{W3} with{W3} a{W5} powerhouse.{W28} {F8}I{W5} can't play..."
+"{V0359}{W12}Oh,{W30} {Ec}me?{W6} No{W5} way!{W35} {Eo}It's not official,{W3}{W3}{W3}{W15} but{W5} it's a match{W3} against a{W3} powerhouse team.{W3}{W28} {F8}I can't play..."
 
 @ASU_KIS_A:393 PLY 308d3155
 "I see... That's too bad."
 
 @ASU_KIS_A:394 ASU b06eb1e4
-"{V0360}{W15}B{W8}ut{W8}...{W63} if I got{W3} to play,{W5} {Ec}{W5}{Fe3}{Eo}I'd be so happy.{W77} {W1}Maybe{W1} I{W2} won't{W2} measure up,{W30} {Fe2}but I want to test{W3} my{W5} strength{W6}..."
+"{V0360}{W15}B{W8}ut{W8}...{W63} if I got{W3} to play,{W5} {Ec}{W5}{Fe3}{Eo}I'd be so happy.{W77} {W1}Maybe{W1} I{W2} won't{W2} measure up,{W30} {Fe2}but I want to{W3} test{W3} my{W5} strength{W6}..."
 
 @ASU_KIS_A:395 PLY 7f268c9c
 "I get it. I'll cheer for you."

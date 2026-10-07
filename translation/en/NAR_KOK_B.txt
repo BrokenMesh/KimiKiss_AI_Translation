@@ -185,7 +185,7 @@ And then...
 "Whoa... Narumi."
 
 @NAR_KOK_B:122 NAR 6e5e0f52
-"{V1375}{W18}Waaah{W5}{W8}~{W21}~{W18}! {W27}Waaah{W5}{W8}~{W21}~{W18}!{W69} {Fm4}{Eo}I{W15} {W2}may{W2} be {W39}nobody, I{W6} may be nobody,{W41} {Ec}but {W2}I {W5}love {W2}you {W5}more than anyone in the {W30}universe, {W8}Senpai{W8}~{W2}{W1}~{W1}~{W2}~{W3}~{W4}~{W6}~!"
+"{V1375}{W18}Waaah{W5}{W8}~{W21}~{W18}! {W27}Waaah{W5}{W8}~{W21}~{W18}!{W69} {Fm4}{Eo}I'm{W15} {W2}no{W2}body,{W39} nobody,{W6} {W41}{Ec}but {W2}I {W5}love {W2}you {W5}most{W30} in the {W8}universe,{W8} Senpai{W2}{W1}{W1}{W2}{W3}{W4}{W6}{W8}~{W3}!"
 
 @NAR_KOK_B:123 PLY c3c54cfa
 "Hahaha, Narumi, I'm not competing with anyone."
@@ -218,7 +218,7 @@ And then...
 "Of course. Anytime.{W20}"
 
 @NAR_KOK_B:148 NAR e1b905f9
-"{V1383}{Nm}{W5}{W6}{W6}...{W30} I'm clinging {Ti1}to {Ti2}you {W5}and {W1}won't {W1}let {W1}go!{W20}"
+"{V1383}{Nm}{W5}{W6}{W6}...{W30} I'm clinging {Ti1}on, {Ti2}so I {W5}can't {W1}let {W1}go!{W20}"
 
 @NAR_KOK_B:153 SYS bfe5cdd3
 {V5036}{c2}{W12}To become {Nm}'s girlfriend,{W39} how{W4} happy I am.

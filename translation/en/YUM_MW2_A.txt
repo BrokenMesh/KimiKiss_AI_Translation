@@ -26,7 +26,7 @@
 "Do you have a favorite kind of snacks?"
 
 @YUM_MW2_A:33 YUM c1387f09
-"{V1946}{W3}Now{W3} and{W3} then,{W35} I eat sweet potato snacks."
+"{V1946}{W3}Now{W3} and then,{W35} I eat sweet potato snacks."
 
 @YUM_MW2_A:34 PLY 4adeaad2
 "Hahaha, it's almost the season for them."
@@ -59,7 +59,7 @@
 "A \\"being-liked\\" pimple?"
 
 @YUM_MW2_A:46 YUM ca923c7a
-"{V1952}{W3}Yes.{W38} The forehead is a \\"liking\\" pimple,{W30} the chin{W2} is{W2} a \\"being-liked\\" pimple,{W40} the right cheek is a \\"dumping\\" pimple,{W34} and{W3} the{W2} left{W2} cheek{W1} is{W1} a \\"being-dumped\\" pimple."
+"{V1952}{W3}Yes.{W38} Forehead: I like them,{W30} chin:{W2} they{W2} like{W2} me,{W40} right cheek: I dump them,{W34} left{W3} cheek:{W2} I'm{W2} dumped{W1}{W1}{W1}{W1}{W1}."
 
 @YUM_MW2_A:49 YUM 3d8549c0
 "{V1953}{W3}Liking,{W10} being liked,{W18} dumping, being dumped, they call them.{W27} {F3}{Eo}Haven't you heard?"
@@ -209,7 +209,7 @@
 "{V1982}...I{W2} have{W2}...{W33} written one."
 
 @YUM_MW2_A:107 YUM e2028bbb
-"{V1983}{W3}But{W22} I{W2} never{W1} gave it to him.{W38} I{W2} didn't{W2} have{W1} the{W1} courage."
+"{V1983}{W3}But{W22} I never gave{W2} it to him.{W38} I{W2} didn't{W2} have{W1} the{W1} courage."
 
 @YUM_MW2_A:108 PLY 46615174
 "I see... When was that?"
@@ -257,7 +257,7 @@
 "What do you do on your days off?"
 
 @YUM_MW2_A:128 YUM 08111d74
-"{V1993}{W3}On{W4} my{W3} days{W3} off{W3}...{W24} I{W2} tidy{W2} my{W1} room{W1} or{W1}{W1}{W1} {W19}go for a walk..."
+"{V1993}{W3}On{W4} my{W3} days{W3} off{W3}...{W24} I{W3}{W2} tidy{W2} my{W1} room{W1} or{W1}{W1} {W19}go for a walk..."
 
 @YUM_MW2_A:129 PLY 0333bb97
 "A walk?"
@@ -329,7 +329,7 @@
 "{V2007}Eh?!"
 
 @YUM_MW2_A:153 YUM 1cb7fd3b
-"{V2008}{W3}R-{W47}really?{W70} I don't think{W1} they{W1} make a difference..."
+"{V2008}{W3}R-{W47}really?{W70} I don't think{W1} they make a difference..."
 
 @YUM_MW2_A:154 PLY e2d51d78
 "R-really? Hahaha..."
@@ -338,7 +338,7 @@
 "......"
 
 @YUM_MW2_A:156 YUM e0b27075
-"{V2009}{W3}W-{W25}what's wrong, {Nm}? You{W1} suddenly{W4} went{W2} quiet{W2}..."
+"{V2009}{W3}W-{W25}what's wrong, {Nm}? You{W1} suddenly{W4} went{W2} quiet{W1}..."
 
 @YUM_MW2_A:157 PLY a5b2953a
 "Ah... S-sorry. Looking at you in your swimsuit, my heart started pounding..."
@@ -572,7 +572,7 @@
 "{V2056}{W5}No,{W50} you{W2} looked{W4} so comfortable."
 
 @YUM_MW2_A:253 YUM a60a1005
-"{V2057}{W4}Besides{W1}...{W71} just{W1} being{W1} {F3}by your side{W2} makes me{W28} happy."
+"{V2057}{W4}Besides{W1}{W1}{W1}...{W71} just{W1} being{W1} {F3}by {Nm}'s side{W2} makes me{W28} happy."
 
 @YUM_MW2_A:254 PLY 1696153c
 "Even if it's a skort, it's embarrassing when it flips up, isn't it?"
@@ -725,7 +725,7 @@
 "I think it's harder for you, the one transferring, than for me, the one seeing you off, so I... um..."
 
 @YUM_MW2_A:307 YUM 62f0be75
-"{V2087}{W3}Mm...{W48} Just{W1} that{W1} thought{W1} makes me{W23} happy.{Ec}"
+"{V2087}{W3}Mm...{W48} Just{W1} that thought{W1} makes me{W23} happy.{Ec}"
 
 @YUM_MW2_A:308 PLY 52ef5397
 "The school festival is getting close..."
@@ -956,7 +956,7 @@
 "Even if I don't, I bet your parents or teachers will."
 
 @YUM_MW2_A:385 YUM d5b76885
-"{V2135}E-{W29}even so,{W28} no...{W70} If I think you're filming me,{W30} I'll get nervous."
+"{V2135}{W3}E-{W29}even{W3} so{W3}{W3},{W28} no...{W70} If I think {Nm}{W1} is{W1} filming{W1} me,{W1}{W1}{W30} I'll{W3} get{W3} nervous{W2}{W2}{W1}{W1}."
 
 @YUM_MW2_A:386 PLY 7bf6ffc8
 "I see, too bad..."
@@ -965,7 +965,7 @@
 "A happy ending like in a drama..."
 
 @YUM_MW2_A:388 YUM 51097b56
-"{V2136}...Mm.{W36} {Ec}I'm{W1} happy{W1} about{W2} how{W1} you{W1} feel...{W60} It makes me happy."
+"{V2136}...Mm.{W36} {Ec}{Nm},{W1} how{W1} you{W1} feel{W2} about me{W1}...{W60} it makes me happy."
 
 @YUM_MW2_A:389 PLY e2b29c41
 "I wonder if you'd know, Hoshino?"
@@ -1415,7 +1415,7 @@
 "{V2220}{W2}Ah...{W2}{W2}"
 
 @YUM_MW2_A:546 YUM 98056bdc
-"{V2221}...Mm.{W45} I{W5} want{W56} to keep looking at you forever, too..."
+"{V2221}...Mm.{W45} I{W5} want{W56} to keep looking at you forever, too, {Nm}..."
 
 @YUM_MW2_A:548 PLY 8331d188
 "Hoshino."
@@ -1430,7 +1430,7 @@
 "{V2224}{W2}...{W2}...{W2}"
 
 @YUM_MW2_A:554 YUM f1a2d279
-"{V2225}{W4}When{W1} I{W2} see{W1} your{W2} smile,{W1}{W1}{W1}{W1}{W39} {W2}it{W1} makes me ache..."
+"{V2225}{W4}When{W1} I{W2} see{W1} {Nm}'s{W2} smile,{W1}{W1}{W1}{W1}{W39} it{W2} makes{W1} me ache..."
 
 @YUM_MW2_A:555 PLY a2656b82
 "Ah... sorry, I didn't mean to..."

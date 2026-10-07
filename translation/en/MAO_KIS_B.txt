@@ -329,13 +329,13 @@
 "First, problem one!"
 
 @MAO_KIS_B:196 MAO fd2034f4
-"{V0616}Let's{W15} see{W25}...{W10}{W15} what's this...?{W40} {W1}{W1}{W1}{W1}Mom asks{W20} {W5}you to shop for dinner,{W5}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W26}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W1}{W1}{W2}{W1} greengrocer 1.5 km away"
+"{V0616}Let's{W15} see{W25}{W10}...{W15} what's this?{W40} Mom{W1}{W1}{W1}{W1} {W20}asked{W5} me{W5} to{W3} buy{W3} food{W3} for{W3} dinner,{W3}{W3}{W3}{W26} so{W3} I'm{W3} off{W3} to{W3} the{W3} grocer{W3}{W3} 1.5{W3} km{W3} away{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W3}{W1}{W1}{W2}{W1}..."
 
 @MAO_KIS_B:197 MAO c940c65e
 "{V0617}Masao{W4} walks{W4} at{W4} 3{W4} km/h,{W4} and{W4} 10{W4} minutes{W4} later{W4} his{W4} little{W4} sister{W4} Masako{W4} leaves{W4} by{W4} bicycle{W4} at{W4} 5{W4} km/h...{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W4}{W16}{W20}{W20}{W15}{W2}{W6}{W10}"
 
 @MAO_KIS_B:198 MAO 95e95c70
-"{V0618}{W10}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W2}Who gets there first,{W30} {Ec}{W1}{W1}{W1}{W1}and by how many minutes?"
+"{V0618}{W10}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W2}Who gets there{W2} first,{W30} {Ec}{W1}{W1}{W1}{W1}and{W2} by how many minutes?"
 
 @MAO_KIS_B:199 MAO 7d5e04ba
 "{V0619}Aaaaaargh!{W20} If they're siblings, go to the greengrocer together nicely!"

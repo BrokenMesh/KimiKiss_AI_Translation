@@ -302,7 +302,7 @@
 "Your whole mood suddenly changed, Mao... I found it hard to talk to you..."
 
 @MAO_KOK_A:191 MAO d9029954
-"{V1425}{W6}...{W3}I {W8}was hurt.{W33} {W4}{W4}{W4}{W4}{W48}We got into the same high school,{W1}{W1} {W60}{Eo}but you,{Nn}{W3} {W60}never talked to me."
+"{V1425}{W6}...{W3}I {W8}was hurt.{W33} {W4}{W4}{W4}{W4}{W48}We got into the same high school,{W1}{W1} {W60}{Eo}but{W4} you,{Nn}{W3} {W60}never talked to me."
 
 @MAO_KOK_A:192 MAO 852893b0
 "{V1426}{W15}{Nn}{W3}, {W30}I {W10}thought {W1}{W1}{W18}you'd {W3}come {W3}to hate me. {W37}{Fe1}{Eo}That's why,{W4} {W60}I thought,{W1} you didn't talk to me..."
@@ -320,7 +320,7 @@
 "{V1428}{W12}{Br60t120}...{W5}Silly.{W3} {W72}If{W3} the person{W4} you like won't look your{W5} way, {W45}{Ec}it's just sad."
 
 @MAO_KOK_A:197 MAO efd3c216
-"{V1429}{W30}{Br100t60}So when {Nn}{W3} asked me to teach {W4}you{W30} how to kiss... {W8}{W90}I was surprised, but {W60}{Ec}I was happy."
+"{V1429}{W30}{Br100t60}So when {Nn}{W3} asked me to teach {W4}you{W30} how to kiss... {W8}{W90}I was surprised, but{W60} {W60}{Ec}I was happy."
 
 @MAO_KOK_A:198 PLY 650a9098
 "Mao... sorry. That was an unreasonable request."

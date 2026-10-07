@@ -209,10 +209,10 @@
 (Ugh... I blurted out something stupid again and troubled Hoshino...)
 
 @YUM_KIS_A:146 YUM 98dd38e9
-"{V0400}{W6}Ah...{W21} {Nm},{W32} {Ec}{W5}{Fe6}{Eo}d{W3}on't{W3} m{W4}ake{W5} that{W2} f{W2}ace{W2}."
+"{V0400}{W6}Ah...{W21} {Nm},{W32} {Ec}{W5}{Fe6}{Eo}don't{W3} make{W3} that{W4} face{W2}.{W5}{W2}"
 
 @YUM_KIS_A:147 YUM d4d76b6a
-"{V0401}{W7}I{W2} don't{W4} w{W3}ant{W3} to{W3} see you troubled.{W26}{W62} Because,{W28} {Ec}we finally got to where we can talk..."
+"{V0401}{W7}I{W2} don't{W4} want{W3} to{W3} see{W3} you{W1} troubled,{W1} {Nm}{W1}.{W26}{W1}{W62} Because,{W28} {Ec}we{W1} finally got to where we can talk..."
 
 @YUM_KIS_A:148 PLY aba9c7d6
 "No, I'm not troubled. If anything, I'm the one troubling you..."
@@ -248,7 +248,7 @@
 "Huh?!"
 
 @YUM_KIS_A:159 YUM a1100ba4
-"{V0408}{W6}I{W1} want{W1} to{W1} know{W1} how{W1} you{W1} feel{W1},{W44} more."
+"{V0408}{W6}I{W1} want{W1} to{W1} know{W1} how{W1} you{W1} feel{W44} even more."
 
 @YUM_KIS_A:161 YUM fa2f353b
 "{V0409}......"
@@ -695,7 +695,7 @@ LV2 kiss, bloomers or school swimsuit / Yuumi won't do it
 "Somewhere? Sure, but where?"
 
 @YUM_KIS_A:345 YUM b7127c8c
-"{V0506}{W11}Anywhere{W1} you{W1} want{W2} to go{W1} is fine.{W57} You went{W4} to{W3} the{W4} park on{W4} the{W4} hill{W5} with{W2} me...{Fe2}{Ec}"
+"{V0506}{W11}Anywhere{W1} you{W1} want{W1} to{W1} go,{W1} {Nm}{W2}{W2}{W2},{W1} is{W1} fine.{W57} You went{W4} to{W3} the{W4} park{W4} on{W4} the{W2} hill{W5} with{W2} me...{Fe2}{Ec}"
 
 @YUM_KIS_A:346 PLY e2226109
 "Hoshino... Then, since summer's ending, how about the pool?"
@@ -800,7 +800,7 @@ LV2 kiss, bloomers or school swimsuit / Yuumi won't do it
 "Really?"
 
 @YUM_KIS_A:381 YUM bd18051a
-"{V5042}{W4}Yes.{W43} {Eo}I{W6} want{W30} to go to the pool{W10} with you too."
+"{V5042}{W4}Yes.{W43} {Eo}I{W6} want{W30} to go to the pool{W10} with you too, {Nm}."
 
 @YUM_KIS_A:382 PLY 17bddb5b
 "Great... Then Sunday at noon, meet at the shopping street?"

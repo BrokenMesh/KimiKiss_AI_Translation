@@ -350,7 +350,7 @@ The dumplings were delicious.
 "Sure, thanks."
 
 @NAR_GKD_B:191 NAR 79aa2293
-"{V0834}{W8}Senpai,{W4}{W4}{W30} may I stop by{W1} the bookstore{W4} today{W1} too?{W1}{W1}"
+"{V0834}{W8}Senpai,{W4}{W4}{W30} may I stop by{W1} the bookstore{W4} today{W1} too?{W1}"
 
 @NAR_GKD_B:192 PLY 49a62f0b
 "Still looking for cookbooks?"
@@ -365,7 +365,7 @@ The dumplings were delicious.
 "{V0836}{W12}Yes!"
 
 @NAR_GKD_B:196 NAR 8a15a9c1
-"{V0837}{W8}Then,{W15} I'll go{W5} to the manga{W4} corner{W1} in the back{W1}{W1}{W1}{W1}.{W1}{W1}{W3}"
+"{V0837}{W8}Then,{W15} I'll go{W5} check out{W1} the{W4} manga{W1} corner{W1} in{W1} the{W1} back,{W1} okay?{W3}"
 
 @NAR_GKD_B:197 PLY 3b1c0fed
 "I'll go to the magazine corner."
@@ -374,7 +374,7 @@ The dumplings were delicious.
 "Want to meet back here in thirty minutes?"
 
 @NAR_GKD_B:199 NAR 295038a7
-"{V0838}{W12}Yes!{Ti0} {Ti2}{W24}{Eo}See you{W1}{W5}~{W1}!"
+"{V0838}{W12}Yes!{Ti0} {Ti2}{W24}{Eo}See you{W1}{W5}~!"
 
 @NAR_GKD_B:200 SYS 91549ead
 ...And so I had a fun time at the bookstore with Narumi.

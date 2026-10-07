@@ -611,7 +611,7 @@ The one bite of cinnamon roll I took was so sweet it felt like my teeth would me
 "{V0102}{W10}Traitor~{W3}!{W3}{W3}{W3}{W3}"
 
 @MAO_GKD_A:345 KEI bc9b557c
-"{M}{V0401}Bringing {M}{W1}{M}a {M}{W2}guy {W2}{Mo}here {W2}{Mc}{W2}{M}is {M}{W2}{M}{M}{W2}{M}{W2}{M}{M}{W2}{M}{W2}{M}{M}{W2}{W20}{M}against {M}{W2}{Mo}{W2}{M}the {M}{W1}{M}{M}{W2}{M}rules {M}{W2}{Mc}{W2}{Mo}{W1}{Mo}~!{Mc}"
+"{M}{V0401}Bringing{M}{W1}{M} a{M}{W2} guy{W2}{Mo} here{W2}{Mc}{W2}{M}is {M}{W2}{M}{W2}{M}{M}{W2}{M}{W2}{M}{M}{W2}{M}{W2}{W20}{M}against {M}{W2}{Mo}{W2}{M}the{M}{W1}{M}{M}{W2}{M}rules{M}{W2}{Mc}{W2}{Mo}you know{W1}{Mo}~!{Mc}"
 
 @MAO_GKD_A:346 PLY da89ebdc
 (Ugh... I'm overwhelmed... Girls really are incredibly powerful when there are a lot of them...)

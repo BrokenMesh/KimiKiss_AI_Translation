@@ -494,7 +494,7 @@ We had kissed, and yet only a sad feeling remained on my lips...
 "Outer space... plasma?"
 
 @ERI_SEV_A:278 ERI 8c3fed9d
-"{V0084}{W8}Plasma is a state where atoms and molecules{W4}{W3}{W30} split into particles{W4}{W4} with positive and negative{W3} charges{W4}{W15} and move about{W5} wildly.{W27}{W3}{W3}"
+"{V0084}{W8}Plasma is{W30} atoms{W4} and molecules{W4} split{W15} into positive{W3} and negative{W4} particles,{W5}{W4}{W4} {W27}moving{W4} about{W3} wildly{W3}{W3}{W3}."
 
 @ERI_SEV_A:279 ERI a9f1f9a1
 "{V0085}{W8}Typical plasma phenomena{W4} around{W4} the Earth{W4}{W4} are magnetic storms{W3}{W3}{W3}{W33} and{W8} auroras.{W5}"
@@ -791,7 +791,7 @@ Futami
 "{V0128}{W8}I envied that very much..."
 
 @ERI_SEV_A:384 ERI 0390e046
-"{V0129}{W8}But{W1}{W45} once is{W4} enough{W4} to satisfy me.{W9}{W70}{Fe4}{Ec} I was glad you came, {Nm}."
+"{V0129}{W8}But{W1}{W45} once is{W4} enough{W4} to{W4} satisfy me.{W9}{W70}{Fe4}{Ec} I was glad you came, {Nm}."
 
 @ERI_SEV_A:385 PLY 0cb417d1
 "No, something like this... it's no big deal..."

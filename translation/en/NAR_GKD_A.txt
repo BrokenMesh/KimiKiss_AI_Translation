@@ -293,7 +293,7 @@ Nana & Naru
 "Ah, no... this is..."
 
 @NAR_GKD_A:210 NAR 4e63b7a1
-"{V7905}{W8}Nana,{W4} {W27}your{W10} right{W6} arm{W3} is{W1} free{W1}{W1}{W1}."
+"{V7905}{W8}Nana,{W4} {W27}your {W10}right {W6}arm {W3}is {W1}{W1}{W1}free."
 
 @NAR_GKD_A:211 NAN aeffd9fe
 "{V0326}{W15}{Fm4}...{W5}..."

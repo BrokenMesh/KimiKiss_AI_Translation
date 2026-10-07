@@ -311,10 +311,10 @@
 "No, I just wondered why..."
 
 @MEG_SEV_A:193 MEG 9d5b7b34
-"{V0059}{W4}Isn't it obvious?{W30} {Eo}A sound mind{W3}{W3}{W3}{W3} dwells only{W20} in a healthy{W3}{W3}{W2}{W2}{W2} lifestyle{W3}{W3}."
+"{V0059}{W4}Isn't it obvious?{W30} {Eo}A sound{W3} mind{W3} dwells{W3} only{W3}{W20} in a healthy{W3} lifestyle{W2} and{W2} habits{W3}{W3}."
 
 @MEG_SEV_A:194 MEG 346c5490
-"{V0060}{W6}Look{W3}{W3}{W3} outside school.{W45} {F6}Terrible crimes{W5} and heartless people{W5} keep increasing."
+"{V0060}{W6}Look{W3} outside{W3} school{W3}.{W45} {F6}Terrible crimes and{W5} heartless people keep increasing."
 
 @MEG_SEV_A:195 MEG d293f4d5
 "{V0061}{W5}It's important that everyone follows the rules properly.{Ec}"
@@ -497,7 +497,7 @@
 "{V0128}But...{W60} we were playing in the Schoolyard,{W20} and Naru ran into the building..."
 
 @MEG_SEV_A:274 NAR 1810629c
-"{V7100}Aaah,{W40} {M}Nana{M} is {M}blaming {M}me!{Mc}"
+"{V7100}Aaah,{W40} Nana{M} is{M} blaming{M} me!{Mc}"
 
 @MEG_SEV_A:275 NAR 30574220
 "{V7101}You're the {M}one {M}who {M}said{M} let's play tag{M} in the first place, {M}Nana!{Mc}"

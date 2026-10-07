@@ -410,7 +410,7 @@ And so Futami and I went into the Mystery of Egypt.
 "......"
 
 @ERI_DAT_B:259 ERI 960b3afb
-"{V0977}{W9}{Fe3m4}I've told this{W9} to no one else.{W33} {Ec}{Fm3}You're the first, {Nm}{W3}{W1}{W4}{W1}{W1}."
+"{V0977}{W9}{Fe3m4}I've told this{W9} to no one else.{W33} {Ec}{Fm3}You're the{W1} first, {Nm}{W3}{W1}{W4}{W1}{W1}."
 
 @ERI_DAT_B:260 PLY 13303ddd
 "Futami, you're..."

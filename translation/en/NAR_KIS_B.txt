@@ -68,7 +68,7 @@
 "{V0488}{Fm6}{B100}......"
 
 @NAR_KIS_B:74 NAR 6106e6b8
-"{V0489}{Nm}{W8},{W3} {W3}would{W25} you{W15} k{W2}iss{W2} this chocolate{W5} for me?"
+"{V0489}{Nm},{W8}{W3} would you{W25} kiss{W15}{W2}{W2} this chocolate{W5} for me?"
 
 @NAR_KIS_B:75 PLY 1cfef141
 "Huh? Sure, but..."
@@ -332,7 +332,7 @@
 "{V0536}{W21}S-{W21}sorry...{Eo}"
 
 @NAR_KIS_B:186 NAR 228e247d
-"{V0537}{W20}Even{W8} though{W4} I{W3} was{W3} having fun{W5} talking{W12} with{W1} you{W1},{W1} {W1}I{W1} started{W1} thinking{W20} {F6}about{W3} the new{W3} udon{W6}."
+"{V0537}{W20}Even though I was{W8}{W4}{W3}{W3} having fun{W5} talking{W12} with you{W1}{W1}{W1}{W1}, {W20}{F6}I started{W3} thinking{W3} about the new udon{W6}."
 
 @NAR_KIS_B:187 PLY dc2caaac
 "Overworking isn't good. You need a change of pace once in a while."
@@ -629,7 +629,7 @@
 "{V0595}{W15}Just being{W3}{W3}{W5} like this with you,{W35} {Fe2m3}{Ec}I feel{W3}{W10} so happy..."
 
 @NAR_KIS_B:296 NAR 5be7a1e4
-"{V0596}{W15}Senpai,{W3}{W3}{W18}{W3}{W3}{W6} at the school festival,{W15} please{W6}{W3} be sure{W3}{W3} to come eat udon!"
+"{V0596}{W15}Senpai,{W3}{W3}{W18} at the school{W3} festival,{W3}{W6} please{W15}{W6} be sure{W3} to come{W3} eat udon!"
 
 @NAR_KIS_B:297 PLY 9da7adbb
 "Of course. I'll definitely come."

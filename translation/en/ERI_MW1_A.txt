@@ -1343,7 +1343,7 @@
 "{V1706}{W5}Is it?"
 
 @ERI_MW1_A:520 ERI ddaa6456
-"{V1707}{W3}The other day{W6} {W30}I asked a Library{W3} Committee girl{W3} for{W6} a book{W15} suggestion{W3} and{W3} she{W15} {F3}answered{W3} politely{W3}{W8}. That was nice."
+"{V1707}{W3}The other day{W6} {W30}I asked a Library{W3} Committee girl{W3} {W6}for a book{W15} tip{W3}, and{W3} she{W15} {F3}was{W3} so{W3} kind{W3} about it{W8}. Nice."
 
 @ERI_MW1_A:521 PLY 098cd99b
 "Ah, that's probably Hoshino. She's in my class."

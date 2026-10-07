@@ -344,7 +344,7 @@ Splash! Splash! Splash! Splash!
 "A-ah. See you."
 
 @PLY_FEV:256 PLY de897d6c
-(...I always just walk right past like this. The Year 3 classrooms are so intimidating I can't go in, or something...)
+(...I always just walk right past. The Year 3 classrooms are so intimidating, I can't go in...)
 
 @PLY_FEV:257 PLY 832c277a
 (Mao... I feel like I often see her on the Terrace...)
@@ -920,7 +920,7 @@ Splash! Splash! Splash! Splash!
 "Okay."
 
 @PLY_FEV:467 TOM 3408aa0b
-"{V7956}Oh,{W5} {Nm}."
+"{V7956}Oh, {Nm}."
 
 @PLY_FEV:468 PLY 4b67f9b4
 "Are you off to club activities?"
@@ -965,7 +965,7 @@ Splash! Splash! Splash! Splash!
 "{V7964}"That sounds tough" isn't the right response, {Nm}."
 
 @PLY_FEV:482 TOM 83b423aa
-"{V7965}If you act like it's someone else's problem,{W15} you'll have a hard time{W5} this time next year,{W25} {Ec}so start studying properly{W10} now..."
+"{V7965}If you take this lightly,{W15} you'll struggle{W5} this time next year,{W25} {Ec}so start studying hard{W10} now..."
 
 @PLY_FEV:483 PLY fc523cda
 "Eep... Sensei, excuse me!"
@@ -992,7 +992,7 @@ And so I ran away from Ms. Kawada.
 (Ms. Kawada. Is she feeling unwell...)
 
 @PLY_FEV:491 TOM 3ec8f489
-"{V7968}Mmm...{W5} {Nm}..."
+"{V7968}Mmm... {Nm}..."
 
 @PLY_FEV:492 PLY 71aecc19
 (What?! M-my name...? What kind of dream is she having... Could it be...)
@@ -1031,7 +1031,7 @@ And so I ran away from Ms. Kawada.
 (As if that would happen. Hahaha...)
 
 @PLY_FEV:514 PLY be3a6220
-(Ms. Kawada... if she has a fever, I should cool her down... Where's the thermometer... Ugh, forget it, too much trouble.)
+(Ms. Kawada... if she has a fever, I should cool her down... The thermometer... Ugh, too much trouble.)
 
 @PLY_FEV:515.1 - e455b486
 {Ti0}- Forehead to forehead...／- Go all out, with my lips!
@@ -1211,4 +1211,4 @@ Okay, done checking!
 It was helpful
 
 @PLY_FEV:599 - 5d79e667
-{Ti0}- Matching 1  - Matching 2／- Topic Bag  - Area Select 1／- Area Select 2  - 
+{Ti0}- Matching 1    - Matching 2／- Topic Bag    - Area Select 1／- Area Select 2    -

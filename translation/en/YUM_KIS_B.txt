@@ -113,7 +113,7 @@
 "Ah... r-right."
 
 @YUM_KIS_B:98 YUM d7a0fc8f
-"{V0570}{W7}Well,{W21} see{W6} you{W6} in{W6} class{W3}."
+"{V0570}{W7}Well,{W21} see you{W6}{W6} in{W3} class."
 
 @YUM_KIS_B:99 PLY d2269bca
 "Y-yeah, see you."
@@ -290,7 +290,7 @@
 "{V0597}{W7}Because...{W35} it's{W1} too{W1} embarrassing{W1}..."
 
 @YUM_KIS_B:177 PLY 82bdca5d
-"But you'd make friends with the other cheerleaders, the players would thank you, and I think it'd be a memory for life."
+"But you'd make friends with the other cheerleaders, the players would thank you, and it'd be a lifelong memory."
 
 @YUM_KIS_B:178 YUM 905cfcc7
 "{V0598}{W7}That's...{W39} maybe{W3} true{W3},{W3} but{W3}...{W2}{W2}{W1}{W1}{W1}"

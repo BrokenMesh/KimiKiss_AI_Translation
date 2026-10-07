@@ -173,7 +173,7 @@ I'm glad I came.
 "Wow, octopus sausages. I ate these all the time as a kid. What a throwback!"
 
 @MAO_DAT_A:108 MAO e1a8c933
-"{V1004}{W6}In{W5} grade{W5} school,{W4} we{W5} all came here.{W17} A{W1} family{W2} trip,{W1} remember?{W1}{W1}{W1}{W1}{W1}{W1}{W20} I{W1} remade{W1} the{W1} dishes{W1} we{W1} had{W1} then,{W1} so{W2} go{W2} on,{W2} dig{W1} in{W2} now{W1} okay?{W2}{W1}"
+"{V1004}{W6}When{W5} we{W5} were{W4} kids,{W5} remember?{W17} We{W1} all{W2} came{W1} here{W1} together,{W1}{W1}{W1}{W1}{W1}{W1}{W20} I{W1} remade{W1} the{W1} meal{W1} we{W1} had,{W1}{W1} so{W2} dig{W2} in{W2} now,{W1} okay?{W2}{W1}{W2}{W1}"
 
 @MAO_DAT_A:109 PLY fe694e47
 "Oh... I see. Right... that did happen once..."

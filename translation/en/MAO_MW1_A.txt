@@ -608,7 +608,7 @@
 "{V1700}{W8}Third-years{W3}{W3} don't have{W2} that.{W28} It's{W3} exam{W3} year."
 
 @MAO_MW1_A:262 MAO 3625b62f
-"{V1701}{W5}{W1}{W1}{W1}{W15}{W5}{W5}{W5}{W5}{W5}{W2}{W2}{W2}{W2}{W3}{W2}{W2}{W2}{W2}{W1}{W1}{W1}{W1}Anyway, stop telling me to read the front-page column. It's annoying.{W40} Apparently it's on exams a lot."
+"{V1701}{W5}{W1}{W1}{W1}{W15}{W5}{W5}{W5}{W5}{W5}{W2}{W2}{W2}{W2}{W3}{W2}{W2}{W2}{W2}{W1}{W1}{W1}{W1}Anyway, stop telling me to read the front-page column. It's annoying.{W40} Apparently{W1} it's{W3} on exams a lot."
 
 @MAO_MW1_A:263 MAO 5ab78fb4
 "{V1702}{W5}Geez,{W5}{W45}... {W8}I{W1} can't{W1} read{W1} stuff{W1} like{W1} that{W1} first{W1} thing{W1} in{W1} the{W1} morning{W1}{W1}{W1}{W1}{W1}.{W30} I'm not an old man..."
@@ -1412,7 +1412,7 @@
 "{V1861}{Sp}{W6}Oh,{W60} you saw the one{W3} in my shoe{W2} locker,{W3}{W15} didn't you."
 
 @MAO_MW1_A:535 MAO b5505742
-"{V1862}{W6}That's only{W9} once in a while,{W18} o{W1}n{W1}c{W1}e in a while."
+"{V1862}{W6}That's only{W9} once in a while,{W18} on{W1}ce {W1}in a while."
 
 @MAO_MW1_A:536 PLY b0e2b8c8
 "Once in a while... huh."
@@ -1568,7 +1568,7 @@
 "It might be a little dirty, but..."
 
 @MAO_MW1_A:588 MAO 857639d1
-"{V1897}{W6}{W3}Hmm,{W75} {Nn}{W3}{W6}{W9}{W2}{W2}, you're a boy too, I see~"
+"{V1897}{W6}{W3}Hmm,{W75} {Nn}{W3}{W6}{W9}{W2}{W2}, you're a{W6} boy too, I see~"
 
 @MAO_MW1_A:589 PLY 49f95e13
 "Mao, what are you going to do after you graduate?"
@@ -1745,7 +1745,7 @@
 "{V1933}{W5}I have{W5} half a year left,{W45} so I'd{W5} better{W8} enjoy{W5} it{W3} as much as{W5} I can."
 
 @MAO_MW1_A:671 MAO db9b4bbe
-"{V1934}{W5}{Nn}{W3}, do you and Nana{W3}{W15}{W3}{W3}{W3} go to school together?"
+"{V1934}{W5}{Nn}{W3}, do you and Nana{W3}{W15}{W3}{W3}{W3} go to school{W3} together?"
 
 @MAO_MW1_A:672 PLY c89d7ccb
 "No, separately."
@@ -2009,7 +2009,7 @@
 "W-who knows...?"
 
 @MAO_MW1_A:783 MAO 368387bb
-"{V1993}{W5}Ah! {W30}You turned red!{W45} {F9}What?{W5}{W45} {Nn}{W3}, do you like Ms. Kawada{W3}{W3} too?"
+"{V1993}{W5}Ah! {W30}You turned red!{W45} {F9}What?{W5}{W45} {Nn}{W3},{W5} do you{W3} like Ms. Kawada{W3}{W3} too?"
 
 @MAO_MW1_A:784 PLY b8ce2d63
 "O-of course not!"

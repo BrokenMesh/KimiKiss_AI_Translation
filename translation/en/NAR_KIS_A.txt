@@ -38,7 +38,7 @@
 "{V6251}{W15}Yesterday,{W3}{W5} I made some really delicious dashi.{W35} {Eo}It's in the fridge,{W3}{W3}{W3} would you{W15} taste it for me?{W2}"
 
 @NAR_KIS_A:60 NAR d25347e7
-"{V0313}{Ec}{W15}Yesterday,{W3}{W20} I made some really{W5} delicious dashi.{W25} {Eo}It's in the Home Ec Room fridge,{W3}{W3}{W3}{W3}{W3} would you{W33} taste{W3}{W8} it for{W3} me?"
+"{V0313}{Ec}{W15}Yesterday,{W3}{W20} I made some really{W5} delicious dashi.{W25} {Eo}It's in the{W3} Home Ec Room{W3} fridge,{W3} and{W3} would you{W33} taste{W3} it{W8} for{W3} me?"
 
 @NAR_KIS_A:61 PLY 0ccc496f
 "Right now?"
@@ -155,7 +155,7 @@ Huh? Was that an indirect kiss too...?
 "Narumi, that dashi earlier was really delicious."
 
 @NAR_KIS_A:126 NAR 0b6a8817
-"{V7000}Really? {W37}{M}{W3}{Ec}I'm{Mo} glad{Mc}~!{Mc}"
+"{V7000}Really? {W37}{M}{W3}{Ec}I'm{Mo} so{Mc} glad{Mo}~!{Mc}"
 
 @NAR_KIS_A:127 PLY abea48e9
 (Besides... we had an indirect kiss...)
@@ -206,7 +206,7 @@ Huh? Was that an indirect kiss too...?
 "What?!"
 
 @NAR_KIS_A:146.1 - acca29ff
-{Ti0}- I'm happy you feel that way, but.../- I feel the same about Narumi...
+{Ti0}- I'm glad, but...／- I feel the same about Narumi...
 
 @NAR_KIS_A:147 PLY f47ac543
 "I'm h-happy you feel that way, but..."
@@ -398,7 +398,7 @@ Squeeze
 "No, it's fine, Narumi! You're not bothering me at all!"
 
 @NAR_KIS_A:230 NAR 48a4d2ba
-"{V0379}{W15}{Eo}No,{W3}{W3}{W8} you{W3} are{W3} bothered!{W3}{W10} {Ec}{W5}{Fe9}{Eo}You{W3} definitely{W5} are!{W3}{W3}{W5}{W5}{P0}{F6}{W38} Why{W6} am I{W15} like{W3} this...{W10}{W3}{W3}{W2}{W2}{W2}{W2}{W3}"
+"{V0379}{W15}{Eo}No,{W3} no,{W8} Senpai,{W3} you{W3} are{W3} bothered!{W10} {Ec}{W5}{Fe9}{Eo}You{W3} definitely{W5} are{W3} bothered,{W3} I{W5} know{W5} it!{P0}{F6}{W38} Why{W6} am{W3} I{W15} like{W3} this{W10} every{W3} single{W3} time{W2}...{W2}{W2}{W3}"
 
 @NAR_KIS_A:231 NAR d8a87594
 "{V0380}{W60}Waaah{W12}{W10}{W10}{W10}{W10}!{W25} Senpai{W4}{W4},{W18} please{W6} don't{W17} hate{W3} me{W10}~!{W2}{W2}{W2}{W2}{W2}"
@@ -473,13 +473,13 @@ Squeeze
 "No, it's not about yes or no, why would you ask?"
 
 @NAR_KIS_A:255 NAR 62638a68
-"{V0399}{W10}Because,{W38} Senpai...{W46} you{W5} treat me{W30} {Fm4}just{W8} like{W3} a child{W6}{W3}{W10}!"
+"{V0399}{W10}Because,{W38} Senpai{W5}...{W46} you{W6} treat me{W30} {Fm4}just{W8} like{W3} a child{W6}{W10}!"
 
 @NAR_KIS_A:256 PLY 7cb658b8
 "Huh...?"
 
 @NAR_KIS_A:257 NAR e166cf33
-"{V0400}{W15}We're only{W3}{W5} one{W3} year{W3} apart,{W3}{W38} but {Fe9m6}{Eo}you{W5} never{W7} see{W3} me{W3} as{W3} someone to love..."
+"{V0400}{W15}We're{W3} only one{W5} year{W3} apart,{W3}{W38} but {Fe9m6}{Eo}you{W5} never{W7} see{W3} me{W3} as{W3} someone to love..."
 
 @NAR_KIS_A:258 NAR a2628ee5
 "{V0401}{W18}If it stays like this,{W10} nothing{W3} I do will{W18} {Ec}ever{W8} ever{W8} work!"
@@ -548,7 +548,7 @@ Squeeze
 "{V0408}{W15}Ah..."
 
 @NAR_KIS_A:284 NAR dddcb203
-"{V0409}{W15}Eeeeh{W10}{W10}{W10}{W10}{W10}?!{W10} My nose?!{W6}{W5}{W5}{W5}{W5}{W5}{W25} Why{W5} won't you{W5} do it{W5} properly?!"
+"{V0409}{W15}Eeeeh{W10}{W10}{W10}{W10}{W10}?!{W10} My{W6} nose{W5}{W5}{W5}{W5}{W5}?!{W25} Why{W5} won't you{W5} do it properly?!"
 
 @NAR_KIS_A:285 PLY 0d693e6c
 "Narumi, don't push yourself."
@@ -749,7 +749,7 @@ Squeeze
 "Narumi, I'm sorry I stood you up on our date the other day."
 
 @NAR_KIS_A:360 NAR 85f5b1ea
-"{V0445}{W2}{Fm3}It's okay now.{W5}{W30} {Ec}I{W3} forgot{W3} about it."
+"{V0445}{W2}{Fm3}It's okay now.{W5} {W30}{Ec}I{W3} forgot about it already."
 
 @NAR_KIS_A:361 PLY c5e03b29
 "Thank you, Narumi."
@@ -887,7 +887,7 @@ Squeeze
 "Ah... sorry. It's okay if you don't want to. I want to respect how you feel, Narumi."
 
 @NAR_KIS_A:406 NAR 3e04a133
-"{V0467}{W10}N{W5}{W5}o. {W15}I'm happy...{W35} {Eo}that you{W3}{W3} said{W3} you want to kiss me..."
+"{V0467}{W10}No,{W5} no.{W5}{W15} I'm happy...{W35} {Eo}That you{W3} said{W3} you want to kiss me..."
 
 @NAR_KIS_A:407 NAR 0c1399fe
 "{Nm}{V0468}{W10}..."
