@@ -518,7 +518,7 @@ Hoshino arranged the equipment neatly. Compared to that, mine was sloppy, even a
 ...And so I went with Hoshino to throw out the trash.
 
 @YUM_FEV:299 - 64c62dc2
-girl
+Girl
 
 @YUM_FEV:301 YUM 2e407d20
 "{V5000}{W4}Heave{W24}-ho{W14}...{W9}{W50} That's{W1} everything.{W1}{W1}"

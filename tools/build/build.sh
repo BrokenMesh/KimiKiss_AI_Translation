@@ -20,10 +20,11 @@
 #    replaces that entry of GRAPH0 (instead of the redraw), GRAPH1 or GRAPH2
 #    (apply_graph12.py writes GRAPH1.ARC / GRAPH2.ARC only for archives that
 #    have overrides). No directory or no PNGs: the build is as without the feature.
-# 5. Copies the clean ISO to out.iso and replaces those files (relocating
+# 5. Applies the in-place code patches in patches/elf to the executable (D-027).
+# 6. Copies the clean ISO to out.iso and replaces those files (relocating
 #    any that outgrew their slot) in both the ISO9660 and the UDF
 #    descriptors.
-# 6. Runs tools/qa/check_iso_udf.py on the result; the build fails if the
+# 7. Runs tools/qa/check_iso_udf.py on the result; the build fails if the
 #    ISO9660 and UDF trees disagree or any UDF tag/CRC is invalid.
 # The clean ISO is only ever read. Nothing here writes inside the repo
 # except the gitignored build/ directory.
@@ -56,7 +57,9 @@ python3 tools/reinsert/img_pack.py "$work/script" "$work/SCRIPT.IMG"
 python3 tools/texture/apply_graph0.py build/orig/GRAPH/GRAPH0.ARC "$work/GRAPH0.ARC" "$work/GRAPH0.PAC" \
   --report "$work/graph0_textures.json"
 python3 tools/texture/apply_graph12.py build/orig/GRAPH "$work"
-patches=("SCRIPT.IMG=$work/SCRIPT.IMG"
+python3 tools/build/elf_patch.py build/orig/SLPS_258.50 "$work/SLPS_258.50" patches/elf
+patches=("SLPS_258.50=$work/SLPS_258.50"
+         "SCRIPT.IMG=$work/SCRIPT.IMG"
          "GRAPH/GRAPH0.ARC=$work/GRAPH0.ARC"
          "GRAPH/GRAPH0.PAC=$work/GRAPH0.PAC")
 for n in GRAPH1 GRAPH2; do
@@ -64,5 +67,5 @@ for n in GRAPH1 GRAPH2; do
 done
 python3 tools/build/iso_patch.py "$iso" "$out" "${patches[@]}"
 
-# 6. The ISO9660 and UDF views of the image must agree (decision D-014).
+# 7. The ISO9660 and UDF views of the image must agree (decision D-014).
 python3 tools/qa/check_iso_udf.py "$out"

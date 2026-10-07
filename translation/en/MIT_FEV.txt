@@ -1487,7 +1487,7 @@ In the end, Shijou's hiccups did not go away. Strange.
 (I hope they go away soon...)
 
 @MIT_FEV:677 - 64c62dc2
-a girl
+Girl
 
 @MIT_FEV:679 MIT 3ba2bbf8
 "{V6005}{W10}Yes,{W10} Sensei.{W3}{W3}{W45} Two more{W5} balls,{W5} then.{W45} I{W3} will fetch them right away."

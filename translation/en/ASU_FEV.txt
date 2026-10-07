@@ -1286,7 +1286,7 @@ And so I witnessed Sakino's early lunch.
 "{V1081}{F2}The news tonight{W2} should show the video{W2} so you should watch.{Ec}{W25} {Eo}{Fe8m4}{W40}A bullet shot that wakes you right up..."
 
 @ASU_FEV:601 - 4d5110a8
-Underclassman
+First-year
 
 @ASU_FEV:603 MIC afd1862a
 "{V0000}S-{W30}Senpai!"
@@ -1634,7 +1634,7 @@ Even if it's from a girl, getting a letter at all... I'm jealous.
 (Sorry, Sakino. But just a little longer...)
 
 @ASU_FEV:733 - 64c62dc2
-girl
+Girl
 
 @ASU_FEV:734 ASU 5f2f9305
 "{V5048}Okay,{W10} now,{W40} PE,{W20} PE!{W45} Today is fun{W5} volleyball!"

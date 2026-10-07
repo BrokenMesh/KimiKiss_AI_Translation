@@ -269,7 +269,7 @@
 "{V0323}{B80}{W15}Ehe!"
 
 @NAR_GKD_A:198 - 1b0ea2ad
-Nana & Naru
+Both
 
 @NAR_GKD_A:200 NAN 0e48ce61
 "{V0755}{c2}{Mo}Let's{W3}{Mc}{W3}{Mo} go{Mc}{W10}{Mo}~!{Mc}"

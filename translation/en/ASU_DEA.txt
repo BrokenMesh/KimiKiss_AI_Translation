@@ -2,7 +2,7 @@
 # Format: docs/translation-format.md
 
 @ASU_DEA:17 - 64c62dc2
-girl
+Girl
 
 @ASU_DEA:20 ASU 5804e612
 "{V5000}{W5}Here goes!"

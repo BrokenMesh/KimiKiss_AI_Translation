@@ -67,7 +67,12 @@ case "${1:?command}" in
     ;;
   shot)
     out="${2:?out.png}"
-    xwd -root -silent | convert xwd:- -crop 640x480+0+0 +repage "$out"
+    w=$(win); x=0; y=0
+    if [[ -n "$w" ]]; then  # the game area is the window's client area, wherever Xvfb put it
+      x=$(xwininfo -id "$w" | awk '/Absolute upper-left X/ {print $4}')
+      y=$(xwininfo -id "$w" | awk '/Absolute upper-left Y/ {print $4}')
+    fi
+    xwd -root -silent | convert xwd:- -crop "640x480+$x+$y" +repage "$out"
     echo "$out"
     ;;
   stop)

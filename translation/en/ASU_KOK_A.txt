@@ -164,7 +164,7 @@ Sakino's shot flew beautifully into the opponent's goal.
 The match was over. Kibina High School had drawn with Kibito Commercial, and in fine style.
 
 @ASU_KOK_A:141 - 40ed030b
-Ryo
+Ryou
 
 @ASU_KOK_A:143 EX1 44ed6124
 "{V1009}Sakino!{W30} Nice shot!"

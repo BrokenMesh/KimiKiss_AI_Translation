@@ -710,7 +710,7 @@ She was staring at me as I hesitated. Observing me?! I'm being observed?!
 Is it? My heart is pounding...)
 
 @ERI_SEV_A:356 - 64c62dc2
-A girl
+Girl
 
 @ERI_SEV_A:357 ERI 384dbf0d
 "{V0115}{W5}Oh,{W15} {Nm},{W15} {Ec}heh,{W18} {Eo}you came, you came.{W1}{W1}{W1}"
