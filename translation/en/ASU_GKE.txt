@@ -11,7 +11,7 @@ A same-character match?! Impossible!
 "Sakino, did you just finish club?"
 
 @ASU_GKE:55 ASU be2ca745
-"{V0540}{W15}{F3}Yeah.{W45} I was just{W4} about{W1} to{W1} head{W3} for{W3} the{W1} school gate{W1}."
+"{V0540}{W15}{F3}Yeah.{W45} I was just{W4} about{W1} to{W1} head{W3} for{W3} the{W1} School Gate{W1}."
 
 @ASU_GKE:56 PLY 696225c1
 "I see."
@@ -20,7 +20,7 @@ A same-character match?! Impossible!
 "{V0547}{W12}{Fm4}Oh, {Nm}!"
 
 @ASU_GKE:58 PLY 855e16a3
-"Oh, Sakino. Heading to the school gate?"
+"Oh, Sakino. Heading to the School Gate?"
 
 @ASU_GKE:60 ASU 102433ef
 "{V0548}{W15}{F3}Yeah,{W3} I am."
@@ -119,7 +119,7 @@ A same-character match?! Impossible!
 "{V0572}{W12}Yeah,{W3} I did."
 
 @ASU_GKE:103 PLY 7f302857
-"Sakino, heading to the school gate?"
+"Sakino, heading to the School Gate?"
 
 @ASU_GKE:104 ASU bd6b9b67
 "{V0566}{W12}{Fe2}{Ec}Yeah.{W18}{Eo}{F3} Club{W3} just finished{Ti1},{Ti2}{W3} and I just got here."
@@ -170,7 +170,7 @@ A same-character match?! Impossible!
 "{V0579}{W12}{F2}Oh, {Nm}!"
 
 @ASU_GKE:123 PLY da10ac2f
-"Oh, Sakino, heading to the school gate?"
+"Oh, Sakino, heading to the School Gate?"
 
 @ASU_GKE:125 ASU 7c0b4164
 "{V0580}{W15}{Ec}Yeah,{W3} that's right! {P3}{Ec}{F3}{W42}Hehe,{W30} nice timing, huh?"

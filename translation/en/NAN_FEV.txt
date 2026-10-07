@@ -2,145 +2,145 @@
 # Format: docs/translation-format.md
 
 @NAN_FEV:10 PLY 7ee7683d
-
+(Hm? The sky looks ominous.)
 
 @NAN_FEV:19 PLY 0308c77c
-
+"Uh-oh! An evening shower! I have to hurry home!"
 
 @NAN_FEV:20 SYS 61e19b8c
-
+Splash! Splash! Splash! Splash!
 
 @NAN_FEV:24 PLY 4b472bff
-
+"Brr, it's cold. Nana, I'm home!"
 
 @NAN_FEV:25 PLY ec55d40a
-
+"Man... even my underwear is soaked. Nana, bring me a towel!"
 
 @NAN_FEV:26 PLY 0d80b9d5
-
+"......"
 
 @NAN_FEV:27 PLY f7056747
-
+(She's not home yet. This is bad...)
 
 @NAN_FEV:28 PLY f3131e1f
-
+(What now?{W15} ...Should I just take a bath and warm up? ...Yes! Let's do that!)
 
 @NAN_FEV:29 PLY b0f37bfc
-
+(Toss the wet clothes into the washing machine, and...)
 
 @NAN_FEV:31 PLY d1e4d12d
-
+"Brr, cold, cold."
 
 @NAN_FEV:33 PLY 5d292aeb
-
+"{Ts3}Cold!"
 
 @NAN_FEV:34 PLY 60850e4e
-
+(Ugh... of course yesterday's bathwater has gone cold by now. Reheat, reheat...)
 
 @NAN_FEV:35 PLY 78a1cfb4
-
+"Ugh... warm up quick, warm up..."
 
 @NAN_FEV:36 PLY 9358d5b3
-
+"Brr, shiver, shiver, shiver, shiver..."
 
 @NAN_FEV:37 PLY 8085bac5
-
+(Water that's been heated once heats up easily. Just a little patience.)
 
 @NAN_FEV:38 PLY 61563086
-
+"Shiver, shiver, shiver, shiver, shiver, shiver..."
 
 @NAN_FEV:39 PLY e5238417
-
+(...Oh, it's warming up a bit.)
 
 @NAN_FEV:40 PLY e69e653d
-
+(...Yeah, the temperature's getting just right.)
 
 @NAN_FEV:41 PLY c82de11b
-
+"Ahhhh, that brings me back to life."
 
 @NAN_FEV:42 PLY 68e1c64b
-
+"Nice and toasty... this feels great..."
 
 @NAN_FEV:43 PLY 29d39fa0
-
+(Phew... now that I'm warm, I'm getting sleepy.)
 
 @NAN_FEV:44 PLY e802c440
-
+(Whoa! Not good! I can't fall asleep! ...But just for a little while...)
 
 @NAN_FEV:45 PLY aca19409
-
+"Zzz... zzz..."
 
 @NAN_FEV:47 SYS 82bdff36
-
+......
 
 @NAN_FEV:48 NAN c65a67a8
-
+"{V0853}Big Bro,{W30} I'm home~!"
 
 @NAN_FEV:50 NAN c37ad5ad
-
+"{V0854}Awww,{W45} I'm already{W2} sopping wet!"
 
 @NAN_FEV:52 NAN 4e3cba16
-
+"{V0855}Big Bro,{W35} get me{W5} a towel~!"
 
 @NAN_FEV:54 NAN 5fa506a0
-
+"{V0856}Oh,{W40} Big Bro's not home yet..."
 
 @NAN_FEV:55 NAN 87c56caf
-
+"{V0857}Ugh...{W50} what should I do?{W60} I'm cold."
 
 @NAN_FEV:57 NAN 0b94f328
-
+"{V0858}I know!{W20} I'll take a bath!{W23} By the time I warm up,{W15} Big Bro{W3} will be home,{W15} so it's two birds{W5} with one{W5} stone!"
 
 @NAN_FEV:58 NAN c0777479
-
+"{V0859}Heave-ho,{W35} heave-ho.{W55} ...They're wet,{W30} so they're hard to take off..."
 
 @NAN_FEV:59 NAN cfc3fb3a
-
+"{V0860}Got them off~!"
 
 @NAN_FEV:60 NAN c70dd085
-
+"{V0861}Huh?{W40} Why is there steam..."
 
 @NAN_FEV:61 NAN cdeab59d
-
+"{V0862}{Ts3}Eek!{W20} Big Bro!"
 
 @NAN_FEV:62 PLY 122df4f6
-
+"Huh?"
 
 @NAN_FEV:70 NAN ed09b61f
-
+"{V0863}Geez!{W30} If you're in there,{W3} tell me{W3} you're in there~!"
 
 @NAN_FEV:71 PLY 2495158f
-
+"S-sorry, I fell asleep."
 
 @NAN_FEV:72 NAN a2ec4322
-
+"{V0864}Big Bro, you idiot!{W30} I don't{W3} care anymore!"
 
 @NAN_FEV:73 PLY 96073b10
-
+"S-sorry, here, let's switch. You must be freezing."
 
 @NAN_FEV:74 NAN 8617dfb9
-
+"{V0865}Geez!{W20} My eyes{W20} are closed,{W30} so hurry{W5} out~!"
 
 @NAN_FEV:75 PLY 2037793c
-
+"O-okay, okay."
 
 @NAN_FEV:76 PLY 40c7ce75
-
+"Nana..."
 
 @NAN_FEV:77 NAN b0cc20df
-
+"{V0866}What?"
 
 @NAN_FEV:78 PLY 97ce6917
-
+"Take your time and warm up."
 
 @NAN_FEV:79 NAN 97a2564f
-
+"{V0867}Geez!{W30} Never mind that,{W5} just hurry{W3} up and get out!{W10} Big Bro,{W2} you pervert!"
 
 @NAN_FEV:80 SYS f2829d1e
-
+...And so, I warmed up in the bath.
 
 @NAN_FEV:81 PLY f235fef5
-
+(Whoa! Not good! I can't fall asleep! ...I'd catch a cold.)
 
 @NAN_FEV:82 SYS f8a55f8f
-
+...And so, I safely warmed up in the bath.
