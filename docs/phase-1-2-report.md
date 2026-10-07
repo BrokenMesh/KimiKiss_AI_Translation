@@ -29,7 +29,7 @@ Source image: SLPS-25850 (eb!Kore+ re-release), SHA-1 `40a70c43ef4c57b8bcdfeab38
 
 ## Blockers
 
-None for Phase 2. Phase 3 needs Phase 0's tooling: Ghidra with a PS2 (R5900) loader for the ELF, and PCSX2 for runtime checks.
+None for Phase 2. Phase 3 is blocked on Gate G1: Ghidra cannot be downloaded in this session ([phase-0-status.md](phase-0-status.md)).
 
 ## Next concrete steps
 
