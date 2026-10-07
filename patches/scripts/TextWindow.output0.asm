@@ -4,6 +4,8 @@
 ; first line of a spoken line starts at the same column as the continuation lines instead of directly after the
 ; plate (English plates have no trailing blank; Japanese relied on the hanging bracket). Plate wider than the indent:
 ; 6 px gap. D-023.
+; D-029: the wait after each printed character (waitCnt = putWait) is halved. English lines have roughly 1.5-2x the
+; characters of the Japanese ones; the loop spends waitCnt+1 frames per character, so every speed step is at least 1.5x faster.
 push_nils 2
 push_ivar 20
 send.b 0 idx:46
@@ -17,6 +19,8 @@ push_temp 0
 send.b 1 idx:50
 pop
 push_ivar 14
+push_const float:0.5
+op *
 store_ivar 30
 jump.l L00e6
 L001f: push_temp 0

@@ -1,5 +1,7 @@
 # Pipeline commands
 
+For a plain build use `tools/build/build.sh` (or `build.bat` on Windows); it does steps 1-3 and the texture, executable and disc steps below itself, creating `build/orig` and `text/` when missing. Requirements: Python 3 with Pillow and numpy (`requirements.txt`), xdelta3, and a Unix shell (Git Bash on Windows). The Inter font weights the texture redraw needs are in `tools/font/`. Player instructions: `docs/GETTING_STARTED.md`.
+
 All paths are relative to the repo root. `build/` and `text/` are gitignored because they contain game data.
 
 ```sh
