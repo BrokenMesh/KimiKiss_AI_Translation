@@ -7304,1009 +7304,1009 @@
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.2": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.4": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.6": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.8": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.17": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.19": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.28": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.30": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.39": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.41": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.50": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.52": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.54": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.63": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.65": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.69": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.71": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.73": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.81": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.83": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.90": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.92": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.96": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.98": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.102": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.104": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.113": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.115": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.119": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.121": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.123": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.125": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.127": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.129": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.133": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.135": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.137": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.150": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.154": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.158": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.162": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.166": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.170": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.174": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.178": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.182": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.188": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.192": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.196": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.197": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.201": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.202": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.206": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.214": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.216": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.218": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.220": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.223": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.226": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.233": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.237": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.239": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.245": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.247": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.254": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.256": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.260": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.262": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.266": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.268": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.272": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.274": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.278": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.280": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.287": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.289": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.291": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.298": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.300": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.302": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.304": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.306": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.317": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.319": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.321": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.325": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.327": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.334": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.338": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.340": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.344": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.346": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.348": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.350": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.352": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.354": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.356": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.358": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.360": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.362": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.364": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.366": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.368": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.376": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.378": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.380": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.382": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.385": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.387": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.389": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.393": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.395": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.403": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.405": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.407": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.409": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.411": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.413": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.421": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.423": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.431": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.433": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.437": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.439": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.441": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.448": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.450": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.452": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.454": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.466": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.470": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.474": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.476": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.478": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.480": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.484": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.486": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.488": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.492": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.494": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.496": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:9.500": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names."
  },
  "StaffRoll:20": {
   "display": "TextLine",
   "max_px": 560,
   "lines": 1,
-  "translate": true,
-  "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names. Secret credit that replaces row 182 once the game is cleared."
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10. Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names. Secret credit that replaces row 182 once the game is cleared."
  },
  "StaffRoll:23": {
   "display": "TextLine",
@@ -8321,6 +8321,643 @@
   "lines": 1,
   "translate": true,
   "note": "Credits line: StaffRoll>>run setText: on a TextLine (layer 9, pitch 24, scale 1.0, first glyph centre x=-256 so left edge -268, scrolls up from y=240). One line, no \\n. Hard limit = screen edge 320 -> 588 px; 560 keeps a 28 px margin. Original max 19 chars = 456 px. Leading U+3000 pairs (48 px) are the indent of person names. Separator between player surname and given name in the credit line (StaffRoll:23)."
+ },
+ "GUN_PRO:29": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:30": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:31": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:32": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:33": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:34": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:35": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:36": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:37": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:38": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:39": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:40": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:41": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:42": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:43": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:44": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:45": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:46": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:47": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:48": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:49": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:50": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:51": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:52": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:53": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:54": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:55": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:56": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:57": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:58": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:59": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:60": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:61": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:62": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:63": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:64": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:65": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:66": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:67": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:68": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:69": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:70": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:71": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:72": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:73": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:74": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:75": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:76": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:77": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:78": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:79": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:80": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:81": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:82": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:83": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:84": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:85": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:86": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:87": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:88": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:89": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:90": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:91": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:92": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:93": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:94": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:95": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:96": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:97": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:98": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:99": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:100": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:101": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:102": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:103": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:104": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:105": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:106": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:107": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:108": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:109": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:110": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:111": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:112": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:113": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:114": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:115": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:116": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:117": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:118": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
+ },
+ "GUN_PRO:119": {
+  "display": "TextWindow",
+  "max_px": 552,
+  "lines": 3,
+  "translate": false,
+  "note": "credits stay Japanese, glossary D10"
  },
  "WadaiParam:10": {
   "display": "TextLine",

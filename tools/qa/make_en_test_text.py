@@ -15,7 +15,7 @@ TextLineC): narrow and wide letters, to check proportional menu text.
 NameEntry:4 is a two-line ConfirmDialog message ('\\n' kept): the box must
 follow the pixel width of the longer line (D-017).
 GameParam:166/167 and K2_Script:13 are the default surname, given name and name
-plate (D-016): English codes, 6 letters each.
+plate (D-016): English codes: Aihara, Kouichi (glossary D2) and the Aihara plate.
 """
 import json
 import os
@@ -37,7 +37,7 @@ LINES = {
     'NameEntry:4': 'Quit name entry and return\nto the main menu?',
     # Default names (D-016): surname, given name, and the protagonist's name plate.
     'GameParam:166': 'Aihara',
-    'GameParam:167': 'Koichi',
+    'GameParam:167': 'Kouichi',
     'K2_Script:13': 'Aihara',
 }
 

@@ -115,7 +115,7 @@ All in `NameEntryList` (ivars: 0 base, 1 line (10 x 4 `TextLine`), 2 pageHead, 3
 | Limit | Value | Source |
 |---|---|---|
 | Widest / typical glyph | W 22, M, m 20, w 18, most lowercase 12-14, i, l, j 6 | width table |
-| `Koichi`, `Aihara` | 66 px, 70 px | |
+| `Kouichi`, `Aihara` | 79 px, 70 px | default names (glossary D2) |
 | Sample of 112 first / 62 last names | median 71-73 px, 90th percentile 100-113 px | |
 | Entry screen, both names | about 172 px, unscaled | section 3 |
 | Plate / continuation indent | 92 px (4 cells) | `putIndent: 4` |
@@ -189,7 +189,7 @@ Also change the first page to 英数記号, because kanji is useless to English 
 
 ### (c) Default name in English
 
-`GameParam` constants 166 and 167 become `Aihara` and `Koichi` (`byte_budget` 4 is irrelevant: strings are referenced by index), `K2_Script` constant 13 becomes `Aihara`. `setMyouji:` rewrites the plate on every new game and every load (`restoreShioriBody` calls it), so the plate follows. The entry screen shows the existing names, so the defaults appear pre-filled (6 characters each, within N = 8).
+`GameParam` constants 166 and 167 become `Aihara` and `Kouichi` (`byte_budget` 4 is irrelevant: strings are referenced by index), `K2_Script` constant 13 becomes `Aihara`. `setMyouji:` rewrites the plate on every new game and every load (`restoreShioriBody` calls it), so the plate follows. The entry screen shows the existing names, so the defaults appear pre-filled (6 and 7 characters, within N = 8).
 
 ### Risks
 
@@ -204,4 +204,4 @@ Also change the first page to 英数記号, because kanji is useless to English 
 | Layout verification | `FontChar` is left-aligned in a 24 px cell. At scale 0.75 the sprite centre is `left + 9`, not `+ 12`. `layout` and `slotX:` must use that. The `waku` underline (image 142) needs `Sprite >> setScale:` for width; verify in the emulator. |
 | Voices | `voice0/voice1` clips (const 56/58 in `scriptMain`) are Japanese recordings of the heroine saying the name; they play when the cursor leaves a name. Unchanged and unrelated to the typed letters. |
 
-Verification plan (emulator, `tools/qa/emu.sh`): new game, enter `Aihara` / `Koichi`, then 8 + 8 of `W`/`i` to check the cap and the layout; confirm; check the first line (plate), a `{Nm}` line, the backlog and the credits; save, load and open 履歴; compare a Japanese save loaded in the patched build.
+Verification plan (emulator, `tools/qa/emu.sh`): new game, enter `Aihara` / `Kouichi`, then 8 + 8 of `W`/`i` to check the cap and the layout; confirm; check the first line (plate), a `{Nm}` line, the backlog and the credits; save, load and open 履歴; compare a Japanese save loaded in the patched build.
