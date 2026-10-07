@@ -1,41 +1,114 @@
 entry	line	bg	box	align	opts
 2	0	T,rgb:ffbd65	40,5,102,36	t	
+10	0	mode	120,3,209,31	t	fill=ffffff
 12	0	mode	auto	t	
 16	0	mode	auto	t	
+17	0	T	auto	t	fill=ffffff
 23	0	mode	30,5,134,50	t	
 28	0	mode	3,2,59,23	t	
 31	0	T,rgb:ffbd65	36,4,100,36	t	
 37	0	mode	5,37,59,65	t	fill=ffffff
 38	0	mode	auto	t	
 41	0	mode	auto	t	
+44	0	T	auto	t	fill=ffffff
 45	0	mode	40,8,172,45	t	
 45	1	mode	101,45,152,72	t	fill=ffffff;outline=0b537a,0b537a,0b537a
 46	0	mode	auto	t	
+56	0	T,rgb:ffbd65	40,4,104,37	t	
+57	0	mode	12,7,60,37	t	fill=ffffff
+60	0	mode	9,49,70,79	t	fill=ffffff
+61	0	mode	auto	t	
+68	0	T	auto	t	fill=ffffff
+72	0	mode	auto	t	
+75	0	T,rgb:ffbd65	40,4,104,37	t	
+80	0	T,rgb:ffbd65	40,4,104,37	t	
+88	0	mode	11,7,65,35	t	fill=ffffff
+90	0	T	auto	t	fill=ffffff
+94	0	mode	auto	t	
+100	0	T	auto	t	fill=ffffff
+102	0	mode	45,6,128,46	t	
+110	0	T,rgb:ffbd65	36,4,104,37	t	
+111	0	mode	21,5,71,34	t	fill=ffffff
+119	0	mode	8,30,60,60	t	fill=ffffff
+122	0	mode	auto	t	
+124	0	mode	40,6,154,46	t	
+125	0	T	auto	t	fill=ffffff
+128	0	mode	auto	t	
+145	0	T,rgb:ffbd65	36,4,104,37	t	
+150	0	T	auto	t	fill=ffffff;outline=1a3a32;squeeze=1;font=SemiBold
+151	0	mode	54,20,88,44	t	
+153	0	mode	8,16,59,46	t	fill=ffffff
+154	0	mode	auto	t	
+163	0	T,rgb:ffbd65	32,4,108,37	t	
+171	0	mode	22,5,75,34	t	fill=ffffff
+179	0	T	auto	t	fill=ffffff
+180	0	mode	auto	t	
+186	0	mode	auto	t	
+190	0	T	auto	t	fill=ffffff;outline=101830;squeeze=1;font=SemiBold
+206	0	T	auto	t	fill=ffffff
+215	0	mode	3,2,60,23	t	
+217	0	T,rgb:ffbd65	40,4,104,37	t	
+223	0	mode	5,33,59,61	t	fill=ffffff
+224	0	mode	auto	t	
+227	0	mode	auto	t	xmax=283
+230	0	mode	auto	t	
+233	0	mode	auto	t	
+236	0	T,rgb:ffbd65	32,4,108,37	t	
+241	0	T,rgb:ffbd65	40,4,104,37	t	
+246	0	mode	9,49,70,79	t	fill=ffffff
+247	0	mode	auto	t	
+248	0	T	auto	t	fill=ffffff;outline=090909;squeeze=1;font=SemiBold
+258	0	mode	7,4,62,34	t	fill=ffffff
+261	0	T	auto	t	fill=ffffff
+269	0	mode	3,2,58,23	t	
+273	0	T,rgb:ffbd65	36,4,104,37	t	
+278	0	mode	auto	t	
+279	0	mode	auto	t	
+283	0	mode	11,7,65,35	t	fill=ffffff
+285	0	mode	auto	t	
+292	0	mode	auto	t	
+294	0	T,rgb:ffbd65	32,4,108,37	t	
+304	0	mode	100,12,476,46	t	
+304	1	mode	176,45,232,75	t	fill=ffffff;outline=0b537a,0b537a,0b537a
+304	2	mode	304,45,358,75	t	fill=ffffff;outline=0b537a,0b537a,0b537a
+306	0	mode	21,5,71,34	t	fill=ffffff
+311	0	mode	80,55,132,85	t	fill=ffffff
+319	0	mode	auto	t	
 331	0	T,rgb:ffbd65	40,5,102,36	t	
-336	0	mode	5,34,60,60	t	fill=ffffff
+336	0	mode	5,33,59,61	t	fill=ffffff
 340	0	mode	auto	t	
 341	0	mode	auto	t	xmax=283
 345	0	T	auto	t	fill=ffffff
 347	0	mode,T	14,4,90,50	t	font=BoldItalic
 354	0	T,rgb:ffbd65	38,4,104,36	t	
+358	0	mode	12,6,66,33	t	fill=ffffff
 366	0	T	auto	t	fill=ffffff
+369	0	T	auto	t	fill=ffffff
 376	0	mode	3,2,58,23	t	
 387	0	T,rgb:ffbd65	42,4,104,36	t	
 392	0	mode	6,39,59,65	t	fill=ffffff
 393	0	mode	auto	t	
 395	0	mode	auto	t	xmax=276
+398	0	T	auto	t	fill=ffffff
+401	0	mode	auto	t	
+406	0	T,rgb:ffbd65	36,4,104,37	t	
+411	0	mode	12,7,60,37	t	fill=ffffff
+418	0	mode	80,55,132,85	t	fill=ffffff
 422	0	T	auto	t	fill=ffffff
 424	0	mode	auto	t	
 426	0	T	auto	t	fill=ffffff
 429	0	mode	auto	t	
 432	0	T,rgb:ffbd65	40,4,104,36	t	
-433	0	T	auto	t	smax=16;font=SemiBold;rings=1
+433	0	T	auto	t	smax=14;font=SemiBold;fill=ffffff;outline=090909;squeeze=1
 436	0	mode	121,3,206,31	t	fill=ffffff;shadow=1,1
 438	0	mode	auto	t	
+440	0	T,rgb:ffbd65	32,4,108,37	t	
+447	0	T	auto	t	rings=1;squeeze=1;font=SemiBold
 449	0	mode	6,4,64,31	t	fill=ffffff
 451	0	T	auto	t	fill=ffffff
 453	0	rgb:f09eaa,rgb:f6cfd3,rgb:ed8898,rgb:ed7c8d,rgb:f4979f	34,129,100,146	t	fill=ffffff;outline=e28153;rings=1;font=BoldItalic;smax=14
 453	1	rgb:f09eaa,rgb:f6cfd3,rgb:b1b5a6,rgb:ed8898,rgb:f1b6be	234,129,332,146	t	fill=ffffff;outline=e28153;rings=1;font=BoldItalic;smax=14
+472	0	T,rgb:ffbd65	40,4,104,37	t	
 477	0	mode	9,4,68,31	t	fill=ffffff
 481	0	mode	7,30,60,56	t	fill=ffffff
 483	0	T	auto	t	fill=ffffff
@@ -43,6 +116,14 @@ entry	line	bg	box	align	opts
 487	0	mode	auto	t	
 496	0	T,rgb:ffbd65	38,4,104,38	t	
 500	0	mode	auto	t	
+507	0	T,rgb:ffbd65	40,4,104,37	t	
+513	0	mode	8,16,59,46	t	fill=ffffff
+519	0	T,rgb:ffbd65	40,4,104,37	t	
+524	0	mode	22,5,75,34	t	fill=ffffff
+535	0	mode	auto	t	
+536	0	mode	auto	t	
 537	0	T	auto	t	fill=ffffff
 539	0	mode	auto	t	
 542	0	T	auto	t	fill=ffffff
+545	0	mode	40,6,186,48	t	
+549	0	T,rgb:ffbd65	32,4,108,37	t	

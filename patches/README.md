@@ -40,7 +40,7 @@ A file headed `; add: <Class> <method> argc=<n> table=...` adds a new method ins
 
 ## Textures
 
-Not bytecode and not data in the repo: `tools/texture/` redraws the Japanese UI text of 82 `GRAPH0` textures into English at build time (D-019). `labels.tsv` holds the English labels, `layout.tsv` the text boxes and background rules. The redrawn TIM2 files keep the original palette and size, so the ARC offsets do not change; `apply_graph0.py` writes them together with the font into `GRAPH0.ARC` and the LZSS `GRAPH0.PAC`. Method and review list: `docs/phase-4-textures.md`.
+Not bytecode and not data in the repo: `tools/texture/` redraws the Japanese UI text of 216 `GRAPH0` textures into English at build time (D-019). `labels.tsv` holds the English labels, `layout.tsv` the text boxes and background rules. The redrawn TIM2 files keep the original palette and size, so the ARC offsets do not change; `apply_graph0.py` writes them together with the font into `GRAPH0.ARC` and the LZSS `GRAPH0.PAC`. Method and review list: `docs/phase-4-textures.md`.
 
 ## ELF
 

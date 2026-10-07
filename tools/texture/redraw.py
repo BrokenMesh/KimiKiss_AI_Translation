@@ -28,7 +28,8 @@ Inputs (both tracked, neither contains image data):
                 opts  key=value;... : font (Inter weight), smax (largest size
                       in px), xmin/xmax (clip the auto box), fill=RRGGBB (force
                       the fill colour), outline=RRGGBB,.. (ring colours, fill
-                      outwards), rings=N (at most N outline rings),
+                      outwards), rings=N (at most N outline rings), squeeze=F (narrowest horizontal
+                      squeeze, default 0.85; 1 = never squeeze),
                       style=plain|outline|shadow, shadow=dx,dy.
 
 Method: the pixels in the box that are not background are the old text.
@@ -433,7 +434,7 @@ def draw_text(tex, box, idx_sub, info, line, report):
         iw, ih = ink[2] - ink[0], ink[3] - ink[1]
         if ih <= bh - pt - pb:
             k = (bw - pl - pr - 2) / iw
-            if k >= SQUEEZE:
+            if k >= float(opts.get('squeeze', SQUEEZE)):
                 chosen = (size, min(1.0, k))
                 break
         size -= 0.5
