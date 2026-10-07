@@ -20,7 +20,7 @@ The result must be `40a70c43ef4c57b8bcdfeab3814437c3eaf4821c`. If it differs, th
 3. Command line: `xdelta3 -d -s "KimiKiss.iso" KimiKiss_EN.xdelta KimiKiss_EN.iso`.
 4. The result is 1,267,597,312 bytes. If the patcher reports a checksum or source mismatch, go back to step 1.
 
-This patch contains the hand-made images (title logo, help pages, charts). A build you make yourself has them only if you add their files (see Way B).
+This patch contains everything, including the hand-made images (title logo, help pages, charts).
 
 ## Way B: build it yourself
 
@@ -39,9 +39,9 @@ tools/build/build.sh "KimiKiss dump.iso" build/KimiKiss_EN.iso        # Git Bash
 build.bat "C:\path\to\KimiKiss dump.iso"                                # Windows Command Prompt
 ```
 
-It prints one line per step and ends with `OK: patched image ...`. The result is `build\KimiKiss_EN.iso` and `build\KimiKiss_EN.iso.xdelta` (the patch you can share). Details are in `build/build.log`. The first run also extracts the disc into `build/orig/` and the Japanese text into `text/` (local only, never commit them).
+It prints one line per step and ends with `OK: created the ISO` and `OK: created the patch`. Both files are in the `build` folder of the repository: `build\KimiKiss_EN.iso` (play this; never share it) and `build\KimiKiss_EN.iso.xdelta` (the patch you can share). A bare output name such as `my.iso` is also put in `build`; the name must end in `.iso`. Options go after the ISO path, for example `--no-xdelta` to skip the patch file (do not write `KIMIKISS_NO_XDELTA=1` as a second argument: Windows treats the `=` as a separator). Details are in `build/build.log`. The first run also extracts the disc into `build/orig/` and the Japanese text into `text/` (local only, never commit them).
 
-The hand-made images are game art and are not in the repository. To include them in your own build, put their PNG files (`GRAPH0_0178.png`, `GRAPH1_0194.png`, ... exactly as named) into a folder `texture_overrides/` in the repository, or point `KIMIKISS_OVERRIDES` at another folder. The build prints how many it used. Without them your build has the automatic English labels but the Japanese help pages.
+The hand-made images are the PNG files in the repository's `texture_overrides/` folder (`GRAPH0_0178.png`, `GRAPH1_0194.png`, ... named after the archive entry) and are used automatically; the build prints how many it found. To try your own image, put it there with the same naming scheme and the original size, or point `KIMIKISS_OVERRIDES` at another folder.
 
 Typical errors, all printed with the fix by the build itself: wrong Python (no Pillow/numpy), missing xdelta3, ISO checksum mismatch.
 

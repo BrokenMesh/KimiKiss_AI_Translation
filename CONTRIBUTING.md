@@ -55,7 +55,7 @@ Exit status 1 from the checker means a line is broken (a FAIL: a dropped control
 
 ## Images
 
-Text in pictures is replaced by PNG files named after the archive entry (`GRAPH0_0178.png`, `GRAPH1_0194.png`, ...), exactly the original size. Details in `docs/phase-4-textures.md` ("Hand-edited textures"). The PNGs are derived from game art, so they are **not committed**. Put your PNGs in `texture_overrides/` (ignored by git), run `python3 tools/texture/overrides.py check`, build, and send the PNGs to the maintainers on the Discord; they go into the release patch. Many labels are redrawn automatically from `tools/texture/labels.tsv`; fixing a label is a one-line edit there (columns: entry, Japanese, English, note).
+Text in pictures is replaced by PNG files named after the archive entry (`GRAPH0_0178.png`, `GRAPH1_0194.png`, ...), exactly the original size. Details in `docs/phase-4-textures.md` ("Hand-edited textures"). The finished images are committed in `texture_overrides/` (edited artwork only, never the untouched textures exported from the disc), so a pull request can add or change one. Put your PNG there, run `python3 tools/texture/overrides.py check`, build, look at the result in the emulator, and open a pull request. Export an original to start from with `python3 tools/extract/arc.py unpack` and `python3 tools/extract/tim2.py topng` (see `docs/pipeline.md`) but do not commit that export. Many labels are redrawn automatically from `tools/texture/labels.tsv`; fixing a label is a one-line edit there (columns: entry, Japanese, English, note).
 
 ## Pull request checklist
 

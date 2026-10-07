@@ -6,7 +6,7 @@ An unofficial fan translation project. It is not affiliated with or endorsed by 
 
 ## What is not in this repository
 
-No game image, BIOS, executable, extracted game file or patched image. The text records, the Ghidra project and the hand-made textures (which are derived from game art) stay on the contributors' machines. You need your own legally obtained dump of the disc (`docs/source-iso.md` gives the exact edition and checksum). The only game-derived data published is `release/KimiKiss_EN.xdelta`, a binary difference that is useless without the original disc, plus short strings (names, labels, a few lines) quoted in documentation and tests.
+No game image, BIOS, executable, extracted game file or patched image. The text records and the Ghidra project stay on the contributors' machines. You need your own legally obtained dump of the disc (`docs/source-iso.md` gives the exact edition and checksum). The game-derived material published is: `release/KimiKiss_EN.xdelta`, a binary difference that is useless without the original disc; the hand-made images in `texture_overrides/` (see below); and short strings (names, labels, a few lines) quoted in documentation and tests.
 
 ## Licences of the parts
 
@@ -15,6 +15,7 @@ No game image, BIOS, executable, extracted game file or patched image. The text 
 | Code, patches, scripts, documentation, the English translation in `translation/en/` | MIT (`LICENSE`) |
 | `tools/font/Inter-*.otf` | SIL Open Font License 1.1, see `tools/font/LICENSE-Inter.txt` (The Inter Project Authors) |
 | `docs/logo.png` | Custom design by a project contributor, published for this project's README |
+| `texture_overrides/*.png` | Edited versions of the game's own images (help pages, labels, title logo), made by contributors with English text. They contain game artwork and remain the property of its rights holders; they are published as part of the fan patch, and removed on a rights holder's request |
 | The patch data inside `release/KimiKiss_EN.xdelta` | Derived from the original game; distributed only as a difference, as is usual for fan patches |
 
 ## Credits

@@ -28,7 +28,7 @@ This repository contains **no game data**. You need your own dump of the disc. T
 3. Apply it with an xdelta patcher (for example xdeltaUI or Delta Patcher): source = your ISO, patch = `KimiKiss_EN.xdelta`, output = `KimiKiss_EN.iso`. Command line: `xdelta3 -d -s KimiKiss.iso release/KimiKiss_EN.xdelta KimiKiss_EN.iso`.
 4. Start `KimiKiss_EN.iso` in PCSX2.
 
-This patch is the only way to get the hand-made images (title logo, help pages, charts), which are not stored in the repository.
+The patch contains everything: the translation, the code changes and the hand-made images (title logo, help pages, charts).
 
 ### B. Build it yourself from the source
 
@@ -36,10 +36,10 @@ Needs Python 3, `pip install -r requirements.txt`, xdelta3, and on Windows Git f
 
 ```sh
 tools/build/build.sh "KimiKiss dump.iso" build/KimiKiss_EN.iso      # Linux, macOS, Git Bash
-build.bat "C:\path\to\KimiKiss dump.iso"                              # Windows
+build.bat "C:\path\to\KimiKiss dump.iso"                              # Windows (add --no-xdelta to skip the patch file)
 ```
 
-The build checks your ISO's checksum first, never writes to it, prints one line per step and ends with the paths of the patched image and of a `.xdelta`. About a minute. A build from the repository has everything except the hand-made images; to add those, put their PNGs in `texture_overrides/` (see `docs/GETTING_STARTED.md`). Do this if you want to change the translation or the tools.
+The build checks your ISO's checksum first, never writes to it, prints one line per step and ends with `OK: created the ISO` and `OK: created the patch`. Both files are in the `build/` folder: `build/KimiKiss_EN.iso` and `build/KimiKiss_EN.iso.xdelta` (share the `.xdelta`, never the ISO). About a minute. The hand-made images are in `texture_overrides/` and are used automatically, so the result equals the release patch. Do this if you want to change the translation, the images or the tools.
 
 Step-by-step with all prerequisites and common errors: **[docs/GETTING_STARTED.md](docs/GETTING_STARTED.md)**.
 
@@ -56,6 +56,7 @@ Fixing a line is a one-line edit in a text file. See **[CONTRIBUTING.md](CONTRIB
 | Path | What |
 |---|---|
 | `translation/en/` | the English text, one file per scene |
+| `texture_overrides/` | the hand-made images (PNG) that replace Japanese images |
 | `tools/` | extraction, reinsertion, build, texture, translation and QA tools |
 | `patches/` | the changes to the game's scripts (`scripts/`) and executable (`elf/`) |
 | `release/` | the distributable xdelta patch |
@@ -63,4 +64,4 @@ Fixing a line is a one-line edit in a text file. See **[CONTRIBUTING.md](CONTRIB
 
 ## Legal
 
-Unofficial fan project, not affiliated with the rights holders. No game data is distributed. Code and translation: MIT (`LICENSE`); see `NOTICE.md` for the parts under other licences (the Inter font) and credits. The logo is a custom design by a project contributor.
+Unofficial fan project, not affiliated with the rights holders. No game data is distributed. Code and translation: MIT (`LICENSE`); see `NOTICE.md` for the parts under other licences (the Inter font), the note on the images and credits. The logo is a custom design by a project contributor.

@@ -57,9 +57,9 @@ Translation review: names (16, 429, 487, 539) use given name or Hepburn order on
 
 ## Hand-edited textures (D-020)
 
-Some textures are better drawn by hand (entry 453, the help pages, text painted into art). The build takes finished PNGs from a directory **outside the repository**, because they are derived from the game's art (like the ISO, D-001):
+Some textures are better drawn by hand (entry 453, the help pages, text painted into art). The build takes finished PNGs from a directory. Until D-030 this had to be outside the repository because the PNGs are derived from the game's art; D-031 moved the project's own set into the repository as `texture_overrides/` (see there). Untouched textures exported from the disc still never go into the repository:
 
-- Directory: `$KIMIKISS_OVERRIDES`, else `<repo>/texture_overrides` (git-ignored), else `$KIMIKISS_PRIVATE_DIR/texture_overrides`, else `../kimikiss-private/texture_overrides` (next to the checkout). No directory, or no PNGs: the build is exactly the build without this feature. A directory inside the repo is refused unless git ignores it (`build/`); `.gitignore` also lists `texture_overrides/`.
+- Directory: `$KIMIKISS_OVERRIDES`, else `<repo>/texture_overrides` (committed, D-031), else `$KIMIKISS_PRIVATE_DIR/texture_overrides`, else `../kimikiss-private/texture_overrides` (next to the checkout). No directory, or no PNGs: the build is exactly the build without this feature. Any other directory inside the repo is refused unless git ignores it (`build/`).
 - Names: `GRAPH0_0453.png`, `GRAPH1_0058.png`, `GRAPH2_0016.png`: archive and entry number, as exported by `python3 tools/extract/tim2.py topng` (export from `build/orig/GRAPH/*.ARC` with `arc.py unpack`; the index in the file name is the entry). Any other `*.png` name in the directory is an error; other file types are ignored.
 - Content: any PNG (RGBA, RGB, grey, indexed, any bit depth), **exactly the original width and height**. Wrong size, an entry number the archive does not have, an entry that is not a TIM2 (GRAPH0 396, the float records of GRAPH2), the generated font (GRAPH0 77), a 4bpp texture and two files for one entry are refused with a message and the build stops.
 - Colours: the TIM2 keeps its header, length and palette order, so no ARC offset moves.
