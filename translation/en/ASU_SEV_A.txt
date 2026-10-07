@@ -2,724 +2,724 @@
 # Format: docs/translation-format.md
 
 @ASU_SEV_A:30 PLY 7597a110
-
+(Huh? I hear splashing from the Pool... Is the Swim Club practicing?)
 
 @ASU_SEV_A:33 PLY f61b2f7b
-
+(Maybe I could sneak a peek... No, I can't do that...)
 
 @ASU_SEV_A:34 PLY 9455a590
-
+(Right, Ms. Kawada is the Swim Club adviser. I have a question about modern Japanese anyway. Perfect, I have a reason. Let's go!)
 
 @ASU_SEV_A:36 PLY e91fbccf
-
+(All right! Just as I thought, the Swim Club is practicing.)
 
 @ASU_SEV_A:51 TOM c0eaf78f
-
+"{V0010}Oh, {Nm},{W10} {F3}what brings you here?"
 
 @ASU_SEV_A:52 PLY af0892a1
-
+"Ah, Ms. Kawada!"
 
 @ASU_SEV_A:61 PLY f05b1f50
-
+(Ms. Kawada in a swimsuit... She's still young and beautiful...)
 
 @ASU_SEV_A:64 PLY bac6a7af
-
+"Um... I have a question about modern Japanese class."
 
 @ASU_SEV_A:67 TOM 10e98a1e
-
+"{V0011}Oh...{W30} sorry,{W20} but right now{W5} it's club activities{W10} time..."
 
 @ASU_SEV_A:68 PLY 778a2378
-
+"R-right, of course..."
 
 @ASU_SEV_A:69 TOM 9fc2c70f
-
+"{V0012}Practice will be over{W3} soon,{W15} so after that is fine."
 
 @ASU_SEV_A:70 PLY 1631588f
-
+"No, I'll come back another day."
 
 @ASU_SEV_A:71 TOM e26b6378
-
+"{V0013}Really?{W60} Well then,{W3} see you, {Nm}."
 
 @ASU_SEV_A:72 PLY 524bf020
-
+"Yes."
 
 @ASU_SEV_A:74 PLY 20fb36cf
-
+(Well... on my way home, maybe I'll watch the Swim Club practice...)
 
 @ASU_SEV_A:75 PLY 3ce027ca
-
+(Huh? Isn't that...!)
 
 @ASU_SEV_A:78 ASU c298acb6
-
+"{V0017}Phew,{W20} that felt great.{W70} {Eo}Okay,{W5} time{W5} to go home."
 
 @ASU_SEV_A:79 PLY 8745201b
-
+"S-Sakino."
 
 @ASU_SEV_A:80 ASU d9e7c9f2
-
+"{V0018}Huh?{W30} Oh, {Nm}."
 
 @ASU_SEV_A:81 PLY 105ccfeb
-
+"What are you doing here, Sakino? What about soccer club?"
 
 @ASU_SEV_A:84 ASU 1b6ab7b2
-
+"{V0019}Practice ended{W3} early{W2} today."
 
 @ASU_SEV_A:85 ASU c32039fb
-
+"{V0020}Ehehe,{W40} {Ec}actually, after soccer club practice is over,{W30} {Eo}they let me swim here."
 
 @ASU_SEV_A:86 PLY 5cf5173c
-
+"Oh, I see."
 
 @ASU_SEV_A:87 ASU a3ee0190
-
+"{V0021}It's a great cool-down,{W30} {F3}and I can wash off the sweat,{W20} so it's two birds{W5} with one stone."
 
 @ASU_SEV_A:88 ASU a122f7f9
-
+"{V0022}Oh, of course,{W20} I rinse off the mud in the shower{W3} before I get in."
 
 @ASU_SEV_A:90 TOM e80f8c3d
-
+"{V0014}Sakino is{W20} so{W5} athletic{W20} that her swimming is{W3} very{W3} graceful,{W20} {Ec}so she makes a good model{W10} for the Year{W5} 1 students."
 
 @ASU_SEV_A:91 ASU 02ada402
-
+"{V0023}Oh,{W30} Ms.{W5} Kawada."
 
 @ASU_SEV_A:94 TOM 26e62fb7
-
+"{V0015}So{W30} I asked Mr. Ishiwatari, the soccer club adviser,{W10} {Ec}if she could{W20} come{W20} to the Swim Club too."
 
 @ASU_SEV_A:95 PLY 5c78ae13
-
+"Oh, I see."
 
 @ASU_SEV_A:97 PLY dac2f3b0
-
+(Amazing, Sakino.)
 
 @ASU_SEV_A:98 TOM fd0a5ef9
-
+"{V0016}Thanks to that,{W30} we do a lot with the soccer club,{W30} {F3}and sometimes{W10} they{W5} ask me for advice."
 
 @ASU_SEV_A:99 TOM 21b909aa
-
+"{V0017}Mr.{W10} Ishiwatari{W10} just isn't{W35} {F9}{Ec}used to{W5} dealing{W5} with girls."
 
 @ASU_SEV_A:100 PLY d96b6acc
-
+"Oh..."
 
 @ASU_SEV_A:101 PLY f092ab7c
-
+(What kind of advice would that be...)
 
 @ASU_SEV_A:102 TOM 0b713250
-
+"{V0018}Honestly,{W15} I'd love her to belong{W5} to the Swim Club alone.{W35} {Ec}{W5}{F3}{Eo}...But{W20} she loves{W5} soccer too much."
 
 @ASU_SEV_A:103 ASU ffdb3825
-
+"{V0024}Yes! {Ec}Of course!"
 
 @ASU_SEV_A:104 PLY 24df1993
-
+(...That means if I come to the Pool after school, I can see Sakino.)
 
 @ASU_SEV_A:105 ASU d49bf612
-
+"{V0025}See you, {Nm}."
 
 @ASU_SEV_A:106 PLY e03a6130
-
+"Yeah, see you."
 
 @ASU_SEV_A:108 PLY dbf3a85a
-
+"I'll be going too, Ms. Kawada."
 
 @ASU_SEV_A:109 TOM 1e15baee
-
+"{V0019}Okay.{W30} Be careful{W3} going home."
 
 @ASU_SEV_A:111 SYS 1bff8fa3
-
+...That's how I spent my time at the Pool.
 
 @ASU_SEV_A:114 ASU cde52bef
-
+"{Nm},{V0026} {F3}what are you doing?"
 
 @ASU_SEV_A:115 PLY 3d2c292d
-
+"Ah, Sakino, nothing really..."
 
 @ASU_SEV_A:116 PLY 98d605b6
-
+(Sakino in her gym clothes... She's so active, they really suit her...)
 
 @ASU_SEV_A:117 PLY 0df6d550
-
+"Do you have P.E. now, Sakino?"
 
 @ASU_SEV_A:119 ASU fa835af6
-
+"{V0027}Yep.{W20} I got too eager,{W5} {Eo}so I'm first here!"
 
 @ASU_SEV_A:120 PLY 8940c07c
-
+"Hahahaha."
 
 @ASU_SEV_A:121 ASU 3173b58e
-
+"{V0028}...I know! {Nm},{W5} {F3}if you're free,{W3} want to play{W3} soccer with me?"
 
 @ASU_SEV_A:122 PLY 084ad744
-
+"Huh? Right now?"
 
 @ASU_SEV_A:123 ASU 1d75fd47
-
+"{V0029}Yep."
 
 @ASU_SEV_A:124 PLY b6eff321
-
+"But break is only ten minutes."
 
 @ASU_SEV_A:125 ASU dc22390c
-
+"{V0030}Ten minutes is {Ec}plenty!"
 
 @ASU_SEV_A:126 ASU bfdbbbc7
-
+"{V0031}They say moving around a little{W30} between studying{W20} {F2}refreshes you and is really good for your brain."
 
 @ASU_SEV_A:129 ASU f1af07c2
-
+"{V0032}Not that{W30} it really{W10} matters{W5} for me."
 
 @ASU_SEV_A:130 PLY 47723aa7
-
+"Then maybe I'll give it a try. What do I do?"
 
 @ASU_SEV_A:131 ASU 22cd107a
-
+"{V0033}Let's do{W5} two-person juggling."
 
 @ASU_SEV_A:132 PLY 0839ac45
-
+"Two-person juggling?"
 
 @ASU_SEV_A:133 ASU a823ca18
-
+"{V0034}Yep."
 
 @ASU_SEV_A:134 ASU 1bd271ee
-
+"{V0035}Anything but your hands is fine.{W15} {F3}Keep the ball off the ground and{W5} pass it back to your partner."
 
 @ASU_SEV_A:135 ASU 44f1389c
-
+"{V0036}And{W30} {Ec}whoever drops it first{W10} loses."
 
 @ASU_SEV_A:136 PLY 093cb3d8
-
+"Sounds fun. All right, I won't lose."
 
 @ASU_SEV_A:137 PLY a5e8cd7e
-
+"...But where's the soccer ball?"
 
 @ASU_SEV_A:138 ASU 1c261a03
-
+"{V0037}Look{W5} at my feet."
 
 @ASU_SEV_A:139 PLY 2cd53270
-
+"Huh? ...Oh! There's a soccer ball between your feet."
 
 @ASU_SEV_A:140 ASU 8a16a390
-
+"{V0038}We're always together outside.{Eo}"
 
 @ASU_SEV_A:141 PLY adaeb24e
-
+"Hahaha, I see."
 
 @ASU_SEV_A:143 ASU 42796785
-
+"{V0039}Okay,{W5} here I come!"
 
 @ASU_SEV_A:144 PLY 5a9fffe7
-
+"All right, ready!"
 
 @ASU_SEV_A:145 ASU c5df4bbf
-
+"{V0040}Here!"
 
 @ASU_SEV_A:147 PLY eb63077c
-
+"Whoa! Hup! Ha! Here!"
 
 @ASU_SEV_A:148 ASU 62373b5f
-
+"{V0041}Ahaha,{W20} nice, nice!{W30} Here!"
 
 @ASU_SEV_A:149 PLY 23aaacae
-
+"Woah! Oof! Whoops! Here!"
 
 @ASU_SEV_A:150 ASU 32377dd5
-
+"{V0042}Awesome, awesome!{W15} You've got a knack!{W30} Here!"
 
 @ASU_SEV_A:151 SYS 40f2dc86
-
+...And so I did two-person juggling with Sakino.
 
 @ASU_SEV_A:152 SYS 60fea5fe
-
+I think I returned it well only because Sakino kept sending the ball right to my chest.
 
 @ASU_SEV_A:153 SYS a77c80fd
-
+As expected of Sakino...
 
 @ASU_SEV_A:155 PLY c4d65376
-
+(Phew... The Rooftop has a nice breeze...)
 
 @ASU_SEV_A:156 ASU 24f1bb0c
-
+"{V0043}Ah! {Nm}!"
 
 @ASU_SEV_A:157 PLY 122df4f6
-
+"Huh?"
 
 @ASU_SEV_A:168 ASU 3d9a140f
-
+"{V0044}Whatcha{W5} doing?"
 
 @ASU_SEV_A:169 PLY 9eac2ece
-
+"S-Sakino!"
 
 @ASU_SEV_A:170 ASU 7b8ed33c
-
+"{V0045}Can you see{W3} something?{W70} A UFO?{W70} A fire?"
 
 @ASU_SEV_A:171 PLY 5758b6ce
-
+"No, nothing like that, the breeze just feels nice."
 
 @ASU_SEV_A:173 ASU 5b503427
-
+"{V0046}Hehe,{W55} I see.{W45} {Ec}It really feels{W10} nice up here{W15} when there's a breeze."
 
 @ASU_SEV_A:174 ASU 69673832
-
+"{V0047}On days without{W20} wind, you just get sunburned and it's awful..."
 
 @ASU_SEV_A:175 PLY 1b758669
-
+"Hahaha, true."
 
 @ASU_SEV_A:176 PLY 39f6a631
-
+"Did you want something?"
 
 @ASU_SEV_A:177 ASU 1a076171
-
+"{V0048}Nope, nothing.{W60} {Eo}I just wondered{W10} what you were up to."
 
 @ASU_SEV_A:178 ASU 7f0c4009
-
+"{V0049}See ya!"
 
 @ASU_SEV_A:179 PLY fc4378de
-
+(Sakino... She's gone...)
 
 @ASU_SEV_A:181 AKI ce4228b2
-
+"{V0046}Hmm...{W60} when did you two get so close?{W25} You and Sakino Asuka."
 
 @ASU_SEV_A:182 PLY af40900f
-
+"Oh, Hiiragi."
 
 @ASU_SEV_A:183 AKI 995bbc76
-
+"{V0047}{Eh}Getting hugged from behind,{W3} that's a good sign."
 
 @ASU_SEV_A:184 PLY e423eaa0
-
+"You saw that?"
 
 @ASU_SEV_A:185 AKI bb6469d6
-
+"{V0048}Not just me.{W40} Everyone{W3} on the Rooftop witnessed it."
 
 @ASU_SEV_A:186 PLY 5f585254
-
+"Ugh... I didn't expect her to just hug me like that, either."
 
 @ASU_SEV_A:187 AKI bf54d883
-
+"{V0049}So it was force majeure?"
 
 @ASU_SEV_A:188 AKI 7cb1948a
-
+"{V0050}Don't blame me if the guys in love with her{W30} get jealous."
 
 @ASU_SEV_A:189 PLY c3c60095
-
+"Huh? There are guys like that?"
 
 @ASU_SEV_A:190 AKI 7c92a27a
-
+"{V0051}{Eh}You're{W10} dense,{W20} you know that?{W40} She's really{W5} popular.{Eo}"
 
 @ASU_SEV_A:191 AKI 939e778b
-
+"{V0052}Girls that healthy{W30} {Ec}and carefree{W30} {F1}{Eo}aren't easy to find."
 
 @ASU_SEV_A:192 PLY f9123690
-
+"That's true..."
 
 @ASU_SEV_A:193 PLY 948fd9a2
-
+"I knew she was popular with girls, but with guys too..."
 
 @ASU_SEV_A:194 AKI 0db161bf
-
+"{V0053}And that's not all,{W40} the advisers and captains of the sports clubs{W20} all{W15} want her."
 
 @ASU_SEV_A:195 PLY efd98da4
-
+"Of course they do. She's so athletic."
 
 @ASU_SEV_A:196 AKI fe346fcb
-
+"{V0054}Even the baseball club,{W3} which has{W10} the most members,{W15} wants her."
 
 @ASU_SEV_A:197 PLY f6ba0b1d
-
+"Baseball club? Why?"
 
 @ASU_SEV_A:198 AKI 94edbd79
-
+"{V0055}{Eh}She'd be perfect as a leadoff hitter, right?"
 
 @ASU_SEV_A:199 PLY 3732b5b1
-
+"I see... She does look fast."
 
 @ASU_SEV_A:200 AKI 0c4733b6
-
+"{V0056}What do you mean, looks?{W30} She's one of the top three{W5} fastest runners{W10} in{W3} the{W3} school."
 
 @ASU_SEV_A:201 PLY 75e81b01
-
+"R-really?"
 
 @ASU_SEV_A:202 AKI c87b1227
-
+"{V0057}Yeah."
 
 @ASU_SEV_A:203 PLY 5ca85685
-
+"But girls can't play in baseball games, can they?"
 
 @ASU_SEV_A:205 AKI f7c8c798
-
+"{V0058}Well,{W60} who knows about that?{W45} {F1}If an amazing player shows up,{W20} {Fe3}maybe it won't be as strict{W15} as it used to be."
 
 @ASU_SEV_A:206 PLY 1432d3c3
-
+"...Maybe so."
 
 @ASU_SEV_A:207 AKI 2e826790
-
+"{V0059}{Eh}Still..."
 
 @ASU_SEV_A:208 AKI b8bbadd4
-
+"{V0060}If she chose{W30} soccer of all things,{W40} the national sport{W10} loses face.{Ec}"
 
 @ASU_SEV_A:209 PLY 7002be0c
-
+"Hahaha, true."
 
 @ASU_SEV_A:210 PLY 819137cb
-
+(I see... She's such a great player that even the baseball club wants her, Sakino.)
 
 @ASU_SEV_A:211 PLY bd169a54
-
+(Good at soccer, fast, and the baseball club wants her... She's someone special...)
 
 @ASU_SEV_A:212 PLY 8563af85
-
+"Huh?"
 
 @ASU_SEV_A:213 PLY 3ea2139d
-
+(Rain... I was going to peek at soccer club practice, but with this I can't.)
 
 @ASU_SEV_A:214 PLY 3cc0f2ab
-
+(Oh well, I'll go home...)
 
 @ASU_SEV_A:215 PLY 2f780934
-
+(Come to think of it, I forgot to take my umbrella home a long time ago. Lucky.)
 
 @ASU_SEV_A:216 ASU e7fba809
-
+"{V0050}Aww...{W30} it{W10} started raining...{W40} I can't practice{W10} today like this..."
 
 @ASU_SEV_A:217 PLY 8db87372
-
+"Hm? That voice..."
 
 @ASU_SEV_A:218 PLY ad1efede
-
+"Sakino!"
 
 @ASU_SEV_A:219 ASU d48c5f24
-
+"{V0051}Oh, {Nm}."
 
 @ASU_SEV_A:220 PLY 93a6fb11
-
+"Is soccer club practice canceled today?"
 
 @ASU_SEV_A:221 ASU fb159c61
-
+"{V0052}Not with{W5} rain{W3} this heavy."
 
 @ASU_SEV_A:222 ASU ad9e0f7e
-
+"{V0053}If it were a bit lighter,{W13} we'd do strength training{W13} somewhere the rain doesn't hit..."
 
 @ASU_SEV_A:223 PLY 876a2929
-
+"I see..."
 
 @ASU_SEV_A:224.1 - 96e8558c
-
+{Ti0}- A rest now and then is necessary／- Why not swim with the Swim Club?／- Why not study?
 
 @ASU_SEV_A:225 PLY b2c2b74a
-
+"A rest now and then is necessary."
 
 @ASU_SEV_A:226 ASU dbb08856
-
+"{V0054}{Ec}Yeah...{W60} {Eo}you're right..."
 
 @ASU_SEV_A:228 PLY 05400d23
-
+"Why not swim with the Swim Club?"
 
 @ASU_SEV_A:229 ASU cb9a51f0
-
+"{V0055}If I can't play soccer,{W15} {Ec}{W5}{F9}{Eo}I don't feel like swimming either..."
 
 @ASU_SEV_A:230 PLY cbb2bf30
-
+"Why not study?"
 
 @ASU_SEV_A:231 ASU 862ef710
-
+"{V0056}Huh?"
 
 @ASU_SEV_A:232 ASU fa79661a
-
+"{V0057}Ahaha,{W45} you got me{W3} there."
 
 @ASU_SEV_A:233 PLY 59b464a8
-
+"Hahaha."
 
 @ASU_SEV_A:234 ASU ae8944c2
-
+"{V0058}I can't practice,{W55} {Fe9}and I can't go home{W10} without an umbrella...{W70} {Ec}Ugh,{W20} what rotten luck."
 
 @ASU_SEV_A:235 PLY 94d2c3cc
-
+"Oh, you don't have an umbrella."
 
 @ASU_SEV_A:236 ASU 213eecfa
-
+"{V0059}Nope."
 
 @ASU_SEV_A:237 PLY 26de581e
-
+"Then... want to share mine?"
 
 @ASU_SEV_A:238 ASU 29e505f9
-
+"{V0060}Really?!{W20} Seriously?!"
 
 @ASU_SEV_A:239 PLY cc4af171
-
+"Yeah."
 
 @ASU_SEV_A:240 ASU 639bc520
-
+"{V0061}Yay!{Ec} Thanks!{W30} {Eo}Now I can get home!"
 
 @ASU_SEV_A:241 ASU ba965160
-
+"{V0062}Wait here a sec,{W10} I'll go get my bag!"
 
 @ASU_SEV_A:242 PLY 32801cbe
-
+"You don't have to run. I'll wait for you."
 
 @ASU_SEV_A:243 ASU f26da2cb
-
+"{V0063}Okay! {W5}Oh...
 
 @ASU_SEV_A:244 PLY 88c337e0
-
+"What's wrong? You came back..."
 
 @ASU_SEV_A:245 ASU 441b5ea5
-
+"{V0064}...Hehe,{W70} {Eo}it's an{W5} umbrella{W5} for{W10} two, right?"
 
 @ASU_SEV_A:246 PLY 1ea1b704
-
+"Y-yeah."
 
 @ASU_SEV_A:248 ASU 6aab3150
-
+"{V0065}Coach! {W40}It's my{W2} first time!{W40} {Ec}I can't wait!"
 
 @ASU_SEV_A:249 PLY 382810ca
-
+"Hahaha..."
 
 @ASU_SEV_A:250 PLY 44e414a2
-
+(...She's still going on about the love coach thing...)
 
 @ASU_SEV_A:251 PLY ef29d30d
-
+(I might not have any experience either, other than with Nana and Mao...)
 
 @ASU_SEV_A:252 SYS cafb7492
-
+...And so I walked home with Sakino. Sharing an umbrella was fun...
 
 @ASU_SEV_A:253 PLY 8f1d8ef0
-
+(Oh, the soccer club is practicing. Is Sakino...)
 
 @ASU_SEV_A:255 ASU d5052bb7
-
+"{Nm}."
 
 @ASU_SEV_A:256 PLY 5edd7500
-
+"Oh, Sakino."
 
 @ASU_SEV_A:257 ASU 87b354b5
-
+"{V0067}Did you come{W10} to watch practice?"
 
 @ASU_SEV_A:258 PLY af7e36f5
-
+"Yeah. I wondered how hard you were working."
 
 @ASU_SEV_A:259 ASU 97b89bfb
-
+"{V0068}Thanks.{W30} We're {Ec}on a break right now."
 
 @ASU_SEV_A:260 PLY e43f389d
-
+"I see."
 
 @ASU_SEV_A:261 ASU aeaac3da
-
+"{V0069}It's been so dry lately,{W20} the dust keeps flying up.{W40} {Ec}{W5}{F7}{Eo}I want to sprinkle some water,{W33} {F3}so could you help?"
 
 @ASU_SEV_A:262 PLY 545bd259
-
+"Sure."
 
 @ASU_SEV_A:263 ASU e33c2284
-
+"{V0070}Then{W10} connect that hose over there to the faucet."
 
 @ASU_SEV_A:264 PLY ccb6a628
-
+"Okay."
 
 @ASU_SEV_A:265 PLY 492725d5
-
+(Let's see... connect it tightly so it doesn't leak... there)
 
 @ASU_SEV_A:266 ASU 75103bd7
-
+"{Nm},{V0072} ready?"
 
 @ASU_SEV_A:267 PLY 18d1b3c8
-
+"Ready!"
 
 @ASU_SEV_A:268 ASU f9b509bd
-
+"{V0073}Okay, turn on the water!"
 
 @ASU_SEV_A:269 PLY efd698b4
-
+"Here it comes!"
 
 @ASU_SEV_A:275 SYS 051b9fcd
-
+{Ti0}Splash!!
 
 @ASU_SEV_A:276 ASU b8d09e4d
-
+"{V0074}Ah! {W10}A little less water!{W40} If we spray too much,{W5} it'll get flooded!"
 
 @ASU_SEV_A:277 PLY aefd45e2
-
+"About like this?"
 
 @ASU_SEV_A:278 ASU c66b006f
-
+"{V0075}Yes, yes! {W30}Thanks."
 
 @ASU_SEV_A:279 ASU c73da528
-
+"{V0076}...Yeah,{W20} that looks{W5} good."
 
 @ASU_SEV_A:280 ASU 171017ec
-
+"{V0077}...In front of{W3} the goal{W5} too...{W10} there."
 
 @ASU_SEV_A:281 ASU d8d60ed3
-
+"{V0078}...Ah! {W70}Look, look!"
 
 @ASU_SEV_A:283 ASU 6b3bd324
-
+"{V0079}Look! {W50}A rainbow{W5} appeared!"
 
 @ASU_SEV_A:284 PLY 0363db10
-
+"You're right."
 
 @ASU_SEV_A:285 ASU 5e70fd6e
-
+"{V0080}So pretty."
 
 @ASU_SEV_A:286 ASU d035666f
-
+"{V0081}Hehe,{W60} something{W5} good's going to happen!"
 
 @ASU_SEV_A:287 PLY f86d62bf
-
+(Ah...!)
 
 @ASU_SEV_A:309 - 40ed030b
-
+Ryou
 
 @ASU_SEV_A:311 EX1 94ee9f83
-
+"{V1000}Sakino!{W10} Nice shot!"
 
 @ASU_SEV_A:315 - d485921b
-
+Toshi
 
 @ASU_SEV_A:316 EX2 74e6631d
-
+"{V1100}What was that move?!{W30} I couldn't keep up at all!"
 
 @ASU_SEV_A:318 ASU e976a4be
-
+"{V0082}Hehe,{W20} of course it's great.{W10} Because..."
 
 @ASU_SEV_A:319 PLY 58e94139
-
+(Did she score a goal? Sakino... looking so happy...)
 
 @ASU_SEV_A:320 PLY 17c33d8d
-
+(Well, they're on the same soccer club, so of course they'd get excited together...)
 
 @ASU_SEV_A:321 PLY 3d1b35e3
-
+(......)
 
 @ASU_SEV_A:322 PLY 8fd07727
-
+(But what is this feeling... When Sakino is friendly with other guys, my chest hurts...)
 
 @ASU_SEV_A:323 PLY 247fd57b
-
+(...Could it be jealousy?)
 
 @ASU_SEV_A:327 PLY 6fabb308
-
+(What I can do for Sakino...)
 
 @ASU_SEV_A:328 PLY 36b61535
-
+(I thought about it all last night, and came up with just one thing)
 
 @ASU_SEV_A:329 PLY 9eb53a0a
-
+(That is...)
 
 @ASU_SEV_A:330 PLY e887af46
-
+(I wonder if Sakino is in the classroom?)
 
 @ASU_SEV_A:331 PLY 004a19d4
-
+"Sakino, are you there?"
 
 @ASU_SEV_A:332 ASU 9a621b35
-
+"{V0083}Oh, {Nm}. What's up?{F3}"
 
 @ASU_SEV_A:333 PLY cb23d2d6
-
+"Have you eaten lunch yet?"
 
 @ASU_SEV_A:334 ASU 75cb304d
-
+"{V0084}Oh,{W20} I already ate...{W20} Sorry,{W20} should I have asked you?"
 
 @ASU_SEV_A:335 PLY 780e45bd
-
+"No, if you've eaten, that's perfect. Want to go to the Library with me?"
 
 @ASU_SEV_A:336 ASU 9186a426
-
+"{V0085}To the Library?{W50} Why?"
 
 @ASU_SEV_A:337 PLY 8edf9ad1
-
+"Isn't it obvious? Special training."
 
 @ASU_SEV_A:338 ASU f50771bd
-
+"{V0086}Training?{W30} For what?"
 
 @ASU_SEV_A:339 PLY 292d2da9
-
+"Soccer, of course."
 
 @ASU_SEV_A:340 ASU adc686b5
-
+"{V0087}In the Library?"
 
 @ASU_SEV_A:341 PLY d2252065
-
+"Right. You'll see."
 
 @ASU_SEV_A:342 ASU 36dfe246
-
+"{V0088}O-{W40}okay."
 
 @ASU_SEV_A:343 ASU 3509b586
-
+"{Nm},{V0089} what are we doing in a place like this?{W40} {F7}We can't exercise here,{W25} {F6}and there's no ball..."
 
 @ASU_SEV_A:344 PLY 279880d1
-
+"Still don't get it?"
 
 @ASU_SEV_A:345 ASU 9cc2acba
-
+"{V0090}No,{W30} not at all."
 
 @ASU_SEV_A:346 PLY 11b1f927
-
+"Italian."
 
 @ASU_SEV_A:347 ASU cde84a6a
-
+"{V0091}What?!"
 
 @ASU_SEV_A:348 PLY a3c37846
-
+"You're going to play in Italy's league, right? I think knowing Italian would definitely help."
 
 @ASU_SEV_A:349 ASU 7f4c646e
-
+"{V0092}{W10}Oh..."
 
 @ASU_SEV_A:350 PLY 5fd087c4
-
+"I don't understand soccer technique, after all. So let's study Italian together. It'll definitely be useful."
 
 @ASU_SEV_A:351 ASU 7cf26091
-
+"{V0093}...Yeah.{W75} {F3}{Eo}...You really{W5} believe in{W60} my dream."
 
 @ASU_SEV_A:352 PLY 238fddef
-
+"Of course. You can do it, Sakino."
 
 @ASU_SEV_A:353 PLY d521517b
-
+"...This is about all I can do, but I wanted to help you even a little..."
 
 @ASU_SEV_A:354 ASU b3dd5d36
-
+"{V0094}Thanks, {Nm}.{W30} I'll{W20} do my best."
 
 @ASU_SEV_A:355 PLY e00fff73
-
+"Now, for starters, a textbook from a TV Italian course might be good."
 
 @ASU_SEV_A:356 ASU 0715eac7
-
+"{V0095}Yeah.{W30} {Ec}That looks perfect."
 
 @ASU_SEV_A:357 SYS 984acfbd
-
+...And so I started studying Italian with Sakino.
 
 @ASU_SEV_A:358 ASU 37deff2b
-
+"{V0096}Let's{W25} see,{W70} hello is{W40} ciao,{W10} and{W85} thank you is{W40} grazie... {W40}Hehe,{W25} easy,{W15} easy."
 
 @ASU_SEV_A:359 PLY 104de129
-
+(Well, that much, sure...)
 
 @ASU_SEV_A:360 PLY 3f9ab035
-
+(Oh, the soccer club is practicing)
 
 @ASU_SEV_A:361 ASU 6262ac72
-
+"{V0097}Far side,{W10} get behind them!"
 
 @ASU_SEV_A:362 ASU 15a9d9ac
-
+"{V0098}If it doesn't work, pass it back to me!{W20} It's fine!{W20} They won't take it from me!"
 
 @ASU_SEV_A:363 ASU 47bb3784
-
+"{V0099}Here I go!"
 
 @ASU_SEV_A:365 PLY 6551227b
-
+(Ever since Sakino perfected the Asuka Turn, she's shone even brighter...)
 
 @ASU_SEV_A:366 PLY 31a7c9be
-
+(Our boys can't stop her at all. She really is an amazing player...)
 
 @ASU_SEV_A:367 PLY 4363a20d
-
+(Compared to that... me...)
 
 @ASU_SEV_A:368 PLY dff7fc64
-
+(I'm just an ordinary guy...)
 
 @ASU_SEV_A:369 PLY bc7ec65b
-
+(All I can do is watch over her)
 
 @ASU_SEV_A:370 PLY f7581c55
-
+(...No, there's no point thinking like that. I just need to do what I can in my own way...)

@@ -19,7 +19,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 WORK = os.path.join(ROOT, 'build', 'api')
 MODEL = 'claude-sonnet-5-5'
 PRICE = {'in': 2.0, 'out': 10.0, 'cache_read': 0.20, 'cache_write': 2.50}   # USD per MTok, standard
-REC = re.compile(r'^(~?)([A-Za-z0-9_]+:\d+(?:\.\d+)?) ')
+REC = re.compile(r'^(~?)([A-Za-z0-9_]+:\d+(?:\.\d+)*) ')
 
 SYSTEM_TAIL = """
 # Your task now
@@ -200,7 +200,7 @@ def cmd_run(a):
     jobs = all_parts(a)
     done_p = os.path.join(WORK, 'done.txt')
     done = set(open(done_p).read().split()) if os.path.exists(done_p) else set()
-    jobs = [j for j in jobs if j[0] not in done]
+    # parts are rebuilt from what is still untranslated, so earlier part names say nothing here
     print(f'{len(jobs)} requests to send; spent so far {spent():.2f} USD', flush=True)
     if a.batch:
         reqs = [{'custom_id': j[0].replace(':', '_').replace('.', '-'), 'params': request_params(j[1], j[2], a.effort, a.max_tokens)} for j in jobs]

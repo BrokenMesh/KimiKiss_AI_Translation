@@ -2,646 +2,646 @@
 # Format: docs/translation-format.md
 
 @NAR_KIS_B:38 NAR 9f303840
-
+"{Nm}{V0477}{W5}..."
 
 @NAR_KIS_B:40 PLY bd09fe50
-
+"Hm?"
 
 @NAR_KIS_B:43 NAR 15a912eb
-
+"{V0478}{W15}Talking{W3}{W3}with{W5}you{W6} is{W25} {Fe2}so much{W3} fun,{W3} Senpai{W3}."
 
 @NAR_KIS_B:44 PLY 3548d996
-
+"Is it?"
 
 @NAR_KIS_B:46 NAR f4887127
-
+"{V0479}{W15}Yes.{W30} {Eo}{Fe3}{Fm4}You're{W3} so{W3} good at talking,{W5} or maybe{W5} {Fm3}you never get boring..."
 
 @NAR_KIS_B:47 PLY ea7b8c4a
-
+"Hmm... I don't think that's true..."
 
 @NAR_KIS_B:48 PLY b097e128
-
+"Maybe it's because I have a little sister, so I'm a bit used to talking with younger girls."
 
 @NAR_KIS_B:50 NAR e09c4ab8
-
+"{V0480}{W15}Oh,{W15} that must be it.{W20} {Fe3}You and Nana{W3} get along so well,{W8} {Fe2}{Ec}don't you?"
 
 @NAR_KIS_B:53 NAR e534847d
-
+"{V0481}...{W6}I'm jealous,{W6} {Fm6}Nana."
 
 @NAR_KIS_B:55 NAR 9fb2fed6
-
+"{V0482}{W15}Ah..."
 
 @NAR_KIS_B:56 PLY 80e5a849
-
+"What's wrong, Narumi?"
 
 @NAR_KIS_B:58 NAR 9cfbedbd
-
+"{V0483}{W15}Eh{W5}he{W3}he,{W16} {Eo}there was a chocolate{W10} in my skirt pocket."
 
 @NAR_KIS_B:62 NAR 6b940ac9
-
+"{V0484}{W12}How long{W3} has it been in there?{W40} {Fe2}{Ec}Eh{W5}he{W3}he,{W8} I{W3} don't remember."
 
 @NAR_KIS_B:63 PLY 59b464a8
-
+"Hahaha."
 
 @NAR_KIS_B:64 PLY 3352cf0e
-
+"That's a funny-shaped chocolate."
 
 @NAR_KIS_B:65 NAR ced980e0
-
+"{V0485}{W15}Huh?{W20} You don't know it?{W30} {F3}It's an American chocolate."
 
 @NAR_KIS_B:66 PLY 47c9543b
-
+"Oh, really?"
 
 @NAR_KIS_B:69 NAR 51c257ea
-
+"{V0486}{W15}See,{W20} the top{W6} is pointed,{W10} so it looks like{W3} lips{W5} when{W9} you{W3} kiss,{W5} right?"
 
 @NAR_KIS_B:70 PLY 8d5c4987
-
+"Huh? Kiss?"
 
 @NAR_KIS_B:71 NAR 4a909afe
-
+"{V0487}{W12}Huh?"
 
 @NAR_KIS_B:72 PLY 0d80b9d5
-
+"......"
 
 @NAR_KIS_B:73 NAR 3899161a
-
+"{V0488}{Fm6}{B100}......"
 
 @NAR_KIS_B:74 NAR 6106e6b8
-
+"{V0489}{Nm}{W8},{W3} {W3}would{W25} you{W15} k{W2}iss{W2} this chocolate{W5} for me?"
 
 @NAR_KIS_B:75 PLY 1cfef141
-
+"Huh? Sure, but..."
 
 @NAR_KIS_B:76 PLY 264da3dc
-
+(Smooch... like that, maybe?)
 
 @NAR_KIS_B:77 PLY 524bf020
-
+"Here."
 
 @NAR_KIS_B:78 NAR 495d49a7
-
+"{V0490}{W15}{B100}{Fe2m3}Thank you."
 
 @NAR_KIS_B:80 NAR 8753dc43
-
+"{V0491}{W12}Chomp{W3}{W3}{W3},{W20} {Fe4}munch{W3}munch{W3}...{W3}{W3}"
 
 @NAR_KIS_B:81 PLY f31c2e12
-
+"Ah...!"
 
 @NAR_KIS_B:82 NAR e1f0d87c
-
+"{V0492}{W15}Eh{W5}he{W3}he,{W25} it's sweet{W3} and delicious."
 
 @NAR_KIS_B:83 NAR 10f6e06b
-
+"{V0493}{Eo}{Fe9m2}{W12}Thanks,{W4} {W4}Senpai.{W20}"
 
 @NAR_KIS_B:84 PLY 65928068
-
+"Narumi..."
 
 @NAR_KIS_B:85 NAR a0d58e64
-
+"{V0494}{F2}{W15}Well then,{W15} {Ec}I'll{W3} be going now~!"
 
 @NAR_KIS_B:88 PLY e8d9d970
-
+(Ah, she's gone...)
 
 @NAR_KIS_B:89 PLY a94e731e
-
+"Narumi, don't you have any more chocolate?"
 
 @NAR_KIS_B:90 NAR 87006169
-
+"{V0495}{W12}Huh?"
 
 @NAR_KIS_B:91 PLY 0895769d
-
+"If you do, I'd like one."
 
 @NAR_KIS_B:92 NAR 852f9b38
-
+"{V0496}{W15}{Ec}{Fe2m3}Eh{W5}he{W3}he{W3},{W5} I{W2} do{W2} have{W2} some{W2}.{W5}{W30} {Eo}{Fe3m4}Actually,{W3} {W15}I{W3} had about{W3} three in there."
 
 @NAR_KIS_B:93 PLY 9d6abc0b
-
+"Hahaha, I see."
 
 @NAR_KIS_B:95 NAR 4ce5fa84
-
+"{V0497}{W15}But,{W10} I don't know how long{W3} it's been in my pocket, you know?"
 
 @NAR_KIS_B:96 PLY 10e543a0
-
+"I don't mind that. I've never had that chocolate, so I want a taste."
 
 @NAR_KIS_B:97 NAR 81ac96dd
-
+"{V0498}{W15}{Ec}Eh{W5}he{W3}he{W3},{W23} {Eo}{Fm4}then{W3}..."
 
 @NAR_KIS_B:98 NAR d159c951
-
+"{V0499}{W15}{B60}Smooch!"
 
 @NAR_KIS_B:99 PLY 634f9920
-
+"Ah..."
 
 @NAR_KIS_B:101 NAR 24e467cb
-
+"{V0500}{W18}{B100}Here,{W12} Senpai{W3}."
 
 @NAR_KIS_B:102 PLY cc0d8e8d
-
+"Th-thanks..."
 
 @NAR_KIS_B:103 NAR 99123329
-
+"{V0501}{W15}{Eo}{F6}Ah...{W40} Was{W3} that{W8} too{W1} much{W1} of{W1} a{W1} joke{W1}?{W1} {W40}{Fm3}I have another one, so you can have that..."
 
 @NAR_KIS_B:104 PLY 724f8628
-
+"No, this one's fine."
 
 @NAR_KIS_B:105 PLY c05019a6
-
+"Chomp, munch... Mm, it's good, Narumi."
 
 @NAR_KIS_B:106 NAR 212280d9
-
+"{V1418}I'm glad."
 
 @NAR_KIS_B:107 NAR 74924bb1
-
+"{V0503}{W15}Well, Senpai,{W3} {W8}I had{W3} fun{W3} talking{W6} with{W3} you.{Fe2m3}{Ec}"
 
 @NAR_KIS_B:108 PLY ca2ae96b
-
+"Yeah. See you."
 
 @NAR_KIS_B:109 NAR 522d0f32
-
+"{V0504}{W15}Yes.{W12} I'll be going now."
 
 @NAR_KIS_B:110 PLY b3c9b363
-
+(Narumi's cheerful, fun, and a really nice girl.)
 
 @NAR_KIS_B:111 PLY 5817a76c
-
+(She's cute, too... And a girl like this looks up to me...)
 
 @NAR_KIS_B:112 NAR 64648a06
-
+"{V0505}{W13}Senpai,{W3} {W27}what's wrong?{W8} You're{W6} staring{W5} at me{W3} so{W3} hard."
 
 @NAR_KIS_B:113 NAR 4ff5d3f3
-
+"{V0506}{W15}If you look at me that much,{W5} {Ec}I'll{W3} get{W3} embarrassed."
 
 @NAR_KIS_B:114 PLY 8509aa83
-
+"N-no, sorry. It's nothing... Ah! Narumi, your hands are rough."
 
 @NAR_KIS_B:115 NAR c3c9e912
-
+"{V0507}{W15}{B20}Ah..."
 
 @NAR_KIS_B:117 NAR 7783b919
-
+"{V0508}{S}...{W8}Eh{W5}he{W3}he{W3},{W10} {Eo}lately,{W3} {W3}it's{W5} been{W3} dishes and water{W5} at{W3} home{W3} and{W7} at{W3} school,{W13} all{W3} the time..."
 
 @NAR_KIS_B:119 PLY 23df3ba9
-
+"I see... I get that you want to make the new udon, but pushing yourself too hard isn't good."
 
 @NAR_KIS_B:121 NAR 5056c9e1
-
+"{V0509}{W15}{B0}{F6}Y{W3}es{W3}.{W20} I'll be careful.{W43} {Ec}{W5}{Fe9m4}{Eo}I'm sorry for worrying you..."
 
 @NAR_KIS_B:122 PLY 2d3651a0
-
+"Here, let me see your hands. If it's really bad, there's medicine on the shelf..."
 
 @NAR_KIS_B:123 PLY 36bdc624
-
+"Here, let me see your hands. If it's really bad, we should get some medicine at the Infirmary."
 
 @NAR_KIS_B:124 NAR 4f69b430
-
+"{V0510}{F6}{Ec}{W15}No,{W10} it's okay."
 
 @NAR_KIS_B:125 PLY d9372ba1
-
+"Why?"
 
 @NAR_KIS_B:127 NAR b978a7d3
-
+"{V0511}{W18}If you..."
 
 @NAR_KIS_B:128 NAR 54d3b645
-
+"{V0512}{Nm}{W8},{W4} {W4}if you...{W60} {Fm4}{Ec}gave it a{W5} smooch{W5}{Fm6}{Eo} for me,{W10} it would heal."
 
 @NAR_KIS_B:129 PLY f725dd6d
-
+"Huh..."
 
 @NAR_KIS_B:130 NAR d6d7bc8f
-
+"{V0513}{W10}Ah..."
 
 @NAR_KIS_B:131 NAR 753e77fb
-
+"{V0514}{W15}S-{W5}sorry! I asked{W5} for something weird!"
 
 @NAR_KIS_B:132 PLY 9221b264
-
+"...Hahaha, you surprised me."
 
 @NAR_KIS_B:133 NAR a1b975a2
-
+"{V2249}Ugh..."
 
 @NAR_KIS_B:134 NAR 90a378db
-
+"{V0516}{Fe6m4}...{W5}But,{W12} if you{W3} really{W3} did it,{W5} {Ec}I..."
 
 @NAR_KIS_B:135 PLY 1a95a01b
-
+"...I did it for Nana once when she hurt her finger, but that was ages ago."
 
 @NAR_KIS_B:136 NAR fc0bc021
-
+"{V0517}...{W8}I'm jealous{W3} of{W5} Nana.{W5} {F6}You{W2} gave{W2} her{W5} a{W5} smooch..."
 
 @NAR_KIS_B:137 NAR 381928ea
-
+"{V0518}{W15}A{W1} big{W4} bro{W1}ther{W1}...{W14} {Ec}{W5}{F9}{Eo}I've{W6} lived{W5} with{W2} just{W2} Grandpa{W1} since I{W2} was little,{W5} so{W8} {Ec}I long for that kind of thing."
 
 @NAR_KIS_B:138 PLY df742ba9
-
+(Ah... so that's what it is...)
 
 @NAR_KIS_B:139 NAR 88449be3
-
+"{V0519}...{W8}Senpai,{W3} {W30}please{W3} do it{W6} for me{W5} too."
 
 @NAR_KIS_B:140 PLY e55fa8a2
-
+(...The back of her hand should be okay, right...)
 
 @NAR_KIS_B:141 PLY 7495e733
-
+"Okay. Then hold out your hand."
 
 @NAR_KIS_B:142 NAR dcad7575
-
+"{V0520}{W15}Really?{W4} {W11}{Ec}Yaa{W2}{W2}{W2}y!{W4}{W1}{W1}"
 
 @NAR_KIS_B:147 PLY f26eaafb
-
+"Smooch... There. Is that good?"
 
 @NAR_KIS_B:148 NAR 1d19bcde
-
+"{V0521}{W15}Wow{W8}{W8}{W8}{W8},{W18} it's already{W3} healed."
 
 @NAR_KIS_B:156 PLY 5ca96d24
-
+"Don't push yourself too hard making udon."
 
 @NAR_KIS_B:158 NAR c138d35f
-
+"{V0522}{W15}I won't!{W5} Well, Senpai,{W3} {W13}{Eo}I'll be going now."
 
 @NAR_KIS_B:159 PLY e03a6130
-
+"Yeah, see you."
 
 @NAR_KIS_B:161 NAR d260ca3e
-
+"{V0523}{W15}Senpai,{W15} thank you for the smooch earlier.{Fe2}{Ec} {W5}...{Eo}{Fe6m2}I was really happy."
 
 @NAR_KIS_B:162 PLY 17e8910d
-
+"Sure. ...But you should put medicine on properly. A kiss is only a charm."
 
 @NAR_KIS_B:163 NAR ec62411a
-
+"{V0524}{W15}Yes.{W15} {Eo}I'll put some on tonight before bed."
 
 @NAR_KIS_B:164 PLY 2b2703ee
-
+"Good idea."
 
 @NAR_KIS_B:165 NAR 2a82c7cb
-
+"{V0525}{Fe6m4}......"
 
 @NAR_KIS_B:166 NAR 9d953043
-
+"{V0526}...{W6}Senpai,{W5} {W70}just{W3} once more,{W17} {Ec}{W5}{F9}{Eo}would you give me a smooch?"
 
 @NAR_KIS_B:167 NAR 22ca0cc8
-
+"{V0398}...Is that a no?"
 
 @NAR_KIS_B:168 PLY 2ace14f4
-
+"No, it's not a no, but..."
 
 @NAR_KIS_B:169 PLY bbe8e8f9
-
+"...Okay, this is the last time."
 
 @NAR_KIS_B:170 NAR 7bd94819
-
+"{V0528}{F2}{W18}Yes!{Ec}"
 
 @NAR_KIS_B:172 PLY a709e61a
-
+"Smooch... Is that good?"
 
 @NAR_KIS_B:173 NAR 7ef48135
-
+"{V0529}{W18}Wow{W14}{W14}{W14}{W14}.{W15} Thank{W14} you{W5} so much{W5}~{W5}{W5}!"
 
 @NAR_KIS_B:174 NAR 1c2218b2
-
+"{V0530}{W15}Senpai's{W3} kiss{W3} is{W8} a{W3} cure-all{W3}{W5}.{Ec}"
 
 @NAR_KIS_B:175 PLY e16ebd9b
-
+"That's an exaggeration."
 
 @NAR_KIS_B:177 NAR 3bc33bbc
-
+"{V0531}{W15}No,{W5} {W3}{W18}for me{W6} it{W5} works on everything."
 
 @NAR_KIS_B:178 NAR b1ec902e
-
+"{V0532}{W15}Eh{W5}he{W3}he,{W13} {F3}{Eo}well, I'll{W11} be off.{W15} I'll{W3} be{W3} going now, Senpai!{Fe2}{Ec}"
 
 @NAR_KIS_B:179 NAR 4db46c4b
-
+"{V0533}{F4}{W12}...{W12}..."
 
 @NAR_KIS_B:180 PLY dcd2ecaf
-
+"Narumi?"
 
 @NAR_KIS_B:181 NAR c8dbf8c8
-
+"{V0534}{W13}...{W13}..."
 
 @NAR_KIS_B:182 PLY c6768f41
-
+"Narumi!"
 
 @NAR_KIS_B:183 NAR 68cca253
-
+"{V0535}{W15}Huh!"
 
 @NAR_KIS_B:184 PLY c8749112
-
+"Were you lost in thought?"
 
 @NAR_KIS_B:185 NAR d50a9b06
-
+"{V0536}{W21}S-{W21}sorry...{Eo}"
 
 @NAR_KIS_B:186 NAR 228e247d
-
+"{V0537}{W20}Even{W8} though{W4} I{W3} was{W3} having fun{W5} talking{W12} with{W1} you{W1},{W1} {W1}I{W1} started{W1} thinking{W20} {F6}about{W3} the new{W3} udon{W6}."
 
 @NAR_KIS_B:187 PLY dc2caaac
-
+"Overworking isn't good. You need a change of pace once in a while."
 
 @NAR_KIS_B:188 NAR 79b4206b
-
+"{V0541}{W18}A{W5} change{W8} of{W8} pace...{W33} you mean?"
 
 @NAR_KIS_B:189 PLY 186ff6f1
-
+"Yeah. ...I know! Want to go somewhere this weekend?"
 
 @NAR_KIS_B:190 NAR 2f16a55d
-
+"{V0542}{W12}{F4}What?!{W10} {F2}Just{W3} you{W3} and{W5} me{W3}?!"
 
 @NAR_KIS_B:191 PLY cc4af171
-
+"Yeah."
 
 @NAR_KIS_B:192 NAR 1e259536
-
+"{V0543}{W15}Th-{W13}that means{W30} it's a date, right?!"
 
 @NAR_KIS_B:193 PLY 1a766d06
-
+"Ah... I guess it does..."
 
 @NAR_KIS_B:195 NAR d3598ad3
-
+"{V0544}{W20}I'll{W8} go{W6}{W6}{W6}! {W13}I'll{W5} definitely go~!"
 
 @NAR_KIS_B:196 PLY 7aa469c1
-
+"Hahaha..."
 
 @NAR_KIS_B:197 PLY 290cb747
-
+"Is there anywhere you want to go?"
 
 @NAR_KIS_B:198 NAR 47437be3
-
+"{V0545}{W15}The sea{W6}{W3}~! {W8}{Eo}I haven't been yet this year!"
 
 @NAR_KIS_B:199 PLY 859c3dee
-
+"Huh? Really? ...But the season's almost over."
 
 @NAR_KIS_B:201 NAR a47b1266
-
+"{V0546}{W18}I{W3} don't{W2} need to swim{W3}, really{W2}.{W12} {Fm2}As long as I{W3} can{W3} go{W3} with{W5} you{W3}..."
 
 @NAR_KIS_B:202 PLY 8e03bd48
-
+"Okay then, let's go to the sea!"
 
 @NAR_KIS_B:203 NAR 33abe4e6
-
+"{V0547}{F2}{Ec}{W15}Yes! {Mo}Y{W5}ip{W5}pe{W5}e{W2}{W2}{W2}{W2}!"
 
 @NAR_KIS_B:204 PLY b5b0cce4
-
+"Then should we meet in front of the station at 10 on Sunday?"
 
 @NAR_KIS_B:205 NAR 50bb53bb
-
+"{V0548}{W18}{Eo}{Mc}Yes!"
 
 @NAR_KIS_B:206 NAR c66acad3
-
+"{V549}{W15}Let's{W8} see{W8}...{W10}{W35} is anyone watching...{W10} {Fm3}I wonder?"
 
 @NAR_KIS_B:207 NAR e3513f00
-
+"{V0550}{B100}{W15}Eh{W5}he{W3}he,{W23} {Nm}{W10},{W6} {W6}Senpai..."
 
 @NAR_KIS_B:208 PLY 3db2459e
-
+"What?"
 
 @NAR_KIS_B:211 NAR 45ef411d
-
+"{V0551}{W15}Smooch!"
 
 @NAR_KIS_B:212 NAR 1a901926
-
+"{V0552}{W12}Senpai,{W3} {W3}I{W5} love you so much!"
 
 @NAR_KIS_B:216 PLY eecce9d2
-
+"N-Narumi..."
 
 @NAR_KIS_B:218 NAR e62548f8
-
+"{V0553}{W15}Eh{W5}he{W3}he,{W18} {Fe9}I stood on tiptoe, but{W5} {Eo}I{W3} couldn't reach."
 
 @NAR_KIS_B:219 NAR 4fded628
-
+"{V0554}{W15}{B40}I'm looking{W5} forward to the weekend{W23}~!"
 
 @NAR_KIS_B:220 PLY fcda3ed2
-
+"Ah, Narumi... she's gone..."
 
 @NAR_KIS_B:221 PLY 45abad6e
-
+(Narumi actually kissed me...)
 
 @NAR_KIS_B:222 NAR f909aaee
-
+"{V0557}{W10}Huh!"
 
 @NAR_KIS_B:223 PLY 4dd3cb83
-
+"Were you thinking about the new udon again?"
 
 @NAR_KIS_B:224 NAR adbd7712
-
+"{V0558}{W10}S-{W15}sorry...{W15} {Eo}I just..."
 
 @NAR_KIS_B:225 PLY 1c5d473d
-
+"Honestly, I keep telling you overworking isn't good."
 
 @NAR_KIS_B:226 NAR 6dbd276d
-
+"{V0559}{W20}I'm sorry..."
 
 @NAR_KIS_B:227 PLY 22c8c6df
-
+"I hope the weekend comes soon."
 
 @NAR_KIS_B:228 NAR 9421dd2f
-
+"{V0560}{W10}Yes!"
 
 @NAR_KIS_B:229 NAR ee89a6d9
-
+"{V0561}{W20}Senpai,{W4} {W5}{W30}thank{W2} you so much...{W15} for{W8} my{W8} sake..."
 
 @NAR_KIS_B:230 PLY b1cf488d
-
+"It's no big deal."
 
 @NAR_KIS_B:231 NAR 0cb3f279
-
+"{Ec}{Fe6}{V0564}{W20}N{W8}o{W10},{W8} {Fe9}{Eo}it is a big deal..."
 
 @NAR_KIS_B:232 NAR 33404bf0
-
+"{V0565}{W12}Let's{W7} see{W7}...{W37} {Fm3}okay,{W3} I'm fine."
 
 @NAR_KIS_B:233 NAR 71640440
-
+"{V0566}{W18}Senpai,{W3} {W4}{W50}bend down a little, please."
 
 @NAR_KIS_B:234 PLY 122df4f6
-
+"Huh?"
 
 @NAR_KIS_B:235 PLY bdbaa57d
-
+(Don't tell me...)
 
 @NAR_KIS_B:236 NAR 119cab1e
-
+"{V0567}{W10}Smooch!"
 
 @NAR_KIS_B:237 NAR e365bd05
-
+"{V0568}{W18}Senpai,{W5}{W5}{W5} I love you sooo much!"
 
 @NAR_KIS_B:238 NAR 9230f0e0
-
+"{V0569}{W30}I told you to bend down~"
 
 @NAR_KIS_B:239 PLY ce52713a
-
+"S-sorry..."
 
 @NAR_KIS_B:240 NAR 8ee393fd
-
+"{V0570}{W15}Ehehe,{W3}{W3}{W11} {Eo}{F3}I'll be going now!"
 
 @NAR_KIS_B:241 PLY 3b853a5e
-
+(Narumi... she's such a sweet girl...)
 
 @NAR_KIS_B:242 PLY 370f2757
-
+"Narumi, I'm sorry I stood you up on our date the other day."
 
 @NAR_KIS_B:243 NAR 71ac2271
-
+"{V0571}{W12}It's okay now.{W5} {W35}I already{W3} forgot about it."
 
 @NAR_KIS_B:244 PLY c5e03b29
-
+"Thanks, Narumi."
 
 @NAR_KIS_B:245 PLY d03a87b8
-
+"If you'd like, how about going to the beach this weekend, for real?"
 
 @NAR_KIS_B:246 NAR 2c70c163
-
+"{Fe6m4}{V0572}{W8}...You won't{W5} stand me up again, will you?"
 
 @NAR_KIS_B:247 PLY 4f513b5e
-
+"Of course not! I'll definitely be there!"
 
 @NAR_KIS_B:248 NAR 8a142ee6
-
+"{V0573}{W5}...Then{W5} I'll go! {W13}{Ec}The sea, the sea~!"
 
 @NAR_KIS_B:249 PLY d8651429
-
+"Great... So, Sunday at 10, shall we meet in front of the station?"
 
 @NAR_KIS_B:250 NAR a48fb325
-
+"{Eo}{V0574}{W10}Yes.{W10} I'll really look forward to it this time,{W13} Senpai."
 
 @NAR_KIS_B:251 NAR 644b49b3
-
+"{Ec}{V0575}{W5}Well,{W10} I'll be going now."
 
 @NAR_KIS_B:252 PLY b4ea2bc0
-
+"Narumi, could we go to the beach together this weekend, for real?"
 
 @NAR_KIS_B:253 NAR 703505b9
-
+"{V6152}{W15}Ah...{W30} Senpai,{W45} {E}{C}{Fe9m6}{Eo}I'm{W3} sorry{W3}{W3}{W10}{W6} I couldn't go last week{W5}{W5} because of me."
 
 @NAR_KIS_B:254 PLY 50f2557e
-
+"Don't worry about that."
 
 @NAR_KIS_B:255 NAR c768e61f
-
+"{V6153}{W15}I'm so happy{W3}{W3}{W3}{W2} you're asking me again...{W15}{Ec}{Fe2}"
 
 @NAR_KIS_B:256 NAR 679beb8a
-
+"{V6155}{W15}I{W41} want{W3}{W3}{W3}{W3}{W3}{W3} to go to the sea with you, Senpai..."
 
 @NAR_KIS_B:257 PLY b8b3b067
-
+"Really? Then Sunday at 10, in front of the station?"
 
 @NAR_KIS_B:259 NAR 2bfa29e1
-
+"{V6156}{W15}Yes!{W10} I'll be{W3} looking forward to it, Senpai."
 
 @NAR_KIS_B:260 NAR ee07aa66
-
+"{V6157}{W12}{Eo}Well,{W10} I'll be going now."
 
 @NAR_KIS_B:261 PLY 9bc711c9
-
+(Narumi really is a good girl...)
 
 @NAR_KIS_B:262 PLY e8f648ce
-
+(Cheerful, cute... and she adores me so much...)
 
 @NAR_KIS_B:263 PLY cd76cbe1
-
+(Is it okay for me to answer her feelings? How do I feel about her...?)
 
 @NAR_KIS_B:264 NAR bc09405e
-
+"{V0576}{Nm}{W8}..."
 
 @NAR_KIS_B:265 PLY 3150f24e
-
+"What?"
 
 @NAR_KIS_B:266 NAR e60224cf
-
+"{V0577}{W15}Could you{W20} bend down a little?"
 
 @NAR_KIS_B:267 PLY d82b09b7
-
+"Huh...? Don't tell me you're going to jump up and kiss me like the other day..."
 
 @NAR_KIS_B:268 NAR c83d613c
-
+"{V0578}{W18}Ah{W3}h...{W20}{Fm3} you figured it out?"
 
 @NAR_KIS_B:269 PLY 66f90fed
-
+"Of course I did. It startled me."
 
 @NAR_KIS_B:270 NAR 1c06acca
-
+"{V0579}{W18}Uu{W5}~{W3}h,{W15} please{W5} bend down~!"
 
 @NAR_KIS_B:271 PLY 45d55dcf
-
+"Even if you say that..."
 
 @NAR_KIS_B:272 NAR 15ed968e
-
+"{V0580}{W23}Senpai,{W3}{W3}{W32} do you not want{W6} to{W3} kiss{W8} me...?{W20} {W40}{Ec}Because I..."
 
 @NAR_KIS_B:274 NAR c0b235d2
-
+"{V0581}{W6}I want{W3}{W3}{W25} to kiss{W1}{W1} you, Senpai... {W37}{F9}{Eo}Because{W23} I{W3}{W3} love{W3} you so much!"
 
 @NAR_KIS_B:275 PLY 02653d60
-
+"Thank you... for caring about me so much."
 
 @NAR_KIS_B:276 PLY ae561d0d
-
+"I feel the same... I want to kiss you too, Narumi."
 
 @NAR_KIS_B:277 NAR 5d7a0c3a
-
+"{V0582}{W15}I'm so happy."
 
 @NAR_KIS_B:278 NAR 72562af4
-
+"{V0583}{Nm}{W10}{W3}..."
 
 @NAR_KIS_B:279 PLY 103188e8
-
+"...Close your eyes."
 
 @NAR_KIS_B:280 NAR fb6ead99
-
+"{V0584}{W18}Okay."
 
 @NAR_KIS_B:281 NAR 8e2112e5
-
+"{V585}{W10}Ah..."
 
 @NAR_KIS_B:282 PLY 6f96624b
-
+(Narumi... I love her...)
 
 @NAR_KIS_B:283 NAR c4d92229
-
+"{V586}{W10}Mm..."
 
 @NAR_KIS_B:284 NAR feed814c
-
+"{V0587}{W18}Senpai...{W8}"
 
 @NAR_KIS_B:286 NAR 8989dff3
-
+"{V0588}{W15}Hehe,{W5}{W5}{W5}{W5} {Fe2}{Ec}I kissed{W4}{W4} you, Senpai...{W5}"
 
 @NAR_KIS_B:287 NAR d5ee83c9
-
+"{V0589}{Eo}{Nm}{W6}{W3}, {W10}I'm{W14} so happy.{W22} {Ec}{W5}{Fe9m2}{Eo}I'll never forget it."
 
 @NAR_KIS_B:288 NAR 08233364
-
+"{V0590}{W15}Senpai,{W5}{W15} please{W2}{W2}{W2} be sure{W5}{W8}{W6} to{W24} stop by{W3} the Home Ec Club's{W3}{W3} stall{Ec} at the school festival!"
 
 @NAR_KIS_B:289 PLY 5b272131
-
+"Sure. I'll come eat the udon you made."
 
 @NAR_KIS_B:290 NAR 3c228d16
-
+"{V0591}{W10}Yes."
 
 @NAR_KIS_B:291 NAR 4577c69c
-
+"{V0592}{W15}Well, Senpai,{W14} I'll be going now."
 
 @NAR_KIS_B:292 NAR 3cc31dfa
-
+"{V0593}{Nm}{W12}{W8}"
 
 @NAR_KIS_B:293 PLY 658ef76e
-
+"What is it, Narumi?"
 
 @NAR_KIS_B:294 NAR 0fc163af
-
+"{V0594}{W15}Nothing,{W5}{W4}{W20} I just wanted to call you."
 
 @NAR_KIS_B:295 NAR b32b3888
-
+"{V0595}{W15}Just being{W3}{W3}{W5} like this with you,{W35} {Fe2m3}{Ec}I feel{W3}{W10} so happy..."
 
 @NAR_KIS_B:296 NAR 5be7a1e4
-
+"{V0596}{W15}Senpai,{W3}{W3}{W18}{W3}{W3}{W6} at the school festival,{W15} please{W6}{W3} be sure{W3}{W3} to come eat udon!"
 
 @NAR_KIS_B:297 PLY 9da7adbb
-
+"Of course. I'll definitely come."
 
 @NAR_KIS_B:298 NAR ae3a4408
-
+"{V0597}{W10}I'll be waiting."
 
 @NAR_KIS_B:299 NAR ec9ffc37
-
+"{V0598}{W10}Well then,{W10} I'll be going now."
 
 @NAR_KIS_B:300 PLY c95cf0e0
-
+"Okay, see you."
 
 @NAR_KIS_B:301 PLY 0a3a7232
-
+"Hey, welcome to the No Way House. Yep, it's KIS B."

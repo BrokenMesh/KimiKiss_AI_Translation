@@ -2,1765 +2,1765 @@
 # Format: docs/translation-format.md
 
 @ERI_MW2_A:18 PLY f1a10a35
-
+"A healthy lifestyle..."
 
 @ERI_MW2_A:25 ERI 4e455ef9
-
+"{V1902}......"
 
 @ERI_MW2_A:26 ERI f86c5871
-
+"{V1903}{W5}{F1}That does not{W30}{W3} interest me."
 
 @ERI_MW2_A:27 PLY 6077aaf0
-
+"Futami, have you ever been on a diet?"
 
 @ERI_MW2_A:28 ERI cc5cd15b
-
+"{V1904}{W5}No."
 
 @ERI_MW2_A:29 PLY 07e8fc36
-
+"Right. You could stand to gain a little weight."
 
 @ERI_MW2_A:31 ERI aefef4d0
-
+"{V1905}{W5}{Ec}It's{W5} fine,{W38} {Eh}I'm fine as I am."
 
 @ERI_MW2_A:32 PLY 6c6b1e77
-
+"R-right..."
 
 @ERI_MW2_A:33 PLY f3511ab2
-
+"Lots of girls want to lose weight, though..."
 
 @ERI_MW2_A:34 ERI cae913ca
-
+"{V1906}{W5}{Ec}......"
 
 @ERI_MW2_A:35 ERI aa1423fd
-
+"{V1907}{W5}{F8}That{W12} has{W5} nothing{W30} to{W2} do{W2} with me{W4}."
 
 @ERI_MW2_A:36 PLY 18bca7c3
-
+"R-right..."
 
 @ERI_MW2_A:37 PLY 80f4b889
-
+"Futami, how long have you been growing your hair?"
 
 @ERI_MW2_A:39 ERI cfd8ef70
-
+"{V1908}{W10}Since{W3} elementary{W3} school{W3}{W5}."
 
 @ERI_MW2_A:40 ERI ee2a65a3
-
+"{V1909}{W5}Going to get it cut is just{W21} a{W2} hassle{W2}."
 
 @ERI_MW2_A:41 PLY 5a65960c
-
+"You're slim, Futami."
 
 @ERI_MW2_A:43 ERI 67d9956b
-
+"{V1910}{W5}I suppose.{W60} {F3}I don't eat much,{W2}{W30} and I'm{W3} not prone{W2} to gaining{W2} weight."
 
 @ERI_MW2_A:45 ERI 309d973f
-
+"{V1911}{W5}{Ec}Heh,{W50} taking in calories{Eo} is a waste."
 
 @ERI_MW2_A:46 PLY 52e5e9a5
-
+"You have fair skin, Futami."
 
 @ERI_MW2_A:47 ERI cf2a94c9
-
+"{V1912}{W5}I don't tan.{W55} {Ec}I can't{W6} stand sunlight{W2}."
 
 @ERI_MW2_A:49 ERI 206e82ee
-
+"{V1913}{W5}{Eh}{F3}A dark{W4} room{W1} calms{W4} me{W1}."
 
 @ERI_MW2_A:50 PLY 61a52544
-
+"Futami, how's your eyesight?"
 
 @ERI_MW2_A:51 ERI dccd79c2
-
+"{V1914}{W9}About{W3} 0{W3}.{W3}8."
 
 @ERI_MW2_A:52 PLY 88421faf
-
+"That's a little bad."
 
 @ERI_MW2_A:53 ERI e1c31d3a
-
+"{V1915}{W3}{Ec}It's been getting worse.{W30} {Eh}At{W3} night,{W1}{W1}{W1}{W15} things get hard to see."
 
 @ERI_MW2_A:54 PLY 764bd029
-
+"That's eye strain."
 
 @ERI_MW2_A:55 ERI 7af986d0
-
+"{V1916}{W5}{Ec}Probably{W1}{W1}{W1}{W1}{W1}{W1}.{W15}{P0}{Eo}{W45} I only{W3} look at paper{W15} or{W1}{W1}{W1}{W1}{W1} monitors."
 
 @ERI_MW2_A:56 PLY bd8cbfff
-
+"Futami, you don't tuck your gym clothes into your bloomers, do you?"
 
 @ERI_MW2_A:57 ERI 5d000922
-
+"{V1917}{W15}Something like this{W15} is better{W5} hidden{W3}."
 
 @ERI_MW2_A:59 PLY 3b8aade1
-
+(Futami in a school swimsuit...)
 
 @ERI_MW2_A:60 ERI 1a82e662
-
+"{V1918}{W4}Yes.{W45} I'm skinny, aren't I?{W45} {Ec}Seeing{W6} myself{W1}{W4}{W1}{W4}{W1}{W1}{W1} in the mirror{W30}{W3} makes me sick."
 
 @ERI_MW2_A:61 PLY a6090ac4
-
+"No, that's not..."
 
 @ERI_MW2_A:62 PLY 6234a955
-
+"How Futami looks..."
 
 @ERI_MW2_A:63 ERI e8de2bd4
-
+"{V1919}{W5}{B40}......"
 
 @ERI_MW2_A:64 ERI 4a95fbf3
-
+"{V1920}{W5}{F3}{Ec}I see.{W45} You have strange taste,{W2}{W8} {F7}{Eo}{B50}{Nm}{W3}."
 
 @ERI_MW2_A:65 PLY fec6c656
-
+"R-really?"
 
 @ERI_MW2_A:66 PLY 35d1f3bb
-
+"What type of guy do you like, Futami?"
 
 @ERI_MW2_A:67 ERI 9962a62a
-
+"{V1921}{B10}...{W8}I don't really know."
 
 @ERI_MW2_A:68 ERI 063b0f3d
-
+"{V1922}{W5}It doesn't matter,{W15} does it."
 
 @ERI_MW2_A:69 PLY 185742e8
-
+"When you fall in love, I bet..."
 
 @ERI_MW2_A:70 ERI 35e7109c
-
+"{V1923}{W5}{Ec}......"
 
 @ERI_MW2_A:71 ERI b04c3b7a
-
+"{V1924}{W8}{F2}Heh,{W5}{W40} {F3}{Eo}{Nm}{W3}, you're{W30} secretly{W5} a romantic."
 
 @ERI_MW2_A:72 PLY fc71e060
-
+"Do you have a cell phone?"
 
 @ERI_MW2_A:74 ERI 5726d0e9
-
+"{V1925}{W5}Yes.{W30} It's{W3} at home."
 
 @ERI_MW2_A:75 PLY a1531ee0
-
+"You don't carry it around?"
 
 @ERI_MW2_A:76 ERI caad110d
-
+"{V1926}{W8}{Eh}It gets{W3} in{W1} the way."
 
 @ERI_MW2_A:77 PLY 96cec0b4
-
+"Then it's kind of pointless..."
 
 @ERI_MW2_A:78 ERI 6a53df71
-
+"{V1927}{W5}{Ec}Nobody calls.{W12} Even if I carry it."
 
 @ERI_MW2_A:80 ERI a9936cf8
-
+"{V1928}{W5}My parents{W6} just made me take it,{W30} {Ec}and I{W5} don't{W5} need it."
 
 @ERI_MW2_A:81 PLY 0ba7b450
-
+"Futami, do you do experiments at home too?"
 
 @ERI_MW2_A:82 ERI b03911a8
-
+"{V1929}{W10}I do.{W45} {Fe8}Things{W5} I can't{W5} do at school."
 
 @ERI_MW2_A:83 PLY 7aa469c1
-
+"Hahaha..."
 
 @ERI_MW2_A:85 PLY ee21c52c
-
+(Things she can't do at school. That's scary...)
 
 @ERI_MW2_A:86 PLY b6e1c936
-
+"Futami, aren't you actually kind of shy?"
 
 @ERI_MW2_A:88 ERI 4072db00
-
+"{V1930}{W10}{B70}Huh?{W50} That's{W1} not{W1} true."
 
 @ERI_MW2_A:89 PLY 824a99b9
-
+"See, you turned red. Did I hit the mark?"
 
 @ERI_MW2_A:90 ERI 303a63b3
-
+"{V1931}{B100}{W5}{Ec}{F8}No,{W8} that's{W2} not{W1} it{W1}.{W45} {Eo}You just{W1} startled me."
 
 @ERI_MW2_A:91 PLY e2c8caea
-
+"I wonder."
 
 @ERI_MW2_A:92 ERI d361f594
-
+"{V1932}{W8}{Ec}{Fm9}That's{W2} how{W1} it is."
 
 @ERI_MW2_A:93 PLY 4a05a4a5
-
+"Futami, is your room maybe like the Science Prep Room?"
 
 @ERI_MW2_A:95 ERI ce89160f
-
+"{V1933}{W5}Of{W3} course{W3} not{W3}.{W41} It's a{W5} little{W5} brighter,{W2} at least.{W1}{W30}{Fe1} And{W2} there's{W2} no anatomical{W2} model."
 
 @ERI_MW2_A:96 PLY 9d6abc0b
-
+"Hahaha, I see."
 
 @ERI_MW2_A:97 PLY 3f458317
-
+"We have a lot of secrets just between us, don't we?"
 
 @ERI_MW2_A:98 ERI 867c32cd
-
+"{V1934}{W5}Fufu,{W30} we do."
 
 @ERI_MW2_A:101 ERI 3e1c7f1c
-
+"{V1935}{W8}If you tell{W5} anyone,{W2} you'll regret it."
 
 @ERI_MW2_A:102 PLY e51c0987
-
+"I wouldn't do that."
 
 @ERI_MW2_A:103 PLY 9a905d7c
-
+"There are things you can't tell people, though..."
 
 @ERI_MW2_A:104 ERI d59822d5
-
+"{V1936}{W5}{F4}......"
 
 @ERI_MW2_A:105 ERI 1578791a
-
+"{V1937}{W8}{F3}{Ec}Heh,{W55} {Eo}I{W6} have nothing{W30} but things I can't tell anyone."
 
 @ERI_MW2_A:106 PLY b95efbcf
-
+"Articles in women's magazines are pretty racy, huh."
 
 @ERI_MW2_A:107 ERI e10143d1
-
+"{V1938}{W8}They are.{W90} They{W8} don't expect{W3} men to read them,{W15} so{W3} they're explicit."
 
 @ERI_MW2_A:108 ERI 3426e213
-
+"{V1939}{W5}{Eh}{Fm3}Fufu,{W25} so you check those{W2} magazines,{W33} {Nm}{W3}."
 
 @ERI_MW2_A:109 PLY 3acb889f
-
+"No, it's not like that..."
 
 @ERI_MW2_A:110 ERI 063717df
-
+"{V1940}{W5}{Ec}Hehe,{W55} {B20}{Fe8m3}{Eh}it's{W4} fine,{W27} you don't{W5} have to hide it."
 
 @ERI_MW2_A:111 PLY afd2e7c7
-
+"I said, that's not it..."
 
 @ERI_MW2_A:112 PLY 42a71c46
-
+"Futami, what are your measurements?"
 
 @ERI_MW2_A:114 ERI cd715930
-
+"{V1941}{W8}{Ec}7{W8}8{W5}{W15}-{W15}5{W8}5{W15}-{W15}7{W8}9{W8}."
 
 @ERI_MW2_A:115 PLY 122df4f6
-
+"Huh?"
 
 @ERI_MW2_A:117 ERI d1d21ee1
-
+"{V1942}{W8}{Eh}What's wrong?"
 
 @ERI_MW2_A:118 PLY e0aaffed
-
+"I didn't think you'd answer so easily..."
 
 @ERI_MW2_A:119 ERI 01096f2a
-
+"{V1943}{W5}{Ec}You asked because you expected{W5} an answer{W3}, didn't you?{W45} {Fe8m3}{Eh}{Nm}{W3}, why{W5} are you{W5} flustered{W1}?{W1}"
 
 @ERI_MW2_A:120 ERI c9721719
-
+"{V1944}{W8}{F3}{Ec}Hehe{W1}{W3}{W1}"
 
 @ERI_MW2_A:124 PLY de3ea044
-
+"Bloomers are kind of... racy, aren't they?"
 
 @ERI_MW2_A:131 ERI 32674cb9
-
+"{V1945}{W8}{Eo}I suppose.{W20} ...{W15}{Eh}{F3}{B30}Does it bother you?"
 
 @ERI_MW2_A:132 PLY d2861195
-
+"N-no, it's not like that."
 
 @ERI_MW2_A:133 ERI cdac0ae3
-
+"{V1946}{W5}{W5}Fufu,{W55} {B50}it does bother you."
 
 @ERI_MW2_A:134 PLY 521abbac
-
+"Don't you think school swimsuits are kind of racy?"
 
 @ERI_MW2_A:136 ERI 11a361b0
-
+"{V1947}{W8}{Ec}They are.{W45} {Eh}{Fe5m1}They try to be plain{W8} and{W2} fail{W2}."
 
 @ERI_MW2_A:138 ERI d2771ae5
-
+"{V1948}{W5}{Ec}Anywhere{W5} but{W5} school{W1} it's{W4} too{W1} embarrassing{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1} to wear,{W15} {Eh}{F8}which{W1} is{W1} wrong{W1} to{W1} begin{W1} with."
 
 @ERI_MW2_A:139 PLY 25f1729f
-
+"It's a bit of a racy topic, but..."
 
 @ERI_MW2_A:140 ERI b786bd3f
-
+"{V1949}......"
 
 @ERI_MW2_A:142 ERI d7835dc6
-
+"{V1950}{B20}{W8}Fufu,{W90} {Eh}you're quite bold,{W30} {Nm}."
 
 @ERI_MW2_A:143 PLY c655f4b6
-
+"What kind of adult do you think you'll become, Futami?"
 
 @ERI_MW2_A:144 ERI 54e68cba
-
+"{V1951}{W5}I'd rather not{W6} think about it..."
 
 @ERI_MW2_A:145 PLY 96bb55c9
-
+"...Sorry."
 
 @ERI_MW2_A:146 ERI 96d78bfc
-
+"{V1952}{W5}{F3}{Eh}It's fine."
 
 @ERI_MW2_A:147 PLY 941ea63f
-
+"Nobody knows the future, so no need to think too hard, right?"
 
 @ERI_MW2_A:148 ERI e8d88fa1
-
+"{V1953}{W5}Fufu,{W57} you're quite{W1} carefree."
 
 @ERI_MW2_A:149 ERI 80acddea
-
+"{V1954}{W5}{F6}But{W15}...{W14} that's fine,{W15} {Fm3}I suppose."
 
 @ERI_MW2_A:150 PLY e91be9df
-
+"The future will just work out somehow, I guess..."
 
 @ERI_MW2_A:151 ERI b2236beb
-
+"{Ec}......"
 
 @ERI_MW2_A:152 ERI 4155772f
-
+"{V1956}{W5}{F3}Fufu,{W60} true.{W45} {Eo}I{W3} think so too."
 
 @ERI_MW2_A:153 PLY 5c9bb665
-
+"Futami, what kind of kid were you in elementary school?"
 
 @ERI_MW2_A:154 ERI d9844211
-
+"{V1957}{W5}Fufu,{W45} I was the same as{W4} now.{W40} {Ec}{F6}Skinny{W2}{W1}{W1} and{W25} always alone{W3}..."
 
 @ERI_MW2_A:155 PLY bc3a7290
-
+"...But now you're talking with me, aren't you?"
 
 @ERI_MW2_A:157 ERI cbfb7dab
-
+"{V1958}{W5}{Eh}True,{W75} {Fm4}how strange."
 
 @ERI_MW2_A:158 ERI ef36b1af
-
+"{V1959}{W5}...{W5}True.{W75} {Eh}I'm not{W3} alone anymore.{F3}"
 
 @ERI_MW2_A:159 PLY c7658b54
-
+"I was glad I got to hear about your childhood in the park."
 
 @ERI_MW2_A:160 ERI bd59abbf
-
+"{V1960}{W5}{B30}R-{W45}really?"
 
 @ERI_MW2_A:161 ERI e2ecb308
-
+"{V1961}{W15}That's not{W30} a{W4} fun{W6} story,{W30} {Eo}so forget it.{W3}"
 
 @ERI_MW2_A:162 PLY 28c510a5
-
+"No, it's important to you... I won't forget."
 
 @ERI_MW2_A:164 ERI ec6b086d
-
+"{V1962}{W8}{B60}{Nm}..."
 
 @ERI_MW2_A:165 PLY ad8145d6
-
+"When I suddenly remember my childhood..."
 
 @ERI_MW2_A:166 ERI b4e8d9d1
-
+"{V1963}{Ec}{Fe3m7}......"
 
 @ERI_MW2_A:167 ERI 25309e7a
-
+"{V1964}{W8}I see...{W80} You're lucky,{W25} {Nm}."
 
 @ERI_MW2_A:168 PLY 8535a188
-
+"How you look to me, Futami..."
 
 @ERI_MW2_A:169 ERI b427a233
-
+"{V1965}{W5}......"
 
 @ERI_MW2_A:170 ERI 7f25861c
-
+"{V1966}{W5}{B30}...{W8}I'll let{W45} {B60}{F9}it go at that."
 
 @ERI_MW2_A:171 PLY 2ca64493
-
+"Futami..."
 
 @ERI_MW2_A:174 SYS 9b3cbf89
-
+{Ti0}{Ti2}Staaaaaaare
 
 @ERI_MW2_A:175 ERI c7d95474
-
+"{V1967}{W5}Eh..."
 
 @ERI_MW2_A:176 ERI f2e3d477
-
+"{V1968}{W8}{F3}{Eh}Fufu{W5}{W3}"
 
 @ERI_MW2_A:177 ERI ee2af808
-
+"{V1969}{W8}{Fm2}Staaaaaare{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
 
 @ERI_MW2_A:178 PLY ef31d0d3
-
+(Ugh... she stared back...)
 
 @ERI_MW2_A:179 ERI 28c0634a
-
+"{V1970}{Ec}{W8}Hehe,{W45} your cheeks{W5} are red,{W5}{W8} {Eh}{Nm}."
 
 @ERI_MW2_A:180 PLY f2fdc86a
-
+"Futami."
 
 @ERI_MW2_A:181 ERI 1e6be818
-
+"{V1971}{W5}{Fe2}What?{W6}"
 
 @ERI_MW2_A:185 SYS a77d0776
-
+{Ti0}Smile!
 
 @ERI_MW2_A:186 ERI b76bdb8c
-
+"{V1972}{W5}{Eo}{F4}......"
 
 @ERI_MW2_A:187 ERI e51ce50d
-
+"{V1973}{W5}{B40}W-{W45}what{W6} is it,{W40} {Fe7}{B80}smiling{W6} all{W3} of a sudden..."
 
 @ERI_MW2_A:188 PLY 633308c3
-
+(All right! This is going well!)
 
 @ERI_MW2_A:189 PLY 7bcaa667
-
+(Okay, I'll put on a cool face and nail it!)
 
 @ERI_MW2_A:190 ERI a65ad864
-
+"{V1974}{W5}What?{W5}"
 
 @ERI_MW2_A:191 SYS c2ab9f12
-
+{Ti0}Sharp!
 
 @ERI_MW2_A:192 ERI d8ad84b0
-
+"{V1975}......"
 
 @ERI_MW2_A:193 ERI dbf64a98
-
+"{V1976}{W5}{Ec}{F2}Heh,{W30} what's wrong?{W15} {Eh}Why the sudden{W3}{W2} frown?"
 
 @ERI_MW2_A:194 PLY 52dd8365
-
+"Hahaha... it's nothing..."
 
 @ERI_MW2_A:195 PLY 6a0ce4d0
-
+(Okay, here goes... I'll take her hand...)
 
 @ERI_MW2_A:200 SYS 1ffe4b9d
-
+{T0.0}Squeeze!
 
 @ERI_MW2_A:201 ERI bbb7666d
-
+"{V1977}{W5}{B100}Ah..."
 
 @ERI_MW2_A:202 ERI 09ad490a
-
+"{V1978}{W5}{Eh}{Fe1m3}Fufu,{W60} so{W8} bold{W8}."
 
 @ERI_MW2_A:203 ERI b0116293
-
+"{V1979}{W5}But,{W30} I'm{W5} not good at this."
 
 @ERI_MW2_A:204 PLY 7807e5dc
-
+(Ah... she shook it off right away...)
 
 @ERI_MW2_A:205 PLY 009b689c
-
+"Have you started anything new lately?"
 
 @ERI_MW2_A:206 ERI c5a30984
-
+"{V1980}{W3}{F4}Something{W5} I started{W5}{W6} recently{W5}?{W60} {Eh}{F7}Let{W1} me{W1} think..."
 
 @ERI_MW2_A:208 ERI 6ea738a6
-
+"{V1981}{W10}Every{W3} day,{W3} I turn what happened{W25} into text data."
 
 @ERI_MW2_A:209 PLY 0b2d4a5f
-
+"Oh, why?"
 
 @ERI_MW2_A:210 ERI 3960b36a
-
+"{V1982}{W5}{Nm}{W3}, since I met you,{W30} {Ec}interesting{W3} things{W3} often{W1} happen{W1}."
 
 @ERI_MW2_A:211 PLY 382810ca
-
+"Hahahaha..."
 
 @ERI_MW2_A:212 PLY 6f3a5444
-
+"It's gotten quite cool lately, hasn't it?"
 
 @ERI_MW2_A:213 ERI c003b135
-
+"{V1983}{W10}Right.{W60} {F3}It's easy to get through the day. {Ec}That's nice."
 
 @ERI_MW2_A:214 PLY 5e3d7784
-
+"The midterms come after the school festival."
 
 @ERI_MW2_A:215 ERI 4429f3ca
-
+"{V1984}{F3}{W5}Right."
 
 @ERI_MW2_A:216 PLY 19dc1a0a
-
+"...Are you going to hand in a blank sheet again?"
 
 @ERI_MW2_A:217 ERI 32c41240
-
+"{V1985}...{W5}No more blank{W3} sheets.{W3} {Eo}{F3}Once{W3} is{W3} enough.{W30} {Eh}{Fe9m3}Once{W3} is{W3} plenty."
 
 @ERI_MW2_A:218 ERI bf820f49
-
+"{V1986}{W5}This{W5} time,{W5} I will take first place without mercy.{W3}"
 
 @ERI_MW2_A:219 PLY f44a42d5
-
+"Futami, what's your favorite season?"
 
 @ERI_MW2_A:220 ERI da2b9ef4
-
+"{V1987}{W8}Winter.{W6}"
 
 @ERI_MW2_A:221 PLY d9372ba1
-
+"Why?"
 
 @ERI_MW2_A:222 ERI 671fc1d0
-
+"{V1988}{W5}{F9}Heat{W3} makes me spacey.{W60} {F3}{Ec}Being{W3} a bit cold{W3} suits{W3} me better."
 
 @ERI_MW2_A:223 PLY b25ae264
-
+"You really are amazing, Futami."
 
 @ERI_MW2_A:224 ERI 49ea2a1f
-
+"{V1989}{W5}{F4}At{W5} what?"
 
 @ERI_MW2_A:225 PLY 3bf3abca
-
+"Solving that hard puzzle ring in an instant."
 
 @ERI_MW2_A:226 ERI 6ecf1be8
-
+"{V1990}{W5}{F3}That{W2} is{W2} easy.{W2}{W2}{W5}{W5} {W30}{Fe6m3}{B60}{W3}You exaggerate."
 
 @ERI_MW2_A:227 PLY 081e60ea
-
+"You think so..."
 
 @ERI_MW2_A:228 PLY 99e6781c
-
+"The Library is nice and quiet."
 
 @ERI_MW2_A:229 ERI d54358cc
-
+"{V1991}{W10}Yes.{W57} {Eh}{F3}It feels good."
 
 @ERI_MW2_A:230 PLY 5690a308
-
+"The other day you fell asleep in the middle of an experiment."
 
 @ERI_MW2_A:231 ERI 3b0dfb82
-
+"{V1992}{W5}What...?"
 
 @ERI_MW2_A:232 PLY 8655008b
-
+"It was dangerous, so I put out the alcohol lamp."
 
 @ERI_MW2_A:233 ERI 49303f8e
-
+"{V1993}{W5}Oh,{W45} {Fe3}thank you."
 
 @ERI_MW2_A:234 ERI b13e1352
-
+"{V1994}{W5}...{W8}{F7}You saw?"
 
 @ERI_MW2_A:235 ERI 8ca3c62d
-
+"{V1995}{W15}{F9}My{W9}{W1} sleeping face{W4}..."
 
 @ERI_MW2_A:236 PLY 38e2a2ff
-
+"W-well, yeah."
 
 @ERI_MW2_A:237 ERI 02e3e4cd
-
+"{V1996}{W5}{Eh}{B70}......"
 
 @ERI_MW2_A:238.1 - b1d178ca
-
+{Ti0}- You had a cute sleeping face／- You were talking in your sleep／- You were snoring really loud
 
 @ERI_MW2_A:239 PLY 25cff146
-
+"You had a cute sleeping face."
 
 @ERI_MW2_A:240 ERI 9277f11d
-
+"{V1997}...{W8}D-{W30}{B80}don't tease me{P2}{Ec}{W5}."
 
 @ERI_MW2_A:241 PLY 59b464a8
-
+"Hahaha."
 
 @ERI_MW2_A:242 PLY 735f2187
-
+"You were talking in your sleep."
 
 @ERI_MW2_A:243 ERI f7a3c2d7
-
+"{V1998}{W8}What?! {W30}{S}W-{W30}what{W3} did I say?"
 
 @ERI_MW2_A:244 PLY 06b942dc
-
+""I love you, {Nm}.""
 
 @ERI_MW2_A:246 ERI f7cbfcdd
-
+"{V1999}{W15}{B100}{W30}Li{W6}ar!"
 
 @ERI_MW2_A:247 PLY 3d5df4d1
-
+"Hahaha, you caught me."
 
 @ERI_MW2_A:248 ERI b1658e7c
-
+"{V2000}{W15}{Eh}Honestly...{Ec}"
 
 @ERI_MW2_A:249 PLY cc95aa97
-
+"You were snoring really loud. It echoed all the way into the hallway."
 
 @ERI_MW2_A:250 ERI 95117695
-
+"{V2001}{W5}{B100}What?! {W15}{S}Re{W3}ally{W3}?!"
 
 @ERI_MW2_A:251 PLY ac011ec2
-
+"I'm kidding."
 
 @ERI_MW2_A:252 ERI 61eb6c54
-
+"{V2002}{Sd}{Ec}{F8}...{W3}You teased {Eo}me!"
 
 @ERI_MW2_A:253 PLY 5b466241
-
+"Hahaha, sorry, sorry."
 
 @ERI_MW2_A:254 ERI 231aa949
-
+"{V2003}{W10}Come to think of it,{W15} {Nm}{W3},{W18} you are decent{W2} today{W1}."
 
 @ERI_MW2_A:255 ERI cc8aaa92
-
+"{V2004}{W8}{Fm9}Your{W1} pan{W1}ts{W1}.{W21} {W3}Your{W3} pants."
 
 @ERI_MW2_A:256 PLY 486d9595
-
+"...Oh, the zipper?! I told you, that was an accident!"
 
 @ERI_MW2_A:257 ERI 480b7779
-
+"{V2005}{W12}An{W5} acci{W8}dent...{W15} really...{W90} {F3}{B40}It{W2} was{W2} in{W2} plain{W2} sight{W2},{W30} {Nm}."
 
 @ERI_MW2_A:258 PLY 843230f7
-
+"You're reading too much into it, Futami."
 
 @ERI_MW2_A:259 PLY 975ab804
-
+"Not many people come behind the school, so it's nice."
 
 @ERI_MW2_A:261 ERI b8ce5813
-
+"{V2006}{W5}Yes,{W30} it suits{W9} me.{W35} {Ec}I come here often."
 
 @ERI_MW2_A:262 PLY 9ca3799c
-
+"School is..."
 
 @ERI_MW2_A:263 ERI bb8bdb5c
-
+"{V2007}{F3}......"
 
 @ERI_MW2_A:264 ERI 9614a8e2
-
+"{V2008}{Eh}...{W8}Yes,{W40} {F2}it is{W6} fun."
 
 @ERI_MW2_A:265 PLY 1c0a097e
-
+"Which do you think are cooler, guys in sports clubs or in culture clubs?"
 
 @ERI_MW2_A:266 ERI cf38a5c8
-
+"{V2009}{W5}{Nm}{W3},{W45} you are not in either one."
 
 @ERI_MW2_A:268 PLY 810850a0
-
+"Y-yeah, that's true."
 
 @ERI_MW2_A:269 ERI 216fc293
-
+"{V2010}{W8}{B40}I{W9} prefer{W45} someone who is in neither{W2}, {F3}{B80}actually{Ec}."
 
 @ERI_MW2_A:270 PLY 835d52cf
-
+"About club activities, I think..."
 
 @ERI_MW2_A:271 ERI ecb33eb6
-
+"{V2011}{F7}......"
 
 @ERI_MW2_A:272 ERI 6697fac2
-
+"{V2012}{W5}{F3}Really?{W45} If {Nm}{W3} says so,{W30} {Fm2}maybe."
 
 @ERI_MW2_A:273 PLY 32889676
-
+"Is there any uniform you'd like to try on?"
 
 @ERI_MW2_A:274 ERI b9ead2d6
-
+"{V2013}{W8}A uni{W5}form{W5}?{W60} {F3}Any kind{W3}?"
 
 @ERI_MW2_A:275 PLY 545bd259
-
+"Sure."
 
 @ERI_MW2_A:276 ERI a7ecdf2a
-
+"{V2014}{W10}{F7}If I must choose,{W30} one I can rarely wear{Ec}{W3}{W3} would be good."
 
 @ERI_MW2_A:278 ERI d73e7e27
-
+"{V2015}{W5}How about a waitress{W3}{W4} uniform{W3}?"
 
 @ERI_MW2_A:279 PLY 433fd49c
-
+"Huh? A maid?"
 
 @ERI_MW2_A:280 ERI 011a848b
-
+"{V2016}{W5}Why{W5} a maid?{W27} {Ec}{Fm4}A waitress."
 
 @ERI_MW2_A:281 PLY 9364be3c
-
+"R-right, sorry."
 
 @ERI_MW2_A:282 PLY f27eaf95
-
+"You have straight black hair, Futami, so a uniform really suits you."
 
 @ERI_MW2_A:283 ERI 00c7e9fc
-
+"{V2017}{W5}{B60}R-{W30}really?"
 
 @ERI_MW2_A:284 ERI 408943d2
-
+"{V2018}{W15}{Fe7}{Eh}I don't{W10} {Fe3}{B100}think{W6}{W3} so, though..."
 
 @ERI_MW2_A:285 PLY 59895fb1
-
+"Which committee do you deal with the most, Futami? The Health and PE Committee?"
 
 @ERI_MW2_A:286 ERI d9e910d8
-
+"{V2019}{W8}{Ec}The Dis{W3}ci{W1}pli{W1}ne{W3} Committee,{W33} {Eo}obviously. Isn't it?"
 
 @ERI_MW2_A:287 ERI c9b0ca91
-
+"{V2020}{W8}{Ec}{F9}That{W5} meddlesome girl{W2} in{W3} particular{W35} is{W7} my{W2} {Eo}na{W3}me{W3}sis."
 
 @ERI_MW2_A:288 PLY 4a746a52
-
+"If you made the school rules, Futami, what would they be?"
 
 @ERI_MW2_A:289 ERI 88bbafba
-
+"{V2021}{W5}Me?{W60} School{W5} rules{W5}?{W72} {Eh}Let{W9} me{W3} think{W2}..."
 
 @ERI_MW2_A:290 ERI 43d1e526
-
+"{V2022}{W8}{Eo}{Fm4}Teach{W6}ers{W6} obey{W3} school{W6} rules{W6} too{W2}...{W60} {Fm3}{Eh}how {F3}about that?"
 
 @ERI_MW2_A:291 PLY 3b41d0e6
-
+"Hahaha, that's funny."
 
 @ERI_MW2_A:292 PLY fee81a3a
-
+"Have you ever thought about becoming a teacher?"
 
 @ERI_MW2_A:293 ERI d269fc74
-
+"{V2023}{W5}Teach{W5}ing{W1} people{W1} is{W1} beyond{W1} me{W1}.{W33}{W9}{W1}{W1}{W1} {W40}{Ec}I am not suited for it."
 
 @ERI_MW2_A:294 PLY afe559bc
-
+"Ah... right."
 
 @ERI_MW2_A:295 ERI 7dff807b
-
+"{V2024}{W8}{F6}It is{W6} difficult...{W60} {F9}{Eh}teaching{W5} people{W5}..."
 
 @ERI_MW2_A:296 PLY d2bf0e85
-
+"Being a teacher seems tough."
 
 @ERI_MW2_A:297 ERI d3b0798f
-
+"{V2025}{W8}{F9}Yes,{W72} because of students{W6} like me{W2}."
 
 @ERI_MW2_A:298 PLY cb59c328
-
+"Hahaha, so you're aware of it."
 
 @ERI_MW2_A:299 ERI 75e55017
-
+"{V2026}{W8}Being aware{W3} does not mean{W45} {Fm3}I can change."
 
 @ERI_MW2_A:300 PLY 804b873b
-
+"Yeah... true."
 
 @ERI_MW2_A:301 PLY 8a379e6d
-
+"When a teacher praises you..."
 
 @ERI_MW2_A:302 ERI 27c4314c
-
+"{V2027}{W5}{F4}Huh..."
 
 @ERI_MW2_A:303 ERI db209da0
-
+"{V2028}{W8}Heh,{W50} how{W6} simple{W6}."
 
 @ERI_MW2_A:304 PLY 2c57770a
-
+"What would you do if I transferred schools?"
 
 @ERI_MW2_A:305 ERI d8514fea
-
+"{V2029}{W5}{F4}What?"
 
 @ERI_MW2_A:306 ERI 0e76b738
-
+"{V2030}...{W5}That would{W72} {Eh}be{W4} trouble."
 
 @ERI_MW2_A:307 ERI 5760bda5
-
+"{V2031}{Eh}{Fe9m4}...{W5}Is there{W3} a reason?"
 
 @ERI_MW2_A:308 PLY 3206487f
-
+"Ah... no, never mind."
 
 @ERI_MW2_A:309 PLY 403bd373
-
+"Transferring means friends can't see each other anymore, right?"
 
 @ERI_MW2_A:310 ERI de50473a
-
+"{V2032}{W8}{F6}Yes."
 
 @ERI_MW2_A:311 ERI a94814bb
-
+"{V2033}{W8}{F9}Now{W4} I understand{W60} how painful it is.{W15}{P2}{F6}{W45} Just{W4} thinking about it{W45} {Ec}makes{W4} my{W4} chest{W4} hurt."
 
 @ERI_MW2_A:312 PLY aa08ea3b
-
+"About transferring..."
 
 @ERI_MW2_A:313 ERI 189e7858
-
+"{V2034}{Fe7m6}{Eh}......"
 
 @ERI_MW2_A:314 ERI afffe831
-
+"{V2035}{W8}Yes,{W36} I think{W4} so."
 
 @ERI_MW2_A:315 PLY 9b7d2fc1
-
+"Want to study at my house sometime?"
 
 @ERI_MW2_A:316 ERI bd1fff3a
-
+"{V2036}{W8}{F4}At {Nm}{W3}'s house{W3}?"
 
 @ERI_MW2_A:317 PLY 019e9373
-
+"Is that a no?"
 
 @ERI_MW2_A:318 ERI 4342e4c2
-
+"{V2037}{W8}No,{W30} that's fine."
 
 @ERI_MW2_A:320 ERI 9c767121
-
+"{V2038}...{W5}So,{W60} what{W4} are{W4} you going to study{W4}?{W60} {Eh}{B80}Grown{W3}-up studying{W6}{W4}?"
 
 @ERI_MW2_A:321 PLY 87c1b3c9
-
+"Of course... not..."
 
 @ERI_MW2_A:322 ERI 2da298dc
-
+"{V2039}{W5}{B40}Really{W4}{W4}?{W45} He{W3}he{W3}he{W3}."
 
 @ERI_MW2_A:323 PLY 94b98a9f
-
+"Studying in the middle of the night..."
 
 @ERI_MW2_A:324 ERI 705d1071
-
+"{V2040}{F3}......"
 
 @ERI_MW2_A:325 ERI bc0814f1
-
+"{V2041}{F2}{Ec}Right,{W47} {Eo}it goes well."
 
 @ERI_MW2_A:326 PLY cbe1454d
-
+"We shouldn't worry so much about grades, right?"
 
 @ERI_MW2_A:327 ERI d3663a1d
-
+"{V2042}{W5}{F2}Yes,{W36} {Ec}there is no need to worry."
 
 @ERI_MW2_A:328 ERI f3fb6570
-
+"{V2043}{W5}{Eo}{Fe3m1}Grades{W4}{W4} do not matter.{W30} {W30}{Eh}{F2}Just be yourself,{W3} {Nm},{W15} {Ec}and that is enough."
 
 @ERI_MW2_A:329 PLY 443fc167
-
+"About grades, I think..."
 
 @ERI_MW2_A:330 ERI 16cf37af
-
+"{V2044}......"
 
 @ERI_MW2_A:331 ERI a3379839
-
+"{V2045}{W6}{F2}Aren't you fine{W6} as you are?{W30} {Ec}{W4}There is no need to worry."
 
 @ERI_MW2_A:332 PLY 692b5fa8
-
+"Entrance exams, huh... When that time comes, we might end up apart."
 
 @ERI_MW2_A:333 ERI 5130cd24
-
+"{V2046}......"
 
 @ERI_MW2_A:334 ERI 0b375e09
-
+"{V2047}{W3}{F9}Let's stop{W15} talking about that.{W6}{W63} {Eo}{Fm3}It makes me{W4} lonely."
 
 @ERI_MW2_A:335 PLY a9bebc32
-
+"Yeah..."
 
 @ERI_MW2_A:336 PLY 1587ac48
-
+"Girls' PE has creative dance, right?"
 
 @ERI_MW2_A:337 ERI 1e1e117d
-
+"{V2054}{W5}Yes."
 
 @ERI_MW2_A:338 PLY b85df6be
-
+"What kind of dancing do you do?"
 
 @ERI_MW2_A:339 ERI 5c6b944f
-
+"{V2055}{W5}Water{W4}, or{W15} the sun{W4}{W4},{W30} you pick a theme{W30} and {Fm3}express{W4} it{W2} through{W2} dance."
 
 @ERI_MW2_A:340 PLY 47c9543b
-
+"Wow."
 
 @ERI_MW2_A:341 ERI 5cabacd0
-
+"{V2056}{W5}I{W6} am{W3} stiff{W6}{W3}{W6},{W45} so {Ec}I'm bad at{W3} it."
 
 @ERI_MW2_A:342 PLY 3b54c605
-
+"Everyone was playing volleyball during break. Have you gotten any better?"
 
 @ERI_MW2_A:343 ERI d6c9be0a
-
+"{V2057}{W5}Not{W3} at all."
 
 @ERI_MW2_A:344 ERI 90927956
-
+"{V2058}{W5}{F3}But{W25} {Ec}{W5}it's{W5} fun."
 
 @ERI_MW2_A:345 PLY 58e7601b
-
+"I see, that's good."
 
 @ERI_MW2_A:346 ERI 15f25587
-
+"{V2059}{W5}Yes.{Eo}"
 
 @ERI_MW2_A:347 PLY d0238b48
-
+"You had PE, Futami?"
 
 @ERI_MW2_A:348 ERI 5eada59c
-
+"{V2060}{W5}{F3}I did."
 
 @ERI_MW2_A:349 PLY f101444b
-
+"What did you do?"
 
 @ERI_MW2_A:350 ERI f4b1f562
-
+"{V2061}{W8}Badminton."
 
 @ERI_MW2_A:351 PLY 7052535d
-
+"Sounds fun."
 
 @ERI_MW2_A:352 ERI 9d0606af
-
+"{V2062}{W8}{F9}{Ec}Not really.{W30} {Eh}{Fm3}{S}Moving{W6} my body{W4} is{W15} not{W2} my strength."
 
 @ERI_MW2_A:353 ERI 1de298fd
-
+"{V2063}{W5}{F3}Yes."
 
 @ERI_MW2_A:354 ERI 2495a1fb
-
+"{V2064}{W8}Vault{W2}ing{W2} box{W5}.{W15} {B50}{Eh}Vau{W3}l{W2}t{W2}ing{W2} b{W2}ox.{W2}"
 
 @ERI_MW2_A:355 PLY f725dd6d
-
+"Huh..."
 
 @ERI_MW2_A:356 ERI 70c4737f
-
+"{V2065}{W5}{B20}{Ec}You{W2} were not inside{W4} today,{W30} {Eo}Mr.{W2} Vault{W4}ing{W13} Box{W6}."
 
 @ERI_MW2_A:357 PLY b94d6626
-
+"That's harsh, Futami."
 
 @ERI_MW2_A:358 ERI 81330dd3
-
+"{V2066}{W5}{Ec}Fufu,{W39} {Eh}is it?"
 
 @ERI_MW2_A:359 ERI fb8082d7
-
+"{V2067}{W5}{F3}I did."
 
 @ERI_MW2_A:360 ERI 21556bf3
-
+"{V2068}{W5}Track{W4} and field{W4}.{W45} Running,{W15} long{W3} jump{W3}."
 
 @ERI_MW2_A:361 PLY 367fd0be
-
+"I see. How was it?"
 
 @ERI_MW2_A:362 ERI a7009c2a
-
+"{V2069}{W5}Very easy.{W4} {W30}{Ec}{F2}Waiting{W4} for my turn{W4} took{W3} longer{W3}.{W3}{W4}"
 
 @ERI_MW2_A:363 PLY ecb5505f
-
+"The other day in PE..."
 
 @ERI_MW2_A:364 ERI 1e61d99e
-
+"{V2070}{W5}{F4}......"
 
 @ERI_MW2_A:365 ERI 2abad66a
-
+"{V2071}{W5}{F3}{Ec}Heh,{W45} is that so?{P5} {Eh}{W21}How{W4} clum{W3}sy."
 
 @ERI_MW2_A:366 ERI 59aa810e
-
+"{Nm},{W8} {V2072}{W10}which is more{W3} popular,{W30} soccer or{W3} baseball?"
 
 @ERI_MW2_A:367 PLY 87c97441
-
+"Players doing well overseas are the popular ones now, so neither is really more popular."
 
 @ERI_MW2_A:368 ERI bb4691d4
-
+"{V2073}{Eo}So,{W21} in{W5} other{W1} words,{W30} {F3}{Eh}neither{W1} of{W1} them{W1} is{W1} popular{W1} in{W1} this{W1} country,{W1} is{W1} that{W1} it?{W1}{W1}{W2}{W2}{W3}{W6}{W6}{W8}{W4}"
 
 @ERI_MW2_A:369 PLY f4e77a8f
-
+"Yeah, not really..."
 
 @ERI_MW2_A:370 ERI 0dd20986
-
+"{V2074}{Ec}Heh,{W60} when{W5} you{W1} put{W1} it{W1} like{W1} that,{W30} {Eo}I{W1} want{W1} to{W4} cheer{W4} for them."
 
 @ERI_MW2_A:371 PLY 0f7f032e
-
+"You're so contrary."
 
 @ERI_MW2_A:372 ERI 51b4ed80
-
+"{V2075}What{W5} is{W2} fun{W30} about{W3} soccer?"
 
 @ERI_MW2_A:373 PLY f5c05fdc
-
+"Hmm, I guess that you can't use your hands."
 
 @ERI_MW2_A:374 PLY bfb888ef
-
+"Imagine soccer where you could throw the ball by hand. It'd get boring right away, wouldn't it?"
 
 @ERI_MW2_A:375 ERI 480e8019
-
+"{V2076}{F3}{Ec}Fu{W3}fu,{W33} I{W8} see.{Eo}"
 
 @ERI_MW2_A:376 PLY 3e4ee16e
-
+"If you were going to take up a sport..."
 
 @ERI_MW2_A:377 ERI 3e1355f0
-
+"{V2077}{Fe7m3}......{W5}"
 
 @ERI_MW2_A:378 ERI 015e3cbd
-
+"{V2078}{F3}I see.{W45} Then{W8} maybe I{W8} could{W6} do that one too.{Ec}"
 
 @ERI_MW2_A:379 PLY b0c199f2
-
+"Futami, did you do the Bon dance at the summer festival?"
 
 @ERI_MW2_A:380 ERI a921db74
-
+"{V2079}{F9}I{W5} did not go."
 
 @ERI_MW2_A:381 PLY 567ac5ab
-
+"You didn't go to the summer festival? It's fun, though..."
 
 @ERI_MW2_A:382 ERI c2627738
-
+"{V2080}I{W4} am{W8} {Ec}bad{W3} with{W8} crowds."
 
 @ERI_MW2_A:383 PLY 7b556cc8
-
+"What about dance..."
 
 @ERI_MW2_A:384 ERI f3f200fc
-
+"{V2081}{F7}......{W5}"
 
 @ERI_MW2_A:385 ERI 8bf9f1f7
-
+"{V2082}{Fe9m3}{Ec}That{W8} is{W9} impossible{W3} for{W3} me.{W30} {Eo}I{W9} am{W6} too stiff."
 
 @ERI_MW2_A:386 PLY 8c0750ba
-
+"Yesterday I was watching a music show on TV, and there was an idol who was even more tone-deaf than you."
 
 @ERI_MW2_A:387 ERI 1c69648c
-
+"{V2083}I-{W15}{E}{W21}is that so..."
 
 @ERI_MW2_A:388 PLY 843adbcf
-
+"If someone like that can be on TV, you don't need to worry about it at all, Futami."
 
 @ERI_MW2_A:389 ERI 5180ce99
-
+"{V2084}{Eh}{F8}{Nm}.{W3}{W5}"
 
 @ERI_MW2_A:390 PLY 3150f24e
-
+"What?"
 
 @ERI_MW2_A:391 ERI f86d7551
-
+"{V2085}{W10}Mind{W2} your own{W6} business.{Eo}"
 
 @ERI_MW2_A:392 ERI 680739e5
-
+"{V2086}{F9}Honestly...{Fm4}{Ec}{W5}{W1}"
 
 @ERI_MW2_A:393 PLY 5c889d23
-
+"Futami, apparently being tone-deaf is contagious."
 
 @ERI_MW2_A:394 ERI 543f28f5
-
+"{V2087}{W8}{S}Is{W2} it?{W1}"
 
 @ERI_MW2_A:395 PLY ed1fc468
-
+"Yeah. Apparently tone-deaf people shouldn't sing much around small kids. They'd learn the wrong notes."
 
 @ERI_MW2_A:396 ERI 1bd5f79f
-
+"{V2088}Hmm...{W8}{W1}{W1}"
 
 @ERI_MW2_A:397 ERI 8244e2ae
-
+"{V2089}{F3}I{W5} think that is fine.{W15} A parent{W3} and child{W2} who are both tone-deaf,{W15} {Ec}how cute."
 
 @ERI_MW2_A:398 PLY 2c4ad2f6
-
+"You think so..."
 
 @ERI_MW2_A:399 ERI bfda3a7b
-
+"{F3}{Nm},{W15} {V2090}lately{W5} I{W8} listen{W8} to{W5} happy{W9} songs{W3} too.{Ec}{W30}"
 
 @ERI_MW2_A:400 PLY a94e2fbb
-
+"Reeally, is that so."
 
 @ERI_MW2_A:401 ERI 1096fa1b
-
+"{V2091}They{W8} are{W1} nice,{W30} that{W1} kind{W1} too.{W1}"
 
 @ERI_MW2_A:402 PLY d99664b1
-
+"Futami, you like horror movies, right?"
 
 @ERI_MW2_A:403 ERI d7c1e3a1
-
+"{V2092}{F3}Yes.{W5}"
 
 @ERI_MW2_A:404 PLY 93b0d266
-
+"Japanese horror or Hollywood horror, which is better?"
 
 @ERI_MW2_A:406 ERI 483bd633
-
+"{V2093}Flashier{W10} visuals{W2} are{W1} better,{W25} {F3}so{W1} Hollywood{W1} horror.{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W3}"
 
 @ERI_MW2_A:407 PLY 5cf5173c
-
+"Oh, really?"
 
 @ERI_MW2_A:408 ERI e95dab7b
-
+"{V2094}People{W8} say{W3} Japanese{W3} horror{W3} is scarier,{W45} {F9}{Ec}but both{W6} are just{W3} child's{W3} play{W24} and not{W2} scary to me."
 
 @ERI_MW2_A:409 PLY 6f9211e6
-
+"The special effects in movies these days are amazing."
 
 @ERI_MW2_A:410 ERI bab56a70
-
+"{V2095}They{W10} are."
 
 @ERI_MW2_A:411 ERI 31836396
-
+"{V2096}{W5}{Eh}{Fm4}I wish{W2} they had more{W13}{W5}{W3} scenes{W30} that could never happen in reality,{Fe6m3}{W2}{W1} scenes that make you want to look away.{W15}{Fe8}{W2}{W1}{W1}{W1}{W1}"
 
 @ERI_MW2_A:412 PLY e34238cb
-
+"The TV shows and movies you like, Futami..."
 
 @ERI_MW2_A:413 ERI d5d1b0c8
-
+"{V2097}{Fe7m4}......{W8}"
 
 @ERI_MW2_A:414 ERI 9c45c16b
-
+"{V2098}{Fe9m3}{Ec}Fufu,{W30} you{W5} are{W1} right.{W30} {F3}{Eo}They{W1} are{W1} strange.{W1}"
 
 @ERI_MW2_A:415 PLY 58a1b7c6
-
+"Futami, about how many books do you read a month?"
 
 @ERI_MW2_A:416 ERI c9a04086
-
+"{V2099}A{W5} month?{W60} {F7}Let{W3} me{W5} see..."
 
 @ERI_MW2_A:417 ERI 26c0ac26
-
+"{V2100}Proper{W8} books,{W15} two{W5} or{W3} three.{W54} I{W3} mostly{W2} read{W3} texts{W5} posted{W3} online.{Ec}{W2}"
 
 @ERI_MW2_A:418 PLY b3fd4b20
-
+"Do you use the library?"
 
 @ERI_MW2_A:419 ERI 2e8cab8f
-
+"{V2101}{F2}{Ec}Yes.{W60} {F3}I{W5} often{W3} go{W3} to{W2} the{W3} university{W8} library."
 
 @ERI_MW2_A:420 PLY 4f976cd7
-
+"Can high school students get in?"
 
 @ERI_MW2_A:422 ERI e3fd4296
-
+"{V2102}They{W8} can.{W36} The{W2} collection{W2} is{W2} large{W2} too,{W30} {Ec}so{W2} I{W2} like{W2} it.{W2}{W3}{W3}"
 
 @ERI_MW2_A:423 PLY a75b46a8
-
+"Soon it'll be the season for reading."
 
 @ERI_MW2_A:424 ERI acfa82e3
-
+"{V2103}{Ec}{F3}It{W5} will."
 
 @ERI_MW2_A:425 PLY 76b103ca
-
+"Is there a book you'd recommend?"
 
 @ERI_MW2_A:426 ERI 490d06e9
-
+"{V2104}{Eo}A{W5} recommendation?{F3}{P6}{W45} One{W5} that{W1} suits{W1} autumn?{W1}{W1}{W3}{W3}{W2}"
 
 @ERI_MW2_A:427 PLY adc5c588
-
+"Right."
 
 @ERI_MW2_A:428 ERI 7385ac4f
-
+"{V2105}{Ec}Fufu,{W54} for{W5} romance novels{W3} with{W3} falling{W2} leaves,{W18} {Eh}you{W2} should{W2} ask{W3} the{W3} Library{W3} Committee."
 
 @ERI_MW2_A:429 ERI 12972780
-
+"{V2106}The{W5} books{W2} I{W1} read{W6} have{W1} no{W3} sense{W3} of{W3} season.{W25}"
 
 @ERI_MW2_A:430 PLY 04733997
-
+"Hahaha."
 
 @ERI_MW2_A:431 PLY 81be5d18
-
+"Have you ever shopped online?"
 
 @ERI_MW2_A:432 ERI 12843e2c
-
+"{V2107}No.{W45} {F6}{Ec}Minors{W15} cannot{W2} buy{W2} things."
 
 @ERI_MW2_A:433 PLY 2a82ce92
-
+"What if you bought with your parents' name?"
 
 @ERI_MW2_A:434 ERI 44a613d5
-
+"{V2108}{Eh}{Fe9}I{W5} would rather Papa{W6} and{W2} Mama{W15} not learn my hobbies.{W13} {F3}Not really."
 
 @ERI_MW2_A:435 PLY 696225c1
-
+"I see."
 
 @ERI_MW2_A:436 ERI 9ff35e93
-
+"{V2109}I{W8} would{W5} like{W6} to{W1} click{W45} \\"add{W1} to{W1} cart\\"{W22} soon.{W1}{W1}{W1}"
 
 @ERI_MW2_A:437 PLY 830969bc
-
+"What do you buy often?"
 
 @ERI_MW2_A:438 ERI 4b222714
-
+"{V2110}{Fm4}I{W5} do{W4} not{W1} buy{W1} many{W1} things.{W1}"
 
 @ERI_MW2_A:439 ERI 0b9a22ff
-
+"{V2111}What{W5} I{W3} spend{W3} the{W3} most{W1} on{W39} is{W2} coffee."
 
 @ERI_MW2_A:440 PLY 01a7b70e
-
+"I bought something the other day..."
 
 @ERI_MW2_A:441 ERI 47df310c
-
+"{V2112}......{W8}"
 
 @ERI_MW2_A:442 ERI 86bb37b1
-
+"{V2113}{F3}{Ec}Heh,{W60} {Eh}that{W5} is{W3} quite an{W3} amusing{W3} thing{W3} to buy."
 
 @ERI_MW2_A:443 PLY 4bea7aeb
-
+"Futami, what do you wear to sleep at night?"
 
 @ERI_MW2_A:444 ERI 48d23b20
-
+"{V2114}...{W8}{F3}{Eh}{B40}In{W6} summer,{W51} sometimes{W2} only{W2} a T-shirt."
 
 @ERI_MW2_A:446 PLY bf7f8571
-
+(Only a T-shirt...)
 
 @ERI_MW2_A:449 ERI 9a4f741e
-
+"{V2115}{B60}{Ec}Hehe,{W60} {Eh}are{W8} you{W3} imagining{W3} it?{W64} {Fe1}Did{W3} you{W5} manage{W5} to{W3} get me down to just a{W2} T-shirt?"
 
 @ERI_MW2_A:451 PLY 7944c209
-
+"...Ah, you were teasing me!"
 
 @ERI_MW2_A:452 ERI 5e58ad06
-
+"{V2116}That{W8} is what you{W3} get{W6} for{W3} asking{W5} about{W2} how I sleep.{Fe3}{Ec}"
 
 @ERI_MW2_A:453 PLY 0d407566
-
+"Futami, what colors of clothes do you like?"
 
 @ERI_MW2_A:454 ERI 3eb8e665
-
+"{V2117}Mostly{W5} monotone.{W30} {F9}I{W4} am bad with colorful{W3} ones...{Fe6}{Ec}"
 
 @ERI_MW2_A:455 PLY dab40225
-
+"I see, that fits you."
 
 @ERI_MW2_A:456 PLY 846ab835
-
+"Have you ever thought of changing your hairstyle?"
 
 @ERI_MW2_A:457 ERI 2bf39022
-
+"{V2118}I{W8} have{W8} thought{W1} about{W1} cutting{W1} it{W1} short.{W30} {Fe9}It{W1} takes{W1} a{W1} long{W1} time{W1} to{W1} dry{W1} after{W1} I{W1} wash{W1} it,{W27} {F6}{Ec}and{W1} it{W1} is{W1} annoying.{W1}{W1}{W5}{W5}{W5}{W2}{W2}{W3}{W27}"
 
 @ERI_MW2_A:458 ERI 9f0c77ed
-
+"{V2119}{Eo}{F9}But{W8} whenever{W4} I{W1} go{W1} to{W1} get{W1} it{W6} cut,{W30} they{W1} always{W30} say,{P0}{Eh}{Fe3m4}{W30} \\"Are{W4} you{W4} really{W1} sure?\\"{W10}{Eo}"
 
 @ERI_MW2_A:459 ERI faa3b18b
-
+"{V2120}When{W5} they say that,{P3}{F3}{Ec}{W30} I just{W2} cannot{W1} bring{W2} myself{W1} to cut it."
 
 @ERI_MW2_A:460 PLY 7d50773e
-
+"Your taste in fashion..."
 
 @ERI_MW2_A:461 ERI 8b421b2a
-
+"{V2121}{F4}......{W8}"
 
 @ERI_MW2_A:462 ERI e678df16
-
+"{V2122}{Fe2}{Ec}Fufu,{W50} {F3}{Eo}I{W5} see.{W40} You{W4} know best{W30} what{W3} suits you.{F2}{Ec}"
 
 @ERI_MW2_A:463 PLY 8e718078
-
+"Is there any accessory you want?"
 
 @ERI_MW2_A:464 ERI 61d39a0f
-
+"{V2123}I{W10} want a{W4} silver ring."
 
 @ERI_MW2_A:465 ERI 0148f32e
-
+"{V2124}{F4}{B40}Ah...{W45} {F3}{Eh}it{W8} has{W4} no deeper meaning."
 
 @ERI_MW2_A:466 PLY 686d8ff3
-
+"When you like an accessory, do you wear it all the time, or keep it put away safe?"
 
 @ERI_MW2_A:467 ERI 0364a450
-
+"{V2125}I{W5} wear{W6} it.{W54} {Ec}If I drop{W4} and lose it,{W30} {Eh}{Fe9}I will call{W1} it{W1} fate{W17} and{W6} give{W2} up."
 
 @ERI_MW2_A:468 PLY 2484df36
-
+"Futami, what kind of cosmetics do you use?"
 
 @ERI_MW2_A:469 ERI c7d4b629
-
+"{V2126}Cheap{W10} lip{W6} balm,{W27} and{W3} cream.{W36} I{W1} buy{W1} whatever{W9} at{W1} the{W1} drugstore.{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W4}{W2}"
 
 @ERI_MW2_A:470 PLY 039c62c3
-
+"Futami, how many swimsuits do you have?"
 
 @ERI_MW2_A:471 ERI 187a6268
-
+"{V2127}Only{W4} the one-piece{W5} I{W5} wore{W2} at{W1} the beach."
 
 @ERI_MW2_A:472 ERI 78d10b26
-
+"{V2128}Just{W5} one{W3} one-piece.{W3}"
 
 @ERI_MW2_A:473 ERI 09045e8a
-
+"{V2129}{Ec}The{W5} one{W4} I{W4} wore in middle school{W26} is probably somewhere in{W3} the closet.{Eh}"
 
 @ERI_MW2_A:474 PLY 3d55cf7c
-
+"Do you prefer one-piece swimsuits?"
 
 @ERI_MW2_A:475 ERI e9077e6e
-
+"{V2130}{F6}Yes.{W45} I{W5} am bad{W3} with{W5} bikinis."
 
 @ERI_MW2_A:476 ERI 54ff7971
-
+"{V2131}They{W5} would{W9} surely{W30} {Fm3}not{W3} suit me."
 
 @ERI_MW2_A:477 PLY e6131258
-
+"...A wet swimsuit is, well... kind of... sexy, right?"
 
 @ERI_MW2_A:478 ERI 7f26ac90
-
+"{V2132}It{W5} has been a while since I got out of the pool,{W15} {Fm6}{Eh}so it is almost dry."
 
 @ERI_MW2_A:480 PLY 5c9f46cd
-
+"I see,{W90} what a shame..."
 
 @ERI_MW2_A:481 ERI 074d5e4a
-
+"{V2133}{Ec}If{W5} you keep saying stupid things,{W15} {Eo}I will go back{W3} to change."
 
 @ERI_MW2_A:482 PLY 6c1b2754
-
+"S-sorry."
 
 @ERI_MW2_A:483 PLY 9ce08063
-
+"There are swimsuits of all kinds, but..."
 
 @ERI_MW2_A:484 ERI d14914b8
-
+"{V2134}......"
 
 @ERI_MW2_A:485 ERI 96a647fa
-
+"{V2135}{Ec}Hehe,{W30} you{W5} know{W3} a{W3} lot.{W30} {Eh}Why{W3} is{W4} that?{W1}{W1}"
 
 @ERI_MW2_A:486 PLY 7eebdf61
-
+"Ah, no... I have a little sister..."
 
 @ERI_MW2_A:487 PLY 63cba8f2
-
+"What's the most delicious thing you've ever eaten?"
 
 @ERI_MW2_A:488 ERI ec3b06bb
-
+"{V2136}It{W5} was{W3} by{W3} accident,{W1} but{W30} I{W1} mistakenly{W3} spilled{W1} milk{W3} into{W5} instant{W5} salt{W5} ramen,{W21} and{W1} it{W1} was{W15} really{W2} delicious.{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W2}"
 
 @ERI_MW2_A:489 ERI 4a8870e4
-
+"{V2137}Carbonara-style{W5} ramen.{W4}{W1}"
 
 @ERI_MW2_A:490 PLY aae3abc0
-
+"What do you like at family restaurants?"
 
 @ERI_MW2_A:491 ERI 0b11b6a0
-
+"{V2138}I{W5} often eat meat sauce spaghetti.{W35} {Ec}Surprisingly, the{W2} taste is{W3} addictive."
 
 @ERI_MW2_A:492 PLY 33c48b91
-
+"Your taste in food, Futami..."
 
 @ERI_MW2_A:493 ERI 720ea80f
-
+"{V2139}......"
 
 @ERI_MW2_A:494 ERI 08299a0e
-
+"{V2140}{Ec}Heh,{W45} {Eh}perhaps{W5} so.{W5}{W3}{W2}{W1}"
 
 @ERI_MW2_A:495 ERI be679b39
-
+"{V2141}Why{W5} not{W9} just{W9} say{W9} taste-deaf?{W30} {B40}{F3}There is no need to{W6} dodge{W1} the word now."
 
 @ERI_MW2_A:496 PLY 4996bef6
-
+"Do you know Ogura spaghetti?"
 
 @ERI_MW2_A:497 ERI e7d34b26
-
+"{V2142}Spaghetti{W8} topped with sweet bean paste, right?{W27} I know it."
 
 @ERI_MW2_A:498 PLY bea18519
-
+"You couldn't eat that, could you?"
 
 @ERI_MW2_A:499 ERI 47779c09
-
+"{V2143}What?{W15} ...{W15}{F9}{S}I-{W30}I{W5} see,{W60} {B70}I should not think{W2} it{W4} sounds tasty..."
 
 @ERI_MW2_A:500 PLY fe1d6c2c
-
+"What's your favorite Japanese sweet?"
 
 @ERI_MW2_A:501 ERI 48252408
-
+"{V2144}As{W8} for{W1} Japanese{W1} sweets...{W45} {Fe8m3}yokan."
 
 @ERI_MW2_A:502 ERI 443ab1dc
-
+"{V2145}{F3}If{W5} it is next to a convenience{W2} store register,{W15} I end up buying it."
 
 @ERI_MW2_A:503 PLY 378e3b4e
-
+"Hahaha, I get that."
 
 @ERI_MW2_A:504 PLY db4fc6ca
-
+"When it gets a bit cooler, lots of new chocolate comes out."
 
 @ERI_MW2_A:505 ERI 98fab237
-
+"{V2146}{Ec}Fufu,{W30} it{W5} does.{W18} {Eh}I{W5} look{W3} forward{W2} to it."
 
 @ERI_MW2_A:506 ERI 64004f51
-
+"{V2147}{Ec}The{W9} kind with caramel and nuts{W5} is good."
 
 @ERI_MW2_A:507 PLY 903eb133
-
+"Speaking of sweet things..."
 
 @ERI_MW2_A:508 ERI d9964c3e
-
+"{V2148}{F3}{Ec}......"
 
 @ERI_MW2_A:509 ERI ed4a7d8f
-
+"{V2149}{Eo}{Nm},{W3} you{W5} know{W45} a{W3} surprising{W3} amount{W8} about{W3} sweets."
 
 @ERI_MW2_A:510 PLY f64f5d6a
-
+"I have a little sister."
 
 @ERI_MW2_A:511 PLY bbea3977
-
+"Canned coffee has so many kinds these days."
 
 @ERI_MW2_A:512 ERI ff5e83c1
-
+"{V2150}It{W5} does.{W1}{W1}"
 
 @ERI_MW2_A:513 PLY e57801c2
-
+"Is there one you like?"
 
 @ERI_MW2_A:514 ERI 184aefca
-
+"{V2151}{Ec}{Fe3m9}{W5}Black{W1}{W1}{W1} is never tasty to me,{W15} {W30}{Eo}{F3}so I drink cafe au lait or caramel coffee.{Ec}"
 
 @ERI_MW2_A:515 PLY a774b010
-
+"Futami, do you put sugar and milk in your coffee?"
 
 @ERI_MW2_A:516 ERI 1b86565e
-
+"{V2152}I{W5} do not.{W30} Black."
 
 @ERI_MW2_A:517 PLY c836b447
-
+"Then you should watch out for drinking too much. It's rough on the stomach."
 
 @ERI_MW2_A:518 ERI 9740a40b
-
+"{V2153}Right,{W30} {Ec}I{W5} will be careful."
 
 @ERI_MW2_A:519 ERI f8011fc8
-
+"{V2154}{Nm},{W3} do{W5} you{W30} long{W6} for home{W2} cooking from{W6} a girl too?"
 
 @ERI_MW2_A:520 PLY f94ea443
-
+"W-well, sure..."
 
 @ERI_MW2_A:521 ERI d54b0c70
-
+"{V2155}{F4}{Ec}I{W5} see,{W30} {Fm3}{W15}what{W3} a{W3} shame.{W45} {Eh}{F9}Even{W2} if you{W6} hope,{W15} nothing{W8} will{W4} come from me."
 
 @ERI_MW2_A:522 PLY ddd05a62
-
+"...You don't have to be that blunt about it."
 
 @ERI_MW2_A:523 ERI 4c46ccd3
-
+"{V2156}{Ec}Fufu.{W5}"
 
 @ERI_MW2_A:524 PLY 62157924
-
+"Do you know about microwave cooking?"
 
 @ERI_MW2_A:525 ERI e27973c7
-
+"{V2157}{W8}I know.{W40} {Ec}You put the {W5}ingredients {W5}on a{W4} plate {W5}and {W1}just {W1}microwave {W1}them{W30}, right?"
 
 @ERI_MW2_A:526 PLY 8799e8fe
-
+"Right, right. Even you could do that, Futami, couldn't you?"
 
 @ERI_MW2_A:528 ERI 2c91b85d
-
+"{V2158}{W8}Instead of going to the trouble of{W5} cooking in a microwave,{W30} {Fe9}you{W3} could{W2} just{W4} heat up {W3}a {W3}frozen {W2}meal."
 
 @ERI_MW2_A:529 PLY 3f10c1ee
-
+"Well, yeah, but it has a kind of homemade feel, you know..."
 
 @ERI_MW2_A:530 ERI 99edf120
-
+"{V2159}{W5}Then,{W60} {W1}heat {W1}up {W1}a{W7} homemade-style{W6} hamburger{W1} steak?{Ec}"
 
 @ERI_MW2_A:531 PLY 00338512
-
+"...Hahaha, nothing works on you, huh..."
 
 @ERI_MW2_A:532 PLY 71dbc344
-
+"What's good about home cooking is..."
 
 @ERI_MW2_A:533 ERI 1dbfb41d
-
+"{V2160}{F7}......"
 
 @ERI_MW2_A:534 ERI d1b24935
-
+"{V2161}{W8}Something{W2} {W2}that{W4} {W2}troublesome,{W30} {Eh}I{W2} will{W2} absolutely{W4} never{W1} do.{W1}{W1}"
 
 @ERI_MW2_A:535 PLY ea9aae06
-
+"Do you know the udon shop Satonaka on the shopping street?"
 
 @ERI_MW2_A:536 ERI 74682d70
-
+"{V2162}{W5}I know it."
 
 @ERI_MW2_A:537 PLY a27f9d76
-
+"Have you ever been there?"
 
 @ERI_MW2_A:538 ERI af7c1e40
-
+"{V2163}{W10}No.{W35} {Eo}It has a Japanese-style {W3}storefront,{W5} {W5}so {W5}it's {W15}hard {W3}to walk into."
 
 @ERI_MW2_A:539 PLY 082a75c9
-
+"Oh... It's really good, so try it sometime."
 
 @ERI_MW2_A:540 ERI a5d34a47
-
+"{V2164}{W8}All right.{W25} I'll take a look."
 
 @ERI_MW2_A:541 PLY 00ce2c1e
-
+"What's your favorite frozen food?"
 
 @ERI_MW2_A:542 ERI 60d0bb60
-
+"{V2165}{W5}{F3}Things like pilaf are{W8} convenient.{W45} {Ec}{F2}You can {W3}easily{W3} {W3}change{W3} the flavor {W3}to your own taste{W21}{W1}.{W1}{W1}"
 
 @ERI_MW2_A:543 PLY 936ac88b
-
+"Have you ever eaten those super spicy snacks?"
 
 @ERI_MW2_A:544 ERI 5905a941
-
+"{V2166}{W8}Yes.{W30} {Eh}They have an addictive taste{W4}, {W1}don't they?"
 
 @ERI_MW2_A:545 PLY 163fa60d
-
+"About junk food, I think..."
 
 @ERI_MW2_A:546 ERI 3b1356b5
-
+"{V2167}{Ec}{Fm4}......"
 
 @ERI_MW2_A:547 ERI d37429e7
-
+"{V2168}{W10}The {W3}parts {W3}that {W9}seem {W2}bad {W6}for {W1}you {W1}are {W1}the {W1}good {W1}part{W1}, {W30}aren't they?"
 
 @ERI_MW2_A:548 PLY dd4b55ec
-
+"They say if you don't get sunlight during the day, you can't sleep well at night."
 
 @ERI_MW2_A:549 ERI 4342372b
-
+"{V2169}{W5}{Ec}{Fe2m3}Not being able {W4}to sleep{W30} sounds{W3} convenient to me."
 
 @ERI_MW2_A:550 PLY 8240442a
-
+"Ah, no... that's not what I meant..."
 
 @ERI_MW2_A:551 ERI 05588283
-
+"{V2170}{W5}{Ec}Fufu,{W30} {Fe9}{Eo}I know.{W15} {Fe3}I'll be careful."
 
 @ERI_MW2_A:552 PLY 9b88c438
-
+"I think you'd be healthier if you gained a little weight, Futami."
 
 @ERI_MW2_A:553 ERI 19a95313
-
+"{V2171}{W15}I suppose.{W15} {F9}{Eh}...{W30}But,{W18} it's my{W3} {W3}constitution."
 
 @ERI_MW2_A:554 PLY 70ed1615
-
+"Don't give up like that. You have to work on improving it."
 
 @ERI_MW2_A:555 ERI ad939c68
-
+"{V2172}{W5}Eh..."
 
 @ERI_MW2_A:556 ERI 8b8de3fe
-
+"{V2173}{W8}{S}{Fe9}You're right,{W45} {Sd}{F2}I'll {W5}try {W2}a {W2}little {W30}at a time."
 
 @ERI_MW2_A:557 PLY bb7656c0
-
+"They say early to bed and early to rise is the basis of good health."
 
 @ERI_MW2_A:558 ERI 76c475b5
-
+"{V2174}{W5}I{W6} am{W30} {Fm3}fine without {W8}much {W3}sleep."
 
 @ERI_MW2_A:559 ERI 1f2192d9
-
+"{V2175}{W5}{F3}{Eh}Do you know what a short sleeper is?"
 
 @ERI_MW2_A:560 PLY 27277c7e
-
+"A short sleeper?"
 
 @ERI_MW2_A:561 ERI 6942f1f2
-
+"{V2176}{W5}{Eo}It's someone who feels refreshed {W3}after{W3} about {W3}three hours {W5}of{W5} sleep.{W45} {Eh}Apparently{W6} I{W2} am{W43} one."
 
 @ERI_MW2_A:562 PLY dae5d1ac
-
+"Wow, that's handy."
 
 @ERI_MW2_A:563 ERI a688b1be
-
+"{V2177}{W8}It {W5}makes {W8}good {W5}use {W5}of {W5}the{W5} night."
 
 @ERI_MW2_A:564 PLY 5592b80e
-
+"You should take better care of your health, Futami..."
 
 @ERI_MW2_A:565 ERI eedf3778
-
+"{V2178}{F4}......"
 
 @ERI_MW2_A:566 ERI f9259dca
-
+"{V2179}{W8}{S}I know.{W30} {Fm9}{Ec}Gradually{W3}.{W3}"
 
 @ERI_MW2_A:567 ERI fcfaf11c
-
+"{V2180}{W5}{Ec}......"
 
 @ERI_MW2_A:568 ERI 653ab2e1
-
+"{V2181}{W5}Heh,{W45} {Eh}I would like to trade places with you."
 
 @ERI_MW2_A:569 PLY b5d7e9cc
-
+"Futami, I bet your body fat percentage is low."
 
 @ERI_MW2_A:570 ERI 1331e353
-
+"{V2182}{W8}I've never {W5}measured it,{W30} but {W5}I {W3}think it is low."
 
 @ERI_MW2_A:571 ERI f2ddb677
-
+"{V2183}{W5}{F7}I store {W6}little fat,{W3} {W3}so{W30} {F6}{Ec}if we were {W3}stranded, {W3}{W30}I would be the first {W3}to{W6} die."
 
 @ERI_MW2_A:572 PLY 244b9eeb
-
+"Futami, your arms are really thin."
 
 @ERI_MW2_A:573 ERI 71d4484e
-
+"{V2184}{W8}{Ec}Yes.{W30} I can't do a push-up{W3} or{W3} a{W3} pull-up,{W15} {Eo}not{W15} {W4}even {W2}one."
 
 @ERI_MW2_A:574 PLY 89569c26
-
+"That's nothing to brag about."
 
 @ERI_MW2_A:575 ERI 752576f9
-
+"{V2185}{W5}Fu{W3}fu,{W18} true."
 
 @ERI_MW2_A:576 PLY a3f4c70a
-
+"Futami, it must be hard to wash your hair."
 
 @ERI_MW2_A:577 ERI 1e2ec5f1
-
+"{V2186}{W5}Yes,{W15} very {W3}much so."
 
 @ERI_MW2_A:579 ERI e295b193
-
+"{V2187}{W8}{Eh}I lift it {W5}with both hands{W10} and scrub{W5} it all over,{W30} {F3}and my hands get {W6}so {W6}tired.{W6}"
 
 @ERI_MW2_A:580 PLY 15dbb45f
-
+"Are bloomers really embarrassing, after all?"
 
 @ERI_MW2_A:581 ERI c2b5393a
-
+"{V2188}{W8}Of course {W4}they are,{W45} {B60}{Eo}{F8}don't ask stupid questions."
 
 @ERI_MW2_A:582 PLY 319a30de
-
+"Sorry..."
 
 @ERI_MW2_A:583 PLY 7841eb9d
-
+"Futami, your waist is really slim from the side."
 
 @ERI_MW2_A:584 ERI fb2873e8
-
+"{V2189}{W8}Is {W3}it?"
 
 @ERI_MW2_A:585 PLY f01773d7
-
+"Yeah... Could you turn sideways a little?"
 
 @ERI_MW2_A:586 ERI 1e0c9dbe
-
+"{V2190}{W8}Like {W3}this?"
 
 @ERI_MW2_A:587 PLY 99b0ea70
-
+"Yeah. ...Wow, it really is thin."
 
 @ERI_MW2_A:588 ERI 41929ac5
-
+"{V2191}{W8}{Ec}{B80}......"
 
 @ERI_MW2_A:589 ERI c65d5078
-
+"{V2192}{W8}{B100}There,{W30} that's enough."
 
 @ERI_MW2_A:590 PLY 634f9920
-
+"Ah..."
 
 @ERI_MW2_A:591 PLY 331c5102
-
+"To build up stamina..."
 
 @ERI_MW2_A:592 ERI 9d765998
-
+"{V2193}{W8}......"
 
 @ERI_MW2_A:593 ERI 340ba650
-
+"{V2194}{W8}{F3}Hmm,{W45} I see.{W60} I will {W3}try {W8}it {W3}sometime."
 
 @ERI_MW2_A:594 PLY 16a649d5
-
+"...Why do people fall in love with someone, I wonder?"
 
 @ERI_MW2_A:595 ERI 0b5ae915
-
+"{V2195}{W5}Because {W3}it's {W15}lonely {W4}being alone, maybe?"
 
 @ERI_MW2_A:596 ERI f324319a
-
+"{V2196}{W5}Did {W9}I{W60} say{W3} {W3}something strange?"
 
 @ERI_MW2_A:597 PLY 1bf4a2e0
-
+"You, saying it's lonely to be alone, Futami..."
 
 @ERI_MW2_A:598 ERI 971f09b0
-
+"{V2197}{W5}{B100}Ah...{W30} {Fe9m4}In {W2}general {W2}terms,{W25} {Ec}in{W2} {W2}general{W2} {W2}terms."
 
 @ERI_MW2_A:599 PLY d4286813
-
+"When you fall in love..."
 
 @ERI_MW2_A:600 ERI 319f4027
-
+"{V2198}{Ec}......"
 
 @ERI_MW2_A:601 ERI c95075ed
-
+"{V2199}{W5}{F7}{B40}Yes,{W15} I see.{W60} {Fm3}I think I understand..."
 
 @ERI_MW2_A:602 ERI 66b52753
-
+"{Nm}..."
 
 @ERI_MW2_A:603 ERI 6e7ac8be
-
+"{V2201}{W5}Thanks to you,{W30} school {W5}has become {W5}fun.{W4} {W30}Thank you."
 
 @ERI_MW2_A:604 PLY e34285d0
-
+"W-where did that come from all of a sudden? I'm embarrassed..."
 
 @ERI_MW2_A:605 ERI 1482b52e
-
+"{V2202}{W5}{B40}Fufu,{W45} I {W5}mean {W5}it."
 
 @ERI_MW2_A:606 PLY 283d22b3
-
+"They say people who sleep lightly dream a lot. How about you, Futami?"
 
 @ERI_MW2_A:607 ERI 17cd1929
-
+"{V2203}{W8}{Ec}I do,{W43} often."
 
 @ERI_MW2_A:608 ERI 392f0e29
-
+"{V2204}{W5}{Eo}{Fm3}Sometimes {W1}they are so real{W30} that {W3}I can't {W2}believe {W2}they are dreams."
 
 @ERI_MW2_A:609 ERI 67da08b8
-
+"{V2205}...{W5}Maybe {W3}another me{W8} is doing something {W60}at {W6}night.{W6}"
 
 @ERI_MW2_A:610 PLY 2eb9d2e9
-
+"What's your room like, Futami?"
 
 @ERI_MW2_A:611 ERI fc1b6e49
-
+"{V2206}{W8}Bleak.{W3} {W3}{W60}{Ec}A white {W3}room {W8}with {W3}only {W3}the{W3} minimum {W3}furniture."
 
 @ERI_MW2_A:612 ERI 9e9faa7a
-
+"{V2207}{W5}Would you like to come take a look{W3} sometime?{W30}"
 
 @ERI_MW2_A:613 PLY 595df4be
-
+"I can say this now, but..."
 
 @ERI_MW2_A:614 ERI 3ae3f6bf
-
+"{V2208}{Ec}......"
 
 @ERI_MW2_A:615 ERI 93c60504
-
+"{V2209}{W8}{F7}Hmm,{W60} you were{W5} thinking {W5}that{W3} {W3}back{W6} then?{W45} {F3}{Eo}How meddlesome."
 
 @ERI_MW2_A:617 PLY 790e3fd6
-
+"When you wash in the bath, where do you start?"
 
 @ERI_MW2_A:618 ERI 1e1b277e
-
+"{V2210}{W5}My hair.{W6} {W60}You{W5} have to do{W3} the{W3} big job first,{W15} {Fe9m3}or it becomes {W2}a {W2}hassle."
 
 @ERI_MW2_A:620 PLY fd709d64
-
+"Have you ever thought about dirty stuff?"
 
 @ERI_MW2_A:621 ERI f635a3cf
-
+"{V2211}...{W5}You {W5}have {W3}some {W3}nerve.{W15} {F3}{Eh}{B30}After {W2}all those kisses."
 
 @ERI_MW2_A:622 PLY 316cf4f8
-
+"After all those kisses? Most of them were from you, Futami."
 
 @ERI_MW2_A:623 ERI 0c3e3dcf
-
+"{V2212}{W5}{Ec}{F8}So {W1}you {W1}know,{W1} {W1}don't {W1}you?{W30} {Eh}{Fe7m3}{B80}Of {W3}course {W3}I {W3}have,{W3}{W15} I've thought {W6}about it."
 
 @ERI_MW2_A:625 PLY c2f98871
-
+(Futami in her gym clothes... If I could kiss her right now...)
 
 @ERI_MW2_A:626 ERI de254a66
-
+"{V2213}{W5}What {W3}are {W6}you thinking, {Nm}?"
 
 @ERI_MW2_A:627 PLY 52bd2335
-
+"Huh? No, nothing..."
 
 @ERI_MW2_A:628 ERI 145cbe50
-
+"{V2214}{W8}Really?{W3} {P6}{W60}{B70}Weren't{W3} {W6}you thinking dirty thoughts?"
 
 @ERI_MW2_A:629 PLY 06af6090
-
+"H-how can you tell?"
 
 @ERI_MW2_A:630 ERI 1ecd3e64
-
+"{V2215}{W6}{Fe9}Your eyes.{W45} {Ec}{F3}Heh{W3} {W3}heh...{W30} {Eh}They're{W3} strangely{W1} {W3}serious,{W5} {W5}and {W24}{Fe9}{Ec}funny."
 
 @ERI_MW2_A:632 PLY 1d8c8a6d
-
+(Futami in her school swimsuit... If I could kiss her right now...)
 
 @ERI_MW2_A:633 ERI c18b40d0
-
+"{V2216}{W8}What {W15}are {W6}you thinking, {W30}{Nm}?"
 
 @ERI_MW2_A:634 ERI 92d8c88a
-
+"{V2217}{W5}Really?{W5} {W5}{W60}{F3}{Eh}Weren't {W6}you thinking dirty thoughts?{B60}{P3}{W30} Like wanting {W8}a kiss..."
 
 @ERI_MW2_A:635 ERI 9e8c0c19
-
+"{V2218}{W5}{Ec}Heh {W3}heh,{W30} {W3}{W3}I can tell.{W15} {B100}{Eh}When you stare at me {W5}like that."
 
 @ERI_MW2_A:637 PLY fa45b14e
-
+"It's a pretty dirty story, though..."
 
 @ERI_MW2_A:638 ERI 6e501d15
-
+"{V2219}{Ec}......"
 
 @ERI_MW2_A:639 ERI 84053c1c
-
+"{V2220}{W5}{Eh}{F3}Heh,{W45} too bad.{W8} {W5}{W30}{Ec}{Fe7}That much {W3}won't{W30} make me blush."
 
 @ERI_MW2_A:641 PLY c854d360
-
+"When I think about what comes after graduation..."
 
 @ERI_MW2_A:642 ERI 5e34ce2b
-
+"{V2222}{W5}{Ec}Shall we not?{W15} Talking about{W4} that.{W9}{W48} {Eh}It isn't fun."
 
 @ERI_MW2_A:644 ERI 349198e4
-
+"{V2223}{Eh}{F7}...{W5}Me, talking {W30}with {Nm}{W3} like{W9} this,{W6} {P6}{F3}{W48}would be{W6} unthinkable {W6}to the{W6} me of the past.{W21}"
 
 @ERI_MW2_A:645 PLY bd402dec
-
+"Maybe so."
 
 @ERI_MW2_A:646 ERI 029d74b5
-
+"{V2224}{W5}{Ec}{F7}People...{W60} cannot{W4} change{W4} by {W45}{Fm3}{Eh}themselves alone."
 
 @ERI_MW2_A:648 PLY e02a2f4f
-
+"Futami, your childhood doesn't seem to hold many good memories, but I think you'll look back on it fondly someday."
 
 @ERI_MW2_A:649 ERI d93775a6
-
+"{V2225}{W8}Fu{W3}fu,{W15} {Eo}I{W3} suppose.{W30} {F3}I would be happy if that happened."
 
 @ERI_MW2_A:651 PLY 5385d7a7
-
+"Old memories are..."
 
 @ERI_MW2_A:652 ERI 5fbb569d
-
+"{V2226}{W5}......"
 
 @ERI_MW2_A:653 ERI 8b64af11
-
+"{V2227}{W8}{Fe7}{Eh}I see...{W48} {Fm3}Maybe {W2}so..."
 
 @ERI_MW2_A:656 PLY 8c6d08eb
-
+"You were hard to approach at first, Futami, but you're actually easy to understand."
 
 @ERI_MW2_A:657 ERI 21a2c6ce
-
+"{V2228}{W10}You think {W4}so?"
 
 @ERI_MW2_A:658 PLY cc4af171
-
+"Yeah."
 
 @ERI_MW2_A:661 ERI 356e2e4a
-
+"{V2229}{W8}That is not because {W36}I am easy to understand,{W25} {F9}{Eh}it is just that {Nm}{W3} {W33}has{W6} come to understand {W6}me.{W4}"
 
 @ERI_MW2_A:663 PLY 73e546c1
-
+"To me, Futami is..."
 
 @ERI_MW2_A:664 ERI bd0cd5ea
-
+"{V2230}{W8}{B60}Eh..."
 
 @ERI_MW2_A:665 ERI eb14fa66
-
+"{V2231}{W5}{F3}Thank you...{B100}{Ec}"
 
 @ERI_MW2_A:666 ERI db1070ce
-
+"{V2232}{W5}{F4}{B50}Ah..."
 
 @ERI_MW2_A:667 ERI 1d1227cd
-
+"{V2233}{W8}{B100}Hon{W3}estly..."
 
 @ERI_MW2_A:668 ERI cf89a541
-
+"{V2234}{W5}{Fe8m4}{Ec}I'm not used{W6} to being looked at like that,{W30} {Eh}{Fe9m3}you {W2}know...{W2}"
 
 @ERI_MW2_A:670 ERI befb4ba4
-
+"{V2235}{W5}{F3}What?{W5}"
 
 @ERI_MW2_A:671 ERI 8ad1334e
-
+"{V2236}{W5}{F4}{B50}Ah..."
 
 @ERI_MW2_A:672 ERI 4a599f0e
-
+"{V2237}{W10}{F2}{Ec}{B100}Fu{W5}fu{W3}.{W3}"
 
 @ERI_MW2_A:673 PLY e2169b15
-
+(She smiled back at me.)
 
 @ERI_MW2_A:675 ERI 4c6d2c7a
-
+"{V2238}{W8}?{W5}"
 
 @ERI_MW2_A:676 ERI 99378842
-
+"{V2239}{W8}{B70}Ah..."
 
 @ERI_MW2_A:677 ERI 29edc5b7
-
+"{V2240}{W5}{Ec}{F2}Fu{W3}fu,{W45} {Nm}'s{W3} face{W4} {B100}{W45}is kind of cool, you know."
 
 @ERI_MW2_A:679 ERI 5ac55b7c
-
+"{V2241}{W8}{Eo}{F4}{B60}Ah..."
 
 @ERI_MW2_A:680 ERI 0014b300
-
+"{V2242}{W8}{Eh}{Fe7}{B100}More{W2}...{W5}{W30} {F3}twine {W4}your {W27}fingers {W5}with {W1}mine{W1}...{Fe4}"
 
 @ERI_MW2_A:681 PLY c63ee2fa
-
+"F-Futami..."

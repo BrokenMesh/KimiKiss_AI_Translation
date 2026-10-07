@@ -2,904 +2,904 @@
 # Format: docs/translation-format.md
 
 @YUM_SEV_B:31 PLY 387ed876
-
+(Hm? The poster in the hallway is torn and coming off...)
 
 @YUM_SEV_B:34 PLY 13157d42
-
+(Come to think of it... it's been torn for two or three days now...)
 
 @YUM_SEV_B:35 PLY 3174887e
-
+(...Well, somebody will fix it like always...)
 
 @YUM_SEV_B:50 YUM 630f0d2e
-
+"{V0262}{W10}Oh,{W15} {Nm}."
 
 @YUM_SEV_B:51 PLY 0122c884
-
+"Oh, Hoshino."
 
 @YUM_SEV_B:52 PLY 9cac3855
-
+"What are you doing... Oh, that's tape in your hand..."
 
 @YUM_SEV_B:53 PLY 976a5a06
-
+"Are you going to fix the poster?"
 
 @YUM_SEV_B:55 YUM ee33f0e6
-
+"{V0263}{W5}Yes."
 
 @YUM_SEV_B:56 PLY 876a2929
-
+"I see..."
 
 @YUM_SEV_B:58.1 - aba8f775
-
+{Ti0}- That's admirable／- I'll help／- Somebody will fix it anyway
 
 @YUM_SEV_B:59 PLY 502ecf8b
-
+"That's admirable."
 
 @YUM_SEV_B:62 YUM fcc45e4a
-
+"{V0264}No,{W45} it's nothing.{W55}{Ec}{W5}{F6}{Eo} I just{W5} like doing it."
 
 @YUM_SEV_B:63 PLY 18accad4
-
+"No, not everyone can do that."
 
 @YUM_SEV_B:66 YUM e49684e3
-
+"{V0265}{F4}R-{W40}{Fe6}really...{W80} do you think so..."
 
 @YUM_SEV_B:68 PLY d83f475d
-
+"I'll help."
 
 @YUM_SEV_B:70 YUM 821e394a
-
+"{V0266}{W10}Thank you."
 
 @YUM_SEV_B:71 PLY 4b0e474d
-
+"Somebody will fix it anyway."
 
 @YUM_SEV_B:72 YUM 9beb0cb9
-
+"{V0267}{F6}Mm...{W45}{Ec} You're right.{W75}{Fe9}{Eo} But,{W30} it seems sad to leave it like this forever..."
 
 @YUM_SEV_B:73 PLY dd587d30
-
+"Sad? For the poster?"
 
 @YUM_SEV_B:74 YUM c4967d2e
-
+"{V0268}{W15}That too,{W2} but{W30}{Ec}{W5}{Fe9}{Eo} wouldn't the person who put it up{W3} feel{W30} hurt? They hung it so everyone would see it..."
 
 @YUM_SEV_B:75 PLY 6c6b1e77
-
+"R-right..."
 
 @YUM_SEV_B:76 PLY a902caea
-
+"Ah... Is it you, Hoshino, who fixes torn posters and calendars before anyone notices?"
 
 @YUM_SEV_B:77 YUM cacefc5b
-
+"{V0269}Y-{W60}yes."
 
 @YUM_SEV_B:78 PLY 021d3756
-
+"I see... That's amazing."
 
 @YUM_SEV_B:79 YUM c9bf792e
-
+"{V0270}N-{W10}no!{W35} It's not!{F6}{W20} It's not amazing..."
 
 @YUM_SEV_B:80 PLY 7f893d97
-
+"No, doing what nobody else does is amazing. Everyone in class should know what you do, Hoshino."
 
 @YUM_SEV_B:81 YUM a1a77eb5
-
+"{V0271}N-{W30}no!{W50} It's fine!{W50}{Ec}{W5}{F6}{Eo} I only do it{W2} because I want to."
 
 @YUM_SEV_B:83 YUM 6fde4339
-
+"{V0272}{W5}W-{W35}well, see you."
 
 @YUM_SEV_B:85 PLY 4cd19fa9
-
+"Ah, Hoshino... She's gone..."
 
 @YUM_SEV_B:86 PLY dcc1fe4b
-
+(...So that's why our classroom area is cleaner than the other classes. It's thanks to Hoshino...)
 
 @YUM_SEV_B:90 PLY e19cc63b
-
+(The library, huh... I wonder if Hoshino's there?)
 
 @YUM_SEV_B:91 PLY c79625ee
-
+(Hoshino is kind of shy... she can't say what she wants to say...)
 
 @YUM_SEV_B:92 PLY 6c6ab677
-
+(...I'm no one to talk, but I decided to be more proactive this term...)
 
 @YUM_SEV_B:93 PLY 484ca3e5
-
+(I wonder if Hoshino would do her best with me? ...Otherwise I feel like she's missing out...)
 
 @YUM_SEV_B:94 PLY ebda63f1
-
+(I'll try bringing it up casually...)
 
 @YUM_SEV_B:98 YUM 4309b66d
-
+"{V0273}{W10}{F3}Oh,{W15} {Nm}."
 
 @YUM_SEV_B:99 PLY 68387db2
-
+"Got a minute?"
 
 @YUM_SEV_B:101 YUM 3b6b1efe
-
+"{V0274}{F3}{W5}Yes.{W45} Are you{W10} looking for a book?"
 
 @YUM_SEV_B:102 PLY 14e2873e
-
+"Oh, no, not really. Hahaha..."
 
 @YUM_SEV_B:103 YUM c1c6d624
-
+"{V0275}{W5}{F2}{Ec}Fufu."
 
 @YUM_SEV_B:104 YUM f6f3f0b2
-
+"{V0276}{W3}...Oh,{W15} that's right,{W45} I{W10} also wanted to{Fm3} ask you something, {Nm}."
 
 @YUM_SEV_B:105 PLY 897f8bb0
-
+"Huh? Really? Then you go first."
 
 @YUM_SEV_B:106 YUM 61ef4f63
-
+"{V0277}No,{W30}{Fm3} you first, {Nm}."
 
 @YUM_SEV_B:107 PLY e4abdd69
-
+"No, you first, Hoshino."
 
 @YUM_SEV_B:108 YUM 231a7fa4
-
+"{V0278}No,{W30} you first, {Nm}.{Fm3}"
 
 @YUM_SEV_B:109 PLY ddaeff15
-
+(...This holding back is what I like about her... but it's probably not good...)
 
 @YUM_SEV_B:110 PLY 8dae2ccf
-
+"You can go first, Hoshino. You're a girl, so at times like this it's better if you talk first..."
 
 @YUM_SEV_B:111 YUM 2c3eb73a
-
+"{V0279}R-{W30}really?{W70}{Ec}{W5}{F6}{Eo} Then..."
 
 @YUM_SEV_B:112 YUM 5678a61c
-
+"{V0280}{W5}Well...{W85}{Ec}{W5}{F6}{Eo} I{W60} want to become more cheerful."
 
 @YUM_SEV_B:113 PLY 122df4f6
-
+"Huh?"
 
 @YUM_SEV_B:114 YUM 71d24612
-
+"{V0281}{W10}See,{W25} I'm{W20} plain,{W5} or{W65}{Ec}{W5}{F6}{Eo} I fade into the background{W5} or something... {W65}{Fe9}{Ec}And I have few friends..."
 
 @YUM_SEV_B:115 YUM 64469a93
-
+"{V0282}{W5}{F6}{Eo}So...{W50} I wish I could be more cheerful..."
 
 @YUM_SEV_B:116 PLY 22828ef6
-
+"...W-what a coincidence."
 
 @YUM_SEV_B:117 YUM d2f50a2c
-
+"{V0283}{W10}{F4}Huh?"
 
 @YUM_SEV_B:118 PLY cdabaf28
-
+"I was about to say the same thing."
 
 @YUM_SEV_B:119 YUM be5bbdad
-
+"{V0284}{W5}You were?"
 
 @YUM_SEV_B:120 PLY 78a9980a
-
+"I want everyone in class to get to know you better, Hoshino."
 
 @YUM_SEV_B:121 YUM 815c598a
-
+"{V0285}{W5}Oh...{W40} it doesn't have to be{W20} that big a deal..."
 
 @YUM_SEV_B:122 YUM ddb0c731
-
+"{V0286}{W5}I just{W60} want everyone to remember me{W55}{Ec}{W5}{Fe9}{Eo} when they look back on high school.{W20} {Ec}That would make me{W5} happy."
 
 @YUM_SEV_B:123 PLY 81dc8ff9
-
+"T-that's a long way off."
 
 @YUM_SEV_B:124 YUM aa0f65e5
-
+"{V0287}{F9}{Eo}Fufu,{W60} it is."
 
 @YUM_SEV_B:125 PLY 9425a8fb
-
+"...I'm not exactly cheerful either, but let's have more fun together."
 
 @YUM_SEV_B:126 YUM 571c6e98
-
+"{V0288}{W10}Yes."
 
 @YUM_SEV_B:127 PLY 8c90c41e
-
+"You have charm, Hoshino. If you change your mindset a bit, you'll make lots of friends."
 
 @YUM_SEV_B:128 YUM bcf9a8a3
-
+"{V0289}{W10}No,{W45} I have no charm...{W70}{Ec} But..."
 
 @YUM_SEV_B:129 YUM fa880819
-
+"{V0290}I'm happy{W30} that you{W10} were thinking about me, {Nm}...{W65}{Fe2}{Ec}"
 
 @YUM_SEV_B:130 PLY 5128afa1
-
+"Hoshino..."
 
 @YUM_SEV_B:132 YUM b9319256
-
+"{V0291}I...{W45} will try{W5} my best, just as you say, {Nm}."
 
 @YUM_SEV_B:133 PLY 9789400f
-
+"Yeah. Let's do our best together."
 
 @YUM_SEV_B:134 PLY aab151d8
-
+"...Still, what a coincidence that we were both thinking the same thing."
 
 @YUM_SEV_B:135 YUM 7673b4d7
-
+"{V0292}{B}{W10}{Ec}Yes."
 
 @YUM_SEV_B:136 SYS 61fd9d07
-
+...And so, I ended up thinking of all sorts of ways to help Hoshino make more friends.
 
 @YUM_SEV_B:137 SYS ddb722b7
-
+First, I want to do something about her shyness...
 
 @YUM_SEV_B:138 PLY 849b9a5b
-
+(I wonder if Hoshino's here...?)
 
 @YUM_SEV_B:139 PLY 94c8a49a
-
+"Oh, there you are, Hoshino."
 
 @YUM_SEV_B:141 YUM 6308de15
-
+"{V0293}{W10}Oh,{W15} {Nm}."
 
 @YUM_SEV_B:142 PLY dd8ee4cd
-
+"Library Committee work?"
 
 @YUM_SEV_B:143 YUM e482b63b
-
+"{V0294}{W10}{F2}{Ec}Yes.{W30}{Fe3}{Eo} But{W15} I just{W10} finished.{W30} My replacement came."
 
 @YUM_SEV_B:144 PLY b37ad365
-
+"Great, perfect timing. Want to come to the Terrace with me?"
 
 @YUM_SEV_B:146 YUM f578a5c5
-
+"{V0295}{F4}To the Terrace?"
 
 @YUM_SEV_B:147 PLY 63bdb638
-
+"Yeah. You'll see when we get there."
 
 @YUM_SEV_B:148 YUM 1894aa6d
-
+"{V0296}O-{W30}okay..."
 
 @YUM_SEV_B:150 YUM 8415e0e3
-
+"{V0297}{W5}It's always lively here{W47} at lunch break."
 
 @YUM_SEV_B:151 PLY 851b6dc4
-
+"It is."
 
 @YUM_SEV_B:152 PLY 72f06d19
-
+"Actually, there's something I want you to do here to cure your shyness."
 
 @YUM_SEV_B:153 YUM 08ab4655
-
+"{V0298}{W5}{Sp}Huh?{W45}{Ec}{W5}{Fe9}{Eo} ...W-{W20}what is it?"
 
 @YUM_SEV_B:154 PLY 06203944
-
+"Well... don't be startled."
 
 @YUM_SEV_B:155 YUM 600eec3b
-
+"{V0299}O-{W30}okay."
 
 @YUM_SEV_B:156 PLY 60488d8e
-
+"Why don't you try talking to strangers?"
 
 @YUM_SEV_B:157 YUM edb6e3bf
-
+"{V0300}{W5}What?!"
 
 @YUM_SEV_B:158 PLY 70b7ecb7
-
+"Join a table where people are having fun, and make the conversation even livelier."
 
 @YUM_SEV_B:160 YUM b91e722c
-
+"{V0301}{F8}{W5}I can't{W15} do that!{W30}{Ec} I can't!"
 
 @YUM_SEV_B:161 PLY b020c14f
-
+"Yeah... I think it's a bit crazy too..."
 
 @YUM_SEV_B:162 PLY 3b81675a
-
+"But I thought you can't change unless you do that much..."
 
 @YUM_SEV_B:163 YUM 480fc2b3
-
+"{V0302}{W5}{F6}{Eo}Ah..."
 
 @YUM_SEV_B:164 PLY 3519ceca
-
+"I'll pick girls who look easy to talk to, and if it doesn't work out, you can come back."
 
 @YUM_SEV_B:165 YUM 1b4e79ae
-
+"{V0303}......"
 
 @YUM_SEV_B:166 PLY 019e9373
-
+"Is that a no?"
 
 @YUM_SEV_B:168 YUM b2e5d0b3
-
+"{V0304}...No,{W35} I'll try.{W65}{Ec}{W5}{F6}{Eo} You thought{W5} of this{W45} for me, {Nm}..."
 
 @YUM_SEV_B:169 PLY dea87ead
-
+"Really? Thank you."
 
 @YUM_SEV_B:170 PLY 713ba3b1
-
+"Then... that table over there looks good."
 
 @YUM_SEV_B:171 YUM 0d606532
-
+"{V0305}{W5}Huh?{W15} Where?"
 
 @YUM_SEV_B:172 PLY a5546f34
-
+"There, look. Two girls having a great time... They're probably younger students."
 
 @YUM_SEV_B:173 YUM f328af7d
-
+"{V0306}{F4}Oh,{W60} over there.{W40}{Ec}{W5}{F3}{Eo} ...Yes,{W35} if they're younger students,{W15} it's a bit{W5} easier."
 
 @YUM_SEV_B:174 YUM 6267ffb5
-
+"{V0307}{Fm4}{W5}...W-{W15}well,{W20} I'm going."
 
 @YUM_SEV_B:175 PLY f81f82e3
-
+"Good luck!"
 
 @YUM_SEV_B:194 NAN 605d5663
-
+"{V0138}So,{W10} Naru,{W10} that thing...{W30} it turns out...{W40} it was a mistake!"
 
 @YUM_SEV_B:196 - 64c62dc2
-
+Girls
 
 @YUM_SEV_B:198 NAR 5febfbe5
-
+"{V0164}What?!{W20} Really?!{W25} I can't believe it!"
 
 @YUM_SEV_B:199 NAN 3a8f6065
-
+"{V139}And then,{W15} the truth is{W30} even crazier..."
 
 @YUM_SEV_B:200 NAR ae9a7e26
-
+"{V0165}Whaaat?! {W10}Really?!{W25} That's amazing!"
 
 @YUM_SEV_B:203 YUM af98718c
-
+"{V0308}Hmm,{W30} is that so.{W45} Th{W2}at's{W2} am{W2}az{W3}ing{W3}."
 
 @YUM_SEV_B:204 NAN 17e4fdde
-
+"{V140}Huh?"
 
 @YUM_SEV_B:205 NAR 9d2aaae4
-
+"{V0166}Huh?"
 
 @YUM_SEV_B:206 YUM eafa48c0
-
+"{V0309}Ah...{W30} C-{W30}can{W30} I sit here?"
 
 @YUM_SEV_B:207 NAN 91bb245e
-
+"{V0141}S-{W20}sure,{W45} go ahead.{W25} Right, Naru?"
 
 @YUM_SEV_B:208 NAR 9de69b60
-
+"{V0167}Yeah,{W20} of course!"
 
 @YUM_SEV_B:209 YUM f08be52a
-
+"{V0310}{W5}Thank you."
 
 @YUM_SEV_B:210 NAR 28aeb588
-
+"{V0168}Oh,{W20} Nana,{W20} actually the other day..."
 
 @YUM_SEV_B:211 NAN fd2beac0
-
+"{V0142}{W5}Whaaat,{W15} really?"
 
 @YUM_SEV_B:212 YUM 7beca45b
-
+"{V0311}Hm{W3}m,{W5}{W30} th-{W30}that happened?"
 
 @YUM_SEV_B:213 NAR 53aace5d
-
+"{V0170}Ahahaha..."
 
 @YUM_SEV_B:214 NAN 36d03cce
-
+"{V0144}{W10}Ah{W5}ah{W5}ah{W5}a..."
 
 @YUM_SEV_B:215 YUM 0dae5d4f
-
+"{V0313}{W15}F-{W30}fufu.{W5}"
 
 @YUM_SEV_B:216 SYS 45f681a8
-
+The conversation doesn't seem to be clicking much.
 
 @YUM_SEV_B:217 YUM 28d9828f
-
+"{V0314}{W5}Um,{W45} you see...{W45} I{W15} found a really interesting book the other day."
 
 @YUM_SEV_B:218 NAN 8bcc0784
-
+"{V0145}Huh?{W15} What kind of{W2} book{W3} is it?"
 
 @YUM_SEV_B:219 YUM 67b3a367
-
+"{V0315}{W5}Do you want to know?"
 
 @YUM_SEV_B:220 NAN 348ffd7d
-
+"{V0146}We do, we do!{W10} Right, Naru?"
 
 @YUM_SEV_B:221 NAR 39f25117
-
+"{V0171}Yeah! We want to know!"
 
 @YUM_SEV_B:223 YUM 15af0f35
-
+"{V0316}Well...{W35} on the very first page,{W35} the heroine{W15} suddenly{W2} loses her memory..."
 
 @YUM_SEV_B:224 NAN bad3fea6
-
+"{V0147}{W3}What?!{W30} On the first page?!"
 
 @YUM_SEV_B:225 NAR 92af8182
-
+"{V0172}{W3}Wow!"
 
 @YUM_SEV_B:226 SYS 4caed991
-
+Now the conversation is clicking. Steering it to a topic she's good at... nice one, Hoshino.
 
 @YUM_SEV_B:227 YUM 5278d6ad
-
+"{V0317}...It goes like that,{W15} and with only the key{W5} left in her pocket as a clue,{W30} she solves all kinds of mysteries."
 
 @YUM_SEV_B:229 NAN 88fdc11c
-
+"{V0148}Sou{W5}nds{W5} fun{W5}!{W30} I{W30} will{W5} definitely read that book!"
 
 @YUM_SEV_B:230 NAR 79e2d3d7
-
+"{V0173}Me too!"
 
 @YUM_SEV_B:231 YUM 65a7c312
-
+"{V0318}It's in the library,{W5} so come borrow it.{W30} Oh,{W15} I'm{W20} on the Library Committee."
 
 @YUM_SEV_B:232 NAN 0ff90034
-
+"{V0149}{W10}Oh, I see."
 
 @YUM_SEV_B:233 NAR 322f479d
-
+"{V0174}{W5}No{W2} wonder{W2} you{W2} tell{W3} it{W3} so{W2} well.{W2}{W2}{W2}{W2}{W2}"
 
 @YUM_SEV_B:234 YUM e180f56a
-
+"{V0319}N-{W45}no,{W45} not{W3} me..."
 
 @YUM_SEV_B:235 NAN 5ad74021
-
+"{V0150}I'm{W50} Nana,{W25} {Nm}{W55} from Year 1,{W40} Class A.{W45} Please{W15} call me Nana."
 
 @YUM_SEV_B:236 NAR 7ef2bc12
-
+"{V0175}I'm{W55} Satonaka Narumi,{W5} in Nana's class.{W40} Everyone{W10} calls me Naru{W15} or Naru-chan."
 
 @YUM_SEV_B:237 YUM 0ef08e51
-
+"{V0320}Nana, and{W2} Naru.{W50} I{W10} am{W20} Ho{W5}shi{W15}no Yu{W5}umi.{W40} Year 2,{W5} Class{W10} A."
 
 @YUM_SEV_B:238 NAN 083d0cd2
-
+"{V0151}{W10}Hoshino-senpai, then."
 
 @YUM_SEV_B:239 NAR cda7b41b
-
+"{V0176}Nice to meet you."
 
 @YUM_SEV_B:240 YUM 2337ea59
-
+"{V0321}{W3}Nice to meet you too."
 
 @YUM_SEV_B:241 PLY fad784a6
-
+"That went well, Hoshino."
 
 @YUM_SEV_B:248 YUM db03f4ae
-
+"{V0322}{W5}Oh,{W15} {Nm}."
 
 @YUM_SEV_B:249 NAN 8e734973
-
+"{V0152}Big Bro."
 
 @YUM_SEV_B:252 YUM 45370aea
-
+"{V0323}Huh? {W20}Big Bro?"
 
 @YUM_SEV_B:253 PLY ba6d99a4
-
+"Hahaha, Nana is my little sister."
 
 @YUM_SEV_B:255 YUM 4b53d9a0
-
+"{V0324}Oh? {W30}Really?{W70} {Ec}{W5}{F9}{Eo}Now that you{W3} say{W3} it,{W30} you have the same{W5} family{W5} name..."
 
 @YUM_SEV_B:256 PLY cce80ac6
-
+"I figured a sister would be easier to ask for help when it really counts."
 
 @YUM_SEV_B:257 YUM 4419e699
-
+"{V0325}{W5}So{W2} that{W2} was{W2} why{W2}...{W2}{W30} {F9}{Eo}{Nm}...{W25} thank you..."
 
 @YUM_SEV_B:260 NAN a035cdb0
-
+"{V0153}Big Bro{W10} and Hoshino...{W70} {Ec}{W5}{F6}{Eo}they're staring at each other."
 
 @YUM_SEV_B:261 PLY 590b801b
-
+"Thanks, Nana. Hoshino suddenly talking to you must have surprised you, but..."
 
 @YUM_SEV_B:262 PLY 85a48d66
-
+"I wanted you to become Hoshino's friend."
 
 @YUM_SEV_B:263 YUM e7cb247b
-
+"{V0326}Oh..."
 
 @YUM_SEV_B:264 PLY dabc5123
-
+"You two are friends already, right?"
 
 @YUM_SEV_B:265 NAN dc077f85
-
+"{V0155}{Ec}Of course!"
 
 @YUM_SEV_B:266 YUM 0abce927
-
+"{B60}{Nm},{V0328}{W10} thank you."
 
 @YUM_SEV_B:267 PLY b3741ee3
-
+"No, it wasn't me."
 
 @YUM_SEV_B:268 YUM 3c37032d
-
+"{V0329}{Eo}{B20}{F4}Huh?"
 
 @YUM_SEV_B:269 PLY 712537b4
-
+"You became close because Nana and the others felt your charm, Hoshino."
 
 @YUM_SEV_B:270 YUM 0108a728
-
+"{V0058}{Nm}..."
 
 @YUM_SEV_B:271 PLY ded602c1
-
+"I think you'll understand, Hoshino, but when I first really talked to you..."
 
 @YUM_SEV_B:272 PLY eaed2ca5
-
+"It took a lot of courage. But I worked up the nerve and asked, 'Can I keep talking to you?' and so..."
 
 @YUM_SEV_B:273 PLY 69fa9574
-
+"That's why I can be here with you now..."
 
 @YUM_SEV_B:274 PLY 901b436a
-
+"I figured talking to someone is the quickest way to get close..."
 
 @YUM_SEV_B:276 YUM ec31f237
-
+"{V0332}{W10}I...{W70} I'll do my best{W10} from now on.{W30} {Ec}I'll try talking to all kinds of people."
 
 @YUM_SEV_B:277 PLY e1094ccd
-
+"Yeah, that's a good idea."
 
 @YUM_SEV_B:278 SYS 0b1141bf
-
+...And so, I spent the time with Hoshino.
 
 @YUM_SEV_B:279 NAR ebf05fca
-
+"{V0177}{Nm}! {W10}Look over here too!"
 
 @YUM_SEV_B:280 PLY 563b3ea3
-
+"Narumi, you're full of energy again today."
 
 @YUM_SEV_B:281 NAR 8d4e1e84
-
+"{V0178}Yes! {W30}{Ec}Ehehe,{W15} {Eo}energy is my one strength."
 
 @YUM_SEV_B:282 NAN 17237ba6
-
+"{V0154}Big Bro,{W30} what about me?"
 
 @YUM_SEV_B:283 PLY f8c368af
-
+"Thanks, Nana."
 
 @YUM_SEV_B:284 PLY c608eccd
-
+"Hoshino suddenly talking to you must have surprised you, but..."
 
 @YUM_SEV_B:285 PLY 94f1cd93
-
+"I wanted you and Narumi to become Hoshino's friends."
 
 @YUM_SEV_B:286 PLY f55beade
-
+"The three of you are friends already, right?"
 
 @YUM_SEV_B:287 NAR d6cbe206
-
+"{V0179}{F2}{Ec}Yes!"
 
 @YUM_SEV_B:288 NAR 87fb4324
-
+"{V0180}I want to talk together again."
 
 @YUM_SEV_B:289 YUM 5fb77fe8
-
+"{V0327}Thank you...{W20} Nana,{W5} Naru.{W43} {F2}I'm{W30} happy{W3} {Ec}we became friends too."
 
 @YUM_SEV_B:290 PLY 1d2cb1b1
-
+"You became close because Nana and Narumi felt your charm, Hoshino."
 
 @YUM_SEV_B:291 SYS 52c8ed87
-
+...And so, I spent the time with Hoshino and the others.
 
 @YUM_SEV_B:294 PLY 652c0370
-
+(There's really nobody around...)
 
 @YUM_SEV_B:295 PLY 672925d1
-
+(Time to go back to class... Hm? Isn't that...)
 
 @YUM_SEV_B:297 PLY 01ee0f90
-
+(Hoshino and... that's a girl from my class...)
 
 @YUM_SEV_B:298 PLY 370872e7
-
+(It's the first time I've seen the three of them talking.)
 
 @YUM_SEV_B:299 PLY 8daec0c7
-
+(They look like they're having fun. That's nice.)
 
 @YUM_SEV_B:300 PLY 516a266a
-
+(Oh, the cheer squad is setting up. Is practice starting?)
 
 @YUM_SEV_B:301 PLY a6feb69f
-
+(I wonder what kind of girls are cheerleaders this year...)
 
 @YUM_SEV_B:302 PLY 6485aee3
-
+(Hoshino surely isn't one, right...)
 
 @YUM_SEV_B:303 YUM 7cf3c5ec
-
+"{V0333}{W5}Ah,{W20} {Nm}."
 
 @YUM_SEV_B:304 PLY 2d561575
-
+"H-Hoshino! That outfit?!"
 
 @YUM_SEV_B:306 YUM 40615b0a
-
+"{V0334}D-{W55}do I look okay?"
 
 @YUM_SEV_B:307.1 - 989e4029
-
+{Ti0}- It looks great on you!／- You don't look like yourself...／- The skirt... it's short...
 
 @YUM_SEV_B:308 PLY d8326d8a
-
+"It looks great on you!"
 
 @YUM_SEV_B:309 YUM 39a1badb
-
+"{V0335}{B100}Ah,{W45} thank you."
 
 @YUM_SEV_B:310 PLY e742e262
-
+"You don't look like yourself..."
 
 @YUM_SEV_B:311 YUM 341588f0
-
+"{V0336}{B100}{W5}I feel...{W50} {Ec}{Sp}like I'm not myself either..."
 
 @YUM_SEV_B:312 PLY 484dcab7
-
+"But I think it looks really good."
 
 @YUM_SEV_B:313 YUM 2f7cd460
-
+"{V0337}Thank you."
 
 @YUM_SEV_B:321 PLY f9dd559f
-
+"The skirt... it's short..."
 
 @YUM_SEV_B:322 YUM f0926232
-
+"{V0338}{B100}{W5}I-{W35}I know! {W35}It's{W5} shorter than I expected..."
 
 @YUM_SEV_B:326 PLY 0f0f087e
-
+"My eyes can't help going there..."
 
 @YUM_SEV_B:328 YUM b321d2b1
-
+"{V0339}P-{W37}please don't look so much."
 
 @YUM_SEV_B:329 PLY 6c1b2754
-
+"S-sorry."
 
 @YUM_SEV_B:331 PLY 70eab4ce
-
+"So you became a cheerleader."
 
 @YUM_SEV_B:332 YUM c9f98cb0
-
+"{V0340}{B40}{F3}{Ec}Yes."
 
 @YUM_SEV_B:333 PLY 7370a7cc
-
+"That was bold of you."
 
 @YUM_SEV_B:334 YUM 6e4976f9
-
+"{V0341}{Eo}{B0}{F7}Well...{W50} {Ec}{W5}{F9}{Eo}I just went to ask the adviser{W25} what it was like, but..."
 
 @YUM_SEV_B:335 YUM 739d0762
-
+"{V0342}{W5}Apparently there weren't enough volunteers,{W30} {Ec}so{W1} I{W1} was{W1} sort{W5} of{W3} roped{W3} in{W1}..."
 
 @YUM_SEV_B:336 PLY 7aa469c1
-
+"Hahaha..."
 
 @YUM_SEV_B:337 PLY ff354b64
-
+(She still can't say no when someone asks her...)
 
 @YUM_SEV_B:338 PLY 3f37b597
-
+"But if you're doing it, you have to give it your all."
 
 @YUM_SEV_B:340 YUM 16db4bef
-
+"{V0343}{F3}{E}{0}Yes.{W20} I'll{W2} cheer{W2} with{W2} all{W2} my{W2} might{W1}.{W1}"
 
 @YUM_SEV_B:341 PLY 8c380efa
-
+"I'm cheering for you too, Hoshino."
 
 @YUM_SEV_B:342 YUM 2ba3b01e
-
+"{V0344}{Ec}Thank you."
 
 @YUM_SEV_B:343 YUM 4905b020
-
+"{V0345}But{W22} I'm{W35} not{W18} flexible.{W45} {F9}{Ec}I wonder if I can lift my legs."
 
 @YUM_SEV_B:344 PLY 6c0e7d9c
-
+(L-legs...? Well, of course... she's a cheerleader, so she'll be kicking up her legs. My heart's pounding...)
 
 @YUM_SEV_B:345 PLY 6574be77
-
+(Ugh, today's P.E. is basketball in the Gym...)
 
 @YUM_SEV_B:346 PLY dea4f397
-
+(Better than the Schoolyard, but I'd rather have swimming...)
 
 @YUM_SEV_B:347 AKI 9a33728a
-
+"{V0090}{W5}Hey, {Nm}."
 
 @YUM_SEV_B:348 PLY e6db5722
-
+"Hiiragi? What's up?"
 
 @YUM_SEV_B:349 AKI af85b9ea
-
+"{V0091}You're cold.{W25} {Ec}{W5}{F3}{Eo}I was waiting for you,{W15} you know."
 
 @YUM_SEV_B:350 PLY b68d06f4
-
+"For me? Why?"
 
 @YUM_SEV_B:351 AKI 0bec134d
-
+"{V0092}{W5}{Eh}Want to go{W50} peek at the Pool with me?"
 
 @YUM_SEV_B:352 PLY 3db21a90
-
+"The Pool?! Why?!"
 
 @YUM_SEV_B:354 AKI d6eacbfa
-
+"{V0093}{F4}{Eo}Why, {W30}{Fm3}isn't it obvious?{W30} {Ec}{W5}{F3}{Eo}We're going to check{W40} {Ec}how{W2} the girls in our class{W2} have{W2} developed."
 
 @YUM_SEV_B:355 PLY 0d80b9d5
-
+"......"
 
 @YUM_SEV_B:356 AKI adea5b29
-
+"{V0094}What's wrong?{W6} You look dazed."
 
 @YUM_SEV_B:357 PLY d71b061d
-
+"Hiiragi, you're a lot more perverted than I thought."
 
 @YUM_SEV_B:358 AKI 839e4b86
-
+"{V0095}{Fe8m7}{W5}Ordinary days are boring,{W1} right?{W50} {Fe3}{Ec}Once{W1} in{W1} a{W1} while{W2} you{W2} need{W2} some{W1} thrills{W1}.{W1}"
 
 @YUM_SEV_B:359 PLY d3b96a47
-
+"Thrills, huh... You're right. Let's go see."
 
 @YUM_SEV_B:360 SYS 30c0ad1d
-
+...And so, Hiiragi and I ended up going to peek at the Pool.
 
 @YUM_SEV_B:361 PLY 2a2a3d62
-
+"{Ts1}Hiiragi! You're being so bold..."
 
 @YUM_SEV_B:362 AKI cf69cbfb
-
+"{V0096}{Ts1}{W5}Why do you think I'm wearing gym shoes?{W45} They make{W15} hardly any footsteps, right?"
 
 @YUM_SEV_B:363 PLY ff205935
-
+"{Ts1}I see... so it was all calculated..."
 
 @YUM_SEV_B:366 AKI cb3d4a74
-
+"{V0097}Huh,{W75} {Ec}nobody's here yet."
 
 @YUM_SEV_B:367 PLY 48e1730e
-
+"Right... what a shame..."
 
 @YUM_SEV_B:369 AKI b1165f2d
-
+"{V0098}Oh{W2} well.{W55} The{W3} plan{W3} has{W2} failed{W3}.{W50} I{W3} didn't{W2} factor{W4} in{W10} {Ec}how{W4} long girls take to change."
 
 @YUM_SEV_B:370 PLY 1c2532b4
-
+"Hahaha, you didn't plan it through."
 
 @YUM_SEV_B:371 YUM b10d2902
-
+"{V0346}Ah,{W95} {Nm} and Hiiragi."
 
 @YUM_SEV_B:372 PLY 036145c0
-
+"Huh?"
 
 @YUM_SEV_B:375 PLY a677423e
-
+"Ah, Hoshino!"
 
 @YUM_SEV_B:376 AKI 92dad847
-
+"{V0099}{Eo}{F3}Hey,{W10} Hoshino."
 
 @YUM_SEV_B:377 YUM e91c56a7
-
+"{V0347}Why are you at the Pool?{W25} {Ec}{W5}{Fe9m6}{Eo}Aren't the boys{W10} in the Gym?"
 
 @YUM_SEV_B:378 PLY 72320efa
-
+"W-well, yes, but..."
 
 @YUM_SEV_B:379 AKI b99526dc
-
+"{V0100}{Fe9}{W5}The teacher asked us to."
 
 @YUM_SEV_B:380 YUM 16b93f81
-
+"{V0348}The teacher?"
 
 @YUM_SEV_B:381 AKI a2bcb70e
-
+"{V0101}{F3}Yeah.{W50} He apparently left his whistle at the Pool.{W40} He asked us to go get it."
 
 @YUM_SEV_B:382 YUM 164ddd80
-
+"{V0349}Ah,{W30} I see."
 
 @YUM_SEV_B:383 PLY 7131abd3
-
+"Right! That's it!"
 
 @YUM_SEV_B:385 YUM 3a1d3af4
-
+"{V0350}{Ec}Did you find the whistle?"
 
 @YUM_SEV_B:386 AKI bb87abf7
-
+"{V0102}{Eo}{Fe9}{W3}We couldn't find it.{W50} {Ec}{Fe4}Looks like{W45} the teacher got it wrong."
 
 @YUM_SEV_B:387 YUM e8b2fcfe
-
+"{V0351}I see."
 
 @YUM_SEV_B:389 AKI 46d4204a
-
+"{V0103}{Eo}{F3}See you, Hoshino."
 
 @YUM_SEV_B:390 PLY 4a9e7e62
-
+"See you."
 
 @YUM_SEV_B:391 YUM 0001c61c
-
+"{V0353}Yes.{W25} Good luck{W20} in P.E.{Ec}"
 
 @YUM_SEV_B:392 AKI 7519daa8
-
+"{V0104}{S}Whew...{W75}{Eo}{Fe9} that was close, {Nm}.{Fm3}{Sd}"
 
 @YUM_SEV_B:393 PLY 73e16e2a
-
+"You lie so smoothly."
 
 @YUM_SEV_B:394 AKI 171013b9
-
+"{V0105}{W5}I thought up an excuse for getting caught{W10} {Ec}before we even went to the Pool."
 
 @YUM_SEV_B:395 PLY d905bbbf
-
+"I see."
 
 @YUM_SEV_B:396 AKI 1fe2c44d
-
+"{V0106}Still...{W75} Hoshino{W5} {Eo}{Fm3}really seems different now..."
 
 @YUM_SEV_B:397 AKI 52f73c0d
-
+"{V0107}{W5}Before,{W40} if someone saw her in a school swimsuit,{W55} she'd have been so embarrassed she'd {Fm3}have hidden away..."
 
 @YUM_SEV_B:398 AKI d2be6428
-
+"{V0108}But now she talks so normally."
 
 @YUM_SEV_B:399 PLY d26de510
-
+"Y-yeah, you're right."
 
 @YUM_SEV_B:400 AKI 31376b54
-
+"{V0109}And{W20} {Fm3}I hear she became a cheerleader."
 
 @YUM_SEV_B:401 PLY 40df1055
-
+"Y-yeah, apparently."
 
 @YUM_SEV_B:403 AKI c4177c94
-
+"{V0110}{Fe8}{Eo}{W2}It's{W2} a{W2} guy{W2}.{Fm3}"
 
 @YUM_SEV_B:404 AKI b58997ae
-
+"{V0111}{Fe8m7}For a girl to change this much,{W30} {Fm4}the only{W2} explanation{W2} is a{W2} guy's influence.{W65} {Fe3m7}Don't you think?"
 
 @YUM_SEV_B:405 PLY bce5292a
-
+"Y-yeah. Hahaha..."
 
 @YUM_SEV_B:407 PLY 8cb25619
-
+(Hoshino is transferring...)
 
 @YUM_SEV_B:408 PLY 456cf107
-
+(I like her... and I won't be able to see her anymore...)
 
 @YUM_SEV_B:409 PLY fad48def
-
+(What should I do...)
 
 @YUM_SEV_B:411 PLY 05e73ff0
-
+(Ah, that's...)
 
 @YUM_SEV_B:413 PLY acd06ea5
-
+(Hoshino is practicing so hard...)
 
 @YUM_SEV_B:414 PLY f33c9280
-
+(She wants to be a memory for her friends, and make memories of her own. That's why she's trying so hard...)
 
 @YUM_SEV_B:415 PLY 767a5f96
-
+(And here I am, down in the dumps... When the one hurting most is her, the one who's leaving...)
 
 @YUM_SEV_B:416 PLY 70790541
-
+(If she's cheering at the school festival, then I'll cheer for her. And I'll send her off with a smile.)
 
 @YUM_SEV_B:417 PLY 0147ec51
-
+(Yes. That's it. That's the way...)
 
 @YUM_SEV_B:420 PLY 504786ca
-
+"Phew, done at last. Now, what should I do after school..."
 
 @YUM_SEV_B:421 YUM 220dcc0f
-
+"{Nm}.{V0354}{W10} Are you{W15} going home?"
 
 @YUM_SEV_B:422 PLY 6e1c0ed1
-
+"Oh, no, I was just wondering what to do."
 
 @YUM_SEV_B:423 PLY edd6e484
-
+"Is it cheer practice for you, Hoshino?"
 
 @YUM_SEV_B:424 YUM 68617d03
-
+"{V0355}It is, but{W32} {Ec}{W5}{F2}{Eo}I'm on class cleaning duty today,{W35} {Ec}so after that."
 
 @YUM_SEV_B:425 PLY c10df694
-
+"Oh... then I'll take over the cleaning for you."
 
 @YUM_SEV_B:426 YUM ff80aeed
-
+"{V0356}{F4}{Eo}Huh?"
 
 @YUM_SEV_B:427 PLY b39b5e76
-
+"Wouldn't you rather have the time to practice?"
 
 @YUM_SEV_B:428 PLY 5664d207
-
+"I'm free anyway, and taking over the cleaning is about all I can do for you..."
 
 @YUM_SEV_B:429 PLY cef5aac2
-
+"I want to support you while you work so hard."
 
 @YUM_SEV_B:430 YUM 7e69ffea
-
+"{V0358}{W5}Thank you..."
 
 @YUM_SEV_B:431 PLY ea8d48a4
-
+"When I'm done cleaning, I'll come watch practice."
 
 @YUM_SEV_B:432 YUM fb520c82
-
+"{V0359}{W3}Mm.{W27} I'll be waiting..."
 
 @YUM_SEV_B:433 YUM b2515fed
-
+"{V0360}{W5}Well then,{W70} if you insist,{W45} {Ec}{W5}{F3}{Eo}I'll go to practice."
 
 @YUM_SEV_B:434 PLY 9c66d7f8
-
+"Do your best."
 
 @YUM_SEV_B:435 YUM 29f492d1
-
+"{V0361}{W2}Yes."
 
 @YUM_SEV_B:436 PLY 9098f3d5
-
+"Now then, time to go get a broom!"
 
 @YUM_SEV_B:437 SYS 352d2df7
-
+...And so, I cleaned the classroom in Hoshino's place.

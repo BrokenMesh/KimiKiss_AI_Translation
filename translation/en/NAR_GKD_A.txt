@@ -2,454 +2,454 @@
 # Format: docs/translation-format.md
 
 @NAR_GKD_A:23 NAR b6e2668d
-
+"{V0719}{W12}Walking{W4} home{W4} with{W4} you,{W4} Senpai,{W20} makes{W3} me{W3} kind{W3} of nervous."
 
 @NAR_GKD_A:25 PLY aee8b5e9
-
+"Hahaha, r-really?"
 
 @NAR_GKD_A:27 PLY 932df2d9
-
+(I'm the same, though...)
 
 @NAR_GKD_A:29 NAR 3065e8a5
-
+"{V0720}{W18}Senpai,{W45} I'd{W1} like{W3} to{W3} stop by the bookstore.{W20} Is that okay?"
 
 @NAR_GKD_A:30 PLY 6860a527
-
+"The bookstore? Sure."
 
 @NAR_GKD_A:31 NAR 34101b9b
-
+"{V0721}{W10}Ehehe,{W25} there's a book{W3} I want to buy."
 
 @NAR_GKD_A:43 NAR 3d7e0035
-
+"{V0722}{W8}Let's{W8} see...{W21}{W5}{W34} it's{W4} always{W4} around{W4} here...{P4}{F2}{W59} Ah!{Ti0} {Ti2}{W27} Here{W3} it{W3} is!{W3}{W6}"
 
 @NAR_GKD_A:44 PLY f96bec10
-
+"What book?"
 
 @NAR_GKD_A:45 NAR 5c73337a
-
+"{V0723}{Ec}{W8}Ehehe,{W36} a{W1} girls'{W1} manga{W1} magazine!{W3}{W3}{W3}"
 
 @NAR_GKD_A:47 NAR dce10b98
-
+"{V0724}{Eo}{W8}The{W5} freebies{W5} every{W1} month{W4} are{W1} {Fm4}really{W6} fancy!{P1}{Fe3m2}{W54} Let's{W3} see...{W27} {F3}this{W1} month{W3} it's{W3} a{W1} character{W21} bead{W1} set{W1} and{W1} a{W1} pouch!{F2}{W1}{W2}{W3}{W3}{W3}{W3}{W12}"
 
 @NAR_GKD_A:48 PLY 47c9543b
-
+"Wow."
 
 @NAR_GKD_A:50 NAR 8ae6e536
-
+"{V0725}{W12}Oh,{W48} looks{W4} like{W4} every{W4} reader{W4} can get{W15} a phone card{W3} as{W1} a{W1} present.{W18} {F9}I{W1} have{W1} to{W2} send{W1} in{W4} the{W1} postcard."
 
 @NAR_GKD_A:51 PLY b1f50ece
-
+"Hahaha. Narumi, you're so..."
 
 @NAR_GKD_A:52.1 - 7a2fe6fd
-
+{Ti0}- Cute／- Childish／- You really like manga
 
 @NAR_GKD_A:53 PLY 4251503c
-
+"You're cute."
 
 @NAR_GKD_A:54 NAR 0d83acef
-
+"{V0726}{F5}{W8}Huh?!"
 
 @NAR_GKD_A:56 NAR 3189cbf5
-
+"{V0727}{W8}{Ec}{Fe9m3}Cute?{W8} {W8}Me?{W5} {W3}Oh...{W27} {W3}no...{W45} {Fm2}Really,{W2} {W15}Senpai,{W4} saying{W3} that{W3} in{W3} front{W3} of{W1} people...{Ec}{W1}{W1}{W1}{W1}{W1}{W4}"
 
 @NAR_GKD_A:58 PLY 6063afc7
-
+"Ah... no, I didn't mean anything deep by it..."
 
 @NAR_GKD_A:60 NAR d24cecdb
-
+"{V0728}{W12}I'm{W8} {W3}happy.{W39} {W4}Having{W3} you{W15} call{W3} me{W1} cute...{W4}"
 
 @NAR_GKD_A:61 PLY 3d0f3098
-
+(It's no use... she isn't listening...)
 
 @NAR_GKD_A:63 PLY 3711cdaa
-
+"You're childish."
 
 @NAR_GKD_A:64 NAR ee920eb2
-
+"{V0729}{F9}{W8}Ugh...{W63} that{W8} means{W42} it's{W2} not{W2} good,{W8} {W5}doesn't{W8} it?{W8}{W2}{W10}{W4}"
 
 @NAR_GKD_A:65 NAR 19c813d8
-
+"{V0730}{F6}{W8}Is{W8} it{W8} bad{W5} that{W5} even{W2} in{W3} Year 1 of high school,{W39} I{W1} make{W1} rings{W1} out of beads{W1} and{W1} {W4}carry{W1} around{W4} character pouches?{W27} {W2}{W2}{W2}{W6}{W2}{W4}{W18}{W4}{W4}{W4}{W4}{W4}{Ec}"
 
 @NAR_GKD_A:66 PLY 72228dfd
-
+"N-no, not at all. I just thought it suits you, Narumi, and it's nice..."
 
 @NAR_GKD_A:67 NAR 93c2962c
-
+"{V0731}{W8}Really{W5}?{W6}"
 
 @NAR_GKD_A:68 PLY 469f8c21
-
+"Really."
 
 @NAR_GKD_A:69 PLY f41d14d9
-
+"You really like manga."
 
 @NAR_GKD_A:71 NAR 548d15cb
-
+"{V0732}{W8}Ehehe,{W1} {W1}{W27}{Eo}I do."
 
 @NAR_GKD_A:72 PLY 64868d5d
-
+"What kind do you like?"
 
 @NAR_GKD_A:74 NAR ad0fa6e2
-
+"{V0733}{W5}Romantic comedies{W1} and{W1} {W24}{Ec}{Fe2}magical{W1} girl stories!"
 
 @NAR_GKD_A:75 NAR 8703d078
-
+"{V0734}{W12}I{W8} wish I could transform{W3} {W3}and{W4} use{W1} magic{W4} too."
 
 @NAR_GKD_A:76 PLY 04733997
-
+"Hahaha."
 
 @NAR_GKD_A:77 NAR 68ee15bc
-
+"{V0735}{W8}Ehehe,{W27} {Eo}{F3}I'll{W1} go{W1} buy it, then."
 
 @NAR_GKD_A:78 PLY ea727b3a
-
+"Okay. I'll wait here."
 
 @NAR_GKD_A:79 NAR 3102b371
-
+"{V0736}{W12}Okay."
 
 @NAR_GKD_A:83 SYS 79ea8c41
-
+...And so I had a fun time shopping at the bookstore with Narumi.
 
 @NAR_GKD_A:85 NAR 261a2c45
-
+"{V0737}{W12}Senpai,{W3} {W27}I'd{W3} like{W3} to{W1} stop by the bookstore.{W15} Is that okay?"
 
 @NAR_GKD_A:86 PLY 235750b8
-
+"Sure. Manga again?"
 
 @NAR_GKD_A:87 NAR 2d9ecff1
-
+"{V0738}{W8}Ehehe,{W18} {W2}yes.{W1}{W1}"
 
 @NAR_GKD_A:88 NAR 27658f17
-
+"{V0739}{W5}I'll go{W15} to the comics corner{W3} in{W1} the{W1} back.{W3}"
 
 @NAR_GKD_A:89 PLY 3b1c0fed
-
+"I'll go to the weekly magazines."
 
 @NAR_GKD_A:90 PLY 1aa921f1
-
+"Want to meet back here, then?"
 
 @NAR_GKD_A:91 NAR 8c166461
-
+"{V0740}{W8}Okay!{Ti0} {Ti2}{W15}{Eo}See you{W1} {W2}in a bit~{W5}"
 
 @NAR_GKD_A:92 SYS 77b589b3
-
+...And so I had a fun time at the bookstore with Narumi.
 
 @NAR_GKD_A:99 NAR dde0d859
-
+"{V0741}{W15}Senpai...{W4}{W5}{W30} um..."
 
 @NAR_GKD_A:100 NAR 2977c238
-
+"{V0742}{Fm3}{W8}Can I...{W6}{W33} link{W1} arms...{W35} with you?"
 
 @NAR_GKD_A:101 PLY a78513dc
-
+"{W20}Huh?"
 
 @NAR_GKD_A:102.1 - c7f0e3a1
-
+{Ti0}- W-we can't...／- Of course／- Hmm, what should I do...
 
 @NAR_GKD_A:105 PLY d4757c51
-
+"W-we can't..."
 
 @NAR_GKD_A:106 NAR 2c85f0bf
-
+"{V0743}{W8}Huh?{Ti0} {Ti2}{W30}Why{W1} not?{W1}"
 
 @NAR_GKD_A:107 PLY 28f747b4
-
+"Why... well, everyone's watching..."
 
 @NAR_GKD_A:108 NAR 1701aabb
-
+"{V0744}{W18}Is it{W3} embarrassing{W1}{W2}{W3}{W3}...{W41}?"
 
 @NAR_GKD_A:109 PLY e5c9a409
-
+"Yeah... I guess..."
 
 @NAR_GKD_A:110 NAR 649d68d3
-
+"{V0745}{W8}Ugh...{W36} I{W12}...{W48} {W2}{W2}made{W7} you{W7} {W5}uncomfortable{W8} {W5}again{W5}{W5}...{Ec}"
 
 @NAR_GKD_A:111 PLY 3b798375
-
+(Eep... she's about to cry again...)
 
 @NAR_GKD_A:112 PLY 09af2ee3
-
+"Hahaha, you didn't! You didn't! Come on, let's link arms!"
 
 @NAR_GKD_A:114 NAR 1efbf9f5
-
+"{V0746}...{Nm},{W5} {W5}you're{W21} forcing{W1} {W5}yourself{W5}...{W3}"
 
 @NAR_GKD_A:115 PLY fb1b23aa
-
+"I'm not forcing myself! See? Let's go!"
 
 @NAR_GKD_A:117 NAR 275567f7
-
+"{V0747}{W5}{Nm}...{W3}{W5} {W45}{Eo}{F3}thank{W1} you{W1}{W3}"
 
 @NAR_GKD_A:118 PLY 731e7798
-
+"Of course."
 
 @NAR_GKD_A:119 NAR a7c8b211
-
+"{V0748}{W12}Yaay{W3}{W5}!"
 
 @NAR_GKD_A:120 PLY a3572bc8
-
+(...I said that, but my heart is racing)
 
 @NAR_GKD_A:121 PLY d6268e09
-
+"Hmm, what should I do... Ugh, it's a tough one."
 
 @NAR_GKD_A:122 NAR 351b9cb4
-
+"{V0749}{W12}Senpai,{W8} {W8}{W30}don't tease me~{W5}"
 
 @NAR_GKD_A:123 PLY afc0af0a
-
+"...Okay, let's link arms."
 
 @NAR_GKD_A:124 NAR 7e814d50
-
+"{V0750}{W8}{F2}{Ec}Yes!"
 
 @NAR_GKD_A:128 NAR 759e63bb
-
+"{V0751}{W8}{B80}Ehehe."
 
 @NAR_GKD_A:141 PLY 02d82244
-
+(Ugh... we really did it. Is this okay? Doing this?)
 
 @NAR_GKD_A:142 PLY f759dec3
-
+(Narumi's arm is pressed against mine. My heart is pounding... pounding...)
 
 @NAR_GKD_A:144 NAN 9fbdf2f2
-
+"{V0613}Oh,{W10} Big Bro!{W20} Perfect timing~!"
 
 @NAR_GKD_A:145 NAN 769d06d5
-
+"......{Fe4}{Mo}"
 
 @NAR_GKD_A:146 NAN 41897f5d
-
+"{V0316}{W15}Oh!{W15} Big Bro,{W15} are you heading home?{W30} Want to go home toget...{Fe4}{Mo}"
 
 @NAR_GKD_A:149 NAN ca131583
-
+"{V0317}{W15}{Mc}{F4}Oh...{W39} Naru..."
 
 @NAR_GKD_A:150 NAR 2b681e2c
-
+"{V0752}{W8}Oh,{W15} Nana.{W12} Heading{W3} home?{W4}"
 
 @NAR_GKD_A:151 NAN a4383c25
-
+"{V0318}{W15}Y-{W30}yeah..."
 
 @NAR_GKD_A:152 PLY b88192ea
-
+(Ugh... I've been spotted...!)
 
 @NAR_GKD_A:153 PLY bc645e38
-
+(This is an awful run-in...)
 
 @NAR_GKD_A:158 NAN 02972f09
-
+"{V0319}{W15}Big{W6} Bro,{W45} you're linking arms...{W7}"
 
 @NAR_GKD_A:159 PLY 896d2c5f
-
+"Ah, no, this is... um... it's nothing."
 
 @NAR_GKD_A:160 PLY 405156f4
-
+(...Why am I making excuses to my sister?)
 
 @NAR_GKD_A:161 NAR 0e94f481
-
+"{V0753}{W12}Senpai,{W8} {W12}how mean{W3}~{W3}!{W8} You two{W3} are{W3} good{W4} friends,{W2} aren't{W2} you?"
 
 @NAR_GKD_A:162 PLY 8e0efd8c
-
+"Y-yeah. Of course. Hahaha..."
 
 @NAR_GKD_A:163 NAN f02c671f
-
+"{V0320}{W15}{Eh}{Fm4}Hmmmmm.{W40} {Eo}{F8}So you're such good friends you link arms."
 
 @NAR_GKD_A:164 PLY c966d011
-
+(Ugh... she's glaring at me something fierce... Why do I have to get scolded by my sister?)
 
 @NAR_GKD_A:169 PLY 75c335f7
-
+(Besides, Nana's the one who introduced Narumi to me...)
 
 @NAR_GKD_A:170 NAR 99c5b972
-
+"{V7904}{W8}Nana,{W5}{W2} {W15}your right arm{W6} is{W4} free{W2}.{W1}{W1}{W1}{W1}{W22} Let's{W3} go{W1} home{W4} together!"
 
 @NAR_GKD_A:171 NAN 8de43052
-
+"{V0321}{W15}{Eo}{F4}Huh?"
 
 @NAR_GKD_A:173 NAN bfce1eb0
-
+"{V0322}{F3}{W30}Right!{W21} Naru,{W15} nice one!"
 
 @NAR_GKD_A:174 NAN c0ab9102
-
+"{V0323}{B80}{W15}Ehe!"
 
 @NAR_GKD_A:198 - 1b0ea2ad
-
+Nana & Naru
 
 @NAR_GKD_A:200 NAN 0e48ce61
-
+"{V0755}{c2}{Mo}Let's{W3}{Mc}{W3}{Mo} go{Mc}{W10}{Mo}~!{Mc}"
 
 @NAR_GKD_A:202 PLY a3f9eac6
-
+(Sigh... it ends up like this after all...)
 
 @NAR_GKD_A:203 PLY f96c7c96
-
+(Sigh... things just got worse...)
 
 @NAR_GKD_A:206 SYS 66d8cc33
-
+...And so the three of us went home arm in arm. I brought it on myself, but we stand out way too much...
 
 @NAR_GKD_A:207 SYS 5fd8a4fb
-
+...And so the three of us went home arm in arm. We stand out way too much...
 
 @NAR_GKD_A:208 NAN 549bd931
-
+"{V0325}{W15}Big{W4} Bro,{W54} you're linking arms again...{W6}"
 
 @NAR_GKD_A:209 PLY 7f145082
-
+"Ah, no... this is..."
 
 @NAR_GKD_A:210 NAR 4e63b7a1
-
+"{V7905}{W8}Nana,{W4} {W27}your{W10} right{W6} arm{W3} is{W1} free{W1}{W1}{W1}."
 
 @NAR_GKD_A:211 NAN aeffd9fe
-
+"{V0326}{W15}{Fm4}...{W5}..."
 
 @NAR_GKD_A:212 NAN d6279a17
-
+"{V0327}{W15}Yeah!{W24} You're right."
 
 @NAR_GKD_A:214 NAN 35c5de3a
-
+"{V0757}{c2}{Mo}Let's{W3}{Mc}{W3}{Mo} go{Mc}{W10}{Mo}~!{Mc}"
 
 @NAR_GKD_A:215 PLY b77068bc
-
+(Sigh... again...)
 
 @NAR_GKD_A:217 NAR 7c37a5c0
-
+"{V0758}{W12}Senpai,{W3} {W3}{W36}can we stop by the department store?"
 
 @NAR_GKD_A:218 PLY b4a9af1f
-
+"The department store?"
 
 @NAR_GKD_A:219 NAR 538dc83d
-
+"{V0759}{W8}Yes.{W1}{W24} There's{W1} a{W1} CD{W1} I{W1} want{W4} to{W1} buy.{W4}"
 
 @NAR_GKD_A:220 PLY 9b856156
-
+"Sure."
 
 @NAR_GKD_A:221 NAR cb6bce40
-
+"{V0760}{W8}Then,{W18} come with{W1} me{W1} just{W1} for{W1} a bit.{W1}"
 
 @NAR_GKD_A:223 NAR b45f947a
-
+"{V0761}{W8}Okay,{W1} {W3}I'll{W1} go{W1} buy{W1} it.{W1}{W48} {Ec}{Fe2}Please{W1} wait here."
 
 @NAR_GKD_A:224 PLY cc4af171
-
+"Okay."
 
 @NAR_GKD_A:225 SYS b6cdb8e0
-
+......
 
 @NAR_GKD_A:226 NAR c3d3492a
-
+"{V0762}{W8}Senpai,{W2}{W3}{W30} sorry to keep you waiting~{W3}"
 
 @NAR_GKD_A:227 PLY f95f4207
-
+"What CD did you buy?"
 
 @NAR_GKD_A:229 NAR 298b35b2
-
+"{V0763}{W8}Ehehe,{W1}{W1}{W30} an anime theme song.{W3}{W3}"
 
 @NAR_GKD_A:230 NAR 4abf679f
-
+"{V0764}{W5}Ehehe,{W1}{W1}{W30} a new single from an idol group.{W2}{W3}{W3}"
 
 @NAR_GKD_A:231 NAR 6b2b7201
-
+"{V0765}{W8}Ehehe,{W1}{W1}{W30} a game theme song.{W1}{W1}"
 
 @NAR_GKD_A:232 PLY e43f389d
-
+"I see."
 
 @NAR_GKD_A:233 NAR bb2cb58b
-
+"{V0766}{W12}{Eo}{F3}Senpai,{W3} {W3}{W21} what kind of songs{W5} do you usually{W4} listen to?"
 
 @NAR_GKD_A:234 PLY e649fa4f
-
+"Hmm... oh, all sorts."
 
 @NAR_GKD_A:235 PLY b3376227
-
+"Shall we go, then?"
 
 @NAR_GKD_A:236 NAR 1ecf549c
-
+"{V0767}{W8}{F4}Huh?{Ti0} {Ti2}{W30}Already{W3}?{W3}{W3}{W5}{W3}{W3}{W43} {Fe9}We came all the way to the department store,{W2}{W2}{W2}{W1}{W1}{W1}{W1}{W1}{W1}{W1} {W27}{Fm3}so why don't we look around more?{W1}{W8}{W3}{W3}{W4}{W2}{W2}{W2}{W2}"
 
 @NAR_GKD_A:237 PLY b0198733
-
+"...Sorry, can we head home today?"
 
 @NAR_GKD_A:238 NAR 7376af46
-
+"{V0768}{W8}Oh...{W27} okay..."
 
 @NAR_GKD_A:239 SYS d9b18552
-
+...That's how I spent the time with Narumi at the department store.
 
 @NAR_GKD_A:241 PLY b67fcc4e
-
+"Narumi, want to stop somewhere on the way?"
 
 @NAR_GKD_A:242 NAR 7c35e871
-
+"{V0769}{W18}Yes,{W42} that sounds nice."
 
 @NAR_GKD_A:243 PLY a1c1d85c
-
+"Where would you like?"
 
 @NAR_GKD_A:244 NAR b73ce49e
-
+"{V0770}{W8}I'll{W3} leave{W4} it{W8} to{W1} you,{W4} Senpai.{W1}"
 
 @NAR_GKD_A:245 PLY 6fad598d
-
+"Okay, then..."
 
 @NAR_GKD_A:246 PLY 70c5ed20
-
+"How about the riverbank? The sunset must be beautiful."
 
 @NAR_GKD_A:247 NAR ba3ede6c
-
+"{V0771}{W15}Yes."
 
 @NAR_GKD_A:248 NAR 1edfd6cf
-
+"{V0772}{W8}Senpai,{W1}{W4} {W33}shall{W3} we{W3} go to the waterside?"
 
 @NAR_GKD_A:249 PLY 13d9daee
-
+"Sounds good."
 
 @NAR_GKD_A:256 NAR 01cf8c7a
-
+"{V0773}{W8}The{W1} sunset{W3} is{W1} beautiful,{W1} isn't{W1} it~"
 
 @NAR_GKD_A:257 PLY 851b6dc4
-
+"It is."
 
 @NAR_GKD_A:258 NAR f1d030f1
-
+"{V0774}{W8}Getting{W3} to watch{W3} the sunset{W4} like this with you,{W30} Senpai,{W9} makes me{W2} happy.{W1}"
 
 @NAR_GKD_A:259 PLY 38d81cae
-
+"You're overreacting, Narumi."
 
 @NAR_GKD_A:260 NAR 69885a56
-
+"{V0775}{W8}No,{W1}{W1} {W42}I'm not.{W54} It's{W8} how I...{W90} truly{W4} {W4}feel.{W5}"
 
 @NAR_GKD_A:261 PLY 65928068
-
+"Narumi..."
 
 @NAR_GKD_A:265 PLY 56300393
-
+(Narumi looks kind of grown-up. She's childish, but she is in Year 1 of high school...)
 
 @NAR_GKD_A:266 PLY b46040ea
-
+"It's beautiful..."
 
 @NAR_GKD_A:268 NAR 66e70b07
-
+"{V0776}{W8}Yes, it is."
 
 @NAR_GKD_A:269 PLY 9e24288f
-
+"Ah, no, I didn't mean that..."
 
 @NAR_GKD_A:270 NAR 0d8771b9
-
+"{V0777}{W12}Huh?"
 
 @NAR_GKD_A:271 PLY a64829ed
-
+"No, never mind..."
 
 @NAR_GKD_A:272 NAR a7977a90
-
+"{V0778}{W8}Hehe,{W31} what's wrong?{Ti0} {Ti2}Senpai.{W4}{W4}{W45} You're being weird.{W5}{W1}"
 
 @NAR_GKD_A:273 PLY 0d80b9d5
-
+"......"
 
 @NAR_GKD_A:274 PLY 6ddfeab1
-
+"Shall we get going?"
 
 @NAR_GKD_A:275 NAR 3b9d49ed
-
+"{V0779}{W8}Yes, {Nm}.{W3}{W4}"
 
 @NAR_GKD_A:276 PLY 1e34e40b
-
+(To think my heart would skip at Narumi's profile...)
 
 @NAR_GKD_A:277 PLY 12e9e333
-
+(This is a first for me...)
 
 @NAR_GKD_A:278 SYS aa065e72
-
+...And so I spent the time with Narumi, just the two of us, at the riverbank.

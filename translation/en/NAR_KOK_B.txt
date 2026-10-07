@@ -2,250 +2,250 @@
 # Format: docs/translation-format.md
 
 @NAR_KOK_B:19 PLY 2ddd2f31
-
+(Right, off to the Home Ec Room, then...)
 
 @NAR_KOK_B:38 NAR 0a150b9f
-
+"{V1345}{W10}Welcome~! {W42}{F4}Oh!{Ti0} {Ti2}{W12}{F2}{Nm}{W3}{W8}{W8}!"
 
 @NAR_KOK_B:39 PLY 3dd0f4f2
-
+"Narumi, I came to eat your udon."
 
 @NAR_KOK_B:42 NAR bed764af
-
+"{V1346}{W12}Yes!{Ti0} {Ti2}{W12}I {W2}was{W1} {W2}waiting{W1} {W1}for{W1} {W1}you{W1}!{Ec}"
 
 @NAR_KOK_B:45 NAR 4dc3c07b
-
+"{V1347}{W10}Then,{W15} I'll {W1}bring{W2} {W1}it{W2} {W1}right{W2} {W6}over{W2}.{W2} {W44}Please{W2} wait a moment."
 
 @NAR_KOK_B:46 PLY cc4af171
-
+"Okay."
 
 @NAR_KOK_B:47 PLY bdf58968
-
+(The udon Narumi is making just for me... What could it be?)
 
 @NAR_KOK_B:49 NAR beea42f7
-
+"{V1348}{W18}Senpai,{W5}{W5} {W21}sorry to keep you{W1} waiting."
 
 @NAR_KOK_B:55 NAR 659f0c7b
-
+"{V1349}{W12}It's {W6}special {W6}udon {W1}made{W1} {W1}just {W3}for {W1}you,{W15} {W4}Senpai{W4}{W2}~{W6}!"
 
 @NAR_KOK_B:56 PLY 0c729e1f
-
+"This is... kitsune udon?"
 
 @NAR_KOK_B:57 NAR 79b8df9e
-
+"{V1350}{W8}Yes!"
 
 @NAR_KOK_B:59 NAR 5563b430
-
+"{V1351}{W12}Grandpa{W8} {W33}says{W1} {W1}the {W1}flavor {W4}of my fried tofu is the one thing he praises.{W60} {F7}He says, {W4}'I{W1} {W4}couldn't{W1} {W1}make{W5} {W1}it{W3} {W3}better{W8} {W3}myself'{F2}"
 
 @NAR_KOK_B:60 PLY 47c9543b
-
+"Wow."
 
 @NAR_KOK_B:63 NAR c9b9e9c7
-
+"{V1352}{W12}Ehehe,{W2} {W30}{Eo}maybe {W1}it's{W2} {W1}because{W1} {W5}I {W2}use {W4}sugar?"
 
 @NAR_KOK_B:64 PLY 01538f7d
-
+"Hahaha, maybe so."
 
 @NAR_KOK_B:65 NAR 65ef8d7d
-
+"{V1353}{W15}I{W12}...{W30} {W5}tried {W1}really {W1}hard {W2}to{W1} {W2}make {W2}a{W3} {W2}new{W2} {W5}udon,{W1} {W3}{F6}but{W2} {W4}it{W2} {W4}just{W2} {W42}wouldn't{W1} {W3}come{W1} {W3}out{W1} {W3}right..."
 
 @NAR_KOK_B:67 NAR 1c3d33ab
-
+"{V1354}{W12}And {W1}then {W1}I {W36}realized.{F3} {Eo}{W2}That {W2}trying {W1}to {W1}look {W1}more {W1}grown-up {W4}doesn't work."
 
 @NAR_KOK_B:70 NAR ae25bc81
-
+"{V1355}{W8}I should think {W3}only about {Eo}the {W4}person {W1}eating{W1} it."
 
 @NAR_KOK_B:72 NAR 5539a67f
-
+"{V1356}{W12}So {W33}today{W2} {W1}I {W3}decided {W8}to {W1}serve {W5}the {W1}kitsune {W19}udon {Eo}I'm most confident in."
 
 @NAR_KOK_B:73 NAR a1faa1e6
-
+"{V1357}{W10}Oh,{W15} of course,{W24} {F9}the {W1}heart-shaped {W1}fried {W1}tofu{W1} {W1}is{W1} {W2}only{W1} {W2}for{W1} {W2}you,{W15} {W5}Senpai{W5}!{W1}"
 
 @NAR_KOK_B:74 PLY 59b464a8
-
+"Hahaha."
 
 @NAR_KOK_B:76 NAR 752e4a70
-
+"{V1358}{W12}Senpai{W4}...{W4}{W62} this{W1} {W1}udon{W1}...{W15} is{W1} {W8}my...{W90} my{W12}...{W45}{W36} feelings."
 
 @NAR_KOK_B:77 PLY f725dd6d
-
+"Huh..."
 
 @NAR_KOK_B:78 NAR 7e0c52d8
-
+"{V1359}{W17}Senpai,{W5}{W5} {W45}I love you!"
 
 @NAR_KOK_B:79 PLY 65928068
-
+"Narumi..."
 
 @NAR_KOK_B:80 PLY 2df9c92b
-
+(A confession through udon... That's so like Narumi...)
 
 @NAR_KOK_B:82 PLY f6942a3b
-
+"Narumi."
 
 @NAR_KOK_B:84 NAR 4a078ae3
-
+"{V1360}{W12}Yes!"
 
 @NAR_KOK_B:85 PLY 14646885
-
+"Then I'll start with the fried tofu."
 
 @NAR_KOK_B:86 NAR cb31499b
-
+"{V1361}{W24}Yes! {W15}Please!"
 
 @NAR_KOK_B:87 SYS 7f4a5ac1
-
+{Ti0}{Ti2}Munch... chew, chew...
 
 @NAR_KOK_B:88 PLY 9232cddf
-
+"It's sweet and delicious."
 
 @NAR_KOK_B:89 NAR 9ec085a4
-
+"{V1362}{W12}Ehe{W3}he,{W2} {W21}I'm so {W7}glad~!"
 
 @NAR_KOK_B:90 PLY bf522c38
-
+(...I have to tell her how I feel. With every bit of love I have, enough to rival this udon...)
 
 @NAR_KOK_B:91 PLY 5ed78414
-
+"...Narumi, after the school festival ends, can you come to the Fountain?"
 
 @NAR_KOK_B:92 NAR 372dc036
-
+"{V0127}Huh?"
 
 @NAR_KOK_B:93 PLY 9bc3a37b
-
+"There's something I want to tell you. I'd like you to come alone."
 
 @NAR_KOK_B:94 NAR 757ec862
-
+"{V1364}{W12}Yes! {W14}{Ec}I'll go {W3}right after it ends!"
 
 @NAR_KOK_B:97 SYS cd1aef39
-
+...And so we enjoyed the school festival.
 
 @NAR_KOK_B:98 SYS f1da8c58
-
+And then...
 
 @NAR_KOK_B:99 PLY cd4f91e6
-
+(Narumi's taking a while...)
 
 @NAR_KOK_B:101 NAR f0217c3c
-
+"{V1365}{W18}Senpai{W7}{W7}!{Ti0} {Ti2}{W33}Sorry{W2} {W1}to{W2} {W1}keep{W1} {W1}you{W1} {W1}waiting{W1}!{W30} Cleaning{W2} up{W1} {W5}took{W2} {W5}a{W3} {W2}while...{W4}"
 
 @NAR_KOK_B:102 PLY f94c52fc
-
+"It's fine, it's fine. I figured it would."
 
 @NAR_KOK_B:104 NAR 0632c57b
-
+"{V1366}{W12}...{W5}So{Ti1},{Ti2} {W5}Senpai{W5}.{W48} What {W10}did {W6}you want to{W3} talk about...{W39}?"
 
 @NAR_KOK_B:105 PLY 3d95dcc2
-
+"At first, I thought you just looked up to me, Narumi."
 
 @NAR_KOK_B:106 PLY d2768955
-
+"You know, like how younger students often admire an older one. I thought it was something like that."
 
 @NAR_KOK_B:107 PLY 0213349a
-
+"...But when we went to the sea together, and you told me the new udon was made for me..."
 
 @NAR_KOK_B:108 PLY 6ec15726
-
+"I realized it too..."
 
 @NAR_KOK_B:109 PLY 48904ae7
-
+"That I like you, Narumi."
 
 @NAR_KOK_B:110 NAR 0c5798ac
-
+"{V1367}{W12}Huh..."
 
 @NAR_KOK_B:111 PLY d5b8b414
-
+"Narumi, I love you!"
 
 @NAR_KOK_B:112 NAR 0a7e045e
-
+"{V1368}{W15}Ah..."
 
 @NAR_KOK_B:113 NAR 00956df9
-
+"{V1369}{W21}Senpai{W10}{W10}...{W87} {W5}really{W5}?"
 
 @NAR_KOK_B:114 PLY b81065be
-
+"Of course."
 
 @NAR_KOK_B:115 NAR a909b94b
-
+"{V1370}{W15}Th{W2}at {W2}means...{W60} that means...{W60} {W12}I'm {W54}number{W7} {W6}one{W6}, {W3}right?"
 
 @NAR_KOK_B:116 NAR ec988a91
-
+"{V1371}{W15}You like me {W5}more{W1} than{W1} anyone...{W36} more{W6} than{W3} anyone...{W33} {W5}right?"
 
 @NAR_KOK_B:117 NAR 1489b74a
-
+"{V1372}{W15}Number {W4}one {W6}in {W66}the whole{W4} world...{W39} you{W2} like{W6} me{W1} most,{W1} {W2}right?"
 
 @NAR_KOK_B:118 PLY f57edbd8
-
+"Of course!"
 
 @NAR_KOK_B:119 NAR 7198015f
-
+"{V1373}{W15}Ugh...{W78} Senpai{W9}{W9}...{W46} sniff..."
 
 @NAR_KOK_B:120 NAR 7237f428
-
+"{V1374}{W15}Waaah{W3}{W5}~{W18}~{W18}!{W3} {W84}{Ec}Waaah{W3}{W5}~{W18}~{W18}!{W3} {W96}{Fm4}{Eo}Senpai{W3} {W9}likes{W3} {W9}me{W5}~{W15}{W3}~{W3}~{W3}~{W3}~!{W2}{W10}"
 
 @NAR_KOK_B:121 PLY 308bd4ff
-
+"Whoa... Narumi."
 
 @NAR_KOK_B:122 NAR 6e5e0f52
-
+"{V1375}{W18}Waaah{W5}{W8}~{W21}~{W18}! {W27}Waaah{W5}{W8}~{W21}~{W18}!{W69} {Fm4}{Eo}I{W15} {W2}may{W2} be {W39}nobody, I{W6} may be nobody,{W41} {Ec}but {W2}I {W5}love {W2}you {W5}more than anyone in the {W30}universe, {W8}Senpai{W8}~{W2}{W1}~{W1}~{W2}~{W3}~{W4}~{W6}~!"
 
 @NAR_KOK_B:123 PLY c3c54cfa
-
+"Hahaha, Narumi, I'm not competing with anyone."
 
 @NAR_KOK_B:125 NAR 83de8ad1
-
+"{V1376}{W12}Sniff,{W36} sniff...{W30} Senpai~{W5}! {W30}Waaah~{W3},{W42} waaah~{W3}..."
 
 @NAR_KOK_B:127 NAR c6d4689e
-
+"{V1377}{W12}Will {W4}you {W1}walk {W1}with {W39}your {W4}arm {W1}in{W1} {W1}mine?"
 
 @NAR_KOK_B:128 NAR 6320fcbf
-
+"{V1378}{W12}Will {W4}you {W4}laugh {W30}and {W4}forgive {W4}me {W1}when {W1}I{W1} {W1}mess{W1} {W1}up?"
 
 @NAR_KOK_B:129 NAR a6c224cc
-
+"{V1379}{W15}Will {W3}you {W4}eat {W42}croquette{W1} buns{W1} {W1}with{W1} {W1}me{W1}?"
 
 @NAR_KOK_B:131 NAR ef386bb1
-
+"{V1380}{W12}Ugh...{W90} Senpai{W8}{W10}..."
 
 @NAR_KOK_B:141 SYS a7c723b0
-
+{Ti0}{Ti1}Wham!!{W30}
 
 @NAR_KOK_B:143 NAR 6daeed9a
-
+"{V1381}{W8}I {W1}love {W1}you {W3}so {W3}so {W1}much{W1}!{W20}"
 
 @NAR_KOK_B:145 NAR 9177bcea
-
+"{V1382}{W12}When {W1}I'm {W1}happy,{W5} {W33}can {W5}I {W1}jump {W1}into{W1} {W1}your{W1} {W1}arms?{W20}"
 
 @NAR_KOK_B:147 PLY 4f04baa0
-
+"Of course. Anytime.{W20}"
 
 @NAR_KOK_B:148 NAR e1b905f9
-
+"{V1383}{Nm}{W5}{W6}{W6}...{W30} I'm clinging {Ti1}to {Ti2}you {W5}and {W1}won't {W1}let {W1}go!{W20}"
 
 @NAR_KOK_B:153 SYS bfe5cdd3
-
+{V5036}{c2}{W12}To become {Nm}'s girlfriend,{W39} how{W4} happy I am.
 
 @NAR_KOK_B:155 SYS f90cfaee
-
+{V5038}{c2}{W12}Now it's not strange at all to walk arm in arm in front of everyone,{W51} or to hug his big back.{W30}
 
 @NAR_KOK_B:156 SYS b5b3c830
-
+{V5041}{c2}{W12}Because,{W30} we love each other.
 
 @NAR_KOK_B:157 SYS 7d7dd8d6
-
+{V5042}{c2}{W8}We're a couple everyone envies.
 
 @NAR_KOK_B:158 SYS 8f59a0c0
-
+{V5043}{c2}Ehehe,{W33} I made a bento.{W54} I'll eat it with Senpai on the Terrace~{W8}!
 
 @NAR_KOK_B:159 SYS 92115981
-
+{V5045}{c2}"...It's like a dream,{W54} getting to eat a bento{W24} with Senpai like this..."
 
 @NAR_KOK_B:160 SYS a7b3ac9f
-
+{V5047}{c2}"Huh?{W39} Am{W3} I{W5} exaggerating?{W39} Not at all."
 
 @NAR_KOK_B:161 SYS fabce370
-
+{V5048}{c2}"Because,{W30} just being with Senpai,{W21} makes Narumi..."
 
 @NAR_KOK_B:162 SYS 9e5b9d22
-
+{V5050}{c2}"Narumi{W30} is{W3} so{W5} happy,{W18} Senpai.{W3}"
 
 @NAR_KOK_B:163 SYS 8c8026d7
-
+This hasn't been split into files yet...

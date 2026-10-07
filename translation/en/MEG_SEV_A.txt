@@ -2,742 +2,742 @@
 # Format: docs/translation-format.md
 
 @MEG_SEV_A:35 PLY 47980411
-
+(Haah... PE out in the schoolyard in this blazing heat...)
 
 @MEG_SEV_A:38 PLY 6a9b5a89
-
+(Direct sunlight is brutal... If only it were in the Gym.)
 
 @MEG_SEV_A:39 PLY 1ce7d29b
-
+(I'm wiped out...)
 
 @MEG_SEV_A:56 MEG df4bbc49
-
+"{Nm}, {V0023}{W5}stop slouching around. Why{W5} not pull yourself together?"
 
 @MEG_SEV_A:57 PLY 67c5d55a
-
+"Oh, Kuryuu Megumi..."
 
 @MEG_SEV_A:58 MEG 0099eb70
-
+"{V0024}{W10}Hey! {W30}{F8}Megumi{W4} again!"
 
 @MEG_SEV_A:61 MEG 57eec30b
-
+"{V0025}{W4}...I trust you were prepared for this?"
 
 @MEG_SEV_A:62 PLY bad104d5
-
+"E-eep... sorry, it just slipped out..."
 
 @MEG_SEV_A:64 MEG 2e21e09a
-
+"{V0026}{W9}Honestly..."
 
 @MEG_SEV_A:67 MEG da4f2094
-
+"{V0027}{W8}Next time you call me Megumi,{W10} I'll throw you{W4} without mercy,{W4} understood?"
 
 @MEG_SEV_A:68 PLY 61f9ec08
-
+"O-okay, I got it..."
 
 @MEG_SEV_A:69 MEG af63e3ff
-
+"{V0028}{W7}Anyway...{W47} why not tuck your{W3} gym{W3} clothes into your shorts?{W4}{W20} It's a school rules{W4} violation."
 
 @MEG_SEV_A:70 PLY 4b7da7f9
-
+"Huh? Is there a rule like that?"
 
 @MEG_SEV_A:71 MEG 70f165db
-
+"{V0029}{W8}Tuck your gym clothes into your shorts properly.{W47} {Eo}It's written in Chapter 4,{W8} 'Dress,'{W8} Article 3!"
 
 @MEG_SEV_A:72 PLY 6c6b1e77
-
+"R-right..."
 
 @MEG_SEV_A:73 PLY 9dab011c
-
+"But if I tuck them into my shorts, it looks so uncool..."
 
 @MEG_SEV_A:75 MEG ea5a113c
-
+"{V0030}{W5}Honestly...{W45} {Eo}don't talk like a girl."
 
 @MEG_SEV_A:76 MEG addb8832
-
+"{V0031}{W5}I get wanting to hide your bloomers, but{W22} boys' shorts aren't embarrassing, are they?"
 
 @MEG_SEV_A:77 PLY 67af129b
-
+"...That's true, but."
 
 @MEG_SEV_A:78 MEG 110ec772
-
+"{V0032}{W8}Making excuses is unmanly!"
 
 @MEG_SEV_A:79 PLY 71fa0ad1
-
+"...Fine, I'll tuck it in."
 
 @MEG_SEV_A:80 MEG 3de719e6
-
+"{V0033}{W5}You should have just done it{W5} from the start without all the fuss..."
 
 @MEG_SEV_A:81 PLY f1f6b9e4
-
+"How's this?"
 
 @MEG_SEV_A:83 MEG eed8c13e
-
+"{V0034}{W5}Yes, that's fine.{W16} It looks neat and manly."
 
 @MEG_SEV_A:84 MEG f47540fd
-
+"{V0035}{W4}See you, {Nm}. Do well in PE."
 
 @MEG_SEV_A:85 PLY c3c240a5
-
+"You too."
 
 @MEG_SEV_A:87 PLY ed428e42
-
+(Kuryuu Megumi, huh... Honestly, she's such a nag. She should try being more ladylike...)
 
 @MEG_SEV_A:91 MEG 4e98d79e
-
+"{V0036}{W9}Mi{W6}za{W6}sa{W6}wa! {W16}What do you think the school rules are for?{W17} That skirt is{W5} far too short, no matter how you look at it!"
 
 @MEG_SEV_A:92 PLY 9764ef87
-
+(Huh? From out of nowhere, I can hear Kuryuu yelling...)
 
 @MEG_SEV_A:93 MAO ca5580cc
-
+"{V0205}{W5}Hm{W10}m,{W10}{W55} is it really~?"
 
 @MEG_SEV_A:94 PLY f1c0b764
-
+(That voice is Mao's... Looks like they're in a dispute.)
 
 @MEG_SEV_A:98 MEG a28c840a
-
+"{V0037}{W5}You're going to play dumb?!{W9} How many times have I warned you?!"
 
 @MEG_SEV_A:99 MEG 7b736920
-
+"{V0038}{W5}The skirt length is{W23} set by the school rules{W19} at three centimeters above the knee!{W4} {Eo}"
 
 @MEG_SEV_A:100 MAO ce504690
-
+"{V0206}{W6}Geez,{W68} you're so picky about everything!{W35} {F8}It's cuter this way, so what's the harm!"
 
 @MEG_SEV_A:101 MEG 50d138fc
-
+"{V0039}{W4}Is this about cute{W4} or not cute?{W38} {Eo}It's about order{W4}{W2}{W2}{W2}{W2} in the school!"
 
 @MEG_SEV_A:102 MAO 451e7e43
-
+"{V0207}{W5}Ugh,{W19} honestly!{W16} You're overreacting!"
 
 @MEG_SEV_A:103 PLY 0e3b2fde
-
+"Looks rough... Mao."
 
 @MEG_SEV_A:106 MAO 242436e3
-
+"{V0208}{W4}Oh,{W4} {Nn},{W21} help me out~"
 
 @MEG_SEV_A:108 MEG d6828065
-
+"{Nm}... {V0040}{W6}What do you want,{W40} barging into our conversation..."
 
 @MEG_SEV_A:109 PLY 0e82ff05
-
+"Well, um... how should I put it..."
 
 @MEG_SEV_A:110.1 - 9cfa7992
-
+{Ti0}- Shorter skirts are better...／- You have to follow the school rules, right?
 
 @MEG_SEV_A:111 PLY cb31cb0b
-
+"Wouldn't shorter skirts be better? They brighten things up... You don't need to nag so much..."
 
 @MEG_SEV_A:112 MAO 27f52515
-
+"{V0209}{W5}Right, right,{W9} {Ec}exactly!"
 
 @MEG_SEV_A:113 MEG 01ce7538
-
+"{V0041}{W4}...Perverted boy."
 
 @MEG_SEV_A:114 PLY bc874877
-
+"P-perverted?!"
 
 @MEG_SEV_A:115 MEG 5ab9830d
-
+"{V0042}{W5}Saying shorter skirts are better{W16} is exactly what a perverted,{Ec} {Eo}spineless boy like you would say!"
 
 @MEG_SEV_A:118 MEG 6bbcaa06
-
+"{V0043}{W6}A real man{W30} doesn't even glance at skirts,{W15} he works hard at improving himself!"
 
 @MEG_SEV_A:120 PLY 2629cde4
-
+"B-but you can't say that... I just thought you don't need to bind everyone with the school rules so tightly..."
 
 @MEG_SEV_A:121 MEG ba8e97ce
-
+"{V0044}{W7}Quiet,{W13} quiet!{W17} {Eo}Making excuses is unmanly!"
 
 @MEG_SEV_A:123 MEG 39431219
-
+"{V0045}{W10}What{W2}{W2}{W2} a spineless{W2} boy.{W72} If I were a man...{W76} {Ec}if I were a man..."
 
 @MEG_SEV_A:124 PLY 1fd04a0e
-
+"Oh, Kuryuu..."
 
 @MEG_SEV_A:125 PLY 8eb1ecb4
-
+"You're right, we have to follow the school rules."
 
 @MEG_SEV_A:126 MEG fbe44949
-
+"{V0046}{W5}Yes!{W10} Exactly!{W10} You do understand, {Nm}."
 
 @MEG_SEV_A:127 MAO c874752c
-
+"{Nn}~! {V0210}{W5}{Eh}Whose{W4} side{W4} are you even on~? {W25}You'll pay for this later~{Ec}"
 
 @MEG_SEV_A:128 PLY 31a0638d
-
+"Eep... Mao."
 
 @MEG_SEV_A:129 PLY f01a55ee
-
+"U-um... but you don't have to glare so hard, do you? Skirt length is just part of how you wear your uniform."
 
 @MEG_SEV_A:130 MAO f889891c
-
+"{V0211}{W8}Right, right.{W15} Exactly."
 
 @MEG_SEV_A:131 MEG 2797ee2e
-
+"{V0047}......"
 
 @MEG_SEV_A:132 MEG f42a122d
-
+"{V0048}{W5}Haah...{W62} changing your opinion{W4} just because someone said something..."
 
 @MEG_SEV_A:133 MEG f691ef22
-
+"{V0049}{W5}That's why I call you spineless."
 
 @MEG_SEV_A:134 PLY 8f18e21f
-
+"Even so, aren't you being a bit too rigid, Kuryuu..."
 
 @MEG_SEV_A:135 MEG 5497974a
-
+"{V0050}{W4}Making excuses is unmanly!{W44} Honestly...{W51} {Ec}If I{W4} were a man,{W80} a man..."
 
 @MEG_SEV_A:136 MAO 9453c912
-
+"{V0212}{W8}Phew,{W80} she's finally gone."
 
 @MEG_SEV_A:137 MAO ee33f500
-
+"{V0213}{W7}Thanks, {Nn}. You saved me."
 
 @MEG_SEV_A:138 PLY 1ea1b704
-
+"Y-yeah."
 
 @MEG_SEV_A:139 MAO c5bda33c
-
+"{V0214}{W7}She is{W8} really{W69} so picky about the school rules.{W60} It's exhausting."
 
 @MEG_SEV_A:140 PLY a9bebc32
-
+"Yeah..."
 
 @MEG_SEV_A:141 MAO e12dfd02
-
+"{V0215}{W4}Hm?{W40} What?{W46} Are you interested in her, {Nn}?"
 
 @MEG_SEV_A:142 PLY 68130c43
-
+"We're in the same class."
 
 @MEG_SEV_A:143 MAO 113bbd06
-
+"{V0216}{W6}Oh~,{W40} is that so.{W50} {Ec}...Being with a girl like that all day{W4} must be suffocating.{Eo}"
 
 @MEG_SEV_A:144 PLY adec070b
-
+"Not that bad. I don't break the school rules as much as you do, Mao."
 
 @MEG_SEV_A:145 MAO 9685dd28
-
+"{V0217}Ohh,{W40} you said it!{W30} Take that~{Ec}"
 
 @MEG_SEV_A:146 PLY 5b466241
-
+"Hahaha, sorry, sorry."
 
 @MEG_SEV_A:148 SYS e693bf07
-
+...And so, I ended up mediating between Kuryuu and Mao?
 
 @MEG_SEV_A:150 PLY 4a61c173
-
+(Phew, PE was hot again today...)
 
 @MEG_SEV_A:151 PLY 24104f10
-
+(I'll hurry back to class and wipe off the sweat. I'm all sticky...)
 
 @MEG_SEV_A:152 PLY aac37e2d
-
+(Huh? Someone's at the hand-washing area...)
 
 @MEG_SEV_A:156 PLY e56ad70c
-
+(Kuryuu... Right, the girls have swimming. She's redoing her hair.)
 
 @MEG_SEV_A:157 PLY 3d1b35e3
-
+(......)
 
 @MEG_SEV_A:164 PLY 90206079
-
+(I've only ever seen her angry, so this feels kind of fresh...)
 
 @MEG_SEV_A:165 PLY 56cce7fb
-
+(She's actually pretty cute...)
 
 @MEG_SEV_A:167 PLY 38d28ea8
-
+(I came to the Terrace, but there's nobody here to speak of...)
 
 @MEG_SEV_A:168 MEG 81116535
-
+"{V0051}{W4}Oh,{W10} {Nm}."
 
 @MEG_SEV_A:169 PLY 122df4f6
-
+"Huh?"
 
 @MEG_SEV_A:172 PLY db2e778f
-
+"Oh, Kuryuu."
 
 @MEG_SEV_A:173 MEG 222d735f
-
+"{V0052}{W4}What are you doing?{W13} Free?"
 
 @MEG_SEV_A:174 PLY 9f483e16
-
+"I am, why?"
 
 @MEG_SEV_A:175 MEG 407c4988
-
+"{V0053}{W8}Then listen.{W30} {Eo}Roji is so adorable."
 
 @MEG_SEV_A:178 PLY 0629331d
-
+"Roji?"
 
 @MEG_SEV_A:179 MEG 79d86301
-
+"{V0478}Yes."
 
 @MEG_SEV_A:180 SYS 3939c11b
-
+......
 
 @MEG_SEV_A:181 PLY 876ac24e
-
+"I see, so there was a cat like that in the back alley."
 
 @MEG_SEV_A:182 MEG 8ca7864b
-
+"{V0054}{W5}He's charming, {W7}he loves{W3} to{W3} play,{W2}{W2}{W32} {F2}{Eo}and he became the dojo's favorite in no time."
 
 @MEG_SEV_A:183 PLY 38b1af43
-
+"Hahaha, that's good."
 
 @MEG_SEV_A:184 MEG 5e8c68d1
-
+"{V0055}{W3}And{W17} whenever he sees me, he rubs up{W3} against me right away.{Ec}"
 
 @MEG_SEV_A:185 PLY 51ea84f6
-
+"He's probably grateful that you picked him up, Kuryuu."
 
 @MEG_SEV_A:186 PLY c5ae4f7d
-
+"Because you picked him up, Kuryuu. He's grateful."
 
 @MEG_SEV_A:187 MEG b1c21a3e
-
+"{V0056}{W6}Do{W2} you{W2} think{W2} so?{W48} ...It's nice,{W8} {F3}that kind of thing."
 
 @MEG_SEV_A:188 PLY 1e7f8ab0
-
+"Kuryuu..."
 
 @MEG_SEV_A:189 MEG a0868c8f
-
+"{V0057}{W5}What?"
 
 @MEG_SEV_A:190 PLY 01f11aa0
-
+"...Why are you so particular about the school rules, Kuryuu?"
 
 @MEG_SEV_A:191 MEG 43f1ac99
-
+"{V0058}{W3}W-{W38}what,{W8} all of a sudden?"
 
 @MEG_SEV_A:192 PLY dca6400a
-
+"No, I just wondered why..."
 
 @MEG_SEV_A:193 MEG 9d5b7b34
-
+"{V0059}{W4}Isn't it obvious?{W30} {Eo}A sound mind{W3}{W3}{W3}{W3} dwells only{W20} in a healthy{W3}{W3}{W2}{W2}{W2} lifestyle{W3}{W3}."
 
 @MEG_SEV_A:194 MEG 346c5490
-
+"{V0060}{W6}Look{W3}{W3}{W3} outside school.{W45} {F6}Terrible crimes{W5} and heartless people{W5} keep increasing."
 
 @MEG_SEV_A:195 MEG d293f4d5
-
+"{V0061}{W5}It's important that everyone follows the rules properly.{Ec}"
 
 @MEG_SEV_A:196 PLY d905bbbf
-
+"I see."
 
 @MEG_SEV_A:197 MEG d1796946
-
+"{V0062}{W6}That's why I plan{W30} to become a police officer{W14} after graduation."
 
 @MEG_SEV_A:198 PLY f6d72f74
-
+"Oh, a policewoman?"
 
 @MEG_SEV_A:199 MEG 7df2f99c
-
+"{V0063}{W8}Don't say woman.{W36} Police officer!"
 
 @MEG_SEV_A:200 PLY 394f6f35
-
+"...But that means a policewoman, right?"
 
 @MEG_SEV_A:201 MEG 72cb4a58
-
+"{V0064}{W4}I won't wear a uniform with a skirt that short!{W30} {Eo}I'm becoming a police officer, period!"
 
 @MEG_SEV_A:202 PLY 2401dabb
-
+"I-I see..."
 
 @MEG_SEV_A:203 PLY 2bc14477
-
+(Kuryuu in a police uniform, huh...)
 
 @MEG_SEV_A:214 PLY 4bbedd3d
-
+(Something like this, maybe...)
 
 @MEG_SEV_A:215 PLY 02844079
-
+(...I{W5} think{W5} a{W5} skirt{W5} would{W5} be{W5} cuter{W5}...{W5})
 
 @MEG_SEV_A:217 PLY 19b15ab2
-
+"I see... I get how you feel, Kuryuu, but even if you find a rules violation, I think you shouldn't get so angry."
 
 @MEG_SEV_A:218 MEG 186bd8ff
-
+"{V0065}{W8}Why?"
 
 @MEG_SEV_A:219 PLY 5a2c2f03
-
+"...Because I think you're losing out."
 
 @MEG_SEV_A:220 MEG 87c91a36
-
+"{V0066}{W5}Losing out?{W90} On what?"
 
 @MEG_SEV_A:221 PLY a6cc2231
-
+"Well... if you didn't get angry, you'd be cute..."
 
 @MEG_SEV_A:222 MEG ecd9e7aa
-
+"{V0067}{W4}Huh..."
 
 @MEG_SEV_A:223 MEG 85196965
-
+"{V0068}{W5}C{W2}u{W2}te?{W2}{W73} ...Me?"
 
 @MEG_SEV_A:224 PLY adc5c588
-
+"Yeah."
 
 @MEG_SEV_A:225 PLY fc60b835
-
+"When you talk about Roji, Kuryuu, you have a lovely smile. I wish you were like that all the time..."
 
 @MEG_SEV_A:226 MEG 274e0462
-
+"{V0069}{Nm}..."
 
 @MEG_SEV_A:227 MEG d97a9fac
-
+"{V0070}{W4}D-{W30}don't say strange things!{W30} {Eo}You're throwing me off..."
 
 @MEG_SEV_A:228 PLY 6c1b2754
-
+"S-sorry."
 
 @MEG_SEV_A:230 MEG 22ca84b2
-
+"{V0071}{W4}W-{W30}well, see you.{W30} {F1}Be back in class five minutes before{W5} the bell rings."
 
 @MEG_SEV_A:231 PLY ce7e3739
-
+"Yeah, I know."
 
 @MEG_SEV_A:233 MEG 0e23191b
-
+"{V0072}{W6}A{W14} sud{W14}den{W8} shower...{W79} what{W2}{W2} a{W2} pain.{W1}{W47} I have{W5} training, so I have to hurry home..."
 
 @MEG_SEV_A:234 PLY b5205cc3
-
+(Huh? That voice...)
 
 @MEG_SEV_A:236 PLY 28e8605b
-
+"Kuryuu."
 
 @MEG_SEV_A:237 MEG 24ff3919
-
+"{V0073}{W3}Oh,{W10} {Nm}."
 
 @MEG_SEV_A:238 PLY 7263320c
-
+"No umbrella?"
 
 @MEG_SEV_A:239 MEG e5433c10
-
+"{V0074}{W4}No.{W45} It was so clear this morning,{W25} {Eo}who would expect rain?"
 
 @MEG_SEV_A:240 PLY 851b6dc4
-
+"True."
 
 @MEG_SEV_A:241 MEG 605168e5
-
+"{V0075}{Nm}, {W16}do you have one?"
 
 @MEG_SEV_A:242 PLY 4ed41cec
-
+"Yeah. I happened to have one left at school."
 
 @MEG_SEV_A:243 MEG 95a47cdb
-
+"{V0076}{W4}I see,{W10} good for you.{W30} Go straight home, no detours."
 
 @MEG_SEV_A:244 PLY 0d80b9d5
-
+"......"
 
 @MEG_SEV_A:245 PLY a5e36a0c
-
+"...Kuryuu, use this umbrella if you want."
 
 @MEG_SEV_A:246 MEG c9247ae2
-
+"{V0077}{W3}What?{W60} N-no, it's fine.{W30} What will you do?"
 
 @MEG_SEV_A:247 PLY e6ddfeb3
-
+"A guy can just run. But a girl can't, right?"
 
 @MEG_SEV_A:249 MEG 3645b161
-
+"{V0078}{W6}Why can't a girl?"
 
 @MEG_SEV_A:250.1 - fdd435e8
-
+{Ti0}- Running in a skirt in the rain is hard, right?／- Girls get cold easily, they say...／- Your bra would show through, right?
 
 @MEG_SEV_A:251 PLY 6266eaf5
-
+"Running in a skirt in the rain is hard, right?"
 
 @MEG_SEV_A:252 MEG 4bbe9ba7
-
+"{V0079}{W9}That's true, but..."
 
 @MEG_SEV_A:253 PLY 510d2005
-
+"Girls get cold easily, they say... It'd be bad if you caught a cold, right?"
 
 @MEG_SEV_A:254 MEG 65d141c2
-
+"{V0080}{W4}Oh...{W81} you're worried about me..."
 
 @MEG_SEV_A:255 MEG 7245f48a
-
+"{V0081}{W5}But{W7} I'm fine.{W30} {Eo}I'm not that fragile.{W18} I didn't train in judo for nothing."
 
 @MEG_SEV_A:256 PLY ad2010c3
-
+"Your bra might show through, right?"
 
 @MEG_SEV_A:257 MEG 16b8337b
-
+"{V0082}{W4}Wh-what?!{W28} {F8}{Sp}Saying things like that is why people call you soft!"
 
 @MEG_SEV_A:258 PLY 674d0bc1
-
+"Never mind that. Here, take it."
 
 @MEG_SEV_A:259 MEG 21e08801
-
+"{V0083}{W4}Ah,{W15} wait!{W39} {F1}Then{W22} let's go together."
 
 @MEG_SEV_A:260 PLY 75ad2ba2
-
+"You wouldn't want to share an umbrella with a boy, Kuryuu, right?"
 
 @MEG_SEV_A:262 MEG a424201c
-
+"{V0084}{W3}Ugh...{W59} {Ec}th{W5}a{W5}t{W5}'s..."
 
 @MEG_SEV_A:263 PLY c6029f35
-
+"Just put the umbrella back in the stand in class tomorrow. See you!"
 
 @MEG_SEV_A:264 SYS 818b034e
-
+{Ti0}{Ti2}Splash splash splash
 
 @MEG_SEV_A:265 MEG f76bbc90
-
+"{V0085}Ah!{W24} Wait!{Nm}!"
 
 @MEG_SEV_A:266 MEG 88175a06
-
+"{V0086}{Ts1}...Idiot.{W90} A boy should be more forceful..."
 
 @MEG_SEV_A:267 MEG 56b79fca
-
+"{V0087}{W13}Honestly,{W50} you're in high school.{W5} Don't play tag."
 
 @MEG_SEV_A:268 PLY 48a8f339
-
+(Huh? Isn't that...)
 
 @MEG_SEV_A:272 MEG 1feb702e
-
+"{V0088}Don't you know it's dangerous to run in the hallway?"
 
 @MEG_SEV_A:273 NAN 3d49aca1
-
+"{V0128}But...{W60} we were playing in the Schoolyard,{W20} and Naru ran into the building..."
 
 @MEG_SEV_A:274 NAR 1810629c
-
+"{V7100}Aaah,{W40} {M}Nana{M} is {M}blaming {M}me!{Mc}"
 
 @MEG_SEV_A:275 NAR 30574220
-
+"{V7101}You're the {M}one {M}who {M}said{M} let's play tag{M} in the first place, {M}Nana!{Mc}"
 
 @MEG_SEV_A:280 NAN 3ab73cb9
-
+"{V0129}I said{W5} to play in the Schoolyard!{W40} You're not supposed to run in the hallway{W15}!"
 
 @MEG_SEV_A:283 NAR 3d924aff
-
+"{V7102}You chased me{W5} when I ran into the hallway,{W10} so{W20} {M}I {M}had {M}no {M}choice!{W20} {Fe9m6}{M}I {M}didn't {M}run {M}because {M}I {M}wanted {M}to!{Mc}"
 
 @MEG_SEV_A:284 MEG e3ae37ca
-
+"{V0089}Ugh,{W20} enough!{W20} {Eo}Whatever the reason,{W5} you both ran in the hallway,{W20} so you're both at fault! {W30}Reflect on it!"
 
 @MEG_SEV_A:285 NAN 312f3af7
-
+"{V0130}Okay..."
 
 @MEG_SEV_A:286 NAR 0d17dd7d
-
+"{V7103}Okay..."
 
 @MEG_SEV_A:287 PLY 48f02147
-
+"Kuryuu, what's going on?"
 
 @MEG_SEV_A:288 MEG 0dedb4fe
-
+"{V0090}Ah, {Nm}."
 
 @MEG_SEV_A:289 NAN 1eea3c78
-
+"{V0131}Ah,{W30} {F3}Big Bro."
 
 @MEG_SEV_A:290 NAR be4c6e0b
-
+"{V7104}Ah, {F3}{Nm}{M}."
 
 @MEG_SEV_A:291 MEG 121bd7a8
-
+"{V0091}Huh?{W40} Big Bro?{W60} Is she{W40} your{W10} sister, {Nm}?"
 
 @MEG_SEV_A:292 PLY 1e006cf7
-
+"Yes. Her name is Nana."
 
 @MEG_SEV_A:293 MEG 00ad9417
-
+"{V0092}I-{W60}is that so..."
 
 @MEG_SEV_A:294 MEG 7f7c7a9d
-
+"{V0093}Being your sister won't make me go easy on her,{W25} {Nm}."
 
 @MEG_SEV_A:295 NAN 3a494137
-
+"{V0132}Ugh...{W90} I won't{W5} do it again.{W60} I'm sorry~.{W60} Right, Naru?"
 
 @MEG_SEV_A:296 NAR 932329cd
-
+"{V7105}Yeah,{W30} I'm sorry~.{W20} {M}I'm {M}sorry{M}~{Mc}"
 
 @MEG_SEV_A:298 MEG fb9f9cf4
-
+"{V0094}......"
 
 @MEG_SEV_A:299 PLY 6e6cc86a
-
+"What's wrong? Aren't you going to scold them, Kuryuu?"
 
 @MEG_SEV_A:300 MEG 78820657
-
+"{V0095}Ugh... {Nm},{W50} {Eo}it's hard with you watching..."
 
 @MEG_SEV_A:301 PLY 5316c65f
-
+"R-right, sorry. I'll go back to class."
 
 @MEG_SEV_A:302 NAN b685233f
-
+"{V0133}Big Bro,{W30} don't{W5} go~"
 
 @MEG_SEV_A:303 NAR 4b0b73a0
-
+"{V7106}{Nm},{W20} {M}help {M}me~{Mc}"
 
 @MEG_SEV_A:304 PLY 45d55dcf
-
+"Even if you say that..."
 
 @MEG_SEV_A:305 MEG 686d2b34
-
+"{V0096}...Never mind."
 
 @MEG_SEV_A:306 NAN 91a61d87
-
+"{V0134}Huh?"
 
 @MEG_SEV_A:307 NAR dc603710
-
+"{V7107}Huh?"
 
 @MEG_SEV_A:308 MEG 723051f6
-
+"{V0097}You seem sorry,{W30} so you may go."
 
 @MEG_SEV_A:309 NAN 82ebea2d
-
+"{V0135}Really?!"
 
 @MEG_SEV_A:310 NAR 626106ad
-
+"{V7108}Really?!"
 
 @MEG_SEV_A:311 NAN 981954d7
-
+"{V0136}We'll be careful{W20} not to run in the hallway anymore!{W30} {F2}Right, Naru?{Ec}"
 
 @MEG_SEV_A:312 NAR 7837f9f8
-
+"{V7109}Right, {F2}{M}Nana{M}!{Mc}{Ec}"
 
 @MEG_SEV_A:313 NAR d4eec43f
-
+"{V7110}Well then, {M}excuse {M}us{M}~{Mc}"
 
 @MEG_SEV_A:314 NAN 9e1f0687
-
+"{V0137}Excuse us~"
 
 @MEG_SEV_A:315 PLY dab3bd26
-
+"...You didn't seem that angry. Was that okay?"
 
 @MEG_SEV_A:316 MEG 31739799
-
+"{V0098}No, it's not..."
 
 @MEG_SEV_A:317 PLY 4e8f0c43
-
+"Then why?"
 
 @MEG_SEV_A:318 MEG 09c6d4ab
-
+"{V0099}...It's your fault."
 
 @MEG_SEV_A:319 PLY b45ebbcc
-
+"Mine?"
 
 @MEG_SEV_A:320 MEG c9c1801b
-
+"{V0100}You said{W40} it's better not to get angry,{W30} {Eo}and it threw me off..."
 
 @MEG_SEV_A:321 PLY 0c2f60ef
-
+"But I really think not getting angry is much better."
 
 @MEG_SEV_A:322 MEG e9010d88
-
+"{V0101}Ugh,{W20} enough!{W25} {Ec}Be quiet, be quiet!{W25} {Eo}If discipline at school falls apart, {s}it's your fault, {Nm}!"
 
 @MEG_SEV_A:323 MEG f355061a
-
+"{V0102}I{W60} am unfit for the{W10} Discipline Committee...{Eh}"
 
 @MEG_SEV_A:324 PLY f0bbfb79
-
+"Ah... Kuryuu... She's gone..."
 
 @MEG_SEV_A:325 PLY 277cd9e4
-
+"Kuryuu, what are you doing?"
 
 @MEG_SEV_A:326 MEG 19166d84
-
+"{V0103}{W5}Huh?"
 
 @MEG_SEV_A:327 MEG a40cbb63
-
+"{V0104}{W3}Ah,{W14} {Nm}."
 
 @MEG_SEV_A:328 PLY c476686e
-
+"It's rare to see you alone in a place like this."
 
 @MEG_SEV_A:329 MEG 37020fe4
-
+"{V0105}{W9}I-{W49}is it?"
 
 @MEG_SEV_A:330 PLY 0e69f4ab
-
+"Yeah. It's lunch break, and you usually patrol the school, right?"
 
 @MEG_SEV_A:331 MEG abaf505e
-
+"{V0106}{W4}I-{W70}I {W4}guess{W4} so{W3}..."
 
 @MEG_SEV_A:332 MEG 5e0db0b0
-
+"{V0107}{W4}...{W4}...{W4}"
 
 @MEG_SEV_A:333 PLY 03979534
-
+"Something on your mind? I can listen, if that helps."
 
 @MEG_SEV_A:334 MEG b1288c57
-
+"{V0108}{W4}...{W4}...{W4}"
 
 @MEG_SEV_A:335 MEG c1d8a75f
-
+"{V0109}{W7}...Don't."
 
 @MEG_SEV_A:336 PLY bd09fe50
-
+"Hm?"
 
 @MEG_SEV_A:337 MEG 8bd0dcd6
-
+"{V0110}{W4}Don't be so familiar with me!"
 
 @MEG_SEV_A:338 PLY fa4aecbd
-
+"What?!"
 
 @MEG_SEV_A:339 MEG c557a1b1
-
+"{V0111}{W4}What I{W2} said{W2} in{W2} Hilltop{W2} Park...{W42} forget it.{W88} {Eo}It was a moment of weakness."
 
 @MEG_SEV_A:340 MEG 0ce1cebe
-
+"{V0112}{W10}Being{W3} a{W2} girl{W2} might be nice...{W48} {Eo}I can't believe I said that..."
 
 @MEG_SEV_A:341 MEG d43c654e
-
+"{V0113}{W8}Okay?{W24} Forget it!{W44} I{W20} want to be{W4} more manly than any boy!"
 
 @MEG_SEV_A:343 MEG ed2c6b63
-
+"{V0114}{W7}It's not like you matter to me..."
 
 @MEG_SEV_A:344 MEG bc46b712
-
+"{V0115}{W7}See you!"
 
 @MEG_SEV_A:345 PLY 8b51fd78
-
+(Kuryuu...)
 
 @MEG_SEV_A:347 PLY fa216e55
-
+(Ow ow ow ow ow...)
 
 @MEG_SEV_A:348 PLY 071ffb95
-
+(I messed up... I finally grabbed the rebound, and then I fell and scraped my knee...)
 
 @MEG_SEV_A:349 AKI 3256cf8a
-
+"{Nm},{V0087}{W5} like the teacher said,{W31} go get it disinfected at the Infirmary quick."
 
 @MEG_SEV_A:350 PLY f0e8b2b7
-
+"It's fine, this is nothing."
 
 @MEG_SEV_A:351 AKI 69898679
-
+"{V0088}{W4}Just go already.{W46} It's a chance to skip class, right?"
 
 @MEG_SEV_A:352 PLY 157bbf6a
-
+"...Good point."
 
 @MEG_SEV_A:353 PLY 798092bd
-
+"Then I'll go."
 
 @MEG_SEV_A:354 AKI 4c4fc6db
-
+"{V0089}Yeah.{W44} Take your time{Eo}."
 
 @MEG_SEV_A:355 PLY 9a8d1403
-
+(Well, to the Infirmary...)
 
 @MEG_SEV_A:356 PLY 593a06bc
-
+(...Wait, Hiiragi's right. Going straight to the Infirmary is way too diligent.)
 
 @MEG_SEV_A:357 PLY fabef9d3
-
+(I'll goof off in the classroom a bit.)
 
 @MEG_SEV_A:358 PLY e2a8ac75
-
+(Walking down an empty hallway feels kind of superior...)
 
 @MEG_SEV_A:359 PLY e7b18170
-
+(Hm? I sense someone in our classroom... Who is it?)
 
 @MEG_SEV_A:360 PLY a9062c77
-
+(Ah... Kuryuu!)
 
 @MEG_SEV_A:361 PLY 22f8db4a
-
+(My shirt...)
 
 @MEG_SEV_A:363 MEG 25286a64
-
+"{V0116}{W4}Why...{W128} why..."
 
 @MEG_SEV_A:364 PLY d3e1a662
-
+(Did she want so badly to be born a boy...? Or maybe...)
 
 @MEG_SEV_A:365 PLY 6cdad301
-
+(I'll leave her alone...)

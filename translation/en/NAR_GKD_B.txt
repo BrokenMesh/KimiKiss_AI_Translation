@@ -2,649 +2,649 @@
 # Format: docs/translation-format.md
 
 @NAR_GKD_B:24 NAR 12fd5991
-
+"{V0780}{W12}Walking{W6} home{W5} with{W5} you,{W3} Senpai,{W5} just{W2} the{W2} two{W2} of{W2} us{W2}...{W33} it{W3} makes{W3} me{W4} a{W1} little{W1} nervous.{W2}{W1}{W1}{W1}"
 
 @NAR_GKD_B:26 PLY aee8b5e9
-
+"Hahaha, r-really?"
 
 @NAR_GKD_B:28 PLY 932df2d9
-
+(I'm just as nervous, though...)
 
 @NAR_GKD_B:30 NAR 06793190
-
+"{V0781}{W12}Senpai,{W3}{W3}{W27} would you like to stop by my place?"
 
 @NAR_GKD_B:31 PLY f2efa50d
-
+"Huh? Your place... oh, the udon shop..."
 
 @NAR_GKD_B:32 NAR 44a88ea6
-
+"{V0782}{W8}Yes!{Ti0} {Ti2}{W30}Please have a bowl{W3}{W3} before you go."
 
 @NAR_GKD_B:33 PLY 6783394f
-
+"Is that okay?"
 
 @NAR_GKD_B:34 NAR 8c821986
-
+"{V0783}{W8}Yes!{Ti0} {Ti2}{W33}You're{W3} very{W3} welcome!{W3}"
 
 @NAR_GKD_B:38 SYS 22bfe504
-
+...And so I ended up stopping by the Sanuki udon shop, Satonaka.
 
 @NAR_GKD_B:50 NAR 4b2d624d
-
+"{V0784}{W10}Senpai,{W4}{W4}{W30} you've{W1} been{W1} to{W1} our{W4} shop{F3}{W4} a{W1} few{W1} times,{W1} haven't{W1} you?{W1}{W1}{W1}{W1}"
 
 @NAR_GKD_B:51 PLY 30bb9305
-
+"Yeah. It was really delicious."
 
 @NAR_GKD_B:53 NAR 5c88e8ba
-
+"{V0785}{W8}Ehehe,{W15} {Eo}thank you very much."
 
 @NAR_GKD_B:57 NAR bb1f8621
-
+"{V0786}{W12}Now,{W21} please come{W2} inside.{W2}"
 
 @NAR_GKD_B:58 PLY cc4af171
-
+"Okay."
 
 @NAR_GKD_B:59 PLY 6674cd64
-
+(I'm kind of nervous...)
 
 @NAR_GKD_B:64 NAR f5e8c7ea
-
+"{V0787}{W12}Senpai,{W3}{W3}{W30} welcome{W1} in!{W1}{W1}"
 
 @NAR_GKD_B:65 PLY 7231751f
-
+"Whoa, it's really busy."
 
 @NAR_GKD_B:66 NAR 56831324
-
+"{V0788}{W8}Yes!{Ti0} {Ti2}{W18}Thankfully,{W8} at lunchtime{W3} and when{W1} people{W3} get{W1} off work,{W4} {W5}{Eo}we{W3} get{W3} lots of customers.{W3}{W3}{W1}{W1}{W4}"
 
 @NAR_GKD_B:67 NAR 3f97ae70
-
+"{V0789}{W8}But{W1} it's hard with just Grandpa,{W1}{W1}{W1}{W1}{W1}{W3}{W1}{W1}{W1}{W4}{W4}...{W45} {F9}so{W1}{W1}{W1}{W15} I help{W5} out{W5} at{W1} night{W8} too.{W1}{W4}{W1}{W1}"
 
 @NAR_GKD_B:68 PLY 59d1afdb
-
+"I see. You're amazing, Narumi..."
 
 @NAR_GKD_B:70 NAR a775f5b8
-
+"{V0790}{W8}Ehehe,{W15} not really.{W1}{W1}"
 
 @NAR_GKD_B:73 NAR ca0afaee
-
+"{V0791}{W12}Senpai,{W21} let me introduce you{W3} to{W3} Grandpa.{W1}{W4}{W6}{W3}{W2}{W2}{W3}"
 
 @NAR_GKD_B:74 PLY 122df4f6
-
+"Huh?"
 
 @NAR_GKD_B:77 NAR d06af0b6
-
+"{V0792}{W8}Senpai,{W3}{W3}{W15} this way,{W1}{W4} this way.{W1}"
 
 @NAR_GKD_B:78 PLY da4184cf
-
+"A-are you sure about this..."
 
 @NAR_GKD_B:81 NAR 1a5aada8
-
+"{V0793}{W8}Grandpa~,{W8} I'm home{W1}{W2}~{W3}!"
 
 @NAR_GKD_B:82 - 5b9814fa
-
+Old man
 
 @NAR_GKD_B:85 GUN c38812f5
-
+"{V5000}{W15}Mm,{W60} welcome back."
 
 @NAR_GKD_B:88 NAR 13aacf3c
-
+"{V0794}{W8}Grandpa,{W24} this is {Nm}{W3}{W3}{W3}.{W56} {Eo}He's a senior from my school{W5}{W5}{W3}{W6}{W6}{W6} and{W1}{W1} Nana's{W2}{W2}{W1}{W2} big{W4} brother.{W1}{W1}"
 
 @NAR_GKD_B:89 PLY 46df82df
-
+"...Nice to meet you, I'm {Nm} {Nn}."
 
 @NAR_GKD_B:91 GUN 8695a163
-
+"{V5001}{W15}Mm...{W93} Nice to meet you.{W60} {Eo}I'm{W6} Satonaka{W6}{W6} Gunpei.{W4}{W3}"
 
 @NAR_GKD_B:92 PLY 9c0ea9e9
-
+(Whoa... he's a pretty scary-looking grandpa. ...Or is he angry because I showed up out of nowhere?)
 
 @NAR_GKD_B:95 NAR 36f75d4a
-
+"{V0795}{W8}Grandpa,{W18} I{W8} really,{W12} really{W5}{W5} like{W1} Senpai.{W1}{W1}{W5}{W2}{W2}"
 
 @NAR_GKD_B:96 PLY eecce9d2
-
+"N-Narumi..."
 
 @NAR_GKD_B:97 GUN d13582e3
-
+"{V0000}{W15}Mm...{W51} I see."
 
 @NAR_GKD_B:99 NAR 3965b379
-
+"{V0796}{W8}Senpai{W4}{W4} praised{W30} my{W8} dashi{W2}{W1}{W1}{W1}{W3}, you know. {W33}{F2}{Ec}Unlike you, Grandpa,{W3}{W12} he can tell what young{W1} people like{W5}{W5}{W1}{W5}{W1}{W1}{W1}{W5}!{Eo}"
 
 @NAR_GKD_B:100 PLY ecb31832
-
+"N-Narumi... I'm sorry, showing up all of a sudden like this..."
 
 @NAR_GKD_B:102 PLY d7fe7efa
-
+(Uh-oh, is he going to scold me...)
 
 @NAR_GKD_B:104 GUN 5a601815
-
+"{V0001}{W15}You must be hungry.{W15}{W45} Come on,{W8} have a bowl{W4}{W4} of udon{W8} before you go."
 
 @NAR_GKD_B:105 PLY 371949d4
-
+"Y-yes, sir."
 
 @NAR_GKD_B:106 SYS 8d7d6840
-
+...And so they treated me to a meal.
 
 @NAR_GKD_B:109 NAR 54a25835
-
+"{V0798}{W12}Senpai,{W3}{W3}{W27} would{W3} you like to stop by my place again?"
 
 @NAR_GKD_B:110 PLY b0719ea3
-
+"Huh? ...Is that okay? The shop looks busy..."
 
 @NAR_GKD_B:111 NAR 52670fc4
-
+"{V0799}{W8}It's{W10} fine!{Ti0} {Ti2}{W27}Grandpa{W15} said{W8} to bring you{W1} again,{W1}{W1}{W1} too."
 
 @NAR_GKD_B:112 PLY 8161e7fd
-
+"Really? Then, just for a bit..."
 
 @NAR_GKD_B:113 NAR c75f31c9
-
+"{V0800}{W5}Yaa{W1}{W1}{W1}y!"
 
 @NAR_GKD_B:115 PLY 5b5c492c
-
+"It's busy today too~."
 
 @NAR_GKD_B:116 NAR ecac8cfb
-
+"{V0801}{W12}Senpai,{W3}{W4} {W15}please come{W4} to the back.{W1}{W3}"
 
 @NAR_GKD_B:117 NAR 3a7febbd
-
+"{V0802}{W8}Grandpa~,{W3} I'm{W1} home{W1}{W3}~{W3}!"
 
 @NAR_GKD_B:119 GUN 44f23d95
-
+"{V0002}{W15}Mm,{W40} welcome back."
 
 @NAR_GKD_B:120 NAR 52e3f8e1
-
+"{V0803}{Nm}{W3} is{W4} here{W4} with{W3} me{W1} too~!"
 
 @NAR_GKD_B:121 PLY 49b41856
-
+"...Sorry to intrude."
 
 @NAR_GKD_B:122 GUN 2688ec4c
-
+"{V0003}{W15}Mm."
 
 @NAR_GKD_B:123 PLY e1cb9fbb
-
+(I came during a busy time again... Is he angry?)
 
 @NAR_GKD_B:124 GUN 87c82abf
-
+"{V0004}{W15}Narumi."
 
 @NAR_GKD_B:125 NAR 6a6198e9
-
+"{V0804}{W8}Yes?{Ti0} {Ti2}Grandpa{W2}?"
 
 @NAR_GKD_B:126 GUN 39ce9587
-
+"{V0005}{W12}I bought those dumplings you like.{W15}"
 
 @NAR_GKD_B:127 NAR 404bcc6a
-
+"{V0805}{W12}Real{W13}ly{W11}?{Ti0} {Ti2}{W39}{F2}Thank{W1} you,{W3} Grandpa{W5}!"
 
 @NAR_GKD_B:128 GUN 36507332
-
+"{V0006}{W15}Eat them{W86} nicely{W6} together,{W4} the two of you."
 
 @NAR_GKD_B:129 NAR e6d9c25f
-
+"{V0806}{W8}Okay!{Ti0} {Ti2}{W33}Senpai,{W3}{W3} {W12}let's eat!"
 
 @NAR_GKD_B:130 PLY c74c000a
-
+"Y-yes! Thanks for the food!"
 
 @NAR_GKD_B:131 SYS 7a2f888a
-
+...And so I visited the Sanuki udon shop, Satonaka.
 
 @NAR_GKD_B:132 SYS 5e14a337
-
+The dumplings were delicious.
 
 @NAR_GKD_B:134 NAR e4dbdbad
-
+"{V0807}{W8}Senpai,{W4}{W5}{W33} may I stop by the{W3} bookstore{W3}{W1} for{W1} a bit?{W1}{W1}"
 
 @NAR_GKD_B:135 PLY 9b856156
-
+"Sure?"
 
 @NAR_GKD_B:136 NAR e0c00355
-
+"{V0808}{W8}I{W1} want{W1} to{W4} buy{W4} a{W4} few{W4} cookbooks.{W1}{W4}{W30}{W1}"
 
 @NAR_GKD_B:137 PLY 677c0067
-
+"Oh, for reference for the new udon?"
 
 @NAR_GKD_B:138 NAR e60947e3
-
+"{V0809}{W8}Yes!"
 
 @NAR_GKD_B:139 NAR 6ff26cc4
-
+"{V0810}{W8}I thought{W4}{W42} I might find some good{W4} ideas."
 
 @NAR_GKD_B:140 PLY 8bb3230b
-
+"Okay, then I'll help you look."
 
 @NAR_GKD_B:141 NAR 06eac5fe
-
+"{V0811}{W12}Really?{Ti0} {Ti2}{W36}Senpai,{W3}{W4} thank{W1} you{W2}~{W3}{W3}!{W5}{W8}"
 
 @NAR_GKD_B:144 PLY 39ddc8d7
-
+"Wow, there are more cookbooks than I expected."
 
 @NAR_GKD_B:146 NAR 7e4266d8
-
+"{V0812}{W12}Every bookstore{W4} has{W27} {F7}a{W4} shelf{W4} just{W4} for them.{W5}"
 
 @NAR_GKD_B:147 NAR 8957b54c
-
+"{V0813}{W8}With cooking,{W30} having a recipe{W1}{W1}{W1}{W1}{W2} or not{W2}{W2}{W1}{W2} {W8}makes{W1} {Ec}{F2}a{W4} huge{W5} difference.{W4}{W2}"
 
 @NAR_GKD_B:148 PLY 47c9543b
-
+"Wow."
 
 @NAR_GKD_B:149 NAR cdde07b0
-
+"{V0814}{W18}Oh,{W45} Senpai,{W4}{W4} look,{W2} look!{W3}{W27} {Fm3}this French{W3} cookbook,{W1}{W3}{W27} {F3}the{W2} photos{W2}{W5} are{W5} so{W1} pretty.{W3}"
 
 @NAR_GKD_B:150 PLY 7d7281d3
-
+"Let me see."
 
 @NAR_GKD_B:151 NAR 54161785
-
+"{V0815}{W8}{F2}{Ec}Ehehe,{W30} sauteed{W5} beef fillet{W4} {W2}with{W9} foie gras, it says.{W1}{W24} {Eo}Looks{W1}{W3} delicious{W5}{W3}~{W3}!"
 
 @NAR_GKD_B:152 PLY 1b758669
-
+"Hahaha, it does."
 
 @NAR_GKD_B:153 NAR fd9978a0
-
+"{V0816}{W12}Senpai,{W3}{W3}{W27} have you ever{W1} eaten{W8} foie gras?{W1}"
 
 @NAR_GKD_B:154.1 - 76b92ccd
-
+{Ti0}- Oh, yeah, I eat it all the time／- I've never had it／- What's foie gras?
 
 @NAR_GKD_B:155 PLY c8bc903f
-
+"Oh, yeah, I eat it all the time."
 
 @NAR_GKD_B:156 NAR e700afa5
-
+"{V0817}{W12}Real{W4}ly?!{W3}{Ti0} {Ti2}{W32}I've{W8} never{W15} had{W2} it{W1}!{Ti0} {Ti2}{W33}What{W1} does{W1} it{W1} taste{W3} like?{W2}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
 
 @NAR_GKD_B:157 PLY 64d359cb
-
+"What?! W-well, it's like... foie, and then gra~..."
 
 @NAR_GKD_B:158 NAR 3ac7d26b
-
+"{V0818}{W21}{Fe9}Foie,{W33} and{W4} then{W4}{W4}{W30} {F9}gra{W4}{W8}~{W15}...{W6}{W62} I{W2} see...{W2}{W2}{W2}{W2}"
 
 @NAR_GKD_B:159 NAR cbf06775
-
+"{V0819}{W18}I don't really get it,{W30} {Ec}{F2}but it must be delicious{W2}{W3}~."
 
 @NAR_GKD_B:160 PLY a4f3388d
-
+"O-of course it is!"
 
 @NAR_GKD_B:161 PLY 01754972
-
+"I've never had it."
 
 @NAR_GKD_B:162 NAR 5eea4982
-
+"{V0820}{W12}You too,{W4} Senpai?{W4}{W3}{W30} {Fe9}I've{W8} never had it either~."
 
 @NAR_GKD_B:163 NAR 98ed3ead
-
+"{V0821}{W8}I bet it's delicious~.{W1}{W30} {Eo}I want to try{W2} it...{W1}{W1}"
 
 @NAR_GKD_B:164 PLY b8740af6
-
+"Yeah. Then..."
 
 @NAR_GKD_B:165 PLY 7ed7b0f6
-
+"Want to go eat it together someday?"
 
 @NAR_GKD_B:166 NAR 2f522a30
-
+"{V0822}{W8}{F4}Huh?"
 
 @NAR_GKD_B:167 PLY 4b6863ef
-
+"...Just kidding, hahaha."
 
 @NAR_GKD_B:168 NAR 2077cbeb
-
+"{V0823}{W12}Aww{W3}{W3}, {W27}was that a joke?{W4}{W4}{W1}{W1}{W1}{W1}{W30} {Fm4}I was{W1} looking{W5} forward{W1} to it~!{W2}{W3}"
 
 @NAR_GKD_B:169 PLY 04733997
-
+"Hahaha."
 
 @NAR_GKD_B:170 PLY 1e757f86
-
+"What's foie gras?"
 
 @NAR_GKD_B:171 NAR b9df47f3
-
+"{V0824}{W8}{F4}Huh?{Ti0} {Ti2}{W54}Senpai,{W2}{W3} {W21}you don't know?{W1}{W1}{W2}{W1}{W1}"
 
 @NAR_GKD_B:172 PLY 1ea1b704
-
+"N-no."
 
 @NAR_GKD_B:173 NAR bd556371
-
+"{V0825}{W12}Foie gras is{W30} {Eo}{F3}the liver{W3} of a goose{W1} {W2}raised{W6} to{W1} get{W21} fat{W1}{W1}{W1}.{W4}{W4}{W1}{W1}"
 
 @NAR_GKD_B:174 PLY d96b6acc
-
+"Wow."
 
 @NAR_GKD_B:175 NAR 6d952f48
-
+"{V0826}{W12}Apparently{W5}{W2} it's{W18} super{W60} delicious."
 
 @NAR_GKD_B:176 PLY 06d0288a
-
+"Okay, enough about foie gras. We have to find a good book."
 
 @NAR_GKD_B:177 NAR 7c6f49a2
-
+"{V1736}{W5}Oh,{W17} right{W1}{W1}~."
 
 @NAR_GKD_B:178 SYS 743c4170
-
+...And so I looked for cookbooks with Narumi.
 
 @NAR_GKD_B:179 PLY a9554166
-
+"You bought a lot."
 
 @NAR_GKD_B:180 NAR 7e18ce26
-
+"{V0828}{W12}{Fe9}Yes.{W27} I used up{W4} all of{W4} this{W4} month's{W3} allowance.{W3}"
 
 @NAR_GKD_B:181 PLY a7a7c339
-
+"What kind of cookbooks did you get?"
 
 @NAR_GKD_B:182 NAR 3c330134
-
+"{V0829}{W8}{Fe7m4}Let's{W3} see{W15}...{W30} a Vietnamese{W1} cookbook,{W1}{W1}{W1}{W4} an Indian{W4} cookbook,{W4}{W27} and{W4}{W36} {F3}a Korean{W2} cookbook.{W2}{W2}{W2}"
 
 @NAR_GKD_B:183 PLY 6efc6d4a
-
+"Huh? Didn't you buy one more?"
 
 @NAR_GKD_B:184 NAR 46171508
-
+"{V0830}{W8}{Ec}{F2}{B80}Ehehe,{W30} you noticed?"
 
 @NAR_GKD_B:185 NAR 3f424f5f
-
+"{V0831}{W8}The other{W2} one{W4} is{W33} a book{W1} on{W1} Japanese{W1} sweets.{W4}"
 
 @NAR_GKD_B:186 NAR 95e9a741
-
+"{V0832}{W8}{Eo}{Fe3m4}I{W8} love{W39} dumplings,{W4} {W6}{Fm3}warabi mochi,{W3} and{W3} things like that,{F2} {W30}so I want to make them myself{W3} and{W4} eat{W3} them{W6} fresh."
 
 @NAR_GKD_B:187 PLY 9d6abc0b
-
+"Hahaha, I see."
 
 @NAR_GKD_B:188 NAR 1d685e64
-
+"{V0833}{W8}If they turn out well,{W15} {Ec}Senpai,{W4}{W4} please come{W1} eat{W1} some.{W1}"
 
 @NAR_GKD_B:189 PLY 471f800a
-
+"Sure, thanks."
 
 @NAR_GKD_B:191 NAR 79aa2293
-
+"{V0834}{W8}Senpai,{W4}{W4}{W30} may I stop by{W1} the bookstore{W4} today{W1} too?{W1}{W1}"
 
 @NAR_GKD_B:192 PLY 49a62f0b
-
+"Still looking for cookbooks?"
 
 @NAR_GKD_B:193 NAR 6e300354
-
+"{V0835}{W8}No,{W10} that's not it.{W35} Today{W2} is{W2} the release day{W6}{W1} of{W1} a{W1} shoujo{W4} manga{W2} I{W1} like.{W1}{W1}{W1}{W4}{W3}{W1}"
 
 @NAR_GKD_B:194 PLY a6c8a694
-
+"Hahaha, I see. Then we'd better stop by."
 
 @NAR_GKD_B:195 NAR c397a542
-
+"{V0836}{W12}Yes!"
 
 @NAR_GKD_B:196 NAR 8a15a9c1
-
+"{V0837}{W8}Then,{W15} I'll go{W5} to the manga{W4} corner{W1} in the back{W1}{W1}{W1}{W1}.{W1}{W1}{W3}"
 
 @NAR_GKD_B:197 PLY 3b1c0fed
-
+"I'll go to the magazine corner."
 
 @NAR_GKD_B:198 PLY 0fb675dd
-
+"Want to meet back here in thirty minutes?"
 
 @NAR_GKD_B:199 NAR 295038a7
-
+"{V0838}{W12}Yes!{Ti0} {Ti2}{W24}{Eo}See you{W1}{W5}~{W1}!"
 
 @NAR_GKD_B:200 SYS 91549ead
-
+...And so I had a fun time at the bookstore with Narumi.
 
 @NAR_GKD_B:202 PLY 78d556ae
-
+"The school festival is almost here."
 
 @NAR_GKD_B:203 NAR 17f847be
-
+"{V0839}{W12}Yes."
 
 @NAR_GKD_B:204 PLY de6f5102
-
+"I can't wait to see what kind of udon you'll serve us."
 
 @NAR_GKD_B:205 NAR 2edf5b0b
-
+"{V0840}{W8}Ehehe,{W30} I'll do my best."
 
 @NAR_GKD_B:206 PLY b8146b09
-
+"...What should we do now? Want to stop by the shopping street?"
 
 @NAR_GKD_B:207 NAR 959d8453
-
+"{V0841}{W8}Hmm..."
 
 @NAR_GKD_B:208 NAR 6d26ba90
-
+"{V0842}{W12}There's{W8} a place{W60} I{W1} want{W1} to{W1} go.{W2}{W1}{W1}{W1}"
 
 @NAR_GKD_B:209 PLY a27ed497
-
+"A place you want to go?"
 
 @NAR_GKD_B:210 NAR 10391ec1
-
+"{V0843}{W12}Yes.{W66} I...{W8}"
 
 @NAR_GKD_B:211 NAR b58a9e49
-
+"{V0844}{W8}I want to{W1} see{W4} Senpai's{W4} room!{W1}{W1}{W1}{W2}"
 
 @NAR_GKD_B:212 PLY 9d492cbe
-
+"What?!"
 
 @NAR_GKD_B:213 NAR 0075ecc8
-
+"{V0845}{W8}Oh,{W39} but only if you don't mind,{W4} Senpai...{W4}{W3}{W3}{W1}{W3}"
 
 @NAR_GKD_B:214 PLY d6161b44
-
+"No... I don't mind, but why?"
 
 @NAR_GKD_B:215 NAR f4867088
-
+"{V0846}{W12}Nana{W8} invited me,{W41} so I've been{W1} to{W3} your{W1} house,{W35} Senpai,{W4}{W4} but{W41} I've{W4} never{W4} been{W18} in{W4} your{W1} room.{W1}{W1}{W1}"
 
 @NAR_GKD_B:216 PLY 518c905d
-
+"I see... I guess I can understand being curious."
 
 @NAR_GKD_B:217 NAR 714e7fdd
-
+"{V0847}{W16}Yes.{W33} I'm curious{W1}~{W5}!"
 
 @NAR_GKD_B:218 PLY 6b9b3c80
-
+"...Then, want to come over?"
 
 @NAR_GKD_B:219 NAR 04af30dc
-
+"{V0848}{W8}May I?"
 
 @NAR_GKD_B:220 PLY 48f83968
-
+"Sure, but there's nothing in it."
 
 @NAR_GKD_B:221 NAR 4611e3ea
-
+"{V0849}{W8}Yaa{W3}{W3}y!{Ti0} {Ti2}{W15}Thank{W1} you,{W3} Senpai{W5}~!{W2}"
 
 @NAR_GKD_B:225 PLY 0ae07cdb
-
+"I'm home~."
 
 @NAR_GKD_B:226 NAR a0b962ab
-
+"{V0850}{W21}S-{W90}sorry{W1} to{W1} intrude{W2}~{W4}{W4}."
 
 @NAR_GKD_B:227 PLY 57126b62
-
+"Looks like Nana isn't home yet."
 
 @NAR_GKD_B:228 NAR dc2bbc7c
-
+"{V0851}{W8}{B40}Then...{W37} does{W3} that{W3} mean{W42} it's{W6} just{W7} you{W7} and{W4} me{W4} alone?"
 
 @NAR_GKD_B:229 PLY 4037b196
-
+"Y-yeah, I guess so..."
 
 @NAR_GKD_B:230 NAR 728a318b
-
+"{V0852}{W8}{B80}{Fe9m3}Wow,{W42} my{W8} heart{W8} is{W3} pounding~!{W1}{W1}{W1}{W1}{W1}"
 
 @NAR_GKD_B:231 PLY 7aa469c1
-
+"Hahaha..."
 
 @NAR_GKD_B:232 PLY c6d99a79
-
+"Oh, Narumi, you can leave your bag here."
 
 @NAR_GKD_B:233 NAR c75a467c
-
+"{V0853}{W12}{F3}Okay."
 
 @NAR_GKD_B:235 PLY e9c00216
-
+"I'm going to check on my room for a second, so wait here."
 
 @NAR_GKD_B:236 NAR bbcb32bf
-
+"{V0854}{W12}Okay."
 
 @NAR_GKD_B:237 PLY 5a3d7a25
-
+(H-hurry, shove anything embarrassing deep into the closet!)
 
 @NAR_GKD_B:238 SYS 96c22667
-
+{Ts2}Rustle{Ts1}-bustle...{W45}{As1}{b155}{Ts3}Thud!{As0}{b0} {W60}{Ts1}Rattle...{W15}{Ts3}{As1}{b5}Crash{As0}{b0}!
 
 @NAR_GKD_B:239 PLY c9c88ba0
-
+"Huff, huff... I-I think that's good enough..."
 
 @NAR_GKD_B:240 NAR dc6dcf3c
-
+"{V0855}{W15}Senpai,{W5}{W6}{W33} that{W3} was{W5} some{W4} really{W1} loud noise,{W4}{W42} are{W1} you{W2} okay?"
 
 @NAR_GKD_B:241 PLY 1b3e55fb
-
+"Hahaha, it's nothing. Well, shall we go?"
 
 @NAR_GKD_B:242 NAR d8a737ea
-
+"{V0856}{W8}{F2}Okay."
 
 @NAR_GKD_B:243 NAR 3cf01585
-
+"{V0857}{W12}{B40}Wow,{W8}{W30} so{W5} this{W4} is{W3} Senpai's{W3} room.{W60} It{W2} really{W12} feels{W30} like{W2} a{W2} guy's{W6} room~!"
 
 @NAR_GKD_B:244 PLY 499877e1
-
+"R-really?"
 
 @NAR_GKD_B:246 NAR 60655423
-
+"{V0858}{W8}Do you{W8} study{W4} at{W4} this desk?"
 
 @NAR_GKD_B:247 PLY 7f77acea
-
+"Not every day, though."
 
 @NAR_GKD_B:249 NAR b9d3f648
-
+"{V0859}{W8}And{W1} you{W1} sleep{W1} in{W1} this{W1} bed?"
 
 @NAR_GKD_B:250 PLY 605fe597
-
+"Yeah, I sleep in that every day."
 
 @NAR_GKD_B:251 NAR 678f4b4f
-
+"{V0860}{W8}{Ec}{Fe2}Hehe."
 
 @NAR_GKD_B:252 NAR 42ab1eeb
-
+"{V0861}{W5}May{W1} I{W1} look{W1} in{W1} the closet?"
 
 @NAR_GKD_B:253 PLY ef328e61
-
+"Ah! No! That's a bit..."
 
 @NAR_GKD_B:254 NAR 41aa0fef
-
+"{V0862}{W8}Is{W2} it{W1} not{W1} allowed?{W3}"
 
 @NAR_GKD_B:255 PLY d297eb1d
-
+"Hahaha, it's a mess in there."
 
 @NAR_GKD_B:257 NAR 46a18224
-
+"{V0863}{W8}...{F3}Then,{W15} may{W6} I{W6} look{W2} at{W2} your{W2} bookshelf?{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W2}{W1}{W1}"
 
 @NAR_GKD_B:258 PLY e53ca26f
-
+"S-sure."
 
 @NAR_GKD_B:259 PLY 3860c9d7
-
+(There shouldn't be any dangerous books... Yeah.)
 
 @NAR_GKD_B:260 NAR 4fe3a1f1
-
+"{V0864}{W15}Ah~!{Ti0} {Ti2}{W45}Senpai,{W4}{W36} this{W3} is...{W8}{W8}{W4}{W5}"
 
 @NAR_GKD_B:261 PLY 9c5b52f4
-
+"What?! W-was there something?!"
 
 @NAR_GKD_B:262 NAR 1f9c9d16
-
+"{V0865}{W8}Are{W3} those{W3} Year{W2} 1{W2} textbooks{W2} on{W2} the{W2} shelf{W2} yours,{W30} Senpai?"
 
 @NAR_GKD_B:263 PLY 15596718
-
+"Oh, yeah."
 
 @NAR_GKD_B:264 NAR b6ea24c9
-
+"{V0866}{W8}{F3}They're{W8} the{W4} same as the{W1} ones{W3} I use."
 
 @NAR_GKD_B:265 PLY 742e7060
-
+"They are. Nana said so too."
 
 @NAR_GKD_B:266 NAR eed35315
-
+"{V0867}{W15}{B80}Senpai...{W57} I,{W43} I{W6} want{W7} to{W8} study{W3} with{W3} your{W3} textbooks...{W2}{W4}{W4}"
 
 @NAR_GKD_B:267 NAR f8ee7d6a
-
+"{V0868}{W8}{Eo}{F9}If you don't{W8} mind,{W15} would{W3} you{W3} trade{W12} textbooks{W3} with{W3} me?"
 
 @NAR_GKD_B:268 PLY 36feb9e5
-
+"S-sure, but they're well used, you know?"
 
 @NAR_GKD_B:269 NAR 376207b2
-
+"{V0869}{W12}{Fm4}That's{W4} what{W3} makes{W3} them{W1} good!{Ti0} {Ti2}{W39}{F3}The{W1} underlines{W30} here{W1} and{W1} there,{W30} {Ec}it's{W3} like{W3} I'm{W3} studying{W3} together{W3} with{W3} you...{W1}{W1}{W1}{W8}{W8}{W2}{W2}{W2}{W2}{W2}"
 
 @NAR_GKD_B:270 PLY 65928068
-
+"Narumi..."
 
 @NAR_GKD_B:271 NAR ad47b1ef
-
+"{V0870}{W8}{B40}I'll{W18} get{W1} my{W1} bag!{Ti0} {Ti2}{W39}For{W1} now,{W21} please{W1} trade{W1} me{W1} just{W1} the{W1} textbooks{W1} you{W1} have{W1} {Ec}right{W1} now!{W1}{W1}{W1}{W1}{W4}{W4}{W4}{W3}{W3}"
 
 @NAR_GKD_B:272 PLY bad3355d
-
+"Okay..."
 
 @NAR_GKD_B:273 PLY f47180b0
-
+(She really looks up to me, doesn't she, Narumi...)
 
 @NAR_GKD_B:274 PLY 05f5ded5
-
+(And my feelings are...)
 
 @NAR_GKD_B:275 SYS fcc70b7b
-
+...And so I spent the time with Narumi in my room.
 
 @NAR_GKD_B:277 NAR 483dc00e
-
+"{V0871}{W15}Senpai...{W5}{W30} may{W5} I{W4} come{W4} over{W1} to{W1} your room again?"
 
 @NAR_GKD_B:278 PLY d659be96
-
+"Huh? S-sure?"
 
 @NAR_GKD_B:279 NAR 339df7c3
-
+"{V0872}{W12}Really?!{Ti0} {Ti2}{W15}Yippee~!{W8}{W8}{W4}"
 
 @NAR_GKD_B:280 PLY 8c5d998e
-
+(I tidied up the other day, so there's nothing embarrassing to see, right...)
 
 @NAR_GKD_B:281 PLY f3dbbd44
-
+"I'm home~"
 
 @NAR_GKD_B:282 NAR fad91f05
-
+"{V0873}{W12}S-{W26}sorry{W6} for{W1} intruding~"
 
 @NAR_GKD_B:283 PLY 66023ce1
-
+"Nana's not home yet, huh..."
 
 @NAR_GKD_B:284 NAR e212619c
-
+"{V0874}{W12}Then...{W30} could{W5} it{W5} be,{W48} we're{W3} alone{W3} together{W3} again,{W5} Senpai?{W5}{W4}{W2}"
 
 @NAR_GKD_B:285 NAR 63470de5
-
+"{V0875}{W12}{B80}{Fe9m3}Wow,{W69} my{W3} heart{W5} is{W8} pounding~{W1}{W1}{W1}{W1}{W2}{W2}{W2}{W2}{W2}"
 
 @NAR_GKD_B:286 PLY 22503bfc
-
+"I'll go make some tea, then."
 
 @NAR_GKD_B:287 NAR da071541
-
+"{V0876}{W12}{Fe9}Oh,{W27} Senpai,{W4} please{W4} don't go to{W1} any{W1} trouble~"
 
 @NAR_GKD_B:288 PLY 9eaf171b
-
+"I can't just not do that."
 
 @NAR_GKD_B:289 PLY 5d1dd3c1
-
+"Green tea, coffee or black tea, which would you like?"
 
 @NAR_GKD_B:290 NAR a96ec946
-
+"{V0877}{W18}{F3}...{W8}Then,{W33} {Fe7m4}let's{W5} see,{W72} {F3}green{W1} tea,{W3} please.{W3}"
 
 @NAR_GKD_B:291 PLY 68da662a
-
+"Okay. Wait here a moment."
 
 @NAR_GKD_B:292 NAR e6420c12
-
+"{V0878}{W12}{Ec}{F2}Okay."
 
 @NAR_GKD_B:293 PLY a36690a4
-
+(Hm...?{W60} Wait a second...)
 
 @NAR_GKD_B:294 PLY 01f6695a
-
+"Narumi! Don't look in the closet!"
 
 @NAR_GKD_B:298 NAR 8ed36386
-
+"{V0879}{W8}What?!{W39} {F4}H-{W30}how did you know?"
 
 @NAR_GKD_B:299 PLY 227c05b6
-
+"...I can see right through you."
 
 @NAR_GKD_B:301 NAR 08f38919
-
+"{V0880}{W18}Senpai,{W15}{W5} you're{W15} amazing.{W27} {Fe2m3}I'm{W15} so{W5} surprised.{W5}{W5}"
 
 @NAR_GKD_B:302 PLY 1d988eee
-
+"Sit still and be good."
 
 @NAR_GKD_B:304 NAR 4631834a
-
+"{V0881}{W12}{Ec}{Fe6m4}Okay~{W3}{W8}"

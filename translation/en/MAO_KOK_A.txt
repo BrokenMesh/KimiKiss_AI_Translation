@@ -2,400 +2,400 @@
 # Format: docs/translation-format.md
 
 @MAO_KOK_A:54 TOM be0fcaa3
-
+"{V0149}{W15}Wel{W4}come{W9} to{W5} the{W37} House{W8} of{W2} For{W3}tune{W10}-Telling{W2}."
 
 @MAO_KOK_A:56 PLY 24346ce8
-
+"M-Ms. Kawada, that outfit..."
 
 @MAO_KOK_A:59 MAO b349e336
-
+"{V1387}{W24}Tomo...{W2} {W36}I{W2} mean,{W2} {W36}Ms.{W2} Kawada's{W5} fortunes{W5} are{W5} {W30}super{W2} accurate.{W2} {W30}They're{W2} famous{W2} among{W5} the{W2} girls{W2} every{W2} year.{W3}{W3}{W9}{W9}{W9}{W9}{W6}{W6}{W6}{W6}{W6}{W1}{W1}{W1}"
 
 @MAO_KOK_A:60 PLY 5cf5173c
-
+"Wow, really?"
 
 @MAO_KOK_A:61 PLY 716be687
-
+"...When you said the pool equipment room, I totally thought..."
 
 @MAO_KOK_A:63 MAO 29676837
-
+"{V1388}{W15}You thought,{W3} {W15}what?"
 
 @MAO_KOK_A:64 PLY 221a557f
-
+"Ah, no... nothing."
 
 @MAO_KOK_A:65 MAO eb2a23fa
-
+"{Nn}, {V1389}{W12}you just {W4}now{W1} {W51}thought something{W8} naughty, didn't you?"
 
 @MAO_KOK_A:66 PLY fa2b8ab6
-
+"N-no, I didn't..."
 
 @MAO_KOK_A:68 MAO f26bc570
-
+"{V1390}...{W3}If {Nn}{W3} wants to,{W1} {W36}I{W9} don't{W1} mind,{W1} you{W1} know."
 
 @MAO_KOK_A:69 PLY 4af892a9
-
+"...Mao."
 
 @MAO_KOK_A:70 MAO 189923ff
-
+"{V1391}{W15}Hm?"
 
 @MAO_KOK_A:71 PLY b736ec62
-
+"You're teasing me, aren't you?"
 
 @MAO_KOK_A:72 MAO 64908122
-
+"{V1392}{W15}Fufu,{W3} {W36}you{W2} noticed?"
 
 @MAO_KOK_A:73 PLY 18418fc4
-
+"Honestly..."
 
 @MAO_KOK_A:74 TOM 03bb2124
-
+"{V0150}{W15}So...{W3} {W30}you{W3} want me{W6} to{W1} read{W5} your{W4} compatibility{W1} as{W1} a{W2} couple?"
 
 @MAO_KOK_A:76 MAO 588e3f62
-
+"{V1393}{W15}Ah, {W8}sorry, {W3}yes, that's right. {W18}Please take{W4} care of us."
 
 @MAO_KOK_A:77 TOM 9b62b15e
-
+"{V0151}{W18}Your names{W3} {W4}and{W3} birth{W4} dates?"
 
 @MAO_KOK_A:78 MAO ac32d730
-
+"{V1394}{W21}Mizusawa{W6} {W5}Mao. {W30}Born{W8} {W4}February{W4} {W4}27th."
 
 @MAO_KOK_A:79 PLY 1b577008
-
+"{Nm} {Nn}. Born on..."
 
 @MAO_KOK_A:80 TOM bd75372a
-
+"{V0152}{W8}...{W3}Hmm{W2} hmm,{W3} {W18}I{W1} see.{W1} {W72}...{F1}{W3}Now{W1} then,{W6} {W30}in{W3} this{W3} crystal{W3} ball{W42} your{W8} future{W8} together{W4} will{W1} appear...{W5}{W5}"
 
 @MAO_KOK_A:81 MAO bb04b495
-
+"{V1395}{W12}Heart{W1} pounding...{W1}"
 
 @MAO_KOK_A:83 TOM bab1bd29
-
+"{V0153}{Ec}{Br45t30}{W18}Abra{W6}ca{W4}da{W2}bra{Br0t15},{W2} {W12}{Br30t30}{W15}crystal{W3} ball,{W2} {W5}give{W2} {Br0t15}me{W2} {W7}an{W4} {W2}answer{Br45t30}~!{W3}{W3}{W3}{W7}{W9}"
 
 @MAO_KOK_A:92 MAO/TOM 0d80b9d5
-
+"......"
 
 @MAO_KOK_A:93 MAO 82346b0c
-
+"{V1396}{W15}W-{W42}what do you see?"
 
 @MAO_KOK_A:94 TOM a097219d
-
+"{V0155}{W15}I{W1} see{W1} {W18}a{W2} refreshing{W1} summer{W1} sky.{W2} {W45}{Eo}Your{W6} compatibility{W1} is{W6} {W27}flawless.{W6}{W4}{W5}{W5}{W8}"
 
 @MAO_KOK_A:95 MAO 7f80b214
-
+"{V1397}{W15}Yay{W21}~~~~!{W2}{W2}{W2}{W2}"
 
 @MAO_KOK_A:97 TOM db03f5e8
-
+"{V0156}{W12}How{W3}ever...{W2}"
 
 @MAO_KOK_A:98 MAO 3cd5e8d9
-
+"{V1398}{W12}Huh? {W30}However...?"
 
 @MAO_KOK_A:100 TOM 5c9c771a
-
+"{V0157}{W18}I{W6} see{W8} summer{W3} thunderbolts{W6} {W12}now{W10} {W10}and{W1} then.{W1} {W72}It's{W1} important{W5} that{W5} Mizusawa {W21}doesn't{W5} throw{W1} a{W3} tantrum."
 
 @MAO_KOK_A:101 TOM 6d92422e
-
+"{V0158}{W12}Hasn't{W2} something{W2} like{W2} that{W2} happened{W2} {W30}before,{W1} perhaps?{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W5}"
 
 @MAO_KOK_A:103 MAO 2dad36d9
-
+"{V1399}{W15}Well,{W5} {W24}it{W2} did...{W2} {W15}or{W4} maybe{W8} it{W2} didn't...{W9}"
 
 @MAO_KOK_A:104 PLY 7aa469c1
-
+"Hahaha..."
 
 @MAO_KOK_A:105 TOM 6a259c12
-
+"{V0159}{W21}The{W5} crystal{W7} ball{W3} {W8}{Eo}does{W1} not{W1} lie.{W1}{W1}{W1}{W1}{W2}"
 
 @MAO_KOK_A:106 TOM 9a3c812e
-
+"{V0160}{W22}Mizusawa,{W6} {W30}you{W6} become{W8} weak in front{W4} of boys,{W7} {W27}and{W2} you're{W2} the type{W6} who{W1} wants{W1} to{W1} be{W1} pampered."
 
 @MAO_KOK_A:107 MAO 002da5de
-
+"{V1400}{W12}Huh?"
 
 @MAO_KOK_A:108 PLY e602c9b2
-
+"Is that so?"
 
 @MAO_KOK_A:109 TOM d6a6b3f5
-
+"{V0161}{W15}You{W7} act{W2} as{W1} if{W1} to{W5} hide{W4} your{W1} weak{W1} self,{W1} {W60}but{W1} {Eo}at{W1} heart,{W4} {W24}you{W5} must{W5} want{W1} to{W1} be{W1} pampered{W1} by{W1} the{W2} one{W2} you{W2} love...{W4}{W4}{W6}{W3}{W3}"
 
 @MAO_KOK_A:110 MAO 6cd7fa55
-
+"{V1401}{W15}Ugh... {W78}maybe so..."
 
 @MAO_KOK_A:111 PLY df6b2731
-
+"I-is that so..."
 
 @MAO_KOK_A:112 TOM 5c18a776
-
+"{V0162}{W12}{Nm},{W1} {W33}it's{W5} important{W5} that{W5} you{W1} let{W1} Mizusawa{W1} lean{W1} on{W1} you.{W7}{W3}"
 
 @MAO_KOK_A:113 PLY 2279aba8
-
+"Y-yes..."
 
 @MAO_KOK_A:114 TOM 37bde9e9
-
+"{V0163}{W12}If{W4} you{W4} do,{W3} {W30}the{W3} two{W4} of{W2} you{W1} will{W1} lift{W5} each{W5} other{W1} up{W1} {W30}and{W1} open{W1} a{W1} better{W1} future.{W1} {W54}Be{W4} happy.{W5}{W6}{W6}{W6}{W18}"
 
 @MAO_KOK_A:115 TOM 28244ef0
-
+"{V0164}{W18}Now{W6} then,{W6} {W30}next{W6} customer~{W3}"
 
 @MAO_KOK_A:125 PLY 0120f983
-
+(Let's see... is Mao in class?)
 
 @MAO_KOK_A:127 PLY 60d5d20c
-
+(Ah, there she is...)
 
 @MAO_KOK_A:128 PLY 008ad139
-
+"Hey, Mao."
 
 @MAO_KOK_A:132 MAO 3dc3d544
-
+"{V1381}{W18}Ah, {Nn}, {W12}I was{W1} waiting{W2} for{W2} you.{W2} {W22}Shall{W1} we go right away?"
 
 @MAO_KOK_A:133 PLY 3bf76f12
-
+"Sure, but where do you want to go, just the two of us?"
 
 @MAO_KOK_A:135 MAO acc6488f
-
+"{V1382}{W15}The{W5} pool{W1} equipment{W1} room!{W4}"
 
 @MAO_KOK_A:136 PLY 4a4f75e9
-
+"What?! W-why there..."
 
 @MAO_KOK_A:138 MAO ad2ab36c
-
+"{V1383}{W15}Never mind, never{W1} mind."
 
 @MAO_KOK_A:139 PLY 5519589d
-
+(T-the pool equipment room, to do what...? D-don't tell me...)
 
 @MAO_KOK_A:140 MAO 134e378d
-
+"{V1384}{W12}Come on,{W1} {W15}this way."
 
 @MAO_KOK_A:141 PLY 7d68aa58
-
+"O-okay..."
 
 @MAO_KOK_A:142 MAO 5d1b85c2
-
+"{V1385}{W18}Lucky!{W5} {W12}{W24}It's{W1} still{W1} early,{W1} {W16}so{W1} there{W1} aren't{W1} many{W3} people in line."
 
 @MAO_KOK_A:143 PLY 95090aa2
-
+"W-what is this line...? It's all girls..."
 
 @MAO_KOK_A:144 MAO c7d8ae26
-
+"{V1386}{W15}Never{W3} mind,{W2} never{W2} mind.{W2}{W1}{W1}{W1}{W5}"
 
 @MAO_KOK_A:145 MAO b91f546b
-
+"{V1402}{W8}...{W3}No{W3} wonder{W3} people{W5} say{W1} it's{W1} accurate.{W1} {W36}It{W5} was{W5} convincing...{W1}{W6}{W2}"
 
 @MAO_KOK_A:146 PLY 9efd61f7
-
+"...Y-yeah."
 
 @MAO_KOK_A:148 SYS cd1aef39
-
+...And so we enjoyed the school festival.
 
 @MAO_KOK_A:149 MAO e32ef7a5
-
+"{V1403}{W15}Hey, {Nn}, {W15}want{W3} to{W3} go to the rooftop?"
 
 @MAO_KOK_A:150 PLY 53744985
-
+"The rooftop? Sure, but... isn't nothing going on there?"
 
 @MAO_KOK_A:151 MAO fa275876
-
+"{V1404}{W15}That's{W3} fine.{W2}"
 
 @MAO_KOK_A:153 PLY 854b3f74
-
+"See, no one's here."
 
 @MAO_KOK_A:154 MAO 426e5c0e
-
+"{V1405}{W15}Fufu,{W2} {W30}you're{W3} right."
 
 @MAO_KOK_A:155 MAO d7fe3858
-
+"{V1406}{W27}But {W36}the{W4} wind{W1} feels{W1} nice~"
 
 @MAO_KOK_A:156 PLY 851b6dc4
-
+"It does."
 
 @MAO_KOK_A:157 MAO 0a83b8d3
-
+"{V1407}{W8}...{W3}Summer's{W4} {W60}almost over."
 
 @MAO_KOK_A:158 PLY bad3355d
-
+"Yeah..."
 
 @MAO_KOK_A:159 PLY 54e1f144
-
+"Still, it's surprising..."
 
 @MAO_KOK_A:160 MAO 7cd1c4a2
-
+"{V1408}{W15}Hm?"
 
 @MAO_KOK_A:161 PLY f11284e5
-
+"That you're the type who wants to be pampered, Mao. The fortune-telling taught me that."
 
 @MAO_KOK_A:162 MAO 59ffcff2
-
+"{V1409}{W12}Fufu."
 
 @MAO_KOK_A:163 MAO 7796aa13
-
+"{V1410}{W15}{Br60t120}Girls,{W9} {W63}you{W1} know,{W2} want{W1} to{W1} be{W1} pampered{W1} by{W2} the{W5} person{W1} they{W1} like.{W4}"
 
 @MAO_KOK_A:164 PLY 80decc91
-
+"Mao..."
 
 @MAO_KOK_A:165 PLY 91d50c48
-
+"Mao... there's something I've never been able to say."
 
 @MAO_KOK_A:166 MAO 4bcee899
-
+"{V1411}{W15}{Br0t60}Huh?"
 
 @MAO_KOK_A:167 PLY c5fab476
-
+"...There's someone I like."
 
 @MAO_KOK_A:168 MAO 33632469
-
+"{V1412}I-{W15}is{W1} that{W1} so...{W3} {W63}I see... {W45}{Fe6}I kind{W4} of{W3} thought{W8} so..."
 
 @MAO_KOK_A:169 MAO 176bfb2b
-
+"{V1414}{W15}It'll{W8} be{W5} fine!{W4} {W45}The{W3} {Nn} {W3}of now, {W30}I'm{W1} sure{W1} it'll go well. {W30}{Fe6}Why{W4} not{W27} take{W1} the{W4} plunge{W4} and{W1} confess?"
 
 @MAO_KOK_A:170 PLY 319e02c3
-
+"Is it okay if I confess?"
 
 @MAO_KOK_A:172 MAO db38b280
-
+"{V1415}{W15}Y-{W13}yes.{W10} {W43}Why{W4} are{W3} you{W5} asking{W5} me?{W4} {W43}{Ec}{Fm7}Just...{W4} {W28}confess,{W4} why{W4} don't{W4} you.{W7}{W7}{W1}{W1}"
 
 @MAO_KOK_A:173 PLY 0a6c465d
-
+"Do you think it'll work out?"
 
 @MAO_KOK_A:174 MAO a2257487
-
+"{V1416}{W12}It{W2} will!{W2} {W37}It'll{W2} definitely{W1} work{W1} out!{W1} {W52}{Ec}{W5}{Fe9}{Eo}Because...{W1}{W1}{W1}{W3}{W3}"
 
 @MAO_KOK_A:175 PLY be073235
-
+"Because?"
 
 @MAO_KOK_A:176 MAO ccaea91e
-
+"{V1417}{W15}Because... {W87}I'm{W8} the one{W4} who taught you. {W63}You're{W10} {Fe9}my...{W3} {W99}ideal{W4} person, after{W1} all,{W1} {W42}{Fm6}you{W1} know."
 
 @MAO_KOK_A:177 MAO 89499f26
-
+"{V1418}{W15}It's{W8} lonely{W4} that you'll leave{W1} me,{W1} {W63}{Fm3}but{W4} it{W1} can't{W1} be{W1} helped,{W4} I{W1} guess..."
 
 @MAO_KOK_A:178 PLY 84dc9c63
-
+"Mao, you've got it wrong."
 
 @MAO_KOK_A:179 MAO e3ffb221
-
+"{V1419}{W15}Huh?"
 
 @MAO_KOK_A:180 PLY 7a5a98a0
-
+"Mao... the one I like is you."
 
 @MAO_KOK_A:181 MAO fc333dc5
-
+"{V1420}{W18}{Bt120}Ah..."
 
 @MAO_KOK_A:182 PLY 13af3d32
-
+"Mao, I love you."
 
 @MAO_KOK_A:183 MAO e2949884
-
+"{Nn},{W5} {V1421}{W21}really?{W5}"
 
 @MAO_KOK_A:184 PLY 686681ca
-
+"Really. I love you so much, Mao."
 
 @MAO_KOK_A:185 MAO 54c420bc
-
+"{Nn}... {V1422}{W18}I'm so happy."
 
 @MAO_KOK_A:187 MAO 97840fca
-
+"{V1423}{W15}I like{W8} you{W2} too, {W75}{Nn}. {W48}{Fm3}I've liked you{W4} {W45}ever{W4} since we were little."
 
 @MAO_KOK_A:188 MAO d03f3ea8
-
+"{V1424}{Br0t180}{W15}So...{W2} {W66}when{W2} we{W4} got{W4} to high{W1} school{W1} and{W4} couldn't{W1} talk{W4} well,{W66} {W30}it{W4} was{W1} so hard."
 
 @MAO_KOK_A:189 PLY 2ec367d9
-
+"It was the same for me."
 
 @MAO_KOK_A:190 PLY e7c3586d
-
+"Your whole mood suddenly changed, Mao... I found it hard to talk to you..."
 
 @MAO_KOK_A:191 MAO d9029954
-
+"{V1425}{W6}...{W3}I {W8}was hurt.{W33} {W4}{W4}{W4}{W4}{W48}We got into the same high school,{W1}{W1} {W60}{Eo}but you,{Nn}{W3} {W60}never talked to me."
 
 @MAO_KOK_A:192 MAO 852893b0
-
+"{V1426}{W15}{Nn}{W3}, {W30}I {W10}thought {W1}{W1}{W18}you'd {W3}come {W3}to hate me. {W37}{Fe1}{Eo}That's why,{W4} {W60}I thought,{W1} you didn't talk to me..."
 
 @MAO_KOK_A:193 PLY 3b302c68
-
+"T-that's not true! ...It's just, I thought you wouldn't give me the time of day even if I did..."
 
 @MAO_KOK_A:194 MAO 97f28e6d
-
+"{V1427}{W15}Why?"
 
 @MAO_KOK_A:195 PLY fa2c57a9
-
+"Because you're pretty, Mao, and popular with the boys..."
 
 @MAO_KOK_A:196 MAO fadf004b
-
+"{V1428}{W12}{Br60t120}...{W5}Silly.{W3} {W72}If{W3} the person{W4} you like won't look your{W5} way, {W45}{Ec}it's just sad."
 
 @MAO_KOK_A:197 MAO efd3c216
-
+"{V1429}{W30}{Br100t60}So when {Nn}{W3} asked me to teach {W4}you{W30} how to kiss... {W8}{W90}I was surprised, but {W60}{Ec}I was happy."
 
 @MAO_KOK_A:198 PLY 650a9098
-
+"Mao... sorry. That was an unreasonable request."
 
 @MAO_KOK_A:199 MAO 532f2caf
-
+"{V1430}{W15}No. {W45}It{W4} was fun,{W1} {Nn}.{Br40t60}"
 
 @MAO_KOK_A:200 MAO bb7a129f
-
+"{V1431}{W18}But..."
 
 @MAO_KOK_A:201 PLY 1716f86b
-
+"But?"
 
 @MAO_KOK_A:202 MAO fbe95ea9
-
+"{V1432}{W15}{Br100t90}From{W1} now{W1} on,{W1} {W99}can{W1} I{W8} {W54}lean{W4} on you?"
 
 @MAO_KOK_A:203 PLY 634f9920
-
+"Ah..."
 
 @MAO_KOK_A:204 MAO be9382f3
-
+"{V1433}{W12}Will{W9} you...{W2} {W105}accept{W1} me?"
 
 @MAO_KOK_A:205 PLY b80dc97b
-
+"Of course. I want to accept you, Mao."
 
 @MAO_KOK_A:206 PLY 30fec680
-
+"Mao, I love you!"
 
 @MAO_KOK_A:207 MAO 17f1279d
-
+"{V1434}{W18}I{W9} love{W1} you{W1} too!{W1}{W5}"
 
 @MAO_KOK_A:211 MAO b36378dc
-
+"{V1435}{W15}Fufu, {W90}I{W1} finally{W2} made it...{W20}"
 
 @MAO_KOK_A:212 PLY 36c83142
-
+"Mao...{W20}"
 
 @MAO_KOK_A:214 MAO 0647122a
-
+"{V1436}{W12}Hold{W2} me{W5} {W15}tighter.{W20}{W2}"
 
 @MAO_KOK_A:215 PLY b9a0859f
-
+"Like this?{W20}"
 
 @MAO_KOK_A:216 MAO fcd14969
-
+"{V1437}{W12}Yes.{W2} {W78}Thank{W1} you...{W1} {W108}I{W1} love{W6} you,{W2} {Nn}.{W30}"
 
 @MAO_KOK_A:221 SYS 4a1c3494
-
+{V5009}{c3}...After that, {W30}I{W8} started{W3} studying{W3} like{W3} mad.{W3}
 
 @MAO_KOK_A:222 SYS 30124c26
-
+{V5010}{c3}Since I could, I wanted to go to university, you know?
 
 @MAO_KOK_A:223 SYS afa12f3d
-
+{V5011}{c3}...I had less than four months,
 
 @MAO_KOK_A:224 SYS 294f74a6
-
+{V5012}{c3}but thanks{W3} to{W3} his help, {W45}I passed{W15} a{W3} top-tier{W3} university{W8} {W30}safely.
 
 @MAO_KOK_A:225 SYS 2eec731d
-
+{V5013}{c3}It felt like I'd{W2} paid{W2} back{W2} the{W2} debt{W2} of{W2} failing my{W4} high school{W3} entrance{W5} exams.
 
 @MAO_KOK_A:226 SYS 1cfe293c
-
+{V5014}{c3}...High{W2} school{W2} and{W2} university{W2} {W30}separated{W3} us{W8} {W15}again,
 
 @MAO_KOK_A:227 SYS d76b3a4c
-
+{V5015}{c3}but{W3} we{W3} live{W3} nearby, {W45}and with love {W30}it's no longer hard.
 
 @MAO_KOK_A:228 SYS cd561f70
-
+{V5016}{c3}Today too, {W45}we're meeting{W3} at{W3} the{W3} Kibina{W3} High School gate.
 
 @MAO_KOK_A:230 SYS c2ee7c37
-
+{V5017}{c3}"You know, {W45}people often tell me {W30}I've gotten prettier lately. {W36}It's your fault."
 
 @MAO_KOK_A:231 SYS 3a7e4654
-
+{V5018}{c3}"Fufu, {W60}when a girl falls{W8} in love, {W21}she gets prettier."
 
 @MAO_KOK_A:232 SYS bc46baad
-
+{V5019}{c3}"You'd{W3} better{W3} take responsibility."

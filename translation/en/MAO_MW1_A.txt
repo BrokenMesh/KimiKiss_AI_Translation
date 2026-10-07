@@ -2,2413 +2,2413 @@
 # Format: docs/translation-format.md
 
 @MAO_MW1_A:43 PLY e1e27e1e
-
+"Summer vacation is over, and it's still this hot."
 
 @MAO_MW1_A:47 MAO 4693e165
-
+"{V1569}{W5}Tell{W8} me about it.{W15} It's so{W5} annoying,{W3} isn't it~"
 
 @MAO_MW1_A:48 MAO 9870a163
-
+"{V1570}{W30}But,{W15} it's kind of{W5} sad{W3} for summer to end too,{W18} so{Ec} I'll{W3} just{W8} bear it."
 
 @MAO_MW1_A:49 PLY 5f3c9b3b
-
+"Is there somewhere you often go at school?"
 
 @MAO_MW1_A:50 MAO 20a752e0
-
+"{V1571}{W5}I'm often{W5} on the{W5} Terrace at lunch break."
 
 @MAO_MW1_A:51 PLY ebf6ea3b
-
+"What do you think is good about our school?"
 
 @MAO_MW1_A:52 MAO 844b439a
-
+"{V1572}{W5}It's close{W10} to home{W5}. {F3}{W70}It's easy for {Nn} too,{W5} right?"
 
 @MAO_MW1_A:53 PLY 84990e1d
-
+"Mao, what do you do after school?"
 
 @MAO_MW1_A:54 MAO 56c96ad8
-
+"{V1574}{W5}After{W3} school?{W60} I just{W3} wander{W3} around{W5}.{W28} I read{W3} magazines{W2} on{W2} the Terrace,{W30} or{W3} stay{W3} in class{W3}."
 
 @MAO_MW1_A:55 PLY 42b46f26
-
+"Mao, what's your hobby?"
 
 @MAO_MW1_A:56 MAO 95fb50e0
-
+"{V1575}{W5}My{W5} hobby?{W60} Hmm{W15}...{W45} Shopping,{W3} I guess.{F3}"
 
 @MAO_MW1_A:57 PLY 65f27711
-
+"Shopping is your hobby? Sounds expensive."
 
 @MAO_MW1_A:58 MAO c5d44668
-
+"{V1576}Mostly{W3} window shopping{W5} or just browsing{W5} online."
 
 @MAO_MW1_A:59 MAO d4e5218f
-
+"{V1577}{W10}If there's something{W5} I really want{W3}, {W30}I save up my allowance{Fe3} and buy it.{Fm3}"
 
 @MAO_MW1_A:60 PLY d4ebc67d
-
+"You seem sensitive to trends, Mao."
 
 @MAO_MW1_A:62 MAO 3053cbfd
-
+"{V1578}{W15}I guess so.{Ec}"
 
 @MAO_MW1_A:63 MAO 17ff1f51
-
+"{V1579}{W10}I read{W3} those{W3} magazines{W3} a lot,{W30} so I{W5} know{W3} a fair bit."
 
 @MAO_MW1_A:65 MAO 0131f16d
-
+"{V1580}{W5}Ask me anything.{W15} I'll teach{W5} you."
 
 @MAO_MW1_A:66 MAO f796369b
-
+"{V1581}{W15}Classes{W5} are{W3} boring,{W10} aren't{W8} they~"
 
 @MAO_MW1_A:67 PLY 851b6dc4
-
+"Yeah."
 
 @MAO_MW1_A:68 MAO 9740691a
-
+"{V1582}{w}{1}{0}Ahh,{W10} {W20}isn't{W8} there anything{W3} fun{W3} going on{W3}..."
 
 @MAO_MW1_A:69 PLY 581ae527
-
+"Since the second term started, more Year 3 students are studying in the Library."
 
 @MAO_MW1_A:70 MAO 0e24098c
-
+"{V1583}{W20}So{W10}{W2} what{W8} of it..."
 
 @MAO_MW1_A:71 PLY ce8d05bc
-
+"N-no, I just noticed there were more..."
 
 @MAO_MW1_A:72 MAO 084f0a21
-
+"{V1584}{Ec}{W10}Don't{W2} say{W3} boring{W2} things."
 
 @MAO_MW1_A:73 MAO 170e892a
-
+"{V1585}{W10}The{W3} Science Lab{W5} is so{W10} gloomy and{W3} dreary,{W13} I don't like it~"
 
 @MAO_MW1_A:74 PLY 1b758669
-
+"Haha, true."
 
 @MAO_MW1_A:75 MAO f1feaa33
-
+"{V1586}{W5}Maybe{W10} I'll skip{W3} the next class,{W30} hmm~"
 
 @MAO_MW1_A:76 MAO f7fe7d07
-
+"{V1587}{W10}It's{W5} nice{W5} out{W5} today,{W30} and Mount Kibina{W3} is so clear~"
 
 @MAO_MW1_A:78 MAO 5f544ddd
-
+"{V1588}{W5}It's{W3} still{W3} very{W3} much{W3} summer{W8} out there,{W3} you know."
 
 @MAO_MW1_A:79 PLY 0677d834
-
+"Mao, what were you doing on the Terrace?"
 
 @MAO_MW1_A:80 MAO de7e2a02
-
+"{V1589}{W10}Just{W8} relaxing{W5} after{W3} eating."
 
 @MAO_MW1_A:81 MAO ce2c139a
-
+"{V1590}{W5}You{W10} have to be careful here{W3}, you know~"
 
 @MAO_MW1_A:82 PLY d9372ba1
-
+"Why?"
 
 @MAO_MW1_A:83 MAO 3786d217
-
+"{V1591}{W5}Sometimes,{W5} a gust{W8} of wind blows."
 
 @MAO_MW1_A:84 PLY 4cbddfda
-
+"Mao, have you had lunch yet?"
 
 @MAO_MW1_A:85 MAO 97b8af1d
-
+"{V1592}I have."
 
 @MAO_MW1_A:86 PLY 3641295c
-
+"What did you eat?"
 
 @MAO_MW1_A:87 MAO 5f784ae1
-
+"{V1593}{W15}The daily special,{W15} {Ec}with a small{W8} rice."
 
 @MAO_MW1_A:88 PLY f2db54f9
-
+"A small portion? Aren't you hungry?"
 
 @MAO_MW1_A:89 MAO 1aa9af40
-
+"{V1594}{W10}I'm on a diet,{W10} a diet."
 
 @MAO_MW1_A:90 PLY 37ced61a
-
+"Mao, what were you doing behind the school?"
 
 @MAO_MW1_A:91 MAO 62afaaa9
-
+"{V1595}{W5}Nothing.{W40} I was just{W10} zoning{W8} out{W3}."
 
 @MAO_MW1_A:92 MAO 16834ee8
-
+"{V1596}{W5}It's quiet{W3} here.{W45} Good when I want to be{W3} alone."
 
 @MAO_MW1_A:93 PLY 51cb8b68
-
+"Our school is..."
 
 @MAO_MW1_A:94 MAO 0d80b9d5
-
+"......"
 
 @MAO_MW1_A:95 MAO e1f80ca8
-
+"{V1598}{W20}I guess.{W45} Isn't that how it is?"
 
 @MAO_MW1_A:96 PLY 1027f4cf
-
+"Mao, have you never thought of joining a club?"
 
 @MAO_MW1_A:97 MAO 68d62c81
-
+"{V1599}{W10}Never."
 
 @MAO_MW1_A:98 MAO d192d487
-
+"{V1600}{W5}Having{W10} my after-school{W18} precious{W5} time{W3} taken{W3} by{W45} club{W5} activities{W3}?{W8} No way."
 
 @MAO_MW1_A:99 PLY ed55698a
-
+"The sight of people working hard at club activities..."
 
 @MAO_MW1_A:100 MAO 2b0979c3
-
+"{V1602}That's{W3} rich{W3} coming from a{W3} go-home club member{W51} like {Nn}...{Sd}"
 
 @MAO_MW1_A:101 PLY b2ecf847
-
+"Ugh..."
 
 @MAO_MW1_A:102 PLY b4928708
-
+"Mao, do you like our uniform?"
 
 @MAO_MW1_A:104 MAO 97a09033
-
+"{V1603}{W10}Let's see.{W45} {Ec}It's not bad, is it? {W5}It's cute.{Eo}"
 
 @MAO_MW1_A:105 PLY e2c0a622
-
+"Mao, the uniform suits you."
 
 @MAO_MW1_A:107 MAO dc3dc149
-
+"{V1604}{W10}Really?{W30} Thanks."
 
 @MAO_MW1_A:109 MAO 0fcd8f23
-
+"{V1605}Phew,{W30} it's so{W8} muggy~"
 
 @MAO_MW1_A:110 MAO 28c14919
-
+"{V1606}{W5}Maybe I'll fan myself off a bit{W3}..."
 
 @MAO_MW1_A:111 PLY 762f2725
-
+"What?! Right here?!"
 
 @MAO_MW1_A:113 MAO 0c00f08a
-
+"{V1607}{W5}Yes."
 
 @MAO_MW1_A:114 PLY 3f77600c
-
+"W-wait... I wouldn't know where to look... I mean..."
 
 @MAO_MW1_A:115 MAO adf8bead
-
+"{V1608}{W5}Hehe,{W45} {F3}{Eo}just{W8} kidding.{W30} {Fe2}Look how red you got,{W15} so cute~"
 
 @MAO_MW1_A:116 PLY 941dc2af
-
+"Mao, you in your uniform..."
 
 @MAO_MW1_A:117 MAO 28cf9b90
-
+"{V1610}{W10}Think so?{W60} Thanks."
 
 @MAO_MW1_A:118 PLY 82728062
-
+"Mao, have you ever been on a committee?"
 
 @MAO_MW1_A:119 MAO ba1a8175
-
+"{V1611}{W5}In my{W5} first{W5} year,{W8} first{W5} term,{W8} I{W5} was class rep."
 
 @MAO_MW1_A:120 PLY 0e0718bd
-
+"What?! Really?"
 
 @MAO_MW1_A:122 MAO da20ee06
-
+"{V1612}{W10}See,{W15} in{W5} Year{W5} 1{W8} teachers{W20} pick{W5} reps{W3} by{W3} exam{W3} scores,{W5} right?{W15}{W3}{W3}{W3}{W50} I{W5} aced{W20} the{W2} Kibina{W2} High{W2} exam{W8}{W8}{W3}{W3},{W6} so."
 
 @MAO_MW1_A:123 PLY 67919fb4
-
+"R-right."
 
 @MAO_MW1_A:124 MAO dd764bdd
-
+"{V1613}...{W15}It was{W5} a nightmare.{W45} Saying 'Stand up,{W30} bow,'{W30} and so on{W30} every{W3} time{W5} class{W2} began..."
 
 @MAO_MW1_A:125 MAO c4c352a3
-
+"{V1614}{Ec}{W8}Never{W8} again,{W3} no thanks{W3}."
 
 @MAO_MW1_A:126 PLY b83452d6
-
+"Committee work is..."
 
 @MAO_MW1_A:127 MAO f7a36e34
-
+"{V1616}{W15}Geez!{W45} Tell me{W5} something{W5} more fun{W8}."
 
 @MAO_MW1_A:128 PLY 93cc2287
-
+"Mao, do you follow the school rules?"
 
 @MAO_MW1_A:129 MAO 4b7f2360
-
+"{V1617}...{W30}{F9}Why{W8} are you asking{W30} me{W15} that{W3}?"
 
 @MAO_MW1_A:130 PLY 5a1a4f9b
-
+"N-no, I just wondered..."
 
 @MAO_MW1_A:131 MAO 6822b193
-
+"{V1618}{W10}Do I{W8} look like I do?"
 
 @MAO_MW1_A:132 PLY b73436e5
-
+"...No."
 
 @MAO_MW1_A:133 MAO 660d56f5
-
+"{V1619}Then{W8} don't ask me that."
 
 @MAO_MW1_A:134 PLY e9bed0d1
-
+"School rules are, for life in a group..."
 
 @MAO_MW1_A:135 MAO 98bc0c64
-
+"......{Sd}"
 
 @MAO_MW1_A:136 MAO 0d1e541e
-
+"{V1621}{W10}Geez,{W8} {W56}save{W5} the{W5} lectures{W8} for{W10} somewhere{W10} else,{W3} okay?"
 
 @MAO_MW1_A:137 PLY f0f00fde
-
+"Ms. Kawada is your homeroom teacher, right, Mao?"
 
 @MAO_MW1_A:138 MAO 4226f2e5
-
+"{V1622}{W5}That's right."
 
 @MAO_MW1_A:139 PLY feebb018
-
+"What's she like in class?"
 
 @MAO_MW1_A:140 MAO 5cd276fc
-
+"{V1623}{W5}Like{W8} a friend{W3} you can{W5} talk{W3} to{W8} about anything.{W25} In a good way."
 
 @MAO_MW1_A:141 PLY 54df160a
-
+"Are you and Ms. Kawada close, Mao?"
 
 @MAO_MW1_A:142 MAO 9ba223c9
-
+"{V1624}{W5}We're{W8} close.{W25} Why?"
 
 @MAO_MW1_A:143 PLY cc4df2a5
-
+"Well, she invited you to lunch..."
 
 @MAO_MW1_A:144 MAO 4fd4f0ef
-
+"{V1625}{W5}Oh,{W13} Tomo...{W30} I mean,{W18} Ms.{W3} Kawada{W3} and I{W3} just{W3} click{W3} about{W8} a lot of things."
 
 @MAO_MW1_A:145 MAO 381ca605
-
+"{V1626}{W5}Taste in clothes{W3},{W30} being bad{W5} at mornings.{W38}{Fe2m3}{Ec} Our ages{W5} aren't that{W5} far{W5} apart, either."
 
 @MAO_MW1_A:146 PLY 387acda0
-
+"About Ms. Kawada, I think..."
 
 @MAO_MW1_A:147 MAO 8dc44c21
-
+"{V1628}{W10}Yeah,{W30} she's a good{W5} teacher{W5}."
 
 @MAO_MW1_A:148 PLY 8d9f9c22
-
+"If you had to transfer, what would you do?"
 
 @MAO_MW1_A:149 MAO 24469b00
-
+"{V1629}{W5}Huh?{W60} Why?"
 
 @MAO_MW1_A:150 PLY 1e87a8af
-
+"You know, because of a parent's job or something."
 
 @MAO_MW1_A:152 MAO f305480a
-
+"{V1630}{W5}I{W5} wouldn't{W5} transfer.{W30} I'd stay at {Nn}'s{W5} house{W3} as a boarder{W8} and{W20} go to Kibina{W5} High{W5} School{W3}."
 
 @MAO_MW1_A:153 PLY fa4aecbd
-
+"What?!"
 
 @MAO_MW1_A:154 MAO 723a2e2f
-
+"{V1631}{W5}Oh,{W30} that's a good idea!{W30}{Ec} Nana's there too,{W15} so it'd be fun."
 
 @MAO_MW1_A:155 PLY c1c212da
-
+"If you had to transfer..."
 
 @MAO_MW1_A:157 MAO 2463f417
-
+"{V1633}{W5}Hehe,{W3}{W5}{W3}{W45} there's{W10} no{W5} use{W3} thinking{W8} about{W3} things{W3} that{W20} won't happen, is there?"
 
 @MAO_MW1_A:158 PLY a3ea46de
-
+"Mao, do you study at home?"
 
 @MAO_MW1_A:159 MAO 842c8a36
-
+"{V1634}{W8}I don't."
 
 @MAO_MW1_A:161 MAO 30f66055
-
+"{V1635}{W5}I{W5} haven't{W5} studied{W30} since{W3} middle{W3} school{W3}."
 
 @MAO_MW1_A:162 MAO 6b5f2047
-
+"{V1636}{W8}I{W8} have{W5} a study allergy,{W3} so{W20} it can't be helped."
 
 @MAO_MW1_A:163 PLY cce9c935
-
+"Daily studying is..."
 
 @MAO_MW1_A:164 MAO 70a99273
-
+"{V1638}{W15}Geez{W15}!{W15} Let's drop{W8} that{W5} topic{W3},{W40} {Fe9m6}and talk about{W10} something{W5} more fun{W8}?"
 
 @MAO_MW1_A:165 PLY 2643d82d
-
+"Mao, how are your grades?"
 
 @MAO_MW1_A:166 MAO d581b3f2
-
+"{V1639}{W8}They're{W5} bad."
 
 @MAO_MW1_A:167 MAO afc3b91f
-
+"{V1640}{W3}Don't ask{W2} boring questions,{W30} geez{W5}.{Sd}"
 
 @MAO_MW1_A:168 PLY 6ebdd3d4
-
+"I mean, it's not like good grades are a bad thing..."
 
 @MAO_MW1_A:169 MAO b9337d23
-
+"{V1641}{W5}Yeah,{W10} yeah.{W8}{W10}{W15} I've had{W2} plenty of lectures{W3}."
 
 @MAO_MW1_A:170 PLY 6caf5369
-
+"Mao, you're taking entrance exams this year, right?"
 
 @MAO_MW1_A:171 MAO 8952e739
-
+"{V1642}{W8}Yep{W10}, that's{W8} right."
 
 @MAO_MW1_A:173 MAO 5c2239f9
-
+"{V1643}{W5}Sigh...{W25} Thinking{W3} about it{W5} makes me{W45} so gloomy{W8}{W3}..."
 
 @MAO_MW1_A:174 PLY 6194eadb
-
+"Speaking of entrance exams..."
 
 @MAO_MW1_A:175 MAO b0700622
-
+"{V1645}{W5}Sigh...{W5}{W75} I wish entrance{W3} exams{W3} would just vanish from the world..."
 
 @MAO_MW1_A:176 PLY f3d39551
-
+"Mao, do you know Italian?"
 
 @MAO_MW1_A:177 MAO 300ab03b
-
+"{V1646}{W8}Italian?{W30} Sure, I know it."
 
 @MAO_MW1_A:178 MAO 28805736
-
+"{V1647}{W5}Gucci,{W30} Prada,{W30} Ferragamo..."
 
 @MAO_MW1_A:179 PLY 3bd5d78c
-
+"Right, Italy has lots of famous brands, doesn't it?"
 
 @MAO_MW1_A:180 MAO 82fd9fac
-
+"{V1648}{W8}That's right~.{W40} {W5}When I start working,{W15} I'd like to buy{W5} at least one bag{W8}~"
 
 @MAO_MW1_A:181 PLY 47dcf14d
-
+"Italian is..."
 
 @MAO_MW1_A:182 MAO 82a61284
-
+"{V1650}{W5}What's wrong?{W20} Making such a serious face..."
 
 @MAO_MW1_A:183 MAO 28e22582
-
+"{V1651}{W5}Fufu,{W5}{W45} I haven't seen a face like that{W25} in ages.{Fe2}{Ec}"
 
 @MAO_MW1_A:184 MAO 7c9d060d
-
+"{V1652}{W10}P.E.{W10} under{W10} the blazing{W2} sun{W5} on the{W3} Schoolyard{W3} is{W3} the{W42} very{W5} worst{W3}, right~"
 
 @MAO_MW1_A:185 PLY 8cd62d07
-
+"You get drenched in sweat."
 
 @MAO_MW1_A:186 MAO 04965fdb
-
+"{V1653}{W8}That too,{W3} sure,{W25}{Ec} but what{W3} bugs me most{W3} is{W30} sunburn,{W3}{W3}{W3} {W15}sunburn!{W3}{W3}"
 
 @MAO_MW1_A:187 MAO 88e8ce59
-
+"{V1654}{W8}Even with sunscreen I get burned,{W30} I{W5} have sensitive{W8} skin{W5}, you know~{Sd}"
 
 @MAO_MW1_A:188 PLY fcf12fd3
-
+"Mao, you had P.E., huh."
 
 @MAO_MW1_A:189 MAO d8d1ce6a
-
+"{V1655}{W8}That's right.{Eo}"
 
 @MAO_MW1_A:190 PLY f101444b
-
+"What did you do?"
 
 @MAO_MW1_A:191 MAO 0ee0db3f
-
+"{V1656}{W10}Volleyball{W3}.{W3}{W60}{Fe3m4} ...Well,{W15} we{W5} just{W5} played a casual{W3} match."
 
 @MAO_MW1_A:192 MAO 6d772ed3
-
+"{V1657}{W5}Study{W5} comes{W5} first,{W3} you know,{W30} so{W5} Year 3{W3} P.E.{W3} is{W12} basically{W2} a change of pace."
 
 @MAO_MW1_A:193 MAO 5514e4df
-
+"{V1658}{W5}It's{W5} exams{W3} everywhere{W3} you{W5} look,{W20} exams{W5} on{W3} exams,{W15} so annoying~{Sd}"
 
 @MAO_MW1_A:194 MAO a47f8fb0
-
+"{V1659}{W8}That's right."
 
 @MAO_MW1_A:195 MAO 9d1f824d
-
+"{V1660}{W8}The usual{W5}, stretching,{W30} {W20}{Fe9}light jogging.{W33}{F6}{Ec} A break from{W5} studying, basically."
 
 @MAO_MW1_A:196 PLY 9c8e9021
-
+"I see... sounds boring."
 
 @MAO_MW1_A:197 MAO 09790067
-
+"{V1661}{W5}Yep.{W40} {Ec}So{W8} boring{W5}, so{W8} boring{W5}...{W60} Every{W5} other{W3} word{W3} is exams,{W8} exams{W3}...{W5}{W15} so annoying~{Sd}"
 
 @MAO_MW1_A:198 PLY 169c5d36
-
+"We got made to do this in P.E. the other day..."
 
 @MAO_MW1_A:199 MAO d1f0fb21
-
+"{V1663}{W10}Eww{W15}...{W8} {W33}They made you do that?{W45} It's{W5} just{W3} like{W5} torture{W8}, {W5}really.{Sd}"
 
 @MAO_MW1_A:200 PLY ebdfe47a
-
+"Mao, are you good at swimming?"
 
 @MAO_MW1_A:201 MAO 0953c62d
-
+"{V1664}{W5}Hmm,{W8}{W45} I'm not{W5} bad at it,{W3}{W30} {Fe1}but{W3} there's one{W3} problem..."
 
 @MAO_MW1_A:202 PLY 3150f24e
-
+"What?"
 
 @MAO_MW1_A:203 MAO fc300b79
-
+"{V1665}{W5}I take out my contacts,{W30} so I can't{W3} see in front of me.{Sd}"
 
 @MAO_MW1_A:204 MAO b404a5d7
-
+"{V1666}{W8}So I can't swim{W5} straight,{W45} and{W8} I keep cutting into the next lane."
 
 @MAO_MW1_A:205 PLY 59b464a8
-
+"Hahaha."
 
 @MAO_MW1_A:206 MAO bf5dc9c1
-
+"{V1667}{W8}At the pool, just{W5} splashing{W5} around{W3} is the{W5} best."
 
 @MAO_MW1_A:207 PLY 683d56b7
-
+"Mao, did you go swimming anywhere over summer vacation?"
 
 @MAO_MW1_A:208 MAO d9b95816
-
+"{V1668}{W8}Of course{W8} I went.{W25} {Ec}It was{W3} so much fun~!"
 
 @MAO_MW1_A:209 PLY 193a5d7b
-
+"Oh. ...Who did you go with?"
 
 @MAO_MW1_A:210 MAO 258dd33c
-
+"{V1669}{W5}With{W3} everyone from class."
 
 @MAO_MW1_A:211 PLY 29ef768b
-
+"...Everyone from class... huh."
 
 @MAO_MW1_A:213 MAO 1511e347
-
+"{V1670}{W10}Does{W3} that{W3} bother{W3} you?"
 
 @MAO_MW1_A:214 PLY 97a57175
-
+"W-well, yeah."
 
 @MAO_MW1_A:215 MAO fde26de1
-
+"{V1671}{W8}We{W5} graduate{W5} next{W5} year,{W20} so{W5} we all got together{W8} and went to the pool{W3} -- that's{W3} all."
 
 @MAO_MW1_A:216 PLY 147fbfd3
-
+"If we're talking swimming, then..."
 
 @MAO_MW1_A:217 MAO 9cec37ff
-
+"{V1673}{W8}Right,{W8} right{W3}.{W25} Splashing around{W3} is the best.{W8} {Ec}Splashing around."
 
 @MAO_MW1_A:218 PLY 255a2ca0
-
+"Mao, what's your favorite sport?"
 
 @MAO_MW1_A:219 MAO 97d27490
-
+"{V1674}{W5}Snowboarding!{W15} {F9}{Eo}...Or{W5} I{W5} guess,{W30} wrong{W5} season."
 
 @MAO_MW1_A:220 MAO 5b04f12e
-
+"{V1675}{W5}Snowy{W5} mountains{W5} have{W30} a magic{W3} that makes{W3} a girl look{W3} three times{W3} cuter.{W3}"
 
 @MAO_MW1_A:221 PLY bdf98cab
-
+"What do you think of guys who are good at sports?"
 
 @MAO_MW1_A:222 MAO f28fb4a9
-
+"{V1676}{W8}They're{W3} cool."
 
 @MAO_MW1_A:223 PLY d905bbbf
-
+"I see."
 
 @MAO_MW1_A:224 MAO 005d8d60
-
+"{V1677}{W5}Not just sports;{W3}{W3}{W15} anyone who's{W5} devoted to something{W15} looks cool."
 
 @MAO_MW1_A:225 PLY adb67b87
-
+"About sports, I think..."
 
 @MAO_MW1_A:226 MAO fd1eed81
-
+"{V1679}{W8}Right.{W5}{W3}{W30} It's not too late{W5} to start now,{W30} so why not{W5} take up something,{W3} {Nn}?{W20} It'd{W5} look{W5} cool."
 
 @MAO_MW1_A:227 PLY fab2bef6
-
+"Mao, can you dance?"
 
 @MAO_MW1_A:228 MAO e940db6f
-
+"{V1680}{W8}Dance?{W30}{W2} Like at a club?"
 
 @MAO_MW1_A:229 PLY 587ea6f2
-
+"Huh? A club?! Have you been to one?"
 
 @MAO_MW1_A:230 MAO 1f446c68
-
+"{V1681}{W15}...Ah,{W45} ahaha,{W2}{W2}{W30} no,{W3} I haven't,{W8} no{W15}pe.{W30} {Fe2}{Ec}Of course I haven't{W10}!{Sd}"
 
 @MAO_MW1_A:231 PLY a61cef2f
-
+"Y-yeah, you're right."
 
 @MAO_MW1_A:232 MAO eb03d929
-
+"{V1682}{W15}That's{W3} right{W3}.{W30} I wouldn't{W30} go somewhere{W5} that dangerous.{W30} {W30}If the school{W5} found out{W5} I'd be suspended,{W30} right{W8}?"
 
 @MAO_MW1_A:233 PLY 53168c0f
-
+(Suspicious...)
 
 @MAO_MW1_A:234 PLY 5cae7932
-
+"If a high schooler hangs around clubs..."
 
 @MAO_MW1_A:235 MAO 0fe34557
-
+"{V1684}{W8}I-{W45}I know{W8}{W5} that,{W3}{W3} okay?{W20} I only{W5} took a peek once.{W15}{W30} It was{W3} boring,{W5} so I'm not going back."
 
 @MAO_MW1_A:236 PLY 2f283abd
-
+"Mao, what kind of music do you usually listen to?"
 
 @MAO_MW1_A:237 MAO 09184cd4
-
+"{V1685}{W5}I{W2} listen{W2} to{W5} almost{W12} all the hit songs."
 
 @MAO_MW1_A:238 MAO 639be226
-
+"{V1686}{W5}If you hear{W5} a song in town{W3} you don't know,{W5}{W20} {Eo}ask{W3} me.{W5} I probably know it."
 
 @MAO_MW1_A:239 PLY 6119476e
-
+"Mao, what do you use to listen to music?"
 
 @MAO_MW1_A:240 MAO d7d8a38a
-
+"{V1687}{W5}A mini{W5} stereo{W5} with an{W3} MD player."
 
 @MAO_MW1_A:241 PLY 7f5838eb
-
+"Wow, you have a mini stereo?"
 
 @MAO_MW1_A:242 MAO 83e3906a
-
+"{V1688}{W5}I got it{W5} when I started{W3} junior high.{W3}{W3}{W5} {W20}It's red{W3} and cute,{W15} so it works as decor{W3} too.{Ec}"
 
 @MAO_MW1_A:243 PLY 70601937
-
+"About the music that's popular lately..."
 
 @MAO_MW1_A:244 MAO 112cb494
-
+"{V1690}{W5}Oh{W8} yeah,{W5} that{W3} one's popular,{W15} isn't it~"
 
 @MAO_MW1_A:245 PLY 2e88f2c4
-
+"Mao, what TV shows do you watch a lot?"
 
 @MAO_MW1_A:246 MAO d19e2e5f
-
+"{V1691}{W5}It depends{W3} on the day{W3}."
 
 @MAO_MW1_A:247 MAO 997bdab8
-
+"{V1692}{W5}Mondays{W3} are{W2} dramas,{W30} Tuesdays{W3} are{W3} quizzes,{W30} and Wednesdays{W3} are{W3} variety{W3} shows."
 
 @MAO_MW1_A:248 PLY 4fd2a525
-
+"Is there a show you never miss every week?"
 
 @MAO_MW1_A:250 MAO a2f29139
-
+"{V1693}{W10}Let's{W8} see{W5}...{W30} {F1}If I watch{W3} the first{W8} episode{W8} of a drama,{W8}{W28} and it's fun, I never miss it."
 
 @MAO_MW1_A:251 PLY f66fd4c4
-
+"Mao, is there a TV in your room?"
 
 @MAO_MW1_A:252 MAO f6ab6001
-
+"{V1694}{W5}Yes.{W30} A{W5} thin,{W5} little{W3} LCD{W5} one."
 
 @MAO_MW1_A:253 PLY b466a81c
-
+"An LCD, huh? Nice."
 
 @MAO_MW1_A:254 MAO b3e3e8fe
-
+"{V1695}{W5}Fufu,{W5}{W3}{W15} nice, huh?"
 
 @MAO_MW1_A:255 PLY 2c2614b6
-
+"It was on TV yesterday..."
 
 @MAO_MW1_A:256 MAO 8266db73
-
+"{V1697}{W5}Oh,{W30} I{W6} saw it too.{W30} It was{W2} pretty{W2} funny."
 
 @MAO_MW1_A:257 PLY 5a2a59a8
-
+"Have you read any books lately?"
 
 @MAO_MW1_A:258 MAO 32ebd1e1
-
+"{V1698}{W5}Not{W5} at all."
 
 @MAO_MW1_A:259 MAO 9219e4b6
-
+"{V1699}{W5}I read{W8} magazines{W30} a lot, though."
 
 @MAO_MW1_A:260 PLY 9b56d462
-
+"What did you write for your summer vacation book report?"
 
 @MAO_MW1_A:261 MAO 0d1a14b6
-
+"{V1700}{W8}Third-years{W3}{W3} don't have{W2} that.{W28} It's{W3} exam{W3} year."
 
 @MAO_MW1_A:262 MAO 3625b62f
-
+"{V1701}{W5}{W1}{W1}{W1}{W15}{W5}{W5}{W5}{W5}{W5}{W2}{W2}{W2}{W2}{W3}{W2}{W2}{W2}{W2}{W1}{W1}{W1}{W1}Anyway, stop telling me to read the front-page column. It's annoying.{W40} Apparently it's on exams a lot."
 
 @MAO_MW1_A:263 MAO 5ab78fb4
-
+"{V1702}{W5}Geez,{W5}{W45}... {W8}I{W1} can't{W1} read{W1} stuff{W1} like{W1} that{W1} first{W1} thing{W1} in{W1} the{W1} morning{W1}{W1}{W1}{W1}{W1}.{W30} I'm not an old man..."
 
 @MAO_MW1_A:264 PLY 0a37a823
-
+"Reading..."
 
 @MAO_MW1_A:265 MAO 6be7c70e
-
+"{V1703}{W15}Hmph..."
 
 @MAO_MW1_A:266 MAO 5a6956bb
-
+"{V1704}{W5}Don't you have{W5} any more{W15} fun{W3} topics?{W5}{W60} Reading{W3} is so{W3} stiff{W3} and dull{W5}..."
 
 @MAO_MW1_A:267 PLY 30606e3e
-
+"Mao, how much allowance do you get a month?"
 
 @MAO_MW1_A:268 MAO de510314
-
+"{V1705}{W8}Three{W5} thousand{W5} yen.{W5}{W30} That's{W5} 100 yen{W8} a day{W3}{W5}."
 
 @MAO_MW1_A:269 PLY 6ecc1926
-
+"Then you can't waste money."
 
 @MAO_MW1_A:270 MAO a349bb08
-
+"{V1706}{W8}I{W5} guess{W3} so."
 
 @MAO_MW1_A:271 MAO 64fdd6c8
-
+"{V1707}{W5}But{W30} Papa{W5} often buys{W5} me clothes, so I'm fine."
 
 @MAO_MW1_A:272 PLY 404a09ac
-
+"P-Papa?!"
 
 @MAO_MW1_A:273 MAO 5450626d
-
+"{V1708}{W5}Yes.{W33} He likes{W8} seeing his daughter dress up.{W25} {Fe9m3}Such{W5} a{W3} doting{W3} dad,{W3} right{W3}~"
 
 @MAO_MW1_A:274 PLY 058d7a86
-
+"Oh, right. A real papa..."
 
 @MAO_MW1_A:276 MAO 2c21ff50
-
+"{V1709}{W8}Real{W15}{W5}{W40}...{W35} {F5}{Nn}!{W30} What{W8} are you{W5} imagining{W5}?!{W50} Of course it's not{W8}!"
 
 @MAO_MW1_A:277 PLY bb59555c
-
+"S-sorry, sorry."
 
 @MAO_MW1_A:278 MAO 43b03d37
-
+"{Nn}, {V1710}{W8}{W8}{W5}{W3}listen to me~. {W30}The other day,{W5}{W5} I dropped my favorite music box{W8} and it got scratched where it shows~"
 
 @MAO_MW1_A:279 PLY 41da6a90
-
+"That's rough..."
 
 @MAO_MW1_A:280 MAO b083888a
-
+"{V1711}{W5}Aww,{W60} I saved up{W5} for it...{W50} {F6}{Eo}The fun{W8}{W15} is imagining{W3} things{W3} before you buy{W5} them~"
 
 @MAO_MW1_A:281 MAO d0c5756a
-
+"{V1712}{W5}After you buy it,{W15} it gets scratched{W5} or{W5} broken{W5},{W30} and{W5} there's{W5} more sad{W3} stuff..."
 
 @MAO_MW1_A:282 MAO 0ec21df0
-
+"{V1713}{W15}Even so,{W30} it's still{W3} something{W3} precious{W3} to me,{W15} you know."
 
 @MAO_MW1_A:283 PLY 6e3ec018
-
+"When you're shopping..."
 
 @MAO_MW1_A:284 MAO 4aedd410
-
+"{V1715}{W8}Right,{W3} right{W3}.{W3}{W3}{W30} Buying{W5} things you like is{W5} fun~. {Eo}It's good{W15} for{W3} relieving{W3} stress, too."
 
 @MAO_MW1_A:285 PLY 5ec8b5f2
-
+"Mao, about how many clothes do you have?"
 
 @MAO_MW1_A:286 MAO 16c4fd95
-
+"{V1716}{W8}What?!{W60} I've never{W15} counted{W5} them{W3}{W2}{W2}."
 
 @MAO_MW1_A:287 MAO 3fb75dc8
-
+"{V1717}{W10}Summer{W8} clothes{W8} alone{W3}{W2}{W2},{W57} would fill{W3} a{W3} whole closet."
 
 @MAO_MW1_A:288 PLY c602c3f2
-
+"Huh? That many?"
 
 @MAO_MW1_A:289 MAO 2216fb00
-
+"{V1718}{W5}Every bonus,{W15} Papa{W8} takes me{W5} shopping for clothes.{W30} {Sp}Mama{W13} gets mad and says it's favoritism."
 
 @MAO_MW1_A:290 PLY 7c678eb7
-
+"Hahaha, he's happy you've gotten so pretty."
 
 @MAO_MW1_A:291 MAO 1dd79438
-
+"{V1719}{W5}More like,{W50} he enjoys{W8} watching his daughter{W5} grow{W5} up,{W3} doesn't he?{W30} His eyes{W3} just droop the whole time."
 
 @MAO_MW1_A:292 PLY ac7331a6
-
+"Mao, do you prefer skirts or pants?"
 
 @MAO_MW1_A:293 MAO 6cee7ca7
-
+"{V1720}{W5}Skirts.{W15} Really{W8} short{W8} ones."
 
 @MAO_MW1_A:294 PLY ca8a6fa3
-
+"Short ones... huh."
 
 @MAO_MW1_A:295 MAO 84f68292
-
+"{V1721}{W5}Oh,{W5} but{W15} I like jeans too.{W20} {Fe2m3}{Ec}The low-rise{W3} ones{W3} where{W3} you can see{W8} my back{W3}."
 
 @MAO_MW1_A:296 PLY 1764d70b
-
+"R-really... your back, huh."
 
 @MAO_MW1_A:297 PLY 144f8170
-
+"I don't really know about fashion..."
 
 @MAO_MW1_A:298 MAO 5710bbee
-
+"{V1722}{W8}Hmm{W2}{W5} hmm{W2}..."
 
 @MAO_MW1_A:299 MAO c952baa3
-
+"{V1723}{W8}Don't be{W5} so stiff.{W30} Just wear{W3} what you like{W3}{W3}, that's{W3} best."
 
 @MAO_MW1_A:300 MAO 62b3a272
-
+"{V1724}{W8}Of course,{W30} it's a problem{W5} if you stick{W5} out from everyone."
 
 @MAO_MW1_A:301 PLY 4a94274d
-
+"What kind of accessories are popular now?"
 
 @MAO_MW1_A:302 MAO 806cbcee
-
+"{V1725}{W3}Silver accessories are popular,{W25} but they're too{W3} expensive to buy."
 
 @MAO_MW1_A:303 PLY b3542813
-
+"Hmm... about how much?"
 
 @MAO_MW1_A:304 MAO 4d5e7353
-
+"{V1726}{W3}A bracelet{W3} would be{W45} around{W5} 20,000 yen."
 
 @MAO_MW1_A:305 PLY c5982cbf
-
+"20,000?! ...Yeah, can't buy that."
 
 @MAO_MW1_A:307 MAO 858080e7
-
+"{V1727}{W10}It's{W8} true{W8}~.{W5}{W5}{W8}{W30} {Nn},{W10} buy it for me~!"
 
 @MAO_MW1_A:308 PLY f42d6ef2
-
+"I-I can't, not that."
 
 @MAO_MW1_A:309 MAO d0383369
-
+"{V1728}{W5}Fufu,{W35} I'm{W5} kidding,{W3}{W5} just{W3} kidding.{W5}"
 
 @MAO_MW1_A:310 MAO 8c680ca1
-
+"{V1729}{W5}If I got something that{W3} expensive{W3},{W30} I'd feel too bad to accept it."
 
 @MAO_MW1_A:311 PLY a68cc1d6
-
+"Mao, do you own any jewelry?"
 
 @MAO_MW1_A:312 MAO cbcee356
-
+"{V1730}{W5}I do.{W35} {Ec}Ruby{W5} earrings."
 
 @MAO_MW1_A:313 PLY 9d492cbe
-
+"What?!"
 
 @MAO_MW1_A:314 MAO 2a341ad7
-
+"{V1731}{W5}Though{W15} they're tiny{W5} stones{W5}, so{W30} they only cost{W8} about{W3} 2,900{W3} yen."
 
 @MAO_MW1_A:315 MAO a1a77d90
-
+"{V1732}{W3}I thought{W3} wearing them{W3} with jeans{W3} would be{W3} fun,{W3} so I bought them."
 
 @MAO_MW1_A:316 PLY c214a0e7
-
+"I have no idea about accessories..."
 
 @MAO_MW1_A:317 MAO ec84d3dc
-
+"{V1733}{W3}Hmm, hmm..."
 
 @MAO_MW1_A:318 MAO 30af03d2
-
+"{V1734}{W5}You're a boy,{W10} after all~.{W38} It'd be weird if you were too stylish,{Ec}{W30} so that's probably enough, right?"
 
 @MAO_MW1_A:319 PLY 1f1fda2a
-
+"Mao, you don't wear makeup, do you?"
 
 @MAO_MW1_A:320 MAO 6aff14b1
-
+"{V1735}{W5}Of course not{W3}.{W30} If the Discipline{W3} Committee{W3} caught me,{W15} I'd be{W45} in huge{W3} trouble."
 
 @MAO_MW1_A:321 PLY 988560d6
-
+"Right."
 
 @MAO_MW1_A:322 MAO 74c98433
-
+"{V1736}{W5}...Having{W10} said{W3} that{W3},{W3}{W3}{W3}{W15} there are times I{W3} secretly{W3} do{W3} it{W5}{W3}, though.{Sd}"
 
 @MAO_MW1_A:323 PLY f690ca02
-
+"What?! Really? I can't tell at all."
 
 @MAO_MW1_A:324 MAO 69fae452
-
+"{V1737}{W5}Fufu~,{W3}{W50} {Eo}I'm not so sloppy{W15} that even {Nn}{W3} would notice."
 
 @MAO_MW1_A:325 PLY f04a37a6
-
+"Mao, do you have makeup tools?"
 
 @MAO_MW1_A:326 MAO eb0f7fd6
-
+"{V1738}{W5}I do,{W5} the{W3} basics{W3}.{W33} {F3}Just enough to fit{W3} in a{W5} pouch, though."
 
 @MAO_MW1_A:327 MAO fd2fb7f8
-
+"{V1739}{W3}It's{W5} banned{W5} at school,{W3}{W30} so {F3}I only{W3} use it{W3} on days off."
 
 @MAO_MW1_A:328 PLY 8fd171cf
-
+"Mao, how long does it take you to put on makeup?"
 
 @MAO_MW1_A:329 MAO 2d5b3058
-
+"{V1740}{W5}About{W10} an{W5} hour,{W13} I{W5} guess{W3}{W3}."
 
 @MAO_MW1_A:330 PLY b6691088
-
+"Huh? That's a lot of work."
 
 @MAO_MW1_A:331 MAO a7e96dda
-
+"{V1741}{W8}Not at all.{W33} {Eo}I enjoy{W3} watching myself change,{W5} so it's over{W5} in no time."
 
 @MAO_MW1_A:332 PLY 8614c553
-
+"Mao, who taught you makeup?"
 
 @MAO_MW1_A:333 MAO 40f75c9d
-
+"{V1742}{W5}Who{W8}... well,{W3}{W30} magazines{W3}.{W30} {F3}You can do it{W3} alone while looking, right?"
 
 @MAO_MW1_A:334 PLY e06cc1ae
-
+"I don't really get makeup, but..."
 
 @MAO_MW1_A:335 MAO 1093590f
-
+"{V1744}{W30}Right.{W15} Well, that's about it."
 
 @MAO_MW1_A:336 PLY cfed3505
-
+"Mao, how many swimsuits do you have?"
 
 @MAO_MW1_A:337 MAO 3059cf98
-
+"{V1745}{W10}The{W5} ones{W2} I{W2} can{W2} still{W2} wear{W30} are maybe two{W3}{W5}{F3}."
 
 @MAO_MW1_A:338 PLY 1848d834
-
+"Can wear? ...Then which ones can't you wear?"
 
 @MAO_MW1_A:339 MAO 633ac94f
-
+"{V1746}{W5}Well,{W3}{W45} I keep{W3} growing{W3}.{W15}{E}{W12} Get it?"
 
 @MAO_MW1_A:340 PLY 2cfd07a2
-
+"I-I see."
 
 @MAO_MW1_A:341 PLY 80decc91
-
+"Mao..."
 
 @MAO_MW1_A:342 MAO f699a042
-
+"{V1747}{W5}Hm?"
 
 @MAO_MW1_A:343 PLY 54ab6c30
-
+"Even a school swimsuit looks different on you, Mao."
 
 @MAO_MW1_A:344 MAO 489a8f56
-
+"{V1748}{W5}Different{W5} how?"
 
 @MAO_MW1_A:345 PLY ecddcc50
-
+"Well... your figure looks really good."
 
 @MAO_MW1_A:346 MAO 7aaaf0f4
-
+"{V1749}{W8}Really?{W30} {Ec}Like{W5} this{W12}?"
 
 @MAO_MW1_A:347 PLY 7d617951
-
+"Whoa... M-Mao..."
 
 @MAO_MW1_A:348 MAO ef71e907
-
+"{V1750}{W5}Fufu,{W8}{W40} had enough?"
 
 @MAO_MW1_A:349 PLY 5b0515fc
-
+"Every year there are different swimsuit trends, but..."
 
 @MAO_MW1_A:350 MAO d6bace4d
-
+"{V1752}{W5}Right,{W30} the one that makes your figure{W3} look good{W3} is best."
 
 @MAO_MW1_A:351 PLY 935e754b
-
+"Mao, do you prefer Japanese food or Western food?"
 
 @MAO_MW1_A:352 MAO 6d7ae37b
-
+"{V1753}{W5}Me,{W15} if{W45} I had to pick,{W5} Western{W3} food{W3}."
 
 @MAO_MW1_A:353 MAO 4610ac31
-
+"{V1754}{W3}Bread{W5} and pasta{W20} suit{W5} me better than rice{Eo}."
 
 @MAO_MW1_A:354 PLY e43f389d
-
+"I see."
 
 @MAO_MW1_A:355 MAO e117be31
-
+"{V1755}{W5}Oh,{W8} but{W2}{W20} {F2}sushi{W3}{W3}{W3}{W3} is{W5} different.{W30} For{W2} tuna{W2}{W2}{W2}, I{W8} like lean{W1}{W1} over fatty{W3}."
 
 @MAO_MW1_A:356 PLY 23b54993
-
+"Mao, what's your favorite food?"
 
 @MAO_MW1_A:357 MAO 67d8ff07
-
+"{V1756}{W8}Did you{W8} forget{W3}?{W3}{W3}{W30} It's crab{W3}!{W3} {W13}Crab!"
 
 @MAO_MW1_A:358 PLY 2277444c
-
+"Oh, right. You like crab, don't you."
 
 @MAO_MW1_A:359 MAO 187bd847
-
+"{V1757}{W5}Crab cream croquettes are the{W30} best{W8}.{W60} {Fe2}{Ec}The ones{W8} with{W3} lots{W8} of{W3} claw{W15} meat{W30} in{W8} them{W5}{W8}{Eo}."
 
 @MAO_MW1_A:360 PLY 40fd8008
-
+"Wow, something that pricey..."
 
 @MAO_MW1_A:361 MAO a32c2a26
-
+"{V1758}{W5}Then,{W17} crab gratin."
 
 @MAO_MW1_A:362 PLY 123fd92e
-
+"That's the same thing..."
 
 @MAO_MW1_A:363 PLY e7d29201
-
+"I had it the other day..."
 
 @MAO_MW1_A:364 MAO 400c63d5
-
+"{V1760}{W5}Oh,{W5}{W20} the family restaurant{W5} on the station street?{W5}{W5}{W18}{Fe3} I'll{W8} have to try it too."
 
 @MAO_MW1_A:365 PLY a698d02a
-
+"What's your favorite sweet, Mao?"
 
 @MAO_MW1_A:366 MAO 9cfd8981
-
+"{V1761}{W5}{W5}Sweets?{W15} You mean{W3} desserts?"
 
 @MAO_MW1_A:367 PLY 5a88783a
-
+"Yeah, fruit or anything is fine."
 
 @MAO_MW1_A:368 MAO 7f64a9e2
-
+"{V1762}{W10}{W2}{W2}{W2}Let's see...{W40} I like{W15} {F3}caramelized cakes."
 
 @MAO_MW1_A:370 PLY 885c6e4f
-
+"Caramelized?"
 
 @MAO_MW1_A:371 MAO f658857f
-
+"{V1763}{W5}{W5}It's when you burn{W5}{W5} the sugar{W3} on top of a cake,{W30} finishing it with a{W3} caramel-like{W3} touch."
 
 @MAO_MW1_A:372 PLY 47c9543b
-
+"Wow."
 
 @MAO_MW1_A:373 MAO 1f0c5ef4
-
+"{V1764}{W5}Something like pears{W3} caramelized{W3} with custard cream{W3}{W35} is the best{W8}{W8}.{Eo}"
 
 @MAO_MW1_A:374 PLY dd99a11c
-
+"Which do you like better, Japanese sweets or Western ones?"
 
 @MAO_MW1_A:375 MAO e61bb895
-
+"{V1765}{W5}Hands{W10} down,{W10}{W2} Western{W8} sweets{W2}."
 
 @MAO_MW1_A:376 MAO 7b2572ec
-
+"{V1766}{W3}Western sweets{W5}{W30} have fruit and cream on top,{W5}{W5}{W27} {F2}{Ec}so they look colorful and cute, don't they?{Eo}"
 
 @MAO_MW1_A:377 MAO 7d5d7933
-
+"{V1767}{W5}A cake by a famous{W3}{W8} patissier{W5}{W3} you see in magazines{W3}{W20} {Fm2}is{W5} practically{W2} art{W15}{W8}!"
 
 @MAO_MW1_A:378 PLY b1aeb4ea
-
+"I only eat sweets once in a while, though..."
 
 @MAO_MW1_A:379 MAO b9e44d81
-
+"{V1769}{W5}Fufu,{W45} want to{W5} go have some cake next time?"
 
 @MAO_MW1_A:380 PLY 0d200cdc
-
+"What's your favorite drink, Mao?"
 
 @MAO_MW1_A:381 MAO 8ce43451
-
+"{V1770}{W3}It's not{W5} that I like it,{W30} but what I drink{W3} a lot{W3} is coffee.{W20} The weak{W5} kind."
 
 @MAO_MW1_A:382 MAO ed21d443
-
+"{V1771}{W8}See,{W15} I{W8}{W10} wake up badly,{W3}{W15} so I can't get up otherwise."
 
 @MAO_MW1_A:383 PLY ea870af2
-
+"I see, a morning coffee."
 
 @MAO_MW1_A:384 MAO 6ff464fb
-
+"{V1772}{W5}Right.{W30} My{W8} day{W3} starts{W3}{W15} with{W3} a{W3} cup of coffee{W3}{Fe2}{Ec}."
 
 @MAO_MW1_A:385 PLY 5e360b23
-
+"What's your favorite juice, Mao?"
 
 @MAO_MW1_A:386 MAO eb89bc9a
-
+"{V1773}{W5}Banana juice,{W8} or orange juice.{W30} {F3}The kind{W3} that's 100% juice{W10}."
 
 @MAO_MW1_A:387 MAO 5d30069e
-
+"{V1774}{W5}Fiber{W5}{W5} and{W3} vitamin C{W5}{W8} are good{W8} for your skin.{Eo}"
 
 @MAO_MW1_A:388 PLY c5e910f6
-
+"I had some the other day..."
 
 @MAO_MW1_A:389 MAO 996ceb0e
-
+"{V1776}{W5}Oh,{W30} they sell that?{W15} I'll have to try it{W3} sometime."
 
 @MAO_MW1_A:390 PLY e981c2a2
-
+"Do you ever cook at home, Mao?"
 
 @MAO_MW1_A:391 MAO bdecc3a5
-
+"{V1777}{W3}Once in a while.{F3}"
 
 @MAO_MW1_A:392 MAO a044d5ad
-
+"{V1778}{W5}I'm not{W3} that good{W3} at it,{W10} but I can{W3} cook{W3} just fine."
 
 @MAO_MW1_A:393 PLY 45652654
-
+"What's your specialty, Mao?"
 
 @MAO_MW1_A:394 MAO 1cb904f4
-
+"{V1779}{W5}My{W15} specialty{W8} is{W3}{W3}{W30} curry.{W5}{W3}{F3}"
 
 @MAO_MW1_A:395 PLY 49ae3747
-
+"Hmm, curry, huh..."
 
 @MAO_MW1_A:396 MAO 534b4496
-
+"{V1780}{W5}Ah!{W30}{W3} Just now,{W15} you made fun of curry!"
 
 @MAO_MW1_A:397 PLY f709c1ad
-
+"N-no I didn't."
 
 @MAO_MW1_A:398 MAO 35760b03
-
+"{V1781}{W5}Yes you did!{W30}{W3} You had a look{W2}{W1} like{W3} anyone can make it!{W3}"
 
 @MAO_MW1_A:399 PLY 72098060
-
+"Ugh... you saw right through me."
 
 @MAO_MW1_A:400 MAO 4f922b4a
-
+"{V1782}{W5}{W15}Geez!{W30} The curry{W8} I{W3} make{W8}{W3} is{W3}{W15} proper{W15} curry{W1}, you know!"
 
 @MAO_MW1_A:401 MAO a1958677
-
+"{V1783}{W8}I start by{W2} sauteing finely chopped onions{W30} until{W3} they're{W3} brown{W1}{W1}{W1},{W3} you know{W5}!{Ec}"
 
 @MAO_MW1_A:402 MAO 8f6c79fb
-
+"{V1784}{W8}I don't use{W5} store-bought{W3} curry{W3} roux!"
 
 @MAO_MW1_A:403 PLY 7978c6e6
-
+"O-oh. That's impressive."
 
 @MAO_MW1_A:404 MAO 783e1020
-
+"{V1785}{W5}That's{W3} right.{W5}{W40} Mama and Papa{W5} both{W5} totally{W3} raved{W2} about it."
 
 @MAO_MW1_A:405 PLY 49cbd412
-
+"Mao's home cooking must be..."
 
 @MAO_MW1_A:406 MAO 09c3aed5
-
+"{V1787}{W5}Right,{W3} right,{W3}{W3}{W3}{W30} you can tell.{W45}{Ec}{Sp} I always{W5} try something fancy,{W15} so it often{W3} goes{W5} wrong~{Eo}{Sd}"
 
 @MAO_MW1_A:407 MAO 6b11a5c1
-
+"{V1788}{W5}But{W2} still,{W30} failure{W5} is the{W3} mother of{W3} success{W5}, they{W5} say,{W30} so I have to keep taking on challenges."
 
 @MAO_MW1_A:408 PLY e5c7bbdf
-
+"Udon is delicious, isn't it?"
 
 @MAO_MW1_A:409 MAO 2390f7ed
-
+"{V1789}{W5}It is.{W30} It's{W5} popular{W5} lately, too."
 
 @MAO_MW1_A:410 PLY c8a26a2d
-
+"Do you know Satonaka, the udon place on the shopping street?"
 
 @MAO_MW1_A:411 MAO 4ecdfb13
-
+"{V1790}{W5}I know it.{W15} I've never been, though."
 
 @MAO_MW1_A:412 PLY 4ab8787b
-
+"That's the home of one of Nana's classmates."
 
 @MAO_MW1_A:413 MAO 791d9727
-
+"{V1791}{W5}Oh,{W3}{W5}{W30} really?{W20} Then,{W9} I'll{W5} have to check it out."
 
 @MAO_MW1_A:414 PLY c7e293a8
-
+"I had some really good udon the other day..."
 
 @MAO_MW1_A:415 MAO e2c9216c
-
+"{V1793}{W5}Hmm,{W3}{W3}{W45} if it's that good,{W15} I'd{W8} like to try it too."
 
 @MAO_MW1_A:416 PLY 851d44b1
-
+"Do you snack between meals?"
 
 @MAO_MW1_A:417 MAO a87e4703
-
+"{V1794}{W5}Snack?{W5}{W5}{W35} Never.{W15} I'd{W5} gain weight."
 
 @MAO_MW1_A:418 PLY aeb7b3b5
-
+"I see..."
 
 @MAO_MW1_A:419 PLY 05b0493c
-
+"But you do eat cake, right?"
 
 @MAO_MW1_A:420 MAO 773ad11c
-
+"{V1795}Cake and{W27} parfaits{W20} are{W3} different."
 
 @MAO_MW1_A:421 PLY 82ca797c
-
+"Snacking is kind of hard to quit..."
 
 @MAO_MW1_A:422 MAO 9629b264
-
+"{V1797}{W5}If{W3} you{W2} keep{W2} saying{W2} things{W2} like{W3} that,{W2}{W2}{W2}{W35} you'll turn into a blimp!{Sd}"
 
 @MAO_MW1_A:423 PLY d5434f79
-
+"You're not very healthy, are you, Mao?"
 
 @MAO_MW1_A:424 MAO e8b8bc6d
-
+"{V1798}{W8}Why?"
 
 @MAO_MW1_A:425 PLY b264c142
-
+"Well, you have low blood pressure..."
 
 @MAO_MW1_A:426 MAO e4d2d992
-
+"{V1799}{W5}Tell{W3} me{W3} about{W3} it{W3}{W3}{W3}~.{W45} Mornings{W5} are{W5} especially{W5} hard...{Eo}{Sd}"
 
 @MAO_MW1_A:427 PLY 6edc9477
-
+"Why not see a doctor once?"
 
 @MAO_MW1_A:428 MAO 1a8d8eb0
-
+"{V1800}{W5}Hmm,{W5}{W54} that's a bit much.{W30} {Fe9}I don't like{W8} medicine{W3} and{W5} stuff..."
 
 @MAO_MW1_A:429 PLY 876a2929
-
+"I see..."
 
 @MAO_MW1_A:430 MAO dfeaaad1
-
+"{V1801}{W5}Thanks,{W20} for{W3} worrying{W3} about me."
 
 @MAO_MW1_A:431 PLY c5c2091b
-
+"Are you a deep sleeper, Mao?"
 
 @MAO_MW1_A:432 MAO 4626f969
-
+"{V1802}{W5}No{W3}{W3},{W30} I'm very{W5}{W5} light, actually.{W18}{Ec}{Sp} I wake{W3} up{W3} several{W3} times a night.{Eo}{Sd}"
 
 @MAO_MW1_A:433 PLY ac334e92
-
+"I see. They say a glass of milk before bed helps."
 
 @MAO_MW1_A:434 MAO 9816e444
-
+"{V1803}{W5}Oh{W2}{W2}{W2}{W2}{W2}, really.{W30} Thanks!{W15} {F2}{Ec}I'll{W3} try it{W3} tonight{W3}."
 
 @MAO_MW1_A:435 PLY cde93dd9
-
+"How are you feeling, Mao?"
 
 @MAO_MW1_A:436 MAO 29bba5e0
-
+"{V1804}{W5}Hm?{W30} I'm{W3} fine.{W3}{W30} Why?"
 
 @MAO_MW1_A:437 PLY 7a0c5d87
-
+"Well, you have low blood pressure..."
 
 @MAO_MW1_A:438 MAO 4245b99b
-
+"{V1805}{W20}Afternoons{W5} are{W3} fine,{W3} at{W3} least.{W30}{Sd} {Fe3}Thanks,{W25} for{W3} worrying{W3} about me."
 
 @MAO_MW1_A:439 PLY cbb5cc32
-
+"Mao, if you're in the Infirmary, is it your low blood pressure again?"
 
 @MAO_MW1_A:440 MAO 8b829c7b
-
+"{V1806}{W5}Sort{W10} of{W8}...{W8}~"
 
 @MAO_MW1_A:441 MAO a773cc22
-
+"{V1807}{W5}My{W3} head{W9} hurts{W6} a little~"
 
 @MAO_MW1_A:442 MAO ea182dfe
-
+"{V1808}Oh, but{W30} it's nothing{W5} serious,{W9} so don't worry."
 
 @MAO_MW1_A:443 PLY 36415461
-
+"Cough! Cough!"
 
 @MAO_MW1_A:444 MAO b2d67270
-
+"{V1809}{W5}What's wrong?{W30} A cold?"
 
 @MAO_MW1_A:445 PLY 463bd37b
-
+"Yeah... It's nothing serious, but I think I caught it from Nana yesterday..."
 
 @MAO_MW1_A:446 MAO f9ffcc42
-
+"{V1810}{W9}I see.{W45} You should{W5} keep warm{W10} tonight when{W3} you sleep.{Sd}"
 
 @MAO_MW1_A:447 PLY 3466bdf0
-
+"Yeah. Thanks, Mao."
 
 @MAO_MW1_A:448 MAO 4834f9fb
-
+"{V1811}{W5}Don't mention it.{W45} The{W2} start{W2} of a cold{W2} is the{W3} key,{W3}{W15} so don't overdo it."
 
 @MAO_MW1_A:449 PLY 7bef4e8b
-
+"I hear it's supposed to be good for low blood pressure..."
 
 @MAO_MW1_A:450 MAO aab8dfd9
-
+"{V1812}{W5}Hm{W3}{W3}, hm{W3}{W3}..."
 
 @MAO_MW1_A:451 MAO e022f2e6
-
+"{V5031}{W8}Oh{W3}, really.{W30} {Fe2m3}{Ec}Thanks,{W8} {Nn}."
 
 @MAO_MW1_A:452 PLY 9cfb2b97
-
+"Do you watch your weight, Mao?"
 
 @MAO_MW1_A:453 MAO 78e8e795
-
+"{V1813}{W15}Of course."
 
 @MAO_MW1_A:455 MAO 5231c551
-
+"{V1814}{W5}If{W1} you{W1} eat{W1} every{W1} bite{W1} you{W1} want{W1} to{W1} eat,{W1}{W1}{W1}{W15} you'll gain weight{W2} in no time."
 
 @MAO_MW1_A:456 MAO 265cf0f2
-
+"{V1815}{W5}{Nn},{W3} {W35}watch out too~!"
 
 @MAO_MW1_A:457 PLY 94432a51
-
+"Do you know a lot about dieting, Mao?"
 
 @MAO_MW1_A:458 MAO f584abcb
-
+"{V1816}{W5}Kind{W8} of{W5}.{W8}{W45} {F3}I've tried{W3} all sorts of things."
 
 @MAO_MW1_A:459 PLY ea86c740
-
+"So which one worked best?"
 
 @MAO_MW1_A:460 MAO 6d6f1cdd
-
+"{V1817}{W5}The{W5} blood{W5} cleansing diet.{Eo}"
 
 @MAO_MW1_A:461 PLY 7cf4a457
-
+"Blood cleansing...?"
 
 @MAO_MW1_A:462 MAO cd76fdae
-
+"{V1818}{W5}You eat{W3} things{W3} like natto,{W15} or tea,{W3}{W30} {Fe3}foods that make{W3} your{W3} blood{W3} flow smoothly,{W15} every{W3} day{W3}."
 
 @MAO_MW1_A:463 MAO 40a01519
-
+"{V1819}{W5}Then your circulation improves{W5}{W30} and the{W9} swelling goes away{Fe2}{Ec}."
 
 @MAO_MW1_A:464 PLY 802b09ce
-
+"Hmm, I see."
 
 @MAO_MW1_A:465 PLY a012990d
-
+"But for someone with good circulation, you have low blood pressure, Mao."
 
 @MAO_MW1_A:466 MAO 62c0daae
-
+"{V1820}{W5}{Sp}You're{W5} so{W3} annoying~.{W22}{Ec} That's{W5} different!"
 
 @MAO_MW1_A:467 PLY d5d0e8e9
-
+"Magazines and TV always say things like losing 10 kilos in a month."
 
 @MAO_MW1_A:468 MAO 4dfcffda
-
+"{V1821}{W5}{Sp}The people{W3} on those{W45} start{W9} out heavy{W6}, you know.{Sd}"
 
 @MAO_MW1_A:469 MAO 5fe847c2
-
+"{V1822}{W5}Dieting{W15} really begins{W5} once you get{W5} under 50 kilos.{Fe2}{Ec}"
 
 @MAO_MW1_A:470 PLY dcc927b9
-
+"The rebound after a diet sounds scary..."
 
 @MAO_MW1_A:471 MAO f4cc6b4e
-
+"{V1823}{W5}{Sp}Ugh...{W54} don't{W3} say{W3} such{W12} dreadful{W15} things{W2}{W3}{W3}..."
 
 @MAO_MW1_A:472 MAO 66005087
-
+"{V1824}{W5}Dieting{W15} is{W5} only{W5} truly{W15} won{W3} after{W3} you lose the{W3} weight."
 
 @MAO_MW1_A:473 MAO 5046c732
-
+"{Nn},{W5}{V1825}{W5} what{W3} did you eat{W5} for lunch{W30} today{W5}?"
 
 @MAO_MW1_A:474 PLY 0197182f
-
+"Nothing special..."
 
 @MAO_MW1_A:476 MAO f097389e
-
+"{V1826}Nothing special?{W3}{W75} ...{W15} It wasn't{W5} the Chinese{W3} stamina{W3} set{W2} meal{W2}, was it?"
 
 @MAO_MW1_A:477 PLY f5a2cc35
-
+"I-I didn't eat that."
 
 @MAO_MW1_A:478 MAO 8a1aaed5
-
+"{V1827}Good.{W30}{Eo} Looks like you're{W5} following orders."
 
 @MAO_MW1_A:479 PLY 6c1cea52
-
+"Yeah... but a light lunch isn't enough."
 
 @MAO_MW1_A:480 MAO 40e1f30a
-
+"{V1828}{W8}It's{W3} to become a{W5} lean, cool guy,{W8}{W27}{Ec} so tough it out."
 
 @MAO_MW1_A:481 PLY 2db2a634
-
+"The effort to maintain your figure..."
 
 @MAO_MW1_A:482 MAO fc0f5fed
-
+"{V1830}{W8}That's{W3} right~.{W3}{W3}{W30} I make{W9} a pitiful amount of effort{W6}, you know."
 
 @MAO_MW1_A:483 PLY 33c3ca87
-
+"You have a great figure, Mao."
 
 @MAO_MW1_A:484 MAO 6823b24d
-
+"{V1831}{W5}Really?{W30} Thanks."
 
 @MAO_MW1_A:485 PLY 20723332
-
+"Mao, your eyesight didn't suddenly get better, did it?"
 
 @MAO_MW1_A:486 MAO 39641b42
-
+"{V1832}Hehe,{W12} of course{W3} not.{W25}{Eo} Contact lenses."
 
 @MAO_MW1_A:487 MAO 66edd21b
-
+"{V1833}{W8}I changed{W6} them{W6} when{W6} I started{W6} high school,{W6}{W15} {Fe2}so some people{W9} don't know{W6} I have bad eyes."
 
 @MAO_MW1_A:488 PLY 5a922682
-
+(Mao in her gym clothes...)
 
 @MAO_MW1_A:489 PLY e0eb86f6
-
+"Mao, you feel different from back in middle school..."
 
 @MAO_MW1_A:490 MAO 076bd2a8
-
+"{V1834}{W5}{Sp}W-{W30}what{W6} is{W15} that, all of a sudden?"
 
 @MAO_MW1_A:491 PLY 3898bb45
-
+"Well... seeing you in gym clothes made me remember you in middle school."
 
 @MAO_MW1_A:492 MAO 0b53a808
-
+"{V1835}{W5}Hm{W3}{W3}{W3},{W38} I see."
 
 @MAO_MW1_A:493 MAO 7c5f3243
-
+"{V1836}{W5}Gym{W6} clothes{W6} have{W6} less{W15} design{W6} variety{W6} than uniforms,{W18} so{W3} the difference{W3} may show more."
 
 @MAO_MW1_A:494 MAO e46d0c88
-
+"{V1837}{W5}...{W10}So,{W35} what's{W6} your{W6} impression?"
 
 @MAO_MW1_A:495 PLY 295a7bbe
-
+"Huh? Impression?"
 
 @MAO_MW1_A:496 MAO 80557e07
-
+"{V1838}{W6}Yep,{W30} your{W6} impression{W3}{Eo}"
 
 @MAO_MW1_A:497 PLY 0a7e8553
-
+"W-well... I think you've become beautiful."
 
 @MAO_MW1_A:498 MAO 5109a55f
-
+"{V1839}{Bt120}Fufu,{W35} thanks."
 
 @MAO_MW1_A:499 PLY 9fb665b2
-
+(Mao in her school swimsuit...)
 
 @MAO_MW1_A:500 MAO 28e3ddf8
-
+"{V1840}{Sp}{W5}W-{W21}what{W6} is that,{W6} all of a sudden?"
 
 @MAO_MW1_A:501 PLY 0932e84c
-
+"Well... seeing you in your school swimsuit made me remember you in middle school."
 
 @MAO_MW1_A:502 MAO b62349c7
-
+"{V1841}{W5}Hmm,{W35} I see."
 
 @MAO_MW1_A:503 MAO d8490c98
-
+"{V1842}{W9}School{W6} swimsuits{W9} look{W6} almost{W6} the same{W6} in{W6} middle school and high school.{W45} They{W6} might{W6} bring{W3} back memories."
 
 @MAO_MW1_A:504 PLY 6bc758d3
-
+"...No, how you look... has changed."
 
 @MAO_MW1_A:505 MAO e4f2a294
-
+"{V1843}{W5}Really?{W60} {Fe3}The{W3} swimsuit design{W3} is almost{W3} the same, I think?"
 
 @MAO_MW1_A:506 PLY d995145e
-
+"Yeah... but what's inside changed."
 
 @MAO_MW1_A:507 MAO 7779ce1e
-
+"{V1844}{Bt120}{W5}What's{W15} inside?{W8} ...{W54}Oh."
 
 @MAO_MW1_A:508 MAO d5168739
-
+"{V1845}{W10}Boys{W9} really{W3} are{W3} like{W3} that,{W15} {Nn}.{W60} Curious{W5} about what's inside?"
 
 @MAO_MW1_A:509 MAO ea3cb548
-
+"{V1846}{W5}Hehe,{W3}{W8}{W3}{W45} want me to show you?"
 
 @MAO_MW1_A:510 PLY 02d1bed0
-
+"M-Mao!"
 
 @MAO_MW1_A:511 MAO b9de3414
-
+"{V1847}{W6}I'm{W9} joking,{W6}{W15} just{W6} joking.{W3}{W25}{Ec} Look{W3} how{W3} flustered you got."
 
 @MAO_MW1_A:512 PLY c4dc3280
-
+"Mao, your looks..."
 
 @MAO_MW1_A:513 MAO 43ae1bcf
-
+"{V1849}{W8}Really?{W35} Thanks{W5}.{W3}"
 
 @MAO_MW1_A:514 PLY eeed2001
-
+"Mao, you must have lots of guy friends..."
 
 @MAO_MW1_A:515 MAO 04135dfd
-
+"{V1850}{W8}Hm?{W42} You think so?{W30} {Fe3m3}Isn't{W5} that normal?"
 
 @MAO_MW1_A:516 PLY 4dacc165
-
+"Is it? You seem like you'd have a lot..."
 
 @MAO_MW1_A:517 MAO a41e21d5
-
+"{V1851}{W8}What?{W15} {W40}Does{W2} it{W2} bother{W2} you?{W2}"
 
 @MAO_MW1_A:518 PLY 57c72af1
-
+"It's not like that..."
 
 @MAO_MW1_A:519 MAO aad60f6c
-
+"{V1852}{W6}Hmm,{W6}{W6} {W30}so it does bother you~{W3}{W3}{W2}{W2}{W4}{W6}"
 
 @MAO_MW1_A:520 PLY e077649b
-
+"I-I told you it doesn't!"
 
 @MAO_MW1_A:521 MAO e6e8cb1d
-
+"{V1853}{W8}Yeah,{W12} yeah.{W5}{W3} {W20}{Fe2}{Ec}I'll let you say that."
 
 @MAO_MW1_A:522 PLY 86ea4256
-
+"Have you ever had your love fortune told?"
 
 @MAO_MW1_A:523 MAO ba1d6787
-
+"{V1854}{W5}Love{W6} fortunes?{W9}{W30} Sure.{W15} ...{W15}Well,{W15} {Fe3m2}women's{W3}{W3} magazines{W3} always{W15} have a fortune page,{W9}{W9} so{W8} I end up reading it."
 
 @MAO_MW1_A:524 MAO 274b7e28
-
+"{V1855}{W5}Today's{W3} luck,{W3}{W3} {W6}love{W3} stuff...{W3}{W29} {F3}every girl{W9} likes that kind of thing{W6}.{Fe2}{Ec}"
 
 @MAO_MW1_A:525 MAO 960b649b
-
+"{Nn},{W6} {V1856}{W6}do you know{W3} about Boys' Love?{W21}"
 
 @MAO_MW1_A:526 PLY 97b055ee
-
+"What?! I-I do, but..."
 
 @MAO_MW1_A:527 MAO 10871ce3
-
+"{V1857}{W6}It's amazing, isn't it~?{W18} {F2}Boys{W9} kissing{W6} each other,{W12} hugging..."
 
 @MAO_MW1_A:528 PLY 511b320d
-
+"Y-yeah."
 
 @MAO_MW1_A:529 MAO 9a786cf7
-
+"{V1858}{B60}{W5}{Nn},{W3}{W45} have you ever done that kind of thing?"
 
 @MAO_MW1_A:530 PLY 8109eb82
-
+"O-of course not!"
 
 @MAO_MW1_A:531 MAO 28558364
-
+"{V1859}{S}{F2}{Ec}{S}{W6}Ahaha,{W9}{W3}{W3} {W30}{Eo}{F9}I guess not{W6}~"
 
 @MAO_MW1_A:532 PLY 9f9ea25b
-
+"Mao, love letters... do you get them a lot?"
 
 @MAO_MW1_A:533 MAO 47d0d7bd
-
+"{V1860}{W6}Huh?"
 
 @MAO_MW1_A:534 MAO 86ca30af
-
+"{V1861}{Sp}{W6}Oh,{W60} you saw the one{W3} in my shoe{W2} locker,{W3}{W15} didn't you."
 
 @MAO_MW1_A:535 MAO b5505742
-
+"{V1862}{W6}That's only{W9} once in a while,{W18} o{W1}n{W1}c{W1}e in a while."
 
 @MAO_MW1_A:536 PLY b0e2b8c8
-
+"Once in a while... huh."
 
 @MAO_MW1_A:537 PLY 6c696c54
-
+"Who was it from?"
 
 @MAO_MW1_A:538 MAO a8d51cf6
-
+"{V1863}{W6}Someone{W6} from another class{W6} I don't even know."
 
 @MAO_MW1_A:539 MAO dab181fb
-
+"{V1864}{W6}What?{W6}{W45} Are you worried?{W3}{W3}"
 
 @MAO_MW1_A:540 MAO 93abb6c8
-
+"{V1865}{W10}Then{W45} maybe I'll go out with him~{Eo}{Fe3m2}"
 
 @MAO_MW1_A:541 PLY 21e4acd1
-
+"What?!"
 
 @MAO_MW1_A:542 MAO 3b361bd4
-
+"{V1866}{W6}Just{W9} kidding.{W30} As if I would.{W3}{Eo}"
 
 @MAO_MW1_A:543 PLY 37fbcce5
-
+"D-don't tease me."
 
 @MAO_MW1_A:544 MAO 08756bf2
-
+"{V1867}{W6}{Ec}Fufu,{W30} {Eo}you're flustered.{W6}{W6}"
 
 @MAO_MW1_A:545 PLY a933f705
-
+"I don't really understand love, but..."
 
 @MAO_MW1_A:546 MAO cebebdea
-
+"{V1869}{W6}Fu{W6}fu,{W40} {Eo}you've got{W3} a long{W3} way to go,{W3}{W6} {Nn}."
 
 @MAO_MW1_A:547 PLY 753c3572
-
+"What do you do on days off?"
 
 @MAO_MW1_A:548 MAO 7c016960
-
+"{V1870}{W6}Sleep.{W3}{W15} Until{W6} past noon..."
 
 @MAO_MW1_A:549 MAO e6908694
-
+"{V1871}{W10}Days off{W9} are the{W5}{W3} best,{W9}{W9} aren't they~?{W35} {Eo}You don't have to get up in the morning.{W6}{Ec}"
 
 @MAO_MW1_A:550 PLY e1c8217e
-
+"Mao, you've changed since you started high school."
 
 @MAO_MW1_A:551 MAO 61bb57d0
-
+"{V1872}{W15}Fufu,{W30} that's because I switched to contacts."
 
 @MAO_MW1_A:552 PLY dd5007c4
-
+"Yeah. Your looks, but also your personality seems brighter..."
 
 @MAO_MW1_A:553 MAO 1b7f4b32
-
+"{V1873}{W6}I guess.{W45} In middle{W3} school{W3} I{W3}{W5} did nothing but{W3} study{W2}.{Fe3}"
 
 @MAO_MW1_A:554 MAO b19fea33
-
+"{V1874}{W6}Personality{W3}{W3} can{W20} change a lot{W6}{W6} with looks.{Ec}"
 
 @MAO_MW1_A:555 MAO 383d3841
-
+"{V1875}{W3}Hey,{W6} {Nn},{W12} do you have a{W6} cell{W6} phone?"
 
 @MAO_MW1_A:556 PLY 5ad6bd61
-
+"A cell phone? No, I don't."
 
 @MAO_MW1_A:557 MAO 172b0ead
-
+"{V1876}{W15}Oh,{W30} too bad.{W3}{W3}"
 
 @MAO_MW1_A:558 PLY aabc7990
-
+"Do you have one, Mao?"
 
 @MAO_MW1_A:560 MAO 061a241e
-
+"{V1877}{W6}I do.{W15} They bought me one{W6}{W6} when{W3} I{W3} started high school.{Fe2m3}{Ec}"
 
 @MAO_MW1_A:561 MAO b230ed44
-
+"{V1878}{W6}I'll give you{W3} my number,{W3}{W3}{W3}{W3}{W15} so call{W3} me{W5} when you're free."
 
 @MAO_MW1_A:562 PLY 6fa8f52c
-
+"It's kind of personal..."
 
 @MAO_MW1_A:563 MAO 230f9b6b
-
+"{V1881}{W15}Hmm,{W2}{W2}{W45} is that so.{W30} {Fe2m3}Tell me anything,{W6}{W30} {Ec}I'll give you advice.{W3}{W3}"
 
 @MAO_MW1_A:564 PLY cc4af171
-
+"Okay."
 
 @MAO_MW1_A:565 MAO 5bdc3eff
-
+"{V1882}{W8}{Nn},{W5}{W60} do you read{W6} dirty{W3} books{W6} and such?{W18}{W1}{W1}"
 
 @MAO_MW1_A:566 MAO bdc37a03
-
+"{V1883}{W5}You know,{W30} they always say guys hide them{W5} under the bed{W3}.{Fe2}"
 
 @MAO_MW1_A:567 PLY 3117e443
-
+"I-I don't hide anything like that..."
 
 @MAO_MW1_A:568 MAO 85081dfc
-
+"{V1884}{W8}Hehe,{W3}{W8} {W30}really~?{W6}{W6}{W30} {Eo}You're{W3} a boy,{W9}{W2}{W2}{W2}{W2} {W30}so you must have a{W3} book or two,{W6}{W6}{W2}{W6} {W15}right?"
 
 @MAO_MW1_A:569 MAO c8ff8bab
-
+"{V1885}{W3}Hiding{W6} won't help.{W30} I'll come over next time{W3} and search."
 
 @MAO_MW1_A:570 PLY 50907af6
-
+"D-don't tease me, Mao."
 
 @MAO_MW1_A:571 MAO 6df0e742
-
+"{V1886}{W6}Hehe,{W30} {Ec}no need to hide{W6} it{W2}{W2}~"
 
 @MAO_MW1_A:572 MAO 31f0ae12
-
+"{V1887}{W5}{Nn},{W3}{W45} do you{W30} prefer{W6} big{W6} chests{W4} after all?"
 
 @MAO_MW1_A:573 PLY 3b2f4558
-
+"What?! W-why?!"
 
 @MAO_MW1_A:574 MAO 54795d79
-
+"{V1888}{W6}Well,{W38} a lot of TV{W15} stars{W6}{W6}{W6} have big ones, don't they?{W15} {Fe3}{Nn}{W3}, I wondered if you were the same{W5}."
 
 @MAO_MW1_A:575 PLY 72d7237e
-
+"N-no, not really..."
 
 @MAO_MW1_A:576 MAO 7cf99c72
-
+"{V1889}{W6}Hmm...{W9}{W6}"
 
 @MAO_MW1_A:577 MAO 2de67213
-
+"{V1890}{W5}I{W9} think{W9} I've{W3} got{W6} a{W2} decent{W2} amount{W2}{W6}, {W6}{W6}{W40}what do you{W3} think?"
 
 @MAO_MW1_A:578 PLY 78c8e40a
-
+"Y-you can't just ask me that..."
 
 @MAO_MW1_A:579 MAO b1ae85be
-
+"{V1891}{W5}Hehe,{W45} you get flustered{W3} so easily.{W4}{W4}{Eo}"
 
 @MAO_MW1_A:580 MAO 1122b9f6
-
+"{V1892}{W5}{Nn},{W3}{W30} do you like{W3} school swimsuits?"
 
 @MAO_MW1_A:581 PLY 8e7dd88a
-
+"What?! W-why?"
 
 @MAO_MW1_A:582 MAO a947077a
-
+"{V1893}{W5}You come{W6} to the pool{W3} with no reason.{W15} {F3}{Ec}You're{W3} curious,{W3}{W3} aren't you?"
 
 @MAO_MW1_A:583 PLY 5efbfb2b
-
+"N-no, I'm not... I-it was just by chance."
 
 @MAO_MW1_A:584 MAO f7e86a79
-
+"{V1894}{W9}Hmm~{W6}{W3}"
 
 @MAO_MW1_A:585 MAO 6e63fdd2
-
+"{V1895}{W6}{W9}{W6}Fine,{W30} I'll let you say that.{Fe3}"
 
 @MAO_MW1_A:586 PLY 6b600efe
-
+"M-Mao..."
 
 @MAO_MW1_A:587 PLY ee48c522
-
+"It might be a little dirty, but..."
 
 @MAO_MW1_A:588 MAO 857639d1
-
+"{V1897}{W6}{W3}Hmm,{W75} {Nn}{W3}{W6}{W9}{W2}{W2}, you're a boy too, I see~"
 
 @MAO_MW1_A:589 PLY 49f95e13
-
+"Mao, what are you going to do after you graduate?"
 
 @MAO_MW1_A:590 MAO 166a0397
-
+"{V1898}{W5}Hmm,{W6}{W45} I'd like{W3} to go to college,{W3} but~"
 
 @MAO_MW1_A:591 PLY 346e923f
-
+"Then you'd better study."
 
 @MAO_MW1_A:592 MAO 0251340d
-
+"{V1899}{W15}I know,{W1}{W3} but...{W6}{W6}{W9}{W23} hey{Sd}"
 
 @MAO_MW1_A:593 MAO 50c95eb8
-
+"{V1900}{W6}Hey,{W15} {Nn},{W15} let's talk about{W9} something{W9} more{W3} fun.{Eo}"
 
 @MAO_MW1_A:594 PLY 1f0593f9
-
+"Mao, do you think I'll ever become popular?"
 
 @MAO_MW1_A:595 MAO 96cf46af
-
+"{V1901}{W5}Hm?{W45} What's with the{W6} weak talk?{W4}"
 
 @MAO_MW1_A:596 MAO 6d79561c
-
+"{V1902}{W6}Leave it{W15} to{W6} me.{W30} {Eo}{F3}I'll{W15} totally{W6} make{W9} {Nn} into{W9} a cool{W9} guy."
 
 @MAO_MW1_A:597 PLY 769fd646
-
+"You'd better cure your study allergy soon, or entrance exams will be rough."
 
 @MAO_MW1_A:598 MAO 2470db25
-
+"{V1903}{W10}I{W6} know{W3}{W3}{W3}{W3}~.{W37} {Eo}Think of a way{W3} to cure{W3} it{W3} fast{W3}{W1}{W6} for me~{Sd}"
 
 @MAO_MW1_A:599 PLY 145c2dd0
-
+"Y-yeah. I'll do my best."
 
 @MAO_MW1_A:600 MAO 474ecddb
-
+"{V1904}{W5}Please,{W9} {Nn}~"
 
 @MAO_MW1_A:602 PLY 9d0d3412
-
+"When I think about the future..."
 
 @MAO_MW1_A:603 MAO dd0c6275
-
+"{V1906}{W6}Yeah{W6}{W3}{W3}~{W3}, {W85}{Ec}it's depressing{W6}{W3}{W1}{W1}~"
 
 @MAO_MW1_A:605 PLY 5c8c37cf
-
+"Mao, when did your eyesight get bad again?"
 
 @MAO_MW1_A:606 MAO 8961daad
-
+"{V1907}{W9}In{W6} second{W6} grade{W3}{W6}{W3}.{W6}"
 
 @MAO_MW1_A:607 MAO 944d0ed8
-
+"{V1908}{W6}From the back{W6} row of{W6} class,{W6} {W5}I{W6} couldn't{W6} see the blackboard{W6} anymore.{Sd} {W35}It was a shock~"
 
 @MAO_MW1_A:608 MAO d24abc6b
-
+"{V1909}{W6}Then it kept getting worse,{W45} {Ec}and by the time I started{W6} middle{W3} school{W3}{W3}{W6} I{W6} had{W15} coke-bottle{W6} glasses{W6}{W3}..."
 
 @MAO_MW1_A:609 MAO 914f12c0
-
+"{V1910}{W6}They hurt{W9} my{W3} ears,{W7}{W3}{W30} hurt{W6} my{W1} nose,{W6}{W1}{W1}{W13} narrow{W3} my view,{W55} {Fe9}and once you switch to contacts{W1}{W1}{W1}{W1}{W1}{W}{!},{W12} you{W2} can't go back{W4} to{W4} glasses.{Ec}"
 
 @MAO_MW1_A:611 PLY 6315da45
-
+"Is there anything you've kept doing since you were little?"
 
 @MAO_MW1_A:612 MAO dabe4cf8
-
+"{V1911}{W15}Preparing{W3} and reviewing{W3} lessons!{W3}"
 
 @MAO_MW1_A:613 MAO 5714f2e5
-
+"{V1912}{W6}Just{W6} kidding,{W2}{W3} {W30}that's the past.{W9} {W30}{Ec}I haven't done it at all{W6}{W6} since{W9} I{W6} started{W5} high school.{Sd}"
 
 @MAO_MW1_A:615 PLY 0d7a3691
-
+"When I remember the old days..."
 
 @MAO_MW1_A:616 MAO 1f921376
-
+"{V1914}{W5}What's gotten into you{W9} all of a sudden?{W2}{W3} {W30}You're not old{W6} enough{W9} to get nostalgic,{W6}{W3} are you?{Sd}"
 
 @MAO_MW1_A:617 PLY 18bca7c3
-
+"Y-you're right..."
 
 @MAO_MW1_A:619 PLY a62506ee
-
+"Mao, you've gotten pretty..."
 
 @MAO_MW1_A:620 MAO 584b3fdc
-
+"{V1915}{W9}Really?{W75} {F2}Hearing that from {Nn}{W3} {W18}{Ec}makes me really happy."
 
 @MAO_MW1_A:621 MAO 1946e55f
-
+"{V1917}{Bt120}{W5}Um,{W15} ...{W12}you see,{W48} {Fe3m7}you've known{W9} me{W15} since{W9} forever,{W18} so."
 
 @MAO_MW1_A:622 PLY 696225c1
-
+"I see."
 
 @MAO_MW1_A:623 PLY 386060a0
-
+"Mao..."
 
 @MAO_MW1_A:624 MAO eaedbf7c
-
+"{V1919}{W6}Really?{W30} Thanks for the compliment.{W3}"
 
 @MAO_MW1_A:629 SYS 9b3cbf89
-
+{Ti0}{Ti2}Stare......
 
 @MAO_MW1_A:630 MAO 575403c1
-
+"{V1920}{W5}Hm?"
 
 @MAO_MW1_A:631 MAO 78423455
-
+"{V1921}{W5}What's wrong?{W33} You{W5} suddenly{W8} went{W3} quiet.{W30}{Sd} Are we{W8} done talking?"
 
 @MAO_MW1_A:632 PLY 1c80789b
-
+"N-no, it's not that..."
 
 @MAO_MW1_A:635 PLY 439f97f3
-
+"Mao."
 
 @MAO_MW1_A:636 MAO 7da54a36
-
+"{V1922}{W5}Hm?"
 
 @MAO_MW1_A:637 SYS a77d0776
-
+{Ti0}Smile!
 
 @MAO_MW1_A:638 MAO 968717cd
-
+"{V1924}{W8}W-{W30}what?{W30} What's wrong,{W15} grinning{W3} all{W3} of a sudden?"
 
 @MAO_MW1_A:639 MAO bb67983f
-
+"{V1925}{W3}That's uncool,{W15} laughing{W5} at a memory."
 
 @MAO_MW1_A:640 PLY 76a622ad
-
+"No, it's not that..."
 
 @MAO_MW1_A:642 PLY 7bcaa667
-
+(Okay, I'll put on a cool face and nail it!)
 
 @MAO_MW1_A:643 MAO b9e3a604
-
+"{V1926}Hm?"
 
 @MAO_MW1_A:644 SYS c2ab9f12
-
+{Ti0}Scowl!
 
 @MAO_MW1_A:645 MAO 516227a0
-
+"{V1927}{Sp}{W8}W-{W30}what's wrong?{W30} Why the wrinkles{W3} between your brows?{Sd} {Fe9m7}{W15}Did you bite your{W5} tongue?"
 
 @MAO_MW1_A:646 PLY 384136a9
-
+"N-no... it's nothing..."
 
 @MAO_MW1_A:648 PLY 6a0ce4d0
-
+(Okay, I'll be bold and take her hand...)
 
 @MAO_MW1_A:653 SYS 1ffe4b9d
-
+{T0.0}Squeeze!
 
 @MAO_MW1_A:657 MAO a4e2b57c
-
+"{V1928}{W5}Ow!{W5}{W3}"
 
 @MAO_MW1_A:658 PLY 77e38448
-
+"Ah, s-sorry!"
 
 @MAO_MW1_A:659 MAO cf71a9e8
-
+"{V1929}{W8}Geez,{W15} what?{W30} I can't win{W5} a grip{W5} contest.{W3} {W15}It's not like when we{W3} were kids{W3}.{W3}"
 
 @MAO_MW1_A:660 PLY d9fc69a6
-
+"Right. Hahaha..."
 
 @MAO_MW1_A:663 PLY b48ba947
-
+"Nice weather again today."
 
 @MAO_MW1_A:664 MAO 0b196eda
-
+"{V1930}{W5}Yeah{W2}{W2}{W2}~.{W40} It still{W3} feels{W3} like{W3} summer~"
 
 @MAO_MW1_A:666 MAO 37cc4361
-
+"{V1931}{W5}Looking at {Nn},{W3}{W30} I{W5} miss{W5} being{W5} in Year 2.{W3}"
 
 @MAO_MW1_A:667 PLY 1e7b507c
-
+"It's only one year apart, though?"
 
 @MAO_MW1_A:668 MAO 85dfae8f
-
+"{V1932}{W5}Year 2 and Year 3{W5} are{W5} very different.{W5} {W40}High school{W5} ending{W5} in{W5} half{W5} a year{W5} is{W5} {W8}{Fe6}just{W5} too{W5} sad."
 
 @MAO_MW1_A:669 MAO 04c523fe
-
+"{V1933}{W5}I have{W5} half a year left,{W45} so I'd{W5} better{W8} enjoy{W5} it{W3} as much as{W5} I can."
 
 @MAO_MW1_A:671 MAO db9b4bbe
-
+"{V1934}{W5}{Nn}{W3}, do you and Nana{W3}{W15}{W3}{W3}{W3} go to school together?"
 
 @MAO_MW1_A:672 PLY c89d7ccb
-
+"No, separately."
 
 @MAO_MW1_A:673 MAO 759937b0
-
+"{V1935}{W3}Why?"
 
 @MAO_MW1_A:674 PLY 198a2b83
-
+"She's so serious that she leaves really early. I can't keep up with that."
 
 @MAO_MW1_A:675 MAO 706e7aa9
-
+"{V1936}{W5}{W5}I see.{W50} {Nn}{W3}, you sleep in{W5}{W5} in the morning, after all."
 
 @MAO_MW1_A:676 PLY 38bc8c85
-
+"...I don't want to hear that from you, Mao."
 
 @MAO_MW1_A:677 MAO 115f087f
-
+"{V1937}{W5}Ahaha,{W3}{W5}{W30} sorry,{W5}{W3} sorry."
 
 @MAO_MW1_A:678 PLY 4f25fb9e
-
+"Mao, you seem like you have a lot of hobbies."
 
 @MAO_MW1_A:679 MAO 35c2fc37
-
+"{V1938}{W5}Do I?{W8}{W45} Not really?"
 
 @MAO_MW1_A:680 MAO 93ae9d72
-
+"{V1939}{W5}Oh... but{W30} I do get interested{W3} in a lot{W5} of things.{W20} {Fe3}Things that might get popular,{W10} {F2}{Ec}things I've never seen."
 
 @MAO_MW1_A:682 PLY 4bd08a10
-
+"Mao, what's your favorite thing to do?"
 
 @MAO_MW1_A:683 MAO 1de5b5cd
-
+"{V1940}{W5}My favorite{W5} thing?{W5}{W60} Let's see...{W30} {Fe2}chatting{W3} over{W5} tea, maybe?"
 
 @MAO_MW1_A:684 MAO b5b5df08
-
+"{V1941}{W5}Fufu,{W30} even without{W2} tea,{W3}{W2}{W1}{W1}{W1}{W1} {W15}{Ec}it's fun{W3} talking{W5} with {Nn}.{W6}"
 
 @MAO_MW1_A:686 MAO eed9ca17
-
+"{V1942}{W5}Ah,{W3}{W8}{W8} {W15}I wish{W5} class{W3} would hurry up and end.{W3}"
 
 @MAO_MW1_A:687 PLY 65b2c6f4
-
+"You're impatient. It isn't even noon yet."
 
 @MAO_MW1_A:688 MAO 44932c03
-
+"{V1943}{Sp}{W5}Ahaha,{W8}{W3}{W3}{W30} {Fm4}I know{Fm2}"
 
 @MAO_MW1_A:690 PLY 96786046
-
+"It's unusual to see you in the Library, Mao."
 
 @MAO_MW1_A:691 MAO c883636b
-
+"{V1944}{W5}I'm bored,{W8}{W1}{W30} so I thought I'd read a book{W5} or{W3} something."
 
 @MAO_MW1_A:692 PLY e916b76f
-
+"Hahaha, that's not what I'd expect from someone taking entrance exams."
 
 @MAO_MW1_A:693 MAO 3a2b52f4
-
+"{V1945}{W8}You're{W8} so{W4} annoying~!{W1}"
 
 @MAO_MW1_A:694 MAO 6f6b5849
-
+"{V1946}{W13}I{W1} want{W5} to{W1} cure{W1} this{W5} allergy{W1} soon{W1} and{W5} study.{W45} {Ec}If{W5} I{W5} don't,{W15} I'll{W1} get{W1} left{W1} further{W1} and{W1} further{W1} behind.{W1}{W1}"
 
 @MAO_MW1_A:695 MAO 52f1c7f2
-
+"{V1947}{W8}Well,{W40} there's{W5} no point in rushing, I guess."
 
 @MAO_MW1_A:697 PLY 399b72f2
-
+"Mao! There's a cockroach by your feet!"
 
 @MAO_MW1_A:698 MAO 1241534f
-
+"{V1948}{W6}What?! {W9}Where?! {W9}Where?!{Sd}"
 
 @MAO_MW1_A:699 PLY eb00b47c
-
+"Oh... it's just that burn mark from the other day."
 
 @MAO_MW1_A:700 MAO 8b6305d7
-
+"{Eo}{Nn}~, {W9}{V1950}{W15}you{W8} did{W5} that{W3} on{W1} purpose!{W20} You{W2} tricked{W1} me{W1}~!"
 
 @MAO_MW1_A:701 PLY 5b466241
-
+"Hahaha, sorry, sorry."
 
 @MAO_MW1_A:703 PLY 5dfcb937
-
+"The wind feels nice on the rooftop."
 
 @MAO_MW1_A:704 MAO 178f9602
-
+"{V1952}{W5}It{W3} sure{W3} does~.{W45} It's{W5} perfect{W3} for{W3} taking a break.{Eo}"
 
 @MAO_MW1_A:705 PLY dec91290
-
+"A break? From what?"
 
 @MAO_MW1_A:706 MAO 7697e928
-
+"{V1953}{W5}{Sp}You're{W5} so{W3} annoying,{W3} you{W3} know,{W28} that{W3} was{W3} one{W8} word too{W3} many."
 
 @MAO_MW1_A:708 PLY 3b971e0d
-
+"You really like the Terrace, don't you, Mao?"
 
 @MAO_MW1_A:709 MAO 7775866f
-
+"{V1954}{W5}I do.{W30} It's perfect for relaxing{W8} or{W5} chatting.{Ec}"
 
 @MAO_MW1_A:711 PLY d2122f8f
-
+"Mao, you should watch out for sudden gusts of wind."
 
 @MAO_MW1_A:712 MAO 0a8a3a98
-
+"{V1955}{W5}Ah...{W60} Geez! {W10}{F8}Hurry up{W10} and{W5} erase that{W5} from your memory!"
 
 @MAO_MW1_A:713 PLY cde07721
-
+"You can't just tell me that..."
 
 @MAO_MW1_A:714 MAO fd6ba611
-
+"{V1956}{W5}Geez.{W30} {Eo}If you{W3} remember{W3} it again,{W5} I{W3} won't forgive you."
 
 @MAO_MW1_A:716 PLY 66698727
-
+"What's your favorite item on the Cafeteria menu, Mao?"
 
 @MAO_MW1_A:717 MAO f2f0ac59
-
+"{V1957}{W3}A salad and{W1} fresh juice.{W15} {Fe3}And{W3} after the meal,{W15} {F2}{Ec}coffee."
 
 @MAO_MW1_A:719 MAO 2922fc59
-
+"{V1958}{W3}Hey,{W5} {Nn}.{W30} I wonder what{W3} happened{W3} to{W8} that stray cat...{W15}"
 
 @MAO_MW1_A:720 PLY 2813322f
-
+"It's okay, Mao. I'm sure it's alive and well somewhere, living tough."
 
 @MAO_MW1_A:721 MAO 43087d72
-
+"{V1959}{W8}Yeah...{W45}{Fe4} you're{W8} probably right."
 
 @MAO_MW1_A:722 MAO f837e237
-
+"{V1960}{W8}I wish I could see it again..."
 
 @MAO_MW1_A:724 PLY ca6843cb
-
+"Lately I've been thinking..."
 
 @MAO_MW1_A:725 MAO 48e6beff
-
+"{V1961}{W5}Uh-huh, uh-huh."
 
 @MAO_MW1_A:726 MAO 46412881
-
+"{V1962}{W5}Yeah,{W45} {Eo}you{W3} may be{W3} right, {Nn}."
 
 @MAO_MW1_A:728 PLY 68d9a356
-
+"Third-years have retired from club activities by now, right?"
 
 @MAO_MW1_A:729 MAO 58be7000
-
+"{V1963}{W8}Looks like it,{W3} yeah.{Fe3}"
 
 @MAO_MW1_A:730 MAO 37537bea
-
+"{V1964}{W5}Everyone looks lonely.{W30} Like{W5} their{W3} youth{W5} is{W1} over~."
 
 @MAO_MW1_A:731 PLY e9f77588
-
+"Hahaha, I bet..."
 
 @MAO_MW1_A:733 MAO 4069632d
-
+"{V1965}{W5}Me,{W9}{W15} I think I'm lucky{W3} I{W23} can{W5} hang{W3} out after{W3} school now."
 
 @MAO_MW1_A:735 PLY 6b29ce92
-
+"Did you know there's a girl on the soccer club?"
 
 @MAO_MW1_A:736 MAO 5da3b8ee
-
+"{V1966}{W8}Oh, {W8}I know,{W3} I{W8} know.{W27} {F7}Um,{W8} her{W8} name{W5} is..."
 
 @MAO_MW1_A:737 PLY bcff569f
-
+"Sakino."
 
 @MAO_MW1_A:738 MAO 56cb4cd1
-
+"{V1967}{W8}Right,{W5} right,{W15} that{W5} was{W3} it."
 
 @MAO_MW1_A:739 MAO 9841e802
-
+"{V1968}{W5}Playing{W5} soccer{W3} with{W3} the boys,{W8} she must have{W3} amazing{W3} stamina~.{W15} {Ec}I could never do that."
 
 @MAO_MW1_A:741 PLY 835d52cf
-
+"About club activities, I think..."
 
 @MAO_MW1_A:742 MAO 17f2736c
-
+"{V1970}{W8}Yeah,{W3} you're{W2} right~.{W25} Everyone{W1} tries{W3} so{W3} hard~.{W3}{W3}{W1}"
 
 @MAO_MW1_A:743 MAO 5c527f1c
-
+"{V1971}{W5}{Sp}I{W8} could{W2}n't{W5} do that..."
 
 @MAO_MW1_A:745 PLY 695e5490
-
+"Some girls pick part-time jobs for how cute the uniform is, right?"
 
 @MAO_MW1_A:746 MAO 69b66260
-
+"{V1972}{W5}Oh,{W25} yeah, yeah."
 
 @MAO_MW1_A:747 MAO aa051921
-
+"{V1973}{W5}The shop{W9} I go to{W5} has{W15} a cute{W3} uniform too.{W45} {Fe7}I{W3} might{W5} try{W3} it on, if it's that one.{Fe3}"
 
 @MAO_MW1_A:748 PLY decf4976
-
+"Oh, what kind of shop?"
 
 @MAO_MW1_A:749 MAO 006d38db
-
+"{V1974}{W5}That's{W30} a se{W9}cr{W6}et."
 
 @MAO_MW1_A:751 MAO 088457e7
-
+"{V1975}{W8}Boys{W9} really{W8} love{W5} uniforms,{W5} don't{W5} they~{Fe1}"
 
 @MAO_MW1_A:752 PLY 47128805
-
+"Huh?! W-why?"
 
 @MAO_MW1_A:753 MAO b912d907
-
+"{V1976}{Sp}{W5}When I walk{W3} in front{W2} of{W2} the{W8} station,{W3} I{W8} get{W3} approached{W3} overwhelmingly{W8} more{W5} when{W3} I'm{W3} in{W2} uniform."
 
 @MAO_MW1_A:754 MAO 88b22863
-
+"{V1977}{W15}The magic{W5} of{W45} a{W3} uniform{W5} is{W3} immeasurable..."
 
 @MAO_MW1_A:756 PLY fbdbdf0e
-
+"What do you like best about our uniform?"
 
 @MAO_MW1_A:758 MAO 72f3c2a1
-
+"{V1978}{W5}Let's see~,{W60} I like the skirt.{W30} {F2}{Ec}The line{W5} at the{W3} hem{W3} is{W2} the key."
 
 @MAO_MW1_A:760 PLY fcae64ea
-
+"Our uniform is..."
 
 @MAO_MW1_A:761 MAO 0583995d
-
+"{V1980}{W5}Right.{W40} It might be the{W3} best{W3} around{W3} here."
 
 @MAO_MW1_A:763 PLY 31b7386e
-
+"Don't you want to try being on the Discipline Committee or something?"
 
 @MAO_MW1_A:764 MAO d656767f
-
+"{V1981}{W8}No,{W8} I{W3} don't."
 
 @MAO_MW1_A:766 MAO ca84a5c9
-
+"{V1982}{W8}{Ec}Getting up{W3} early{W3} every morning{W3} to{W3} come to school?{W15} That's{W1} hell,{W3} pure{W3} hell."
 
 @MAO_MW1_A:768 PLY 075c25f3
-
+"If you ever became a committee member..."
 
 @MAO_MW1_A:769 MAO 5fec40a4
-
+"{V1984}{W5}Hmm{W3}...{W60} good{W8} luck.{W30} {Fe7m6}Not{W8} for{W8} me{W8} though."
 
 @MAO_MW1_A:770 PLY d2a31e9a
-
+"Which school rule do you hate most?"
 
 @MAO_MW1_A:771 MAO 46d68e51
-
+"{V1985}{W5}All{W9} of{W9} them.{Eo}{W5}{W9}{W6}"
 
 @MAO_MW1_A:772 PLY 85727558
-
+"D-don't say that, pick just one..."
 
 @MAO_MW1_A:773 MAO f7935661
-
+"{V1986}{Sp}{W5}Hmm{W3}...{W3}"
 
 @MAO_MW1_A:774 MAO 4e6c8455
-
+"{V1987}{W5}Maybe that one?{W30} The skirt must be{W5} 3{W5} cm{W5} above{W5} the{W2} knee{W3} thing."
 
 @MAO_MW1_A:775 MAO c147c098
-
+"{V1988}{W5}That's so{W3} outdated~.{W30} {F6}{Eo}If{W3} you dress that{W3} dowdy,{W15} I{W3} think it{W3} actually{W3} hurts the school's{W3} image."
 
 @MAO_MW1_A:777 PLY 2a86fdf8
-
+"Our school rules are..."
 
 @MAO_MW1_A:778 MAO bccf9828
-
+"{V1990}{Sp}{W5}Right,{W5} right.{W30} They're{W5} so{W3} picky{W3} about{W6} every little thing~."
 
 @MAO_MW1_A:780 MAO dc1974f2
-
+"{V1991}{W8}Ms.{W5} {W5}Kawada{W5} is{W15} popular{W3} with the{W3} boys, isn't she~?"
 
 @MAO_MW1_A:781 MAO dbee1b59
-
+"{V1992}{W5}I{W3} wonder{W3} if{W5} boys{W30} really{Fe3} prefer{W5} older{W5} women?{W3}"
 
 @MAO_MW1_A:782 PLY a76bea04
-
+"W-who knows...?"
 
 @MAO_MW1_A:783 MAO 368387bb
-
+"{V1993}{W5}Ah! {W30}You turned red!{W45} {F9}What?{W5}{W45} {Nn}{W3}, do you like Ms. Kawada{W3}{W3} too?"
 
 @MAO_MW1_A:784 PLY b8ce2d63
-
+"O-of course not!"
 
 @MAO_MW1_A:785 MAO b76da731
-
+"{V1994}{W5}Hmm{W3}~,{W50} getting{W3} so defensive{Eo} is{W5} suspicious~."
 
 @MAO_MW1_A:786 PLY 9856212a
-
+"I told you, that's not it..."
 
 @MAO_MW1_A:788 PLY 05637668
-
+"What do you think Ms. Kawada's good points are?"
 
 @MAO_MW1_A:789 MAO 957fe63c
-
+"{V1995}{W5}That she's cute, I think.{W30} {Ec}We{W9} get along,{W15} and she{W5} feels more like a{W5} friend{W5} than{W5} a{W5} teacher."
 
 @MAO_MW1_A:791 MAO 02bfc502
-
+"{V1996}{W5}Hey, Tomo... {W15}I mean,{W30} {Fe3}Ms.{W5} Kawada's{W5} chalk{W5} throwing, have{W3} you ever seen it?"
 
 @MAO_MW1_A:792 PLY a87aae24
-
+"Huh? No, why?"
 
 @MAO_MW1_A:793 MAO 6d66dc99
-
+"{V1997}{W15}I see.{W35} {Fe3}Maybe she only{W5} shows it to our class,{W5} since she's our homeroom teacher."
 
 @MAO_MW1_A:794 PLY 2f9fb588
-
+"Maybe. ...So, does it hit?"
 
 @MAO_MW1_A:795 MAO c0df90cc
-
+"{V1998}{Sp}{W5}Not{W3} at{W3} all.{W30} {Eo}It hits{W5} some{W5} totally{W3} unrelated{W3} kid, and she{W7} apologizes."
 
 @MAO_MW1_A:796 PLY 04733997
-
+"Hahaha."
 
 @MAO_MW1_A:797 MAO 426719c2
-
+"{V1999}{W5}Well,{W12} that's the cute part about her, though.{F2}{Ec}"
 
 @MAO_MW1_A:799 PLY 51c1345d
-
+"Speaking of Ms. Kawada..."
 
 @MAO_MW1_A:800 MAO 93ca960b
-
+"{V2001}{W5}Really~?{W30} That happened?{W30} {F2}{Ec}{W30}That's so Tomo."
 
 @MAO_MW1_A:802 PLY 1eea9ea5
-
+"What would you do if I transferred schools?"
 
 @MAO_MW1_A:803 MAO 46fd0b42
-
+"{V2002}{W8}What?!"
 
 @MAO_MW1_A:804 MAO 493530e8
-
+"{V2003}{W3}...Why{W30} would you say{W6} something so sad?{Eo}"
 
 @MAO_MW1_A:805 PLY 6e843fa6
-
+"Ah, no... I was just asking..."
 
 @MAO_MW1_A:806 MAO 63126dd6
-
+"{V2004}{W8}We finally started{W6} talking again,{W15} and now a{W5} transfer...{W48} I{W5} don't even want to{W6} think about it."
 
 @MAO_MW1_A:807 PLY ce52713a
-
+"S-sorry..."
 
 @MAO_MW1_A:809 PLY d8ebc984
-
+"If I ever had to transfer..."
 
 @MAO_MW1_A:810 MAO 28d707c8
-
+"{V2006}{W5}{Eo}Geez...{W60} stop{W1} talking{W1} about{W1} that.{W9}{W2}"
 
 @MAO_MW1_A:812 PLY 10c4bfa9
-
+"You don't seem to study at all, Mao. Are you okay?"
 
 @MAO_MW1_A:814 MAO 8f2903a9
-
+"{V2007}{W5}I'm{W8} not{W5} okay{W5}...{W3}{W1}"
 
 @MAO_MW1_A:815 PLY 318e1648
-
+"Then you should study..."
 
 @MAO_MW1_A:816 MAO 3588b05c
-
+"{V2008}{W5}...There{W5} are reasons{W15} I{W8} can't{W21} study."
 
 @MAO_MW1_A:817 PLY 74d4ad4c
-
+"Like what?"
 
 @MAO_MW1_A:818 MAO 76467027
-
+"{V2009}{W8}That's{W75}...{W38} {Ec}{Fm4}something I'll tell you someday."
 
 @MAO_MW1_A:820 PLY cb9bc052
-
+"I was studying at home the other day, and I thought..."
 
 @MAO_MW1_A:821 MAO 638bfc6a
-
+"{V2011}{W5}Hmm,{W30} really.{W45} {Fe9m3}Good{W5} for{W8} you."
 
 @MAO_MW1_A:823 MAO 726eaa9b
-
+"{V2012}{W5}Sigh...{W75} when will{W8} my study allergy{W8} get{W8} better?{Sd}"
 
 @MAO_MW1_A:824 PLY 2d8077f4
-
+"Don't rush it, Mao."
 
 @MAO_MW1_A:825 MAO 9b6efc43
-
+"{V2013}{W15}...{W5}Right,{W45} you're{W3} right,{W6} {Nn}.{W15} {F3}I have to{W5} take this slowly."
 
 @MAO_MW1_A:827 PLY 17da7eb0
-
+"How about taking the covers off your textbooks?"
 
 @MAO_MW1_A:828 MAO 53f08e37
-
+"{V2014}{W5}Hmm,{W45} my mind is fine{W6} with{W6} it,{W30} {Ec}but my body{W9} seems{W6} to{W6} refuse."
 
 @MAO_MW1_A:829 PLY 37f4ffb6
-
+"I see... Looks like all you can do is cure it little by little."
 
 @MAO_MW1_A:830 MAO 58cdfd79
-
+"{V2015}{W8}Right.{W60} ...{W15}If only{W6} I had one more{W6} trigger..."
 
 @MAO_MW1_A:831 PLY f3ceed65
-
+"A trigger, huh..."
 
 @MAO_MW1_A:832 MAO 42aebcdf
-
+"{V2016}Ah...{W30} no,{W30} {Fe2m3}{Ec}you've{W3} done{W3} plenty,{W3} {Nn}, so{W8} it's fine.{W27} {Fe6}{Eo}I'll do{W3} the rest myself."
 
 @MAO_MW1_A:834 MAO d9b21c05
-
+"{V2017}Hey, hey, {Nn},{W15} yesterday{W3} I studied{W3} at home{W24} for the{W3} first{W3} time{W3} in a while!"
 
 @MAO_MW1_A:835 PLY 5cf5173c
-
+"Oh, really?"
 
 @MAO_MW1_A:836 MAO 9fc458f0
-
+"{V2018}{W5}It's nowhere{W6} near{W6} how much I{W6} studied{W6} in{W6} middle{W6} school,{W15} {Fe3}but{W6} I'll get{W3} my body{W6} used to it{W3} little by little."
 
 @MAO_MW1_A:837 PLY e59f8df3
-
+"That's great, Mao."
 
 @MAO_MW1_A:838 MAO 841d0928
-
+"{V2019}{W8}It's thanks to you,{W3} {Nn}.{W25} {Ec}Thanks."
 
 @MAO_MW1_A:840 PLY 783a6858
-
+"I hope you can study at home more and more, like in middle school."
 
 @MAO_MW1_A:841 MAO 13dac82c
-
+"{V2020}{W5}Yeah.{W15} {Ec}I'll give it a try."
 
 @MAO_MW1_A:843 MAO ab3d0205
-
+"{V2021}{W8}Did you know?{W30} Third-years{W5} have{W5} a mock exam{W5} once{W3} a month."
 
 @MAO_MW1_A:844 PLY 9817c7ed
-
+"Huh? Really?"
 
 @MAO_MW1_A:845 MAO e4d7e69d
-
+"{V2022}{Sp}{W5}Sigh...{W15} no{W3} matter how many times I try, what I don't get, I don't get,{W15} {Eo}so it's such{W6} a{W6} nuisance~."
 
 @MAO_MW1_A:846 MAO 9f5f5c53
-
+"{V2023}{W23}Geez!{W30} Tests are just a{W3} pencil-rolling{W3} dice game!"
 
 @MAO_MW1_A:848 PLY 459887d7
-
+"About test scores..."
 
 @MAO_MW1_A:849 MAO 953b4f88
-
+"{V2025}{W5}{Fm8}Geez,{W45} {Ec}I already know that~{Fm4}"
 
 @MAO_MW1_A:851 PLY 14356e05
-
+"I wonder if students taking entrance exams are studying with total focus right about now..."
 
 @MAO_MW1_A:852 MAO c4eb21d7
-
+"{V2026}{W5}Geez,{W15} don't say things like that and{W4} make me panic."
 
 @MAO_MW1_A:854 PLY 30588944
-
+"Is Italian hard?"
 
 @MAO_MW1_A:855 MAO f5926f5a
-
+"{V2027}{W5}W-{W30}what's with that, all of{W3} a{W3} sudden?"
 
 @MAO_MW1_A:856 PLY 67bc717b
-
+"Nothing... I was just wondering..."
 
 @MAO_MW1_A:857 MAO cd98ea18
-
+"{V2028}{W15}I don't think{W6} it's that{W3} hard.{W15} {Fe3}The grammar{W3} seems a{W3} little{W3} different from{W3} English, though."
 
 @MAO_MW1_A:858 MAO 85121bd6
-
+"{V2029}{W5}Do you{W5} want to learn it?{W30} {Fe2m3}Then{W15} when we go shopping{W3} in Italy,{W15} {F2}{Ec}you{W3} can{W5} interpret{W3} for me."
 
 @MAO_MW1_A:860 PLY 293fcacb
-
+"If I learned Italian..."
 
 @MAO_MW1_A:861 MAO 06b51312
-
+"{V2030}{W5}Hmm{W5}~.{W5}"
 
 @MAO_MW1_A:862 MAO ffe8b7b0
-
+"{V2031}{W5}When we go to Italy,{W15} you{W5} can{W5} interpret{W5} for me."
 
 @MAO_MW1_A:864 PLY d4047535
-
+"Are you a fast runner, Mao?"
 
 @MAO_MW1_A:865 MAO 7124d3c9
-
+"{V2032}{W5}The 100 meters,{W3} so-so.{W28} {Fe7}But{W5} I{W3} absolutely{W3} hate{W3} endurance{W5} runs.{Fe3}"
 
 @MAO_MW1_A:866 MAO 65640bf6
-
+"{V2033}{W8}I've run{W5} so far{W3} already,{W5} and then{W5} they{W5} say there are three more{W5} laps,{W8} and I just collapse.{Fm1}{Ec}{Sp} {W15}What,{W5} {W13}three{W5} more{W15} laps?!{Fm2}{Eo}"
 
 @MAO_MW1_A:867 PLY 378e3b4e
-
+"Hahaha, I know what you mean."
 
 @MAO_MW1_A:868 MAO 3a90440c
-
+"{V2034}{W5}Right?"
 
 @MAO_MW1_A:869 MAO 00396bca
-
+"{V2035}{W5}Badminton."
 
 @MAO_MW1_A:870 PLY 7052535d
-
+"Oh, that sounds fun."
 
 @MAO_MW1_A:871 MAO 94b97358
-
+"{V2036}{W5}Want to try{W3} it{W3} together{W3} sometime?{W15} I'm{W9} pretty{W5} good,{W5} you know."
 
 @MAO_MW1_A:873 MAO 63cb54d3
-
+"{V2037}{W5}The sun{W3} was strong today,{W8} so {Fe9}my{W5} skin{W5} is stinging."
 
 @MAO_MW1_A:874 PLY fa3cde4b
-
+"Did you get sunburned?"
 
 @MAO_MW1_A:875 MAO d0900d73
-
+"{V2038}{W15}A little.{W45} {Eo}Ugh,{W30} I wish my skin were{W3} a bit{W3} tougher.{Sd}"
 
 @MAO_MW1_A:877 MAO 9b7db63d
-
+"{V2039}{W15}Oh,{W3} right,{W3} after{W15} that,{W15} {Fe3}it{W3} looks{W3} like you got away safely."
 
 @MAO_MW1_A:878 PLY 6cd92c60
-
+"After what?"
 
 @MAO_MW1_A:879 MAO 684031b4
-
+"{V2040}{W5}Did you{W5} already{W4} forget?{W15} {Sd}{F9}The{W4} pe{W4}ek{W4}ing{W4} in{W4} gym{W6}"
 
 @MAO_MW1_A:880 PLY 24730335
-
+"Eep... you saved me, thanks."
 
 @MAO_MW1_A:881 MAO 79375fb5
-
+"{V2041}{W5}...{W15}Were{W8} you{W2} really{W8} peeking{W30} at{W5} the{W5} girls'{W2} gym{W5} class,{W6} though?"
 
 @MAO_MW1_A:882 PLY d477456a
-
+"Give me a break... of course not."
 
 @MAO_MW1_A:883 MAO 89ed5736
-
+"{V2042}{W5}Fufu."
 
 @MAO_MW1_A:885 PLY 0528ea40
-
+"All things considered, P.E. is..."
 
 @MAO_MW1_A:886 MAO 44bf5d67
-
+"{V2044}{W5}Exactly.{W30} It's{W3} {W3}way{W3} better{W3} than{W3} studying{W3} in{W3} class.{W13}{W3}"
 
 @MAO_MW1_A:888 PLY c91c88af
-
+"If you're going swimming, which is better, the pool or the sea?"
 
 @MAO_MW1_A:889 MAO 95e7b3a1
-
+"{V2045}{W5}If{W5} we're{W2} swimming,{W35} the{W2} pool.{Fe3}"
 
 @MAO_MW1_A:890 MAO 0870847d
-
+"{V2046}{W5}Salt{W3} water{W3} gets all sticky, so I don't like it much...{Sd}"
 
 @MAO_MW1_A:892 MAO cd6d827b
-
+"{V2047}{W5}A{W1} pool{W1} has{W1} water{W1} slides and stuff,{W15} {W5}{Ec}so there's lots to enjoy, right?"
 
 @MAO_MW1_A:894 PLY 71e6ea13
-
+"Mao, can you dive?"
 
 @MAO_MW1_A:895 MAO 014c203d
-
+"{V2048}{W8}Of course I can."
 
 @MAO_MW1_A:896 MAO dce00696
-
+"{V2049}{W8}Provided{W30} you{W1} wait{W1} about{W5} ten{W1} minutes{W3} until{W1} I{W6} work{W6} up the courage to jump in.{Sd}"
 
 @MAO_MW1_A:897 MAO 42289bf4
-
+"{V2050}{W5}Fufu."
 
 @MAO_MW1_A:899 PLY 56632105
-
+"The fun of swimming is..."
 
 @MAO_MW1_A:900 MAO 4b18d158
-
+"{V2052}{W15}Right,{W30} {Eo}{F3}just{W3} stretching{W3} out{W3} your{W5} arms{W5} and{W3} legs{W5} in a big pool{W15} feels really,{W15} {W15}really good, doesn't it?"
 
 @MAO_MW1_A:902 PLY 4cbf7596
-
+"Is there any sport you'd like to try?"
 
 @MAO_MW1_A:903 MAO f8c77e17
-
+"{V2053}{W5}Lacrosse!"
 
 @MAO_MW1_A:904 PLY 724f0eb5
-
+"Ah, you'd look good in it."
 
 @MAO_MW1_A:905 MAO 9f19cb44
-
+"{V2054}{W5}Right?{W30} {Eo}I want to try on that kit."
 
 @MAO_MW1_A:907 PLY fa07bf3e
-
+"Sports are better than doing them alone..."
 
 @MAO_MW1_A:908 MAO 045a21f1
-
+"{V2056}{W5}Now that you mention it, you're right.{W35} {F3}Want{W3} to{W2} start{W2} something together?"
 
 @MAO_MW1_A:910 PLY 23ff96ec
-
+"Dance seems good for dieting."
 
 @MAO_MW1_A:911 MAO 9bd0c9fe
-
+"{V2057}{W5}It is.{W30} {Eo}{F3}If you want{W3} to slim down{W3} indoors,{W15} moving to your{W3} favorite{W6} songs{W8} is{W3} the best,{W3} don't{W3} you think?"
 
 @MAO_MW1_A:913 PLY 5419bead
-
+"Is dance hard?"
 
 @MAO_MW1_A:914 MAO 4c6a7169
-
+"{V2058}{W5}That's easy.{W30} {Fe2}You{W5} just{W5} ride the{W6} rhythm{W15} and{W3} move{W3} however{W3} feels right."
 
 @MAO_MW1_A:915 PLY ab07fb00
-
+"That's all it takes?"
 
 @MAO_MW1_A:916 MAO 065935b3
-
+"{V2059}{W5}Yep.{W30} It's all about the vibe."
 
 @MAO_MW1_A:918 PLY dba4bc62
-
+"I don't really get dance..."
 
 @MAO_MW1_A:919 MAO 237077d1
-
+"{V2061}{W5}It's{W15} all{W10} vibe.{W3}{W2}{W1}{W1}{W1}{W1}"
 
 @MAO_MW1_A:921 PLY b7b5e3f2
-
+"Lately, music players with built-in hard drives are popular."
 
 @MAO_MW1_A:922 MAO cefdd5f9
-
+"{V2062}{W5}Ah,{W18} they{W2} are~{W1}{W1}"
 
 @MAO_MW1_A:923 MAO 6facb26a
-
+"{V2063}{W5}You can carry around a thousand or two thousand songs, right?{W8} {F2}{Ec}So handy~"
 
 @MAO_MW1_A:924 MAO ad4df0d1
-
+"{V2064}{W5}After{W3} I{W3} graduate,{W30} I'll buy{W3} one{W3} with a computer,{W8} {Fe3}and maybe ask Papa for it."
 
 @MAO_MW1_A:926 MAO 6e8f2b5a
-
+"{V2065}{W5}Hey,{W45} {Nn},{W15} have{W3} you gotten{W8} better at singing?"
 
 @MAO_MW1_A:927 PLY 278dc7ac
-
+"I was never bad at it."
 
 @MAO_MW1_A:928 MAO 34df6cf9
-
+"{V2066}{W5}Really?{W30} I don't think you were that good."
 
 @MAO_MW1_A:929 PLY 717d2572
-
+"You're just too good, Mao."
 
 @MAO_MW1_A:930 MAO 94ffce7d
-
+"{V2067}{W5}Fufu,{W30} am{W5} I?{W20} Thanks.{W3}"
 
 @MAO_MW1_A:931 MAO 2d2dc4b8
-
+"{V2068}Let's go to karaoke sometime.{W15} {F2}I want to hear{W3} {Nn}{W3} sing{W5} for{W15} the first time in ages."
 
 @MAO_MW1_A:933 PLY f3cd5e9c
-
+"If you were in a band, what instrument would you play?"
 
 @MAO_MW1_A:934 MAO b2b1c126
-
+"{V2069}{W5}Guitar and{W30} vocals, of course."
 
 @MAO_MW1_A:935 MAO e4411de7
-
+"{V2070}{W5}If you're going to stand out anyway,{W15} you might as well {Ec}go all the way, right?"
 
 @MAO_MW1_A:936 PLY 5d402ccb
-
+"Hahaha, that's so like you, Mao."
 
 @MAO_MW1_A:938 PLY 68fd94c5
-
+"There's a song I heard the other day..."
 
 @MAO_MW1_A:939 MAO 5cbedbb4
-
+"{V2071}{W5}Hmm{W3}hm{W3}...{W3}{W3}"
 
 @MAO_MW1_A:940 MAO 805ca5f1
-
+"{V2072}{W5}Ah,{W30} that must{W5} be this one.{W15} {Fe3m2}I've{W5} heard it in a commercial."
 
 @MAO_MW1_A:941 MAO 0af9c6c2
-
+"{V2073}{W5}It's{W6} a{W3} nice{W3} song,{W8} isn't{W5} it?"
 
 @MAO_MW1_A:943 PLY 19e2c059
-
+"Did you watch any movies over summer vacation?"
 
 @MAO_MW1_A:944 MAO c166178b
-
+"{V2074}{W8}I did.{W30} A love story{W3} set in{W8} New York."
 
 @MAO_MW1_A:945 MAO 092a620d
-
+"{V2075}{W5}A little{W1} comedic,{W3} {W15}{Fe2}but{W3} touching{W3} too,{W15} {Ec}very{W3} Hollywood."
 
 @MAO_MW1_A:947 PLY 9f86675f
-
+"Mao, about how many DVDs do you have?"
 
 @MAO_MW1_A:948 MAO ed0ed8af
-
+"{V2076}{W10}Around{W6} ten,{W8} I{W6} guess.{Fe3}"
 
 @MAO_MW1_A:949 PLY 722c0f18
-
+"That's quite a few."
 
 @MAO_MW1_A:950 MAO 3cc84531
-
+"{V2077}{W5}When Papa buys{W3} action{W3} movies,{W20} {Ec}I get him{W8} to buy mine too."
 
 @MAO_MW1_A:951 MAO 8c79bf6b
-
+"{V2078}{W5}Most{W1} of{W1} them{W1} are{W1} black-and-white{W3} Hollywood movies, though.{W15} {F2}Actresses{W3} back{W3} then{W6} were{W15} so{W8} beautiful~"
 
 @MAO_MW1_A:953 PLY 3b44e3e0
-
+"The movies you like, Mao..."
 
 @MAO_MW1_A:954 MAO c0ab3a5f
-
+"{V2080}{W5}Fufu, let's see.{W30} Actresses{W3} aside,{W30} {F2}{Ec}I{W3} like movies{W3} with{W3} beautiful{W3} visuals."

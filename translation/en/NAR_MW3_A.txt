@@ -2,118 +2,118 @@
 # Format: docs/translation-format.md
 
 @NAR_MW3_A:10 PLY 3a476f4c
-
+"Narumi, you never mope around when you fail, do you?"
 
 @NAR_MW3_A:15 NAR 4dc2a5ea
-
+"{V2522}{W3}Yes!"
 
 @NAR_MW3_A:18 NAR 7ab912fb
-
+"{V2523}{W8}Well,{W15} I{W8} fail{W4} at{W4} things{W1} all{W1} the{W1} time,{W30} so{W2} if{W2} I{W2} moped{W2} every{W1} time{W1} it{W1} would{W1} be{W5} awful{W5}!{F2}{Ec}"
 
 @NAR_MW3_A:19 PLY 59b464a8
-
+"Hahaha."
 
 @NAR_MW3_A:20 PLY 3374505c
-
+"Narumi, I like how cheerful you always are."
 
 @NAR_MW3_A:22 NAR 45e75008
-
+"{V2524}{W15}Sen{W6}pai{W6}...{W90}{W12} Thank you very much."
 
 @NAR_MW3_A:24 NAR 534b016a
-
+"{V2525}{W8}Eh{W1}e{W1}he,{F2}{W21} I got praised.{Ec}"
 
 @NAR_MW3_A:25 PLY 068eb2fb
-
+"Narumi, I've been thinking..."
 
 @NAR_MW3_A:26 NAR 5af45c08
-
+"{V2526}Huh...?"
 
 @NAR_MW3_A:29 NAR 109afd66
-
+"{V2527}{W5}{Ec}Eh{W1}e{W1}he,{W30} praising me that much{W15} won't get you any{W5}thing{W1}, {W1}you know,{W7}{Eo} Sen{W3}pai.{W3}"
 
 @NAR_MW3_A:30 PLY 65928068
-
+"Narumi..."
 
 @NAR_MW3_A:38 SYS 9b3cbf89
-
+{Ti0}{Ti2}Stare......
 
 @NAR_MW3_A:39 NAR af4a8e53
-
+"{V2528}{W8}Ah,{W41} Sen{W6}pai{W6}..."
 
 @NAR_MW3_A:41 NAR 0a813a41
-
+"{V2529}{W8}When{W5} you{W5} look{W1} at{W1} me,{W1} Senpai,{W1} my{W1} heart{W1} starts{W1} racing,{W33} I{W1} mean{W1}...{W1}{W1}"
 
 @NAR_MW3_A:47 PLY f6942a3b
-
+"Narumi."
 
 @NAR_MW3_A:49 NAR 0aeadc18
-
+"{V2530}{W3}Yes?{W5} {Nm}{W3}{W3}{W3}{Ec}{W3}"
 
 @NAR_MW3_A:53 SYS a77d0776
-
+{Ti0}Smile!
 
 @NAR_MW3_A:54 NAR a7556979
-
+"{V2531}{W5}Ah..."
 
 @NAR_MW3_A:55 NAR f699c5b7
-
+"{V2532}{W5}Ehehe,{W45} your{W3} smile{W3} is{W30} so{W3} nice,{W4} Senpai.{Ec}"
 
 @NAR_MW3_A:56 PLY 7bcaa667
-
+(Okay, I'll make a cool face and nail it!)
 
 @NAR_MW3_A:60 NAR 049b86fa
-
+"{V2533}{W8}Yes?"
 
 @NAR_MW3_A:61 SYS c2ab9f12
-
+{Ti0}Smirk!
 
 @NAR_MW3_A:62 NAR fcf05e4d
-
+"{V2534}{W5}Ah..."
 
 @NAR_MW3_A:63 NAR 32aef184
-
+"{V2535}{W5}...{W5}..."
 
 @NAR_MW3_A:64 NAR c04c5a9f
-
+"{V2536}{W5}Senpai,{W3} you{W3} know,{W30} um...{W90} I{W3} think,{W45} you're really cool."
 
 @NAR_MW3_A:65 PLY 6a0ce4d0
-
+(Okay, I'll be bold and take her hand...)
 
 @NAR_MW3_A:70 SYS 5ca05822
-
+{Ti0}Squeeze
 
 @NAR_MW3_A:71 NAR fb6c1141
-
+"{V2537}{W8}Ah..."
 
 @NAR_MW3_A:72 NAR 24dd3b0b
-
+"{V2538}{W5}Eh{W5}e{W1}he,{W45}{Eo}{W2} Sen{W3}pai{W3}..."
 
 @NAR_MW3_A:73 NAR 817ff8a2
-
+"{V2539}{W5}Ah..."
 
 @NAR_MW3_A:74 NAR f1ad1d09
-
+"{V2540}{W5}Ehehe,{W45}{Eo} your{W3} hand,{W15} Senpai,{W3} it's{W2} so big~"
 
 @NAR_MW3_A:79 PLY 3abb9c73
-
+(Narumi...)
 
 @NAR_MW3_A:93 NAR 079a58d1
-
+"...{E}......{E}?"
 
 @NAR_MW3_A:94 PLY 9e21761b
-
+(I-I was imagining that right in front of her...)
 
 @NAR_MW3_A:95 PLY f91b3fc4
-
+(No good... I have to pull myself together...)
 
 @NAR_MW3_A:96 PLY 0304f087
-
+(Huh...? What is this feeling?)
 
 @NAR_MW3_A:98 PLY 618d61ad
-
+(What...? Something feels like it's about to happen here...)
 
 @NAR_MW3_A:100 PLY 6f3c9fdd
-
+(Whoa!)
 
 @NAR_MW3_A:101 PLY 112e988a
-
+(Huh? What was I doing? I...)

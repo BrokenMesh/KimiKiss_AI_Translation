@@ -2,886 +2,886 @@
 # Format: docs/translation-format.md
 
 @MIT_GKD_B:25 PLY 53ee1691
-
+"Shijou, is there anywhere you want to stop by?"
 
 @MIT_GKD_B:28 MIT 89465b17
-
+"{V0913}{W10}I{W6} will go{W13} wherever you wish{W10} to go,{W3}{W3} Master.{W3}{W6}"
 
 @MIT_GKD_B:30 PLY 2401dabb
-
+"I-I see..."
 
 @MIT_GKD_B:32 MIT 14a7a678
-
+"{V0914}{W8}Would you like{W5} to stop somewhere?"
 
 @MIT_GKD_B:33 PLY f165077a
-
+"...No, there's nowhere I want to stop, so I'll walk you straight home."
 
 @MIT_GKD_B:34 MIT 7ac3359f
-
+"{V0915}{W10}Ah...{W45} I could not possibly{W3} trouble you{W3} to walk{W3} me.{W3}{W30} I{W6} will{W3} see{W3} {W10}you{W3}{W3} home,{W25} Master."
 
 @MIT_GKD_B:35 PLY 122df4f6
-
+"Huh?"
 
 @MIT_GKD_B:36 PLY 23033619
-
+"It's backwards for a guy to get walked home by a girl. Let me walk you."
 
 @MIT_GKD_B:37 MIT a1392dce
-
+"{V0916}{W13}But{W2}...{W2}{W2}{W2}"
 
 @MIT_GKD_B:38 PLY 03889a46
-
+"...Shijou, please don't go out of your way for me. I'm asking you..."
 
 @MIT_GKD_B:39 MIT 60dab5d4
-
+"{V917}{W13}Master{W2}{W5}{W5}{W5}...{W2}"
 
 @MIT_GKD_B:40 MIT b03b79f7
-
+"{V0918}{W13}Yes.{W3}{W3}{W65} Then,{W18} would you walk me home?"
 
 @MIT_GKD_B:41 PLY a5564c75
-
+"Sure. Your mansion is by Kibina Pond, right?"
 
 @MIT_GKD_B:42 MIT ce25deb6
-
+"{V0919}{W10}Yes."
 
 @MIT_GKD_B:43 PLY 5ea1ae84
-
+"Which way do you usually go home?"
 
 @MIT_GKD_B:45 MIT d4ecdea9
-
+"{V0920}{W8}I take the road{W3} beside{W3} the{W3} station{W5} and{W3} cut{W3} through{W8} to{W3} the{W5} tree-lined path."
 
 @MIT_GKD_B:46 PLY c65fbc93
-
+"Is that the fastest way?"
 
 @MIT_GKD_B:47 MIT cb973992
-
+"{V0921}{W8}Going through the alleys{W8} would be faster, I think,{W3} but{W40} I am not good{W3} with{W3} places with{W3} few{W2} people{W3} around{W5}...{W1}{W1}{W1}"
 
 @MIT_GKD_B:48 PLY a1ae8f71
-
+"I see. Then let's go to the station..."
 
 @MIT_GKD_B:62 PLY f00b7ed2
-
+"It's always lively here."
 
 @MIT_GKD_B:64 MIT b9005d55
-
+"{V0923}{W10}Yes.{W8}{W33} All sorts{W3} of people are here,{W3} and{W5} it is fun.{W3}"
 
 @MIT_GKD_B:66 MIT 67c2bfbb
-
+"{V0924}{W8}Ah..."
 
 @MIT_GKD_B:67 PLY 4d0c7c5c
-
+"What is it?"
 
 @MIT_GKD_B:70 MIT cc7a10c0
-
+"{V0925}{W10}There is money{W5} on{W8} the ground."
 
 @MIT_GKD_B:72 PLY ae4028cd
-
+"Five hundred yen."
 
 @MIT_GKD_B:75 MIT 94308436
-
+"{V0926}{W8}I{W6} will take it{W30} to the police{W3} box.{W3}{W3}"
 
 @MIT_GKD_B:76.1 - d374064c
-
+{Ti0}- Huh? Go all that way?／- You're right, let's turn it in
 
 @MIT_GKD_B:77 PLY 2e5222b9
-
+"Huh? Go all that way? It's a hassle, so why not just keep it? It's so little."
 
 @MIT_GKD_B:78 MIT beda67bb
-
+"{V0927}{W10}But...{W65} {F6}that is not right...{W35} Lost items{W3} must{W5} be turned{W3} in{W3} at the police box..."
 
 @MIT_GKD_B:79 PLY 09e57499
-
+"R-right... You're right."
 
 @MIT_GKD_B:81 PLY 9710248b
-
+"You're right, let's turn it in."
 
 @MIT_GKD_B:82 MIT 41318f45
-
+"{V0928}{W10}Yes."
 
 @MIT_GKD_B:84 MIT ecb0533a
-
+"{V0929}{W8}{F3}{Eo}There happens to be{W5} a police{W3} box{W3} in{W3} front of the station,{W3}{W8} so I will go."
 
 @MIT_GKD_B:85 PLY 24ed1707
-
+"Oh, I'll come with you."
 
 @MIT_GKD_B:87 MIT 176a10aa
-
+"{V0930}{W8}{F9}No,{W10} I can go{W3} alone.{W10} {F3}Please wait here,{W3}{W3} Master.{W3}"
 
 @MIT_GKD_B:88 PLY 3793a647
-
+"No, there's no point in waiting around..."
 
 @MIT_GKD_B:89 MIT 60d660b0
-
+"{V0931}{F4}{W10}Is that so?{W30} {P2}{F3}{Ec}Then..."
 
 @MIT_GKD_B:92 SYS e6836439
-
+And so Shijou and I turned the five hundred yen in at the police box.
 
 @MIT_GKD_B:93 PLY 2e4758cb
-
+(Shijou is so dutiful, or maybe just really earnest... She must be a very straightforward person...)
 
 @MIT_GKD_B:94 PLY 40aed314
-
+"Your house is just up ahead, right?"
 
 @MIT_GKD_B:95 MIT 7149cb45
-
+"{V0933}{W8}Yes.{W2}"
 
 @MIT_GKD_B:96 PLY e284f041
-
+"Then I'll leave you here."
 
 @MIT_GKD_B:97 MIT 6e92fc9c
-
+"{V0934}{W10}Ah...{W48} Would you like to stop by the mansion?{W30} {F2}{Ec}I{W3} will serve you{W3} tea.{W5}"
 
 @MIT_GKD_B:98 PLY 2f1ad94a
-
+"N-no, that's fine."
 
 @MIT_GKD_B:99 MIT 6a3e4f0e
-
+"{V0935}{W13}I{W4}{W4}{W4} see{W3}{F6}{Ec}..."
 
 @MIT_GKD_B:100 PLY 233979f2
-
+(The mansion is so grand that I just get intimidated...)
 
 @MIT_GKD_B:101 MIT d0b94f23
-
+"{V0936}{W10}Then,{W40} thank you{W3} for walking me home.{W15} {F2}{Ec}"
 
 @MIT_GKD_B:102 PLY 9f335d62
-
+"Sure. See you, Shijou."
 
 @MIT_GKD_B:103 MIT 32f44a83
-
+"{V0937}{W8}Yes.{W35} Goodbye,{W15} {Ec}Master.{W3}{W3}{W3}"
 
 @MIT_GKD_B:106 PLY d4b0c6b0
-
+"Shijou."
 
 @MIT_GKD_B:107 MIT ce19c305
-
+"{V0938}{W10}Yes,{W30} what{W3} is it?"
 
 @MIT_GKD_B:108 PLY 9e35b2f1
-
+"We're passing the station anyway, so want to stop by the shopping street for a bit?"
 
 @MIT_GKD_B:109 MIT bdb02e13
-
+"{V0939}{W10}Ah..."
 
 @MIT_GKD_B:110 MIT 98253ae7
-
+"{V0940}{W10}I am sorry.{W15} I have something{W3} to{W3} do{W3} at home{W3} today...{W8}"
 
 @MIT_GKD_B:111 PLY 876a2929
-
+"I see..."
 
 @MIT_GKD_B:112 MIT 01548b32
-
+"{V0941}{W10}I{W1} am{W1} so{W1} sorry,{W1}{W22} when you were{W3} kind{W5} enough to invite me."
 
 @MIT_GKD_B:113 PLY cd55be95
-
+"Ah... don't worry about it. I'll ask you again."
 
 @MIT_GKD_B:114 MIT dc414220
-
+"{V0942}{W13}Yes,{W30} I am sorry..."
 
 @MIT_GKD_B:115 MIT 09c518ee
-
+"{V0943}{W10}Thank you{W3} for walking me home.{W25}"
 
 @MIT_GKD_B:116 PLY 3ad4e8a3
-
+"Sure. See you here, then."
 
 @MIT_GKD_B:117 MIT 1d509116
-
+"{V0944}{W8}Yes.{W43} Goodbye,{W15} {F2}{Ec}Master.{W3}{W3}{W3}"
 
 @MIT_GKD_B:118 PLY ee89383b
-
+"See you, Shijou."
 
 @MIT_GKD_B:119 SYS 9c1a7efe
-
+...And so I walked Shijou to near her house.
 
 @MIT_GKD_B:121 MIT 1371fc64
-
+"{V0945}{W10}I{W6} will go{W35} wherever you wish{W6} to{W3} go,{W3}{W3} Master.{W3}{W15}"
 
 @MIT_GKD_B:122 PLY 01f0d4c9
-
+"I see... Then it's a bit of a detour, but want to go to the park near my house?"
 
 @MIT_GKD_B:123 MIT 53c5e851
-
+"{V0946}{W10}Yes,{W25} with{W6} pleasure."
 
 @MIT_GKD_B:125 MIT 08fcf651
-
+"{V0947}{W13}What{W2} a{W2} charming{W2} little{W2} park{W2} this{W2} is.{W5}{W8}{W2}{W2} {Ec}{W50}{F2}{Eo}Do you come here often?"
 
 @MIT_GKD_B:126 PLY 8c2aa501
-
+"Yeah. When I was a kid, anyway."
 
 @MIT_GKD_B:127 PLY 8ebefe03
-
+"Every day I ran around with everyone until I was covered in mud."
 
 @MIT_GKD_B:129 MIT 53bb37b5
-
+"{V0948}{W13}Is{W2} that{W2} so.{W2}{W2}{W2}{W2}{W1} {Ec}{W75}{Eo}{F6}I am a little envious."
 
 @MIT_GKD_B:130 PLY d9372ba1
-
+"Why?"
 
 @MIT_GKD_B:131 MIT 91abcebb
-
+"{V0949}{W10}I{W6} had{W45} so many{W3} lessons{W3}{W8} that{W3}{W25} {F6}{Ec}I never played{W3} with{W3} other children.{W6}{W10}"
 
 @MIT_GKD_B:132 PLY bf69f3be
-
+"I see... that must have been hard..."
 
 @MIT_GKD_B:134 MIT e4c009fc
-
+"{V0950}{W10}But,{W35} the garden{W3} of the mansion{W3} has{W20} a lot of green,{W6}{W35} {P0}{Ec}and there is a pond{W3} too,{W55} so I played{W3} with{W8} the{W3} birds{W3} and{W8} {Eo}flowers.{W6}"
 
 @MIT_GKD_B:135 PLY 9a6fd9e3
-
+"The garden at your mansion must be much bigger than this park."
 
 @MIT_GKD_B:136 MIT b5483059
-
+"{V0951}{W10}Yes."
 
 @MIT_GKD_B:137 MIT 37030bdc
-
+"{V0952}{W10}What{W3} is{W3} the garden{W2} at{W3} your{W5} house{W5} like,{W3} Master?{W10} {W20}{F1}Does{W3} it{W3} have{W3} a pond{W3} or woods?{W5}"
 
 @MIT_GKD_B:138.1 - b518cb12
-
+{Ti0}- Huh? Of course not／- W-well, kind of
 
 @MIT_GKD_B:139 PLY 41143f54
-
+"Huh? Of course not. My house is tiny."
 
 @MIT_GKD_B:140 MIT cb2ec253
-
+"{V0953}{W10}Is that so?"
 
 @MIT_GKD_B:141 PLY cc4af171
-
+"Yeah."
 
 @MIT_GKD_B:143 MIT 46e7acf3
-
+"{V0955}{W10}Have you lived there{W9} a long{W5} time?{W3}"
 
 @MIT_GKD_B:144 PLY e1df025a
-
+"Yeah. Ever since I was born."
 
 @MIT_GKD_B:145 PLY 97a57175
-
+"W-well, kind of."
 
 @MIT_GKD_B:147 MIT 4596d2f4
-
+"{V0956}{W10}It must be{W5} a lovely{W3} mansion,{W5} I am sure.{W3}"
 
 @MIT_GKD_B:148 PLY 7aa469c1
-
+"Hahaha..."
 
 @MIT_GKD_B:149 PLY 6d288f07
-
+(I ended up putting on airs without thinking...)
 
 @MIT_GKD_B:150 PLY c50797d1
-
+"Well, I'd better walk you home soon."
 
 @MIT_GKD_B:152 MIT ce5319e5
-
+"{V0957}{W10}Yes.{W35} {Ec}Thank you."
 
 @MIT_GKD_B:153 SYS 221bc940
-
+...And so I went home together with Shijou.
 
 @MIT_GKD_B:155 MIT b4ad8ce8
-
+"{V0958}{W10}I{W9} would like to go{W63} to the park{W6} from the other day.{W10}{W5}{W5}"
 
 @MIT_GKD_B:156 PLY 94db63c9
-
+"That place? I don't think it's worth going to again and again..."
 
 @MIT_GKD_B:157 MIT 0d3cc993
-
+"{V0959}{W10}No,{W25} I{W6} had{W22} a wonderful time.{W3}"
 
 @MIT_GKD_B:158 PLY 42c853e2
-
+"Shijou... Then shall we go?"
 
 @MIT_GKD_B:159 MIT 95e6a8b1
-
+"{V0960}{W10}Yes."
 
 @MIT_GKD_B:160 MIT 6c06fbd2
-
+"{V0961}{W10}When I come{W3} here,{W48} {F2}{Ec}strangely, I feel at ease.{W2}{Eo}"
 
 @MIT_GKD_B:162 MIT cb0cb956
-
+"{V0962}{W10}Perhaps it is because{W3}{W3} it is{W5} filled with{W38} memories of you,{W3} Master.{W3}{Eo}{W5}"
 
 @MIT_GKD_B:163 NAN 3c587b16
-
+"{V0329}{W10}Oh!{W5} Big Bro!{W3} {W12}What are you doing?{W3}"
 
 @MIT_GKD_B:164 PLY 593cbc01
-
+(Ugh... that voice...)
 
 @MIT_GKD_B:168 NAN 1ed31684
-
+"{V0330}{W10}Ah..."
 
 @MIT_GKD_B:169 MIT 8d921a31
-
+"{V0963}{W10}Ah..."
 
 @MIT_GKD_B:171 NAN d50166ba
-
+"{V0331}{W8}...{W8}{W8}"
 
 @MIT_GKD_B:172 MIT 85bbcb7c
-
+"{V0964}{W12}...{W15}{W12}"
 
 @MIT_GKD_B:173 MIT 65d19064
-
+"{V0965}{W10}Nice{W3} to meet you.{W43} I am Shijou{W10} Mitsuki.{W7}"
 
 @MIT_GKD_B:178 NAN 1650b849
-
+"{V0332}{W10}Huh?{W20} Shijou...{W3}{W15}{W18}{W28} as in the mansion{W3} by Kibina Pond?{W5}{W3}"
 
 @MIT_GKD_B:179 MIT ac97a1eb
-
+"{V0966}{W10}Yes."
 
 @MIT_GKD_B:182 NAN 0e75f5d6
-
+"{V0333}{W10}N-{W35}nice{W3} to meet you.{W15} {Ec}I'm {Nm}{W30} Nana.{Fe9m4}{Eo}"
 
 @MIT_GKD_B:183 PLY 85bfeda7
-
+"Oh, Shijou, have you not met her yet? She's my little sister."
 
 @MIT_GKD_B:184 MIT d786257d
-
+"{V0967}{W13}What?!{W25} Master,{W3}{W3}{W3} you have{W23} a little sister?!{W9}"
 
 @MIT_GKD_B:189 NAN 844ba31a
-
+"{V0334}{W10}M-{W35}Master?!{W3}{W3}{W3}{W2}"
 
 @MIT_GKD_B:190 PLY 45635b0f
-
+(Eep... t-this is bad!)
 
 @MIT_GKD_B:191 PLY 8051789d
-
+"N-Nana, there are a lot of circumstances behind this..."
 
 @MIT_GKD_B:194 NAN e303a591
-
+"{V0335}{W10}Hmmph!{W3}{W3}{W3}{W53} Circumstances?{W5}{W5}{W35} What{W8} circumstances?{W5}"
 
 @MIT_GKD_B:195 NAN 02c499f3
-
+"{V0336}{W10}Making someone this pretty...{W33} and the young lady of that huge mansion, no{W3} less,{W18} {Fm4}{Ec}call you Master...{W3}{W3}{W3}"
 
 @MIT_GKD_B:196 MIT 61f391d0
-
+"{V0968}{W13}Ah,{W15} please do not misunderstand.{W15} {Ec}It is by my own{W3} will{W6} that I call him{W45} Master.{W3}{W3}{W3}{W5}"
 
 @MIT_GKD_B:197 NAN e4e390ac
-
+"{V0337}{W12}Huh?{Sp}"
 
 @MIT_GKD_B:199 NAN f51335b0
-
+"{V0338}{W10}U-{W2}uh{W2}...{W43} S-{W3}so,{W3} s-{W5}so{W5}{W5}{W40} {B60}{.}{0}you two{W3} have{W8} that kind of{W1}{W1}{W1}{W5} relationship{W4}{W2}...?"
 
 @MIT_GKD_B:200 MIT 0a2f17b8
-
+"{V0969}{W10}Yes."
 
 @MIT_GKD_B:205 NAN 32505a39
-
+"{V0339}{W10}Uu{W3}...{W48}{W5}uu{W7}...{W12}"
 
 @MIT_GKD_B:206 NAN 547b39b0
-
+"{V0340}{W10}B-{W25}Big{W1} Bro,{W4}{W1}{W1}{W1}{W15} {Ec}you{W3} big{W3} dummy~~~!{W1}{W1}"
 
 @MIT_GKD_B:207 PLY 76587b4c
-
+"Ah, Nana! Wait! It's a misunderstanding! A misunderstanding!"
 
 @MIT_GKD_B:210 MIT 13fbe2db
-
+"{V0970}{W8}Master,{W3}{W3}{W3} {Fe6m4}{W15}I{W3} will explain!{W3}{W3}"
 
 @MIT_GKD_B:211 PLY a4f6c573
-
+"No, it's fine! It'd only get more complicated, and that would be bad."
 
 @MIT_GKD_B:212 MIT f28309f6
-
+"{V0971}{W13}I-{W45}is that so?"
 
 @MIT_GKD_B:213 PLY 45f2fe3c
-
+"Yeah. Sorry, see you tomorrow."
 
 @MIT_GKD_B:214 MIT abe84834
-
+"{V0972}{W10}Yes...{W20} {P2}{F9}{Ec}Well{W1} then,{W1}{W10} until here."
 
 @MIT_GKD_B:215 MIT a982e9fc
-
+"{V0973}{W10}I am looking forward{W3} to seeing you{W42} again tomorrow."
 
 @MIT_GKD_B:216 PLY 55ea48da
-
+"S-see you."
 
 @MIT_GKD_B:218 MIT ae93e68f
-
+"{V0974}{W10}Yes.{W33} Excuse{W3} me,{W10} {F3}{Eo}Master.{W3}{W3}{W3}"
 
 @MIT_GKD_B:219 PLY 93097150
-
+"Nanaaa, wait for me!"
 
 @MIT_GKD_B:220 SYS d8a3cb56
-
+...After that, I desperately pleaded with Nana that Shijou was just a normal friend.
 
 @MIT_GKD_B:221 SYS 791a0723
-
+She seemed to accept it somehow, but "normal" is hardly the word for it.
 
 @MIT_GKD_B:223 MIT 5d20e2e7
-
+"{V0959}{W10}No...{W25} I{W6} had{W22} a wonderful time.{W3}"
 
 @MIT_GKD_B:224 PLY 5248279b
-
+"Shijou..."
 
 @MIT_GKD_B:225 PLY ece069f5
-
+(Because of Nana the other day, we couldn't even talk properly...)
 
 @MIT_GKD_B:226 PLY 2aa347a8
-
+"Then, shall we talk for a bit?"
 
 @MIT_GKD_B:228 SYS 82bdff36
-
+......
 
 @MIT_GKD_B:230 MIT 5504edab
-
+"{V0975}{W8}Somewhere I would like to stop by?"
 
 @MIT_GKD_B:231 MIT 622794b4
-
+"{V0976}...{W10}Well,{W60} I...{W6}"
 
 @MIT_GKD_B:232 MIT 8cabe85d
-
+"...{V0977}I would like to see your room, {Nm}."
 
 @MIT_GKD_B:233 PLY 14577a26
-
+"What?! Why?!"
 
 @MIT_GKD_B:234 MIT bd23e2c5
-
+"{V0978}{W12}I want to know you,{W45} {Nm}.{W47} What the room feels like, {W32}what{W5} is{W5} on{W6} your{W3} desk{W3} and{W3} so on...{W3}{W53} I{W3} want to remember it."
 
 @MIT_GKD_B:235 PLY 86447d03
-
+"Shijou... W-well, okay, but my house is tiny, so I think you'll be surprised."
 
 @MIT_GKD_B:237 MIT 07e28865
-
+"{V0979}{W10}Not at all...{W40} I would not be{W3} surprised.{W6} {W35}Big or{W3} small,{W5} it is the house{W15} where{W3} you{W3} grew up, {Nm}."
 
 @MIT_GKD_B:238 PLY 38289e5f
-
+"Okay, then let's go."
 
 @MIT_GKD_B:239 MIT 6a17b0ea
-
+"{V0980}{W10}Yes!"
 
 @MIT_GKD_B:240 PLY 7ed0a5a9
-
+"Here, this is my house."
 
 @MIT_GKD_B:241 MIT 28d91e19
-
+"{V0981}{W10}Ah...{W85} It is a very{W3} lovely{W3} house.{W3}{W3}"
 
 @MIT_GKD_B:242 PLY 3548d996
-
+"You think so?"
 
 @MIT_GKD_B:243 MIT f8ec5afd
-
+"{V0982}{W8}Yes.{W40} It feels gentle,{W3} just{W3} like you, {Nm}.{W3}"
 
 @MIT_GKD_B:244 PLY 2e540038
-
+"Hahaha, I'm sure the house is happy too."
 
 @MIT_GKD_B:245 MIT 75543f1b
-
+"{V0983}{W12}Fu{W8}fu{W8}.{W8}"
 
 @MIT_GKD_B:248 PLY 0ae07cdb
-
+"I'm home."
 
 @MIT_GKD_B:249 MIT d48f67de
-
+"{V0985}{W8}Excuse{W3} me for intruding."
 
 @MIT_GKD_B:251 PLY fce851e1
-
+"Looks like Nana isn't back yet."
 
 @MIT_GKD_B:252 MIT 15fa8e56
-
+"{V0986}{F4}{W10}Is{W3} no one{W8} from your family{W3} at home,{W55} then?"
 
 @MIT_GKD_B:253 PLY 02fdaefa
-
+"Hmm, seems like it."
 
 @MIT_GKD_B:254 MIT de88cc4f
-
+"{V0987}{W10}I-{W45}I see."
 
 @MIT_GKD_B:255 PLY e088e6d1
-
+"Anyway, shall we go to my room?"
 
 @MIT_GKD_B:256 MIT 2e3d65ee
-
+"{V0988}{Ec}{W10}Yes."
 
 @MIT_GKD_B:257 PLY 1706b9f3
-
+(...Wait, there's nothing in there I shouldn't let her see, right?)
 
 @MIT_GKD_B:258 PLY aea24d04
-
+(I threw that one away the other day, and that one is hidden where it'll never be found... Okay, I'm fine.)
 
 @MIT_GKD_B:259 PLY edcdda6d
-
+"This is my room."
 
 @MIT_GKD_B:260 MIT 597046ce
-
+"{V0989}{Ec}{W5}{Fe5m4}{Eo}{W7}Wow,{W40} {Ec}{W5}{Eo}{W15}{Ec}{W5}{F3}{Eo}it is a{W3} lively,{W3} bright{W5} room."
 
 @MIT_GKD_B:261 MIT 836c18ef
-
+"{V0990}{W10}Yes.{P3}{W30} Light{W3} streams{W3} in from{W6} the skylight,{W5}{W25} {Ec}and it feels very pleasant."
 
 @MIT_GKD_B:262 PLY c3a29c4c
-
+"Yeah, I like the skylight too."
 
 @MIT_GKD_B:263 MIT 5f055a3c
-
+"{V0991}{W10}So{W3} this{W3} is{W3} {W30}{Nm}'s{W5} room{W1}...{W1}{W1}{W1}{W1}{W1}{W1}"
 
 @MIT_GKD_B:264 PLY 7465eb55
-
+"Hahaha... it's embarrassing, so don't look too much."
 
 @MIT_GKD_B:265 MIT 624e11af
-
+"{V0992}{W10}Yes."
 
 @MIT_GKD_B:266 MIT 2ece293a
-
+"{V0993}{W8}Ah..."
 
 @MIT_GKD_B:267 PLY c0bdaccc
-
+"What's wrong?"
 
 @MIT_GKD_B:268 MIT e01f82d8
-
+"{V0994}{Eh}{W12}...{W12}...{W12}"
 
 @MIT_GKD_B:269 MIT 9121a636
-
+"{V0995}{Ec}{W13}It is just...{W90} {Eh}I{W6} {W65}{Ec}have never{W6} been{W5} in{W3} a{W3} boy's{W5} room{W48} {Eh}{Fm3}{B60}{.}{0}before."
 
 @MIT_GKD_B:270 PLY a28424b4
-
+"Ah... I-is that so..."
 
 @MIT_GKD_B:271 MIT 491ca483
-
+"{V0996}{Ec}{Fm4}{W12}...{W12}...{W12}"
 
 @MIT_GKD_B:272 PLY 0d80b9d5
-
+"......"
 
 @MIT_GKD_B:273 MIT 0ab9aca9
-
+"{V0997}{W10}I-{W45}I am sorry,{W50} {Eo}did{W6} I...{W40} say{W3} something strange?"
 
 @MIT_GKD_B:274 PLY dc751dd1
-
+"No, not at all."
 
 @MIT_GKD_B:275 PLY 04733997
-
+"Hahaha."
 
 @MIT_GKD_B:276 MIT 3f87c1f6
-
+"{V0998}{W10}Fu{W8}fu.{W8}{W8}"
 
 @MIT_GKD_B:277 PLY 3f11cd77
-
+"Anyway, have a seat. Oh, I need to get a cushion. And tea. Let's see, there should be barley tea in the fridge..."
 
 @MIT_GKD_B:278 MIT b5c2f2a9
-
+"{V0999}{Nm}, {W5}please do not{W3} trouble yourself.{P1}{F9}{W40} {Ec}I{W6} am{W55} happy{W5} {B60}{.}{0}just{W6} to{W5} be here."
 
 @MIT_GKD_B:279 PLY b06411f4
-
+"Then, embarrassing as it is, want to look at my childhood album?"
 
 @MIT_GKD_B:280 MIT 9680a471
-
+"{V1000}{W8}Yes,{W15} by all means."
 
 @MIT_GKD_B:281 SYS 245eefe7
-
+...And so I spent the time with Shijou.
 
 @MIT_GKD_B:283 MIT 99451b41
-
+"{V1001}{W12}A{W1} place{W1} to{W1} stop{W1} by{W1}...{W35}?{W1}{W1}"
 
 @MIT_GKD_B:284 MIT 43e31ea4
-
+"{V1002}...{W3}May I{W55} visit{W3} your home{W5} again?"
 
 @MIT_GKD_B:286 PLY a90baf20
-
+"My house? ...Sure, but why?"
 
 @MIT_GKD_B:287 MIT 251feb24
-
+"{V1003}The other day{W6},{W65} I enjoyed{W3} myself very much..."
 
 @MIT_GKD_B:288 MIT cb8a1a57
-
+"{V1004}{W8}Yes!"
 
 @MIT_GKD_B:289 MIT 5e46e69d
-
+"{V1005}{W10}Excuse me for intruding."
 
 @MIT_GKD_B:291 NAN 14bc3bb4
-
+"{V0341}{W8}Oh,{W20} Big{W3} Bro,{W17} welcome{W3} home~!"
 
 @MIT_GKD_B:292 PLY e52a54e7
-
+"Ah, Nana!"
 
 @MIT_GKD_B:294 NAN f87d3493
-
+"{V0342}{W8}What's wrong?{W18} Why{W3} are you so{W6} surprised?"
 
 @MIT_GKD_B:299 MIT f36ae489
-
+"{V1006}{F3}{W12}Nana,{W50} good evening."
 
 @MIT_GKD_B:300 NAN a1907023
-
+"{V0343}{W10}Oh,{W55} you're the one I met{W3} at the{W5} park{W3}...{W25} Shijou..."
 
 @MIT_GKD_B:301 PLY b70598ee
-
+"She said she wanted to come over, so I brought her."
 
 @MIT_GKD_B:302 NAN 3094ccc5
-
+"{V0344}{W5}O-{W35}oh{W2}...{W2}I{W2} see{W45}{F9}{m3}...{W2}{W2}{W1}{W1}{W1}"
 
 @MIT_GKD_B:304 MIT 704e3784
-
+"{V1007}{W8}I am glad{W8} to{W1} meet{W1} you{W1} {W1}again{W2}.{W2}{W27}{P1}{Eo} Last{W2} time{W2}{W7} you{W2}{W30} were{W3} not{W1} home{W1} yet."
 
 @MIT_GKD_B:305 NAN d535065a
-
+"{V0345}{W10}Huh?!{W8} Last time{W6}...{W35}{P4}{F4} wasn't{W3} this your first visit?"
 
 @MIT_GKD_B:306 MIT 3f62eec5
-
+"{V1008}{W10}No.{W30} It is the second time."
 
 @MIT_GKD_B:307 PLY ab0d3593
-
+"S-Shijou, you didn't have to say that now..."
 
 @MIT_GKD_B:308 MIT b0fd559f
-
+"{V1009}{W10}Oh?"
 
 @MIT_GKD_B:309 NAN 0452b365
-
+"{V0346}{W10}Ah{W2}u{W8}...{W55}no{W1} way{W1}...{W15}{Sp} while{W1} I{W6} was out,{W28} the two{W3} of you{W10} at{W3} home{W3}...{W3}"
 
 @MIT_GKD_B:310 PLY 22b1923a
-
+"N-Nana, calm down. She just came over to hang out."
 
 @MIT_GKD_B:313 NAN 9cc1922e
-
+"{V0347}{W8}Just{W5} came to hang out{W3}? {W23}{F8}{Eo}Of{W5} course{W5} that's{W3} what{W3} it is!"
 
 @MIT_GKD_B:314 NAN 7cbc302b
-
+"{V0348}I don't know{W6} what{W5} more{W3} there could be{W10}!{W10}{P1}{F8} Nana doesn't understand{W3} it!"
 
 @MIT_GKD_B:315 PLY 8e1a14f3
-
+"Eep, calm down, Nana."
 
 @MIT_GKD_B:316 NAN 5e1827b7
-
+"{V0349}{W10}Besides, making such a beautiful person{P1}{F9}{m7}{Eh} call you Mas{W3}ter{W3}{W3}{P4}{F8}{Ec},{W5} that's{W3} really{W3} improper!"
 
 @MIT_GKD_B:317 MIT d79a97ad
-
+"{V1010}{W10}Ah{W5}...{W35} That is...{W15}{P0}{F6} I am{W3} sorry.{W40} {Ec}It{W3} was{W6} my{W10} mistake."
 
 @MIT_GKD_B:318 NAN c13ee078
-
+"{V0350}{W10}Huh{W5}?{W70}{F4} A{W15} mis{W15}take{W5}?"
 
 @MIT_GKD_B:319 MIT 1fee418b
-
+"{V1011}{W10}{Eo}Yes.{W65} I{W6} {W5}misunderstood{W3} Father's{W3}{W5} instructions,{W35}{P1}{Ec} and{W3} that{W5} is my fault."
 
 @MIT_GKD_B:320 MIT 6fd8affb
-
+"{V1012}{W10}Because of{W3} that...{W20} I{W3} {Ec}caused you trouble."
 
 @MIT_GKD_B:322 NAN d928369c
-
+"{V0351}{W10}Oh,{W40} just now,{W5} you said{W3} {Nm}{W35}...{W33}{F3} So,{W40} Big{W3} Bro{W5} isn't{W8} her{W3} Mas{W3}ter{W3} anymore."
 
 @MIT_GKD_B:323 MIT 3f3cf695
-
+"{V1013}...Yes,{W70} he{W2} is{W5} not{W5} my{W10}{Eo} Master{W2}{W2}...{W20} anymore."
 
 @MIT_GKD_B:324 NAN 50c0020c
-
+"{V0352}{W8}I see.{W43} I thought it was odd.{W25} Big{W3} Bro,{W10}{P2}{F9}{Ec} the master{W3} of{W10}{F3}{Eo} the young{W5} lady{W3}{W8} of{W3} that{W5} huge{W3} mansion{W20}?{W5} No{W3} way."
 
 @MIT_GKD_B:325 PLY 25718a76
-
+"...Right. It is odd."
 
 @MIT_GKD_B:326 MIT 51ce7471
-
+"{V1014}{W12}...{W12}...{W12}"
 
 @MIT_GKD_B:327 NAN 74e991cf
-
+"{V0353}...Big{W3} Bro,{W25} you{W3} look{W6} lone{W3}ly."
 
 @MIT_GKD_B:328 PLY e899cd41
-
+"Huh? N-not at all! I'm full of energy!"
 
 @MIT_GKD_B:329 NAN 3d2e195f
-
+"{V0354}{W10}Re{W3}ally{W3}?{W55}{Fe9m3} Well,{W5} if you say so..."
 
 @MIT_GKD_B:330 MIT 64d8bc73
-
+"{V1015}{W10}...{W10}...{W10}"
 
 @MIT_GKD_B:331 NAN 2e163609
-
+"{V0355}{W8}Oh!{W18} I{W6} have a guest{W5}{W3} and haven't even served tea!{F6}{W12}{P2}{F3} Wait here,{W15} I'll{W3}{W08}{Ec} make{W3} some{W3} tea{W3} right away!"
 
 @MIT_GKD_B:332 MIT 91559df2
-
+"{V1016}{W8}Oh,{W10} please do not trouble{W3} yourself..."
 
 @MIT_GKD_B:333 MIT b4d0c503
-
+"{Nm}{V1017}, {F2}{Ec}I{W6} will{W5} go help{W3} her."
 
 @MIT_GKD_B:334 PLY 5d4d7aa7
-
+"Ah, you don't need to be so considerate."
 
 @MIT_GKD_B:335 MIT 7b1a4478
-
+"{V1018}{W10}No,{W20} {Ec}I{W5} want{W3} to."
 
 @MIT_GKD_B:336 SYS 12dafd90
-
+...And so Shijou and Nana made tea together.
 
 @MIT_GKD_B:337 SYS 88b9c5ba
-
+Nana was in a great mood after Shijou taught her the trick to making tea.
 
 @MIT_GKD_B:338 SYS 799a6644
-
+I didn't get to be alone with Shijou, but spending time with the three of us isn't bad either.
 
 @MIT_GKD_B:339 NAN 3f30e933
-
+"{V0356}{W8}Ah..."
 
 @MIT_GKD_B:340 MIT d73a6d8b
-
+"{V1019}{W10}Ah..."
 
 @MIT_GKD_B:341 NAN 99254d33
-
+"{V0357}{W5}......"
 
 @MIT_GKD_B:342 MIT 026a6340
-
+"{V1020}{W13}...{W13}...{W13}"
 
 @MIT_GKD_B:343 MIT 8311d3d4
-
+"{V1021}{W10}Pleased{W3} to meet you,{W48}{Eo} I am Shijou{W2}{W10} Mitsuki.{W2}{W7}"
 
 @MIT_GKD_B:344 NAN 705d8d19
-
+"{V0358}{W10}Huh?{W30} Shi{W3}jou{W25}...{W30} from{W60} the mansion{W3} by Kibina{W3} Pond{W20}?"
 
 @MIT_GKD_B:345 MIT 181a5e17
-
+"{V1022}{W10}Yes."
 
 @MIT_GKD_B:346 NAN c2c39a08
-
+"{V0359}{W10}P-{W35}pleased{W3} to meet you.{W15} {Ec}I'm {Nm}{W30} Nana{Fe9m4}{Eo}."
 
 @MIT_GKD_B:347 MIT c8d15187
-
+"{V1023}{W10}So {Nm} has{W5} such a lovely{P3}{W9} little sister."
 
 @MIT_GKD_B:348 NAN 5cdbcf66
-
+"{V0360}{W10}E{W5}he{W5}he{W5},{W20} lovely, you say?{W5}{P1}{F7}{Ec}{B60}{.}{0} You're too kind."
 
 @MIT_GKD_B:349 PLY c6984d54
-
+"Careful, Shijou. She gets carried away when you praise her."
 
 @MIT_GKD_B:350 NAN 4f89eaec
-
+"{V0361}{W10}Mm{W3}~{W3}{W3}, {W45}I do{W5} not get carried{W5} away!"
 
 @MIT_GKD_B:351 MIT 502c3133
-
+"{V1024}{Ec}{W10}He{W5}he{W5},{W5} {W30}{Eo}you{W3} two are{W3} so close.{W40} {Ec}I am envious."
 
 @MIT_GKD_B:352 PLY fec6c656
-
+"R-really?"
 
 @MIT_GKD_B:353 MIT 1414222d
-
+"{V1025}{W10}Yes.{W50} I{W6} have{W10} one{W3} brother{W5} too,{W23}{F9} but{W3} he{W3} lives far away,{W15}{P1}{F9} so we have{W3} hardly talked..."
 
 @MIT_GKD_B:354 PLY a9d43f93
-
+"Far away... where does he live?"
 
 @MIT_GKD_B:355 MIT dad79cba
-
+"{V1026}{F3}{W10}Germany.{W20} He attends{W3} gradu{W3}ate{W3} school{W3} there."
 
 @MIT_GKD_B:356 MIT a3cdbca2
-
+"{V1027}{W10}I{W6} love{W5} England,{W25}{Eh} Father{W3}{W5} loves{W3} France,{W25}{P3}{F2}{Ec} and{W3} my{W3} brother{W3}{W5} loves{W3} Germany."
 
 @MIT_GKD_B:358 PLY 47c9543b
-
+"Wow."
 
 @MIT_GKD_B:360 NAN 9962e5d8
-
+"{V0362}{W10}That's{W3} an{Sp}{W5} amaz{W1}ing{W1} story,{W22}{Fe9m3} Big{W3} Bro.{W3}{W6}"
 
 @MIT_GKD_B:361 PLY 6896fbe6
-
+"Yeah..."
 
 @MIT_GKD_B:362 NAN 1ca6a948
-
+"{V0363}{W10}Oh!{W15} I{W6} have a guest{W5}{W3} and{W5} haven't{W3} even served tea!{W8}{F6}"
 
 @MIT_GKD_B:363 MIT 11991492
-
+"{V1028}{W10}Please do not trouble{W6} yourself."
 
 @MIT_GKD_B:364 NAN d97d556e
-
+"{V0364}{W10}No.{W20}{Ec} I want to hear{W5} lots{W3} of stories{W6} more slowly,{P2}{F3}{Eo}{W15} so I'll make{W3} some tea{W3}!{Ec}"
 
 @MIT_GKD_B:365 MIT 35cb8b00
-
+"{V1029}{W8}{F3}Then,{W20} I{W6} will{W8} help.{P3}{Ec}{W30} I am good{W3} at{W3} making{W3} tea,{W15}{Eo} you{W3} know."
 
 @MIT_GKD_B:366 NAN 83b752fa
-
+"{V0365}{F4}{W10}Re{W5}ally{W5}?"
 
 @MIT_GKD_B:367 MIT f12fa766
-
+"{V1030}{Eo}{W10}Yes.{W35}{W}{c} There is a little trick to it."
 
 @MIT_GKD_B:368 NAN 08cdaf51
-
+"{V0366}{W10}Really!{W5}{P4}{F3}{m4} Teach{W3} me,{W1}{W1} teach{W5} me~!{W3}{W1}"
 
 @MIT_GKD_B:369 MIT a292f43b
-
+"{V1031}{W10}Of course.{W25}{F3} Could{W3} you{W3} show{W6} me{W5} to the kitchen{W3}?"
 
 @MIT_GKD_B:370 NAN 5cceef00
-
+"{V0367}{W10}Yeah!{W5}{Ec} This way!"
 
 @MIT_GKD_B:371 PLY 34e2ec3e
-
+"Ah, hey, you two..."
 
 @MIT_GKD_B:372 PLY e0bccc27
-
+(They both went off. ...Oh well.)
 
 @MIT_GKD_B:373 SYS f8862c77
-
+...And so the three of us had a fun time.
 
 @MIT_GKD_B:375 PLY d71f73c2
-
+"Shijou, want to stop by my place again?"
 
 @MIT_GKD_B:376 MIT 40ac8f40
-
+"{V1032}{W10}Yes.{W30} If I am not intruding, by all means."
 
 @MIT_GKD_B:377 PLY d8aa1341
-
+"You're never intruding. Nana seemed to have fun, too."
 
 @MIT_GKD_B:378 PLY b3376227
-
+"So, shall we go?"
 
 @MIT_GKD_B:379 MIT a27546f0
-
+"{V1033}{W10}Yes!"
 
 @MIT_GKD_B:380 MIT b9eaff58
-
+"{V1034}{W10}Excuse me for intruding."
 
 @MIT_GKD_B:381 NAN e4a81ef2
-
+"{V0368}{W8}Oh,{W20} Big{W3} Bro,{W20}{Ec} welcome{W3} home~!"
 
 @MIT_GKD_B:382 PLY ff04765c
-
+"Oh, Nana, you're back."
 
 @MIT_GKD_B:383 MIT 727edee9
-
+"{V1035}{W10}Good evening,{W8}{P3} Nana."
 
 @MIT_GKD_B:384 NAN 1ba01d1b
-
+"{V0369}{W10}Oh,{W22} Shijou,{W25}{Ec} welcome!{W5}"
 
 @MIT_GKD_B:385 NAN e0907b74
-
+"{V0370}{W10}Hey{W5} hey,{W18} tell{W5} me{W18} more about England{W3}{F3} and{W15} parties{W6} and stuff~!"
 
 @MIT_GKD_B:386 PLY 6a20df2d
-
+"Hey, Shijou is my guest."
 
 @MIT_GKD_B:388 NAN 827856f8
-
+"{V0371}{W10}Mm{W2}~{W2}{W2}, {W45}I{W6} want{W10} to hear{W5} her stories{W13}{P4} too!"
 
 @MIT_GKD_B:389 PLY 5adba924
-
+"You can't be helped..."
 
 @MIT_GKD_B:390 MIT 0730162e
-
+"{V1036}{W10}Fu{W10}fu.{W10}{W10}"
 
 @MIT_GKD_B:391 NAN 82752321
-
+"{V0372}{W10}Oh!{W18} Then,{W12} how about we all{F3} play cards{W5}{F2}{Ec} while{W3} we{W5} talk?"
 
 @MIT_GKD_B:392 PLY 8fad2d20
-
+"Cards, huh. Yeah, let's do that..."
 
 @MIT_GKD_B:393 MIT a9eaa5f4
-
+"{V1037}{W10}Yes."
 
 @MIT_GKD_B:394 NAN adefb4fd
-
+"{V0373}{W8}Then,{W10}{Ec} I'll{W6} go{W3} make{W30} some tea{W3}."
 
 @MIT_GKD_B:395 MIT 6d2b481a
-
+"{V1038}{W10}Oh,{W10}{F2}{Ec} I{W6} will{W3} help."
 
 @MIT_GKD_B:396 NAN 9dd5fcc0
-
+"{V0374}{W10}Okay!{W3} Let's{W3} do it{Ec} together~!"
 
 @MIT_GKD_B:397 PLY ae57496a
-
+"Hey, making a guest help..."
 
 @MIT_GKD_B:398 NAN 9e40acb7
-
+"{V0375}{W10}But,{W22} the{W5} tea{W3} Shijou makes{W3} is so{W18}{P0}{F3}{Ec} good!{W22}{F6}{Eo} I can't{W20} get that{W3} aroma yet{Ec}..."
 
 @MIT_GKD_B:399 MIT 35c0c447
-
+"{V1039}{W12}Fu{W5}fu,{W20}{Eo} you{W5} will{W5} pick up the trick in no{W3} time, Nana."
 
 @MIT_GKD_B:400 NAN 9a750755
-
+"{V0376}{Eo}{F4}{W10}Re{W5}ally{W5}?"
 
 @MIT_GKD_B:401 MIT c64f4e43
-
+"{V1040}{W10}Yes.{W15}{Ec} Really{W3}.{W8}"
 
 @MIT_GKD_B:403 NAN 41bf26c9
-
+"{V0377}{W8}E{W5}he{W5}he,{W18} if{W5} Shijou{W5} says so,{W15}{F2}{Ec} it must be true."
 
 @MIT_GKD_B:404 NAN 1ccd859a
-
+"{V0378}{W10}Then,{W5} wait here,{W15} Big{W3} Bro.{W20}{F7}{m9}{Eh} I'll make{W3} some yum{W5}my{W3} tea{W5}{F3}{Ec} for you."
 
 @MIT_GKD_B:405 MIT 157c1679
-
+"{V1041}{W10}We will be back soon,{W3} {Ec}{Nm}."
 
 @MIT_GKD_B:406 PLY 180bb2ad
-
+"See you in a bit..."
 
 @MIT_GKD_B:407 PLY 9b4c66fc
-
+(Guess I'll get the cards ready...)
 
 @MIT_GKD_B:408 SYS b048e694
-
+...And so the three of us had a nice time together.

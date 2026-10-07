@@ -2,4 +2,4 @@
 # Format: docs/translation-format.md
 
 @RoomMenu:75 - 201c1cc5
-
+Returning to the title screen.\nAny unsaved data will be lost.\nIs that okay?

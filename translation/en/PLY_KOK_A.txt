@@ -2,199 +2,199 @@
 # Format: docs/translation-format.md
 
 @PLY_KOK_A:17 PLY 9eb53b7b
-
+(The school festival at last. Summer ends today, huh...)
 
 @PLY_KOK_A:20 PLY 16508487
-
+(...Oh no. I think I made a date for today...)
 
 @PLY_KOK_A:21 PLY 3c38391c
-
+(But it can't be helped. I can't skip school...)
 
 @PLY_KOK_A:22 PLY 0a32c583
-
+(Besides... today I'm telling her how I feel. So it won't all turn into sad memories...)
 
 @PLY_KOK_A:23 PLY 351ac171
-
+(It's been a little over a month since the new term started. I've tried my best to be proactive, but...)
 
 @PLY_KOK_A:24 PLY a0ee7c58
-
+(Today I'm telling her how I feel. So it won't all turn into sad memories...)
 
 @PLY_KOK_A:25 PLY 59264fc2
-
+(The one I'm going to tell is...)
 
 @PLY_KOK_A:30 - df316e17
-
+...
 
 @PLY_KOK_A:34 PLY 076c4cfb
-
+(No way, that's no good!)
 
 @PLY_KOK_A:37 - abfd2a28
-
+{Ti0}-
 
 @PLY_KOK_A:38 - c01800b5
-
+／- No, that's not it...／- Confessing now is...
 
 @PLY_KOK_A:39 - 1d9cc183
-
+／- No, that's not it...
 
 @PLY_KOK_A:42 - 51706724
-
+(
 
 @PLY_KOK_A:43 - 8f4233d0
-
+... No, I can't possibly confess now)
 
 @PLY_KOK_A:44 PLY c9d28d9a
-
+(Nana... There's something I have to tell Nana...)
 
 @PLY_KOK_A:45 - 33ff6d5d
-
+...
 
 @PLY_KOK_A:46 - 6b406a26
-
+I'll tell her how I feel...)
 
 @PLY_KOK_A:53 PLY b02884d0
-
+(Good thing the weather's nice. Perfect school festival weather!)
 
 @PLY_KOK_A:54 PLY b37b8b12
-
+(It's only once a year, so I'm going to enjoy today!)
 
 @PLY_KOK_A:55 PLY c8a6aaf3
-
+(Wow, this area is really lively.)
 
 @PLY_KOK_A:56 PLY 19813029
-
+(There's a costume cafe. Maybe I'll stop by later.)
 
 @PLY_KOK_A:58 - c439c21b
-
+Hoshino...
 
 @PLY_KOK_A:60 PLY 902698db
-
+(Ah...!)
 
 @PLY_KOK_A:62 - fa354ca6
-
+)
 
 @PLY_KOK_A:63 - e8580620
-
+(Sorry,
 
 @PLY_KOK_A:64 - cd028f55
-
+. I...
 
 @PLY_KOK_A:68 PLY 6a6609bd
-
+(...Just kidding. It'd be nice to have someone like that...)
 
 @PLY_KOK_A:69 - cc6f0097
-
+. No, I can't possibly confess now)
 
 @PLY_KOK_A:70 PLY 88904835
-
+(Come on, let's go to school. Moping won't help. It's just the same school festival as last year, that's all.)
 
 @PLY_KOK_A:72 PLY 4e9e1abf
-
+(Nice weather. Perfect school festival weather.)
 
 @PLY_KOK_A:73 PLY 62cd8b23
-
+(But my heart is cloudy... a gloomy cloud that never clears.)
 
 @PLY_KOK_A:74 PLY 04fcda59
-
+(...I wish it would just pour instead...)
 
 @PLY_KOK_A:75 PLY fde23588
-
+(Just a little more... almost there... What was I missing...?)
 
 @PLY_KOK_A:76 PLY 9836c61e
-
+(No, no, I shouldn't think like that! It's the school festival. Let's have fun!)
 
 @PLY_KOK_A:77 SYS c090474f
-
+...But all I can think about is this past month.
 
 @PLY_KOK_A:78 SYS 72a935a2
-
+What went wrong? I should have... focused more on one girl...
 
 @PLY_KOK_A:80 SYS f1cc9e5c
-
+No, even before that... aren't there still girls I haven't met yet?!
 
 @PLY_KOK_A:81 PLY 902a6ff2
-
+(Okay, let's go home... My summer is over...)
 
 @PLY_KOK_A:93 AKI f810fb3c
-
+"{V0231}{W10}What's wrong, {Nm}?"
 
 @PLY_KOK_A:94 PLY 5c77db49
-
+"Oh, Hiiragi..."
 
 @PLY_KOK_A:97 AKI b402315f
-
+"{V0232}{W10}Your shoulders are drooping.{W50} Feeling down?"
 
 @PLY_KOK_A:98 PLY b2bb09ec
-
+"...Kind of."
 
 @PLY_KOK_A:100 AKI 28da68e7
-
+"{V0233}I see.{W90} {Eo}...I get it,{W10} that feeling."
 
 @PLY_KOK_A:101 PLY 122df4f6
-
+"Huh?"
 
 @PLY_KOK_A:102 AKI 891dccf5
-
+"{V0234}{W10}What happened with Hoshino{W30} was a shock..."
 
 @PLY_KOK_A:103 PLY e23bd864
-
+"Y-yeah. It was..."
 
 @PLY_KOK_A:104 AKI d4add637
-
+"{V0235}{W10}It's lonely..."
 
 @PLY_KOK_A:105 PLY bad3355d
-
+"Yeah..."
 
 @PLY_KOK_A:107 AKI 0ee265b4
-
+"{V0236}...You{W15} admired her, didn't you, {Nm}?"
 
 @PLY_KOK_A:108 PLY f725dd6d
-
+"Huh..."
 
 @PLY_KOK_A:109 AKI 15d22238
-
+"{V0237}{W10}Don't you regret{W40} not doing more,{W35} {F1}wishing you'd done things differently?"
 
 @PLY_KOK_A:110 PLY 76ca331a
-
+"...Maybe."
 
 @PLY_KOK_A:111 AKI 2596e380
-
+"{V0238}{Nm}..."
 
 @PLY_KOK_A:114 AKI 32ec549d
-
+"{V0239}...Hey,{W50} we're only getting started.{W80} We can try again as many times as we want."
 
 @PLY_KOK_A:115 PLY 0d80b9d5
-
+"......"
 
 @PLY_KOK_A:116 AKI 61f38ee0
-
+"{V0240}Come on,{W45} let's go home.{W75} {Eo}If you keep staring at the ground,{W25} you'll miss your chance."
 
 @PLY_KOK_A:117 AKI e23d5982
-
+"{V0241}{W10}Our summer isn't over.{W40} {Fe3}...Right?"
 
 @PLY_KOK_A:118 PLY e173df1b
-
+"Hiiragi..."
 
 @PLY_KOK_A:126.0 - cf3a2302
-
+Hoshino
 
 @PLY_KOK_A:126.1 - a6a0b189
-
+Narumi
 
 @PLY_KOK_A:126.2 - 0e688034
-
+Mao
 
 @PLY_KOK_A:126.3 - 1b734b38
-
+Sakino
 
 @PLY_KOK_A:126.4 - 79f76ab3
-
+Futami
 
 @PLY_KOK_A:126.5 - 5c0ee812
-
+Shijou
 
 @PLY_KOK_A:126.6 - 97ea3ba4
-
+Nana
 
 @PLY_KOK_A:126.7 - 5e2c14c8
-
+Kuryuu

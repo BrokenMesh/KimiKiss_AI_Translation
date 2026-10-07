@@ -2,571 +2,571 @@
 # Format: docs/translation-format.md
 
 @ERI_KOK_A:19 PLY 4b43731c
-
+"You put the money in here."
 
 @ERI_KOK_A:21 ERI 0359f9b2
-
+"{V1270}{W12}Here."
 
 @ERI_KOK_A:26 PLY 5341122d
-
+"Right."
 
 @ERI_KOK_A:28 ERI 1303f3fe
-
+"{V1271}{W12}There's an accelerator, {W8}and even a gearshift..."
 
 @ERI_KOK_A:29 PLY 2a3b218c
-
+"Do you know how to drive?"
 
 @ERI_KOK_A:30 ERI 70bfbcb0
-
+"{V1272}{W15}Yes. {W8}I know."
 
 @ERI_KOK_A:31 PLY 6852ef38
-
+"Oh, Futami, it's starting."
 
 @ERI_KOK_A:32 ERI 5d9820f0
-
+"{V1273}{W12}Hm?"
 
 @ERI_KOK_A:61 ERI d59ed225
-
+"{V1274}{W15}W-{W51}what do I do{W5}?{W3}"
 
 @ERI_KOK_A:62 PLY cf83c473
-
+"First you have to speed up. Step on the accelerator."
 
 @ERI_KOK_A:63 ERI 7ad52abf
-
+"{V1275}{W45}L-{W54}like this?"
 
 @ERI_KOK_A:69 ERI 24fa07da
-
+"{V1276}{W15}Ah! {W30}A curve{W4} is{W3} coming up!"
 
 @ERI_KOK_A:70.1 - c7e8adbe
-
+{Ti0}- Turn the wheel!／- Slow down!
 
 @ERI_KOK_A:71 PLY a955c5b3
-
+"Turn the wheel!"
 
 @ERI_KOK_A:76 ERI f17deb9f
-
+"{V1277}{W15}L-{W15}like{W3} this{W6}?{As0}{b0}"
 
 @ERI_KOK_A:86 ERI 2f40e256
-
+"{V1278}{W15}{Ec}{Mo}Eeeeek!{As0}{b0}"
 
 @ERI_KOK_A:88 PLY 6c1b2754
-
+"S-sorry."
 
 @ERI_KOK_A:93 ERI db9094c9
-
+"{V1279}{W15}{Eo}{Mh}Honestly! {W15}I{W1} couldn't{W1} make{W1} the turn."
 
 @ERI_KOK_A:94 PLY e988a6aa
-
+"Step on the accelerator and speed up!"
 
 @ERI_KOK_A:95 ERI 0a90d15f
-
+"{V1280}{W15}O-{W33}okay, I got it."
 
 @ERI_KOK_A:96 PLY 6995a70f
-
+"Slow down!"
 
 @ERI_KOK_A:97 ERI 4659d984
-
+"{V1281}{W15}L-{W30}like this?"
 
 @ERI_KOK_A:99 PLY cb9dec50
-
+"Yes, that's it! You're good at this!"
 
 @ERI_KOK_A:104 PLY bfc7dbf0
-
+"Dodge the cow there!"
 
 @ERI_KOK_A:105 ERI bd1bec28
-
+"{V1282}{W24}There!"
 
 @ERI_KOK_A:107 PLY c9a9e03e
-
+"Nice clear!"
 
 @ERI_KOK_A:109 ERI ce845ea1
-
+"{V1283}{W15}He{W3}h{W2}, {W48}it's {W8}easy{W8}."
 
 @ERI_KOK_A:110 PLY f6d93900
-
+"All right, speed up until the next loop!"
 
 @ERI_KOK_A:111 ERI 6b956aba
-
+"{V1284}{W18}Here I go!"
 
 @ERI_KOK_A:112 ERI d398b6b1
-
+"{V1285}{W15}N-{W30}next {W4}is a left{W6} curve."
 
 @ERI_KOK_A:113 PLY 9a3f3cd2
-
+"Stay calm... okay! Now!"
 
 @ERI_KOK_A:114.1 - c7e8adbe
-
+{Ti0}- Turn the wheel!／- Slow down!
 
 @ERI_KOK_A:115 ERI 9b5bf370
-
+"{V1286}{W21}{F8}There!{As0}{b0}"
 
 @ERI_KOK_A:117 ERI 51d29fa0
-
+"{V1287}{W12}{Ec}{Mo}Eeeeek!{As0}{b0}"
 
 @ERI_KOK_A:118 ERI 494d730c
-
+"{V1288}{W18}{F8}Oh,{W3} come on! {W30}It's{W1} the same{W2} as {W5}before{W3}!"
 
 @ERI_KOK_A:119 PLY ce52713a
-
+"S-sorry..."
 
 @ERI_KOK_A:120 PLY 587e1f7a
-
+"S-sorry, are you okay?"
 
 @ERI_KOK_A:121 ERI 977fc823
-
+"{V1290}{W15}{Eo}{Fe8m4}Honestly! {W30}I couldn't make the turn!"
 
 @ERI_KOK_A:122 PLY 97ed06ee
-
+"That's strange..."
 
 @ERI_KOK_A:123 ERI bcf6ed40
-
+"{V1291}{F3}{W33}There!"
 
 @ERI_KOK_A:125 ERI 50ef293b
-
+"{V1292}{W15}{Fm4}I turn the wheel here, right?{Fm3}"
 
 @ERI_KOK_A:133 ERI 776de18b
-
+"{V1293}{W15}{F2}{Ec}Fufu, {W30}this feels{W3} good."
 
 @ERI_KOK_A:134 ERI 57a686da
-
+"{V1294}{W15}{Eo}{F4}O-{W8}oh {W3}no{W3}! {W18}I{W3} can't see ahead!"
 
 @ERI_KOK_A:135 PLY d70edeeb
-
+"Past that bump it goes downhill."
 
 @ERI_KOK_A:136.1 - b9729238
-
+{Ti0}- Floor the accelerator!／- Ease off the accelerator!
 
 @ERI_KOK_A:137 PLY cbb1b2d2
-
+"Floor the accelerator!"
 
 @ERI_KOK_A:138 ERI ff4542a6
-
+"{V1295}{W15}{Fe9m4}L-{W15}like this?"
 
 @ERI_KOK_A:139 ERI fb75f1dc
-
+"{V1296}{W15}{Fe9m3}Is it safe to go this fast{W3}?{W3}{As0}{b0}"
 
 @ERI_KOK_A:140 PLY b3f696d2
-
+"It's fine, look!"
 
 @ERI_KOK_A:143 SYS 854a81fc
-
+{Ti0}Bam!{W85}{Ts4}Thump!
 
 @ERI_KOK_A:145 ERI d8e1495c
-
+"{V1297}{W15}Eek!"
 
 @ERI_KOK_A:146 ERI dc3a7121
-
+"{V1298}{W15}{Eo}{F4}We, {W18}we jumped!"
 
 @ERI_KOK_A:147 PLY 7cc07fb1
-
+"Hahaha, feels great, doesn't it?"
 
 @ERI_KOK_A:148 ERI 019d96b8
-
+"{V1299}{W15}{Ec}{F2}Yes."
 
 @ERI_KOK_A:149 PLY e24801ec
-
+"Ease off the accelerator a bit!"
 
 @ERI_KOK_A:150 ERI e8001e48
-
+"{V1300}{F4}{W15}Like this?"
 
 @ERI_KOK_A:151 ERI bac5fe99
-
+"{V1301}{W18}{F3}Safety{W4} first{W4}, {W6}after{W5} all."
 
 @ERI_KOK_A:153 PLY b05bfa7e
-
+"All right, we're over the bump. Step on the accelerator."
 
 @ERI_KOK_A:154 ERI bbed7425
-
+"{V1302}{W24}{F2}There!"
 
 @ERI_KOK_A:155 PLY 0e7b18b5
-
+"All right, the final corner. Be careful."
 
 @ERI_KOK_A:156 ERI 9de433e0
-
+"{V1303}{W15}{Eo}{Fe8m3}Understood."
 
 @ERI_KOK_A:162 SYS 9c39a917
-
+...And so I enjoyed a driving game with Futami.
 
 @ERI_KOK_A:166 ERI d27ab403
-
+"{V1304}{W15}Fu{W3}fu{W1}, {W36}{Eh}I{W3} feel{W3} like a racer{W3}."
 
 @ERI_KOK_A:167 PLY 1815287d
-
+"That was a time you wouldn't expect from a beginner."
 
 @ERI_KOK_A:168 ERI 5907e9c3
-
+"{V1305}{Eo}{W15}{F4}Really{W4}?{W4}{W30} {F3}{Eh}Fufu, {W30}I'm happy{W1}. {W1}{W1}{W1}{W37}{Ec}It's thanks to you, {Nm}."
 
 @ERI_KOK_A:169 ERI 939c8c65
-
+"{V1308}{W15}I{W1} will{W1} never{W1} play {W2}a game{W18} like that again. {W42}{Eo}I just could not{W3} drive well at all.{Eh}"
 
 @ERI_KOK_A:170 PLY 7aa469c1
-
+"Hahaha..."
 
 @ERI_KOK_A:171 PLY 63a49337
-
+(Maybe I should have given better instructions...)
 
 @ERI_KOK_A:172 PLY d14e366a
-
+(But even before that, I get the feeling Futami is just terrible with cars...)
 
 @ERI_KOK_A:174 ERI 63799761
-
+"{V1306}{W15}Fufu, {W36}games are surprisingly{W3} fun{W4}."
 
 @ERI_KOK_A:175 PLY 2698a823
-
+"That was some pretty good driving."
 
 @ERI_KOK_A:176 ERI b9a5b0d1
-
+"{V1307}{W8}{Ec}It's thanks to your advice, {Nm}."
 
 @ERI_KOK_A:180 KEI 4b9de7b1
-
+"{V000}{W12}You two,{W15} those{W5} uniforms{W5} are{W2} from Kibina{W5} High{W5}, no?{W30} Isn't it the school{W4} festival{W4} today?{W4}{W30} Why are you here?"
 
 @ERI_KOK_A:181 PLY bfbe2fe0
-
+(Uh-oh! A guidance officer!)
 
 @ERI_KOK_A:182 PLY 3fa85856
-
+"Run!"
 
 @ERI_KOK_A:183 ERI 27bb59ae
-
+"{V1309}{W15}{Eo}{F4}Huh?"
 
 @ERI_KOK_A:195 KEI 4db47b2c
-
+"{V0001}{W12}Hey! {W15}Stop right there!{Mh}"
 
 @ERI_KOK_A:197 PLY 657d9e25
-
+(...I was supposed to meet Futami on the rooftop.)
 
 @ERI_KOK_A:200 PLY f2fdc86a
-
+"Futami."
 
 @ERI_KOK_A:201 ERI c00d185a
-
+"{V1253}{Fe3m4}{W15}Oh, {Nm}.{Fm3}"
 
 @ERI_KOK_A:202 PLY 0961581e
-
+"The school festival's really lively."
 
 @ERI_KOK_A:203 ERI 55329de7
-
+"{V1254}{W18}So it seems."
 
 @ERI_KOK_A:204 PLY 4895190c
-
+"You're not interested at all?"
 
 @ERI_KOK_A:205 ERI 8bf26229
-
+"{V1255}{Ec}{Fe6m3}{W15}No."
 
 @ERI_KOK_A:206 PLY 876a2929
-
+"I see..."
 
 @ERI_KOK_A:207 PLY 193d4fd5
-
+"Then, like you said, shall we slip out of school?"
 
 @ERI_KOK_A:208 ERI 0c03f0a0
-
+"{V1256}{W18}Is that all right?"
 
 @ERI_KOK_A:209 PLY 791ca09e
-
+"Yeah. We finally get to spend time together, so it's pointless if it isn't fun."
 
 @ERI_KOK_A:210 ERI cc7f2b3c
-
+"{F3}{Nm}, {V1257}{W15}{Ec}thank you."
 
 @ERI_KOK_A:212 SYS 8b81460c
-
+...And so I slipped out of school with Futami.
 
 @ERI_KOK_A:213 ERI 03d5fd21
-
+"{V1258}{W18}He{W3}h, {W36}{Eo}walking{W5} around{W3} in{W4} uniform{W4} on a day off {W4}feels {W25}{Ec}{W5}{Fe9}{Eo}rather strange{W2}.{W2}"
 
 @ERI_KOK_A:214 PLY 2f192861
-
+"We stand out instead, so my heart's pounding."
 
 @ERI_KOK_A:215 ERI 9227ceb0
-
+"{V1259}{W15}{F3}Fu{W3}fu{W1}, {W33}{Eh}you're{W7} a coward{W9}."
 
 @ERI_KOK_A:216 PLY e3ae3ad8
-
+"I think anyone's heart would pound..."
 
 @ERI_KOK_A:217 ERI d3e8e96f
-
+"{V1260}{W18}{F4}So, {W39}what are we doing now?"
 
 @ERI_KOK_A:218 PLY b6ebe708
-
+"Well... I've actually already decided."
 
 @ERI_KOK_A:219 ERI 56d3be0f
-
+"{V1261}{W15}{Eo}Have you?"
 
 @ERI_KOK_A:220 PLY 0998e4ee
-
+"Want to go to a game center?"
 
 @ERI_KOK_A:221 ERI 4f8a96d3
-
+"{V1262}{W15}A ga{W2}me{W1} cen{W1}ter{W1}? {W66}{Fe3}I{W2} have never{W6} been{W24} to a place like that."
 
 @ERI_KOK_A:222 PLY 0ec714fe
-
+"You might not know this, but when you skip school, a game center is the standard place to go."
 
 @ERI_KOK_A:223 ERI 01852e89
-
+"{V1263}{W18}{Fe9}Is it?"
 
 @ERI_KOK_A:224 PLY db7c3ab1
-
+"If we're going to do it, I figured we should skip properly."
 
 @ERI_KOK_A:225 ERI a711f0c2
-
+"{V1264}{W15}Th{W1}at's{W1} fi{W1}ne. {W30}{h}I want to try it."
 
 @ERI_KOK_A:226 PLY 1ae852e9
-
+"That's the spirit!"
 
 @ERI_KOK_A:227 ERI 0af59612
-
+"{V1265}{W3}...{W5}We{W1}'ve{W1} come{W1} here{W1}, but{W1} I{W1} have {W30}{Fm1}no{W4} idea{W1} what's{W4} fun{W1} about{W1} it{W1}. {W27}{Eh}None at all."
 
 @ERI_KOK_A:228 PLY 8105a0a6
-
+"Is there any game you want to try?"
 
 @ERI_KOK_A:229 ERI 3c1856ad
-
+"{V1266}{Fe7}{W17}Let me think..."
 
 @ERI_KOK_A:230 ERI 9ee4c4b7
-
+"{V1267}{W15}No."
 
 @ERI_KOK_A:231 PLY 3716bb4a
-
+"Don't say that. You won't know until you try it."
 
 @ERI_KOK_A:233 ERI a31fff81
-
+"{V1268}{W21}{Eh}{Fe7}I suppose...{W84}{Fm1} then..."
 
 @ERI_KOK_A:234 ERI 718c8775
-
+"{V1269}{W15}I{W1} want{W1} to{W9} try{W2} driving{W4} that{W4} car{W1}.{W1}{W1}{W5}{F3}"
 
 @ERI_KOK_A:235 PLY d214103d
-
+"Oh, nice. Driving games these days are so realistic, you'll be amazed."
 
 @ERI_KOK_A:238 PLY bccce5c3
-
+"Huff, huff... we should be safe here."
 
 @ERI_KOK_A:239 ERI af1c7956
-
+"{V1310}{W15}Huff{W35} huff{W35} huff...{W75}{Fe9}{Eh} I haven't run{W4} this{W4} hard{W4} in{W30}{Mc}{F3} ages{W3}..."
 
 @ERI_KOK_A:240 PLY 03f9628a
-
+"Maybe going to a game center in uniform was a bad idea after all?"
 
 @ERI_KOK_A:242 ERI 5f3b8c98
-
+"{V1311}{W15}Heh, {W30}maybe so..."
 
 @ERI_KOK_A:243 ERI 3c6047db
-
+"{V1312}{W15}{Ec}Heh, {W15}hehe..."
 
 @ERI_KOK_A:244 PLY 2c3c6aab
-
+"Ahaha..."
 
 @ERI_KOK_A:245 ERI 08117263
-
+"{V1313}{W18}Ahahahahaha."
 
 @ERI_KOK_A:246 PLY b56394e9
-
+"Hahahahahaha."
 
 @ERI_KOK_A:247 PLY be3f6364
-
+"That's the first time I've seen you laugh so much, Futami."
 
 @ERI_KOK_A:248 ERI 54d6557b
-
+"{V1314}{W15}{Eo}Is{W2} it?"
 
 @ERI_KOK_A:249 ERI ac94131a
-
+"{V1315}{W15}Now that you say it, {W36}{Fe2m3}it may be the first time in a while{W4} that I have had{W4} this much fun{W18}."
 
 @ERI_KOK_A:250 ERI 4c2e127a
-
+"{V1316}{W6}...{W3}After {W4}laughing{W4} so hard, {W30}{Ec}{F3}I{W4} feel oddly refreshed."
 
 @ERI_KOK_A:251 SYS ad0a4955
-
+...After that, I spent a relaxed time with Futami at the park.
 
 @ERI_KOK_A:252 SYS 997cae80
-
+Talking with her, time passed in a flash... and before I knew it, it was evening.
 
 @ERI_KOK_A:255 PLY 54609206
-
+(Futami... I want to be with you forever... I can't stop these feelings anymore...)
 
 @ERI_KOK_A:256 PLY 51b9dd94
-
+(Even if someday we have to part...)
 
 @ERI_KOK_A:257 ERI 1c8a07ef
-
+"{V1317}{W18}{Eo}{Fe9m4}What is it, {Nm}? {W30}{Fm3}You suddenly{W4} went{W3} quiet..."
 
 @ERI_KOK_A:258 PLY cc2ae638
-
+"Futami, there's something I want to tell you..."
 
 @ERI_KOK_A:260 ERI 59492d22
-
+"{V1318}{W15}What{W4}?"
 
 @ERI_KOK_A:261 PLY 6e1f7982
-
+"Futami... I like you."
 
 @ERI_KOK_A:262 ERI cd97b905
-
+"{V1319}{W15}{Fe9}{Eo}Ah......"
 
 @ERI_KOK_A:263 ERI 3eea59e1
-
+"{V1320}{W15}{Eo}{Fe9m4}{Nm}, {W72}are you{W4} serious?"
 
 @ERI_KOK_A:264 PLY b81065be
-
+"Of course."
 
 @ERI_KOK_A:265 ERI 7fcf9d59
-
+"{V1321}{W15}{Fe6}I{W15} am... {W54}difficult{W4} to deal with."
 
 @ERI_KOK_A:266 PLY 3fef703f
-
+"I know."
 
 @ERI_KOK_A:267 ERI a0b0cb88
-
+"{V1322}{W8}...{W5}You know, {W45}do you."
 
 @ERI_KOK_A:268 ERI 4c747eb8
-
+"{V1323}{W18}{Fe6m3}Y{W1}e{W1}s, {W1}of course. {W60}{Nm}, {W30}you {W8}know{W1} me{W1} well, {W12}don't you."
 
 @ERI_KOK_A:269 ERI 99f6d337
-
+"{V1324}{W18}And yet... {W36}why?"
 
 @ERI_KOK_A:270 PLY d1f15882
-
+"Because I like you."
 
 @ERI_KOK_A:271 PLY a42039dc
-
+"Because I like you, Futami."
 
 @ERI_KOK_A:272 ERI ee927c2b
-
+"{V1325}{W15}{Fe9m3}{Nm}..."
 
 @ERI_KOK_A:273 ERI c845c738
-
+"{V1326}{W18}{Ec}If you say that...{W8} {W24}I..."
 
 @ERI_KOK_A:274 PLY 2ca64493
-
+"Futami..."
 
 @ERI_KOK_A:275 ERI a9905390
-
+"{V1327}{W15}{Eh}{Fe6}I{W8} know,{W81} myself{W4}{W4}.{W63} {Ec}I have no room{W4} to spare{W48} and I'm dull{W4}{W4}."
 
 @ERI_KOK_A:276 PLY 52d10762
-
+"Really? I think you're pretty interesting."
 
 @ERI_KOK_A:277 ERI e22d0f80
-
+"{V1328}{W15}{Eo}{Fe9m4}I{W1} like{W6} solitude{W1}."
 
 @ERI_KOK_A:278 PLY 56f6c3fc
-
+"I'm the exception, right?"
 
 @ERI_KOK_A:279 ERI 4e3a9fe8
-
+"{V1329}{W18}{Eh}{F6}I{W4} hurt{W5} the people{W4} around{W5} me{W1}{W1}{W1}."
 
 @ERI_KOK_A:280 PLY df654d55
-
+"Not really. I know you better than that."
 
 @ERI_KOK_A:282 ERI 92ec0546
-
+"{Eo}{F3}{Nm}...{V1330}{W15} Thank you."
 
 @ERI_KOK_A:283 ERI 70d2daca
-
+"{V1331}{W15}I will{W8} not be stubborn anymore.{W48}{W57} {Eh}{Fe9}...Because{W27} it is pointless{W18} anyway."
 
 @ERI_KOK_A:284 ERI 0767bd8d
-
+"{V1332}{W15}Everything about me...{W36} {Ec}{Fm3}reaches you anyway..."
 
 @ERI_KOK_A:285 ERI 05633f35
-
+"{V1333}{W18}I...{W8}{W69} love you too.{W45} {Fe9}More than that,{W45} I cannot live{W21} without you."
 
 @ERI_KOK_A:286 ERI d92b2b19
-
+"{Eo}{Nm},{V1334}{W15} I want you to stay{W45} by my side forever."
 
 @ERI_KOK_A:287 PLY b7344b73
-
+"I will. I'll always be right beside you."
 
 @ERI_KOK_A:288 ERI 748a5827
-
+"{V1335}{W12}{F2}Thank you..."
 
 @ERI_KOK_A:289 ERI 8dc60ef4
-
+"{V1336}{W15}Heh,{W90} {Eo}that sounds{W75} like a proposal."
 
 @ERI_KOK_A:290 PLY 2f6dd694
-
+"Hahaha, it does. It sounds like a proposal."
 
 @ERI_KOK_A:291 ERI 8b1ccde1
-
+"{V1337}{W15}{F3}......"
 
 @ERI_KOK_A:292 PLY 0d80b9d5
-
+"......"
 
 @ERI_KOK_A:293 PLY 7c23791b
-
+(...If we got married, I could stay by her side. It might be hard, but if we support each other, surely...)
 
 @ERI_KOK_A:294 ERI 526db017
-
+"{V1338}{W15}What is it, {Nm}?"
 
 @ERI_KOK_A:295 PLY 86acb7a1
-
+"Futami... let's get married."
 
 @ERI_KOK_A:296 ERI 45010248
-
+"{V1339}{W15}{F4}{Eo}{F4}What?"
 
 @ERI_KOK_A:297 PLY a62e92f0
-
+"We're still young, and it may sound reckless, but let's get married and live our lives together."
 
 @ERI_KOK_A:298 ERI 2f99539e
-
+"{V1340}{W15}{Ec}{Nm}...{Eh}{W93} That is......"
 
 @ERI_KOK_A:299 PLY 776aa6bf
-
+"Ugh... is it too reckless after all?"
 
 @ERI_KOK_A:300 ERI a042d4ea
-
+"{V1341}{Fe7m3}{Ec}{W12}No,{W39} {Eh}it is not reckless.{P16}{Fe8}{Eo}{W57}{Eo} I think{W8} what{W4} matters most{W33} is how{W4} the{W4} two{W4} of{W4} us{W4} feel."
 
 @ERI_KOK_A:301 PLY 8333be75
-
+"Then..."
 
 @ERI_KOK_A:302 ERI 952e057c
-
+"{V1342}{W15}{F2}{Eh}Yes.{W105} I...{W102} {Ec}am{W8} happy...{W90} I have never been this happy{W45} in my entire{W3} life.{Ec}"
 
 @ERI_KOK_A:303 ERI dd0432ea
-
+"{V1343}{W15}{F2}{Eo}Make{W8} me{W78} your{W4} wife."
 
 @ERI_KOK_A:304 PLY 42466d81
-
+"Futami, let's get on the swings!"
 
 @ERI_KOK_A:305 ERI a3b558e3
-
+"{V1344}{W15}{F4}The swings?"
 
 @ERI_KOK_A:306 PLY bf387807
-
+"I'll support you. ...The past is nothing, we'll be fine together."
 
 @ERI_KOK_A:307 ERI b200525a
-
+"{V1345}...{W57}{F2}{Ec}{W9}Yes!"
 
 @ERI_KOK_A:312 ERI 78ddce3c
-
+"{V1346}{W15}Do not let{W3} go of my{W4} hand,{W18} okay?"
 
 @ERI_KOK_A:314 PLY 5e4d218c
-
+"I know.{W15} I'll never let go."
 
 @ERI_KOK_A:315 ERI 412ddeb7
-
+"{Nm}...{W45}{V1347}{W18} I love you......"
 
 @ERI_KOK_A:319 SYS 9d8ef636
-
+{V5040}{c5}...{W5}Right{W2} after{W2} we{W2} graduated{W2} from high{W6} school,{W45} we{W3} got{W3} married.
 
 @ERI_KOK_A:320 SYS 864df14f
-
+{V5041}{c5}{W3}The{W2} adults{W3} objected,{W60} but{W3} they could not{W3} stop us{W33} as we were{W6} about to become adults ourselves.
 
 @ERI_KOK_A:321 SYS f883a435
-
+{V5042}{c5}{W12}I{W8} went{W36} on to{W4} a{W3} university{W3} in{W3} America,{W60} while{W3} he{W30} works{W3} as a waiter at a small restaurant in{W24} that{W3} town{W24} and{W3} studies{W5} English.
 
 @ERI_KOK_A:322 SYS 3831333e
-
+{V5043}{c5}{W8}Life{W3} is{W3} hard,{W45} but{W3} we have a{W6} dream.{W75} Someday, surely,{W45} we want{W3} to make it{W3} come{W3} true{W3} together...
 
 @ERI_KOK_A:323 SYS 5b029eca
-
+{V5044}{c5}Today{W6} again,{W45} I am{W3} studying{W3} in a corner of{W3} the{W3} restaurant{W45} where{W3} he{W3} works.
 
 @ERI_KOK_A:324 SYS 26bdb6dd
-
+{V5045}{c5}{Ti0}"{Ti2}{W2}The coffee you made me is delicious...{W36} {W30}Heh,{W63} a{W4} mug{W2} really{W3} is{W42} important."
 
 @ERI_KOK_A:325 SYS 20467bfb
-
+{V5046}{c5}"Fufu,{W48} sitting like this,{W42} it reminds me of{W4} the{W3} Science{W8} Prep{W5} Room."
 
 @ERI_KOK_A:326 SYS 82983e01
-
+{V5047}{c5}"{W5}The Science Prep Room{W3} where{W45} we spent{W5} time{W3} together...{W73} I{W4} miss it..."
 
 @ERI_KOK_A:327 SYS f793b866
-
+{V5048}{c5}"{W3}Thank{W1} you{W3} for{W1} your{W3} hard{W1} work.{W57} {Ti0}{Ti2}I{W3}{Ti0} {Ti2}love{Ti0} {Ti2}you{Ti0} {Ti2}{W27}darling."
 
 @ERI_KOK_A:328 SYS 8c8026d7
-
+This hasn't been sorted into a file yet...

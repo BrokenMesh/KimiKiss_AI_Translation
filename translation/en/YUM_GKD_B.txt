@@ -2,262 +2,262 @@
 # Format: docs/translation-format.md
 
 @YUM_GKD_B:33 PLY 7788ae65
-
+(The station is right there already. I want to talk more... But it can't be helped...)
 
 @YUM_GKD_B:36 PLY ef70d8d9
-
+"Well, Hoshino, I guess here...
 
 @YUM_GKD_B:38 YUM e2f63487
-
+"{V0892}{W11}Mm..."
 
 @YUM_GKD_B:41 YUM 10f8de13
-
+"{V0893}{W9}Um...{W12} {Nm},{W17} if you don't mind...{W53} would you come to the{W11} bookstore{W1}{W1}{W1}{W1}{W1} with me?"
 
 @YUM_GKD_B:42 PLY 634f9920
-
+"Ah..."
 
 @YUM_GKD_B:43 PLY 8ce2588c
-
+"Sure! I was thinking it'd feel odd to part ways like this."
 
 @YUM_GKD_B:45 YUM 13cc6437
-
+"{V0894}{W9}Me{W5} too."
 
 @YUM_GKD_B:51 YUM 10fc8df1
-
+"{V0895}{W3}Oh,{W6} {Nm},{W8} have you read{W2} this book?"
 
 @YUM_GKD_B:52 PLY c0789525
-
+"Huh? Which one?"
 
 @YUM_GKD_B:53 YUM 1708e6e2
-
+"{V896}{W4}Look,{W17} this one stacked on the{W2} table.{W24} It's{W5} the{W2} talk{W3} of{W2} the{W2} town{W2} right{W2} now."
 
 @YUM_GKD_B:56 YUM d308f563
-
+"{V0897}{W3}It's{W4} an{W4} essay{W4} collection{W4} of{W3} experiences{W3} from{W3} wives{W3} with{W1} foreign{W3} husbands.{W5}{W3}{W1}{W1}{W1}{W2}{W3}{W2}{W2}{W1}{W1}{W1}"
 
 @YUM_GKD_B:57 PLY 47c9543b
-
+"Oh, wow."
 
 @YUM_GKD_B:59 YUM a32cd961
-
+"{V0898}{W3}They{W3} write{W3} about{W2} being{W17} confused{W4} by{W4} differences{W4} in{W4} culture{W4} and{W4} daily{W3} life,{W4}{W3}{W4}{W3}{W3} or{W17} things that surprised them,{W9} and{W2} it's{W1} told{W1} so{W1} fun{W1}ni{W1}ly{W1}{W1}{W1}{W1}{W18} that{W2} it's{W2} really{W2} enjoyable{W3}.{W2}{W2}"
 
 @YUM_GKD_B:60 PLY cea4ce60
-
+"I see. It sounds interesting."
 
 @YUM_GKD_B:61 YUM 635f2e7c
-
+"{V0899}{W4}Oh,{W32} {F3}this book{W2} is good too.{W35} It won{W1} this{W2} year's{W1} Mystery{W2} Grand{W2} Prize{W1}...{W2}{W2}{W1}{W2}{W2}{W1}{W1}{W2}"
 
 @YUM_GKD_B:62 PLY 9a23fdf6
-
+(Hoshino really loves books...)
 
 @YUM_GKD_B:63 SYS 22ce2fed
-
+...And so, Hoshino told me about all sorts of books she recommends.
 
 @YUM_GKD_B:64 SYS 23050122
-
+...And so, I spent the time with Hoshino at the bookstore.
 
 @YUM_GKD_B:68 PLY 7040495a
-
+"There's a park near my house. Want to stop by for a bit?"
 
 @YUM_GKD_B:69 YUM f88ea4fd
-
+"{V0900}{W5}Yes,{W24} I'd like to.{W23} Take me there."
 
 @YUM_GKD_B:70 YUM 18253aef
-
+"{V0901}{W8}Oh,{W38} this{W4} park{W4}{W5}{W2}..."
 
 @YUM_GKD_B:71 YUM 90fe3890
-
+"{V0902}{W9}This{W1} park...{W2}{W3}{W3}{W2}{W18} I{W4} used{W7} to{W4} play{W3} here{W3} when{W8} I{W5} was{W4} little{W4}{W4}."
 
 @YUM_GKD_B:72 PLY e602c9b2
-
+"Really?"
 
 @YUM_GKD_B:73 YUM 44e9c28d
-
+"{V0903}{W8}Yes.{W43} I{W50} commute{W2} to{W1} school{W2} by{W2} train{W2} now,{W2}{W1}{W1}{W41} {Eo}but{W3} until{W2} Year{W2} 2{W2} of{W8} elementary school{W1} I lived{W1} in this town."
 
 @YUM_GKD_B:74 PLY e43f389d
-
+"I see."
 
 @YUM_GKD_B:75 PLY 7bcd45c9
-
+"Then maybe we played together when we were little."
 
 @YUM_GKD_B:76 YUM 4fa80330
-
+"{V0904}{W7}Yes.{W42} ...If{W1} so,{W1}{W1}{W32} I'd be happy."
 
 @YUM_GKD_B:77 PLY 9d710fd3
-
+"Huh? Kids are gathering over there... What's going on?"
 
 @YUM_GKD_B:78 YUM 28a32d6e
-
+"{V0905}{W8}That{W2} is{W1}...{W33} kamishibai?{W10}{W8}{W3} {W55}{F2}{Ec}Wow{W7}{W7},{W31} how{W6} nostalgic{W4}{W4}{W2}."
 
 @YUM_GKD_B:80 PLY 1698debd
-
+"But the kamishibai uncle himself doesn't seem to be here..."
 
 @YUM_GKD_B:81 YUM 2f93849d
-
+"{V0906}{W13}You're{W7} right{W9}...{W4}{W55} I'll go ask{W7} {F3}what{W1} happened.{W1}{W1}{W1}{W1}{W3}{W1}{W1}{W1}{W1}"
 
 @YUM_GKD_B:82 PLY cc4af171
-
+"Okay."
 
 @YUM_GKD_B:83 PLY 5d041da9
-
+(Kids... they remind me of Nana when she was little.)
 
 @YUM_GKD_B:84 PLY 7937dcbf
-
+(I used to play here with Nana a lot...)
 
 @YUM_GKD_B:85 PLY 7ba39077
-
+(Actually, I wanted to play with my friends, but Nana clung to me and wouldn't let go...)
 
 @YUM_GKD_B:86 PLY 6593bfe0
-
+"Oh, Hoshino, how did it go?"
 
 @YUM_GKD_B:87 YUM bda74668
-
+"{V0907}{W8}The{W2} uncle{W1}{W1} said{W18} he'd{W1} be{W1} right{W2} back,{W1}{W1}{W2} but{W1} he{W1} never{W1} came{W1} back.{W14} It seems he hasn't returned."
 
 @YUM_GKD_B:88 PLY 0a062cf0
-
+"Maybe something urgent came up."
 
 @YUM_GKD_B:89 YUM 921ee439
-
+"{V0908}{W8}I{W2} don't{W2} know{W2}...{W2}{W3}{W3}{W2},{W26} {Ec}but{W3} the{W2} little{W2} kids{W2} are{W9} waiting{W2} for him{W2}{W2}{W2}{W1} and{W2} it's sad{W2}{W2}{W1}{W1}...{Eo}"
 
 @YUM_GKD_B:90.1 - 005ca93a
-
+{Ti0}- Hoshino, why don't you try it?／- Okay! I'll do it!／- We can only leave it be
 
 @YUM_GKD_B:91 PLY f458f2cb
-
+"Hoshino, why don't you try it?"
 
 @YUM_GKD_B:93 YUM 17e0aeaf
-
+"{V0909}{W3}Huh?{W30} Try{W1} it{W1}...{W1}{W1}{W1}{W5}{W26} you{W4} mean{W5} the{W5} kamishibai?"
 
 @YUM_GKD_B:94 PLY adc5c588
-
+"Yeah."
 
 @YUM_GKD_B:95 PLY d71ffe73
-
+"You were good when you talked about books to Nana and Narumi, so I bet you could do kamishibai for kids."
 
 @YUM_GKD_B:96 YUM 64aeca04
-
+"{V0910}{W3}I-{W42}I{W4} guess{W7} so{W7}...{W2}"
 
 @YUM_GKD_B:97 PLY 03827f47
-
+"If the uncle shows up, you can hand it back. And the kids might even like it better if a girl reads to them..."
 
 @YUM_GKD_B:98 YUM 6d889bd8
-
+"{V0911}{W3}M-{W39}mm.{W39} Then,{W19} I'll try it."
 
 @YUM_GKD_B:99 PLY e6c1ec3b
-
+"Okay! I'll do it!"
 
 @YUM_GKD_B:100 YUM 22053d67
-
+"{V0912}{W3}Huh?{W37} You'll{W1} do{W1} it{W2}{W2}{W6}{W2}{W1}...{W19} the kamishibai{W3}{W3}{W1}?"
 
 @YUM_GKD_B:102 YUM 92d1cf5c
-
+"{V0913}{W9}C-{W20}can{W1} you{W1} do it?"
 
 @YUM_GKD_B:103 PLY 4da4d158
-
+"...Maybe I really can't."
 
 @YUM_GKD_B:104 YUM 595c543c
-
+"{V0914}{W4}Fufu."
 
 @YUM_GKD_B:105 YUM 502ef2cd
-
+"{V0915}{W6}All right,{W27} I'll{W2} try{W1} it."
 
 @YUM_GKD_B:106 PLY e1094ccd
-
+"Yeah, that's best."
 
 @YUM_GKD_B:107 YUM a843011a
-
+"{V0916}{W3}Fufu,{W36} I{W1} think{W2} so{W1}{W1}{W2} too{Eo}."
 
 @YUM_GKD_B:108 PLY 4ba59103
-
+"We can only leave it be. It's sad, though."
 
 @YUM_GKD_B:109 YUM fd748da8
-
+"{V0917}{W3}...{W3}{W2}"
 
 @YUM_GKD_B:110 YUM b7e00304
-
+"{V0918}{W10}I{W3}...{W83} I'll{W1} try{W1} it{W1}{W1}!"
 
 @YUM_GKD_B:111 PLY 7ab606bd
-
+"What?! You'll try it... the kamishibai?"
 
 @YUM_GKD_B:112 YUM 3f32c74a
-
+"{V0919}Yes."
 
 @YUM_GKD_B:114 YUM 4660478e
-
+"{V0920}{W8}I don't know if I can do it well,{W30} but if I don't,{W24} those children will{W1} be sad{W1}."
 
 @YUM_GKD_B:115 PLY fb4f2d2f
-
+"Yeah, you're right. You'll surely read it well, Hoshino. And if the uncle comes, you can just switch."
 
 @YUM_GKD_B:116 YUM 7ea81a3c
-
+"{V0921}Yes."
 
 @YUM_GKD_B:123 - 579e57ae
-
+Children
 
 @YUM_GKD_B:125 YUM f6f11578
-
+"{V0922}{W3}The uncle{W17} isn't coming back,{W22} so this big sis{W1} will{W1} read{W1} you{W10} a kamishibai~"
 
 @YUM_GKD_B:126 AKI 3e0f5b8d
-
+"Yaaay!"
 
 @YUM_GKD_B:129 YUM e9e2597d
-
+"{V0923}{W4}Now{W2} then,{W26} it{W7} be{W6}gins{W5} be{W3}gins{W2}~{W2}~"
 
 @YUM_GKD_B:134 YUM 20698cb9
-
+"{V0924}{W5}Lo{W7}ng{W8}~{W8} long{W5} ago,{W31} on{W2} a{W1} certain island,{W2}{W36} there{W1} lived{W1} a{W8} kind{W8}~{W8}hearted{W17} ogre{W2},{W1} they say{W2}."
 
 @YUM_GKD_B:135 YUM 86e1e102
-
+"{V0925}{W3}The{W2} ogre{W20} loved{W1} cur{W1}ry{W1} rice{W1} with{W1} all{W5} his{W5} heart{W6}~,{W2}{W2}{W2} and{W35} he{W1} never{W2} got{W2} tired{W1} of{W1} eating{W1} it{W1} every{W1} day."
 
 @YUM_GKD_B:136 YUM 752db77e
-
+"{V0926}{W5}Do you all{W25} like curry rice{W6} too{W2}?{W2}{W2}{W2}~"
 
 @YUM_GKD_B:137 AKI 19b823fe
-
+"We love it~!"
 
 @YUM_GKD_B:139 SYS 23f3d07a
-
+...And so Hoshino read the kamishibai to the children.
 
 @YUM_GKD_B:140 SYS 430ecda9
-
+Even if the audience was just children, doing kamishibai in front of people... The Hoshino of not long ago surely couldn't have done it...
 
 @YUM_GKD_B:141 PLY ee59c081
-
+"Hoshino, you're really good."
 
 @YUM_GKD_B:142 YUM 15668424
-
+"{V0927}{W3}Fufu,{W32} thank you."
 
 @YUM_GKD_B:144 PLY ab4ec25a
-
+"Hoshino, want to stop by the park?"
 
 @YUM_GKD_B:145 YUM 8cd0c43c
-
+"{V0928}{W6}Yes,{W20} sure."
 
 @YUM_GKD_B:146 PLY 0fe76988
-
+"The kamishibai uncle might be keeping the kids waiting again..."
 
 @YUM_GKD_B:147 YUM bd2423b6
-
+"{V0929}{W7}Surely not,{W17} not{W1} that{W1}...{W1}"
 
 @YUM_GKD_B:149 PLY 807f2fda
-
+"Surely so, it seems..."
 
 @YUM_GKD_B:150 YUM 12a4efeb
-
+"{V0930}{W5}Oh,{W56} yes.{W74} Little{W5} kids{W2} being{W1} kept{W1} waiting{W1} again,{W1}{W24} {F6}how{W1} sad{W1}..."
 
 @YUM_GKD_B:152 YUM 24fa0d60
-
+"{V0931}{W4}I'll{W34} go{W7} read{W2} the{W1} kamishibai{W2} again{W1}.{W1}{W1}{W1}{W1}"
 
 @YUM_GKD_B:153 PLY bcbd5a6a
-
+"Yeah, that's best. The uncle never came back last time either..."
 
 @YUM_GKD_B:154 AKI 894ad55b
-
+"Oh! It's the big sis from the other day~!"
 
 @YUM_GKD_B:155 YUM 17d0a870
-
+"{V0932}{W4}Th{W1}is{W1} time,{W2} big{W1} sis{W3}{W1}{W1} will{W20} read{W5} you{W1} a kamishibai{W1}{W1}{W1} again."
 
 @YUM_GKD_B:156 YUM 7ca43ab7
-
+"{V0933}{W4}Now{W2} then,{W26} it{W7} be{W6}gins{W5} be{W3}gins{W2}~{W2}~"
 
 @YUM_GKD_B:157 YUM 2b878ea3
-
+"{V0925}{W3}The{W2} ogre{W20} loved{W1} cur{W1}ry{W1} rice{W1} with{W1} all{W5} his{W5} heart{W6}~,{W2}{W2}{W2} and{W51} he{W1} never{W2} got{W2} tired{W1} of{W1} eating{W1} it{W1} every{W1} day."

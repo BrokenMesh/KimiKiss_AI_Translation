@@ -2,13 +2,13 @@
 # Format: docs/translation-format.md
 
 @GameMain:135 - aeeaeb2e
-
+"It's a rare day off, and there's nothing to do..."
 
 @GameMain:137 - a3251082
-
+"..."
 
 @GameMain:172 - 652c0370
-
+(There's no one in particular around...)
 
 @GameMain:176 - 79cff54d
-
+(Well, time to head home...)

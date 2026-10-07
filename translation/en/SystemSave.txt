@@ -2,70 +2,70 @@
 # Format: docs/translation-format.md
 
 @SystemSave:10.1 - 8874353d
-
+The "PlayStation 2" memory card (8MB)\nin MEMORY CARD slot 1\nis not inserted correctly.
 
 @SystemSave:10.2 - bd8f7857
-
+The "PlayStation 2" memory card (8MB)\nin MEMORY CARD slot 1\nis not formatted.
 
 @SystemSave:10.3 - 88111472
-
+The "PlayStation 2" memory card (8MB)\nin MEMORY CARD slot 1\ndoes not have enough free space.
 
 @SystemSave:10.4 - 8df6b1ac
-
+The "PlayStation 2" memory card (8MB)\nin MEMORY CARD slot 1\ndoes not have enough free space.\nCreating save data requires at least 240KB of free space.
 
 @SystemSave:10.5 - 6fb42231
-
+The "PlayStation 2" memory card (8MB)\nin MEMORY CARD slot 1\ncontains no save data for "KimiKiss PLUS".
 
 @SystemSave:10.6 - 848671ce
-
+The "PlayStation 2" memory card (8MB)\nin MEMORY CARD slot 1\ncontains no save data for "KimiKiss".
 
 @SystemSave:10.7 - 9c37465c
-
+The "PlayStation 2" memory card (8MB)\nin MEMORY CARD slot 1\nis not formatted.\nFormat it now?
 
 @SystemSave:10.8 - a9bf9417
-
+Formatting the "PlayStation 2" memory card (8MB)\nin MEMORY CARD slot 1.\nDo not turn off or reset the "PlayStation 2",\nor insert or remove memory cards (PS2)\nor controllers.
 
 @SystemSave:10.9 - 9e0d1d59
-
+Format failed.
 
 @SystemSave:10.10 - 871af71c
-
+Creating save data on the "PlayStation 2" memory card (8MB)\nin MEMORY CARD slot 1.\nDo not turn off or reset the "PlayStation 2",\nor insert or remove memory cards (PS2)\nor controllers.
 
 @SystemSave:10.11 - 5f17fb05
-
+Save data already exists.\nOverwrite it?
 
 @SystemSave:10.12 - 329b32ed
-
+Save complete.
 
 @SystemSave:10.13 - dcf537f5
-
+Save failed.
 
 @SystemSave:10.14 - 221b3703
-
+Data will be loaded from the "PlayStation 2" memory card (8MB)\nin MEMORY CARD slot 1.\nUnsaved data will be lost. Is that okay?
 
 @SystemSave:10.15 - 99a2c169
-
+Loading.\nDo not turn off or reset the "PlayStation 2",\nor insert or remove memory cards (PS2)\nor controllers.
 
 @SystemSave:10.16 - 365f9690
-
+Load complete.
 
 @SystemSave:10.17 - de8efd75
-
+Load failed.
 
 @SystemSave:10.18 - ef688be2
-
+Checking the save data on the "PlayStation 2" memory card (8MB)\nin MEMORY CARD slot 1.\nDo not turn off or reset the "PlayStation 2",\nor insert or remove memory cards (PS2)\nor controllers.
 
 @SystemSave:10.19 - f00cd9c5
-
+To save "KimiKiss PLUS" data, you need a\n"PlayStation 2" memory card (8MB)\nwith at least 240KB of free space.\nStart the game anyway?
 
 @SystemSave:10.20 - 80ad7f36
-
+Settings have been changed.\nSave them?
 
 @SystemSave:10.21 - 1e842499
-
+Save the clear data?
 
 @SystemSave:10.22 - 01cce3f7
-
+System data loaded.
 
 @SystemSave:24 - 201c1cc5
-
+Returning to the title screen.\nUnsaved data will be lost.\nIs that okay?

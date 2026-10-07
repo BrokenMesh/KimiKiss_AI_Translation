@@ -2,694 +2,694 @@
 # Format: docs/translation-format.md
 
 @ASU_GKD_A:23 PLY 992ccc0b
-
+"So, shall we go to the riverbank?"
 
 @ASU_GKD_A:26 ASU 7c49d409
-
+"{V0645}Are you sure it's okay, {Nm}? {W10}Making you help with my practice."
 
 @ASU_GKD_A:28 PLY bed8e769
-
+"Yeah. I'm curious what kind of practice you do, Sakino..."
 
 @ASU_GKD_A:30 ASU 15fb9ab4
-
+"{V0646}I see. {W40}Okay then, {W3}let's go!"
 
 @ASU_GKD_A:44 PLY badea9ef
-
+"Do you practice here a lot?"
 
 @ASU_GKD_A:45 ASU e2ccd3e2
-
+"{V0647}Yeah."
 
 @ASU_GKD_A:46 ASU e3143725
-
+"{V0648}I come here after swimming with the Swim Club too, {W50}so I end up covered in mud again..."
 
 @ASU_GKD_A:48 ASU 1238c894
-
+"{V0649}Even I{W5} {Ec}wonder what I'm{W5} doing{Sp} sometimes."
 
 @ASU_GKD_A:49 PLY d5fe6f79
-
+"Ahaha."
 
 @ASU_GKD_A:50 PLY 21cba57e
-
+"Sakino, when did you start playing soccer?"
 
 @ASU_GKD_A:52 ASU 8fbe6487
-
+"{V0650}In fourth{W10} grade{W5} of elementary school."
 
 @ASU_GKD_A:53 ASU e569b4e3
-
+"{V0651}There was a women's soccer game on TV,{W5} {W30}{P1}{F2}{Ec}and it looked{W10} so cool."
 
 @ASU_GKD_A:54 PLY 61f11888
-
+"A high school tournament or something?"
 
 @ASU_GKD_A:55 ASU f92527c2
-
+"{V0652}No, {W50}there's a pro league for women too,{W10} {F2}and it was a broadcast of that."
 
 @ASU_GKD_A:56 PLY 5cf5173c
-
+"Oh, I see."
 
 @ASU_GKD_A:57 ASU 608eda35
-
+"{V0653}Yeah. {W40}{F9}...So {W30}I thought{W5} {Ec}I'd like to become like that someday."
 
 @ASU_GKD_A:58.1 - 081d668d
-
+{Ti0}- You can do it, Sakino／- You're already cool, Sakino／- ...Well, dream big, they say
 
 @ASU_GKD_A:59 PLY bb4ed082
-
+"You can do it, Sakino."
 
 @ASU_GKD_A:61 ASU a31dcab1
-
+"{V0654}Huh?"
 
 @ASU_GKD_A:62 PLY e8829324
-
+"If you work hard toward your dream, I'm sure it'll pay off."
 
 @ASU_GKD_A:63 ASU dcd109a5
-
+"{V0655}Yeah...{W60} you're right. {W70}{F2}{Eo}Thanks, {Nm}."
 
 @ASU_GKD_A:65 PLY bece2596
-
+"You're already cool, Sakino."
 
 @ASU_GKD_A:66 ASU d927f6ef
-
+"{V0656}Huh?"
 
 @ASU_GKD_A:67 PLY ba87ab66
-
+"Passing to the boys, scoring goals... You're really cool!"
 
 @ASU_GKD_A:68 ASU 61e89d61
-
+"{V0657}Really? {W40}{F2}Thanks!"
 
 @ASU_GKD_A:69 PLY 1d514d1a
-
+"...Well, dream big, they say."
 
 @ASU_GKD_A:70 ASU b0eaf8cc
-
+"{V0658}Yeah, {W20}{F9}that's{Sp} true."
 
 @ASU_GKD_A:71 PLY 07dbbb59
-
+"I'm Player Sakino's number one fan, after all."
 
 @ASU_GKD_A:74 ASU 01dc4833
-
+"{V0659}Ah..."
 
 @ASU_GKD_A:75 PLY 459a7fb3
-
+"So if there's anything I can do, don't hesitate to ask."
 
 @ASU_GKD_A:76 ASU 7e7fd958
-
+"{V0660}Thanks, {Nm}."
 
 @ASU_GKD_A:77 PLY 042d3279
-
+"Okay, I'll help with practice."
 
 @ASU_GKD_A:79 ASU 682a3862
-
+"{V0661}Yeah!"
 
 @ASU_GKD_A:83 SYS e40b91ff
-
+...And so, I helped with Sakino's practice.
 
 @ASU_GKD_A:85 ASU 910ba49d
-
+"{V0662}Are you sure it's okay? {W10}Making you help with my practice again today."
 
 @ASU_GKD_A:86 PLY ac1429df
-
+"Of course. What are you going to practice today?"
 
 @ASU_GKD_A:87 ASU cce01a4e
-
+"{V0663}The usual. {W20}Practicing the{W3} Asuka Turn."
 
 @ASU_GKD_A:88 PLY 8853d8cc
-
+"I see. I hope you perfect it."
 
 @ASU_GKD_A:89 ASU 80b21226
-
+"{V0664}Yeah! {W40}I'm so close, too."
 
 @ASU_GKD_A:90 PLY 1884c148
-
+"All right. Let's get started, then."
 
 @ASU_GKD_A:91 ASU 25a8c904
-
+"{V0665}Yeah! {W30}Thanks, {Eo}{Nm}."
 
 @ASU_GKD_A:94 ASU e8a1c2df
-
+"{V0666}It's evening{W5} but {W30}it's still{W5} so hot."
 
 @ASU_GKD_A:95 PLY 851b6dc4
-
+"It is."
 
 @ASU_GKD_A:96 ASU 8dc15d8b
-
+"{V0667}Hey, {Nm}, {W20}let's stop by the shopping street {W30}and get ice cream."
 
 @ASU_GKD_A:97 PLY 9b2cfc6c
-
+"Ice cream, nice. Let's go!"
 
 @ASU_GKD_A:98 ASU 46b63fc5
-
+"{V0668}Want to buy some at the{W3} bakery{W3} on the corner?"
 
 @ASU_GKD_A:99 PLY b96f4ed1
-
+"Sounds good. Ah..."
 
 @ASU_GKD_A:100 ASU b26248ba
-
+"{V0669}What's wrong?"
 
 @ASU_GKD_A:101 PLY d5d8eee9
-
+"Sorry. I don't have any money today..."
 
 @ASU_GKD_A:102 ASU 9889c10e
-
+"{V0670}Hehe, {W40}{P0}{F3}{Eo}then I'll treat you."
 
 @ASU_GKD_A:103 PLY 1fdea3b9
-
+"No, it's fine, I'd feel bad..."
 
 @ASU_GKD_A:104 ASU 914ad250
-
+"{V0671}Ah...{W80} I{W3} was going to say that,{F9} but {W50}I{W10} only have{W10} a little over{W3} 100 yen..."
 
 @ASU_GKD_A:105 PLY 04733997
-
+"Hahaha."
 
 @ASU_GKD_A:106 ASU 8e12fbb1
-
+"{V0672}What do I do... {W40}I can't buy two with this... {W115}{F2}I know!"
 
 @ASU_GKD_A:107 ASU 45132534
-
+"{V0673}Let's buy a soda ice cream and split it! {Eo}{W45}You know, {W15}the kind with two sticks that you break apart? {W15}{P3}{F7}We can halve that."
 
 @ASU_GKD_A:108 PLY a89385a3
-
+"Sounds good. Then I'll gladly accept."
 
 @ASU_GKD_A:110 ASU d2a89b87
-
+"{V0674}Yeah. {W30}Let's eat it together."
 
 @ASU_GKD_A:111 SYS c8367938
-
+...And so, we bought a soda ice cream.
 
 @ASU_GKD_A:112 ASU ba6608fc
-
+"{V0675}It's hard {W30}to break{W10} it cleanly, isn't it?"
 
 @ASU_GKD_A:113.1 - b5ef29de
-
+{Ti0}- Just snap it boldly／- Break it gently
 
 @ASU_GKD_A:114 PLY ef9f6e80
-
+"Just snap it boldly."
 
 @ASU_GKD_A:115 ASU a4e0fb22
-
+"{V0676}You think? {W70}Okay then...... {W50}here goes!"
 
 @ASU_GKD_A:116 ASU 1eb78593
-
+"{V0677}...Ah, {W70}it broke{W3} weirdly."
 
 @ASU_GKD_A:117 PLY 1e7e0aa2
-
+"Ugh... sorry. Was my advice actually bad?"
 
 @ASU_GKD_A:118 ASU 8c47d8c5
-
+"{V0678}No."
 
 @ASU_GKD_A:122 ASU c704b10b
-
+"{V0679}Here! {W30}You get the bigger one."
 
 @ASU_GKD_A:123 PLY a06a2bf7
-
+"I-it's fine. I'll take the smaller one."
 
 @ASU_GKD_A:124 ASU 3f333977
-
+"{V0680}Don't hold back. {W40}Boys eat more, right? {W30}The{W10} smaller one is plenty for me."
 
 @ASU_GKD_A:125 PLY 92880cc1
-
+"Really? Then... thanks."
 
 @ASU_GKD_A:126 ASU b6440628
-
+"{V0681}You're welcome."
 
 @ASU_GKD_A:127 SYS ec2b0140
-
+...And so, Sakino and I happily ate the soda ice cream together.
 
 @ASU_GKD_A:129 PLY cf101151
-
+"Break it gently."
 
 @ASU_GKD_A:130 ASU 98c32240
-
+"{V0682}You think? {W60}Okay then...{W40} carefully..."
 
 @ASU_GKD_A:131 ASU 3864d74f
-
+"{V0683}Ah, {W20}it broke cleanly!"
 
 @ASU_GKD_A:132 PLY 38b1af43
-
+"Hahaha, great."
 
 @ASU_GKD_A:133 ASU 2f7e4454
-
+"{V0684}Yeah!"
 
 @ASU_GKD_A:134 ASU ddd72acc
-
+"{V0685}Here!"
 
 @ASU_GKD_A:135 PLY a7e1f9fa
-
+"Thanks."
 
 @ASU_GKD_A:137 ASU 36be9946
-
+"{V0686}Hey, {Nm}, let's stop by the shopping street {W10}and get ice cream."
 
 @ASU_GKD_A:138 PLY a355c31e
-
+"Again today? Sure, it's hot out."
 
 @ASU_GKD_A:140 ASU 57115c6b
-
+"{V0687}Hey, {W10}let's split a soda ice cream!"
 
 @ASU_GKD_A:141 PLY d6741e67
-
+"Huh? I brought money today, though."
 
 @ASU_GKD_A:142 ASU 1a200e77
-
+"{V0688}I want to{W3} break one!"
 
 @ASU_GKD_A:143 ASU 5fcc6462
-
+"{V0689}I messed it up the other day, you see."
 
 @ASU_GKD_A:144 PLY 9d6abc0b
-
+"Hahaha, I see."
 
 @ASU_GKD_A:145 ASU 59d8ba63
-
+"{V0690}Besides, {W30}sharing one ice cream between two people {W30}{Ec}is kind of fun, isn't it?"
 
 @ASU_GKD_A:146 PLY 6d37b8ae
-
+"...Yeah, it is."
 
 @ASU_GKD_A:147 ASU abfcbec7
-
+"{V0691}Okay, {Ec}I'll go buy it."
 
 @ASU_GKD_A:148 PLY 6aa496ca
-
+"Oh, I'll pay today."
 
 @ASU_GKD_A:149 SYS c2492bce
-
+...And so, we bought a soda ice cream.
 
 @ASU_GKD_A:150 ASU 14c173f4
-
+"{V0692}Carefully...{W35} break{W30} it...{W45} there..."
 
 @ASU_GKD_A:151 ASU 56f478af
-
+"{V0693}Ah, {W25}it broke{W5} cleanly!"
 
 @ASU_GKD_A:152 ASU 3417c863
-
+"{V0694}Yeah!"
 
 @ASU_GKD_A:153 ASU 54898223
-
+"{V0695}Here!"
 
 @ASU_GKD_A:155 PLY 82a82aa4
-
+"How's practice going?"
 
 @ASU_GKD_A:156 ASU 7d9a5ff7
-
+"{V0696}Yeah, {W30}it feels really good! {W30}I'm almost{W25} there with the Asuka Turn."
 
 @ASU_GKD_A:157 PLY 5ded9fb7
-
+"Really? That's great!"
 
 @ASU_GKD_A:158 ASU ae658b4f
-
+"{V0697}Yeah. {W60}...But {W30}I'm just one step short{W3} of getting the knack..."
 
 @ASU_GKD_A:159 PLY 8b40a809
-
+"I see... you'd better keep at it."
 
 @ASU_GKD_A:160 ASU 3e2bf4b6
-
+"{V0698}Yeah."
 
 @ASU_GKD_A:161 PLY 6817ec2b
-
+"So, what should I help with?"
 
 @ASU_GKD_A:162 ASU 166a9424
-
+"{V0699}You just have to stand there, {W15}{P1}{F2}so can you play the defender?"
 
 @ASU_GKD_A:163 PLY ccb6a628
-
+"Okay."
 
 @ASU_GKD_A:164 ASU dc6eac6a
-
+"{V0777}So, {W40}I'm almost{W3} there with the Asuka Turn.{W10}"
 
 @ASU_GKD_A:165 PLY 7962df73
-
+"You've been practicing the Asuka Turn all along, right?"
 
 @ASU_GKD_A:166 ASU 14a830bb
-
+"{V0778}Right. {W33}It's a move I came up with{W20} to get past{W5} a defender, but {W45}...I just{W3} can't get the knack..."
 
 @ASU_GKD_A:167 PLY 217ac6c2
-
+"I see. You'd better keep at it."
 
 @ASU_GKD_A:168 ASU 29ba08a0
-
+"{V0779}Yeah."
 
 @ASU_GKD_A:169 PLY abb73943
-
+"So, what should I do?"
 
 @ASU_GKD_A:170 ASU 88bdbd88
-
+"{V0780}I want you to play the defender. {W20}{P1}{F2}You just have to stand there."
 
 @ASU_GKD_A:171 PLY b2554376
-
+"Okay. I can do that."
 
 @ASU_GKD_A:182 ASU 98fa7825
-
+"{V0700}Okay, {W20}stand right there."
 
 @ASU_GKD_A:183 ASU 9a4acdf0
-
+"{V0781}Okay, {W20}stand right there."
 
 @ASU_GKD_A:194 ASU 076b35dd
-
+"{V0701}Here I come!"
 
 @ASU_GKD_A:195 ASU 9f284d7a
-
+"{V0782}Here I come!"
 
 @ASU_GKD_A:220 ASU 2f0dfe57
-
+"{V0702}Cut back here! {P7}{W30}Here!"
 
 @ASU_GKD_A:221 ASU 5f9cffa8
-
+"{V0783}Cut back here! {P7}{W25}Here!"
 
 @ASU_GKD_A:224 ASU b8896d2f
-
+"{V0703}Ah!"
 
 @ASU_GKD_A:225 ASU 1b667c06
-
+"{V0784}Ah!"
 
 @ASU_GKD_A:226 PLY ffc5cdbf
-
+"Whoa!"
 
 @ASU_GKD_A:241 SYS 9769f239
-
+{Ti0}{Ts1}{Ts2}{Ts4}Thud!{As0}{b0}
 
 @ASU_GKD_A:243 PLY c38e00c6
-
+"Owowowow!"
 
 @ASU_GKD_A:244 ASU e0220156
-
+"{V0704}S-{W5}sorry! {W10}Are you okay?!"
 
 @ASU_GKD_A:245 ASU ac127593
-
+"{V0785}S-{W20}sorry! {W25}Are you okay?!"
 
 @ASU_GKD_A:246 PLY 21508a0a
-
+"I'm fine, I'm fine..."
 
 @ASU_GKD_A:250 PLY a1050f5a
-
+"...Hahaha, just like when we first met."
 
 @ASU_GKD_A:252 ASU b73f626b
-
+"{V0705}...Sorry. {W35}{F6}I haven't improved at all, {W10}have I..."
 
 @ASU_GKD_A:253 PLY a50c6de7
-
+"I don't think that's true. ...But."
 
 @ASU_GKD_A:254 ASU c4a50558
-
+"{V0706}But?"
 
 @ASU_GKD_A:255 PLY 3735934b
-
+"Well... I noticed something, can I say it?"
 
 @ASU_GKD_A:256 ASU 3d0ec10e
-
+"{V0707}What, {W10}what? {W20}{F2}Tell me."
 
 @ASU_GKD_A:257 PLY 7696375d
-
+"You try to move fast and charge in at full speed right away, but maybe it'd be better to start slower?"
 
 @ASU_GKD_A:258 ASU dccba485
-
+"{V0708}Huh...?"
 
 @ASU_GKD_A:259 PLY 0710f04b
-
+"Right now it's like one-two-three-four! But instead..."
 
 @ASU_GKD_A:260 PLY 174e74cb
-
+"Something like one, two, one-two-three! might actually be faster at the end..."
 
 @ASU_GKD_A:261 ASU 5ab2adfc
-
+"{V0709}Not one-two-three-four, {W55}{F3}{Ec}but one, two, {W20}{Eo}one-two-three..."
 
 @ASU_GKD_A:262 PLY 73e34d38
-
+"Of course the rhythm probably changes with the situation, but I thought starting slow might be better..."
 
 @ASU_GKD_A:263 ASU 19de61ae
-
+"{V0710}Thanks! I'll try it! {W45}{Ec}I'm confident{W10} about my sense of rhythm!"
 
 @ASU_GKD_A:264 ASU b44a9744
-
+"{V0786}...Sorry. {W40}{F6}I haven't{W5} improved{W3} at all, {W10}have I..."
 
 @ASU_GKD_A:266 PLY 5b9da801
-
+"Sakino... I may have said this when we were studying..."
 
 @ASU_GKD_A:267 PLY c00ea34d
-
+"Sakino... you shouldn't repeat the same mistake."
 
 @ASU_GKD_A:268 ASU 4883e9e6
-
+"{V0787}Huh?"
 
 @ASU_GKD_A:269 PLY 57991ea1
-
+"You shouldn't repeat the same mistake. You have to think about why it isn't working."
 
 @ASU_GKD_A:270 PLY 334ca6db
-
+"You have to think about why it isn't working and use it next time."
 
 @ASU_GKD_A:271 ASU bcbb06ba
-
+"{V0788}I see...{W50} you're right..."
 
 @ASU_GKD_A:272 ASU 2a5420f5
-
+"{V0789}Why can't I do it...? {W60}Is it when I step over the ball? {W30}{Ec}Or..."
 
 @ASU_GKD_A:273 PLY 7d0f4bb6
-
+"Why not try again, checking each step one by one?"
 
 @ASU_GKD_A:274 ASU 0740a8b6
-
+"{V0790}Checking{W5} as I go...? {W90}{F2}{Eo}Okay, {W10}I'll try!"
 
 @ASU_GKD_A:275 ASU e253d1f2
-
+"{V0711}One, two, {W13}one-two-three... {W13}{Eo}One, two, {W13}one-two-three..."
 
 @ASU_GKD_A:276 ASU c637e1e0
-
+"{V0712}Okay, here I come!"
 
 @ASU_GKD_A:277 ASU c50b4c4e
-
+"{V0791}{Ec}Okay,{W5} {Eo}here I come~!"
 
 @ASU_GKD_A:278 PLY ee9c856f
-
+"Okay! Ready when you are!"
 
 @ASU_GKD_A:279 ASU b33b5d50
-
+"{V0713}One!"
 
 @ASU_GKD_A:280 ASU 3814e18c
-
+"{V0792}Good!"
 
 @ASU_GKD_A:282 ASU 443eb991
-
+"{V0714}Two!"
 
 @ASU_GKD_A:283 ASU 5639769d
-
+"{V0793}This part's good too!"
 
 @ASU_GKD_A:297 ASU e8e97ae9
-
+"{V0716}And,{W45} {F2}I did it~~~~!"
 
 @ASU_GKD_A:298 ASU 745ccdde
-
+"{V0795}{Ec}Ah{Eo}..."
 
 @ASU_GKD_A:299 PLY 5250712f
-
+"Amazing! I couldn't even see it! You got past me before I knew it!"
 
 @ASU_GKD_A:300 ASU 6b5a5d1c
-
+"{V0796}And,{W65} {F2}I did it~~~~!"
 
 @ASU_GKD_A:301 ASU 86bb620a
-
+"{V0717}I did it! {W30}{Ec}I did it~~~~!"
 
 @ASU_GKD_A:302 ASU 731d4e93
-
+"{V0797}I did it! {W30}{Ec}I did it~~~~!"
 
 @ASU_GKD_A:303 PLY b59e5a20
-
+(Haha, she's so happy. I feel like it's my own success...)
 
 @ASU_GKD_A:304 ASU 0e92c298
-
+"{V0718}Thank you! {P0}{Nm}!"
 
 @ASU_GKD_A:305 ASU e0f29fdf
-
+"{V0798}Thank you! {P0}{Mc}{Nm}!"
 
 @ASU_GKD_A:313 PLY 78787960
-
+"Huh? Whoa!"
 
 @ASU_GKD_A:320 ASU 89f990b0
-
+"{V0719}......"
 
 @ASU_GKD_A:321 ASU d38bd84f
-
+"{V0799}......"
 
 @ASU_GKD_A:322 PLY 9eac2ece
-
+"S-Sakino!"
 
 @ASU_GKD_A:325 ASU c6637a49
-
+"{V0720}Thank you.{W40} It's thanks to you, {Nm}."
 
 @ASU_GKD_A:326 ASU 99f88769
-
+"{V0800}It's thanks to your{W3} advice, {Nm}."
 
 @ASU_GKD_A:327 PLY dc751dd1
-
+"No, it's nothing like that."
 
 @ASU_GKD_A:328 ASU 47120fa5
-
+"{V0721}No.{W30} {Eo}Going slowly at first is{W30} {F6}the most basic thing about a feint,{W10} {Ec}{Sp}but I was rushing and lost track."
 
 @ASU_GKD_A:329 ASU 1d0e52ca
-
+"{V0801}No.{W60} {Eo}If you hadn't told me, {Nm},{W35} {F6}I think I'd have kept {Ec}{Sp}making the same mistake."
 
 @ASU_GKD_A:330 ASU ef85a668
-
+"{V0722}...And{W50} you{Ec} made me notice it, {Nm}..."
 
 @ASU_GKD_A:331 ASU db84e674
-
+"{V0802}...Because you taught me, {Nm}."
 
 @ASU_GKD_A:332 ASU 6f268984
-
+"{V0723}Thank you, {Eo}{Nm}."
 
 @ASU_GKD_A:333 ASU e682eef3
-
+"{V0803}Thank you... {Eo}{Nm}."
 
 @ASU_GKD_A:334 PLY 10b416ad
-
+"You're welcome. I'm glad I could help."
 
 @ASU_GKD_A:335 SYS 85894cf1
-
+...After that, we kept practicing together for a while.
 
 @ASU_GKD_A:336 SYS c5d72512
-
+It's such a waste that Sakino can't play in the games...
 
 @ASU_GKD_A:338 PLY 2168fed6
-
+"Are you going to practice the Asuka Turn today too?"
 
 @ASU_GKD_A:339 ASU 314b77f2
-
+"{V0724}Yeah!"
 
 @ASU_GKD_A:340 ASU ecee1f08
-
+"{V0725}I only just learned it,{W20} so I want to practice a lot more{W20} and really make it mine."
 
 @ASU_GKD_A:341 PLY 696225c1
-
+"I see."
 
 @ASU_GKD_A:342 ASU ce12f714
-
+"{V0726}Sorry,{W10} for making you help with practice."
 
 @ASU_GKD_A:343 PLY 4893251e
-
+"Don't worry about it. I'm happy when you get better, Sakino."
 
 @ASU_GKD_A:344 PLY 86f7d630
-
+"If I could play soccer, I'd be a better practice partner..."
 
 @ASU_GKD_A:345 ASU 16bf430d
-
+"{V0727}No.{W25} You're{W10} good enough as you are."
 
 @ASU_GKD_A:346 ASU cec0f91c
-
+"{V0728}Without you, {Nm},{W20} I don't think I could{W15} have done the Asuka Turn."
 
 @ASU_GKD_A:347 PLY 98d86410
-
+"Sakino..."
 
 @ASU_GKD_A:348 ASU a7003f5d
-
+"{V0729}So,{W10} can you play defender again today?{P1} {F2}{Ec}Please?"
 
 @ASU_GKD_A:349 PLY b81065be
-
+"Of course."
 
 @ASU_GKD_A:350 PLY 72fec3b5
-
+"We don't crash anymore, after all."
 
 @ASU_GKD_A:351 ASU 4cd48faa
-
+"{V0730}Ahaha...{W40} {Sp}right.{W60} {P0}{F9}{Sd}Probably,{W20} I think we'll be fine."
 
 @ASU_GKD_A:352 PLY 8b8e802b
-
+"Probably... huh. I'd better brace myself."
 
 @ASU_GKD_A:353 SYS b60adaca
-
+...And so I practiced with Sakino at the riverbank.
 
 @ASU_GKD_A:354 ASU d62135e7
-
+"{V0731}S-{W30}sorry~~~!"
 
 @ASU_GKD_A:355 PLY 96a90a36
-
+"Haha... it's fine, it's fine."
 
 @ASU_GKD_A:357 ASU 93c23f94
-
+"{V0732}Hey, {Nm},{W20} want to stop somewhere on the way home?"
 
 @ASU_GKD_A:358 PLY 1e17e7f0
-
+"Sure. Where do you want to go?"
 
 @ASU_GKD_A:359 ASU c51630a9
-
+"{V0733}Let's{W40} see...{W60} I know!{W70} Want to walk{W30} along the tree-lined path together?"
 
 @ASU_GKD_A:360 PLY da5f717a
-
+"The tree-lined path? Nice, let's go!"
 
 @ASU_GKD_A:361 ASU 070d287e
-
+"{V0734}Yeah!"
 
 @ASU_GKD_A:362 ASU 25f53480
-
+"{V0735}Around here{W30} it already feels a little{W5} {F2}{Ec}like{W5} autumn."
 
 @ASU_GKD_A:363 ASU 1cd8f6a3
-
+"{V0736}Hey,{W55} when autumn comes,{W45} {F2}want to go{W5} cycling together?"
 
 @ASU_GKD_A:364 PLY 36e6a4db
-
+"Cycling? Sounds great."
 
 @ASU_GKD_A:365 ASU 94e16ded
-
+"{V0737}Really?{W30} Then let's go!{W20} Okay?"
 
 @ASU_GKD_A:366 PLY 5f19706c
-
+"Yeah. Let's go together."
 
 @ASU_GKD_A:367 ASU 040221f1
-
+"{V0738}Yay!{W30} {Ec}It's a promise!"
 
 @ASU_GKD_A:368 ASU def88591
-
+"{V0739}When winter comes,{W20} skiing and skating."
 
 @ASU_GKD_A:369 PLY 739d9f61
-
+"Uh-huh."
 
 @ASU_GKD_A:370 ASU aaa1c6d2
-
+"{V0740}And in spring{W10} I want to go{W15} jogging in the nature park."
 
 @ASU_GKD_A:371 PLY fdaba6da
-
+"Haha, your seasons are all about sports, Sakino."
 
 @ASU_GKD_A:372 ASU b59f2364
-
+"{V0741}Yeah!{W3} Of course!"
 
 @ASU_GKD_A:373 ASU 721d1e46
-
+"{V0742}I want to do all sorts of things{W25} together..."
 
 @ASU_GKD_A:374 SYS 0b18eb65
-
+...And so we walked along the tree-lined path together...
 
 @ASU_GKD_A:376 ASU 9bdc009c
-
+"{V0743}Hey, {Nm},{W40} want to take the long way again today{W40} and walk{W10} along the tree-lined path?"
 
 @ASU_GKD_A:377 PLY 48c2fe63
-
+"The tree-lined path? Sure."
 
 @ASU_GKD_A:378 ASU e04fd0ed
-
+"{V0744}Then let's go!"
 
 @ASU_GKD_A:379 ASU 9272f48a
-
+"{V0745}Hey, {Nm},{W40} {F7}do you remember our promise{W30} to go cycling{W20} {F3}in autumn?"
 
 @ASU_GKD_A:380 ASU 8149c3f5
-
+"{V0746}It's a{W10} promise, okay?{W40} {F9}I'm{W20} really looking forward to it."
 
 @ASU_GKD_A:381 PLY 0e1d1ec4
-
+"I'm looking forward to it too."
 
 @ASU_GKD_A:382 ASU 2e6ec051
-
+"{V0747}When we go,{W35} I want to{W10} {Ec}ride right through here."
 
 @ASU_GKD_A:383 PLY fc897b6c
-
+"Nice."
 
 @ASU_GKD_A:384 ASU aef67917
-
+"{V0748}Skiing and skating in winter,{W35} {F3}{Ec}and jogging in spring!"
 
 @ASU_GKD_A:385 PLY 7aa469c1
-
+"Haha..."
 
 @ASU_GKD_A:386 PLY 1bad8649
-
+(I promised, but can I keep up with Sakino's stamina? Especially the jogging...)
 
 @ASU_GKD_A:387 ASU 024bd1f0
-
+"{V0749}What's wrong, {Nm}?"
 
 @ASU_GKD_A:388 PLY e6f293a5
-
+"N-nothing, it's nothing. Haha..."
 
 @ASU_GKD_A:389 SYS 72727a38
-
+...And so I walked along the tree-lined path with Sakino.

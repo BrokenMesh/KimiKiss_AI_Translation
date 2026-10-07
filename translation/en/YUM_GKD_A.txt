@@ -2,484 +2,484 @@
 # Format: docs/translation-format.md
 
 @YUM_GKD_A:21 SYS b9736f45
-
+...And so, I walked Hoshino to the station.
 
 @YUM_GKD_A:24 SYS 021fef69
-
+I was so nervous that I can hardly remember what we talked about...
 
 @YUM_GKD_A:39 PLY bffecfd3
-
+"We got here in no time...
 
 @YUM_GKD_A:43 YUM 26523340
-
+"{V0802}{W8}Well,{W20} it was only{W1}{W2}{W3}{W3}{W3}{W2}{W1}{W1}{W1}{W1} about fifteen minutes."
 
 @YUM_GKD_A:44 PLY 696225c1
-
+"I guess so."
 
 @YUM_GKD_A:46 PLY 43d8eec4
-
+"It's a bit odd to stand around talking, but do you want to talk a little longer?"
 
 @YUM_GKD_A:50 YUM ab467d9c
-
+"{V0803}{W7}Huh? {W37}S-{W21}sure,{W1}{W1}{W1} I don't mind...{F6}"
 
 @YUM_GKD_A:51 PLY 21ea954d
-
+"About how many minutes does it take to get home from here by train, Hoshino?"
 
 @YUM_GKD_A:52 YUM 8d408131
-
+"{V0804}{W11}About{W5} thirty{W5} minutes{W5}{W2}{W2}{W1}...{W18} I{W3} think?"
 
 @YUM_GKD_A:53 PLY 53f958ff
-
+"That's pretty far."
 
 @YUM_GKD_A:55 YUM 228e01cc
-
+"{V0805}{W3}Yes.{W2}{W46} Not many people in my{W1} class{W1} commute{W1} by{W1} train,{W4}{W3}{W3}{W3}{W3}{W3}{W3}{W3} so{W3}{W3}{W3}{W3}{W23} I'm{W1} always{W2} alone."
 
 @YUM_GKD_A:56 PLY 876a2929
-
+"I see..."
 
 @YUM_GKD_A:57 PLY 776b67a3
-
+(Maybe that's part of the reason Hoshino has so few friends...)
 
 @YUM_GKD_A:58 YUM 3c0b6296
-
+"{V0806}{W7}How long does it take you{W20}{W2}{W2}{W1}{W1}{W1}{W1}{W1} to walk to school, {Nm}?"
 
 @YUM_GKD_A:59 PLY aab6e63e
-
+"About ten to fifteen minutes."
 
 @YUM_GKD_A:60 YUM a4094877
-
+"{V0807}{W5}Lucky{W2}{W2}{W2} you,{W18} living so close{W2}{W1}{W1}{Ec}."
 
 @YUM_GKD_A:61 PLY 37bb4bed
-
+"It's convenient, but I sometimes long to commute by train or bus."
 
 @YUM_GKD_A:63 YUM 9f8b3d7a
-
+"{V0808}{W5}Why?"
 
 @YUM_GKD_A:64 PLY 6c4ccab5
-
+"Well, I've never used a commuter pass."
 
 @YUM_GKD_A:65 YUM 66bae08e
-
+"{V0809}{W3}Fu{W3}fu,{W35} {Ec}I see."
 
 @YUM_GKD_A:66 YUM abe97ae7
-
+"{V0810}...Oh,{W58} the{W3}{W3}{W3} thirty-minute{W3}{W4} express{W4}{W3}{W3}{W3} makes{W14} it{W2} easy.{W2}"
 
 @YUM_GKD_A:67 YUM aefe7474
-
+"{V0811}{W2}Well then,{W28} I{W29} should go."
 
 @YUM_GKD_A:68 PLY cc4af171
-
+"Okay."
 
 @YUM_GKD_A:69 YUM ab9111c7
-
+"{V0812}{W5}I had{W1}{W1}{W1}{W1}{W1}{W1}{W1} a really lovely time."
 
 @YUM_GKD_A:70 PLY 1c093381
-
+"See you, Hoshino."
 
 @YUM_GKD_A:71 YUM 7ba6bdfa
-
+"{V0813}{W3}Mm.{W32} See you, {Nm}."
 
 @YUM_GKD_A:75 YUM 75aef606
-
+"{V0814}{W3}Hehe...{W13} {Nm},{W10} {Eo}you said{W1}{W1} that{W1} last{W1} time{W1} too."
 
 @YUM_GKD_A:76 PLY 50c29a79
-
+"Huh? Did I?"
 
 @YUM_GKD_A:78 YUM ac846dd1
-
+"{V0815}{W4}Yes."
 
 @YUM_GKD_A:79 PLY 7aa469c1
-
+"Hahaha..."
 
 @YUM_GKD_A:81 YUM 97f65e31
-
+"{V0816}{W3}Yes.{W2}{W34} If{W3} you{W2} don't{W1} mind{W1} me{W1}..."
 
 @YUM_GKD_A:83 SYS 648d44f7
-
+...And so, I stood and talked with Hoshino for a while.
 
 @YUM_GKD_A:86 PLY 2dee9a50
-
+"Hoshino, want to stop by the shopping street?"
 
 @YUM_GKD_A:87 YUM c94b76db
-
+"{V0817}{W5}Huh? {W48}Su{W1}re{W1}, why not?"
 
 @YUM_GKD_A:88 PLY 1fcfb5e1
-
+"Let's walk and have some soft serve."
 
 @YUM_GKD_A:89 YUM 115c9713
-
+"{V0818}{W3}Mm, {W23}sounds{W8} great{W4}!"
 
 @YUM_GKD_A:93 YUM 5bc94419
-
+"{V0819}{W3}Fu{W3}fu,{W34} it's{W3} cold{W2}{W2} and{W3} deli{W2}{W2}cious{W3}."
 
 @YUM_GKD_A:94 PLY 18ee4a41
-
+"Yeah. The soft serve at the cake shop on the corner is great."
 
 @YUM_GKD_A:95 YUM f7677111
-
+"{V0820}{W3}Yes.{W46} It's{W2} the{W4} best{W1} one{W2} around{W2} here."
 
 @YUM_GKD_A:97 SYS 7c1ff346
-
+...And so, I walked along the shopping street with Hoshino.
 
 @YUM_GKD_A:100 PLY d5c26b7e
-
+"Hoshino, want to have some soft serve today too?"
 
 @YUM_GKD_A:102 YUM b9bbe2a8
-
+"{V0821}{W4}Yes,{W24} sure."
 
 @YUM_GKD_A:103 YUM d34a22d3
-
+"{V0822}{W3}Fufu,{W27} it's{W3} cold{W2} and{W1} deli{W3}{W3}cious{W3}.{W3}"
 
 @YUM_GKD_A:104 PLY 2984a572
-
+"What flavor did you get today, Hoshino?"
 
 @YUM_GKD_A:105 YUM a33e21c6
-
+"{V0823}{W4}Strawberry mix.{W41} And you, {Nm}?"
 
 @YUM_GKD_A:106 YUM 31ec9983
-
+"{V0824}{W3}Deluxe milk.{W41} And you, {Nm}?"
 
 @YUM_GKD_A:107 YUM c81286dc
-
+"{V0825}{W3}Melon milk.{W41} And you, {Nm}?"
 
 @YUM_GKD_A:108 YUM 467f5376
-
+"{V0826}{W3}Pudding mix.{W42} And you, {Nm}?"
 
 @YUM_GKD_A:109 YUM edd0a3b1
-
+"{V0827}{W3}Mango orange.{W35} And you, {Nm}?"
 
 @YUM_GKD_A:110 PLY 6de0f32c
-
+"Chocolate."
 
 @YUM_GKD_A:111 YUM 7d1220e8
-
+"{V0828}{W3}There are so{W1}{W1}{W1} many{W1} flavors,{W1}{W1}{W24} you{W2} never{W2} get{W1} tired{W1} of it{W2}{W1}{W1} even if you eat it every day."
 
 @YUM_GKD_A:112 PLY 1b758669
-
+"Hahaha, true."
 
 @YUM_GKD_A:113 SYS 4abd825d
-
+...And so, the two of us ate soft serve.
 
 @YUM_GKD_A:115 PLY d4dbc751
-
+"So, where is this place you want to go together?"
 
 @YUM_GKD_A:116 YUM eb44c18a
-
+"{V0829}{W4}It's{W2}{W2}{W2} nothing{W3} special.{W39} You{W2} might{W2} be{W1} disappointed{W5} if{W2} I{W2} told{W1} you,{W3} so{W30} let{W3} it{W3} be{W3} a{W3} secret.{W1}"
 
 @YUM_GKD_A:117 PLY 58472ad5
-
+"Okay, if you say so..."
 
 @YUM_GKD_A:120 YUM 0a361496
-
+"{V0830}{W3}It's{W2} at{W2} the{W3} top{W7} of{W2} the{W1} hill{W1} up{W1} ahead{W1}.{W1}{W1}"
 
 @YUM_GKD_A:121 PLY 124aa263
-
+"Oh, that's..."
 
 @YUM_GKD_A:124 PLY c7befd7e
-
+"I knew it, Hilltop Park."
 
 @YUM_GKD_A:125 YUM 12b16f32
-
+"{V0831}{W5}Are you disappointed?"
 
 @YUM_GKD_A:126 PLY 493b0c45
-
+"No, I like it here, the view is great. It's been a while since I came, though."
 
 @YUM_GKD_A:127 YUM cd3dd790
-
+"{V0832}{W4}I{W4} come{W41} here{W4} a{W5} lot{W1} lately{W1}.{W1}"
 
 @YUM_GKD_A:128 PLY 00085488
-
+"Hahaha, the opposite of me."
 
 @YUM_GKD_A:129 YUM 43a9e8e3
-
+"{V0833}{W3}Fufu,{W43} you're{W2} right{W1}."
 
 @YUM_GKD_A:138 YUM 34354adf
-
+"{V0834}{W8}The{W4} sunset{W3} is{W4} so{W4} beau{W7}ti{W2}ful..."
 
 @YUM_GKD_A:139 PLY a9bebc32
-
+"It is..."
 
 @YUM_GKD_A:140 YUM 396679b5
-
+"{V0835}{W6}You{W7} know,{W55} I{W1} love{W1} this{W1} town{W2}{W1}{W1}{W1}{W1}{W1}."
 
 @YUM_GKD_A:142 YUM 2c136408
-
+"{V0836}{W5}When{W4} I{W3} was{W3} in{W3} elementary school,{W26} we{W2} were{W2} going{W2} to{W2} move{W2} to{W2} the{W2} next{W1} town{W1} over,{W1}{W1}{W1}{W1}{W1}{W19} and my parents told me{W2} to{W1}{W1} transfer{W2} schools,{W2}{W1} but..."
 
 @YUM_GKD_A:143 YUM e0770f0b
-
+"{V0837}{W5}I didn't{W2} want{W1} to say{W2} goodbye{W1} to this{W1} town,{W2}{W20} so{W3} I{W2} asked{W2} to{W2} keep{W1} commuting{W1} by{W1} train{W1}{W1}{W1}{W1}{W1}."
 
 @YUM_GKD_A:144 YUM eb9816f2
-
+"{V0838}{W3}Ever{W1} since{W1} then,{W1}{W1}{W4}{W4} {W23}junior high{W5} and{W5} high school{W5}{W5}{W9} have{W4} been{W4} in{W5} this{W2} town..."
 
 @YUM_GKD_A:145 PLY f5d6d8ca
-
+"Why do you love this town so much?"
 
 @YUM_GKD_A:147 YUM 4965299c
-
+"{V0839}{W7}Because...{W51} I{W2} have{W1} so many{W2} memories{W1} here{W1}{W1}{W1}."
 
 @YUM_GKD_A:148 YUM 86215113
-
+"{V0840}{W4}The{W3} park{W2} where{W2} I{W2} played{W1} as{W3} a{W1} child,{W1}{W3}{W3}{W17} the{W5} riverbank{W4} where{W4} I{W4} picked{W4} flowers,{W4}{W4}{W41} the department store where I got a stuffed toy..."
 
 @YUM_GKD_A:149 YUM 9a980936
-
+"{V0841}{W4}They're{W1} all{W1} precious{W3}{W3}{W3}{W3} memories{W2}{W2}{W2}..."
 
 @YUM_GKD_A:150 YUM 9f5ee9cd
-
+"{V0842}{W3}Being{W2} here{W35} with {Nm} today{W2} will{W65} surely{W33} become{W2} a{W1} memory{W1}{W1}{W1} I{W2} can{W2} never{W2} forget{W2}{W2}{W2}..."
 
 @YUM_GKD_A:151 PLY 3e4097f1
-
+"Hoshino... Then you'll love this town more and more."
 
 @YUM_GKD_A:152 YUM 528175b7
-
+"{V0843}{W1}Yes."
 
 @YUM_GKD_A:153 YUM 7436dd0c
-
+"{V0844}{W3}Born{W1} here{W1}...,{W1}{W1}{W1}{W20} raised{W2} here{W3}...,{W3}{W3}{W3}{W36} meeting{W2} you,{W2} {Nm}{W2}...{W2}{W1}{W1} Watching{W30} the{W3} sunset{W3} together{W3}...{W3}{W2}{W3}{W2}{W48} It{W3} feels{W3} strange{W3}{W2}{W2}{W2}."
 
 @YUM_GKD_A:154 PLY a66fa9c2
-
+"Yeah. I know that feeling."
 
 @YUM_GKD_A:155 YUM d0fc9ec5
-
+"{V0845}{W4}I'm sorry,{W29} I{W1} got{W1} all{W1} sentimental{W1}{W1}{W1}."
 
 @YUM_GKD_A:156 PLY c2933da5
-
+"No, I had fun."
 
 @YUM_GKD_A:157 YUM 2e381f5f
-
+"{V0846}{W7}See you tomorrow, {Nm}."
 
 @YUM_GKD_A:158 PLY f2ff7e54
-
+"Yeah, see you tomorrow."
 
 @YUM_GKD_A:160 PLY b87111dd
-
+"Want to stop by Hilltop Park today too?"
 
 @YUM_GKD_A:161 YUM e7f4d111
-
+"{V0847}{W5}Yes."
 
 @YUM_GKD_A:163 YUM 977a1da8
-
+"{V0848}{W5}The{W3} sunset{W2} is{W4} beau{W4}ti{W3}ful..."
 
 @YUM_GKD_A:164 YUM 3280b9bd
-
+"{V0849}{W5}Watching{W2} the sunset{W42} like{W1} this{W1}{W1}{W1}{W2} with {Nm},{W3}{W1}{W1}{W54} I{W2} lose{W1} track{W1} of{W1} time{W1}{W3}{W3}{W1}..."
 
 @YUM_GKD_A:165 YUM e69317b0
-
+"{V0850}{W3}It's{W1} like,{W30} we're{W2} the{W2} only{W2} two{W3} people{W3} in{W2} the{W2} whole{W2} world{W3}{W1}{W1}{W1}.{W1}"
 
 @YUM_GKD_A:166 PLY 5bc303fb
-
+"Yeah, it is..."
 
 @YUM_GKD_A:167 YUM 31dbded5
-
+"{V0851}{W3}If we could stay{W30} like{W1} this{W1} forever{W1}..."
 
 @YUM_GKD_A:168 YUM 15d4b4e2
-
+"{V0852}{W3}Oh,{W42} I'm sorry.{W30} I{W5} got sentimental again."
 
 @YUM_GKD_A:169 YUM 561ef469
-
+"{V0853}{W3}See{W3} you{W3} tomorrow,{W3}{W3} {Nm}."
 
 @YUM_GKD_A:171 PLY c38c68d3
-
+"Hoshino, want to stop by the department store?"
 
 @YUM_GKD_A:172 YUM c2820fd5
-
+"{V0854}{W6}The department store?"
 
 @YUM_GKD_A:173 PLY 770a185d
-
+"Yeah. There's something I want to buy."
 
 @YUM_GKD_A:174 YUM 7fe8209e
-
+"{V0855}{W7}I see.{W27} Yes,{W19} that's fine."
 
 @YUM_GKD_A:175 YUM b2dda571
-
+"{V0856}{W5}It's been a while{W10}{W2}{W1}{W1}{W1}{W1} since I went to a department store."
 
 @YUM_GKD_A:176 PLY 1d56932b
-
+"Same here. I don't usually go."
 
 @YUM_GKD_A:177 YUM 7090e798
-
+"{V0857}{W3}Fufu.{W8} {Nm},{W9} what{W1} is{W3} it you want to buy?"
 
 @YUM_GKD_A:178 PLY 970e135c
-
+"Well..."
 
 @YUM_GKD_A:179 PLY 68c821a2
-
+"Come along and you'll see."
 
 @YUM_GKD_A:180 YUM cd30a2f8
-
+"{V0719}I{W1} guess{W1} so."
 
 @YUM_GKD_A:181 YUM 5e0ab098
-
+"{V0858}{W14}This{W5} is{W5}...{W3}{W34} the{W1} watch{W1} corner{W1}?{W1}"
 
 @YUM_GKD_A:182 PLY adc5c588
-
+"Right."
 
 @YUM_GKD_A:183 PLY 0181b94f
-
+"Look, what do you think of this pair of watches?"
 
 @YUM_GKD_A:184 YUM 09be9009
-
+"{V0859}{W3}Oh,{W37} there are animal characters on the{W1} faces.{W1}{W1}{W1}{W32} {F3}{Ec}Mm,{W14} they're{W1} really{W2} cute{W2}{W2}{W2}."
 
 @YUM_GKD_A:185 PLY e95fccaa
-
+"The price is reasonable too, so do you want to buy them together?"
 
 @YUM_GKD_A:186 YUM 7569028f
-
+"{V0860}Huh...?"
 
 @YUM_GKD_A:187 YUM c6f5b644
-
+"{V0861}{W5}Mm,{W60} I'll treasure it{W40} {Fe2}{Ec}as if it were you, {Nm}."
 
 @YUM_GKD_A:188 PLY a46bc521
-
+"I'll treasure mine too."
 
 @YUM_GKD_A:189 PLY df8a3073
-
+"Which animal should we pick?"
 
 @YUM_GKD_A:191 YUM 5ef51a84
-
+"{V0862}{W3}You{W1} choose, {Nm}."
 
 @YUM_GKD_A:192 PLY 236e6118
-
+"Me? Are you sure?"
 
 @YUM_GKD_A:193 YUM c9f22199
-
+"{V0863}Yes."
 
 @YUM_GKD_A:194 PLY 8333be75
-
+"Then..."
 
 @YUM_GKD_A:195.1 - 48d74e13
-
+{Ti0}- How about this bear?／- How about this rabbit?／- How about this elephant?／- How about this snake?／- How about this koala?／- How about this wolf?
 
 @YUM_GKD_A:196 PLY 4e6b878d
-
+"How about this bear?"
 
 @YUM_GKD_A:197 YUM b8d6db1f
-
+"{V0864}{W6}Mm,{W21} it's{W1} cute{W1}{W1}."
 
 @YUM_GKD_A:198 YUM 3b0a02bc
-
+"{V0865}{W3}Fufu,{W48} this{W1} bear{W1} somehow{W23} looks{W5} like{W1} you, {Nm}."
 
 @YUM_GKD_A:199 PLY b858e324
-
+"R-really? How so?"
 
 @YUM_GKD_A:200 YUM f4c3d399
-
+"{V0866}{W3}It's{W5} big{W4} and{W4} gentle-looking{W4}{W2}."
 
 @YUM_GKD_A:201 PLY 41b9750a
-
+"I-I seem like that?"
 
 @YUM_GKD_A:202 YUM dd60f8b6
-
+"{V0867}{W3}Fufu."
 
 @YUM_GKD_A:203 PLY 1901991a
-
+"How about this rabbit?"
 
 @YUM_GKD_A:204 YUM a78a925b
-
+"{V0868}{W3}Mm,{W25} it's{W2} cute{W2}{W3}."
 
 @YUM_GKD_A:205 YUM 19bda4f4
-
+"{V0869}{W3}Fufu,{W74} this rabbit{W22} somehow{W20} looks{W3} like you, {Nm}."
 
 @YUM_GKD_A:206 PLY 3b9da504
-
+"Does it? How so?"
 
 @YUM_GKD_A:207 YUM d1df0de5
-
+"{V0870}{W6}It{W5} looks{W6} quick{W11} and{W2} smart{W1}{W1}{W1}{W1}."
 
 @YUM_GKD_A:208 PLY 0ef05e8b
-
+"...I seem like that?"
 
 @YUM_GKD_A:209 YUM d5ae8043
-
+"{V0871}Fufu."
 
 @YUM_GKD_A:210 PLY 39859e11
-
+"How about this elephant?"
 
 @YUM_GKD_A:211 YUM 7aa12afe
-
+"{V0872}{W3}Mm,{W27} it's{W1} cute{W2}{W3}."
 
 @YUM_GKD_A:212 YUM 4dbf67d0
-
+"{V0873}Fufu,{W58} this elephant{W29} somehow{W21} looks{W1}{W1} like{W2} you,{W1} {Nm}."
 
 @YUM_GKD_A:213 YUM ce657781
-
+"{V0874}{W4}It's so solid{W1} and steady."
 
 @YUM_GKD_A:214 YUM 9006d806
-
+"{V0875}{W3}Fufu."
 
 @YUM_GKD_A:215 PLY 4b91f9eb
-
+"How about this snake?"
 
 @YUM_GKD_A:216 YUM 769dce7f
-
+"{V0876}{W3}Mm,{W30} it's{W2} cute{W2}{W2}."
 
 @YUM_GKD_A:217 YUM bf9577e6
-
+"{V0877}{W3}Fufu,{W59} this{W1} snake{W1}{W17} somehow looks like you, {Nm}."
 
 @YUM_GKD_A:218 YUM 215bafc2
-
+"{V0878}{W5}Its{W4} tongue{W3} is{W4} sticking{W1} out{W1} a{W1} little{W1}."
 
 @YUM_GKD_A:219 YUM feed11d1
-
+"{V0879}Fufu."
 
 @YUM_GKD_A:220 PLY 0733530b
-
+"How about this koala?"
 
 @YUM_GKD_A:221 YUM ddeaed16
-
+"{V0880}{W6}Mm,{W25} it's{W1} cute{W1}{W1}."
 
 @YUM_GKD_A:222 YUM 7236d440
-
+"{V0881}{W3}Fufu,{W51} this koala{W25}{W1} somehow{W1}{W20} looks{W1} like{W1} you,{W1} {Nm}{W1}."
 
 @YUM_GKD_A:223 YUM 57e8529b
-
+"{V0882}{W3}It's{W1} so{W1} laid-back{W1}{W1} and{W31} sleepy{W2}-looking{W1}{W1}{W1}."
 
 @YUM_GKD_A:224 YUM 78153809
-
+"{V0883}{W3}Fufu."
 
 @YUM_GKD_A:225 PLY 0f34ea7c
-
+"How about this wolf?"
 
 @YUM_GKD_A:226 YUM d66f1771
-
+"{V0884}{W3}Mm,{W25} it's{W2} cute{W2}{W2}."
 
 @YUM_GKD_A:227 YUM 1588ecc5
-
+"{V0885}{W3}Fufu,{W52} this{W1} wolf{W19} somehow{W22} looks{W2} like{W2} you,{W2} {Nm}{W1}."
 
 @YUM_GKD_A:228 PLY 1aa890f9
-
+"Does it? How so?"
 
 @YUM_GKD_A:229 YUM 1d9bcf00
-
+"{V0886}{W4}It{W2} looks{W2} hungry{W2}{W1}{W1}{W1} and{W14} on{W1} the{W2} hunt{W2} for{W2} prey{W2}{W2}{W2}{W2}.{W2}"
 
 @YUM_GKD_A:230 YUM 4e6bac41
-
+"{V0887}{W3}Fufu."
 
 @YUM_GKD_A:231 SYS c02a455b
-
+...And so, I bought a pair watch with Hoshino.
 
 @YUM_GKD_A:233 YUM b6bf1991
-
+"{Nm},{W20} {V0888}{W6}would you mind{W17} stopping by the department store?{W1}{W1}{W1}{W1}{W2}{W1}"
 
 @YUM_GKD_A:234 PLY 9b856156
-
+"Sure, why?"
 
 @YUM_GKD_A:235 YUM 16789ddb
-
+"{V0889}{W10}There's nothing{W2} I{W2} need to buy,{W35} I just thought{W1} I'd{W1} look{W1} around{W4} at all sorts of things."
 
 @YUM_GKD_A:236 PLY addc4877
-
+"Sounds good. Let's go."
 
 @YUM_GKD_A:237 YUM 4ead3980
-
+"{V0890}{W3}Fufu,{W70} this is where{W22} we bought the pair watch."
 
 @YUM_GKD_A:238 PLY 851b6dc4
-
+"Right."
 
 @YUM_GKD_A:239 YUM ac404c65
-
+"{V0891}{W5}That{W2} watch{W3}...{W23} {Ec}I'll{W3} treasure{W3} it{W3} forever{W3}.{W3}{W3}{W3}{W1}{W2}{W3}"
 
 @YUM_GKD_A:240 PLY 5e104b3b
-
+"Hoshino... I'll treasure mine too."
 
 @YUM_GKD_A:241 SYS 49badff4
-
+...And so, we wandered around the department store.

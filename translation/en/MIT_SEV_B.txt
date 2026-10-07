@@ -2,1114 +2,1114 @@
 # Format: docs/translation-format.md
 
 @MIT_SEV_B:50 MIT cf2a24d9
-
+"{Nm}."
 
 @MIT_SEV_B:52 PLY 3b8220c0
-
+"Oh, Shijou."
 
 @MIT_SEV_B:55 MIT e5e8b327
-
+"{V0169}{W10}There is{W3} something I would like to talk to you{W3} about.{W55} Would you{W3} please{W3} come{W3} to{W5} the Music Room{W40} after school?"
 
 @MIT_SEV_B:56 PLY a70057b4
-
+"Huh? Sure, I guess?"
 
 @MIT_SEV_B:59 MIT d017d6e5
-
+"{V0170}{W10}I am glad.{W55} Then,{W28} {Ec}I will be waiting."
 
 @MIT_SEV_B:64 PLY f484cd13
-
+(A talk in the Music Room... What could it be? So formal...)
 
 @MIT_SEV_B:67 AKI 4a11dbb5
-
+"{V0138}{W10}That's{W6} rare,{W60} Shijou{W5} talking{W6} to{W5} a{W3} guy."
 
 @MIT_SEV_B:68 PLY 3d71a33c
-
+"Oh, Hiiragi. Is it?"
 
 @MIT_SEV_B:70 AKI b2096cec
-
+"{V0139}{W10}Yeah.{W65} Apparently{W3} her{W18} father{W3} forbids{W3} her{W10} from{W3} talking{W3} to{W5} boys.{W5}{W6}"
 
 @MIT_SEV_B:71 PLY add5c673
-
+"What?! Really?"
 
 @MIT_SEV_B:72 AKI 4b5582dd
-
+"{V0140}{W10}Just{W6} a{W5} rumor.{W75} But{W25} it's true{W6} that{W2} you never see{W2} her{W7} talking{W10} to{W2} boys."
 
 @MIT_SEV_B:73 PLY 2a65efcd
-
+"I didn't know that..."
 
 @MIT_SEV_B:74 PLY bbbfd3e0
-
+"But if you talk to her, she answers properly, you know?"
 
 @MIT_SEV_B:76 AKI 08294bdc
-
+"{V0141}{W10}She can't just ignore you, can{W6} she?{W23} She'll{W3} answer{W3} small{W10} talk,{W3} at least."
 
 @MIT_SEV_B:77 PLY aeb7b3b5
-
+"I see..."
 
 @MIT_SEV_B:79 AKI c1a971ff
-
+"{V0142}{W10}Well,{W40} I{W3} don't{W3} know{W1} what{W1} she wants with you,{W20} but{W3} take my{W2} advice:{W30} give{W2} up on{W2} her."
 
 @MIT_SEV_B:80 PLY bb527475
-
+"Give up? Why?"
 
 @MIT_SEV_B:81 AKI af2eef21
-
+"{V0143}{W10}Your{W3} family{W3} backgrounds{W3} are{W3} completely{W3} different,{W3} right?{W8}"
 
 @MIT_SEV_B:82 PLY 145fbad0
-
+"Family background? That's pretty old-fashioned."
 
 @MIT_SEV_B:83 AKI 45197151
-
+"{V0144}{W10}Old-fashioned{W3} or not,{W3} it's{W3} reality.{W35} Think{W6} about it."
 
 @MIT_SEV_B:84 AKI 71d9b547
-
+"{V0145}{W10}Born into a distinguished family,{W7} from early childhood she gets academics,{W12} culture,{W10} the arts,{W12} sports, classical ballet,{W12} every kind of elite education..."
 
 @MIT_SEV_B:85 AKI 4eec5cc4
-
+"{V0146}{W10}Raised{W3} to{W3} be{W5} a{W3} perfect{W3} young{W5} lady.{W3} And{W3} then..."
 
 @MIT_SEV_B:87 AKI d09333f4
-
+"{V0147}{W10}Born in a perfectly ordinary home,{W18} given a perfectly ordinary education,{W18} and raised as a plain commoner: {Nm}.{W20} Are you a match?"
 
 @MIT_SEV_B:88 PLY c3d846ad
-
+"Ugh... that's a bigger gap than I imagined."
 
 @MIT_SEV_B:90 AKI ebb4f51a
-
+"{V0148}{W10}Right?{W45} That's why{W18} you{W3} should{W3} give up{W3} on her."
 
 @MIT_SEV_B:91 PLY 39259943
-
+"No, there's nothing to give up. We just met..."
 
 @MIT_SEV_B:92 AKI e6322ee7
-
+"{V0149}{W10}I{W3} see.{W60} Then{W10} you're{W2} fine."
 
 @MIT_SEV_B:93 PLY ea587293
-
+(Shijou... the Music Room after school... What could she want with me?)
 
 @MIT_SEV_B:94 PLY 3ada91c3
-
+"I promised to talk with Shijou in the Music Room after school."
 
 @MIT_SEV_B:95 PLY 20301ea8
-
+"Shijou, are you here? I came like you said."
 
 @MIT_SEV_B:98 MIT 02d85962
-
+"{V0171}{W10}I have been waiting."
 
 @MIT_SEV_B:99 PLY 7a5eb339
-
+"What's up? Why the Music Room, of all places..."
 
 @MIT_SEV_B:100 MIT 021f7d59
-
+"{V0172}{W10}I am sorry{W35} for calling you here...{W60} {P2}{F7}I very much{W50} wanted to talk next{W30} to my beloved{W8} piano."
 
 @MIT_SEV_B:101 PLY 6105cad9
-
+"I-I see. ...So, what is it?"
 
 @MIT_SEV_B:102 MIT 6395c447
-
+"{V0173}{W10}Yesterday...{W70} I{W3} heard it from Father."
 
 @MIT_SEV_B:103 PLY 86b4380d
-
+"F-Father?"
 
 @MIT_SEV_B:104 PLY dcf6384c
-
+(As expected of a young lady. She calls her dad "Father"...)
 
 @MIT_SEV_B:106 MIT 91224ee6
-
+"{V0174}{W10}I...{W70} did{W6} not know.{W55} A year and{W5} a{W3} half{W3} since{W5} I{W3} entered{W3} high{W3} school..."
 
 @MIT_SEV_B:107 MIT aebb2a3b
-
+"{V0175}{Ec}{W10}He{W3} knew{W3} I{W3} was{W6} in the same year,{W3} {W46}{Eo}yet he never spoke to{W3} me, {W42}and was{W5} watching{W2} my conduct all along."
 
 @MIT_SEV_B:108 PLY a91333b7
-
+"Huh? What are you talking about?"
 
 @MIT_SEV_B:110 MIT e818c6d9
-
+"{V0176}{W10}Oh...{W20} I{W3} am{W3} not prying.{W38} {F6}It is{W6} not my place{W10} to say anything."
 
 @MIT_SEV_B:111 PLY ffd94d96
-
+"I-I see... Is that so?"
 
 @MIT_SEV_B:112 MIT 6228201a
-
+"{V0177}{W12}{E}Yes."
 
 @MIT_SEV_B:114 MIT 1b28434e
-
+"{V0178}{W10}Please allow me to greet you properly.{W55}"
 
 @MIT_SEV_B:117 MIT 5c2a4743
-
+"{V0179}{W10}I am not{W5} worthy,{W8} but{W70} I look forward to your{W3} care,{W3} {E}{W33}Master."
 
 @MIT_SEV_B:118 PLY 1da4d885
-
+"M-Master?!"
 
 @MIT_SEV_B:119 MIT b1c5ee64
-
+"{V0180}{W10}{Ec}Yes.{W45} {Eo}It is only natural{W5} to call{W3} you that."
 
 @MIT_SEV_B:120 PLY cb7479b3
-
+"N-natural? I have no idea what's going on..."
 
 @MIT_SEV_B:122 MIT 387ed527
-
+"{V0181}{W10}Master{W3} surely{W3} has{W3} circumstances{W7} of{W2} his{W2} own,{W35} so{W2} I{W6} will{W3} say{W3} nothing."
 
 @MIT_SEV_B:123 MIT 93e297da
-
+"{V0182}{W10}Please{W6} take{W5} good{W5} care{W3} of {Ec}me."
 
 @MIT_SEV_B:124 PLY 77f6e1c2
-
+"Huh? Ah, no! Wait a second!"
 
 @MIT_SEV_B:125 PLY 9eca7aaa
-
+"Master, Master... I don't understand the situation at all. Why am I your master?!"
 
 @MIT_SEV_B:126 MIT 834d2fa3
-
+"{V0183}{W10}Because{W6} my{W3} Father{W3} decided it."
 
 @MIT_SEV_B:127 PLY 5535075f
-
+"Your father did? He's never even met me!"
 
 @MIT_SEV_B:128 MIT fcb63586
-
+"{V0184}{W10}{Ec}Yes.{W50} {Eo}That is how it is."
 
 @MIT_SEV_B:129 PLY 412a5a96
-
+"You can't just declare it like that..."
 
 @MIT_SEV_B:130 MIT 74b0af66
-
+"{V0185}{W10}Do{W6} you dislike{W3} starting{W2} with the form?"
 
 @MIT_SEV_B:131 PLY eef57290
-
+"No, it's not about form..."
 
 @MIT_SEV_B:132 MIT 344fa8e3
-
+"{V0186}{W10}Then...{W45} do{W6} I not please you?"
 
 @MIT_SEV_B:133.1 - a78c00c3
-
+{Ti0}- Of course not!／- Sorry...
 
 @MIT_SEV_B:134 PLY f779534b
-
+"Of course not!"
 
 @MIT_SEV_B:135 MIT 64f0b8d5
-
+"{V0187}{W10}Truly?{W20} {Ec}I{W5} am{W5} so happy."
 
 @MIT_SEV_B:137 PLY d504f165
-
+(W-what do I do in this situation...)
 
 @MIT_SEV_B:138 PLY f2d9cef4
-
+"...S-so, let's start as friends, okay?"
 
 @MIT_SEV_B:139 MIT 9c9e79cf
-
+"{V0190}{W10}Yes."
 
 @MIT_SEV_B:140 MIT 12e2b34f
-
+"{V0191}{W10}I{W5} am{W2} not{W8} worthy,{W40} but I look forward to{W3} your{W3} {Ec}care,{W30} {F3}{Eo}Master."
 
 @MIT_SEV_B:141 PLY 319a30de
-
+"Sorry..."
 
 @MIT_SEV_B:142 MIT f466cd2c
-
+"{V0188}{W10}Oh..."
 
 @MIT_SEV_B:143 MIT 9f230e97
-
+"{V0189}{W10}I will{W30} try hard to please you, Master.{W20} So..."
 
 @MIT_SEV_B:144 PLY 9e24288f
-
+"No, that's not it..."
 
 @MIT_SEV_B:145 PLY 2dd2b89b
-
+"It's so sudden, I don't know what to do..."
 
 @MIT_SEV_B:146 MIT 5ddeea96
-
+"{V0190}{W10}{E}Yes."
 
 @MIT_SEV_B:150 MIT 56158825
-
+"{V0191}{W10}I{W5} am{W2} not{W8} worthy,{W40} but I look forward to{W3} your{W3} {Ec}care,{W30} {Eo}Master.{W3}"
 
 @MIT_SEV_B:151 PLY 0bba66c3
-
+"Ugh... "Master" again. You don't plan to call me that in front of people, do you?"
 
 @MIT_SEV_B:152 MIT b570e0fd
-
+"{V0192}{W10}Yes.{W15} {Ec}{W5}{F3}{Eo}You{W6} are{W5} my{W2} Master,{W2} after{W2} all."
 
 @MIT_SEV_B:153 PLY 744d6a3c
-
+"T-that would be a problem!"
 
 @MIT_SEV_B:154 MIT 4e5bc766
-
+"{V0193}Why?"
 
 @MIT_SEV_B:155 PLY 17ca7509
-
+"Well, everyone would be shocked..."
 
 @MIT_SEV_B:156 MIT 7eae9e27
-
+"{V0194}{W13}You{W3} worry{W3} about{W5} those around you?{W55} {Ec}I see..."
 
 @MIT_SEV_B:157 MIT db7f9b71
-
+"{V0195}{W10}Then{W15} I will be careful{W3} not{W3} to{W5} say it in front of others if I can."
 
 @MIT_SEV_B:158 MIT 43b7a04c
-
+"{V0196}{W10}Please{W3} get{W5} used{W3} to{W3} it{W3} soon,{W15} {Ec}Master.{Eo}"
 
 @MIT_SEV_B:159 PLY 7a6cfc78
-
+(Ugh... "Master" again... Did she really understand?)
 
 @MIT_SEV_B:160 PLY 9bb225f8
-
+"W-well, see you."
 
 @MIT_SEV_B:161 MIT fac377ba
-
+"{V0197}{W10}Yes.{W30} Excuse{W3} me.{W3}"
 
 @MIT_SEV_B:163 PLY 472bb248
-
+(Something outrageous has happened... What am I supposed to do from now on...)
 
 @MIT_SEV_B:165 PLY e35ccaf4
-
+(Sigh... "Master"... Shijou really is a handful. What on earth should I do...?)
 
 @MIT_SEV_B:166 PLY 64791e63
-
+(...If a girl that cute looks up to me as her master, maybe I could just accept it?)
 
 @MIT_SEV_B:167 PLY 4f6c265b
-
+(No, no, that's......)
 
 @MIT_SEV_B:168 AKI cff65272
-
+"{V0150}{W5}What's wrong?{W35} You look pretty gloomy, {Nm}."
 
 @MIT_SEV_B:170 PLY 9b301793
-
+"Oh, Hiiragi..."
 
 @MIT_SEV_B:171 AKI cc39fcc0
-
+"{V0151}{W5}Something{W2} on your mind?"
 
 @MIT_SEV_B:172 PLY 985c3c61
-
+"...A little."
 
 @MIT_SEV_B:173 AKI bf853f95
-
+"{V0152}{W5}If{W2} I'll do,{W10} I{W2} can listen."
 
 @MIT_SEV_B:174 PLY 5dcd6a58
-
+"...No, it's fine."
 
 @MIT_SEV_B:175 AKI f91d2f45
-
+"{V0153}{W5}Something{W2} you can't tell anyone?"
 
 @MIT_SEV_B:176 PLY 1c867f25
-
+"Kind of..."
 
 @MIT_SEV_B:177 PLY 3cc842cf
-
+"...I'm going to get some fresh air."
 
 @MIT_SEV_B:178 AKI 9d645a1b
-
+"{V0154}{W8}I see.{W80} Cheer{W2} up."
 
 @MIT_SEV_B:179 PLY 7aa469c1
-
+"Hahaha..."
 
 @MIT_SEV_B:181 PLY e6d98cda
-
+"...I can't tell anyone that Shijou calling me Master is a problem..."
 
 @MIT_SEV_B:182 MIT 724ac690
-
+"{V0202}{W10}What are you doing,{W12} Master?"
 
 @MIT_SEV_B:183 PLY 597562ab
-
+"Wah! S-Shijou!"
 
 @MIT_SEV_B:184 MIT 06757896
-
+"{V0203}{W10}Please call{W5} me Mitsuki."
 
 @MIT_SEV_B:185 PLY ee98de93
-
+"What?! B-by your first name?!"
 
 @MIT_SEV_B:186 MIT 7de92fa9
-
+"{V0204}{W10}Yes."
 
 @MIT_SEV_B:187 PLY 7cfe0e02
-
+"Mi-mi-mi... mi... mi..."
 
 @MIT_SEV_B:188 MIT 40536d9b
-
+"{V0205}{W13}Mi{W10}-{W10}{F3}{,}{3}{,}{4}tsu{W10}-{W10}ki,{W40} {F3}that is it."
 
 @MIT_SEV_B:189 PLY f47ad5c7
-
+"Mi-mi... mi...... Sorry, I can't say it."
 
 @MIT_SEV_B:190 MIT 3d062835
-
+"{V0206}{W10}Why not?"
 
 @MIT_SEV_B:191 PLY c0148180
-
+"Well... I'm just not used to it, or rather, I'm flustered..."
 
 @MIT_SEV_B:192 MIT a2ea790c
-
+"{V0207}...{W8}I{W8} see."
 
 @MIT_SEV_B:193 MIT 4fcab141
-
+"{V0208}{W10}We have{W3} not been talking for very long,{W27} so{W46} {Ec}it cannot{W3} be helped."
 
 @MIT_SEV_B:194 MIT 2bfd4938
-
+"{V0209}{W10}But{W43} please call me that someday."
 
 @MIT_SEV_B:195 PLY dfbb37b2
-
+"U-uh-huh."
 
 @MIT_SEV_B:196 MIT 7b3f53d2
-
+"{V0210}{W10}Shall{W2} we{W4} talk about something?"
 
 @MIT_SEV_B:197.1 - 72621f90
-
+{Ti0}- Sure. What should we talk about...／- Sorry, I'm thinking about something...／- ...I want to know more about you, Shijou
 
 @MIT_SEV_B:198 PLY 21b7faf1
-
+"Sure. What should we talk about...? But first, I'd like you to stop calling me Master..."
 
 @MIT_SEV_B:199 PLY 51d5b015
-
+"Sorry, I'm thinking about something..."
 
 @MIT_SEV_B:201 MIT 26a733ea
-
+"{V0211}{W12}I see..."
 
 @MIT_SEV_B:202 PLY 85c7fe4c
-
+"Also... I'd like you to stop calling me Master..."
 
 @MIT_SEV_B:203 PLY 6560e2f9
-
+"...I want to know more about you, Shijou."
 
 @MIT_SEV_B:204 MIT 2f0179b3
-
+"{V0212}{W10}Truly?{W20} I{W3} am{W3} happy.{W23} Please{W3} ask{W3} me{W3} anything,{W10} Master.{W3}"
 
 @MIT_SEV_B:205 PLY 9d1e7aa4
-
+"But first, I'd like you to stop calling me Master..."
 
 @MIT_SEV_B:206 MIT 254b1117
-
+"{V0213}{W10}But{W3} no{W5} one is around?"
 
 @MIT_SEV_B:207 PLY a0232a91
-
+"Well, you never know who's listening..."
 
 @MIT_SEV_B:208 MIT f65f34d6
-
+"{V0214}{W10}I see...{W65} Then, {Nm}..."
 
 @MIT_SEV_B:209 PLY 567e4a67
-
+"Yeah, that sounds good."
 
 @MIT_SEV_B:210 MIT be820d58
-
+"{V0215}{Ec}{W12}......"
 
 @MIT_SEV_B:211 MIT 5283d9e1
-
+"{W10}Calling you "{Nm}"{V0216} feels rather distant, does it not?{W30} {Ec}{W5}{F3}{Eo}I{W3} think{W8} Master{W3} is{W3} better{W3} after{W3} all..."
 
 @MIT_SEV_B:212 PLY c1a000e9
-
+"It's not distant! Not distant at all! It's normal, if anything! You called me that at first..."
 
 @MIT_SEV_B:213 MIT 24a7259f
-
+"{V0217}{W10}That is{W5} true, but..."
 
 @MIT_SEV_B:216 AKI d23ee39f
-
+"{V0155}{W15}Hmm{W10}...{W70} so{W3} {Nm} is{W3} Shijou{W5} Mitsuki's{W2} Master...{W60} huh."
 
 @MIT_SEV_B:217 PLY 4887f446
-
+"Whoa! H-Hiiragi! You heard that?!"
 
 @MIT_SEV_B:221 AKI f68ffa27
-
+"{V0156}{W5}Sorry,{W63} I{W2} didn't mean to eavesdrop."
 
 @MIT_SEV_B:222 MIT 63c3de7a
-
+"{V0218}{W5}Is{W2} he{W2} a{W2} friend?{W13} Mas...{W25} {Ec}{W5}{F9}{Eo}I{W5} mean,{W2} {Nm}."
 
 @MIT_SEV_B:223 PLY 339b5ca4
-
+"It's fine, whatever. He heard it already..."
 
 @MIT_SEV_B:224 MIT 10879763
-
+"{V0219}{W10}I am{W3} Shijou{W8} Mitsuki.{W33} Pleased{W3} to meet you."
 
 @MIT_SEV_B:225 AKI c473e014
-
+"{V0157}{W5}I'm{W2} {Nm}'s{W2} friend,{W28} {Ec}Hiiragi{W6} Akira.{Eo}{W2}"
 
 @MIT_SEV_B:226 AKI 407ec66d
-
+"{Nm}{V0158}, how did this come about?"
 
 @MIT_SEV_B:227 PLY 992b638b
-
+"...I don't really understand it myself."
 
 @MIT_SEV_B:228 AKI efdd17f6
-
+"{V0159}{W5}You don't understand?{W53} Why?{W37} {P1}Then{W35} should{W5} I ask Shijou?"
 
 @MIT_SEV_B:229 MIT c78ce3f0
-
+"{V0220}{W13}I{W5} am{W3} sorry.{W30} I{W3} cannot{W3} answer{W25} {Ec}ahead{W6} of{W5} my{W2} Master.{Eo}"
 
 @MIT_SEV_B:230 AKI 6f736c4c
-
+"{V0160}{W5}I{W2} see.{W40} Hmm{W2}...{W2}"
 
 @MIT_SEV_B:231 AKI 7ea05a6c
-
+"{V0161}{W5}Either{W2} way,{W10} I'm jealous.{W60} See{W4} you, {Nm}."
 
 @MIT_SEV_B:233 PLY 7f3f8838
-
+"H-Hiiragi, don't tell anyone about this..."
 
 @MIT_SEV_B:234 AKI 443f64d1
-
+"{V0162}{W5}Even{W2} if I did,{W5} no{W2} one{W2} would believe it."
 
 @MIT_SEV_B:235 PLY 6fd37b66
-
+"Right... true."
 
 @MIT_SEV_B:236 AKI 4ddda7ce
-
+"{V0163}{W5}See you."
 
 @MIT_SEV_B:237 MIT cc4fb39f
-
+"{V0221}{W10}Master,{W28} we{W3} could{W3} not{W3} talk much, but{W18} it is time{W10} for{W6} me{W10} to go."
 
 @MIT_SEV_B:238 PLY 5a42b5b0
-
+"I-I see."
 
 @MIT_SEV_B:239 MIT 179681c8
-
+"{V0222}{W10}If{W3} there{W6} is anything you would like me to do,{W25} please tell me. Anything at all.{W23} Well{W3} then,{W25} excuse{W3} me."
 
 @MIT_SEV_B:240 PLY 55ea48da
-
+"S-see you."
 
 @MIT_SEV_B:241 PLY 705f22cc
-
+(Anything I want her to do... Hahaha... Can I take that seriously?)
 
 @MIT_SEV_B:242 PLY 0c329dcf
-
+(I came in really early today.)
 
 @MIT_SEV_B:243 PLY 6798d453
-
+(Well, empty shoe lockers feel kind of fresh, and getting up early once in a while isn't bad.)
 
 @MIT_SEV_B:244 MIT d2d94592
-
+"{V0223}{W10}Oh,{W35} good morning,{W5} Master.{W3}{W3}{W3}"
 
 @MIT_SEV_B:245 PLY 644924c3
-
+"Oh, Shijou. Good morning."
 
 @MIT_SEV_B:246 PLY 7c4b8c84
-
+(Master, first thing in the morning... Telling her not to is pointless. I guess I have to give up.)
 
 @MIT_SEV_B:247 MIT 243f8087
-
+"{V0224}{W10}You are early this morning."
 
 @MIT_SEV_B:248 PLY 81706784
-
+"I just woke up early for some reason..."
 
 @MIT_SEV_B:249 MIT 89b0006e
-
+"{V0225}{Ec}{W10}Hehe,{W5}{W5}{W5}{W30}{Eo} that{W1} does{W1} happen,{W1} does{W1} it not?"
 
 @MIT_SEV_B:250 PLY 69b90845
-
+"What's with those flowers?"
 
 @MIT_SEV_B:251 MIT b9cc58b9
-
+"{V0226}{W10}They are roses grown in our{W3} greenhouse.{W30} I thought I would{W3} put them{W5}{W3} on{W3} the teacher's{W3} desk.{W3}"
 
 @MIT_SEV_B:252 PLY 1ef8228f
-
+"Wow, nice. They're really beautiful."
 
 @MIT_SEV_B:253 MIT e9f7e14e
-
+"{V0227}{W10}Thank you very much."
 
 @MIT_SEV_B:256 PLY 0919b821
-
+(A greenhouse in the garden... With a mansion that big, it wouldn't be strange.)
 
 @MIT_SEV_B:257 MIT d64b3f55
-
+"{V0228}{Ec}{W10}Well then,{W20} excuse me."
 
 @MIT_SEV_B:258 PLY e03a6130
-
+"Yeah, see you."
 
 @MIT_SEV_B:260 PLY 3e1d67a8
-
+(I came wondering if anyone was here, but there's no one...)
 
 @MIT_SEV_B:261 MIT dfe219ad
-
+"{V0229}{W10}Oh,{W23} Master.{W3}{W3}"
 
 @MIT_SEV_B:262 PLY 122df4f6
-
+"Huh?"
 
 @MIT_SEV_B:264 PLY 26fb4248
-
+"Do you have P.E. next?"
 
 @MIT_SEV_B:265 MIT 97627b07
-
+"{V0230}{W10}Yes,{W15} I do."
 
 @MIT_SEV_B:266 PLY 23e2211b
-
+(Shijou in gym clothes... A young lady looks good in anything, or rather... how do I put it...)
 
 @MIT_SEV_B:267 MIT 43e0a480
-
+"{V0231}{W10}Is{W1} something{W1} wrong?{W3}"
 
 @MIT_SEV_B:268 PLY 8904902a
-
+"Huh? Oh... um, Shijou, are you good at sports?"
 
 @MIT_SEV_B:269 MIT b63581e4
-
+"{V0232}{W10}I cannot really tell{W3} myself,{W3} but{W5} my classical ballet{W3} teacher{W18}{W3} often praises me.{W10}"
 
 @MIT_SEV_B:270 PLY 835184f7
-
+"Right, you take classical ballet, don't you?"
 
 @MIT_SEV_B:271 MIT d1be40b3
-
+"{V0233}{Ec}{W10}Yes.{W30}{Eo} Ever since I was{W3} little.{W3}{W3}"
 
 @MIT_SEV_B:272.1 - a37ad6b0
-
+{Ti0}- I'd love to see it.../- Show me here?/- You in a tutu...
 
 @MIT_SEV_B:273 PLY 82c7bdff
-
+"I'd love to see it..."
 
 @MIT_SEV_B:274 MIT 91355497
-
+"{V0234}{W10}Shall{W3} I dance{W3} now?"
 
 @MIT_SEV_B:275 PLY a7303921
-
+"Huh? Now? Really?!"
 
 @MIT_SEV_B:276 MIT d1226b98
-
+"{V0235}{W12}Yes.{W25} I would be happy{W3}{W3}{W3}{W5} to have you watch,{W10} Master."
 
 @MIT_SEV_B:277 PLY 8e220583
-
+"Could you show me here?"
 
 @MIT_SEV_B:278 MIT d3f8d605
-
+"{V0236}{W10}{Ec}Of course{Eo}."
 
 @MIT_SEV_B:279 PLY ccdc10be
-
+"Huh?! Really?!"
 
 @MIT_SEV_B:280 MIT 31e43dd2
-
+"{V0237}{W10}Yes,{W25} of course.{W25} I would be happy to have you watch,{W3}{W3}{W3} Master.{W10}"
 
 @MIT_SEV_B:281 PLY f087a066
-
+"{Ts1}You in a tutu...{Ts2}"
 
 @MIT_SEV_B:282 MIT 9f68c281
-
+"{V0238}{W10}Pardon?"
 
 @MIT_SEV_B:283 PLY b7b3bca8
-
+"Oh, no... I just thought you'd look beautiful in a tutu..."
 
 @MIT_SEV_B:284 MIT c0b0bcc9
-
+"{V0239}{W10}N-{W40}not at all..."
 
 @MIT_SEV_B:285 PLY 9a972cf8
-
+"No, I'm sure you would... Yeah."
 
 @MIT_SEV_B:286 MIT b862b4fa
-
+"{V0240}{W15}Master.{W3}{W5}{W5}.."
 
 @MIT_SEV_B:287 MIT 036c5646
-
+"{V0241}{W10}I cannot show you a tutu,{W6} but{W20} shall I dance for you{W10} now?{W3}"
 
 @MIT_SEV_B:288 PLY 61de5f53
-
+"What?! Here?!"
 
 @MIT_SEV_B:289 MIT 1fa76c6c
-
+"{V0242}{W10}{Ec}Yes."
 
 @MIT_SEV_B:290 PLY ee7d33b2
-
+"I'd love that, but is it okay?"
 
 @MIT_SEV_B:291 MIT 4f944250
-
+"{V0243}{W10}Yes.{W50} I would be happy to have you watch,{W3}{W3}{W3} Master.{W15} {W3}{W1}{W1}"
 
 @MIT_SEV_B:292 MIT de5b21c6
-
+"{V0244}{W10}Well then,{W30} please stay right there."
 
 @MIT_SEV_B:293 PLY 1ea1b704
-
+"O-okay."
 
 @MIT_SEV_B:300 PLY d482181d
-
+(Shijou... is beautiful... How can anyone be so beautiful...)
 
 @MIT_SEV_B:301 PLY b2861865
-
+(And a girl like this calls me her master...)
 
 @MIT_SEV_B:302 PLY 4315fc77
-
+(Hiiragi did say our family backgrounds are too different...)
 
 @MIT_SEV_B:303 PLY 09fc525e
-
+(I don't really care about that, but still, a difference in upbringing... it's there.)
 
 @MIT_SEV_B:304 SYS c9fbb9b1
-
+...And so, forgetting the time, I stood watching Shijou's classical ballet.
 
 @MIT_SEV_B:305 PLY de6844e1
-
+(Well, time to go eat lunch. I'm a bit late.)
 
 @MIT_SEV_B:306 AKI 6b9c9d2a
-
+"{Nm}{V0164}, what are you doing?{W60} Aren't{W3} you going to lunch yet?{W3}{W5}{W10}"
 
 @MIT_SEV_B:307 PLY 36ace1ce
-
+"Oh, Hiiragi. I'm just heading there."
 
 @MIT_SEV_B:308 AKI f8dd6e39
-
+"{V0165}{W5}I see,{W48} then it's fine.{W13} {F3}Good luck."
 
 @MIT_SEV_B:309 PLY d6a01053
-
+"Good luck? Why would I need luck to eat lunch?"
 
 @MIT_SEV_B:310 AKI fce69697
-
+"{V0166}{W5}You'll see once you step into the hallway.{W3}{W1}{W70} Later."
 
 @MIT_SEV_B:311 PLY a069048f
-
+"What a weirdo..."
 
 @MIT_SEV_B:313 MIT 0b8249d2
-
+"{V0245}{W10}Oh! {W5}Mas...{W3}{W20}{Ec}{W5}{F9}{Eo} I mean, {Nm}."
 
 @MIT_SEV_B:314 PLY 8006e91a
-
+"Oh, Shijou! Were you waiting for me?"
 
 @MIT_SEV_B:315 MIT ca2c15ae
-
+"{V0246}{W10}Yes."
 
 @MIT_SEV_B:316 PLY f6e5a0ab
-
+"You could have called me."
 
 @MIT_SEV_B:317 MIT 40c9bd99
-
+"{V0247}{W10}No,{W35} I wanted to wait for you here.{W35} {Ec}...That way,{W3} {W65}I am{W6} happier.{W10}{W6}"
 
 @MIT_SEV_B:318 PLY 2401dabb
-
+"I-I see..."
 
 @MIT_SEV_B:319 PLY 3ac7f43b
-
+"You're wearing an apron, so did you have Home Ec?"
 
 @MIT_SEV_B:320 MIT 7e6889ed
-
+"{V0249}{W10}Yes.{W30} I made macaroni gratin.{W3}"
 
 @MIT_SEV_B:321 PLY 5cf5173c
-
+"Oh, really?"
 
 @MIT_SEV_B:322 MIT 84664abc
-
+"{V0250}{W10}So...{W50} um...{W90} it may not suit your taste,{W3} but{W28}... if you would like,{W5} I was hoping you might taste it...{W3}"
 
 @MIT_SEV_B:323 PLY 4f16af90
-
+"What?! Really? Of course I'll have some!"
 
 @MIT_SEV_B:324 MIT 786940ca
-
+"{V0251}{W15}I am glad.{W15} {Ec}I am so happy."
 
 @MIT_SEV_B:325 PLY aed30f73
-
+(I get to eat Shijou's homemade gratin...)
 
 @MIT_SEV_B:326 MIT 7003c08f
-
+"{V0252}{W10}Then{W25} please come to the Home Ec Room.{W3}{W3}"
 
 @MIT_SEV_B:327 PLY cc4af171
-
+"Okay."
 
 @MIT_SEV_B:329 SYS 93d9c3ae
-
+...And so, I ate Shijou's homemade macaroni gratin.
 
 @MIT_SEV_B:330 SYS dca4cdb5
-
+It tasted... unbelievably good.
 
 @MIT_SEV_B:331 SYS 298590ea
-
+She's a great cook, Shijou. She really is the perfect young lady...
 
 @MIT_SEV_B:338 PLY 0e67c81b
-
+(Hm? The sky looks ominous.)
 
 @MIT_SEV_B:339 PLY d816100f
-
+(It looks like it could rain any second...)
 
 @MIT_SEV_B:344 PLY 05e22ae8
-
+"Whoa, thunder! That's pretty close..."
 
 @MIT_SEV_B:345 PLY a12a344b
-
+"Whoa, again."
 
 @MIT_SEV_B:346 - 64c62dc2
-
+a girl
 
 @MIT_SEV_B:348 MIT ffa79d23
-
+{V5022}"Eeeeeeek!"
 
 @MIT_SEV_B:350 PLY 10a0ca89
-
+"Ah! That scream!"
 
 @MIT_SEV_B:352 - f2aaf3b1
-
+"
 
 @MIT_SEV_B:353 - 3e8b7240
-
+ it is!"
 
 @MIT_SEV_B:354 PLY 78fd8c0b
-
+"It came from the Music Room!"
 
 @MIT_SEV_B:358 - 169e2930
-
+!"
 
 @MIT_SEV_B:359 - cf3a2302
-
+Hoshino
 
 @MIT_SEV_B:360 MIT f08091f7
-
+"{V0253}{W12}Huh?"
 
 @MIT_SEV_B:361 - a6a0b189
-
+Narumi
 
 @MIT_SEV_B:362 MIT 47b89b26
-
+"{V0255}{W12}Huh?"
 
 @MIT_SEV_B:363 - 0e688034
-
+Mao
 
 @MIT_SEV_B:364 MIT 39e5f5ac
-
+"{V0257}{W12}Huh?"
 
 @MIT_SEV_B:365 - 1b734b38
-
+Sakino
 
 @MIT_SEV_B:366 MIT 54a8eea1
-
+"{V0259}{W12}Huh?"
 
 @MIT_SEV_B:367 - 79f76ab3
-
+Futami
 
 @MIT_SEV_B:368 MIT 297c9893
-
+"{V0261}{W12}Huh?"
 
 @MIT_SEV_B:369 PLY b798ddd0
-
+(I-it was Shijou...)
 
 @MIT_SEV_B:370 MIT 842abb88
-
+"{V0254}{W13}Master,{W6}{W6}{W6}{W6}{W35} who is{W3} Hoshino{W3}{W5}?{W3}"
 
 @MIT_SEV_B:371 MIT 2c4759ab
-
+"{V0256}{W10}{W13}Master,{W3}{W6}{W6}{W6}{W6}{W30} who is Narumi?{W3}"
 
 @MIT_SEV_B:372 MIT 597f55cf
-
+"{V0258}{W13}Master,{W3}{W6}{W6}{W6}{W6}{W45} who is{W3} Mao?{W3}{W8}"
 
 @MIT_SEV_B:373 MIT 69818ad8
-
+"{V0260}{W13}Master,{W3}{W6}{W6}{W6}{W6}{W35} who is Sakino?{W3}{W5}{W5}"
 
 @MIT_SEV_B:374 MIT 7ef2d698
-
+"{V0262}{W13}Master,{W3}{W6}{W6}{W6}{W6}{W45} who is{W3} Futami?{W3}{W5}"
 
 @MIT_SEV_B:375 PLY ea2b2a66
-
+"N-no, this isn't the time for that, is it?"
 
 @MIT_SEV_B:376 PLY 8b6c9852
-
+"Are you afraid of thunder?"
 
 @MIT_SEV_B:377 MIT 869d0133
-
+"{V0263}{W12}Oh,{W75} Master...{W2}{W5}{W5}{W5}{W5}"
 
 @MIT_SEV_B:378 PLY c43fa834
-
+"Are you okay? Are you afraid of thunder?"
 
 @MIT_SEV_B:379 MIT 5b5968a9
-
+"{V0264}{W13}{Ec}Yes...{W3}{W3}"
 
 @MIT_SEV_B:380 PLY eaf8076e
-
+"Oh no, a blackout!"
 
 @MIT_SEV_B:381 MIT ee66f219
-
+"{V0265}{W5}Eeeeek! Master!{W2}{W5}{W5}{W5}{W3}"
 
 @MIT_SEV_B:383 PLY f3070d28
-
+"S-Shijou!"
 
 @MIT_SEV_B:384 MIT b55ec2a1
-
+"{V0266}{W10}Master,{W3}{W3}{W3}{W18} please stay like this for a while...{W10} Please!{W3}"
 
 @MIT_SEV_B:386 PLY 748ef5d7
-
+"S-sure, but..."
 
 @MIT_SEV_B:387 PLY 69c5e49b
-
+(W-will I be able to keep my composure...)
 
 @MIT_SEV_B:388 MIT 8d2ea3ed
-
+"{V0267}{W13}Master...{W5}{W8}{W8}{W8}{W80} I am scared......{W6}"
 
 @MIT_SEV_B:389 PLY b5160981
-
+"Are you afraid of the dark too?"
 
 @MIT_SEV_B:390 MIT 0079bfe3
-
+"{V0268}{W10}Yes...{W3}{W3}"
 
 @MIT_SEV_B:391 PLY d23c7e4d
-
+"I see. This is a problem..."
 
 @MIT_SEV_B:392 PLY 0eb62e0c
-
+(Ugh... Shijou's chest is pressed against me...)
 
 @MIT_SEV_B:393 PLY 2b5acc54
-
+(And her shoulders are so delicate and slender...)
 
 @MIT_SEV_B:394 PLY 66c80827
-
+(Ah... something warm on my chest...)
 
 @MIT_SEV_B:395 MIT a8c762cd
-
+"{V0269}{W30}Ugh...{W100} ugh...{W10}{W10}{W10}"
 
 @MIT_SEV_B:396 PLY 9350b1b5
-
+(Shijou is crying. She's really that scared.)
 
 @MIT_SEV_B:397 PLY 8b8d0498
-
+(This is no time for improper thoughts! I have to protect her...)
 
 @MIT_SEV_B:399 MIT 86bce4a3
-
+"{V0270}{W10}Oh..."
 
 @MIT_SEV_B:400 PLY 6fc81e56
-
+"It's okay... the thunder will be gone soon."
 
 @MIT_SEV_B:401 MIT 35277bbb
-
+"{V0271}{W15}Really?{W8}{W8}{W1}{W1}{W1}{W1}"
 
 @MIT_SEV_B:402 PLY 6620f18a
-
+"Yeah. I can't hear it anymore... The lights will surely come back on soon."
 
 @MIT_SEV_B:403 MIT 312b407f
-
+"{V0272}{W3}...{W5}Yes.{W3}{W3}{W95} I believe you.{W5}{W3}"
 
 @MIT_SEV_B:405 MIT 77f7e460
-
+"{V0273}{W10}Oh,{W30} the lights are on."
 
 @MIT_SEV_B:406 PLY 034c48d5
-
+"You're fine now. That's a relief."
 
 @MIT_SEV_B:407 MIT 7d912f50
-
+"{V0274}{W10}Yes.{W65} {Eh}It is just as you said,{W3}{W3}{W3}{W5} Master."
 
 @MIT_SEV_B:408 PLY abe7dadb
-
+"...Shijou."
 
 @MIT_SEV_B:409 MIT 319a1403
-
+"{V0275}{W10}Yes?"
 
 @MIT_SEV_B:410 PLY 41de451e
-
+"How long are you going to keep hugging me?"
 
 @MIT_SEV_B:411 MIT bf91a759
-
+"{V0276}{W13}Ah!"
 
 @MIT_SEV_B:414 MIT ea9ffe4d
-
+"{V0277}{W12}I-{W45}I am sorry."
 
 @MIT_SEV_B:415 PLY 394741e9
-
+"No, I wouldn't have minded if you'd kept hugging me."
 
 @MIT_SEV_B:416 MIT c254881e
-
+"{V0278}{W10}Hehe{W8}{W8}"
 
 @MIT_SEV_B:417 MIT 5f00f9fa
-
+"{V0279}{W10}Oh...{W5} I am sorry,{W15} there are marks{W10} from my{W6} tears{W10} on your shirt..."
 
 @MIT_SEV_B:418 PLY c99a11f1
-
+"Don't worry about that."
 
 @MIT_SEV_B:419 MIT 4061f778
-
+"{V0280}{W13}Master...{W2}{W5}{W5}{W5}{W3}"
 
 @MIT_SEV_B:420 MIT f2d566a0
-
+"{V0281}{W15}I... {W96}am not{W5} scared{W5} anymore.{W3}"
 
 @MIT_SEV_B:421 PLY 0b4c2fd1
-
+"Right. The thunder's gone now."
 
 @MIT_SEV_B:422 MIT d18864ed
-
+"{V0282}{W10}No,{W3}{W3}{W40} that is not what I mean..."
 
 @MIT_SEV_B:423 MIT 44feb220
-
+"{V0283}Because{W10} you are by my side,{W80} from now on{W80} {Ec}I am not afraid{W3} of{W3} anything{W5} at all."
 
 @MIT_SEV_B:424 PLY 5248279b
-
+"Shijou..."
 
 @MIT_SEV_B:425 SYS a7c913d3
-
+...And so, I protected Shijou from the thunder.
 
 @MIT_SEV_B:427 PLY eb3ee561
-
+(I wonder if Shijou is in the Music Room...?)
 
 @MIT_SEV_B:428 PLY d4b0c6b0
-
+"Shijou."
 
 @MIT_SEV_B:429 MIT 489aa2ef
-
+"{V0284}{W10}Oh, {Nm}."
 
 @MIT_SEV_B:430 PLY aac6e154
-
+(She still calls me {Nm}, huh......)
 
 @MIT_SEV_B:431 PLY 0bcf22ed
-
+"Were you playing the piano?"
 
 @MIT_SEV_B:432 MIT a395ef37
-
+"{V0285}{Ec}{W10}Yes."
 
 @MIT_SEV_B:433 MIT d1423883
-
+"{V0286}{W13}If you like,{W31} shall we{W3} go{W5} up to{W1} the{W1} Rooftop?{W75} The{W3} sunset{W5} is{W1} beautiful."
 
 @MIT_SEV_B:434 PLY 9d1c8af3
-
+"The Rooftop, huh. ...Sounds good, let's go."
 
 @MIT_SEV_B:435 MIT a8204d8f
-
+"{V0287}{W12}Look,{W35} please see.{W44} The sky is{W5} full{W3} of{W3} crimson{W3} clouds."
 
 @MIT_SEV_B:436 PLY 0363db10
-
+"You're right."
 
 @MIT_SEV_B:437 PLY 3f2971df
-
+"......"
 
 @MIT_SEV_B:438 MIT d195f611
-
+"{V0288}{W8}...{W8}{W8}{W8}{W8}"
 
 @MIT_SEV_B:439 MIT 781f3af0
-
+"{V0289}{W12}Yes."
 
 @MIT_SEV_B:440 PLY 5f7d76e6
-
+"There was so much I wanted to tell you..."
 
 @MIT_SEV_B:441 PLY e92a77c9
-
+"But when I looked at your face, I couldn't say anything."
 
 @MIT_SEV_B:442 MIT 77892493
-
+"{V0290}I{W6} feel the same.{W75} I want to talk with{W3} you more,{W75} but the{W6} words{W3} will{W10} not come..."
 
 @MIT_SEV_B:443 PLY 60818785
-
+"But I'll say just one thing."
 
 @MIT_SEV_B:444.1 - 56b11dd2
-
+{Ti0}- You mean a lot to me／- I won't forget this month either／- If I'm reborn, I'll tell you I like you
 
 @MIT_SEV_B:445 PLY 917f302d
-
+"You mean a lot to me."
 
 @MIT_SEV_B:446 MIT d0781210
-
+"{Nm}{V0291}... Thank you..."
 
 @MIT_SEV_B:447 MIT bf00de55
-
+"{V0292}{W10}I{W6} will keep{W3} thinking{W3} of{W6} you{W98} in{W3} my{W10} heart{W85} always."
 
 @MIT_SEV_B:448 PLY c1046c67
-
+"I won't forget this month either."
 
 @MIT_SEV_B:449 MIT 801c64c7
-
+"{V0293}{W10}I am so happy..."
 
 @MIT_SEV_B:450 MIT 7e90cf9e
-
+"{V0294}{W10}So many things{W3} happened,{W3} did they not?{W53} The{W3} fun times,{W37} the happy times,{W45} the embarrassing times..."
 
 @MIT_SEV_B:451 MIT bbf78a21
-
+"{V0295}{W10}I{W93} will treasure my time with{W3} you{W55} for{W10} the{W3} rest{W3} of my life."
 
 @MIT_SEV_B:452 MIT f75a0552
-
+"{V0296}{W10}Even{W3} a{W3} fiance{W60} cannot{W3} peek{W6} into{W3} my{W3} heart.{W5}"
 
 @MIT_SEV_B:453 PLY 231f6fdc
-
+"If I'm reborn, I'll tell you I like you."
 
 @MIT_SEV_B:454 MIT 6c3acec2
-
+"{V0297}{W10}{Nm}{W8}...{W8}"
 
 @MIT_SEV_B:455 MIT a0747d26
-
+"{V0298}{W10}If{W6} I{W10} am{W3} reborn too,{W65} I will live{W5} for you."
 
 @MIT_SEV_B:456 SYS fed0ec56
-
+...And so, we kept gazing at the sunset forever.
 
 @MIT_SEV_B:457 PLY 04eda431
-
+(Sigh...)
 
 @MIT_SEV_B:458 PLY a3e494af
-
+(After all, Shijou and I come from different families... Even if I like her, there's nothing I can do...)
 
 @MIT_SEV_B:459 PLY e05a70ea
-
+(No good... If I keep thinking like this, I'll only get gloomier...)
 
 @MIT_SEV_B:460 PLY 342a4199
-
+(That's it! There was a romance novel that was popular this year, wasn't there? I'll read it to take my mind off things.)
 
 @MIT_SEV_B:461 PLY 2f11c490
-
+(Let's see...)
 
 @MIT_SEV_B:462 PLY 030b1ba6
-
+(Found it! This is the one!)
 
 @MIT_SEV_B:467 MIT 8f522edc
-
+"{V0299}{W8}Oh!"
 
 @MIT_SEV_B:468 PLY c70948dc
-
+"Ah!"
 
 @MIT_SEV_B:470 MIT 18fdda0e
-
+"{V0300}{W10}I-{W20}I am sorry!"
 
 @MIT_SEV_B:471 PLY aebe9999
-
+"Are you after this book too, Shijou?"
 
 @MIT_SEV_B:472 MIT ad9f128d
-
+"{V0301}{W10}Yes. You too, {Nm}?"
 
 @MIT_SEV_B:473 PLY 71d87c54
-
+"Yeah. Everyone's talking about it, and I felt like reading a love story..."
 
 @MIT_SEV_B:474 MIT 9a776f59
-
+"{V0302}...{W5}Me{W6} too.{W5}"
 
 @MIT_SEV_B:475 PLY 69185891
-
+"What a coincidence."
 
 @MIT_SEV_B:476 MIT a7d6bac0
-
+"{V0303}{W10}Yes,{W6} a{W2} coincidence{W6}.{W2}{W2}"
 
 @MIT_SEV_B:477 PLY 0d80b9d5
-
+"......"
 
 @MIT_SEV_B:478 MIT dfe3ee56
-
+"{V0304}{W10}...{W10}{W10}"
 
 @MIT_SEV_B:479 PLY e7a8f7c8
-
+"Ah, you can borrow it first."
 
 @MIT_SEV_B:480 MIT d3d08e54
-
+"{V0305}{W10}No,{W13} please, {Nm}, you borrow it first."
 
 @MIT_SEV_B:481 PLY b4a034b4
-
+"No, really, it's fine."
 
 @MIT_SEV_B:482 MIT 3c371f17
-
+"{V0306}{W10}I could not{W6} possibly,{W20} I{W3} cannot read it before{W3} you.{W13} Please,{W7} read it first."
 
 @MIT_SEV_B:483 PLY 63775c4a
-
+"...Then, if you insist."
 
 @MIT_SEV_B:484 MIT 660bbf36
-
+"{V0307}{W10}Yes."
 
 @MIT_SEV_B:485.1 - e2f66ac7
-
+{Ti0}- I'll pass it to you right after I finish／- I'm gonna tell you the ending
 
 @MIT_SEV_B:486 PLY 6730b880
-
+"I'll pass it to you right after I finish."
 
 @MIT_SEV_B:487 MIT 9bcaaf66
-
+"{V0308}{W10}Yes.{W22} I am{W3} looking forward to it."
 
 @MIT_SEV_B:488 PLY fffb9d1e
-
+"I'm gonna tell you the ending."
 
 @MIT_SEV_B:489 MIT 80fbdd10
-
+"{V0309}{W10}Fu{W5}fu,{W33} {Eo}I{W5} do{W6} not mind even{W3} that."
 
 @MIT_SEV_B:490 MIT 9760343a
-
+"{V0310}{W10}If you{W3} tell{W3} me{W3} the{W5} story, {Nm},{W20} I would{W3} rather{W10} have that."
 
 @MIT_SEV_B:491 PLY bac6af6c
-
+"W-well then, I'll go check it out. See you..."
 
 @MIT_SEV_B:492 MIT 3364824a
-
+"{V0311}{W10}Yes.{W55} Until next time."
 
 @MIT_SEV_B:493 PLY 98e74171
-
+(We tried to read the same book... It's just a coincidence, but I'm happy...)
 
 @MIT_SEV_B:495 - 5c0ee812
-
+Shijou
 
 @MIT_SEV_B:509 - abfd2a28
-
+{Ti0}- 
 
 @MIT_SEV_B:510 - 5746167f
-
+!／- 
 
 @MIT_SEV_B:511 - e666e4dc
-
+!
 
 @MIT_SEV_B:512 - 05291768
-
+!／- No, that voice is...!
 
 @MIT_SEV_B:513.1 - 1e5a19f1
-
+{Ti0}- It's Hoshino!　　　　　　- It's Narumi!／- It's Mao!　　　　　　　　- It's Sakino!／- It's Futami!　　　　　　　- It's Shijou!

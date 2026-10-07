@@ -2,1099 +2,1099 @@
 # Format: docs/translation-format.md
 
 @ERI_SEV_A:51 AKI 81b51cec
-
+"{Nm}, {V0061}did you{W2} prepare{W2} for{W2} the lesson{W2} on{W2} momentum{W2} and mechanical energy?{W11}"
 
 @ERI_SEV_A:53 PLY 122df4f6
-
+"Huh?"
 
 @ERI_SEV_A:56 AKI 784e3ec9
-
+"{V0062}{W5}Next{W3} class{W2} is{W2} physics,{W8} remember?{W45} Going{W2} by the{W2} seating{W2} order,{W15} you're the one who'll get called on."
 
 @ERI_SEV_A:57 PLY 4884af50
-
+"R-right. Oh no, I haven't done anything."
 
 @ERI_SEV_A:59 AKI 48d2cc07
-
+"{V0063}{W10}Oh{W2} dear,{W2} well,{W69} don't{W2} look{W2} at me."
 
 @ERI_SEV_A:63 PLY 63cbfb70
-
+"Ah, Hiiragi... Wow, that's cold."
 
 @ERI_SEV_A:64 PLY 82102e71
-
+(What do I do... There's no way I can finish it now...)
 
 @ERI_SEV_A:65 PLY a4f52221
-
+(That's it! I'll just ask Futami! She's sure to know!)
 
 @ERI_SEV_A:66 PLY f005dba5
-
+(She made me do that thing the other day. This much should be fine.)
 
 @ERI_SEV_A:68 PLY f4d2eef0
-
+(Let's see, Futami's in Class B, I think.)
 
 @ERI_SEV_A:69 PLY 80c10fa9
-
+(Futami is... Ah, there she is.)
 
 @ERI_SEV_A:70 PLY d671cf48
-
+"Futami~"
 
 @ERI_SEV_A:72 ERI cf93ea3a
-
+"{V0026}{W8}Oh, {Nm}..."
 
 @ERI_SEV_A:73 - e347747b
-
+Boy 1
 
 @ERI_SEV_A:75 ETB e1be38a7
-
+"{V1011}{Ts1}H-hey,{W8} that guy{W30} isn't{W3} from our class."
 
 @ERI_SEV_A:76 - b48234ab
-
+Boy 2
 
 @ERI_SEV_A:77 ETB 9516d95a
-
+"{V1110}{Ts1}{W15}You're{W8} right.{W66} Talking{W8} to Futami,{W4}{W30} what{W5} a{W5} glutton{W3} for{W5} punishment..."
 
 @ERI_SEV_A:78 - 741e5a78
-
+Boy 3
 
 @ERI_SEV_A:79 ETB 8ab78120
-
+"{V1012}{Ts1}{W12}She'll just{W8} make a fool of him{W8} in the end,{W24} and he doesn't even realize it."
 
 @ERI_SEV_A:80 PLY 697cb32a
-
+(Ugh... everyone in the class is watching from a distance...)
 
 @ERI_SEV_A:81 ERI 04357060
-
+"{V0027}{W8}Do{W5} you{W2} want something?"
 
 @ERI_SEV_A:82 PLY acbcca0f
-
+"Um... well..."
 
 @ERI_SEV_A:83 PLY a347df81
-
+(It's hard to talk here...)
 
 @ERI_SEV_A:84 PLY 46014446
-
+"Could we go somewhere else?"
 
 @ERI_SEV_A:85 ERI e569d6e6
-
+"{V0028}{W8}Hm?"
 
 @ERI_SEV_A:87 ERI 75e08349
-
+"{V0029}{W10}{Ec}Heh,{W45} {Eo}it's{W3} the same{W3} wherever you go.{W2}{W33} Everyone{W1} is{W1} like{W1} this{W1}.{W4}"
 
 @ERI_SEV_A:89 ERI 9f1e87d7
-
+"{V0030}{W5}Or{W30} shall we{W3} look for a place where we can be{W3} alone?{W3} {W15}I{W6} would not mind that, either."
 
 @ERI_SEV_A:90 PLY 74958e30
-
+(Ugh... there's no time for that.)
 
 @ERI_SEV_A:91 PLY 44b99026
-
+"No, here is fine."
 
 @ERI_SEV_A:93 ERI e3809ad6
-
+"{V0031}{W5}I see."
 
 @ERI_SEV_A:94 ERI 51355caa
-
+"{V0032}{W8}So,{W21} what{W4} is it?{W3}"
 
 @ERI_SEV_A:95 PLY 6a7f22a6
-
+"Um... it's physics. I'll get called on next class. Can you help me?"
 
 @ERI_SEV_A:96 ETB 69e0a021
-
+"{V1013}{Ts1}{W6}H-hey,{W18} that guy{W45} came{W3} to{W5} get help{W5} with homework."
 
 @ERI_SEV_A:97 ETB 310b05c5
-
+"{V1111}{Ts1}{W15}How{W10} reckless{W12}...{W12}{W4}"
 
 @ERI_SEV_A:98 ETB 537f8901
-
+"{V1014}{Ts1}{W12}Even though{W8} everyone{W15} got burned..."
 
 @ERI_SEV_A:99 ERI 1f690bed
-
+"{V0033}{W8}I see...{W45} you too..."
 
 @ERI_SEV_A:101 ERI 3e5851e1
-
+"{V0034}{W5}You cannot accept that you cannot solve it?{W3}"
 
 @ERI_SEV_A:102 ERI 04e22c52
-
+"{V0035}{W5}If you borrow{W9} my strength{W9} to{W3} solve the problem,{W3}{W38} what{W3} does that get you?"
 
 @ERI_SEV_A:103 ETB e5b35771
-
+"{V1015}{Ts1}{W6}Here{W12} it{W18} comes{W8}...{W66} Just{W5} because{W4} she's{W12} a little smart..."
 
 @ERI_SEV_A:104 ETB 12d17378
-
+"{V1112}{Ts1}{W6}Why{W6} not{W1} just{W1} teach{W3} him?{Ts2}"
 
 @ERI_SEV_A:105 ETB 783a9e39
-
+"{V1016}{Ts1}{W6}In{W18} the{W12} end,{W36} she{W1} only{W5} cares about herself."
 
 @ERI_SEV_A:107 ERI 64fa7511
-
+"{V0036}{W8}{Ec}Is it because{W3} you{W3} do not want the teacher to scold you?{W3}{W45} {Eo}Or{W1} so{W1} you{W1} will{W1} not{W4} be{W1} embarrassed{W1} in{W1} front{W1} of{W1} everyone?"
 
 @ERI_SEV_A:108.1 - c298cbe4
-
+{Ti0}- ...Sorry. I won't ask again／- Aren't we friends?／- Don't be picky, just tell me
 
 @ERI_SEV_A:109 PLY 80e095e6
-
+"...Sorry. I won't ask again."
 
 @ERI_SEV_A:111 ERI 47538e44
-
+"{V0037}{W8}Right.{W42} {Eh}That is best."
 
 @ERI_SEV_A:112 PLY 840aa3bd
-
+"Aren't we friends?"
 
 @ERI_SEV_A:114 ERI f8722330
-
+"{V0038}{W10}Friends?{W5}{W5} {W40}{Ec}Can you truly say that?{W4}{W4}"
 
 @ERI_SEV_A:115 ERI 07a3bbe5
-
+"{V0039}{W5}Can{W9} you say{W4} we are{W4} friends?{W1}{W30}"
 
 @ERI_SEV_A:116 PLY 970e135c
-
+"Well..."
 
 @ERI_SEV_A:117 PLY 08ef0574
-
+"Don't be picky, just tell me."
 
 @ERI_SEV_A:118 ERI 9bb7b9b9
-
+"{V0040}{W8}No,{W8} thank you."
 
 @ERI_SEV_A:119 PLY e1bcccd5
-
+"Ugh... okay..."
 
 @ERI_SEV_A:122 ERI d0b07827
-
+"{V0041}{W8}Goodbye, {Nm}."
 
 @ERI_SEV_A:123 PLY 2ca64493
-
+"Futami..."
 
 @ERI_SEV_A:124 ERI b11ccaf5
-
+"{V0042}{W5}What?"
 
 @ERI_SEV_A:125 PLY 8c017973
-
+"I thought it'd be fine to just ask you, and that was pretty thoughtless of me. ...Sorry."
 
 @ERI_SEV_A:126 ERI 5b055f9c
-
+"{V0043}{W5}Oh..."
 
 @ERI_SEV_A:128 ERI 39460573
-
+"{V0044}{W5}It's fine.{W18} I do not mind.{W30} {Ec}Go now..."
 
 @ERI_SEV_A:129 PLY 570f459d
-
+"Okay. See you."
 
 @ERI_SEV_A:133 PLY e7a91ff9
-
+(Honestly, forgetting my textbook... What a klutz.)
 
 @ERI_SEV_A:134 PLY 809ffc50
-
+(Let's see, I was sitting here, so...)
 
 @ERI_SEV_A:138 PLY e4677eb6
-
+(Oh, found it.)
 
 @ERI_SEV_A:139 PLY 5a9595fd
-
+(Okay, back to class. ...Hm? Someone's in the Science Prep Room...)
 
 @ERI_SEV_A:140 PLY bd89df16
-
+(Ah, it's Futami. She seems to be reading something. A magazine...? She's really absorbed.)
 
 @ERI_SEV_A:141 PLY 10034295
-
+"Futami, what are you reading?"
 
 @ERI_SEV_A:142 ERI 85e3d4a8
-
+"{V0045}{W5}Eh!"
 
 @ERI_SEV_A:155 PLY 9c99c643
-
+"Sorry, did I startle you? You dropped your magazine."
 
 @ERI_SEV_A:157 ERI 99d0ab63
-
+"{V0046}{W15}Ah,{W30} that is..."
 
 @ERI_SEV_A:159 PLY 3ad254fd
-
+"Huh? "Cute Teen"? Isn't this a magazine for teens?"
 
 @ERI_SEV_A:161 PLY dcd5de5e
-
+"Wow, so even you read magazines like this. What a surprise."
 
 @ERI_SEV_A:164 ERI fa0e2832
-
+"{V0047}{W8}G-{W15}give it back!{W3}"
 
 @ERI_SEV_A:165 PLY 0e827788
-
+"Hahaha, what headlines. "The ABCs of Love," "Kisses That Feel Good"? Huh..."
 
 @ERI_SEV_A:166 PLY 0a65c521
-
+"...Wait. Kisses that feel good?"
 
 @ERI_SEV_A:167 ERI 3714f501
-
+"{V0048}......"
 
 @ERI_SEV_A:168 PLY 2624d691
-
+"Is this because the kiss the other day didn't feel good?"
 
 @ERI_SEV_A:169 ERI eabb9d41
-
+"{V0049}{W5}......"
 
 @ERI_SEV_A:170 ERI e9ecfd77
-
+"{V0050}{W5}Yes{W1}...{W1}{W60} That experiment{W3} was{W3} a failure.{W3}{W3}"
 
 @ERI_SEV_A:171 PLY ccb5cb89
-
+"Hahaha... experiment... huh..."
 
 @ERI_SEV_A:172 AKI/ERI/PLY 0d80b9d5
-
+"......"
 
 @ERI_SEV_A:173 ERI b73b2674
-
+"{V0051}{W10}But{W30} next time{W5} will go well."
 
 @ERI_SEV_A:174 ERI 9bba99a0
-
+"{V0052}{W15}Stay as you are,{W20} and hold still."
 
 @ERI_SEV_A:175 PLY a674dee7
-
+"Don't tell me..."
 
 @ERI_SEV_A:178 ERI bbf21e28
-
+"{V0053}{W5}Let me{W3} try what this book says.{W21}{W5}"
 
 @ERI_SEV_A:179 PLY 9d492cbe
-
+"What?!"
 
 @ERI_SEV_A:180.1 - 453f4b2b
-
+{Ti0}- W-wait, that's a problem!／- H-hold on a second!／- That experiment is the best!
 
 @ERI_SEV_A:181 PLY b0cc4508
-
+"W-wait, that's a problem!"
 
 @ERI_SEV_A:182 ERI 3d29794a
-
+"{V0054}{W5}A problem?{W6}{W60} Why?"
 
 @ERI_SEV_A:183 PLY 249b0822
-
+"Well... how do I put it, um..."
 
 @ERI_SEV_A:184 PLY b7dd4d9f
-
+(...H-huh? ...It's not actually a problem?)
 
 @ERI_SEV_A:185 PLY b1ddf0d9
-
+"H-hold on a second!"
 
 @ERI_SEV_A:186 ERI 99da5778
-
+"{V0055}{W5}Wait?{W45} Why?"
 
 @ERI_SEV_A:187 PLY 1a59222f
-
+"I need to get mentally ready..."
 
 @ERI_SEV_A:188 ERI 84239829
-
+"{V0056}{W5}I see.{W78} I will give you ten seconds."
 
 @ERI_SEV_A:189 PLY 6e848d09
-
+"Th-thank you."
 
 @ERI_SEV_A:191 ERI 4bf22c2c
-
+"{V0057}Ten...{W55} nine...{W57} eight...{W57} seven..."
 
 @ERI_SEV_A:192 PLY fb4eb0b0
-
+(Ugh... it's like a countdown, which only makes me more nervous.)
 
 @ERI_SEV_A:193 ERI 28cee3f5
-
+"{V0058}{W5}Three...{W75} two...{W90} one..."
 
 @ERI_SEV_A:194 PLY e2597910
-
+"That experiment is the best!"
 
 @ERI_SEV_A:195 ERI d54b3cee
-
+"{V0059}...{W5}Whether it is the best{W4}{W4} or not,{W33} {Eh}{Fm3}we will find out now."
 
 @ERI_SEV_A:196 PLY ca55b54c
-
+"R-right... hahaha..."
 
 @ERI_SEV_A:198 ERI b1513a01
-
+"{V0060}{W10}Do{W5} not move."
 
 @ERI_SEV_A:199 ERI 1eae2232
-
+"{V0061}{W5}{Nm},{W3} do nothing.{W5}{W39} I am{W8} trying to find out whether the cause is in me...{W4}{W4}{W12}{W5}"
 
 @ERI_SEV_A:200 ERI e8cca2a5
-
+"{V0062}{W5}If you move,{W5}{W25} I will not be able to tell..."
 
 @ERI_SEV_A:201 PLY cbb375de
-
+"H-hey! Not like this..."
 
 @ERI_SEV_A:210 PLY efa02cd1
-
+(Wh-whoa!)
 
 @ERI_SEV_A:211 ERI 4dff4c32
-
+"{V0063}......"
 
 @ERI_SEV_A:212 PLY e0561d69
-
+(Mm... mmm......)
 
 @ERI_SEV_A:213 ERI ff38b44a
-
+"{V0064}......"
 
 @ERI_SEV_A:214 PLY 721d87eb
-
+(F-Futami... not like this...)
 
 @ERI_SEV_A:216 PLY 2f943744
-
+"Pwah! Haa, haa..."
 
 @ERI_SEV_A:217 ERI fe48615e
-
+"{V0065}{W5}I told you{W5} not to move..."
 
 @ERI_SEV_A:218 PLY 6307c837
-
+"I-I can't. I couldn't breathe, either..."
 
 @ERI_SEV_A:219 PLY 2da75e8e
-
+"...So, how was it?"
 
 @ERI_SEV_A:220 ERI e0fd54d0
-
+"{V0066}{W12}Terrible{W1}...{W33} The{W1} last one{W3} was better.{W3}{W65} {Ec}Today's was the worst...{W3}{W5}"
 
 @ERI_SEV_A:221 PLY 59808b91
-
+(...Terrible, the worst... She's brutal.)
 
 @ERI_SEV_A:222 ERI b36ef3c2
-
+"{V0067}{W5}{Nm},{W3} what about you?{W55} Did it feel good?"
 
 @ERI_SEV_A:223 PLY 5f7a4730
-
+"...You ask me that, but I don't know..."
 
 @ERI_SEV_A:224 ERI 117f21d4
-
+"{V0068}{W15}I see...{W69} The experiment{W3} is a{W3} failure.{W3}{W3}"
 
 @ERI_SEV_A:225 ERI 177d3afb
-
+"{V0069}{W10}I am going home{W5} now.{W45} Goodbye.{W1}{W1}"
 
 @ERI_SEV_A:226 PLY 634f9920
-
+"Ah..."
 
 @ERI_SEV_A:230 SYS 7045b15a
-
+I don't know why Futami did that. Because I found the magazine? Because I teased her a little after reading the headlines?
 
 @ERI_SEV_A:231 SYS 6f51a4c1
-
+...Futami, reading a girls' magazine that suits her not at all, just to research kissing.
 
 @ERI_SEV_A:232 SYS bdf518a3
-
+Am I just a practice partner for kissing to her?
 
 @ERI_SEV_A:233 SYS 4520c68a
-
+Is she doing this with other guys too? ...No, she wouldn't. She's always alone...
 
 @ERI_SEV_A:234 SYS 842a1f02
-
+We had kissed, and yet only a sad feeling remained on my lips...
 
 @ERI_SEV_A:236 PLY dfd41b5a
-
+(Futami... When I just demanded that she teach me, it didn't work, but maybe...)
 
 @ERI_SEV_A:237 PLY 2a5f4b13
-
+"Futami, got a minute?"
 
 @ERI_SEV_A:238 ERI 2fcefe99
-
+"{V0070}{W5}Oh,{W8} {Nm}.{W30} What is it?{W5}"
 
 @ERI_SEV_A:239 ETB 86e27970
-
+"{V1017}{Ts1}H-{W3}hey,{W33} that guy{W30} has been coming a lot lately.{W5}{W5}{W2}{Ts2}"
 
 @ERI_SEV_A:240 ETB ffc0223b
-
+"{V1113}{Ts1}{W5}Is{W8} he{W4} a{W2} glutton{W6} for{W3} punishment{W2} or{W4} just{W2} fearless...{W48}{Ts2}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
 
 @ERI_SEV_A:241 ETB 24db42dd
-
+"{V1018}{Ts1}{W5}What{W2} did{W2} he{W8} come{W1} for{W8} today?{Ts2}{W1}"
 
 @ERI_SEV_A:242 PLY 6e09ba17
-
+"Are you free at lunch break?"
 
 @ERI_SEV_A:243 ERI 77f8b2f0
-
+"{V0071}{W8}I{W1} am{W1}... {W42}free.{W5}"
 
 @ERI_SEV_A:244 PLY f9456cd7
-
+"Then want to study together with me?"
 
 @ERI_SEV_A:245 ERI c3955622
-
+"{V0072}{W8}Hm?"
 
 @ERI_SEV_A:246 ETB a830eb08
-
+"{V1019}{Ts1}{W8}H-{W42}has he{W45} not learned{W8} from{W8} last time?{Ts2}"
 
 @ERI_SEV_A:247 ETB 233b3d55
-
+"{V1114}{Ts1}{W12}There's{W1} always{W1} one{W1}{W36} who{W4} repeats{W1} the{W1} same{W1} mistake{W8}{W5}{W2}{Ts2}{W1}{W1}"
 
 @ERI_SEV_A:248 ETB 88b5933e
-
+"{V1020}{Ts1}{W8}He'll{W5} get{W5} burned{W2} again...{W5}{W2}{Ts2}"
 
 @ERI_SEV_A:249 ERI c6dc7bd1
-
+"{V0073}{W5}Just{W3} do it{W4} together?{W1}"
 
 @ERI_SEV_A:250 PLY 08b7fcab
-
+"Right. You don't have to teach me. I'll solve it myself."
 
 @ERI_SEV_A:251 ERI 774e1220
-
+"{V0074}{W5}Then,{W30} why{W9} with me?"
 
 @ERI_SEV_A:252.1 - a0ee0a3a
-
+{Ti0}- It's more fun with two, right?／- I want help with the parts I can't figure out／- We could also do some naughty studying, right?
 
 @ERI_SEV_A:253 PLY e2d0523d
-
+"It's more fun with two, right?"
 
 @ERI_SEV_A:254 ERI 0f0630c4
-
+"{V0075}...{W5}Right."
 
 @ERI_SEV_A:255 PLY 57433ccf
-
+(H-huh? She's surprisingly agreeable...)
 
 @ERI_SEV_A:256 PLY 785e03fe
-
+"I want help with the parts I really can't figure out."
 
 @ERI_SEV_A:257 ERI 9a2dd885
-
+"{V0076}{W5}There is{W3} no point{W3} unless{W1} you{W1} solve{W4} the problem{W1} yourself.{W1}{W1}{W1}{W1}{W45}"
 
 @ERI_SEV_A:258 PLY 15056347
-
+"Ugh... that's true, but..."
 
 @ERI_SEV_A:259 ERI 6d9e6181
-
+"{V0077}...{W8}Fine.{W30} I will not teach you, but I will give you hints.{W5}{W1}{W1}{W1}{W1} {W45}If{W1} that{W1} is{W1} not{W1} enough,{W1}{W30} I{W8} do{W2} not{W1} care.{W1}{W1}{W1}"
 
 @ERI_SEV_A:260 PLY ff99bae6
-
+"Yeah, that works."
 
 @ERI_SEV_A:262 PLY 2fc56f80
-
+"We could do some naughty studying too, right?"
 
 @ERI_SEV_A:263 ERI 1d41cba0
-
+"{V0078}{W15}Yes,{W18}{Fe1m3} we could."
 
 @ERI_SEV_A:264 ERI cf8c3258
-
+"{V0079}{W8}Hmm,{W60} so{W8} that{W8} is the face you make{W5} when you{W5} are embarrassed.{W36}{Fm3} Your{W4} cheeks{W4} are red."
 
 @ERI_SEV_A:265 PLY 7aa469c1
-
+"Hahaha..."
 
 @ERI_SEV_A:266 PLY 6575befd
-
+"Then, the Library at lunch break."
 
 @ERI_SEV_A:267 ERI 429556c1
-
+"{V0080}{W5}Understood."
 
 @ERI_SEV_A:268 SYS 17be4f9e
-
+...And so I left the classroom, feeling the boys of Class 2-B staring at me in blank amazement.
 
 @ERI_SEV_A:269 PLY ae94ed47
-
+"Oh, Futami. You're already here."
 
 @ERI_SEV_A:270 ERI dbe45e1a
-
+"{V0081}{W5}{Ec}Yes."
 
 @ERI_SEV_A:271 PLY a3ae2a8d
-
+"Then let's get started."
 
 @ERI_SEV_A:272 ERI 807e2e86
-
+"{V0082}{W8}Right."
 
 @ERI_SEV_A:274 PLY 3aee974e
-
+"What are you studying, Futami?"
 
 @ERI_SEV_A:276 ERI dd111380
-
+"{V0083}{W15}The latest theories{W3}{W3}{W3} on{W4} plasma{W4} phenomena{W4} in{W4} outer{W4} space."
 
 @ERI_SEV_A:277 PLY c7b9efb4
-
+"Outer space... plasma?"
 
 @ERI_SEV_A:278 ERI 8c3fed9d
-
+"{V0084}{W8}Plasma is a state where atoms and molecules{W4}{W3}{W30} split into particles{W4}{W4} with positive and negative{W3} charges{W4}{W15} and move about{W5} wildly.{W27}{W3}{W3}"
 
 @ERI_SEV_A:279 ERI a9f1f9a1
-
+"{V0085}{W8}Typical plasma phenomena{W4} around{W4} the Earth{W4}{W4} are magnetic storms{W3}{W3}{W3}{W33} and{W8} auroras.{W5}"
 
 @ERI_SEV_A:280 PLY f4cef4f4
-
+"Wow, auroras! They're beautiful."
 
 @ERI_SEV_A:281 ERI d51fbde9
-
+"{V0086}{W8}Auroras are said{W27} to form when particles in{W4} the{W4} atmosphere{W4}{W4}{W30} collide{W4} with plasma particles{W4}{W4}{W4} in the solar wind.{W16}"
 
 @ERI_SEV_A:282 PLY 52f3ec48
-
+"The solar wind?"
 
 @ERI_SEV_A:283 ERI 6dc84f33
-
+"{V0087}{W8}It is energy{W4}{W4} thought to blow out{W8} from the sun.{W7}"
 
 @ERI_SEV_A:284 ERI 1ba27aaa
-
+"{V0088}{W8}That said,{W39} it has not{W1}{W1}{W3}{W3}{W3} all been explained yet.{W4}"
 
 @ERI_SEV_A:285 PLY ef41d492
-
+"Wow, I see."
 
 @ERI_SEV_A:286 ERI 2686df3d
-
+"{V0089}{W8}If you are interested,{W21}{W4} why not{W4} look it up yourself?{W2}"
 
 @ERI_SEV_A:287 PLY 851b6dc4
-
+"Good idea."
 
 @ERI_SEV_A:288 SYS 8d96b642
-
+...And so we studied together.
 
 @ERI_SEV_A:289 PLY f8b2ba20
-
+(Oh, there's a light on in the Science Lab...)
 
 @ERI_SEV_A:290 PLY db8a4265
-
+(Looks like Futami is in there.)
 
 @ERI_SEV_A:293 PLY f2fdc86a
-
+"Futami."
 
 @ERI_SEV_A:294 ERI 1d608b4e
-
+"{V0096}{W8}Oh, {Nm}."
 
 @ERI_SEV_A:295 PLY 8f7eb314
-
+"What are you doing?"
 
 @ERI_SEV_A:296 ERI 9e765678
-
+"{V0097}...{W5}I am looking at the alcohol lamp."
 
 @ERI_SEV_A:297 PLY 7cb658b8
-
+"Huh...?"
 
 @ERI_SEV_A:298 ERI a7627b48
-
+"{V0098}{W8}Watching the flame of an alcohol lamp{W8}{W30} calms me.{W2}{W2}{W1}{W1}"
 
 @ERI_SEV_A:299 PLY 291e60a0
-
+"Really...?"
 
 @ERI_SEV_A:300 PLY 525ee140
-
+(She really is an odd one... Futami...)
 
 @ERI_SEV_A:302 ERI c06d7fa0
-
+"{V0099}{W10}Why not sit?{W4}{W1} {W39}The coffee will be ready soon.{W2}"
 
 @ERI_SEV_A:303 PLY fa4aecbd
-
+"What?!"
 
 @ERI_SEV_A:304 PLY 60ecaccf
-
+"Don't tell me... you're making coffee with lab equipment?!"
 
 @ERI_SEV_A:305 ERI 79adc7ca
-
+"{V0100}{W5}Why{W5}{W3} are you so surprised?{W8}"
 
 @ERI_SEV_A:306 ERI 26f55a1d
-
+"{V0101}{W8}It works the same as a siphon,{W4}{W2}{W2} so it tastes good.{W9}"
 
 @ERI_SEV_A:307 PLY 21d84c9d
-
+"Ugh... that may be true, but..."
 
 @ERI_SEV_A:310 ERI f2ecbdf8
-
+"{V0102}{W8}There, it is done.{W45}{Eo} Science Lab{W3} Coffee{W3} Experiment{W2} Blend.{W4}"
 
 @ERI_SEV_A:311 ERI 7803f65c
-
+"{V0103}{W8}You will have some too, {Nm},{W3} right?"
 
 @ERI_SEV_A:312 PLY ff5411af
-
+(Ugh... it's an Erlenmeyer flask...)
 
 @ERI_SEV_A:313.1 - 5680332e
-
+{Ti0}- Of course, I'll have some／- That's a bit...／- Best experiment ever!
 
 @ERI_SEV_A:314 PLY bd38e0f1
-
+"Of course, I'll have some."
 
 @ERI_SEV_A:315 ERI 5d35edda
-
+"{V0104}{W8}Fufu."
 
 @ERI_SEV_A:316 PLY bd263dcc
-
+"That's a bit..."
 
 @ERI_SEV_A:317 ERI 0dd35e19
-
+"{V0105}{W8}Why?"
 
 @ERI_SEV_A:318 PLY c020e287
-
+"Why, you ask..."
 
 @ERI_SEV_A:319 PLY de52b074
-
+(Hmm... I feel like nothing I say will matter...)
 
 @ERI_SEV_A:320 PLY b720615b
-
+"I'll have some after all."
 
 @ERI_SEV_A:321 ERI 5edc0c94
-
+"{V0106}{W5}Really?"
 
 @ERI_SEV_A:322 ERI 133f0860
-
+"{V0107}{W8}Whether it is the best{W4}{W4}{W45} or not, {F1}{Eo}I would like you to taste{W3} it first."
 
 @ERI_SEV_A:323 PLY 9d6abc0b
-
+"Hahaha, right."
 
 @ERI_SEV_A:324 PLY 30c477dc
-
+"You're not going to serve it in the flask, are you? Where's a mug?"
 
 @ERI_SEV_A:326 ERI 9aa7c745
-
+"{V0108}{W10}A mug?{W3}{W3}{W5} {W45}{F7}A beaker will do.{W1}"
 
 @ERI_SEV_A:327 PLY 5dc2e715
-
+"A-a beaker?! That's a bit..."
 
 @ERI_SEV_A:328 ERI d370a859
-
+"{V0109}{W15}Why?{W60} It is made of heat-resistant{W3}{W3} glass,{W3} so it will not break."
 
 @ERI_SEV_A:329 PLY b3063f86
-
+"I'm sure that's true, but..."
 
 @ERI_SEV_A:330 ERI 0948b62b
-
+"{V0110}{W8}Hold it by the rim, or it will be hot.{W4}{W16} {Eh}Be careful."
 
 @ERI_SEV_A:331 PLY 3d286815
-
+"No, in that case, a mug..."
 
 @ERI_SEV_A:332 SYS 771bc316
-
+Do geniuses just not worry about the little things? Or does their devotion to rationality carry them far from ordinary sense?
 
 @ERI_SEV_A:333 SYS 277f3784
-
+The coffee in the flask was poured mercilessly into a beaker and put into my hands.
 
 @ERI_SEV_A:334 SYS 37165613
-
+...If I don't finish this, I can't get close to her? How absurd...
 
 @ERI_SEV_A:335 SYS d361167b
-
+She was staring at me as I hesitated. Observing me?! I'm being observed?!
 
 @ERI_SEV_A:336 SYS 69ea1840
-
+...I closed my eyes and took a sip.
 
 @ERI_SEV_A:337 PLY 0c4fa84a
-
+"Oh, it's good."
 
 @ERI_SEV_A:338 ERI f8df65ef
-
+"{V0111}{W8}Is it?{W27} Good."
 
 @ERI_SEV_A:339 PLY 5de4e4ec
-
+"The sourness and bitterness are blended really well."
 
 @ERI_SEV_A:340 ERI b2a4997d
-
+"{V0112}{W5}Ah...{W30} that is because{W30} I ran short of coffee grounds,{W4}{W18} {F9}so I mixed in another{W2}{W2}{W3} kind..."
 
 @ERI_SEV_A:341 PLY 5cf5173c
-
+"Oh, I see."
 
 @ERI_SEV_A:342 ERI 941e8342
-
+"{V0113}{W8}Yes.{W30} In a mortar.{W4}{W3}"
 
 @ERI_SEV_A:343 PLY ae839ea3
-
+"A mortar? You mean that small white bowl they use in experiments?"
 
 @ERI_SEV_A:344 ERI 50b6997b
-
+"{V0114}{W5}Yes."
 
 @ERI_SEV_A:345 PLY 382810ca
-
+"Hahaha..."
 
 @ERI_SEV_A:346 SYS f67f7f64
-
+...And so I had coffee with Futami.
 
 @ERI_SEV_A:347 PLY 18843f02
-
+(Huh? There's a letter in my desk...)
 
 @ERI_SEV_A:348 PLY cfa080a2
-
+(Who's it from? A c-confession? My heart is pounding...)
 
 @ERI_SEV_A:349 SYS f3163e21
-
+{Ti0}{Ti2}"Come behind the school at lunch break."
 
 @ERI_SEV_A:350 PLY 7b978f7f
-
+(There's no sender's name... Who would summon me with a letter?)
 
 @ERI_SEV_A:351 PLY 10ecff5e
-
+(Well, I'll go at lunch break and see.)
 
 @ERI_SEV_A:352 PLY 39503184
-
+(Okay, it's lunch break. Time to go behind the school.)
 
 @ERI_SEV_A:353 PLY fb8a186e
-
+(...Still, who sent me that letter?)
 
 @ERI_SEV_A:354 - 51706724
-
+(
 
 @ERI_SEV_A:355 - daed56f6
-
+Is it? My heart is pounding...)
 
 @ERI_SEV_A:356 - 64c62dc2
-
+A girl
 
 @ERI_SEV_A:357 ERI 384dbf0d
-
+"{V0115}{W5}Oh,{W15} {Nm},{W15} {Ec}heh,{W18} {Eo}you came, you came.{W1}{W1}{W1}"
 
 @ERI_SEV_A:358 - 1b0e2fca
-
+Futami
 
 @ERI_SEV_A:359 PLY 87293ab9
-
+"Huh? You sent the letter, Futami?"
 
 @ERI_SEV_A:360 ERI 767c733a
-
+"{V0116}{W8}Yes.{W30} Why?"
 
 @ERI_SEV_A:361 PLY 06902036
-
+"Well, there was no sender's name..."
 
 @ERI_SEV_A:362 ERI 8a274a05
-
+"{V0117}{W8}Ah..."
 
 @ERI_SEV_A:363 ERI 8a615730
-
+"{V0118}{W30}How{W3}{W2} careless,{W66} forgetting{W3} to write{W3} my own{W2} name."
 
 @ERI_SEV_A:364 PLY c143bb33
-
+"So, what do you need? Did something happen?"
 
 @ERI_SEV_A:365 PLY e7dbdb49
-
+(Futami... maybe...?)
 
 @ERI_SEV_A:366 PLY 99204e6f
-
+(Could it be Futami? My heart is pounding...)
 
 @ERI_SEV_A:367 ERI 5b16989a
-
+"{V0119}{W5}Oh, {Nm},{W3} {Ec}heh,{W21} {Eo}you came, you came."
 
 @ERI_SEV_A:368 PLY 9284dee0
-
+"Oh, so it was you, Futami."
 
 @ERI_SEV_A:369 ERI 6ef97d7d
-
+"{V0120}{W8}Hm?{W18} What do you mean, "so it was"?"
 
 @ERI_SEV_A:370 PLY 699fed7d
-
+"There was no sender's name on that letter."
 
 @ERI_SEV_A:371 ERI d86baf71
-
+"{V0121}{W8}Ah..."
 
 @ERI_SEV_A:373 ERI 47091ae7
-
+"{V0122}{W10}How{W2}{W3} careless,{W48} forgetting to write my own{W3} name.{W2}{W2}"
 
 @ERI_SEV_A:374 PLY 58de509b
-
+"But somehow I had a feeling it was you."
 
 @ERI_SEV_A:375 ERI ef2bf6d1
-
+"{V0123}{W8}Really?{W4}"
 
 @ERI_SEV_A:376 PLY 469f8c21
-
+"Really."
 
 @ERI_SEV_A:377 ERI 83c4c40f
-
+"{V0124}{W5}I see."
 
 @ERI_SEV_A:378 PLY 612ed1bd
-
+"So, what do you need?"
 
 @ERI_SEV_A:379 ERI 72bb4446
-
+"{V0125}{W8}Nothing in particular.{W4}{W4}{W60} I thought{W3} you,{W3}{W5} {Nm}, would surely come."
 
 @ERI_SEV_A:380 PLY 876a2929
-
+"I see..."
 
 @ERI_SEV_A:381 ERI 7ade7cca
-
+"{V0126}...It is something I wanted to do{W15}{W3}{W3} once I had a friend."
 
 @ERI_SEV_A:382 ERI d25c9220
-
+"{V0127}{W8}When I was in elementary school,{W4}{W4}{W4}{W45} everyone would call each other out with{W4} letters{W3} and exchange them...{W9}"
 
 @ERI_SEV_A:383 ERI 37a7cca2
-
+"{V0128}{W8}I envied that very much..."
 
 @ERI_SEV_A:384 ERI 0390e046
-
+"{V0129}{W8}But{W1}{W45} once is{W4} enough{W4} to satisfy me.{W9}{W70}{Fe4}{Ec} I was glad you came, {Nm}."
 
 @ERI_SEV_A:385 PLY 0cb417d1
-
+"No, something like this... it's no big deal..."
 
 @ERI_SEV_A:386 ERI 9e10442e
-
+"{V0130}{W8}Thank you.{W33} See you."
 
 @ERI_SEV_A:387 PLY e03a6130
-
+"Yeah, see you."
 
 @ERI_SEV_A:388 PLY 5b20d7d4
-
+(It's already evening... Another day over.)
 
 @ERI_SEV_A:389 PLY 33a2b2f9
-
+(Come to think of it, I met Futami on an evening like this.)
 
 @ERI_SEV_A:391 PLY e3b6b378
-
+"Oh, Futami."
 
 @ERI_SEV_A:392 ERI 76d73305
-
+"{V0131}{W5}Oh, {Nm}."
 
 @ERI_SEV_A:393 ERI 8fb94a82
-
+"{V0132}{W5}What?{W35} You are staring."
 
 @ERI_SEV_A:394 PLY a6a74b51
-
+"Nothing, I was remembering when we first met."
 
 @ERI_SEV_A:395 ERI 400e8999
-
+"{V0133}{W8}Were you?{W75}{Ti2} ...Come to think of it,{W45} that was when I{W8} was flying{W3} a paper airplane.{W3}{W1}"
 
 @ERI_SEV_A:396 PLY 75187586
-
+"Right. Back then, you looked..."
 
 @ERI_SEV_A:397.1 - afd43d00
-
+{Ti0}- lonely／- precarious／- happy
 
 @ERI_SEV_A:398 PLY e14d3d63
-
+"Lonely."
 
 @ERI_SEV_A:399 ERI 56e435e8
-
+"{V0134}{W10}I see...{W39} {Nm}{W3}, that is how{W9} you{W4} felt."
 
 @ERI_SEV_A:400 PLY e4cc4c41
-
+"Was I wrong?"
 
 @ERI_SEV_A:401 ERI b2a73fbd
-
+"{V0135}{W5}Looking back{W5} now,{W30} I{W4} think I was lonely."
 
 @ERI_SEV_A:402 ERI 793085c0
-
+"{V0136}{W8}Heh...{W45}{Eo} Compared to how I am now,{W8} talking{W4} with you, {Nm},{W3}{W4}{W32}{Ec}{W5}{F6}{Eo} the me until{W8} now{W8}{W13}{Ec}{Fm3} all looked lonely."
 
 @ERI_SEV_A:403 PLY 96c363c5
-
+"Precarious."
 
 @ERI_SEV_A:404 ERI 3c1de057
-
+"{V0137}{W8}I{W1} see...{W72}{Ec} That is how{W4} you{W3}{W3} felt, {Nm}."
 
 @ERI_SEV_A:405 ERI 96135cd5
-
+"{V0138}{W8}You are not{W4} wrong.{W4}{W55} ...Looking back now,{W33} I think I was strained."
 
 @ERI_SEV_A:406 PLY 76098d38
-
+"I thought you might jump."
 
 @ERI_SEV_A:407 ERI 049ade81
-
+"{V0139}...{W5}Somewhere{W3} inside, I think I want{W3} to destroy{W3} myself.{W2}{W28} Probably...{W30}{Ec}"
 
 @ERI_SEV_A:408 PLY 8c8c658f
-
+"The trauma you mentioned the other day?"
 
 @ERI_SEV_A:409 ERI bae85ec7
-
+"{V0140}...{W5}Perhaps."
 
 @ERI_SEV_A:410 PLY 7e213ca3
-
+"Happy."
 
 @ERI_SEV_A:411 ERI 899d2e9d
-
+"{V0141}{W5}I see...{W36} That is how{W3} you{W3} felt, {Nm}."
 
 @ERI_SEV_A:412 ERI 31d88e96
-
+"{V0142}{W8}You are not wrong.{W3}{W30} I{W3} was happy."
 
 @ERI_SEV_A:413 ERI 0ae316b6
-
+"{V0143}{W8}Meeting{W3} you,{W1} {Nm}...{W1}{W54}{Ec} made me happy.{W4}"
 
 @ERI_SEV_A:414 PLY 7840d284
-
+"Lately, your whole mood has changed, Futami."
 
 @ERI_SEV_A:415 ERI ee19e37e
-
+"{V0144}{W8}Has it?{W1}"
 
 @ERI_SEV_A:416 PLY 78c5da13
-
+"Well, you don't glare at me with those scary eyes anymore."
 
 @ERI_SEV_A:417 ERI 51f98827
-
+"{V0145}{W5}Heh,{W45}{Fe9}{Eo} that is a coincidence.{W4}{W4}"
 
 @ERI_SEV_A:419 ERI ba496326
-
+"{V0146}{W8}I have not changed{W1}{W1}{W1}{W1}{W30} as{W3} much as you say, {Nm}.{W3}"
 
 @ERI_SEV_A:420 PLY a913a29e
-
+(Even when she glares, somehow she seems kinder.)
 
 @ERI_SEV_A:421 SYS ddcb11bf
-
+...And so I spent the time with Futami on the Rooftop.
 
 @ERI_SEV_A:422 AKI ada06b90
-
+"{Nm}, {V0064}{W13}you've got a visitor."
 
 @ERI_SEV_A:423 PLY bb04dd2f
-
+"Huh? Who is it?"
 
 @ERI_SEV_A:425 ERI 14bb8b5f
-
+"{Nm}."
 
 @ERI_SEV_A:426 PLY f7abb570
-
+"Ah! F-Futami!"
 
 @ERI_SEV_A:427 ERI 595426f0
-
+"{V0148}{W8}{Ec}He{W5}h,{W60} {Eo}why are you so{W6} surprised?"
 
 @ERI_SEV_A:428 PLY ead6b97b
-
+"Well... this is the first time you've come to our classroom, isn't it?"
 
 @ERI_SEV_A:429 ERI 5446d268
-
+"{V0149}{W5}Huh? {W30}Is{W2} it{W16}... really?"
 
 @ERI_SEV_A:430 PLY 9c913fbc
-
+"Hey, Hiiragi."
 
 @ERI_SEV_A:431 AKI dfea58f8
-
+"{V0065}{W10}Right.{W60} At least I've{W10} never seen you here."
 
 @ERI_SEV_A:432 ERI aa5c2f7c
-
+"{V0150}{W5}Your{W3} friend,{W4} {Nm}?"
 
 @ERI_SEV_A:433 PLY 4df73641
-
+"Yeah. His name is Hiiragi."
 
 @ERI_SEV_A:434 AKI 9f7b2630
-
+"{V0066}{W10}Nice{W2} to meet you,{W58} I'm{W4} Hiiragi{W4} Akira."
 
 @ERI_SEV_A:435 ERI c6c4d7b6
-
+"{V0151}{W5}Nice{W4} to meet you,{W15} Hiiragi.{W72} {Eh}I{W8} am{W3} Futami Eriko."
 
 @ERI_SEV_A:436 PLY 42063a11
-
+(Ugh... she just called Hiiragi by his bare name... That's so Futami.)
 
 @ERI_SEV_A:437 AKI fee377e1
-
+"{V0067}I know.{W60} You're{W3} a{W3} celebrity, after all."
 
 @ERI_SEV_A:438 ERI 21327b76
-
+"{V0152}{W8}Am{W1} I?{W1} {W48}{Eo}Good,{W1} that{W4} saves{W4} me{W4} an{W4} introduction.{W1}"
 
 @ERI_SEV_A:439 PLY 8b77c230
-
+"By the way, Futami, didn't you come to see me?"
 
 @ERI_SEV_A:440 ERI c49a16db
-
+"{V0153}{W7}Ah,{W30} right."
 
 @ERI_SEV_A:441 ERI 4ded8a8b
-
+"{V0154}{W8}If you{W4} haven't{W6} had lunch yet,{W8} I thought{W2} we could{W3} eat together."
 
 @ERI_SEV_A:442 PLY 672b08b2
-
+"Sure, I haven't eaten yet."
 
 @ERI_SEV_A:443 AKI 38b06a02
-
+"{Nm},{V0068}{W8} you{W7}..."
 
 @ERI_SEV_A:444 PLY c23b60a4
-
+"See you, Hiiragi."
 
 @ERI_SEV_A:445 PLY b05afe31
-
+"Is the Cafeteria okay, Futami?"
 
 @ERI_SEV_A:446 ERI f1b2fb5c
-
+"{V0155}{W8}Yes."
 
 @ERI_SEV_A:447 SYS 9b62b0c5
-
+...And so I left Hiiragi behind and walked out of the classroom.
 
 @ERI_SEV_A:448 SYS e008730e
-
+Hiiragi's stunned face was so funny that we kept laughing all the way to the Cafeteria.
 
 @ERI_SEV_A:449 SYS 515f30e4
-
+It was a fun lunch...
 
 @ERI_SEV_A:450 PLY 9e438581
-
+(I wonder if Futami is here?)
 
 @ERI_SEV_A:451 PLY 603ba405
-
+(Huh? She's not here... It's not time to go home yet. Where did she go...)
 
 @ERI_SEV_A:452.1 - 999eb93f
-
+{Ti0}- Rooftop／- Terrace
 
 @ERI_SEV_A:453 PLY 843027d5
-
+(She must be on the Rooftop.)
 
 @ERI_SEV_A:454 PLY f5f9443e
-
+(Maybe the Terrace...? Let's go see.)
 
 @ERI_SEV_A:455 PLY e69c85ad
-
+(She's not here...)
 
 @ERI_SEV_A:456 PLY 89bae443
-
+(Come to think of it, she'd never come to the Terrace. She must be on the Rooftop.)
 
 @ERI_SEV_A:457 PLY 1be41fa3
-
+(Where's Futami... Ah, there she is.)
 
 @ERI_SEV_A:458 ERI 259c2e7d
-
+"{V0156}{W5}Ah, {Nm}."
 
 @ERI_SEV_A:460 PLY e646dbac
-
+"I thought you'd be here."
 
 @ERI_SEV_A:461 ERI d36a7f9e
-
+"{V0157}{W8}What?"
 
 @ERI_SEV_A:462 PLY 6705b712
-
+"You weren't in the Science Prep Room, so I figured you'd be here."
 
 @ERI_SEV_A:463 ERI bae45ce1
-
+"{V0158}{W8}I see...{W45} Is{W8} my{W3} behavior{W4} that{W4} simple?{W43}"
 
 @ERI_SEV_A:464 PLY e764263a
-
+"Well, you're very clear about what you like and dislike, Futami."
 
 @ERI_SEV_A:465 ERI 8537b241
-
+"{V0159}{W5}...Right.{W45} You're{W3} correct, {Nm}."
 
 @ERI_SEV_A:466 ERI 5ff7718e
-
+"{V0160}{W15}So,{W39} did{W8} you need{W4} something{W2} from me?"
 
 @ERI_SEV_A:467 PLY 05b5dc59
-
+"No, not really... I just wanted to see you, Futami..."
 
 @ERI_SEV_A:468 ERI 455dd484
-
+"{V0161}{W8}Oh..."
 
 @ERI_SEV_A:470 ERI e32b4ccc
-
+"{V0162}{W8}Y-{W45}you're{W9} such{W4} an{W6} oddball."
 
 @ERI_SEV_A:471 PLY 6c2a5340
-
+(Futami's cheeks are red... I don't think I've ever seen her look like this.)
 
 @ERI_SEV_A:472 ERI 3112e43d
-
+"{V0163}{W15}What{W5} is it?{W15} {Nm}.{W15} Staring at me like that."
 
 @ERI_SEV_A:473 PLY 8486f5f8
-
+"Futami, your cheeks are red."
 
 @ERI_SEV_A:474 ERI f6523e79
-
+"{V0164}{W8}What?{W12} No way..."
 
 @ERI_SEV_A:475 ERI 78dea466
-
+"{V0165}{W8}I-{W30}it's the{W4} sunset.{W45} It's just{W3} dyeing{W3} me red."
 
 @ERI_SEV_A:476 PLY 4322a186
-
+"Yeah, you're probably right."
 
 @ERI_SEV_A:477 ERI 66b52753
-
+"{Nm}..."
 
 @ERI_SEV_A:478 ERI 8788e9cb
-
+"{V0167}{W5}...{W5}Somehow{W4} this{W21} is{W4} annoying.{W39} It feels like you see right through me."
 
 @ERI_SEV_A:479 PLY d82cc12f
-
+"Hahaha... Somehow I'm a little happy about it."
 
 @ERI_SEV_A:480 ERI adef32db
-
+"{V0169}{W10}I{W1} suppose{W1} so.{W80} {Fm3}...{W6}I{W9} am{W30} happy too."
 
 @ERI_SEV_A:482 - cf3a2302
-
+Hoshino
 
 @ERI_SEV_A:483 - a6a0b189
-
+Narumi
 
 @ERI_SEV_A:484 - 0e688034
-
+Mao
 
 @ERI_SEV_A:485 - 1b734b38
-
+Sakino
 
 @ERI_SEV_A:486 - 79f76ab3
-
+Futami
 
 @ERI_SEV_A:487 - 5c0ee812
-
+Shijou
 
 @ERI_SEV_A:501 - abfd2a28
-
+{Ti0}- 
 
 @ERI_SEV_A:502 - aa0278c5
-
+?- 
 
 @ERI_SEV_A:503 - b2d22bbc
-
+?
 
 @ERI_SEV_A:504 - aca5216c
-
+?- Or maybe...
 
 @ERI_SEV_A:505.1 - f470b893
-
+{Ti0}- Hoshino?　　　　　- Narumi?／- Mao?　　　　　- Sakino?／- Futami?　　　　　- Shijou?

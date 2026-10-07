@@ -2,2008 +2,2008 @@
 # Format: docs/translation-format.md
 
 @MIT_MW2_A:21 PLY 83a24e40
-
+"When you go to a cake shop or a bakery, don't you end up buying a lot, thinking 'I want this, and that, too'?"
 
 @MIT_MW2_A:27 MIT 394ccb3b
-
+"{V2025}{W5}Fufu,{W60} yes, indeed."
 
 @MIT_MW2_A:29 MIT 21fddc8a
-
+"{V2026}{W8}I want shortcake,{W35} and gateau chocolat,{W20} and Mont Blanc, too."
 
 @MIT_MW2_A:30 MIT 23996718
-
+"{V2027}{W8}So I have decided{W45} to buy only{W8} one or{W8} two cakes.{W15}{W60} Even if I buy a lot,{W15} I cannot {Ec}finish them all."
 
 @MIT_MW2_A:31 PLY 01a7b70e
-
+"I bought some the other day, though..."
 
 @MIT_MW2_A:32 MIT 26ffb133
-
+"{V2028}{W5}......"
 
 @MIT_MW2_A:34 MIT cd650ea1
-
+"{V2029}{W8}Hehe,{W60} I do not quite understand,{W25} but it sounds {Ec}interesting.{W8}{W8}"
 
 @MIT_MW2_A:35 PLY 1ad3ea09
-
+"I bet your everyday clothes are young lady fashion, Shijou."
 
 @MIT_MW2_A:38 MIT 9659f71c
-
+"{V2030}{W15}N-{W45}not at all.{W35} {F9}They are ordinary."
 
 @MIT_MW2_A:39 PLY d2cbf6bf
-
+"What's your favorite color, Shijou?"
 
 @MIT_MW2_A:40 MIT 0a766a9e
-
+"{V2031}{W15}White.{W55} Most of the clothes I own{W25} are white."
 
 @MIT_MW2_A:41 PLY f8e6dd10
-
+"What kind of clothes do you like on a guy?"
 
 @MIT_MW2_A:42 MIT f7599fc8
-
+"{V2032}{W8}If they suit him,{W25} I think that is enough."
 
 @MIT_MW2_A:43 PLY b00910d7
-
+"What's the accessory you treasure most?"
 
 @MIT_MW2_A:44 MIT 1bb210c0
-
+"{V2033}{W8}The pearl necklace{W45} Mother gave me{W45} on my fifteenth birthday."
 
 @MIT_MW2_A:46 MIT 83a46a50
-
+"{V2034}{W8}Pearls shine{W25} white{W15} and{W15} modest.{W45} {Eo}They are my favorite jewel."
 
 @MIT_MW2_A:47 MIT 2f0abfc3
-
+"{V2035}{W10}A guest{W8} who visited the other day{W40} taught me how to make bead accessories."
 
 @MIT_MW2_A:49 MIT fd7c081c
-
+"{V2036}{W8}You can easily{W35} make necklaces and{W18} bracelets to your taste,{W35} and it was {Ec}great fun."
 
 @MIT_MW2_A:50 PLY 8937ed67
-
+"These days there are even guys who wear makeup."
 
 @MIT_MW2_A:51 MIT 5b06c854
-
+"{V2037}{W15}So it seems."
 
 @MIT_MW2_A:52 PLY 8ccf16cf
-
+"What do you think about that?"
 
 @MIT_MW2_A:53 MIT ef475d25
-
+"{V2038}{W8}A little{W25} is fine,{W60} but I feel going too far{W8} is best avoided..."
 
 @MIT_MW2_A:54 PLY 1b758669
-
+"Hahaha, true."
 
 @MIT_MW2_A:55 PLY ffbec8cd
-
+"Cosmetics look pretty expensive, huh."
 
 @MIT_MW2_A:56 MIT e50ade7f
-
+"{V2039}{W10}I am{W45} fine,{W10} since I share{W8} Mother's."
 
 @MIT_MW2_A:57 MIT 4a81c913
-
+"{V2040}{W8}Besides,{W35} I do not need expensive{W8} serums{W35} yet."
 
 @MIT_MW2_A:58 PLY 1d5ca0d9
-
+"I think a bikini would look good on you, Shijou."
 
 @MIT_MW2_A:59 MIT 958f9d82
-
+"{V2041}{W15}What?!{W30} R-{W35}really?"
 
 @MIT_MW2_A:60 PLY cc4af171
-
+"Yeah."
 
 @MIT_MW2_A:61 MIT 1ef73cbe
-
+"{V2042}{W8}...{W15}O{W8}kay."
 
 @MIT_MW2_A:62 PLY b80f1986
-
+(Shijou in a school swimsuit...)
 
 @MIT_MW2_A:63 MIT b6342718
-
+"{V2043}{W8}...Is something wrong?{W40} You suddenly fell silent..."
 
 @MIT_MW2_A:64 PLY 45d02cae
-
+"Ah... no, it's just... I was thinking you're, um, flat-chested..."
 
 @MIT_MW2_A:65 MIT f665fc62
-
+"{V2044}{W15}What?!"
 
 @MIT_MW2_A:66 MIT 772cb77b
-
+"{V2046}{W8}Master, you {Ec}pervert!{Sp}"
 
 @MIT_MW2_A:67 MIT 746e4de4
-
+"{V2045}{W8}Pervert!{Sp}"
 
 @MIT_MW2_A:68 PLY 3a4b0a19
-
+"Swimsuits these days..."
 
 @MIT_MW2_A:69 MIT 9ce44303
-
+"{V2047}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:71 MIT 8e17fa79
-
+"{V2048}{W10}Yes, indeed.{W40} There is a rich variety."
 
 @MIT_MW2_A:72 PLY c4f767fc
-
+"Do you often go out to eat with your family?"
 
 @MIT_MW2_A:73 MIT f58fca10
-
+"{V2049}{W8}Yes.{W45} We go out{W10} once a month."
 
 @MIT_MW2_A:74 MIT b77c9d94
-
+"{V2050}{W8}Father has a restaurant he frequents.{W45} It has a very elegant atmosphere."
 
 @MIT_MW2_A:75 PLY 3b0072f5
-
+"Your home is such a mansion, so your mother probably doesn't cook, right?"
 
 @MIT_MW2_A:76 MIT 3b29576e
-
+"{V2051}{W10}Correct.{W45} We usually leave it to the chef."
 
 @MIT_MW2_A:77 MIT c0738840
-
+"{V2052}{W8}But{W35} on family birthdays{W40} and at Christmas,{W38} Mother herself{W30} shows her skill."
 
 @MIT_MW2_A:78 PLY 47c9543b
-
+"Wow."
 
 @MIT_MW2_A:79 MIT f46d5df9
-
+"{V2053}{W10}I...{W60} {Ec}love the mince pies{W15} that Mother makes."
 
 @MIT_MW2_A:80 PLY b687e173
-
+"You like England, don't you, Shijou?"
 
 @MIT_MW2_A:81 MIT 7afe5090
-
+"{V2054}{W8}Yes,{W40} I do."
 
 @MIT_MW2_A:82 PLY efbbce53
-
+"Don't you eat English food?"
 
 @MIT_MW2_A:83 MIT ce637418
-
+"{V2055}{W10}En{W8}gland{W8} has...{W80} few delicious dishes."
 
 @MIT_MW2_A:84 PLY 542af83a
-
+"Oh, I see..."
 
 @MIT_MW2_A:85 MIT b92c33ad
-
+"{V2056}{W8}The only ones eaten all over the world{W50} are {P3}{F3}roast beef and sandwiches."
 
 @MIT_MW2_A:86 PLY 899e22f7
-
+"Oh, those two are English food?"
 
 @MIT_MW2_A:87 MIT 41c9e8e8
-
+"{V2057}{W8}Yes.{W45} Traditional{W8} English{W8} cuisine."
 
 @MIT_MW2_A:88 PLY c0c3662d
-
+"The sandwiches you brought were delicious."
 
 @MIT_MW2_A:90 MIT 30fb91fa
-
+"{V2058}{W10}The ham cutlet bun{W8} you shared with me{W48} was also {Ec}very delicious."
 
 @MIT_MW2_A:93 MIT c07fe357
-
+"{V2059}{W15}Please trade with me {Ec}again."
 
 @MIT_MW2_A:94 PLY 0ab3d007
-
+"Of course!"
 
 @MIT_MW2_A:95 PLY 85ca7f3a
-
+"Is fruitcake hard to make?"
 
 @MIT_MW2_A:96 MIT b99f2348
-
+"{V2060}{W8}No,{W20} it is easy.{W35} You just mix and bake,{W35} so anyone can make it."
 
 @MIT_MW2_A:97 PLY ca29a075
-
+"The food at your house..."
 
 @MIT_MW2_A:98 MIT 22065f9a
-
+"{V2061}{W10}...{W10}...{W10}"
 
 @MIT_MW2_A:99 MIT eaeec686
-
+"{V2062}{W10}Yes.{W55} The chef makes{W8} it with all his heart."
 
 @MIT_MW2_A:100 PLY 1faed054
-
+"Different cakes get popular every year, huh."
 
 @MIT_MW2_A:101 MIT ab5868e1
-
+"{V2063}{W8}Yes,{W8} indeed.{W45} Recently,{W40} {F3}roll{W8} cakes were popular."
 
 @MIT_MW2_A:102 MIT 077b6735
-
+"{V2064}{W8}Rolling a roll cake into a spiral{W35} is surprisingly difficult."
 
 @MIT_MW2_A:103 PLY 9d9bf85c
-
+"What's your favorite cake, Shijou?"
 
 @MIT_MW2_A:104 MIT 22608c5c
-
+"{V2065}As for cake...{W52}{P2}{F3} I like Mont Blanc."
 
 @MIT_MW2_A:105 PLY 943d542b
-
+"Then the delicious season is coming soon."
 
 @MIT_MW2_A:107 MIT d6edcdc2
-
+"{V2066}{W10}Yes.{W45} I am looking forward to it."
 
 @MIT_MW2_A:108 PLY 5d48c6c2
-
+"On a hot day, nothing beats ice cream."
 
 @MIT_MW2_A:109 MIT 69491d98
-
+"{V2067}{W15}Fufu,{W45} yes, indeed."
 
 @MIT_MW2_A:110 PLY 1e326ad7
-
+"What flavor of ice cream do you like?"
 
 @MIT_MW2_A:112 MIT 87b47089
-
+"{V2068}{W8}I like vanilla ice cream{W25} with fruit sauce.{W45} {Ec}You can enjoy a combination of many flavors."
 
 @MIT_MW2_A:113 PLY 1c26e4c7
-
+"Spending time with homemade cake and tea was somehow really special."
 
 @MIT_MW2_A:114 MIT d53cf3c0
-
+"{V2069}{W8}Next{W40} I will bring madeleines.{W45} I am good at baking sweets."
 
 @MIT_MW2_A:115 PLY 57fda8e4
-
+"There are all kinds of sweets, but..."
 
 @MIT_MW2_A:116 MIT b3542fd9
-
+"{V2070}{W8}...{W10}...{W8}"
 
 @MIT_MW2_A:117 MIT c26bcdef
-
+"{V2071}{W8}Yes, indeed.{W45} I{W20} prefer them less{W20} sweet, too."
 
 @MIT_MW2_A:118 PLY eb861bed
-
+"You like tea, don't you, Shijou?"
 
 @MIT_MW2_A:119 MIT 5f6cf968
-
+"{V2072}{W10}Yes,{W45} very much."
 
 @MIT_MW2_A:120 PLY f51ce717
-
+"Is there a season when tea is best?"
 
 @MIT_MW2_A:121 MIT 2fe0199c
-
+"{V2073}{W8}Spring picking{W45} is called first flush,{W40} and summer picking{W45} second flush."
 
 @MIT_MW2_A:122 MIT 861a46b2
-
+"{V2074}{W10}First flush has a strong aroma,{W45} and second flush{W20} has a{W5} deep{W10} flavor."
 
 @MIT_MW2_A:123 PLY 79dcaf9d
-
+"How is royal milk tea different from regular milk tea?"
 
 @MIT_MW2_A:124 MIT 435cd401
-
+"{V2075}{W8}You do not simply{W35} pour milk into a cup of tea..."
 
 @MIT_MW2_A:125 MIT 0eb80a75
-
+"{V2076}{W8}You put the tea and milk{W35} in a milk pan{W35} and bring it to a boil.{W20} That is royal milk tea."
 
 @MIT_MW2_A:126 PLY 5cf5173c
-
+"Wow, I see."
 
 @MIT_MW2_A:127 MIT 0f088541
-
+"{V2077}So,{W30} the flavor and aroma.{W50} {Eo}are stronger than regular milk tea."
 
 @MIT_MW2_A:128 PLY 787fbb65
-
+"The tea you made for me was delicious."
 
 @MIT_MW2_A:129 MIT 215bb6e3
-
+"{V2078}{W8}Fufu,{W50} I am glad."
 
 @MIT_MW2_A:130 MIT 04723415
-
+"{V2079}{W8}Please let me join you{.} again."
 
 @MIT_MW2_A:131 PLY 63ddd262
-
+"S-sure."
 
 @MIT_MW2_A:132 PLY 67cf8011
-
+"Good tea is..."
 
 @MIT_MW2_A:133 MIT b350c6f1
-
+"{V2080}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:134 MIT e963d677
-
+"{V2081}{W10}Yes, exactly.{W60} I am happy that you understand."
 
 @MIT_MW2_A:135 PLY 47ce280d
-
+"Is making sweets difficult?"
 
 @MIT_MW2_A:136 MIT c02e4d49
-
+"{V2082}{W8}No,{W35} if you do not fuss over appearance,{W20} it is{W8} very easy."
 
 @MIT_MW2_A:137 MIT 22df75ca
-
+"{V2083}{W8}In fact,{W25} mixing,{W15} kneading,{W10} and whipping{W15} are {Ec}great fun."
 
 @MIT_MW2_A:138 PLY f0d9e131
-
+"What sweet are you best at making?"
 
 @MIT_MW2_A:139 MIT 3af8dd7a
-
+"{V2084}{W8}Madeleines.{W48} They are very easy{W20} and quick,{W35} so I often make them on days off."
 
 @MIT_MW2_A:140 MIT f10d10ab
-
+"{V2085}{W8}How often, you ask..."
 
 @MIT_MW2_A:142 MIT 55c94845
-
+"{V2086}{W8}Often enough that the chef{W40} makes a slightly{W40} exasperated face and says,{W25} 'Madeleines again?'{W8}"
 
 @MIT_MW2_A:143 PLY adaeb24e
-
+"Hahaha, I see."
 
 @MIT_MW2_A:144 PLY c5e63bac
-
+"What's the trick to making sweets?"
 
 @MIT_MW2_A:145 MIT e36c79a7
-
+"{V2087}{W8}Not getting the amounts wrong.{W40} And{W30} not rushing,{W20} but working quickly."
 
 @MIT_MW2_A:146 MIT 79bc2919
-
+"{V2088}{W8}If you make pies{W30} too slowly,{W20} they do not rise when baked,{W20} and it is rather sad."
 
 @MIT_MW2_A:147 PLY 5c8c5248
-
+"I've never made sweets, but..."
 
 @MIT_MW2_A:148 MIT 874965a7
-
+"{V2089}{W10}...{W10}...{W10}"
 
 @MIT_MW2_A:149 MIT aff7687d
-
+"{V2090}{W10}Fufu,{W45} making sweets is great fun."
 
 @MIT_MW2_A:150 PLY 13bc7a71
-
+"Have you ever eaten at a standing udon or soba place?"
 
 @MIT_MW2_A:151 MIT e1c8fd76
-
+"{V2091}{W15}Standing...{W60} to eat?{W50} {F9}No, never."
 
 @MIT_MW2_A:152 MIT bb2e4fb1
-
+"{V2092}{W8}It is hard to go in alone,{W45} and eating while standing{W20} feels ill-mannered..."
 
 @MIT_MW2_A:153 PLY 2f2d12a6
-
+"That unpretentious feel is what's good about it."
 
 @MIT_MW2_A:154 MIT c05c1154
-
+"{V2093}{W10}Fufu,{W53} it feels{W8} like{W8} a{W10} man's{W8} food."
 
 @MIT_MW2_A:155 PLY 59d7b79a
-
+"Do you know the udon place Satonaka on the shopping street?"
 
 @MIT_MW2_A:156 MIT 21f53510
-
+"{V2094}{W8}Ah...{W60} I know it.{W43} I have never been inside, though."
 
 @MIT_MW2_A:157 PLY 1c0fce5c
-
+"It's delicious, so try it sometime."
 
 @MIT_MW2_A:159 MIT a7ce958c
-
+"{V2095}{W8}Yes.{W55} Then,{W52} I will look in with my family."
 
 @MIT_MW2_A:160 PLY 9b9b784d
-
+"Good udon is..."
 
 @MIT_MW2_A:161 MIT d7665fee
-
+"{V2096}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:162 MIT 933fa881
-
+"{V2097}{W8}Is that so?{W60} I will try it sometime."
 
 @MIT_MW2_A:163 PLY 23ef0719
-
+"There's this really spicy snack. Do you know it?"
 
 @MIT_MW2_A:164 MIT e2b46634
-
+"{V2098}{W10}I am sorry,{W60} I do not.{W45} I rarely eat snacks..."
 
 @MIT_MW2_A:165 PLY 6c6b1e77
-
+"R-right..."
 
 @MIT_MW2_A:166 PLY e42c8d48
-
+"The snack I ate the other day..."
 
 @MIT_MW2_A:167 MIT efa25cf7
-
+"{V2099}{W10}Eh..."
 
 @MIT_MW2_A:168 MIT ea1e1ddd
-
+"{V2100}{W10}I am sorry,{W45} I rarely {Sp}eat snacks..."
 
 @MIT_MW2_A:169 PLY 6f4b46f0
-
+"Have you ever tried any health goods?"
 
 @MIT_MW2_A:170 MIT b6179218
-
+"{V2101}{W8}I use a memory foam pillow{W10} that{W10} conforms{W45} to the shape of my head."
 
 @MIT_MW2_A:171 PLY ef067789
-
+"Wow, how does it feel?"
 
 @MIT_MW2_A:172 MIT 5790216b
-
+"{V2102}{W8}{Ec}Very comfortable.{W35} It eases my neck,{W30} {Eo}and I wake up feeling refreshed."
 
 @MIT_MW2_A:174 PLY 13c559af
-
+"Apparently eating late at night is bad for your health."
 
 @MIT_MW2_A:175 MIT e1379450
-
+"{V2103}{W10}Yes, indeed.{W60} For a late meal,{W35} it is said to be best to have{W35} a small amount of something easy to digest."
 
 @MIT_MW2_A:176 PLY 0037384b
-
+"With these hot days dragging on, my health..."
 
 @MIT_MW2_A:177 MIT 82812ff3
-
+"{V2104}{W5}...{W5}...{W5}"
 
 @MIT_MW2_A:178 MIT 426170bf
-
+"{V2105}{W8}Yes, indeed.{W60} I hope{W8} it gets cooler{W8} soon."
 
 @MIT_MW2_A:179 PLY 3947bb32
-
+"A moderate diet is supposed to be good for your health, too."
 
 @MIT_MW2_A:180 MIT 820831d7
-
+"{V2106}{W13}Yes.{W45} Being too heavy{W8} is not good for the body."
 
 @MIT_MW2_A:181 PLY 2ce1c498
-
+"Girls all want to lose weight, don't they?"
 
 @MIT_MW2_A:182 MIT 251f9058
-
+"{V2107}{W8}Fufu,{W35} yes, indeed.{W45} {Ec}I{W5} try not to gain weight, too."
 
 @MIT_MW2_A:183 PLY c4d8bad6
-
+"Speaking of diets..."
 
 @MIT_MW2_A:184 MIT 3aa5bf3b
-
+"{V2108}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:185 MIT 47075a32
-
+"{V2109}{W8}Is that so?{W55} There are{W10} many kinds."
 
 @MIT_MW2_A:186 PLY f9fd17e0
-
+"Have you ever been to a beauty salon?"
 
 @MIT_MW2_A:187 MIT 66fe3636
-
+"{V2110}{W8}Yes.{W48} Mother took me..."
 
 @MIT_MW2_A:188 PLY 0c5a4e4e
-
+"How was it?"
 
 @MIT_MW2_A:189 MIT d6071bdb
-
+"{V2111}{Ec}{W8}It felt wonderful.{W15} {Eo}My skin became smooth and glossy."
 
 @MIT_MW2_A:190 PLY c61227ad
-
+"Wow, it really works that well?"
 
 @MIT_MW2_A:191 MIT fa8fc9b7
-
+"{V2112}{W8}Yes.{W48} Very much so."
 
 @MIT_MW2_A:192 PLY 0b3bb492
-
+"Is there any part of your body you like?"
 
 @MIT_MW2_A:193 MIT 8658be7d
-
+"{V2113}{W8}Eh?{W50} {F9}A part I like...{W45} ?"
 
 @MIT_MW2_A:194 MIT 6586f774
-
+"{V2114}{W10}There is nothing like that...{W45} I{W75} have no chest...{W60} and my legs...{W45} are{W45} bowed...{W20} {Ec}as well..."
 
 @MIT_MW2_A:195 PLY 731ffc1c
-
+"You shouldn't worry about that."
 
 @MIT_MW2_A:197 MIT 98446cbe
-
+"{V2115}{W10}Eh..."
 
 @MIT_MW2_A:198 PLY a44d7439
-
+"Shijou, you're... really... charming."
 
 @MIT_MW2_A:199 MIT a2610cf6
-
+"{V2116}{W10}Ah,{Eh}{W85} thank you very much."
 
 @MIT_MW2_A:200 PLY a0319597
-
+(Shijou in her gym clothes...)
 
 @MIT_MW2_A:201 MIT 2f419191
-
+"{V2117}{W8}Is something wrong?{W30} You suddenly went quiet..."
 
 @MIT_MW2_A:202 PLY c80fdd35
-
+"Ah, no... I just thought you're so earnest, Shijou."
 
 @MIT_MW2_A:203 MIT ab875ff1
-
+"{V2118}{W8}Why do you say that?"
 
 @MIT_MW2_A:204 PLY 11027c5d
-
+"You wear your gym shirt out and don't try to hide your bloomers..."
 
 @MIT_MW2_A:205 MIT 0bbeede6
-
+"{V2119}{W5}Ah..."
 
 @MIT_MW2_A:206 MIT 3db85dc5
-
+"{V2120}{W8}Trying to hide them{W35} would only be more embarrassing."
 
 @MIT_MW2_A:207 PLY d905bbbf
-
+"I see."
 
 @MIT_MW2_A:208 MIT 9b57c5b3
-
+"{V2121}{W8}Is something wrong?{W30} You suddenly went quiet..."
 
 @MIT_MW2_A:209 PLY 963e1e99
-
+"No... I just noticed your shoulders are narrow, Shijou..."
 
 @MIT_MW2_A:210 MIT c3e77572
-
+"{V2122}{W15}Ah...{W10} yes, they are.{W35} It is{W8} very inconvenient.{W45} Shoulder bags slip right off..."
 
 @MIT_MW2_A:211 MIT 48d242aa
-
+"{V2123}{W5}So{W25} most of my bags{W35} are the kind that hang from the elbow."
 
 @MIT_MW2_A:212 PLY 9a44da08
-
+"Shijou, your looks are..."
 
 @MIT_MW2_A:213 MIT 7efa1fd1
-
+"{V2124}{W8}Eh..."
 
 @MIT_MW2_A:215 MIT 6cf51e75
-
+"{V2125}{W8}Th-{W45}that is not true..."
 
 @MIT_MW2_A:216 PLY db383f2a
-
+"When was your first love, Shijou?"
 
 @MIT_MW2_A:217 MIT ac18d5ec
-
+"{V2126}{W10}My{W8} first{W8} love{W8}...{W70} has not happened yet."
 
 @MIT_MW2_A:218 PLY e602c9b2
-
+"Really?"
 
 @MIT_MW2_A:219 MIT 2b5d934c
-
+"{V2127}{W10}Yes.{W60} I have always been in girls' schools."
 
 @MIT_MW2_A:220 PLY 311eb6ae
-
+"Do you believe in fateful meetings?"
 
 @MIT_MW2_A:221 MIT 34d1f0b7
-
+"{V2128}{W15}Yes,{W57} I do."
 
 @MIT_MW2_A:222 MIT 332ace27
-
+"{V2129}{W5}But..."
 
 @MIT_MW2_A:223 PLY 1716f86b
-
+"But?"
 
 @MIT_MW2_A:224 MIT c4932373
-
+"{V2130}{W8}...No,{W42} {Ec}it is nothing."
 
 @MIT_MW2_A:225 PLY 2ea81a02
-
+"Do you believe in love fortune-telling?"
 
 @MIT_MW2_A:226 MIT f996d9a1
-
+"{V2131}{W8}I{W35} {F4}sometimes do the flower petal game, if that counts."
 
 @MIT_MW2_A:227 MIT 4b1f89bc
-
+"{V2132}{W8}Plucking{W10} petals{W25} makes the flower pitiful,{W15} so {F9}I count the petals in order, {W30}saying \\"loves me, {W30}loves me not.\\"{F2}"
 
 @MIT_MW2_A:228 PLY 484d434d
-
+"That would be tough with a sunflower."
 
 @MIT_MW2_A:229 MIT d767a9be
-
+"{V2133}{W8}Fufu,{W45} yes, indeed."
 
 @MIT_MW2_A:230 PLY d24446f9
-
+"Lately I've been thinking that love is..."
 
 @MIT_MW2_A:231 MIT 71e41870
-
+"{V2134}{W10}...{W12}...{W10}"
 
 @MIT_MW2_A:232 MIT cdcd0d68
-
+"{V2135}{W8}Fufu,{W50} I{W5} think so too."
 
 @MIT_MW2_A:233 PLY c966963f
-
+"What do you do on your days off?"
 
 @MIT_MW2_A:234 MIT 424436ee
-
+"{V2136}{W8}I make tea,{W20} bake sweets,{W20} {F3}and spend the time leisurely."
 
 @MIT_MW2_A:235 PLY 63acac2d
-
+"What lessons do you take, Shijou?"
 
 @MIT_MW2_A:236 MIT a1c4fc9e
-
+"{V2137}{W8}Lessons?{W60} Right{W5} now I take...{W48} classical ballet,{W10} piano,{W35} tea ceremony,{W20} flower arranging,{W20} cooking..."
 
 @MIT_MW2_A:238 MIT af07a881
-
+"{V2138}Japanese dance,{W15} English,{W15} French...{W45} {F2}{Ec}That is about all."
 
 @MIT_MW2_A:239 PLY db29bd43
-
+"That many?! Isn't it hard?"
 
 @MIT_MW2_A:240 MIT a845a90c
-
+"{V2139}{W8}There is also a monthly practice,{W20} {F2}{Ec}but I am fine."
 
 @MIT_MW2_A:241 PLY 176744a3
-
+"What is your room like, Shijou?"
 
 @MIT_MW2_A:242 MIT 3d6c13a4
-
+"{V2140}{W10}It is calm.{W45} Much of the furniture is old."
 
 @MIT_MW2_A:243 MIT 8097082c
-
+"{V2141}{W8}My favorite thing is the quilted bedspread."
 
 @MIT_MW2_A:244 PLY 2bf8e1f8
-
+"Do you collect anything?"
 
 @MIT_MW2_A:245 MIT f3b36347
-
+"{V2142}{W8}I collect small English antiques."
 
 @MIT_MW2_A:246 MIT 5ef15d28
-
+"{V2143}{W8}Father's{W8} friends{W45} give me all sorts of things."
 
 @MIT_MW2_A:247 PLY 6fa8f52c
-
+"It's kind of personal, but..."
 
 @MIT_MW2_A:248 MIT e19f1938
-
+"{V2144}{W5}...{W5}...{W5}"
 
 @MIT_MW2_A:249 MIT 3d2e300b
-
+"{V2145}{W8}Fufu,{W35} is that so?{W45} How nice."
 
 @MIT_MW2_A:250 PLY 503c800d
-
+"When you wear a low-cut dress, what do you do about underwear?"
 
 @MIT_MW2_A:251 MIT 6fd9e7f8
-
+"{V2146}{W10}Eh..."
 
 @MIT_MW2_A:252 PLY 21d61ea2
-
+"Don't you wear any?"
 
 @MIT_MW2_A:253 MIT 1382ab3d
-
+"{V2147}{W5}I wear it properly.{W35} {P1}{F6}Besides,{W35} {F8}I do not wear such low-cut dresses."
 
 @MIT_MW2_A:254 PLY aec428d6
-
+"R-right... sorry."
 
 @MIT_MW2_A:255 PLY 683e77e7
-
+"Have you ever been groped on a train?"
 
 @MIT_MW2_A:256 MIT d2845b12
-
+"{V2148}{W8}No, I have not."
 
 @MIT_MW2_A:257 MIT 1c29b683
-
+"{V2149}{W8}I rarely{W8} ride a train{W30} alone."
 
 @MIT_MW2_A:258 PLY 43c82fbb
-
+"Isn't your gym shirt a bit small, Shijou?"
 
 @MIT_MW2_A:259 MIT dfed3a33
-
+"{V2150}{W8}I do not{W8} think so..."
 
 @MIT_MW2_A:260 PLY 13c3a751
-
+"Really? Maybe it looks that way because you tuck it neatly into your bloomers."
 
 @MIT_MW2_A:261 MIT d286f3ea
-
+"{V2151}{W10}Y-{W20}yes, perhaps..."
 
 @MIT_MW2_A:262 PLY 45aa19fe
-
+"I think school swimsuits should have a name tag on the chest."
 
 @MIT_MW2_A:263 MIT 46a5bda1
-
+"{V2152}{W20}I am{W8} not{W8} an{W8} elementary{Ec} schooler..."
 
 @MIT_MW2_A:264 PLY 5496a290
-
+"Hahaha... I guess not?"
 
 @MIT_MW2_A:265 PLY 25f1729f
-
+"It's a bit of a dirty topic, but..."
 
 @MIT_MW2_A:266 MIT fd2926e1
-
+"{V2153}{W8}Eh..."
 
 @MIT_MW2_A:267 MIT 89a49a6d
-
+"{V2154}{W10}I...{W65} am not good{W65} with that kind of talk..."
 
 @MIT_MW2_A:268 PLY a61cef2f
-
+"Y-you're right."
 
 @MIT_MW2_A:269 PLY c03b9c1f
-
+"Do you have a dream for the future?"
 
 @MIT_MW2_A:270 MIT de99f8b4
-
+"{V2155}{W8}To become a bride."
 
 @MIT_MW2_A:271 PLY 10941702
-
+"A bride? That's your dream?"
 
 @MIT_MW2_A:272 MIT 959df38a
-
+"{V2156}{W8}Yes."
 
 @MIT_MW2_A:273 PLY 608ceb67
-
+"I see... You'd surely make a wonderful bride, Shijou."
 
 @MIT_MW2_A:274 MIT 64eb5c32
-
+"{V2158}{W8}To hear{W65} that from you, Master..."
 
 @MIT_MW2_A:275 MIT 149b3ede
-
+"{V2157}{W8}Thank you very much."
 
 @MIT_MW2_A:276 PLY be5a2b26
-
+"Do you have a life plan?"
 
 @MIT_MW2_A:277 MIT 7115a603
-
+"{V2159}{W8}A{W8} life{W8} plan{W8}...{W48} ?"
 
 @MIT_MW2_A:278 PLY c143d933
-
+"Yeah. When you'll marry, how many kids you'll have... that sort of thing."
 
 @MIT_MW2_A:279 MIT 4fe81646
-
+"{V2160}{W10}Ah,{W40} in that case..."
 
 @MIT_MW2_A:281 MIT 277c6586
-
+"{V2161}{W10}I think I will marry{W13} rather{W5} early.{W60} Not right after graduating from high school,{W45} though."
 
 @MIT_MW2_A:282 MIT ad95403e
-
+"{V2162}{W8}And...{W45} {F3}I want many children."
 
 @MIT_MW2_A:283 PLY dd7fcc98
-
+"Like three?"
 
 @MIT_MW2_A:284 MIT 90bd1d81
-
+"{V2163}{W8}As many{W15} as I am wished to have."
 
 @MIT_MW2_A:285 PLY e08de1f9
-
+(She wants to get married more than I thought...)
 
 @MIT_MW2_A:286 PLY 5ca52b4f
-
+"I can't know about the future, but..."
 
 @MIT_MW2_A:287 MIT 39b9edb6
-
+"{V2164}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:288 MIT b68870b0
-
+"{V2166}{W8}I am sure{W60} you will be fine,{W5} Master."
 
 @MIT_MW2_A:289 MIT 9d6fc509
-
+"{V2165}{W15}Yes...{W90} one cannot know."
 
 @MIT_MW2_A:290 PLY 347e7ffb
-
+"What kind of child were you, Shijou?"
 
 @MIT_MW2_A:291 MIT 85399a97
-
+"{V2167}{W8}My family{W5} was{W8} strict,{W35} so I was always bawling."
 
 @MIT_MW2_A:292 PLY be5d5282
-
+"You were in girls' schools through elementary and middle school, right?"
 
 @MIT_MW2_A:293 MIT a64ecab8
-
+"{V2168}{W8}Yes."
 
 @MIT_MW2_A:294 PLY 0b825f86
-
+"What was it like?"
 
 @MIT_MW2_A:295 MIT 7f4a8737
-
+"{V2169}{W8}Fufu,{W70} {Eo}the whole school{W10} was noisy,{W35} a world{W5} a boy{W5} could not keep up with."
 
 @MIT_MW2_A:296 PLY 9d6abc0b
-
+"Hahaha, I see."
 
 @MIT_MW2_A:297 PLY e48ba310
-
+"Is there a memory you can't forget?"
 
 @MIT_MW2_A:298 MIT c8ecb8d4
-
+"{V2170}{W12}What I cannot forget...{W70} is that Father said{W60} the first cake I ever made{W10} was delicious and ate it."
 
 @MIT_MW2_A:299 MIT 906df7ab
-
+"{V2171}{W8}In truth,{W45} it tasted so bad it was hardly edible,{W20} {P3}{F3}{Eh}but he ate all of it{W5} with a smile..."
 
 @MIT_MW2_A:300 MIT 55cf46e2
-
+"{V2172}If he had{W35} said{W10} it was awful then,{W45} I think I would have come to hate cooking."
 
 @MIT_MW2_A:301 MIT ac5d8701
-
+"{V2173}{W8}So{W45} I am still grateful to this day."
 
 @MIT_MW2_A:302 PLY 5f33209c
-
+"How old were you then?"
 
 @MIT_MW2_A:303 MIT 626f5d3f
-
+"{V2174}{W8}About nine."
 
 @MIT_MW2_A:304 PLY a83650bd
-
+"Your childhood memories are..."
 
 @MIT_MW2_A:305 MIT 87f43980
-
+"{V2175}{W10}...{W10}...{W10}"
 
 @MIT_MW2_A:306 MIT c2a15234
-
+"{V2176}{W8}Yes.{W45} They are full of fun{W30} and happy things."
 
 @MIT_MW2_A:307 PLY abfc6a64
-
+"\\"Lovely\\" is a word that exists just for you, Shijou."
 
 @MIT_MW2_A:308 MIT bc2da9e8
-
+"{V2177}{W10}Eeh?"
 
 @MIT_MW2_A:309 MIT 7c8b70b3
-
+"{V2178}{W15}Lovely...{W60} that is{W35} far too kind of you..."
 
 @MIT_MW2_A:310 PLY 9a932f4e
-
+"Shijou, what's good about you is..."
 
 @MIT_MW2_A:311 MIT 33ded009
-
+"{V2179}{W10}...{W10}...{W10}"
 
 @MIT_MW2_A:312 MIT e08aaf86
-
+"{V2180}{W10}Ah,{W50} thank you very much."
 
 @MIT_MW2_A:313 PLY 5248279b
-
+"Shijou..."
 
 @MIT_MW2_A:318 SYS 9b3cbf89
-
+{Ti0}{Ti2}Stare......
 
 @MIT_MW2_A:319 MIT e9e43cc1
-
+"{V2181}{W8}Ah..."
 
 @MIT_MW2_A:320 MIT a035b4be
-
+"{V2183}{W8}Fufu,{W70} Master."
 
 @MIT_MW2_A:321 MIT 7aa00b96
-
+"{V2182}{W8}Fufu, {Nm}."
 
 @MIT_MW2_A:324 PLY d4b0c6b0
-
+"Shijou."
 
 @MIT_MW2_A:325 MIT d0dd94a1
-
+"{V2184}{W8}Yes?"
 
 @MIT_MW2_A:326 SYS a77d0776
-
+{Ti0}Smile!
 
 @MIT_MW2_A:327 MIT 3c251325
-
+"{V2185}{W8}Ah..."
 
 @MIT_MW2_A:328 MIT a0ca909b
-
+"{V2187}{W8}You always have a lovely smile,{W40} {Ec}Master."
 
 @MIT_MW2_A:329 MIT ea3e4990
-
+"{V2186}{W8}Fufu,{W60} you always {Eo}{F3}have a lovely smile."
 
 @MIT_MW2_A:330 PLY 7bcaa667
-
+(Okay, I'll put on a cool face and nail it!)
 
 @MIT_MW2_A:331 MIT 71e35c4d
-
+"{V2188}{W8}Yes."
 
 @MIT_MW2_A:332 SYS c2ab9f12
-
+{Ti0}Sharp!
 
 @MIT_MW2_A:333 MIT eaf61f09
-
+"{V2189}{W8}Ah..."
 
 @MIT_MW2_A:334 MIT 9ca2f307
-
+"{V2190}Fufu,{W75} {F9}{Eh}somehow I feel shy."
 
 @MIT_MW2_A:335 PLY 6a0ce4d0
-
+(Okay, time to be bold and take her hand...)
 
 @MIT_MW2_A:340 SYS 1ffe4b9d
-
+{T0.0}Squeeze
 
 @MIT_MW2_A:341 MIT 3b218e6f
-
+"{V2191}{W8}Ah..."
 
 @MIT_MW2_A:342 MIT c355d280
-
+"{V2193}{W20}If you,{W90} Master, {F3}{Ec}wish it..."
 
 @MIT_MW2_A:343 MIT 738f3c3b
-
+"{V2192}{Nm}..."
 
 @MIT_MW2_A:344 PLY 35915e17
-
+(She squeezed back...)
 
 @MIT_MW2_A:345 PLY 116d19a3
-
+"It's really started to feel like autumn lately."
 
 @MIT_MW2_A:346 MIT 1129b0b2
-
+"{V2194}{W10}Yes,{W3} in{W3}deed.{W3}"
 
 @MIT_MW2_A:347 PLY 261a76e7
-
+"What's your favorite season, Shijou?"
 
 @MIT_MW2_A:348 MIT 8c104907
-
+"{V2195}{W8}I like spring."
 
 @MIT_MW2_A:349 PLY d9372ba1
-
+"Why?"
 
 @MIT_MW2_A:350 MIT d9a9abc6
-
+"{V2196}{W12}I like spring flowers.{W50} {F7}They are adorable,{W35} {F2}{Eh}and their colors are bright."
 
 @MIT_MW2_A:351 PLY b7339193
-
+"...Lots of things don't go well, but there's no point in dwelling on it."
 
 @MIT_MW2_A:352 MIT 3b0f1687
-
+"{V2197}{W8}{Nm}..."
 
 @MIT_MW2_A:353 MIT b073a053
-
+"{V2198}{W10}I...{W75} will not dwell on it either."
 
 @MIT_MW2_A:354 PLY 4a2abe80
-
+(Let's liven things up with something. What would be good... Got it! A one-shot gag!)
 
 @MIT_MW2_A:355 PLY bab4ed2f
-
+"Ah! Shijou! A UFO over there!"
 
 @MIT_MW2_A:356 MIT 0c9ba7e9
-
+"{V2199}{W10}What?! {W15}W-{W15}where?"
 
 @MIT_MW2_A:357 PLY eed3bcff
-
+"Just kidding. U-S-O, a lie!"
 
 @MIT_MW2_A:359 MIT 0deae499
-
+"{V2200}{W10}...{W10}...{W10}{Sp}"
 
 @MIT_MW2_A:362 MIT 71da0cb4
-
+"{V2201}{W10}Hehe,{W30} hehehe,{W60} you got me."
 
 @MIT_MW2_A:363 PLY 5873ad42
-
+(All right, that got a laugh.)
 
 @MIT_MW2_A:364 PLY 3684f9a1
-
+"The sunset is beautiful..."
 
 @MIT_MW2_A:365 MIT c426d12b
-
+"{V2202}{W15}Yes.{W55} It{W3} is{W3} ver{W3}y{W3}..."
 
 @MIT_MW2_A:366 PLY fca6304c
-
+"I wish I could have seen the swallows leave the nest too."
 
 @MIT_MW2_A:367 MIT 264009b9
-
+"{V2203}{W8}Fufu,{W50} they were so adorable."
 
 @MIT_MW2_A:368 MIT e3e362e1
-
+"{V2204}{W8}I should have told you about it."
 
 @MIT_MW2_A:369 PLY 7c42b5ca
-
+"Yeah. But the swallows will come back next year..."
 
 @MIT_MW2_A:370 MIT 8c2eab91
-
+"{V2205}{W8}Yes, indeed..."
 
 @MIT_MW2_A:371 PLY 78a1481a
-
+"Lately I've been thinking..."
 
 @MIT_MW2_A:372 MIT d6e4381e
-
+"{V2206}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:373 MIT 5e2d8f25
-
+"{V2207}{W10}Yes,{W60} I have too..."
 
 @MIT_MW2_A:374 MIT 016889ba
-
+"{V2208}{W8}{Nm},{W35} have you never thought of joining a club?"
 
 @MIT_MW2_A:375 PLY c549a2d4
-
+"Hmm, there was nothing in particular I wanted to do..."
 
 @MIT_MW2_A:376 MIT c9600588
-
+"{V2209}{W8}Your time is{W15} still ahead of you, {Nm}."
 
 @MIT_MW2_A:377 PLY ba6869b1
-
+"Come to think of it, if I'd joined a sports club in Year 1, they would have taught me from the basics, tennis or basketball."
 
 @MIT_MW2_A:378 PLY 017efc6d
-
+"Maybe I wasted a chance."
 
 @MIT_MW2_A:379 MIT 5243bcf1
-
+"{V2210}{W10}Fufu,{W55} it is not too late.{W45} Why not start{W8} something?"
 
 @MIT_MW2_A:380 PLY 9f959ba0
-
+"The clubs at our school..."
 
 @MIT_MW2_A:381 MIT 8b08b4e6
-
+"{V2211}{W5}...{W5}...{W5}"
 
 @MIT_MW2_A:383 MIT beba251c
-
+"{V2212}{W8}Is that so?{W45} I did not know."
 
 @MIT_MW2_A:384 PLY 9cb561d0
-
+"Which do you like better, summer uniforms or winter ones?"
 
 @MIT_MW2_A:385 MIT 6deae559
-
+"{V2213}{W8}I prefer{W50} the winter uniform."
 
 @MIT_MW2_A:386 MIT 89ad151b
-
+"{V2214}{W10}Because the entrance ceremony{W15} was in winter uniforms.{W70} I think the{W35} winter uniform is the basic one."
 
 @MIT_MW2_A:387 PLY 00c42bb1
-
+"I see."
 
 @MIT_MW2_A:388 PLY b3c17b40
-
+"Is there any uniform you'd like to try wearing?"
 
 @MIT_MW2_A:389 MIT 17f5be3b
-
+"{V2215}{W8}A uniform{W8} I would like to wear{W8}..."
 
 @MIT_MW2_A:390 MIT e5d4db89
-
+"{V2216}{W8}I would like to wear a maid outfit."
 
 @MIT_MW2_A:391 PLY 92807b71
-
+"What?! A maid outfit?"
 
 @MIT_MW2_A:392 MIT 971b065d
-
+"{V2217}{W5}Yes.{W45} At parties,{W15} when I see the maids wearing them,{W35} {Ec}I always think{W8} how cute they are."
 
 @MIT_MW2_A:393 PLY 0724ad47
-
+"Oh, I see."
 
 @MIT_MW2_A:394 PLY b10c3b2d
-
+"Shijou, you look so good in your uniform..."
 
 @MIT_MW2_A:395 MIT b61a019a
-
+"{V2218}{W10}Oh..."
 
 @MIT_MW2_A:396 MIT 4c953615
-
+"{V2219}{W8}Thank you very much."
 
 @MIT_MW2_A:397 PLY fd49543c
-
+"You can only have a healthy school life if you follow the school rules, right?"
 
 @MIT_MW2_A:398 MIT 4d0bc809
-
+"{V2220}{W5}Yes.{W40} I think so too."
 
 @MIT_MW2_A:399 PLY d404c9e2
-
+"Lately I've kind of been trying to follow the school rules..."
 
 @MIT_MW2_A:400 MIT 0422dce7
-
+"{V2221}......"
 
 @MIT_MW2_A:401 MIT 43cc76f4
-
+"{V2222}{W8}Fufu,{W60} {Ec}that is a very good thing."
 
 @MIT_MW2_A:402 PLY 1af8721a
-
+"Ms. Kawada has a great figure, doesn't she?"
 
 @MIT_MW2_A:403 MIT 04aa9bc6
-
+"{V2223}{W15}Y-{W45}yes, indeed."
 
 @MIT_MW2_A:404 MIT f3ddd8fc
-
+"{V2224}{W8}I envy her very much."
 
 @MIT_MW2_A:405 PLY 929cc4a7
-
+"The other day, Ms. Kawada..."
 
 @MIT_MW2_A:406 MIT b5d23cd6
-
+"{V2225}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:407 MIT 0b7a562c
-
+"{V2226}{W8}Is that so?{W45} {F2}{Ec}Fufu,{W35} that is just like her."
 
 @MIT_MW2_A:408 PLY 46a098a3
-
+"Transferring and never seeing someone again must be painful enough to be unbearable..."
 
 @MIT_MW2_A:409 MIT 717b8ab5
-
+"{V2227}{W20}Yes, indeed..."
 
 @MIT_MW2_A:410 PLY 84eeaca4
-
+"Not just transferring... when I think of the farewells that will come someday..."
 
 @MIT_MW2_A:411 MIT 5fa1c458
-
+"{V2228}{Nm}..."
 
 @MIT_MW2_A:412 MIT 03dcd457
-
+"{V2229}{W15}Please do not say{W95} such sad things..."
 
 @MIT_MW2_A:413 PLY 92796e08
-
+"Report cards have all kinds of things written on them, don't they?"
 
 @MIT_MW2_A:414 MIT b28fa796
-
+"{V2230}{W8}Fufu,{W35} {Eo}yes, indeed."
 
 @MIT_MW2_A:415 PLY 438836af
-
+"What kind of thing do they usually write on yours, Shijou?"
 
 @MIT_MW2_A:416 MIT 064b9223
-
+"{V2231}{W8}Let us{W10} be more{W12} proactive,{W22} they say."
 
 @MIT_MW2_A:417 MIT c8f3740e
-
+"{V2232}{W8}Fufu,{W52} teachers{W15} really do pay attention."
 
 @MIT_MW2_A:418 PLY 53b41e29
-
+"When you get grades you can't show your parents..."
 
 @MIT_MW2_A:419 MIT c1cf43e3
-
+"{V2233}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:420 MIT ff71c768
-
+"{V2234}{W8}Fufu,{W35} at such times, one does not know what to do."
 
 @MIT_MW2_A:421 PLY e1a00ed6
-
+"I've thought, what if we could go to the same university... but maybe I shouldn't think that way?"
 
 @MIT_MW2_A:422 MIT 629dc06f
-
+"{V2235}{Nm},{W115} I..."
 
 @MIT_MW2_A:423 PLY 5e1915be
-
+"University, there's no point in thinking about it..."
 
 @MIT_MW2_A:424 MIT 51c464d9
-
+"{V2236}{Nm}..."
 
 @MIT_MW2_A:425 PLY 2f5cc2c2
-
+"Shijou, are you a fast runner?"
 
 @MIT_MW2_A:426 MIT a8d0dd07
-
+"{V2237}{W8}Running,{W55} I am not very fast at."
 
 @MIT_MW2_A:427 MIT 34422b6d
-
+"{V2238}{W8}I am confident{W8} about my balance and flexibility,{W15} though..."
 
 @MIT_MW2_A:428 PLY 25d428f8
-
+"Now that the worst of the heat has passed, PE in the schoolyard is easier."
 
 @MIT_MW2_A:429 MIT e8cce917
-
+"{V2239}{W8}Yes.{W45} After all, it is the season for sports."
 
 @MIT_MW2_A:430 PLY 83e0b25c
-
+"So you had PE, Shijou."
 
 @MIT_MW2_A:431 MIT 126da32e
-
+"{V2240}{W8}Yes."
 
 @MIT_MW2_A:432 PLY f101444b
-
+"What did you do?"
 
 @MIT_MW2_A:433 MIT 6cbb365d
-
+"{V2241}{W8}Creative dance."
 
 @MIT_MW2_A:434 MIT 2e593912
-
+"{V2242}{W8}I am good at dancing, so it was a lot of fun."
 
 @MIT_MW2_A:435 MIT a57a1862
-
+"{V2243}{W8}Yes."
 
 @MIT_MW2_A:436 MIT dd951262
-
+"{V2244}{W10}Soft tennis.{W35} It was so fun{W35} that the hour passed in a flash."
 
 @MIT_MW2_A:437 PLY 9adf5319
-
+"Speaking of PE..."
 
 @MIT_MW2_A:438 MIT 8e6c6c99
-
+"{V2245}{W10}...{W20}...{W10}"
 
 @MIT_MW2_A:439 MIT 99b5c595
-
+"{V2246}{W10}Yes, indeed.{W45} It is the season for sports."
 
 @MIT_MW2_A:440 PLY b7a9f769
-
+"Lots of girls are bad at diving in, aren't they?"
 
 @MIT_MW2_A:441 MIT 0becdb3a
-
+"{V2247}{W10}I am{W20} bad at it too.{W45} Diving headfirst frightens me..."
 
 @MIT_MW2_A:442 MIT d70c410d
-
+"{V2248}{W5}Feet first,{W30} I can jump in as much as I like..."
 
 @MIT_MW2_A:443 PLY cceb2207
-
+"Hahaha, feet first, sure."
 
 @MIT_MW2_A:444 PLY b3993f3b
-
+"You get so sleepy after swimming class, don't you?"
 
 @MIT_MW2_A:445 MIT f833598d
-
+"{V2249}{W8}Hehe,{W40} yes, indeed."
 
 @MIT_MW2_A:446 MIT 5f4a2bdb
-
+"{V2250}{W8}But{W35} my seat is{W20} right in front of the lectern,{W20} so {Sp}{Fe2m3}{Ec}if I fall asleep,{W8} I am found at once."
 
 @MIT_MW2_A:447 PLY 7575a425
-
+"The beach was fun, wasn't it?"
 
 @MIT_MW2_A:448 MIT 0eb85179
-
+"{V2251}Yes,{W75} {Ec}very much."
 
 @MIT_MW2_A:449 MIT 833ff6f8
-
+"{V2252}{W8}It is a memory...{W85} for the rest of my life..."
 
 @MIT_MW2_A:450 PLY bb63ff4e
-
+"It's about time for the last swim of the year..."
 
 @MIT_MW2_A:451 MIT ebb14408
-
+"{V2253}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:452 MIT 58b49eb2
-
+"{V2254}...Summer{W75} is{W13} over now."
 
 @MIT_MW2_A:453 PLY 936e50b6
-
+"Shijou, are you good at golf?"
 
 @MIT_MW2_A:454 MIT 7bd9ba09
-
+"{V2255}{W8}Fairly.{W45} I am not good with the driver,{W15} but I am good at putting."
 
 @MIT_MW2_A:455 PLY e4482106
-
+"Have you ever been to a sports club?"
 
 @MIT_MW2_A:456 MIT fedd42a0
-
+"{V2256}{W8}Father{W10} is a member of a sports club,{W25} so I sometimes go along."
 
 @MIT_MW2_A:457 PLY 4c04e21f
-
+"Wow, what's it like?"
 
 @MIT_MW2_A:458 MIT 6cd861a9
-
+"{V2257}{W8}There is everything from fitness to squash,{W20} to a pool,{W35} {P3}{F3}and you can choose what you like."
 
 @MIT_MW2_A:459 PLY 3141daf4
-
+"Sports are..."
 
 @MIT_MW2_A:460 MIT 066812ad
-
+"{V2258}{W8}...{W5}...{W5}"
 
 @MIT_MW2_A:461 MIT 5d1537e5
-
+"{V2259}{W8}Yes, indeed.{W45} Moving your body{W20} is fun."
 
 @MIT_MW2_A:462 PLY 41424893
-
+"Shijou, can you do ballroom dancing too?"
 
 @MIT_MW2_A:463 MIT 03651377
-
+"{V2260}{W8}Yes,{W35} the waltz, at least."
 
 @MIT_MW2_A:464 MIT 8fd691af
-
+"{V2261}{W8}I often{W10} dance with guests{W10} at parties."
 
 @MIT_MW2_A:465 PLY 053fbe70
-
+"Dancing, huh... If I could dance, I could dance with you, Shijou."
 
 @MIT_MW2_A:466 MIT d3dfb169
-
+"{V2263}{W8}Shall I teach you some simple steps?"
 
 @MIT_MW2_A:467 PLY dabca41b
-
+"No, but..."
 
 @MIT_MW2_A:468 MIT 968ced32
-
+"{V2264}{W8}...{W10}...{W8}"
 
 @MIT_MW2_A:469 MIT ef354ac4
-
+"{V2265}{W10}Yes, indeed..."
 
 @MIT_MW2_A:470 MIT 164e4134
-
+"{V2266}{W5}Please tell me whenever you like.{W45} I{W45} will teach you."
 
 @MIT_MW2_A:471 PLY 66bd68f4
-
+"Your classical ballet was beautiful, Shijou..."
 
 @MIT_MW2_A:472 MIT 171a913b
-
+"{V2267}{W10}{Eh}Thank you very much.{W52} {P3}{Eo}I danced{W20} with all my heart."
 
 @MIT_MW2_A:473 PLY 94b6d5c3
-
+(I probably won't see it again... No, stop, I shouldn't think about that.)
 
 @MIT_MW2_A:474 PLY 3f7d38a9
-
+"There aren't many chances to dance, though..."
 
 @MIT_MW2_A:475 MIT cded8fb5
-
+"{V2268}{W10}...{W8}...{W8}"
 
 @MIT_MW2_A:476 MIT b61b85e5
-
+"{V2269}{W10}Fufu,{W55} dancing{W15} is fun."
 
 @MIT_MW2_A:477 PLY e0b2201b
-
+"Portable players with built-in hard disks are popular, aren't they?"
 
 @MIT_MW2_A:478 MIT 85825081
-
+"{V2270}{W10}Yes,{W8} in{W8}deed."
 
 @MIT_MW2_A:479 MIT 47c142c6
-
+"{V2271}{W5}But{W10} I{W45} cannot use them, because I cannot stand{W20} in-ear headphones."
 
 @MIT_MW2_A:480 MIT 24e183a6
-
+"{V2272}{W8}My ears{W25} are sensitive,{W45} and with headphones in,{W25} it tickles so much{W8} that I cannot bear it."
 
 @MIT_MW2_A:481 MIT 0d80b01b
-
+"{V2273}{W8}I tried them a few times{W30} to get used to it,{W45} but {Sp}it only gave me the shivers..."
 
 @MIT_MW2_A:482 PLY 04733997
-
+"Hahaha."
 
 @MIT_MW2_A:483 PLY 68c72b6a
-
+"Don't you end up humming songs when you're in the bath?"
 
 @MIT_MW2_A:484 MIT 3879a0fa
-
+"{V2274}{W8}Fufu,{W45} when I was a child,{W50} I often{W35} sang songs I learned at school."
 
 @MIT_MW2_A:485 MIT 464efc50
-
+"{V2275}{Nm},{W20} do you still sing?"
 
 @MIT_MW2_A:486 PLY 80729e1b
-
+"Now and then."
 
 @MIT_MW2_A:487 MIT 6e17c666
-
+"{V2276}{W10}Fufu,{W60} how lively. That is nice."
 
 @MIT_MW2_A:488 PLY 74211f6f
-
+"Sometimes you can remember the melody but just can't recall the title, right?"
 
 @MIT_MW2_A:489 MIT 46091817
-
+"{V2277}{W8}Fufu,{W35} yes, indeed.{W35} It happens often."
 
 @MIT_MW2_A:490 MIT 1b41e7ac
-
+"{V2278}{W8}It is very frustrating."
 
 @MIT_MW2_A:491 PLY c793e475
-
+"Favorite music is..."
 
 @MIT_MW2_A:492 MIT 8da408f1
-
+"{V2279}{W10}...{W10}...{W10}"
 
 @MIT_MW2_A:493 MIT c7c5bb44
-
+"{V2280}{W8}Yes, indeed.{W70} I think encountering good music{W45} is something irreplaceable."
 
 @MIT_MW2_A:494 PLY d8e9ede8
-
+"CG these days is so realistic, it's amazing."
 
 @MIT_MW2_A:495 MIT 4da3ae63
-
+"{V2281}{W10}It is so amazing{W45} that I cannot tell{W45} where the CG{W12} begins and ends."
 
 @MIT_MW2_A:496 PLY 01538f7d
-
+"Hahaha, I guess so."
 
 @MIT_MW2_A:497 PLY edad613d
-
+"Do you know what an HD recorder is?"
 
 @MIT_MW2_A:498 MIT 858b6beb
-
+"{V2282}{W5}Ah,{W8} yes.{W40} It can record a lot of TV, correct?"
 
 @MIT_MW2_A:499 PLY ccf2ab2e
-
+"Yeah, that. It's handy, isn't it?"
 
 @MIT_MW2_A:500 MIT 024a8647
-
+"{V2283}{W5}Yes, indeed."
 
 @MIT_MW2_A:501 MIT fa093b8c
-
+"{V2284}{W8}But{W40} it is so convenient{W20} that I might have to keep watching TV,{F9}{W20} and that frightens me."
 
 @MIT_MW2_A:502 PLY 404065d3
-
+"Don't you get sleepy reading difficult books?"
 
 @MIT_MW2_A:503 MIT e5937e0d
-
+"{V2285}{W5}I am fine.{W45} I do not {F2}{Ec}read difficult books."
 
 @MIT_MW2_A:504 PLY 180f9dfd
-
+"Autumn means reading, right?"
 
 @MIT_MW2_A:505 MIT 4234e98d
-
+"{V2286}{W10}Yes, indeed."
 
 @MIT_MW2_A:506 MIT 703b5604
-
+"{V2287}{W15}On a long autumn night,{W60} leaning on a cushion{W40} and {Ec}reading at leisure,{W42} sounds lovely."
 
 @MIT_MW2_A:507 PLY 7f3d178b
-
+"What's the most expensive thing you've bought recently?"
 
 @MIT_MW2_A:508 MIT 43d49fd2
-
+"{V2288}{W8}The expensive one was..."
 
 @MIT_MW2_A:509 MIT f8053c20
-
+"{V2289}{W8}It was a necktie{W8} I gave Father{W45} for his birthday."
 
 @MIT_MW2_A:510 MIT cc3527a9
-
+"{V2290}{W10}It was made in England,{W45} so Father, who loves France,{W35} made a rather complicated face."
 
 @MIT_MW2_A:511 PLY dca57bdb
-
+"There are things money can't buy, right?"
 
 @MIT_MW2_A:512 MIT af7ba454
-
+"{V2291}{W10}Yes..."
 
 @MIT_MW2_A:513 MIT 1662ff38
-
+"{V2292}{W8}The more precious{W5} a thing{W5} is,{W45} {F3}{Ec}the less money can buy it."
 
 @MIT_MW2_A:514 PLY d6f386a0
-
+"I'm trying to decide whether to buy something..."
 
 @MIT_MW2_A:515 MIT 1ab0769a
-
+"{V2293}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:516 MIT ae5a93dd
-
+"{V2294}{W8}Fufu,{W45} please decide before it sells out."
 
 @MIT_MW2_A:517 PLY fb78081a
-
+"The clothes you wore on Sunday... They looked great on you."
 
 @MIT_MW2_A:518 MIT 76183cb0
-
+"{V2295}{Nm}..."
 
 @MIT_MW2_A:519 MIT 7aab57ef
-
+"{V2296}Thank you very much."
 
 @MIT_MW2_A:520 PLY dfe3a54d
-
+"It's almost time to change into the new season's uniforms."
 
 @MIT_MW2_A:521 MIT 2b6f6c5b
-
+"{V2297}{W8}Yes.{W45} I must rearrange{W10} the closet."
 
 @MIT_MW2_A:522 MIT 57a5c185
-
+"{V2298}{W10}This year...{W90} it feels like I am packing away my summer memories,{W90} {Ec}and that makes me sad..."
 
 @MIT_MW2_A:523 PLY 38f0f1eb
-
+"What's the most important thing in fashion..."
 
 @MIT_MW2_A:524 MIT 14a7ff42
-
+"{V2299}{W10}...{W10}...{W10}"
 
 @MIT_MW2_A:525 MIT 67792d24
-
+"{V2300}{W8}Fufu,{W55} I think{W8} looking{W8} clean and neat{W8} comes first."
 
 @MIT_MW2_A:527 PLY 461313e6
-
+"What's your birthstone, Shijou?"
 
 @MIT_MW2_A:528 MIT defcdc00
-
+"{V2301}{W5}Opal and tourmaline."
 
 @MIT_MW2_A:529 MIT c6ed9ee2
-
+"{V2302}{W8}Tourmaline{W35} is known less as a gem{W20} than for giving off negative ions."
 
 @MIT_MW2_A:531 MIT d65a6a52
-
+"{V2302}Tourmaline{W35} is known less as a gem{W20} than for giving off negative ions."
 
 @MIT_MW2_A:532 PLY 61277f27
-
+"Hahaha, that's true..."
 
 @MIT_MW2_A:533 PLY 0d80b9d5
-
+"......"
 
 @MIT_MW2_A:534 PLY 54bce418
-
+"At the engagement ceremony..."
 
 @MIT_MW2_A:535 MIT 5f5327b1
-
+"{V2303}{W10}Huh..."
 
 @MIT_MW2_A:536 PLY d6537cab
-
+"No... never mind."
 
 @MIT_MW2_A:537 MIT d52fc6f3
-
+"{V2304}{W8}{Nm}{W8}...{W8}"
 
 @MIT_MW2_A:539 PLY 59f44939
-
+"If I were to give you something, Shijou..."
 
 @MIT_MW2_A:540 MIT 0ff8d7b8
-
+"{V2305}{W10}...{W15}...{W10}"
 
 @MIT_MW2_A:541 MIT eecc86e6
-
+"{V2306}{W15}Thank you.{W52} {F6}That thought alone,{W60} {Ec}I..."
 
 @MIT_MW2_A:543 PLY e1206d11
-
+"What do you pay the most attention to when you put on makeup?"
 
 @MIT_MW2_A:544 MIT 8c71bbeb
-
+"{V2307}{W8}The{W8} eyebrows.{W45} If I get them{W5} wrong,{W40} I look so strange{W40} that I{W8} burst out laughing at the mirror."
 
 @MIT_MW2_A:545 MIT 354421ad
-
+"{V2308}{W8}Fufu,{W45} imagine a failed game of{W8} fukuwarai.{W60} {Ec}It looks like that."
 
 @MIT_MW2_A:547 PLY 1eec2790
-
+"Who do girls learn makeup from?"
 
 @MIT_MW2_A:548 MIT 2aa796f5
-
+"{V2309}{W5}I learned{W45} from Mother."
 
 @MIT_MW2_A:549 MIT 19309e3a
-
+"{V2310}{W8}She taught me very carefully,{W45} one step{W5} at a time."
 
 @MIT_MW2_A:551 PLY 46f1ba3b
-
+"I don't really understand makeup, but..."
 
 @MIT_MW2_A:552 MIT 4ae82216
-
+"{V2311}{W10}...{W10}...{W10}"
 
 @MIT_MW2_A:553 MIT 2fcdf885
-
+"{V2312}{W10}You want to look pretty in front of the person you like...{W60} {Ec}That is all it is..."
 
 @MIT_MW2_A:555 PLY 8683502d
-
+"The white swimsuit you wore at the beach looked great on you."
 
 @MIT_MW2_A:556 MIT c6bc697e
-
+"{V2313}{W10}R-{W35}really?{W50} Thank you."
 
 @MIT_MW2_A:557 MIT 8f855356
-
+"{V2314}{W5}It is a favorite swimsuit of mine,{W40} so I am very happy."
 
 @MIT_MW2_A:559 MIT e95ca301
-
+"{Nm}, {V2315}what is the matter?{W35} You suddenly went quiet..."
 
 @MIT_MW2_A:560 PLY 80e69a3f
-
+"...Sorry, I was staring at you in your school swimsuit..."
 
 @MIT_MW2_A:561 MIT f9b599ac
-
+"{V2316}{W10}Huh..."
 
 @MIT_MW2_A:562 MIT 452f681e
-
+"{V2317}...{W8}Being told that{W45} {Sp}{F9}leaves me at a loss."
 
 @MIT_MW2_A:563 PLY a95aadda
-
+"S-sorry, of course."
 
 @MIT_MW2_A:565 MIT cd938ac0
-
+"{Nm}, {V2318}is something wrong?{W35} You suddenly went quiet..."
 
 @MIT_MW2_A:566 PLY 122f07da
-
+"Sorry... looking at you in your school swimsuit made me remember the beach we went to together."
 
 @MIT_MW2_A:567 MIT 4f4a6ad4
-
+"{V2319}{W10}Ah..."
 
 @MIT_MW2_A:568 MIT 67e2fe14
-
+"{V2320}{W10}That day{W70} was so much fun..."
 
 @MIT_MW2_A:569 PLY a9bebc32
-
+"Yeah..."
 
 @MIT_MW2_A:571 PLY 61a8600c
-
+"Taste in swimsuits is different for everyone, I guess..."
 
 @MIT_MW2_A:572 MIT 1ecd668b
-
+"{V2321}{W10}...{W15}...{W10}"
 
 @MIT_MW2_A:573 MIT 018d0e4b
-
+"{V2322}{W13}Y-{W60}yes, indeed...{Sp}"
 
 @MIT_MW2_A:575 PLY 1b2def92
-
+"French food feels more upscale than other cuisines, doesn't it?"
 
 @MIT_MW2_A:576 MIT b0ee6986
-
+"{V2323}{W10}France is{W20} {Sp}a land of gourmet food."
 
 @MIT_MW2_A:577 MIT 1408ef33
-
+"{V2324}{W8}But{W35} if you go to a small bistro,{W20} you can eat{W20} everyday dishes too."
 
 @MIT_MW2_A:579 PLY 996ce389
-
+"Curry and ramen are Japan's national foods, right?"
 
 @MIT_MW2_A:580 MIT b96c5fe7
-
+"{V2325}{W8}Fufu,{W35} yes, indeed."
 
 @MIT_MW2_A:581 MIT 61a686f5
-
+"{V2326}{W8}I do not eat ramen much,{W40} but I eat curry now and then."
 
 @MIT_MW2_A:582 PLY 369fa6f6
-
+"What kind of curry do you like?"
 
 @MIT_MW2_A:583 MIT fb733019
-
+"{V2327}{W8}I like dry curry{W38} with sweet raisins in it."
 
 @MIT_MW2_A:584 PLY 3928f381
-
+"I had it yesterday..."
 
 @MIT_MW2_A:585 MIT 865be163
-
+"{V2328}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:586 MIT 7a61c0fd
-
+"{V2329}{W8}Fufu,{W65} that sounds delicious."
 
 @MIT_MW2_A:588 PLY 21c87042
-
+"Don't you think millefeuille is hard to eat?"
 
 @MIT_MW2_A:589 MIT ac108cae
-
+"{V2330}{W8}Fufu,{W45} yes, indeed."
 
 @MIT_MW2_A:590 MIT a7b200f3
-
+"{V2331}{W8}Even if the cream squeezes{W8} out{W40} from between the pastry layers,{W35} I stay calm{W35} and scoop it up with my fork."
 
 @MIT_MW2_A:592 PLY c51342b5
-
+"What Japanese sweets do you like?"
 
 @MIT_MW2_A:593 MIT a976a48f
-
+"{V2332}{W8}Japanese sweets...{W60} {P3}{F2}{Ec}I like sweets made with matcha."
 
 @MIT_MW2_A:594 MIT 3920572d
-
+"{V2333}{W8}Ah...{W40} but{W35} matcha parfaits and{W8} matcha rolls{W30} {F4}may not count as Japanese sweets."
 
 @MIT_MW2_A:596 PLY e7d29201
-
+"I had some the other day..."
 
 @MIT_MW2_A:597 MIT f2caa5de
-
+"{V2334}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:598 MIT f6588670
-
+"{V2335}{W8}Ah,{W20} then I love it too.{W45} {P3}{F2}{Ec}It is delicious, is it not?"
 
 @MIT_MW2_A:600 PLY bfd4081e
-
+"Do you have a favorite fizzy drink?"
 
 @MIT_MW2_A:601 MIT 1a092887
-
+"{V2336}{W8}I{W3} like{W5} sparkling{W3} mineral water."
 
 @MIT_MW2_A:602 PLY 0962a13d
-
+"Sparkling mineral water? The kind where they add bubbles to water?"
 
 @MIT_MW2_A:603 MIT 4ea58870
-
+"{V2337}{W8}No, not that.{W45} There is{W3} mineral{W5} water{W45} that{W3} mixes naturally with carbon dioxide in the ground."
 
 @MIT_MW2_A:604 MIT 32c4ee27
-
+"{V2338}{W8}The aftertaste is very refreshing,{W30} and it goes very well{W30} with dishes made with cheese."
 
 @MIT_MW2_A:606 PLY 929cb659
-
+"Have you ever had alcohol?"
 
 @MIT_MW2_A:607 MIT 07510719
-
+"{V2339}{W10}What?{W60} Alcohol?{W45} Of course not."
 
 @MIT_MW2_A:608 MIT 3f7fad71
-
+"{V2340}{W8}...Besides,{W45} I do not think{W8} I could drink even as an adult."
 
 @MIT_MW2_A:609 MIT b14a184e
-
+"{V2341}{W8}I once made beef cheek stewed in red wine,{W30} {Ec}{W5}{F9}{Eo}and just from smelling the steam rising from the pot,{W25} I fainted..."
 
 @MIT_MW2_A:610 PLY 66ac4d2e
-
+"Just from the smell?"
 
 @MIT_MW2_A:611 MIT af84e734
-
+"{V2342}{W8}Yes.{W40} {Fm3}Mother cannot drink either,{W45} so I think{W35} {Sp}it runs in the family."
 
 @MIT_MW2_A:612 MIT fb154f68
-
+"{V2343}{W8}Fufu,{W50} next time I make red wine stew,{W25} {F3}{Ec}I will wear a mask."
 
 @MIT_MW2_A:614 PLY c051607c
-
+"We drink it a lot at home, though..."
 
 @MIT_MW2_A:615 MIT d77e76da
-
+"{V2344}{W10}...{W8}...{W8}"
 
 @MIT_MW2_A:616 MIT 9bc0cacf
-
+"{V2345}{W8}Ah,{W30} then we drink it now and then at home too.{W45} {Ec}It is delicious and good for summer, is it not?"
 
 @MIT_MW2_A:618 PLY 06722212
-
+(Okay, let's do something funny and liven things up!)
 
 @MIT_MW2_A:619 PLY ccee8495
-
+"Shijou, say "kitchen" ten times."
 
 @MIT_MW2_A:620 MIT b6291b36
-
+"{V2346}{W8}"Kitchen"?{W80} All right..."
 
 @MIT_MW2_A:621 MIT 25f97ec3
-
+"{V2347}{W5}Kitchen, kitchen, kitchen, kitchen,{W20} {Ec}kitchen, kitchen,{W5} kitchen, kitchen,{W15} {Eo}{F3}kitchen, kitchen."
 
 @MIT_MW2_A:622 PLY d91e90f9
-
+"What do you call a bird in English?"
 
 @MIT_MW2_A:623 MIT 0943a23a
-
+"{V2348}{W8}Chicken!"
 
 @MIT_MW2_A:624 PLY 763a9d55
-
+"Hahaha, a bird is a bird."
 
 @MIT_MW2_A:625 MIT 6719bde1
-
+"{V2349}{W8}Ah...{W55} Y-{W55}yes, indeed.{W55} {Sp}{Ec}How embarrassing."
 
 @MIT_MW2_A:626 PLY b444c9af
-
+(Okay, that worked.)
 
 @MIT_MW2_A:628 PLY fb1f2820
-
+"Is there a dish you're bad at making?"
 
 @MIT_MW2_A:629 MIT 28aadff3
-
+"{V2350}{W8}What I am bad at...{W65} is dishes dressed with vinegar and miso."
 
 @MIT_MW2_A:630 MIT ec99f033
-
+"{V2351}{W8}I rarely use vinegar{W8} or miso{W45} in everyday cooking,{W32} so I am not good at it."
 
 @MIT_MW2_A:631 PLY 696225c1
-
+"I see."
 
 @MIT_MW2_A:632 MIT 463b8e21
-
+"{V2352}{W5}I will study it from now on."
 
 @MIT_MW2_A:634 PLY 07227c8a
-
+"Delicious home cooking is..."
 
 @MIT_MW2_A:635 MIT 1fbe0074
-
+"{V2353}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:636 MIT 3baa25a3
-
+"{V2354}{W8}Yes, indeed.{W60} {Ec}Somehow{W20} it is comforting, is it not?"
 
 @MIT_MW2_A:638 PLY 751dfa5e
-
+"Don't you think udon is Japan's proud pasta dish?"
 
 @MIT_MW2_A:639 MIT 48fc2a6a
-
+"{V2355}{W8}Fufu,{W35} yes, indeed.{W45} Kneading wheat to make it{W35} is very similar."
 
 @MIT_MW2_A:641 PLY b8aac9b8
-
+"Don't you think popcorn at the movies is delicious?"
 
 @MIT_MW2_A:642 MIT c82b19ce
-
+"{V2356}{W10}Fufu,{W60} yes, indeed.{W35} I like the caramel flavor."
 
 @MIT_MW2_A:644 PLY b522ad6d
-
+"Yakisoba at a festival is all greasy and sticky, but strangely it tastes great."
 
 @MIT_MW2_A:645 MIT 2de14709
-
+"{V2357}{W8}Fufu,{W45} sometimes things taste better{W15} thanks to the atmosphere around you."
 
 @MIT_MW2_A:647 PLY 8d117591
-
+"Food at tourist spots is..."
 
 @MIT_MW2_A:648 MIT 257af5bf
-
+"{V2358}{W10}...{W15}...{W10}"
 
 @MIT_MW2_A:649 MIT 1de1d289
-
+"{V2359}{W10}Yes, indeed.{W60} When you are having fun,{W30} everything tastes good."
 
 @MIT_MW2_A:651 PLY 9514165d
-
+"When the seasons change, we have to be careful not to catch a cold."
 
 @MIT_MW2_A:652 MIT b69f4d5c
-
+"{V2360}{W10}Yes, indeed.{W65} It can be cooler than expected,{W45} and one can catch a chill while sleeping."
 
 @MIT_MW2_A:654 PLY 9c91d3b4
-
+"We have to be careful when the seasons change..."
 
 @MIT_MW2_A:655 MIT 76d134d9
-
+"{V2361}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:656 MIT 46f6774b
-
+"{V2362}{W8}Yes.{W35} I will be careful."
 
 @MIT_MW2_A:658 PLY 931584ca
-
+"With juice or anything else, low-calorie versions just never taste that good."
 
 @MIT_MW2_A:659 MIT 0afeac96
-
+"{V2363}{W8}Yes, indeed.{W65} Along with the calories,{W30} the deliciousness can disappear too."
 
 @MIT_MW2_A:660 MIT e0e69923
-
+"{V2364}{W8}I use{W50} real sugar and{W35} real mayonnaise.{W60} {P3}{F9}{m2}I do try not to have too much, though."
 
 @MIT_MW2_A:662 PLY 3f41e75f
-
+"You do ballet, so you seem to eat very little. Isn't that unsatisfying?"
 
 @MIT_MW2_A:663 MIT 7adf3ff0
-
+"{V2365}{W8}I have eaten small portions since I was little,{W35} so I am fine."
 
 @MIT_MW2_A:665 PLY 1a058d0d
-
+"When it's delicious I can't help eating too much..."
 
 @MIT_MW2_A:666 MIT 93751d12
-
+"{V2366}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:667 MIT 16eb5aa6
-
+"{V2367}{W8}Fufu,{W65} they say fat that has been gained does not go away,{W35} {Ec}so please be careful."
 
 @MIT_MW2_A:669 PLY 42e995e7
-
+"Your hairstyle is cute, Shijou."
 
 @MIT_MW2_A:670 MIT 2313a8e9
-
+"{V2368}{W8}Ah,{W50} thank you."
 
 @MIT_MW2_A:671 MIT e2dd3bd2
-
+"{V2369}{W8}Since I was little,{W20} Mother has{W30} always cut it for me."
 
 @MIT_MW2_A:672 MIT b74c26e9
-
+"{V2370}{W8}For me,{W60} it is a very precious time{W5} once a month.{W55} {Ec}"
 
 @MIT_MW2_A:673 MIT e8ad097b
-
+"{V2371}{W8}Yes?"
 
 @MIT_MW2_A:674 PLY 210fe477
-
+"...Are bloomers really embarrassing, after all?"
 
 @MIT_MW2_A:675 MIT e2fc1718
-
+"{V2372}{W10}Huh..."
 
 @MIT_MW2_A:676 MIT 10345736
-
+"{V2373}{W10}That...{W100} if I am asked{W10} so formally...{W55} it is embarrassing."
 
 @MIT_MW2_A:677 PLY 25979174
-
+"S-sorry... of course."
 
 @MIT_MW2_A:678 MIT 3d31ba2c
-
+"{V2374}{W8}Yes..."
 
 @MIT_MW2_A:680 PLY 44d98751
-
+"...You look so young in your school swimsuit, Shijou."
 
 @MIT_MW2_A:681 MIT 2a83491d
-
+"{V2375}...Do you think so too?{W60} It troubles me..."
 
 @MIT_MW2_A:682 MIT 17990004
-
+"{V2376}{W10}I wish I would grow more,{W60} {Sp}but I am already in Year 2, so{W65} I will surely stay like this."
 
 @MIT_MW2_A:684 MIT 46528daa
-
+"{V2377}{W8}Yes."
 
 @MIT_MW2_A:685 PLY 85492c0f
-
+"So there really is such a thing as a love that can't come true..."
 
 @MIT_MW2_A:686 MIT 4b90cbd1
-
+"{V2378}{Nm}..."
 
 @MIT_MW2_A:687 PLY 9b8c18b1
-
+"But just being able to talk with you like this, Shijou, makes me..."
 
 @MIT_MW2_A:688 MIT 0dd51105
-
+"{Nm}{V2379}... I feel the same."
 
 @MIT_MW2_A:690 PLY 5ec4ac34
-
+"Do you think we were meant to meet, Shijou?"
 
 @MIT_MW2_A:691 MIT 5e3df402
-
+"{V2380}{W20}Yes{W20}...{W100} I think so."
 
 @MIT_MW2_A:693 PLY 736ad888
-
+"Last Sunday was fun."
 
 @MIT_MW2_A:694 MIT fb50ccb0
-
+"{V2381}{W8}Yes.{W65} {Ec}Very much so."
 
 @MIT_MW2_A:695 PLY b2808735
-
+"It may be our first and last date, but being with you all day made me really happy..."
 
 @MIT_MW2_A:696 MIT 0e51adf5
-
+"{V2382}{W10}Me too..."
 
 @MIT_MW2_A:698 PLY 47b40835
-
+"Our meeting..."
 
 @MIT_MW2_A:699 MIT 5b31622e
-
+"{V2383}{W10}...{W10}...{W10}"
 
 @MIT_MW2_A:700 MIT 327a51e6
-
+"{V2384}{W10}Yes...{W60} I think so."
 
 @MIT_MW2_A:702 PLY 9554dd72
-
+(It's too late to be asking Shijou private things now...)
 
 @MIT_MW2_A:703 MIT af1b0b64
-
+"{Nm}{V2385}, is something the matter?"
 
 @MIT_MW2_A:704 PLY 872f5b10
-
+"...No, it's nothing."
 
 @MIT_MW2_A:705 MIT 7f1258b8
-
+"{V2386}{W10}Is that so...?"
 
 @MIT_MW2_A:707 PLY 089d82d9
-
+"Do you know what S and M mean?"
 
 @MIT_MW2_A:708 MIT 09d73483
-
+"{V2387}{W10}S...{W90} and M?"
 
 @MIT_MW2_A:709 PLY 9155a897
-
+"Aah, don't say them together!"
 
 @MIT_MW2_A:710 MIT 51da1bd7
-
+"{V2388}{W8}...I have no idea what they mean."
 
 @MIT_MW2_A:711 PLY f74b4ebe
-
+"Hahaha... then that's fine."
 
 @MIT_MW2_A:713 PLY b349e954
-
+"What do you wear to bed at night?"
 
 @MIT_MW2_A:714 MIT 3ff8b69b
-
+"{V2389}{W10}Lace pajamas.{W40} With pumpkin pants,{W30} {Ec}and they are very cute."
 
 @MIT_MW2_A:716 MIT f413f2c5
-
+"{V2390}{W10}Yes?"
 
 @MIT_MW2_A:717 PLY b1b750ca
-
+"Elephant go paooon!"
 
 @MIT_MW2_A:718 MIT 4736270c
-
+"{V2391}{W8}Eh...{Sp}"
 
 @MIT_MW2_A:719 PLY e01ee688
-
+(Uh-oh... she's appalled. ...But I can't back down now. Full push!)
 
 @MIT_MW2_A:720 MIT e0caa545
-
+"{V2392}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:721 PLY f11ce6d2
-
+"Elephant go paooon! Elephant go paooon!"
 
 @MIT_MW2_A:722 MIT 0b1f3399
-
+"{V2393}{W10}...{W10}...{W10}"
 
 @MIT_MW2_A:723 PLY ba9e85c4
-
+"Paooon! Paooon! Paooon!"
 
 @MIT_MW2_A:724 MIT ce84334b
-
+"{V2394}{W10}Pfft,{W60} hehe,{W60} honestly, {Nm}."
 
 @MIT_MW2_A:725 PLY 0dca206c
-
+(Phew. Okay, somehow that got a laugh.)
 
 @MIT_MW2_A:727 MIT 55ea5ea1
-
+"{V2395}{W8}Eh..."
 
 @MIT_MW2_A:728 MIT d02c1c3f
-
+"{V2396}{W10}Such talk...{W90} I do not know what to do."
 
 @MIT_MW2_A:729 PLY e1eed651
-
+"R-right, of course. Hahaha..."
 
 @MIT_MW2_A:731 PLY c191cbe3
-
+"You don't really want to think about the future... do you?"
 
 @MIT_MW2_A:732 MIT 77b6b0b5
-
+"{V2397}{W15}No.{W60} ...Not now.{W70} I do not want to think about it."
 
 @MIT_MW2_A:734 PLY ae4e4f94
-
+"Don't you ever wish you could go back to being a kid?"
 
 @MIT_MW2_A:735 MIT c5df911e
-
+"{V2398}{W8}To my childhood?{W55} {F2}Fufu,{W15} I do."
 
 @MIT_MW2_A:736 MIT 85e86b1c
-
+"{V2399}{W10}I would go back{W45} and meet {Nm} as a child.{W38}{P3} {F2}And then,{W30} I would play with you{W15} in{W10} the park{W10} to{W10} my heart's content."
 
 @MIT_MW2_A:738 PLY 99c749cb
-
+"Do you have any embarrassing memories from when you were little?"
 
 @MIT_MW2_A:739 MIT 74114180
-
+"{V2400}{W10}What embarrassed me was..."
 
 @MIT_MW2_A:740 MIT 3fc8bfc9
-
+"{V2401}{W8}I{W8} believed{W8} in{W8} Santa{W8} Claus{W30} until{W3} fourth grade."
 
 @MIT_MW2_A:741 MIT fa85eef7
-
+"{V2402}{W8}A girl{W8} I was close to at school{W5} told me,{W45} \\"There's no such thing as Santa,\\"{W15} and..."
 
 @MIT_MW2_A:742 MIT f94e49e9
-
+"{V2403}{W5}\\"He is too real!\\"{W3} I snapped back at her,{W5} getting all worked up."
 
 @MIT_MW2_A:743 MIT 706fdbfe
-
+"{V2404}...Just remembering it{W3} embarrasses me."
 
 @MIT_MW2_A:745 PLY e0b647bb
-
+"When I was a kid..."
 
 @MIT_MW2_A:746 MIT cbdc69ca
-
+"{V2405}{W10}...{W20}...{W10}"
 
 @MIT_MW2_A:747 MIT 5aecfe4e
-
+"{V2406}{W8}Fufu,{W55} is that so?{W70} {Eo}You must have been very cute."
 
 @MIT_MW2_A:749 PLY 464c364b
-
+"I'm sure I'll never meet a wonderful girl like you again..."
 
 @MIT_MW2_A:750 MIT ff8e9b99
-
+"{V2407}{W10}That is not..."
 
 @MIT_MW2_A:751 PLY 2cae11a0
-
+"No, I'm sure I won't. ...There's only one Shijou."
 
 @MIT_MW2_A:752 MIT 964f003a
-
+"{V2408}{Nm}..."
 
 @MIT_MW2_A:754 PLY 13f25892
-
+"To me, Shijou is..."
 
 @MIT_MW2_A:755 MIT a4e31ba3
-
+"{V2409}{W8}...{W10}...{W10}"
 
 @MIT_MW2_A:756 MIT e2b7b3c9
-
+"{Nm}...{V2410} I feel the same,{W90} too."
 
 @MIT_MW2_A:757 MIT 8186858e
-
+"{V2411}{W8}Yes."
 
 @MIT_MW2_A:758 PLY 737177a1
-
+"...Can I look at you?"
 
 @MIT_MW2_A:759 MIT 4911813f
-
+"{V2412}{W8}Eh..."
 
 @MIT_MW2_A:760 MIT 44803a9b
-
+"{V2413}{W8}...{W8}...{W8}"
 
 @MIT_MW2_A:761 PLY 12f6bc6d
-
+"If I could, I'd keep looking at you forever."
 
 @MIT_MW2_A:762 MIT b4c1bfb6
-
+"{V2414}{W12}So {W8}would I."
 
 @MIT_MW2_A:764 PLY 78742a54
-
+(Shijou has a fiance... No matter how hard I struggle...)
 
 @MIT_MW2_A:765 PLY 2ad9cffb
-
+(Ugh... no, I can't think like that. I have to smile. Shijou will be sad.)
 
 @MIT_MW2_A:766 MIT d0e4a413
-
+"{V2415}{W8}{Nm}..."
 
 @MIT_MW2_A:767 PLY 4254b996
-
+(Uh-oh... was my smile awkward?)
 
 @MIT_MW2_A:768 MIT 6f1b5343
-
+"{V2416}{W10}You do not have to force yourself.{W65} Just being like this with {Nm}{W50} makes me {W80}{Ec}happy."
 
 @MIT_MW2_A:770 MIT 0874e252
-
+"{V2417}{W8}Y{W5}es."
 
 @MIT_MW2_A:771 MIT dbba4418
-
+"{V2418}{W10}Ah..."
 
 @MIT_MW2_A:772 MIT 37e71b4a
-
+"{V2419}{W8}Fufu,{W75} even without that look, you are{W5} {Ec}wonderful{W3}, {Nm}."
 
 @MIT_MW2_A:774 PLY e3815aa0
-
+(Shijou... I want to hold her hand...)
 
 @MIT_MW2_A:775 MIT 2536f0ee
-
+"{V2420}{W8}Ah..."
 
 @MIT_MW2_A:776 MIT 70f04de2
-
+"{V2421}{Nm}..."
 
 @MIT_MW2_A:777 MIT 28f014b6
-
+"{V2422}{W8}If only I could stay{W125} {F6}like this with you forever..."

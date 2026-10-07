@@ -2,2032 +2,2032 @@
 # Format: docs/translation-format.md
 
 @YUM_MW1_A:39 PLY 962195b0
-
+"Hoshino, do you like school?"
 
 @YUM_MW1_A:41 YUM d18376b7
-
+"{V1553}Yes,{W25} of course."
 
 @YUM_MW1_A:42 PLY 13db3f4d
-
+"Where do you go most at school?"
 
 @YUM_MW1_A:43 YUM 971aad4f
-
+"{V1554}Since I'm on the Library Committee...{W30} {F2}I'm often{W25} in the{W25} library at lunch break and after school."
 
 @YUM_MW1_A:44 PLY 59c97208
-
+"The library, huh..."
 
 @YUM_MW1_A:45 PLY 18567644
-
+"Summer vacation just ended, so coming to school feels like a chore..."
 
 @YUM_MW1_A:47 YUM 6381566b
-
+"{V1555}Fufu,{W30} {Ec}it's hard to shake that vacation mood."
 
 @YUM_MW1_A:48 PLY 495a0ac2
-
+"What do you do during break?"
 
 @YUM_MW1_A:49 YUM 0d5b7f6c
-
+"{V1556}{W10}During break...{W40} I'm usually at my desk..."
 
 @YUM_MW1_A:50 YUM b93c8c49
-
+"{V1557}{W10}When I have nothing to do,{W10} I just stay seated."
 
 @YUM_MW1_A:51 PLY 91ab250a
-
+"The hot days keep going. Are you okay with the summer fatigue?"
 
 @YUM_MW1_A:52 YUM 109bd7f0
-
+"{V1558}{W5}I'm fine.{W35} I'm in the library a lot."
 
 @YUM_MW1_A:53 PLY d8356268
-
+"Right, the library has air conditioning."
 
 @YUM_MW1_A:55 YUM 3e1942ef
-
+"{V1559}Yes."
 
 @YUM_MW1_A:56 PLY 10172287
-
+"Hoshino, what's your hobby?"
 
 @YUM_MW1_A:57 YUM 125c415e
-
+"{V1560}{W5}Reading."
 
 @YUM_MW1_A:58 PLY d9a1e3ac
-
+"Right, you're on the Library Committee, so you like books, don't you?"
 
 @YUM_MW1_A:59 YUM 9a32e744
-
+"{V1561}Yes."
 
 @YUM_MW1_A:60 PLY 0a5fe162
-
+"Hoshino, do you take proper notes in class?"
 
 @YUM_MW1_A:61 YUM 4e807c33
-
+"{V1562}Eh?{W35} Yes."
 
 @YUM_MW1_A:63 YUM 613fcba4
-
+"{V1563}If I don't write things down,{W10} I forget them."
 
 @YUM_MW1_A:64 PLY 4066cf1b
-
+"I see... That's impressive."
 
 @YUM_MW1_A:65 YUM 4902944e
-
+"{V1564}I-I{W25} think it's normal..."
 
 @YUM_MW1_A:66 PLY 18bca7c3
-
+"Y-yeah..."
 
 @YUM_MW1_A:67 PLY a0e16ebe
-
+"Flowers are somehow soothing to look at, aren't they?"
 
 @YUM_MW1_A:68 YUM 776036e4
-
+"{V1565}Yes.{W70} If you raise them with love,{W35} they bloom into really beautiful flowers.{Ec}"
 
 @YUM_MW1_A:69 PLY 1287d6fb
-
+"You have to water flowers in the morning while it's still cool, right?"
 
 @YUM_MW1_A:70 YUM 6aa17258
-
+"{V1566}Yes.{W50} Neither people nor flowers{W30} like hot water."
 
 @YUM_MW1_A:71 PLY c161b6c9
-
+"Are you doing Library Committee work right now?"
 
 @YUM_MW1_A:73 YUM 26e5b7f1
-
+"{V1567}Ah...{W45} No.{W45} I was just{W10} looking around for any interesting books."
 
 @YUM_MW1_A:74 PLY 5e856c04
-
+"Hoshino, which group are you in for chemistry?"
 
 @YUM_MW1_A:75 YUM 0bcc198f
-
+"{V1568}{W10}Let's see...{W65} Group 3, why?{F3}"
 
 @YUM_MW1_A:76 PLY f945da2e
-
+"I'm in Group 5. ...If we were in the same group, we could do experiments together."
 
 @YUM_MW1_A:77 YUM d1662fb4
-
+"{V1569}Yes,{W50} that's true."
 
 @YUM_MW1_A:78 PLY bbe994d9
-
+"The wind feels nice on the rooftop, doesn't it?"
 
 @YUM_MW1_A:80 YUM f890cba4
-
+"{V1570}Yes,{W40} it does."
 
 @YUM_MW1_A:81 PLY eec27065
-
+"What were you doing on the terrace?"
 
 @YUM_MW1_A:82 YUM 4052457c
-
+"{V1571}Ah...{W50} I was thinking of getting something to drink..."
 
 @YUM_MW1_A:83 PLY c6d547da
-
+"I see. Then want to go buy something?"
 
 @YUM_MW1_A:84 YUM 9917d08e
-
+"{V1572}Ah,{W50} no...{W50} {F6}I'm fine."
 
 @YUM_MW1_A:85 PLY 2a16b2f5
-
+"Really?"
 
 @YUM_MW1_A:86 YUM 4292b223
-
+"{V1573}Mm.{W55} Thank you."
 
 @YUM_MW1_A:87 PLY 200c6f6f
-
+"Just watching the fountain feels nice somehow."
 
 @YUM_MW1_A:88 YUM 2b82a44d
-
+"{V1574}Yes,{W30} very much.{Ec}"
 
 @YUM_MW1_A:89 PLY 94fd4bea
-
+"Hoshino, do you usually eat lunch in the cafeteria?"
 
 @YUM_MW1_A:90 YUM ed52315d
-
+"{V1575}Yes.{W45} {F7}Sometimes I bring a bento,{W20} {F3}but mostly..."
 
 @YUM_MW1_A:91 PLY ec073434
-
+"What were you doing in a place like this?"
 
 @YUM_MW1_A:92 YUM ae0b45b5
-
+"{V1577}Ah...{W50} There was trash on the ground,{W5} so I was picking it up."
 
 @YUM_MW1_A:93 PLY 3b2d6895
-
+"I see, that's impressive."
 
 @YUM_MW1_A:94 YUM 3da5f0e8
-
+"{V1578}{W5}No,{W40} not really."
 
 @YUM_MW1_A:95 PLY 7e1e221d
-
+"Come to think of it, earlier..."
 
 @YUM_MW1_A:96 YUM 47162b54
-
+"{V1579}......"
 
 @YUM_MW1_A:97 YUM ef621c0e
-
+"{V1580}Fufu,{W30} is that so."
 
 @YUM_MW1_A:98 PLY 405a4bca
-
+"Hoshino, aren't you joining any club?"
 
 @YUM_MW1_A:99 YUM 415a7103
-
+"{V1581}Ah...{W55} I have{W25} Library Committee work,{W5} so clubs..."
 
 @YUM_MW1_A:100 PLY 35b2dae6
-
+"R-right. Of course."
 
 @YUM_MW1_A:101 PLY 53ad954d
-
+"Hoshino, you're not interested in clubs... right?"
 
 @YUM_MW1_A:102 YUM e19a4d34
-
+"{V1582}Eh,{W45} yes...{W45} Library Committee work{W5} keeps me busy."
 
 @YUM_MW1_A:103 PLY 5360950f
-
+"Our school's girls' uniform is cute, isn't it?"
 
 @YUM_MW1_A:104 YUM 92208b63
-
+"{V1583}Yes.{W20} Very much.{Ec}"
 
 @YUM_MW1_A:105 PLY fa595a01
-
+"Hoshino, the uniform suits you."
 
 @YUM_MW1_A:106 YUM da509f86
-
+"{V1584}N-{W20}{F6}not really..."
 
 @YUM_MW1_A:107 PLY 081e60ea
-
+"You think?..."
 
 @YUM_MW1_A:108 YUM 945df86b
-
+"{V1585}{W5}Mm..."
 
 @YUM_MW1_A:109 PLY fcae64ea
-
+"Our uniform..."
 
 @YUM_MW1_A:110 YUM 69e0b7c7
-
+"{V1586}......"
 
 @YUM_MW1_A:111 YUM e5afdf03
-
+"{V1587}Yes.{W35} It seems to have a reputation for being cute."
 
 @YUM_MW1_A:112 PLY 08f22f0e
-
+"Library Committee work looks hard."
 
 @YUM_MW1_A:114 YUM dbb3d80b
-
+"{V1588}No,{W35} I do it because I like it,{W20} {Eo}so I'm fine."
 
 @YUM_MW1_A:115 PLY 8e153e70
-
+"How many times a week do you have Library Committee duty?"
 
 @YUM_MW1_A:116 YUM 80a56253
-
+"{V1589}For me,{W65} {Ec}almost every day."
 
 @YUM_MW1_A:117 PLY 752bc6cc
-
+"Huh? Why?"
 
 @YUM_MW1_A:118 YUM ebce3f43
-
+"{V1590}Everyone{W5} asks me to cover for them,{W25} {F3}or I offer myself,{W5} saying I'll do tomorrow too."
 
 @YUM_MW1_A:119 PLY 9cb355e6
-
+"I see... You really like the Library Committee work."
 
 @YUM_MW1_A:120 YUM c27e6336
-
+"{V1591}Yes."
 
 @YUM_MW1_A:121 PLY f2f971d7
-
+"Is there anything that made you happy as a Library Committee member?"
 
 @YUM_MW1_A:122 YUM 81fc13f9
-
+"{V1592}Something that made me happy..."
 
 @YUM_MW1_A:123 YUM bb781ca9
-
+"{V1593}...I think{W30} getting borrowed books{W15} returned on the due date{W15} makes me happiest."
 
 @YUM_MW1_A:124 PLY 10b13b23
-
+"Y-yeah. I'll be careful."
 
 @YUM_MW1_A:125 YUM af176d18
-
+"{V1594}Fufu."
 
 @YUM_MW1_A:126 PLY 8574ba23
-
+"Library Committee work seems hard, but..."
 
 @YUM_MW1_A:127 YUM 1cf30b4c
-
+"{V1595}......"
 
 @YUM_MW1_A:128 YUM 872c2651
-
+"{V1596}No,{W45} I like books, so I'm fine."
 
 @YUM_MW1_A:129 PLY 7aa977f1
-
+"Hoshino, do you follow the school rules?"
 
 @YUM_MW1_A:130 YUM 71b0bb57
-
+"{V1597}I...{W50} think I'm someone who does..."
 
 @YUM_MW1_A:131 PLY efa94d96
-
+"Right, you seem like a serious type."
 
 @YUM_MW1_A:133 YUM 0c7af766
-
+"{V1598}Y-{W45}you think so?..."
 
 @YUM_MW1_A:134 PLY e4a0ecd7
-
+"Which school rule do you hate most?"
 
 @YUM_MW1_A:135 YUM 385f0265
-
+"{V1599}{W5}I...{W55} don't{W5} really{W5} have one I hate..."
 
 @YUM_MW1_A:136 PLY df6b2731
-
+"I-is that so..."
 
 @YUM_MW1_A:137 YUM ba3fb507
-
+"{V1600}{W10}If you live normally,{W15} you don't break that many, do you..."
 
 @YUM_MW1_A:138 PLY 65796806
-
+"There are so many school rules, but..."
 
 @YUM_MW1_A:139 YUM 97334998
-
+"{V1601}......"
 
 @YUM_MW1_A:140 YUM 60aadf32
-
+"{V1602}Mm.{W35} They're within what you can follow naturally."
 
 @YUM_MW1_A:141 PLY 7436043e
-
+"Who's the Library Committee adviser again?"
 
 @YUM_MW1_A:143 YUM e25535a4
-
+"{V1603}{W10}Mr. Minagawa,{W10} the classical literature teacher."
 
 @YUM_MW1_A:144 PLY 8718668c
-
+"Oh, that old guy."
 
 @YUM_MW1_A:145 YUM 3ba16482
-
+"{V1604}{W10}Old guy..."
 
 @YUM_MW1_A:146 YUM e076e406
-
+"{V1605}He is rather advanced in years,{W40} but that means{W5} he has a wealth of knowledge about literature.{Ec}"
 
 @YUM_MW1_A:147 PLY 5cf5173c
-
+"Oh, really?"
 
 @YUM_MW1_A:148 PLY 8ebe9310
-
+"Ms. Kawada feels like an older sister. She's great."
 
 @YUM_MW1_A:149 YUM 4fd10d34
-
+"{V1606}Yes.{W40} I think she's a very good teacher.{Ec}"
 
 @YUM_MW1_A:150 PLY 929cc4a7
-
+"The other day, Ms. Kawada..."
 
 @YUM_MW1_A:151 YUM d29c7de3
-
+"{V1607}......"
 
 @YUM_MW1_A:152 YUM ef6f4c45
-
+"{V1608}Fufu,{W15} is that so.{W40} She's a good teacher,{W20} Ms. Kawada."
 
 @YUM_MW1_A:153 PLY c1aa8e12
-
+"If you had to transfer schools, what would you do?"
 
 @YUM_MW1_A:154 YUM 1a365dc7
-
+"{V1609}What?!"
 
 @YUM_MW1_A:155 YUM 67756f2c
-
+"{V1610}W-{W25}why are you asking that?"
 
 @YUM_MW1_A:156 PLY 7c895260
-
+"N-no, no reason..."
 
 @YUM_MW1_A:157 YUM 93c005b7
-
+"{V1611}...If that happened...{W60} I'd be so lonely,{W40} I think I'd cry...{Ec}"
 
 @YUM_MW1_A:158 PLY 5d8c77cc
-
+"I've never transferred schools, but..."
 
 @YUM_MW1_A:159 YUM 4a52d7ef
-
+"{V1612}Oh..."
 
 @YUM_MW1_A:160 YUM b52251fd
-
+"{V1613}I haven't either...{W55} so...{W30} I don't know."
 
 @YUM_MW1_A:161 PLY 021da75d
-
+"Ah! I forgot to do my homework!"
 
 @YUM_MW1_A:162 YUM 809917c7
-
+"{V1614}What?!"
 
 @YUM_MW1_A:163 PLY 77c511c8
-
+"You know, the classical literature one for fifth period..."
 
 @YUM_MW1_A:164 YUM 749fb7bb
-
+"{V1615}Classical literature?{W60} I don't think{W15} {F3}we have that class today..."
 
 @YUM_MW1_A:165 PLY c04c852d
-
+"Huh? Ah... it's tomorrow. Whew."
 
 @YUM_MW1_A:166 YUM f8263b19
-
+"{V1616}Hehe...{Ec}"
 
 @YUM_MW1_A:167 PLY 082589f3
-
+"Ugh, doing homework is such a pain..."
 
 @YUM_MW1_A:168 YUM 06d384ba
-
+"{V1617}{W10}The homework{W5} we got{W45} today...{F7}{W45} Ah,{W15} you mean math?{F3}"
 
 @YUM_MW1_A:169 PLY 5341122d
-
+"Yeah, that."
 
 @YUM_MW1_A:170 YUM 5bd1a86c
-
+"{V1618}That teacher{W30} gets really angry if you don't do it,{W10} so it's tough..."
 
 @YUM_MW1_A:171 PLY 296e0d1c
-
+"Tell me about it."
 
 @YUM_MW1_A:172 PLY 1b4d9768
-
+"I guess I have to do it..."
 
 @YUM_MW1_A:173 YUM 2af72523
-
+"{V1619}Hehe."
 
 @YUM_MW1_A:174 PLY bc917d9e
-
+"Did you do your summer vacation homework properly?"
 
 @YUM_MW1_A:175 YUM ad8b05db
-
+"{V1620}Yes.{W25} I turned it in{W10} on the opening ceremony day."
 
 @YUM_MW1_A:176 PLY 876a2929
-
+"I see..."
 
 @YUM_MW1_A:177 YUM 059fe263
-
+"{V1621}What about you, {Nm}?"
 
 @YUM_MW1_A:178 PLY a728200a
-
+"I only turned in the work for teachers who'd get mad otherwise."
 
 @YUM_MW1_A:179 YUM d8021aa6
-
+"{V1622}Hehe,{W25} {Ec}is that so."
 
 @YUM_MW1_A:180 PLY 2b5dcddc
-
+"Studying at home..."
 
 @YUM_MW1_A:181 YUM eab22c54
-
+"{V1623}......"
 
 @YUM_MW1_A:182 YUM 8a65623c
-
+"{V1624}Fufu,{W60} it's especially a pain{W15} when there's homework."
 
 @YUM_MW1_A:183 PLY 4fbc1adf
-
+"Hoshino, are your grades good?"
 
 @YUM_MW1_A:184 YUM 037d7359
-
+"{V1625}W-{W30}well...{W60} I think they're average.{F9}"
 
 @YUM_MW1_A:185 PLY 8ec99095
-
+"Huh? Really? You look like you'd do well."
 
 @YUM_MW1_A:186 YUM 1b1b5031
-
+"{V1626}N-{W45}not really..."
 
 @YUM_MW1_A:187 PLY e9126ee4
-
+"Have your parents ever scolded you for bad grades?"
 
 @YUM_MW1_A:188 YUM 0f39ba13
-
+"{V1627}{W10}Scolded me?{W55} ...No,{W20} I think?{F1}"
 
 @YUM_MW1_A:189 PLY 5cedd0a9
-
+"Lucky you, having great grades."
 
 @YUM_MW1_A:191 YUM 65375ba0
-
+"{V1628}N-{W15}no,{W20} that's not it.{W45} {F6}My parents{W10} just don't care about grades."
 
 @YUM_MW1_A:192 PLY 6fd166b7
-
+"School grades..."
 
 @YUM_MW1_A:193 YUM 21f96824
-
+"{V1629}......"
 
 @YUM_MW1_A:194 YUM e22c1688
-
+"{V1630}Yes,{W40} it's nice{W25} when your grades go up."
 
 @YUM_MW1_A:195 PLY e6eb212c
-
+"Have you started thinking about entrance exams yet?"
 
 @YUM_MW1_A:196 YUM 551753bb
-
+"{V1631}No,{W45} I{W25} haven't yet...{W35} It gets depressing...{Ec}"
 
 @YUM_MW1_A:197 PLY be18ec94
-
+"Yeah, it does..."
 
 @YUM_MW1_A:198 YUM fd9d69e4
-
+"{V1632}Mm..."
 
 @YUM_MW1_A:199 PLY ef2534e2
-
+"When I think about entrance exams..."
 
 @YUM_MW1_A:200 YUM ac403e10
-
+"{V1633}......"
 
 @YUM_MW1_A:201 YUM d7b8a985
-
+"{V1634}Mm.{W50} They get me down,{W15} so I try not to think about them much.{Ec}"
 
 @YUM_MW1_A:202 PLY a61cef2f
-
+"Y-yeah, I get that."
 
 @YUM_MW1_A:203 PLY 04079a90
-
+"What do you think about Italian?"
 
 @YUM_MW1_A:204 YUM 9668fc52
-
+"{V1635}W-{W35}what do you mean, what do I think..."
 
 @YUM_MW1_A:205 PLY 0f394306
-
+"Y-yeah, of course. Hahaha."
 
 @YUM_MW1_A:206 PLY 47dcf14d
-
+"Italian is..."
 
 @YUM_MW1_A:207 YUM d28ccd36
-
+"{V1636}......"
 
 @YUM_MW1_A:208 YUM 3eabae33
-
+"{V1637}I-{W50}is that so...{W45} I see."
 
 @YUM_MW1_A:209 PLY a74ce66a
-
+"Hoshino, are you good at P.E.?"
 
 @YUM_MW1_A:210 YUM c2744ac3
-
+"{V1638}No.{W55} I'm{W15} not good at sports..."
 
 @YUM_MW1_A:211 PLY 6c6b1e77
-
+"I-I see..."
 
 @YUM_MW1_A:212 PLY 9adf5319
-
+"Speaking of P.E...."
 
 @YUM_MW1_A:213 YUM 1248bcda
-
+"{V1639}......"
 
 @YUM_MW1_A:215 YUM 84b032b5
-
+"{V1640}I'm sorry.{W45} I'm{W35} bad at P.E...."
 
 @YUM_MW1_A:216 PLY 1e48ee02
-
+"Swimming feels great, doesn't it?"
 
 @YUM_MW1_A:217 YUM ae485362
-
+"{V1641}Yes,{W35} {Eo}especially on hot days."
 
 @YUM_MW1_A:218 PLY db961617
-
+"Man, I wish we had swimming every day."
 
 @YUM_MW1_A:219 YUM 243e7188
-
+"{V1642}Hehe,{W35} do you like swimming that much?"
 
 @YUM_MW1_A:220 PLY a798dcda
-
+"More than boring classes, anyway."
 
 @YUM_MW1_A:221 YUM 13265087
-
+"{V1643}Fufu,{W45} true.{Ec}"
 
 @YUM_MW1_A:222 PLY 451ba9aa
-
+"Swimming is, how should I put it..."
 
 @YUM_MW1_A:223 YUM 3cc9e272
-
+"{V1644}......"
 
 @YUM_MW1_A:224 YUM e0c2718c
-
+"{V1645}Yes,{W30} it's fun, isn't it?"
 
 @YUM_MW1_A:225 PLY 6e42691b
-
+"Is there any sport you're good at?"
 
 @YUM_MW1_A:226 YUM 895efde6
-
+"{V1646}I'm{W40} not good at sports..."
 
 @YUM_MW1_A:227 PLY 75da8918
-
+"Hoshino, sports are..."
 
 @YUM_MW1_A:228 YUM 52dec89d
-
+"{V1647}......"
 
 @YUM_MW1_A:229 PLY fbf932bb
-
+"Not your thing, right..."
 
 @YUM_MW1_A:230 YUM 63239c59
-
+"{V1648}No...{Ec}"
 
 @YUM_MW1_A:231 PLY 384a1a7a
-
+"Hoshino, can you do any kind of dance?"
 
 @YUM_MW1_A:232 YUM 40125cdb
-
+"{V1649}Eh,{W25} dance?"
 
 @YUM_MW1_A:234 YUM a6762adb
-
+"{V1650}{W20}We learn creative dance{W30} in P.E.,{W55} but it's nothing I could show anyone..."
 
 @YUM_MW1_A:235 PLY 8cc93563
-
+"That creative dance girls learn in P.E...."
 
 @YUM_MW1_A:236 YUM 216bfff8
-
+"{V1651}Eh..."
 
 @YUM_MW1_A:238 YUM 4c26b992
-
+"{V1652}Yes...{W60} I'm bad at it,{W55} so I always stay in the corner and just follow everyone else."
 
 @YUM_MW1_A:239 PLY 770303c4
-
+"What kind of music do you usually listen to?"
 
 @YUM_MW1_A:240 YUM 29314c5f
-
+"{V1653}Let's{W30} see...{W45} What I listen to most is{W20} {F3}relaxing music{W10} I can listen to while reading."
 
 @YUM_MW1_A:241 PLY ad8cded9
-
+"Like what?"
 
 @YUM_MW1_A:242 YUM 4d35a613
-
+"{V1654}Soft female vocals,{W15} or someone singing along to a piano."
 
 @YUM_MW1_A:243 PLY ddff2919
-
+"Do you listen to pop songs much?"
 
 @YUM_MW1_A:244 YUM d2e45768
-
+"{V1655}Yes.{W30} They often play at the end of TV dramas.{Ec}"
 
 @YUM_MW1_A:245 PLY 17eb5538
-
+"When do you usually listen to music?"
 
 @YUM_MW1_A:246 YUM 4b82a09d
-
+"{V1656}When I'm...{W70} reading in my room.{W35} {F2}I put it on repeat{W10} and play the same CD all the time.{Ec}"
 
 @YUM_MW1_A:247 PLY 68fd94c5
-
+"There's this song I heard the other day..."
 
 @YUM_MW1_A:248 YUM 241029a5
-
+"{V1657}......"
 
 @YUM_MW1_A:249 YUM 0c5b04bd
-
+"{V1658}I see.{W25} Maybe I'll listen to it too..."
 
 @YUM_MW1_A:250 PLY 491ceaa8
-
+"What TV shows do you watch a lot?"
 
 @YUM_MW1_A:251 YUM dc18e3d8
-
+"{V1659}What I watch most...{W45} is dramas and movies."
 
 @YUM_MW1_A:252 YUM 0a604a88
-
+"{V1660}...But{W25} there's one problem."
 
 @YUM_MW1_A:253 PLY 3150f24e
-
+"What is it?"
 
 @YUM_MW1_A:254 YUM 03147c7b
-
+"{V1661}No matter how boring a drama is,{W30} once I start watching it,{W5} I end up watching to the end."
 
 @YUM_MW1_A:255 PLY adaeb24e
-
+"Hahaha, I see."
 
 @YUM_MW1_A:256 PLY 3cc0adc6
-
+"Hoshino, do you go to the movies?"
 
 @YUM_MW1_A:257 YUM 2484195e
-
+"{V1662}I go...{W40} about once every two or three months.{F3}"
 
 @YUM_MW1_A:258 PLY ce0c84e0
-
+"That's pretty often, then."
 
 @YUM_MW1_A:259 YUM 56a19d99
-
+"{V1663}{Ec}Yes."
 
 @YUM_MW1_A:260 PLY 706dde20
-
+"TV dramas and movies are..."
 
 @YUM_MW1_A:261 YUM df872bd1
-
+"{V1664}......"
 
 @YUM_MW1_A:262 YUM 287ec613
-
+"{V1665}Yes,{W30} I watch them a lot too."
 
 @YUM_MW1_A:263 PLY 108323ab
-
+"Hoshino, you like reading, don't you?"
 
 @YUM_MW1_A:264 YUM 4ffd48a4
-
+"{V1666}Yes,{W40} I love it."
 
 @YUM_MW1_A:265 PLY 72d4b38c
-
+"About how many books do you read a month?"
 
 @YUM_MW1_A:266 YUM fd4e7995
-
+"{V1667}Let's{W10} see...{W50} about{W5} three a week,{W40} so in a month{W20} about twelve...{W5} I guess.{F3}"
 
 @YUM_MW1_A:267 PLY 951088ef
-
+"You read that many?!"
 
 @YUM_MW1_A:268 YUM ce7ea320
-
+"{V1668}If I had the time,{W10} I'd want to read even more."
 
 @YUM_MW1_A:269 PLY 47937538
-
+"Is your room full of books, by any chance?"
 
 @YUM_MW1_A:270 YUM 8bb64aef
-
+"{V1669}N-{W25}no."
 
 @YUM_MW1_A:271 YUM e9691887
-
+"{V1670}I don't{W15} buy that many.{W25} I can borrow them from the library."
 
 @YUM_MW1_A:272 PLY dcfd2899
-
+"Oh, right."
 
 @YUM_MW1_A:273 PLY 261839f4
-
+"...You might be the person who borrows the most books in the whole school."
 
 @YUM_MW1_A:274 YUM 98b56ef9
-
+"{V1671}Y-{W45}yes.{W35} Maybe so..."
 
 @YUM_MW1_A:275 PLY 849204b8
-
+"You really light up when you talk about books, Hoshino."
 
 @YUM_MW1_A:276 YUM 054de9b6
-
+"{V1672}I-{W25}I do...?"
 
 @YUM_MW1_A:277 PLY b041a85a
-
+"Yeah. You look like you're having a great time."
 
 @YUM_MW1_A:278 YUM f440aed4
-
+"{V1673}It's somehow{W40} embarrassing..."
 
 @YUM_MW1_A:279 PLY e90729f0
-
+"For you, Hoshino, reading is..."
 
 @YUM_MW1_A:280 YUM c3a90c30
-
+"{V1674}......"
 
 @YUM_MW1_A:281 YUM 84f16089
-
+"{V1675}{W10}Yes...{W20} maybe so..."
 
 @YUM_MW1_A:282 PLY 1bf21e54
-
+"Hoshino, do you like Japanese food or Western food better?"
 
 @YUM_MW1_A:283 YUM 5fefe314
-
+"{V1676}Hmm...{W75} I like both,{W15} so it depends on my mood that day..."
 
 @YUM_MW1_A:284 PLY e17ad1e3
-
+"What's your favorite Japanese food, Hoshino?"
 
 @YUM_MW1_A:285 YUM c8e3749c
-
+"{V1677}...For Japanese food,{W50} {F3}chawanmushi or tamagoyaki..."
 
 @YUM_MW1_A:286 YUM ca48f94d
-
+"{V1678}{W5}I like dishes made with eggs."
 
 @YUM_MW1_A:287 PLY a45e339e
-
+"They do call it a "meal," so dinner has to be rice, right?"
 
 @YUM_MW1_A:288 YUM ee842fe2
-
+"{V1679}Fufu,{W50} it's comforting{W10} to have rice and miso soup."
 
 @YUM_MW1_A:289 PLY dbe3a72d
-
+"I ate this the other day..."
 
 @YUM_MW1_A:290 YUM 4a0b6358
-
+"{V1680}......"
 
 @YUM_MW1_A:291 YUM 1261fc54
-
+"{V1681}I see.{W40} That sounds nice for summer."
 
 @YUM_MW1_A:292 PLY d9121a1f
-
+"What's your favorite sweet, Hoshino?"
 
 @YUM_MW1_A:293 YUM e8295337
-
+"{V1682}{W5}I like chocolate.{W25} So{W10} I{W25} like any sweets made with{W15} chocolate.{Ec}"
 
 @YUM_MW1_A:294 PLY 41604e3f
-
+"What's your favorite kind of cake?"
 
 @YUM_MW1_A:295 YUM 7de26c53
-
+"{V1683}{W5}Since I like chocolate...{W15} gateau au chocolat{W10} or Sachertorte."
 
 @YUM_MW1_A:296 PLY 282d76c3
-
+"Ice cream is the best in summer, huh?"
 
 @YUM_MW1_A:297 YUM 63010623
-
+"{V1684}Fufu,{W30} it's cold and delicious.{Ec}"
 
 @YUM_MW1_A:298 PLY 57fda8e4
-
+"There are so many kinds of sweets..."
 
 @YUM_MW1_A:299 YUM 85f6c83f
-
+"{V1685}......"
 
 @YUM_MW1_A:300 YUM 67226f6b
-
+"{V1686}Fufu,{W25} that's true.{W15} It's hard to choose."
 
 @YUM_MW1_A:301 PLY 2c43a9fd
-
+"Coffee or tea, which do you like?"
 
 @YUM_MW1_A:302 YUM 3e982ff9
-
+"{V1687}{W10}I like{W45} tea with lots of milk.{W25} I often drink it while reading."
 
 @YUM_MW1_A:303 PLY 96eed4b0
-
+"What's your favorite juice, Hoshino?"
 
 @YUM_MW1_A:304 YUM c4a31f5b
-
+"{V1688}{W5}I like{W30} apple juice.{W45} {F2}Not too sweet,{W15} the light kind is best."
 
 @YUM_MW1_A:305 PLY 7d0f8630
-
+"It's so hot, you end up drinking too much water."
 
 @YUM_MW1_A:306 YUM 3cff26f0
-
+"{V1689}Fufu,{W50} be careful not to upset your stomach."
 
 @YUM_MW1_A:307 PLY 94b2c732
-
+"Hoshino, are you good at cooking?"
 
 @YUM_MW1_A:308 YUM d37f1078
-
+"{V1690}{W5}I don't know if I'm good,{W20} but I like making food."
 
 @YUM_MW1_A:309 YUM 93df562e
-
+"{V1691}My mother teaches me all sorts of things.{Ec}"
 
 @YUM_MW1_A:310 PLY c2667eb2
-
+"What's your best dish, Hoshino?"
 
 @YUM_MW1_A:311 YUM 60e9fafe
-
+"{V1692}My best ones are...{W40} nikujaga,{W35} or simmered fish.{F3}"
 
 @YUM_MW1_A:312 PLY 47c9543b
-
+"Wow."
 
 @YUM_MW1_A:313 YUM 8471fe38
-
+"{V1693}I'm{W25} good at simmered dishes."
 
 @YUM_MW1_A:314 PLY 1e38511f
-
+"What's the trick to making tasty simmered dishes?"
 
 @YUM_MW1_A:315 YUM 7c0c6b8b
-
+"{V1694}Use a drop lid,{W20} and let the flavor soak in well."
 
 @YUM_MW1_A:316 YUM e9d427c0
-
+"{V1695}If the flavor doesn't soak in,{W15} it isn't good."
 
 @YUM_MW1_A:317 PLY d905bbbf
-
+"I see."
 
 @YUM_MW1_A:318 PLY be1caec1
-
+"How good home cooking is..."
 
 @YUM_MW1_A:319 YUM 48d4e297
-
+"{V1696}......"
 
 @YUM_MW1_A:321 YUM fcdca2cc
-
+"{V1697}Mm.{W30} I think homemade is the tastiest too."
 
 @YUM_MW1_A:322 PLY 140e6241
-
+"Hoshino, do you like udon?"
 
 @YUM_MW1_A:323 YUM cdfd7cc9
-
+"{V1698}Yes.{W60} {F3}{Eo}Of all noodles,{W35} it's my{W5} favorite, I think."
 
 @YUM_MW1_A:324 PLY d9372ba1
-
+"Why?"
 
 @YUM_MW1_A:325 YUM 55da4c2a
-
+"{V1699}It's light,{W30} and somehow{W5} a comforting taste."
 
 @YUM_MW1_A:326 PLY 639cd99b
-
+"Have you ever been to the udon shop Satonaka on the shopping street?"
 
 @YUM_MW1_A:327 YUM 0110c293
-
+"{V1700}Yes,{W30} a few times with my family."
 
 @YUM_MW1_A:328 YUM f90c3d4a
-
+"{V1701}{W5}The noodles were so smooth,{W15} and really delicious."
 
 @YUM_MW1_A:329 PLY f6362f37
-
+"How good udon is..."
 
 @YUM_MW1_A:330 YUM 951cc857
-
+"{V1702}......"
 
 @YUM_MW1_A:332 YUM 5ed97cce
-
+"{V1703}Fufu,{W50} so you like udon too, {Nm}."
 
 @YUM_MW1_A:333 PLY e15182f0
-
+"Instant ramen in the middle of the night is so good, isn't it?"
 
 @YUM_MW1_A:335 YUM 36f683dd
-
+"{V1704}I'm sorry,{W40} I...{W25} I've hardly ever had instant ramen..."
 
 @YUM_MW1_A:336 PLY 522838a5
-
+"They sell so many kinds of instant ramen lately..."
 
 @YUM_MW1_A:337 YUM 6473287e
-
+"{V1705}Eh..."
 
 @YUM_MW1_A:338 YUM bdd6a655
-
+"{V1706}I'm sorry,{W45} I...{W30} I don't know{W25} much about instant ramen..."
 
 @YUM_MW1_A:339 PLY 14f5b692
-
+"Is there anything you do to stay healthy?"
 
 @YUM_MW1_A:340 YUM c7fdc5a7
-
+"{V1707}Eh?{W30} Health?"
 
 @YUM_MW1_A:341 YUM 23969eee
-
+"{V1708}Let's{W30} see...{W75} {F2}{B}Just taking a long bath, I guess..."
 
 @YUM_MW1_A:342 PLY 7e6bcfd4
-
+"A long bath, huh..."
 
 @YUM_MW1_A:343 PLY 911ab2b5
-
+"They say going to bed and getting up early is good for your health."
 
 @YUM_MW1_A:344 YUM a1d9fbfe
-
+"{V1709}Yes,{W25} that's true."
 
 @YUM_MW1_A:345 YUM 5670fbab
-
+"{V1710}{W5}I{W5} tend to stay up late,{W15} so I should be careful..."
 
 @YUM_MW1_A:346 PLY ec1652b6
-
+"Staying up late? That's a bit surprising."
 
 @YUM_MW1_A:348 YUM b80c247b
-
+"{V1711}{W5}When I'm reading,{W10} it somehow ends up the middle of the night."
 
 @YUM_MW1_A:349 PLY a3699ffe
-
+"Hoshino, why are you in the Infirmary? Are you not feeling well?"
 
 @YUM_MW1_A:350 YUM a3a7b7f5
-
+"{V1712}Ah...{W30} no,{W30} that's not it.{W35} The school nurse{W5} got a sudden phone call,{W5} and asked me to stay here for a bit..."
 
 @YUM_MW1_A:351 PLY e43f389d
-
+"I see."
 
 @YUM_MW1_A:352 YUM f53c3f84
-
+"{V1713}I just happened to be here."
 
 @YUM_MW1_A:353 PLY 23e6849d
-
+"That's good, then. I was worried."
 
 @YUM_MW1_A:354 YUM 0380d945
-
+"{V1714}Thank you..."
 
 @YUM_MW1_A:355 PLY 36415461
-
+"Cough! Cough!"
 
 @YUM_MW1_A:356 YUM b138bcd1
-
+"{V1715}{W5}Are you okay, {Nm}?{W5} Do you have a cold?"
 
 @YUM_MW1_A:357 PLY 74bc7247
-
+"Yeah... It's nothing serious, my throat just hurts a little..."
 
 @YUM_MW1_A:358 YUM 13844dee
-
+"{V1716}I see.{W70} ...Maybe you should go home today instead of pushing yourself..."
 
 @YUM_MW1_A:359 PLY 4cdc542d
-
+"No, I don't have a fever, so I'm fine."
 
 @YUM_MW1_A:360 YUM 8417c469
-
+"{V1717}{W5}Really?{W55} Please don't overdo it."
 
 @YUM_MW1_A:361 PLY 8729835a
-
+"Okay. Thanks for worrying about me."
 
 @YUM_MW1_A:362 YUM be51bf36
-
+"{V1718}{B}N-{W10}no.{W20} It's the only thing I can do...{F9}"
 
 @YUM_MW1_A:363 PLY e77e8afe
-
+"These hot days keep going, so we have to watch our health..."
 
 @YUM_MW1_A:364 YUM b2c43ad5
-
+"{V1719}......"
 
 @YUM_MW1_A:365 YUM e56c3dd8
-
+"{V1720}Yes,{W20} you're right.{W25} We should be careful."
 
 @YUM_MW1_A:366 PLY 5739088b
-
+"Are you on a diet or anything, Hoshino?"
 
 @YUM_MW1_A:367 YUM 99852839
-
+"{V1721}No,{W30} not{W5} really..."
 
 @YUM_MW1_A:368 YUM be3fd4bf
-
+"{V1722}Oh,{W30} but{W15} I try to walk as much as I can.{W30} I don't exercise{W10} except in gym class."
 
 @YUM_MW1_A:369 PLY b4fdcb4c
-
+"What would you do if you gained weight?"
 
 @YUM_MW1_A:370 YUM 1d6e6df3
-
+"{V1723}{W5}I'd go on a diet{W5} as hard as I could."
 
 @YUM_MW1_A:371 PLY 1b758669
-
+"Hahaha, I bet."
 
 @YUM_MW1_A:372 YUM 3d922991
-
+"{V1724}Fufu{Ec}"
 
 @YUM_MW1_A:373 PLY ccef634a
-
+"They say once fat cells increase, they never go away..."
 
 @YUM_MW1_A:374 YUM 99e181d3
-
+"{V1725}......"
 
 @YUM_MW1_A:375 YUM e79e5e0c
-
+"{V1726}{W5}You're right.{W40} I need to be careful too..."
 
 @YUM_MW1_A:376 PLY 3f52e6ea
-
+"Your hairstyle is cute, Hoshino."
 
 @YUM_MW1_A:377 YUM a905cfbc
-
+"{V1727}{W5}R-{W20}really?{W50} Thank you..."
 
 @YUM_MW1_A:378 PLY 2436f58e
-
+(Hoshino in her gym clothes...)
 
 @YUM_MW1_A:379 YUM 70fdf0cc
-
+"{V1728}Ah..."
 
 @YUM_MW1_A:380 YUM 2c4a3e73
-
+"{V1729}{W10}Please don't{W5} stare at me...{W20} It's embarrassing..."
 
 @YUM_MW1_A:381 PLY ce52713a
-
+"S-sorry..."
 
 @YUM_MW1_A:382 PLY 627674ad
-
+(Hoshino in her school swimsuit...)
 
 @YUM_MW1_A:383 YUM ac9dd115
-
+"{V1730}Ah..."
 
 @YUM_MW1_A:384 YUM bd49789a
-
+"{V1731}{W10}Please don't{W5} stare at me...{W35} It's embarrassing..."
 
 @YUM_MW1_A:385 PLY d06ebecd
-
+"Hoshino, your looks are..."
 
 @YUM_MW1_A:386 YUM bd0b368a
-
+"{V1732}Eh..."
 
 @YUM_MW1_A:387 YUM bc8b3145
-
+"{V1733}...T-{W20}that's not true."
 
 @YUM_MW1_A:388 PLY fec45b40
-
+"You really like keeping things clean, Hoshino."
 
 @YUM_MW1_A:389 YUM 440401c9
-
+"{V1734}D-{W35}do I?"
 
 @YUM_MW1_A:390 PLY b7f06dc6
-
+"Yeah. I think our classroom is so clean thanks to you."
 
 @YUM_MW1_A:391 YUM ee6a0476
-
+"{V1735}...Cleaning is{W25} kind of{W15} a hobby for me."
 
 @YUM_MW1_A:392 PLY 496599ee
-
+"Hoshino, you're..."
 
 @YUM_MW1_A:393 YUM fb2b29ee
-
+"{V1736}Eh..."
 
 @YUM_MW1_A:394 YUM 8eaa7406
-
+"{V1737}A-{W45}thank you..."
 
 @YUM_MW1_A:395 PLY 5128afa1
-
+"Hoshino..."
 
 @YUM_MW1_A:399 SYS 9b3cbf89
-
+{Ti0}{Ti2}Staaare......
 
 @YUM_MW1_A:401 YUM 2b4d929a
-
+"{V1738}Eh..."
 
 @YUM_MW1_A:402 YUM 80e6da37
-
+"{V1739}Ah...{W45} is there{W35} something{W35} on my face?"
 
 @YUM_MW1_A:403 PLY 7f69a5dd
-
+"Oh... no, it's nothing. Hahaha..."
 
 @YUM_MW1_A:404 YUM 2338773c
-
+"{V1740}{W5}Really?"
 
 @YUM_MW1_A:406 PLY 8331d188
-
+"Hoshino."
 
 @YUM_MW1_A:407 YUM 261bd6e5
-
+"{V1741}Yes?"
 
 @YUM_MW1_A:408 SYS a77d0776
-
+{Ti0}Smile
 
 @YUM_MW1_A:409 YUM bb62112e
-
+"{V1742}......"
 
 @YUM_MW1_A:410 YUM d7741e95
-
+"{V1743}What's wrong? Why are you suddenly smiling?"
 
 @YUM_MW1_A:411 PLY 9c347979
-
+"N-nothing... it's nothing."
 
 @YUM_MW1_A:412 YUM d32a8d7e
-
+"{V1744}{W5}Really?"
 
 @YUM_MW1_A:413 PLY 7bcaa667
-
+(Okay, I'll put on a cool face and nail it!)
 
 @YUM_MW1_A:414 YUM 222252de
-
+"{V1745}Yes?"
 
 @YUM_MW1_A:415 SYS c2ab9f12
-
+{Ti0}Glare!
 
 @YUM_MW1_A:418 YUM 9315e431
-
+"{V1746}Ah..."
 
 @YUM_MW1_A:420 YUM 3f8878d6
-
+"{V1747}W-{W20}why are you glaring at me?"
 
 @YUM_MW1_A:421 PLY 797f0887
-
+"S-sorry, I didn't mean to..."
 
 @YUM_MW1_A:422 YUM 76798b9b
-
+"{V1748}O-{W30}okay."
 
 @YUM_MW1_A:423 PLY 6a0ce4d0
-
+(Okay, here goes, I'll take her hand...)
 
 @YUM_MW1_A:427 SYS 1ffe4b9d
-
+{T0.0}Grip
 
 @YUM_MW1_A:431 YUM a474ff3b
-
+"{V1749}Eek!"
 
 @YUM_MW1_A:432 YUM a1bc113f
-
+"{V1750}{W5}Ah..."
 
 @YUM_MW1_A:433 PLY 634f9920
-
+"Ah..."
 
 @YUM_MW1_A:434 YUM 073a620a
-
+"{V1751}I-{W10}I'm sorry.{W10} You startled me..."
 
 @YUM_MW1_A:435 PLY 15ccbb91
-
+"N-no, it's okay. I'm the one who should be sorry."
 
 @YUM_MW1_A:436 YUM 0d80b9d5
-
+"......"
 
 @YUM_MW1_A:438 PLY c8b1b316
-
+"What do you think is good about our school?"
 
 @YUM_MW1_A:439 YUM 9067b904
-
+"{V1752}Fufu,{W43} how relaxed it is."
 
 @YUM_MW1_A:440 PLY ccc84fcd
-
+"Which do you like better, quiet places or noisy ones?"
 
 @YUM_MW1_A:441 YUM d4f40b1e
-
+"{V1753}{W3}Um{W2}...{W25}{W48} both.{F3}"
 
 @YUM_MW1_A:442 YUM 93927f3f
-
+"{V1754}{W3}I like quiet places{W2} like{W1} the{W1} library,{W5}{W2} but{W33} I{W1} also {Ec}like places where everyone is chatting and having fun."
 
 @YUM_MW1_A:443 PLY de9f4e59
-
+"What's your favorite class?"
 
 @YUM_MW1_A:444 YUM 259eb947
-
+"{V1755}{W2}I like...{W48} modern{W6} Japanese,{W2} and{W2} classical{W2} Japanese."
 
 @YUM_MW1_A:446 YUM 302b3563
-
+"{V1756}I{W3} love{W3} stories."
 
 @YUM_MW1_A:447 PLY 75933416
-
+"Maybe I'm still out of it from summer vacation, but I'm sleepy in class..."
 
 @YUM_MW1_A:449 YUM 2412ca17
-
+"{V1757}Hehe...{W38} I{W2} get{W12} sleepy{W1} after{W1} gym{W1} too,{W20} so I sometimes doze off in class."
 
 @YUM_MW1_A:450 PLY 1af45627
-
+"Even you, Hoshino?"
 
 @YUM_MW1_A:451 YUM 231f4f17
-
+"{V1758}Yes.{W45} Oh...{W22} but{W18} {F9}only for about five minutes."
 
 @YUM_MW1_A:452 PLY 342110cb
-
+"It's September, but it's so hot this year~"
 
 @YUM_MW1_A:453 YUM 453e394f
-
+"{V1759}{W2}Yes.{W41} It still feels like{W1} summer."
 
 @YUM_MW1_A:454 PLY 2f00de64
-
+"With this heat, I wish the classrooms had air conditioning."
 
 @YUM_MW1_A:455 YUM 243bd314
-
+"{V1760}Fufu,{W37} the only places with air conditioning at school{W2} are{W15} the{W2} library{W2} and{W2} the{W2} Staff{W2} Room."
 
 @YUM_MW1_A:456 PLY 8e18a388
-
+"You like flowers, don't you, Hoshino?"
 
 @YUM_MW1_A:457 YUM c6043b14
-
+"{V1761}{W3}Yes,{W16} {Ec}very{W1} much."
 
 @YUM_MW1_A:458 YUM b1d0a0ef
-
+"{V1762}Yes.{W45} Some books{W1} had{W1} been{W3} returned,{W22} so{W1} I{W1} was putting them back on the shelves."
 
 @YUM_MW1_A:459 YUM a6ecc6a4
-
+"{V1763}{W5}I was so surprised{W2} that{W2} the person I{W2} talked to{W17} here{W1} was{W18} {Nm}'s{W5} little sister."
 
 @YUM_MW1_A:460 PLY 917f4ee1
-
+"Sorry, it was kind of like tricking you."
 
 @YUM_MW1_A:461 YUM 461eac9c
-
+"{V1764}No.{W55} You did it for me,{W28} so thank you."
 
 @YUM_MW1_A:462 PLY aa91fc21
-
+"It's so hot I almost want to jump in the fountain."
 
 @YUM_MW1_A:463 YUM 9da38904
-
+"{V1765}Fufu,{W49} if you're going to jump in something,{W6} the pool{W1} would be better, don't you think?{Ec}"
 
 @YUM_MW1_A:464 PLY fe33275d
-
+"About that class earlier..."
 
 @YUM_MW1_A:465 YUM 4cdaf9d5
-
+"{V1766}......"
 
 @YUM_MW1_A:466 YUM 226162da
-
+"{V1767}Oh,{W27} is{W1} that{W1} so?{W25} I{W1} didn't notice."
 
 @YUM_MW1_A:467 PLY 4f3edaa5
-
+"If you were to join a club, which one would you pick?"
 
 @YUM_MW1_A:468 YUM 0ae07020
-
+"{V1768}Eh?{W30} {F7}If I joined one...?"
 
 @YUM_MW1_A:469 YUM f4877d0a
-
+"{V1769}{W11}The newspaper club...{W14}{W12}{W7}{W9} maybe.{F3}"
 
 @YUM_MW1_A:470 PLY f8d45cf5
-
+"The newspaper club? Why?"
 
 @YUM_MW1_A:471 YUM b6eab251
-
+"{V1770}{W4}Writing articles about school events,{W2} like{W2} "The flowers in the garden have bloomed"{W8} or{W46} the library's new book announcements,{W34} sounds like fun."
 
 @YUM_MW1_A:472 PLY 3acfca1f
-
+"Hahaha, I see."
 
 @YUM_MW1_A:473 PLY e71c7ac0
-
+"I think the tea ceremony club would suit you, Hoshino. What do you think?"
 
 @YUM_MW1_A:474 YUM 6ba1e627
-
+"{V1771}{W3}I'm{W2} interested,{W2} but{W41} sitting{W2} formally{W2} looks{W1} hard.{W1}"
 
 @YUM_MW1_A:475 YUM fece112b
-
+"{V1772}Fufu"
 
 @YUM_MW1_A:476 PLY f5ba9bbc
-
+"The club activities here are..."
 
 @YUM_MW1_A:477 YUM 06abcb66
-
+"{V1773}......"
 
 @YUM_MW1_A:479 YUM af4119a4
-
+"{V1774}Yes,{W38} they're{W1} different{W1} from{W1} middle{W1} school.{W19} They're{W1} serious.{W1}{W1}"
 
 @YUM_MW1_A:480 PLY 3dc118b8
-
+"Our uniform's collar is unusual, isn't it?"
 
 @YUM_MW1_A:481 YUM 75ec63e0
-
+"{V1775}{W2}Yes.{W36} It's like a slightly oversized shirt collar."
 
 @YUM_MW1_A:482 YUM c1464577
-
+"{V1776}{Ec}Fufu"
 
 @YUM_MW1_A:483 YUM db78cebc
-
+"{V1777}{W4}N-{W26}no, that's not true..."
 
 @YUM_MW1_A:484 PLY beab2b9a
-
+"No, I think it looks great on you."
 
 @YUM_MW1_A:486 YUM b6a6d86d
-
+"{V1778}...Th-{W71}thank you."
 
 @YUM_MW1_A:487 PLY a8a30ca0
-
+"They say our uniform has a reputation for being cute..."
 
 @YUM_MW1_A:488 YUM c52e3941
-
+"{V1779}......"
 
 @YUM_MW1_A:489 YUM 49f8b90e
-
+"{V1780}Yes,{W27} it seems so.{W48} I hear some girls{W1} even{W1} enroll at our school{W18} because{W1} they want to wear{W2} this{W1} uniform."
 
 @YUM_MW1_A:490 PLY 3791052d
-
+"There are a lot of girls on the Library Committee, aren't there?"
 
 @YUM_MW1_A:491 YUM fd959108
-
+"{V1781}{W2}Yes.{W34} In every class,{W15} the boys don't want to do it."
 
 @YUM_MW1_A:492 YUM 4eca63f4
-
+"{V1782}{W4}Books{W2} are{W2} heavy,{W30} so{W2} I'd{W4} actually{W2} like{W1} having{W1} some{W1} boys...{W1}"
 
 @YUM_MW1_A:493 PLY 5ac1e51e
-
+"Just say the word and I'll help you."
 
 @YUM_MW1_A:494 YUM 8bd94bec
-
+"{V1783}{Ec}{W3}Thank you."
 
 @YUM_MW1_A:495 PLY e0749d02
-
+"What's fun about the Library Committee?"
 
 @YUM_MW1_A:496 YUM a9bc21e0
-
+"{V1784}{W4}Helping{W1} everyone{W9} meet{W1} books.{W1}{W1}"
 
 @YUM_MW1_A:497 YUM 7206e683
-
+"{V1785}{W3}When{W1} someone{W1} likes{W1} a{W1} book{W1} I recommended,{W10} I'm really happy."
 
 @YUM_MW1_A:498 PLY b7aa648d
-
+"The Discipline Committee here is pretty strict, isn't it?"
 
 @YUM_MW1_A:499 YUM 6adbc1c1
-
+"{V1786}Is{W31} it?{W38} I{W10} don't{W1} get{W2} scolded{W3} much."
 
 @YUM_MW1_A:500 PLY a371b1a3
-
+"Well, you're so serious, Hoshino."
 
 @YUM_MW1_A:501 YUM 1a58369b
-
+"{V1787}Th-{W22}that's{W3} not{W1} true..."
 
 @YUM_MW1_A:502 PLY 557c06c2
-
+"The Library Committee work is..."
 
 @YUM_MW1_A:503 YUM 134bf04c
-
+"{V1788}......"
 
 @YUM_MW1_A:504 YUM 624d8157
-
+"{V1789}{W3}Yes,{W23} I{W2} think it suits me."
 
 @YUM_MW1_A:505 PLY e5df2ace
-
+"Is your skirt a little shorter than the school rules say?"
 
 @YUM_MW1_A:506 YUM 1e5f13c6
-
+"{V1790}Yes.{W45} But{W14} it seems to be within what's allowed.{W50} The{W1} Discipline{W1} Committee{W1} doesn't{W2} scold me either."
 
 @YUM_MW1_A:507 PLY 2d1dbff5
-
+"According to the school rules, we're supposed to take our textbooks home every day."
 
 @YUM_MW1_A:509 YUM c63ca6d2
-
+"{V1791}{W2}Yes,{W24} that's true, but..."
 
 @YUM_MW1_A:510 YUM 543369ca
-
+"{V1792}{W3}They're heavy and{W8} don't fit in my bag,{W15} so I{W1} leave{W1} half of them at school."
 
 @YUM_MW1_A:511 PLY 8f5785c5
-
+"I leave almost all of mine here."
 
 @YUM_MW1_A:512 YUM 3db23763
-
+"{V1793}Fufu,{W20} at home{W1} a study guide{W1} is{W1} enough,{W5} isn't{W1} it?{Ec}{W1}"
 
 @YUM_MW1_A:514 PLY 9c310271
-
+"I wonder if Ms. Kawada has a boyfriend."
 
 @YUM_MW1_A:515 YUM 7085057d
-
+"{V1794}Eh...?{W60} I don't...{W10} think{W1} so."
 
 @YUM_MW1_A:516 YUM 3df43523
-
+"{V1795}{W4}I{W5} once{W1} heard{W1} her{W1} complain.{W36} {F9}She's{W1} so{W1} busy{W2} she{W1} has{W2} no{W1} time{W3} to{W2} find{W2} a{W2} boyfriend."
 
 @YUM_MW1_A:517 YUM d8d3d8a5
-
+"{V1796}Ah...{W46} She didn't ask me to keep it quiet,{W13} {F9}but please keep it a secret."
 
 @YUM_MW1_A:518 PLY b81065be
-
+"Of course."
 
 @YUM_MW1_A:520 PLY ef13f8d6
-
+"What do you think is good about Ms. Kawada?"
 
 @YUM_MW1_A:521 YUM 91e5bdd1
-
+"{V1797}{W2}She's always smiling.{W40} She's{W11} cheerful and kind,{W23} and I envy that."
 
 @YUM_MW1_A:523 PLY 22c10a68
-
+"Ms. Kawada is popular with the students, isn't she?"
 
 @YUM_MW1_A:524 YUM 15316a05
-
+"{V1798}{W3}Well,{W12} she's{W1} a{W1} good{W1} teacher.{W30} She's{W1} easy{W2} to{W1} talk{W2} to{W2} about{W2} anything.{W1}"
 
 @YUM_MW1_A:526 PLY f3ac2102
-
+"The teachers at our school are..."
 
 @YUM_MW1_A:527 YUM 46aa7165
-
+"{V1800}......"
 
 @YUM_MW1_A:528 YUM 92ee47d2
-
+"{V1801}Yes,{W32} I think they're all good teachers."
 
 @YUM_MW1_A:530 PLY 4a16b65f
-
+"Transferring schools must be hard."
 
 @YUM_MW1_A:531 YUM 7f5567c7
-
+"{V1802}{W4}M-mm,{W46} yes.{W40} I suppose so..."
 
 @YUM_MW1_A:532 PLY 01477b7d
-
+"I'd never want to do it."
 
 @YUM_MW1_A:533 YUM 9e44b76f
-
+"{V1803}{W2}M-mm...{W30}"
 
 @YUM_MW1_A:535 PLY 4138b0d2
-
+"If you ever had to transfer..."
 
 @YUM_MW1_A:536 YUM 6f8e94b4
-
+"{V1804}{W3}Eh..."
 
 @YUM_MW1_A:537 YUM 655c993b
-
+"{V1805}{W10}Yes.{W64} I'm{W1} sure{W1} it{W3} would be really hard..."
 
 @YUM_MW1_A:539 PLY 4a7337e7
-
+"Hoshino, do you study at home?"
 
 @YUM_MW1_A:540 YUM 69fa7d6f
-
+"{V1806}{W2}Yes."
 
 @YUM_MW1_A:541 PLY 7bc161f3
-
+"Every day?"
 
 @YUM_MW1_A:542 YUM c4b72156
-
+"{V1807}{W1}Yes,{W30} I do, but..."
 
 @YUM_MW1_A:543 PLY 6b490042
-
+"How much?"
 
 @YUM_MW1_A:544 YUM ff5a689e
-
+"{V1808}{W5}About{W1} two{W1} hours...{W1}{W1}{W1}{W1}"
 
 @YUM_MW1_A:545 PLY 738e133c
-
+"That much?"
 
 @YUM_MW1_A:546 YUM 0a9bfb2d
-
+"{V1809}{W2}I-{W15}I{W1} think{W2} it's{W1} normal,{W2} though?"
 
 @YUM_MW1_A:547 PLY 1984707f
-
+"No, I think that's pretty diligent."
 
 @YUM_MW1_A:548 YUM d2447bea
-
+"{V1810}{W3}I'm{W47} just{W1} suited{W1} to keeping at it steadily every day.{W29} That's{W1} all{W1} it{W1} is."
 
 @YUM_MW1_A:550 PLY 78a0c785
-
+"Homework is such a pain."
 
 @YUM_MW1_A:551 YUM 2142a3e5
-
+"{V1811}Yes."
 
 @YUM_MW1_A:552 YUM c78ef5c4
-
+"{V1812}{W2}But,{W26} if you{W2} think{W2} of{W2} it{W1} as{W1} review,{W15} I{W1} don't think it's that hard..."
 
 @YUM_MW1_A:553 PLY 49d2836c
-
+"True... I'll do my best..."
 
 @YUM_MW1_A:554 YUM af65d350
-
+"{V1813}Fufu."
 
 @YUM_MW1_A:556 PLY a96431e1
-
+"Homework is..."
 
 @YUM_MW1_A:557 YUM e448fcd6
-
+"{V1814}......"
 
 @YUM_MW1_A:558 YUM 09aebe26
-
+"{V1815}Hehe...{W20} you're{W3} right.{W37} It{W2} is{W2} a{W2} pain."
 
 @YUM_MW1_A:560 PLY 24f80b8e
-
+"How did you do on the tests after summer vacation?"
 
 @YUM_MW1_A:561 YUM 61c33819
-
+"{V1816}{W3}Neither good{W7} nor bad...{W27} {F1}I suppose?"
 
 @YUM_MW1_A:562 PLY 146ef1b4
-
+"Weren't they hard?"
 
 @YUM_MW1_A:563 YUM 2eb52bba
-
+"{V1817}{W4}They{W1} were{W1} based{W1} on{W2} the{W1} summer{W2} vacation{W2} homework,{W29} so{W2} not{W2} really...{W2}"
 
 @YUM_MW1_A:564 PLY 12419c1a
-
+"I see... I should have done my summer homework properly."
 
 @YUM_MW1_A:565 YUM 66f84c53
-
+"{V1818}Hehe{Ec}"
 
 @YUM_MW1_A:567 PLY 925f96bd
-
+"Hoshino, have you ever gotten a failing grade?"
 
 @YUM_MW1_A:568 YUM d87f0dd6
-
+"{V1819}{W4}No,{W16} never..."
 
 @YUM_MW1_A:569 YUM b195f4de
-
+"{V1820}{W3}But{W46} I once came very close.{F9}"
 
 @YUM_MW1_A:570 PLY 8923cc23
-
+"Huh? When?"
 
 @YUM_MW1_A:571 YUM 0063cfe6
-
+"{V1821}{W3}The{W2} midterms{W2} in{W2} Year{W2} 1.{W40} Math{W1} got{W1} much{W1} harder{W1} than{W1} in{W2} middle{W9} school,{W14} and so..."
 
 @YUM_MW1_A:573 PLY b6e9a9c6
-
+"That shock when your guesses for the test turn out wrong..."
 
 @YUM_MW1_A:574 YUM 999b71ae
-
+"{V1822}......"
 
 @YUM_MW1_A:575 YUM 8c19df3d
-
+"{V1823}Hehe,{W32} you're right.{W26} When the{W2} test{W1} covers{W2} a{W1} lot,{W30} all{W1} you can do is guess."
 
 @YUM_MW1_A:577 PLY b104fdda
-
+"Have you thought about entrance exams yet?"
 
 @YUM_MW1_A:578 YUM 34ff0d90
-
+"{V1824}{W3}N-{W25}no...{W45} I{W2} haven't{W2} thought{W2} about{W2} them{W2} yet.{W33} {F6}I{W2} can't{W2} right{W2} now..."
 
 @YUM_MW1_A:579 PLY 33397379
-
+"What do you mean, you can't right now?"
 
 @YUM_MW1_A:581 YUM 5f43a46a
-
+"{V1825}Ah..."
 
 @YUM_MW1_A:582 YUM 0c5868da
-
+"{V1826}{W3}I-{W24}it's nothing.{W32} Forget it.{Ec}"
 
 @YUM_MW1_A:583 PLY ad202743
-
+"O-okay...?"
 
 @YUM_MW1_A:584 YUM 69fce810
-
+"{V1827}......"
 
 @YUM_MW1_A:586 YUM a22345c5
-
+"{V1828}{W3}...I'm sorry.{W33} I'm{W17} trying not to think about it yet."
 
 @YUM_MW1_A:588 PLY 898c109f
-
+"Have you ever seen an Italian movie?"
 
 @YUM_MW1_A:589 YUM 235ef043
-
+"{V1829}{W3}Yes.{W26} A{W1} few.{W1}{W1}"
 
 @YUM_MW1_A:590 PLY f39f45ce
-
+"Don't you think Italian intonation is even more over the top than English?"
 
 @YUM_MW1_A:591 YUM 6a45a744
-
+"{V1830}{W3}Ah,{W27} you're right.{W32} ...Maybe because it's a Latin language?"
 
 @YUM_MW1_A:593 PLY 77e60c33
-
+"Thanks to Italian food and soccer getting popular, you hear a fair amount of Italian on TV and such."
 
 @YUM_MW1_A:594 YUM 3d51989d
-
+"{V1831}{W3}Ah,{W25} you're right."
 
 @YUM_MW1_A:595 PLY 3e411884
-
+"Like \\"ciao,\\" for instance."
 
 @YUM_MW1_A:596 YUM 351a4b36
-
+"{V1832}Fufu,{W25} that{W15} means hello,{W13} though."
 
 @YUM_MW1_A:598 PLY e15fa6a6
-
+"Italian words we hear every day..."
 
 @YUM_MW1_A:599 YUM 82c19af5
-
+"{V1833}......"
 
 @YUM_MW1_A:601 YUM a0c6f608
-
+"{V1834}{W4}Ah,{W40} in{W1} that{W1} case,{W2} you{W1} hear{W1} them{W1} more{W1} often{W2} than{W2} you'd{W2} think."
 
 @YUM_MW1_A:603 YUM c2526179
-
+"{V1835}{W4}No.{W46} I'm{W35} bad{W2} at{W2} sports...{W2}{W1}"
 
 @YUM_MW1_A:605 YUM 8d27bcff
-
+"{V1836}......"
 
 @YUM_MW1_A:606 YUM 015ac07c
-
+"{V1837}{W4}I'm{W2} sorry.{W26} I'm{W25} bad{W2} at{W2} P.E....{W2}"
 
 @YUM_MW1_A:608 YUM 069c9051
-
+"{V1838}{W3}Yes,{W35} especially{W4} on{W1} hot{W1} days.{W2}"
 
 @YUM_MW1_A:610 YUM 7e42a76f
-
+"{V1839}Hehe,{W30} do you like swimming that much?"
 
 @YUM_MW1_A:611 YUM ba746447
-
+"{V1840}{W2}Fufu,{W38} I{W1} suppose{W1} so.{Ec}{W1}"
 
 @YUM_MW1_A:613 YUM 69bcb3fe
-
+"{V1841}......"
 
 @YUM_MW1_A:614 YUM 2f13187c
-
+"{V1842}{W1}Yes,{W27} it's{W1} fun.{W1}{W1}{W2}"
 
 @YUM_MW1_A:616 YUM 0bbe218a
-
+"{V1843}{W3}I'm{W35} bad{W3} at{W3} sports...{W3}"
 
 @YUM_MW1_A:618 YUM ffba760f
-
+"{V1844}......"
 
 @YUM_MW1_A:619 YUM c2ee45e3
-
+"{V1845}{W3}Yes..."
 
 @YUM_MW1_A:621 YUM b2fdf9ed
-
+"{V1846}{W6}Eh,{W23} dance?"
 
 @YUM_MW1_A:622 YUM cdf6975a
-
+"{V1847}{W6}We{W4} learn{W4} creative{W3} dance{W30} in{W3} P.E.,{W44} but{W3} it's{W2} nothing{W1} I{W1} could{W1} show{W1} anyone...{W1}"
 
 @YUM_MW1_A:624 YUM b3c2bc4a
-
+"{V1848}{W3}Eh..."
 
 @YUM_MW1_A:625 YUM 4bc74430
-
+"{V1849}{W1}...I'm{W50} bad at it,{W33} so I always stay in the corner and just follow everyone else.{Ec}"
 
 @YUM_MW1_A:627 PLY 40d7f6ca
-
+"Don't you find yourself humming songs from commercials?"
 
 @YUM_MW1_A:628 YUM 92da5af9
-
+"{V1850}Hehe...{W32} I do."
 
 @YUM_MW1_A:629 YUM 4dd90f15
-
+"{V1851}{W3}Once{W1} you{W1} start{W1} humming,{W25} you repeat it over and over{F3} and can't stop..."
 
 @YUM_MW1_A:630 PLY 1f8706fb
-
+"Hahaha, just what the commercial wants."
 
 @YUM_MW1_A:631 YUM 864bdd79
-
+"{V1852}{W2}Yes.{Ec}"
 
 @YUM_MW1_A:633 PLY 4dacff4d
-
+"Hoshino, about how many CDs do you have?"
 
 @YUM_MW1_A:634 YUM 55a84e25
-
+"{V1853}{W9}About{W4} five...{W15} maybe?{F3}{W4}{W4}{W4}{W4}"
 
 @YUM_MW1_A:635 PLY 9916f6a3
-
+"That's not many."
 
 @YUM_MW1_A:636 YUM 4356c6e4
-
+"{V1854}{W7}I{W3} mostly{W4} borrow{W10} them.{W50} The{W1} library{W3} lends{W1} them{W1} out{W2} too.{W2}"
 
 @YUM_MW1_A:638 PLY f0021d0e
-
+"The music I listen to a lot..."
 
 @YUM_MW1_A:639 YUM 75c47bbe
-
+"{V1855}{W3}...{W3}...{W3}"
 
 @YUM_MW1_A:640 YUM a42d2a11
-
+"{V1856}Fufu,{W30} is that so?"
 
 @YUM_MW1_A:641 PLY 06a71b58
-
+"If you're interested, want me to lend you some sometime?"
 
 @YUM_MW1_A:642 YUM c60f313e
-
+"{V1857}Ah...{W54} no,{W12} {F7}that's okay.{W41} Um...{W60} my{W30} CD{W2} player{W5} is{W2} broken{W2} right now.{F9}"
 
 @YUM_MW1_A:644 YUM 63a60887
-
+"{V1858}......"
 
 @YUM_MW1_A:645 YUM 7011704c
-
+"{V1859}{W3}Fufu,{W22} is that so?"
 
 @YUM_MW1_A:647 PLY 19e2c059
-
+"Did you see any movies over summer vacation?"
 
 @YUM_MW1_A:648 YUM 569aecc7
-
+"{V1860}{W5}I{W2} saw{W2} a{W2} Japanese{W2} romance{W2} movie.{W30} {Ec}{W5}{F9}{Eo}Near{W2} the{W2} end,{W10} the{W2} lover{W2} dies.{W1}{W1}"
 
 @YUM_MW1_A:649 PLY 04650cc0
-
+"That must be a tearjerker."
 
 @YUM_MW1_A:650 YUM 4f59b66d
-
+"{V1861}{W3}Mm,{W35} everyone was crying.{W45} {F3}But,{W20} the ending is a happy one."
 
 @YUM_MW1_A:651 PLY dc33b047
-
+"Even though they died?"
 
 @YUM_MW1_A:652 YUM 818147a9
-
+"{V1862}Yes."
 
 @YUM_MW1_A:653 YUM 3f27b0d4
-
+"{V1863}{W5}I'll keep the reason a secret.{W45} It would{W1} spoil{W2} it{W2} when{W2} you{W8} watch it, {Nm}."
 
 @YUM_MW1_A:655 PLY 897d0089
-
+"Do you watch foreign dramas?"
 
 @YUM_MW1_A:656 YUM 34c750b6
-
+"{V1864}{W6}Yes,{W10} of course."
 
 @YUM_MW1_A:657 YUM fbadc842
-
+"{V1865}{W4}American{W2} and{W2} Korean{W2} dramas{W33} {Eo}are{W2} fun{W5} in{W2} a{W2} different{W2} way{W4} from{W2} Japanese{W2} ones.{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
 
 @YUM_MW1_A:659 PLY d1a2eb2d
-
+"I saw this on TV the other day..."
 
 @YUM_MW1_A:660 YUM 110cae4c
-
+"{V1866}......"
 
 @YUM_MW1_A:661 YUM 18742052
-
+"{V1867}{W4}Ah,{W20} I{W1} saw{W1} that{W1} one{W1} too.{W33} It{W1} was{W1} fun,{W1} wasn't{W1} it?{W2}"
 
 @YUM_MW1_A:662 PLY 9ff1955a
-
+"Hoshino, what kind of books do you read most?"
 
 @YUM_MW1_A:663 YUM 02da0a12
-
+"{V1868}{W6}What{W1} I{W1} read{W2} most{W27} is{W1} romance,{W1} of{W1} course.{W25} Next{W1} is{W2} essays{W2} and{W2} such.{W2}{W2}"
 
 @YUM_MW1_A:664 PLY d224e2ac
-
+"I see. That fits you, Hoshino."
 
 @YUM_MW1_A:666 PLY 9146f7a4
-
+"Do you ever read shoujo manga?"
 
 @YUM_MW1_A:667 YUM 85e397b7
-
+"{V1869}{W1}Yes,{W15} sometimes.{W2}{W3}"
 
 @YUM_MW1_A:668 YUM d70cc629
-
+"{V1870}{W8}Shoujo{W2} manga{W2} heroines{W15} are{W2} cute,{W30} but{W2} they{W2} often{W2} firmly{W2} believe{W2} they{W2} aren't{W2} cute{W2} themselves.{F3}{W2}{W2}{W2}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W1}{W3}"
 
 @YUM_MW1_A:669 YUM ce3b2f9c
-
+"{V1871}Fufu."
 
 @YUM_MW1_A:670 PLY 4ddc31fd
-
+(She's a little like Hoshino...)
 
 @YUM_MW1_A:672 PLY 460df590
-
+"The smell of books is so distinctive."
 
 @YUM_MW1_A:673 YUM da68addc
-
+"{V1872}{W2}Yes,{W30} I{W1} love{W2} it.{Ec}{W1}{W1}{W1}"
 
 @YUM_MW1_A:674 YUM 0fa9bbf6
-
+"{V1873}{W2}I think{W1} that smell{W22} is one of the charms of books."
 
 @YUM_MW1_A:676 PLY 5e63d609
-
+"Thanks for lending me your precious book."
 
 @YUM_MW1_A:677 YUM 5de8eb14
-
+"{V1874}{W5}N-{W25}no...{W30} {F6}Just read it whenever you feel like it.{W40} That's{W10} all..."
 
 @YUM_MW1_A:679 PLY 9ec82568
-
+"The charm of books is..."
 
 @YUM_MW1_A:680 YUM 05974766
-
+"{V1876}......"
 
 @YUM_MW1_A:681 YUM 01004631
-
+"{V1877}Mm.{W30} I{W1} think{W1} so{W1} too.{Ec}{W1}{W2}"
 
 @YUM_MW1_A:683 PLY c430e062
-
+"Have you bought anything lately?"
 
 @YUM_MW1_A:685 YUM b01f284d
-
+"{V1878}{W4}What I{W2} bought{W10} recently was..."
 
 @YUM_MW1_A:686 YUM acaad74c
-
+"{V1879}{W3}Ah,{W45} flowers.{W70} The{W2} cosmos{W3} blooming{W3} in{W3} front{W3} of{W3} the{W3} flower{W3} shop{W34} were{W3} so{W3} pretty.{Ec}{W2}{W4}{W4}{W4}{W4}"
 
 @YUM_MW1_A:688 PLY 05036ba8
-
+"Do you do much window shopping?"
 
 @YUM_MW1_A:690 YUM cb794fa7
-
+"{V1880}{W3}Not{W45} really...{W2}"
 
 @YUM_MW1_A:691 YUM 72a20412
-
+"{V1881}{W3}Even{W1} if{W1} there's{W1} a{W3} pretty{W1} outfit{W1} in{W1} the{W1} showcase,{W28} it{W1} wouldn't{W1} suit{W1} me...{W2}{W2}{W2}{W2}"
 
 @YUM_MW1_A:692 PLY b23346c3
-
+"T-that's not true. I'm sure it would suit you."
 
 @YUM_MW1_A:693 YUM bec20f81
-
+"{V1882}{W3}Th-{W30}thank you..."
 
 @YUM_MW1_A:695 PLY 3424de4d
-
+"Don't the clerks remember your face at shops you visit a lot?"
 
 @YUM_MW1_A:696 YUM 4a6b3459
-
+"{V1883}{W2}Ah...{W30} yes.{W35} They remember me well."
 
 @YUM_MW1_A:697 YUM b555f8f7
-
+"{V1884}{W2}The{W1} bookstore{W2} on{W2} the{W2} shopping{W1} street{W30} remembers{W2} me{W2} too,{W27} {F9}and{W2} they{W2} talk{W2} to{W3} me,{W3} so it's a little embarrassing."
 
 @YUM_MW1_A:698 PLY 5bd84d55
-
+"What do they say?"
 
 @YUM_MW1_A:699 YUM 9c1ba48e
-
+"{V1885}{W3}Things like \\"Thank you for always coming,\\"{W8} or{W48} \\"You{W2} really like books, don't you?\\"{W7}{F3}"
 
 @YUM_MW1_A:700 PLY 8f7da1aa
-
+"Hahaha, that is a bit embarrassing."
 
 @YUM_MW1_A:701 YUM 55d58fe2
-
+"{V1886}{W2}Mm.{W1}"
 
 @YUM_MW1_A:703 YUM b0d83fe1
-
+"{V1887}{W2}The{W2} other{W3} day,{W25} at a used bookstore,{W10} I happened to find{W5} a book I'd{W3} been{W2} looking{W1} for{W1} forever."
 
 @YUM_MW1_A:705 YUM fd215cc9
-
+"{V1888}{W2}It was a little{W1} expensive,{W30} but the{W1} shopkeeper gave me a discount,{W19} {F2}{Ec}so I bought it."
 
 @YUM_MW1_A:706 PLY f16e3f75
-
+"Hahaha, I'm glad for you, Hoshino."
 
 @YUM_MW1_A:708 PLY 01a7b70e
-
+"I bought something the other day..."
 
 @YUM_MW1_A:709 YUM 957fb665
-
+"{V1889}......"
 
 @YUM_MW1_A:710 YUM f6c5cbff
-
+"{V1890}{W2}Fufu,{W23} is that so?{W66} It's nice when you find{W20} something you want."
 
 @YUM_MW1_A:712 PLY 82c6e549
-
+"Hoshino, do you care much about fashion?"
 
 @YUM_MW1_A:713 YUM 77f65904
-
+"{V1891}{W3}Not{W38} really..."
 
 @YUM_MW1_A:714 YUM aeb24be6
-
+"{V1892}{W3}I{W3} still{W3} wear{W3} clothes{W3} I{W3} bought{W3} in{W3} middle{W3} school...{W4}{W15}"
 
 @YUM_MW1_A:716 PLY 9fdb3a96
-
+"Do you know what fashion is popular lately?"
 
 @YUM_MW1_A:717 YUM 75517edd
-
+"{V1893}{W4}N-{W21}no.{W30} I don't{W2} really{W1} know."
 
 @YUM_MW1_A:719 PLY 118f919e
-
+"The fashion that's popular lately..."
 
 @YUM_MW1_A:720 YUM b8b14aac
-
+"{V1894}......"
 
 @YUM_MW1_A:721 YUM 98405edc
-
+"{V1895}{W3}I'm sorry.{W30} I'm{W21} not up on that sort of thing..."
 
 @YUM_MW1_A:723 PLY 0736d783
-
+"Hoshino, what accessories do you usually wear?"
 
 @YUM_MW1_A:724 YUM 228423cb
-
+"{V1896}{W5}Just{W70} a hair tie{W12} to pin back my bangs."
 
 @YUM_MW1_A:725 YUM 6d5d5f3c
-
+"{V1897}{W3}I{W1} like{W5} this{W1} hairstyle.{W2}{W2}"
 
 @YUM_MW1_A:727 PLY a0782f61
-
+"Hoshino, about how many hair ties do you have?"
 
 @YUM_MW1_A:728 YUM e03f8267
-
+"{V1898}Huh? {W38}{F7}About ten...{W17} I think?"
 
 @YUM_MW1_A:729 YUM 16b9b42f
-
+"{V1899}{W3}Yes.{W42} Hair{W2} ties{W37} fly{W1} off{W1} somewhere{W3} before{W1} I know it,{W20} so they're gone in no time."
 
 @YUM_MW1_A:731 PLY f1212afb
-
+"A little bit of style, for a girl..."
 
 @YUM_MW1_A:732 YUM f2394644
-
+"{V1900}{W2}...{W3}{W3}"
 
 @YUM_MW1_A:733 YUM 94da3eb1
-
+"{V1901}{W3}Yes,{W17} I{W1} think{W1} so{W1} too.{W1}"
 
 @YUM_MW1_A:735 PLY 246a77e0
-
+"Hoshino, you don't wear makeup at school, right?"
 
 @YUM_MW1_A:736 YUM 5db657a3
-
+"{V1902}{W3}No.{W55} A teacher{W2}{W2}{W1}{W1}{W1}{W1}{W1} would scold me{W8} if they found out..."
 
 @YUM_MW1_A:738 PLY 965e9da1
-
+"Do you wear makeup on days off?"
 
 @YUM_MW1_A:739 YUM 8407052f
-
+"{V1903}{W3}No.{W30} I don't really..."
 
 @YUM_MW1_A:741 PLY fc4f2127
-
+"For a girl, makeup is..."
 
 @YUM_MW1_A:742 YUM b5402a4f
-
+"{V1904}{W1}Eh{W2}..."
 
 @YUM_MW1_A:743 YUM cb065f1b
-
+"{V1905}{W3}I'm sorry...{W25} I don't really know..."
 
 @YUM_MW1_A:745 PLY 1e572a43
-
+"Hoshino, what kind of swimsuit do you like?"
 
 @YUM_MW1_A:746 YUM 3f5a85a9
-
+"{V1906}{W3}What?!"
 
 @YUM_MW1_A:747 YUM 423bc997
-
+"{V1907}{W3}W-{W14}why would you suddenly ask that{W2}...{W2}"
 
 @YUM_MW1_A:748 PLY 02c8e1ea
-
+"No... just wondering..."
 
 @YUM_MW1_A:749 YUM 64b60c88
-
+"{V1908}{W3}I-{W25}I see...{W60} But{W19} I don't know how to answer..."
 
 @YUM_MW1_A:750 PLY 36a6a096
-
+"...Right, sorry."
 
 @YUM_MW1_A:751 PLY 8828f8d1
-
+"I think a bikini would look good on you, Hoshino."
 
 @YUM_MW1_A:752 YUM 17d4e204
-
+"{V1909}{W3}Y-{W25}you{W4} think{W6} so{W4}?{W3}.."
 
 @YUM_MW1_A:753 PLY cba7f7f7
-
+"Yeah, I do."
 
 @YUM_MW1_A:754 YUM a4a6f3e1
-
+"{V1910}{W3}A bikini...{W20} huh..."
 
 @YUM_MW1_A:756 PLY 6121c100
-
+"Our school swimsuits are cut surprisingly deep at the sides, aren't they?"
 
 @YUM_MW1_A:757 YUM 580707d8
-
+"{V1911}What?!"
 
 @YUM_MW1_A:758 YUM 4d7d3a74
-
+"{V1912}{W5}Y-{W43}yes,{W1}{W1}{W1}{W1} they are.{W36} It bothers me{W2} too..."
 
 @YUM_MW1_A:760 PLY 043418ec
-
+"This year's swimsuits..."
 
 @YUM_MW1_A:761 YUM 083fc20f
-
+"{V1913}Eh..."
 
 @YUM_MW1_A:762 YUM 7a5d60c2
-
+"{V1914}{W4}H-{W25}hmm...{W35} is that so..."
 
 @YUM_MW1_A:764 PLY 4b4adcd6
-
+"Hoshino, can you eat natto?"
 
 @YUM_MW1_A:765 YUM cca30a2b
-
+"{V1915}{W3}Yes,{W25} I'm{W1}{W1}{W1}{W1} fine with it.{W20} I love it."
 
 @YUM_MW1_A:767 PLY 0ae9d236
-
+"On a hot day, nothing beats somen~"
 
 @YUM_MW1_A:768 YUM 32c3e1bf
-
+"{V1916}Fufu,{W35} that's{W1} true.{W50} Even{W1} without{W1} an{W1} appetite,{W20} I{W1} can{W2}{W2}{W2}{W1}{W1}{W1} eat{W1} cold{W15} somen."
 
 @YUM_MW1_A:770 PLY e07b5555
-
+"Hoshino, do you eat breakfast properly?"
 
 @YUM_MW1_A:771 YUM 2e20293a
-
+"{V1917}Yes,{W30} but only something light."
 
 @YUM_MW1_A:772 YUM 2100826b
-
+"{V1918}{W6}They say{W4} two{W4} meals{W4} a day{W4} makes you gain weight{W4},{W21} if anything..."
 
 @YUM_MW1_A:774 PLY 2ceea13e
-
+"Have you and your family eaten out anywhere lately?"
 
 @YUM_MW1_A:775 YUM 0b9baebe
-
+"{V1919}{W10}Not{W5} lately...{W29} no.{W4}"
 
 @YUM_MW1_A:776 YUM 1c5f6de0
-
+"{V1920}{W3}My father{W18} is busy{W1}{W1}{W1}{W1}{W1} with{W1} work."
 
 @YUM_MW1_A:778 PLY 2db43e1d
-
+"What's the best feast at your house, Hoshino?"
 
 @YUM_MW1_A:779 YUM c7b61b97
-
+"{V1921}{W15}Our{W3} best{W3} feast{W5} is...{W65} {F3}sukiyaki,{W1}{W1}{W1}{W2}{W1}{W1}{W1} of{W5} course.{W4}{W4}{W4}{W1}{W1}"
 
 @YUM_MW1_A:780 PLY a90f7413
-
+"Hahaha, it's sukiyaki at pretty much every house."
 
 @YUM_MW1_A:781 YUM d8439968
-
+"{V1922}{W1}Fu{W2}fu,{W2}{W1}{W32} you're right."
 
 @YUM_MW1_A:783 PLY bc79cfbd
-
+"We had it for dinner the other day..."
 
 @YUM_MW1_A:784 YUM 86102b56
-
+"{V1923}......"
 
 @YUM_MW1_A:785 YUM 7c9a3d95
-
+"{V1924}Fufu,{W35} that's nice,{W13} a family gathered{W1} together.{Ec}"
 
 @YUM_MW1_A:787 PLY 16cd03a5
-
+"Speaking of summer, it's watermelon, right?"
 
 @YUM_MW1_A:788 YUM 5e7f8e1b
-
+"{V1925}{W2}Fu{W1}fu,{W1}{W1}{W35} you're{W1} right.{W27} We{W3} eat{W1} it{W1} a{W1} lot{W1} at{W1} home{W1} too.{W1}"
 
 @YUM_MW1_A:790 PLY c03f1a0f
-
+"What's your favorite Japanese sweet?"
 
 @YUM_MW1_A:791 YUM 3fc39ed7
-
+"{V1926}{W7}Japanese{W4} sweets{W4}...{W5}{W5}{W4}{W40} {F3}I like monaka.{W1}"
 
 @YUM_MW1_A:792 PLY 74fe0ec4
-
+"Oh, those are good. But doesn't the wafer stick to the roof of your mouth?"
 
 @YUM_MW1_A:793 YUM db60af6f
-
+"{V1927}{W4}Ah,{W27} it does, it{W1} does.{W28} It{W3} really{W1} won't{W1} come{W1} off,{W1} will{W1} it?{W2}{Ec}"
 
 @YUM_MW1_A:795 PLY 637f55e9
-
+"The soft serve we had on the way home was great, wasn't it?"
 
 @YUM_MW1_A:796 YUM b20154fe
-
+"{V1928}{W5}Yes.{W28} It was wonderful.{Ec}"
 
 @YUM_MW1_A:798 PLY 903eb133
-
+"Speaking of sweets..."
 
 @YUM_MW1_A:799 YUM 2d7687a4
-
+"{V1929}{W2}...{W2}{W2}"
 
 @YUM_MW1_A:800 YUM 108833ac
-
+"{V1930}{W3}Ah,{W25} that's been popular{W2} lately,{W2} hasn't it?{W42} Maybe I{W2} should{W2} try it too."
 
 @YUM_MW1_A:802 PLY 3b4e2cec
-
+"When you walk under the blazing sun, don't you end up buying juice from a vending machine?"
 
 @YUM_MW1_A:803 YUM e669e7a2
-
+"{V1931}{W7}I{W3} don't{W51} really drink while walking..."
 
 @YUM_MW1_A:805 YUM df98015f
-
+"{V1932}{W4}A{W4} girl{W4} drinking{W4} while{W4} walking{W4} is{W4} a{W4} bit{W4} improper,{W4}{W4}{W4}{W4}{W3}{W3}{W3}{W3}{W4} don't you think?{W36}{W4}"
 
 @YUM_MW1_A:806 PLY 6d37b8ae
-
+"...Yeah, you're right."
 
 @YUM_MW1_A:808 PLY e24d6c21
-
+"What do you like to drink after a meal?"
 
 @YUM_MW1_A:809 YUM 789dbbee
-
+"{V1933}{W5}After{W5} a{W5} meal...{W55} Japanese{W5} tea, I suppose.{F3}"
 
 @YUM_MW1_A:810 PLY 50bf4de9
-
+"Hahaha, you're so Japanese."
 
 @YUM_MW1_A:811 YUM 44c2eaa6
-
+"{V1934}{W6}Yes,{W27} of course.{Ec}"
 
 @YUM_MW1_A:813 PLY 7c36dfc2
-
+"I've been drinking it a lot lately..."
 
 @YUM_MW1_A:814 YUM 04e9171a
-
+"{V1935}{W2}...{W2}{W2}"
 
 @YUM_MW1_A:815 YUM 88b86dab
-
+"{V1936}{W3}Fufu,{W55} try not to drink too much."
 
 @YUM_MW1_A:817 PLY cc6271ae
-
+"Hoshino, what was the first dish you ever made?"
 
 @YUM_MW1_A:818 YUM 5beb63dc
-
+"{V1937}{W3}The{W2} first{W1} thing{W1} I{W1} made{W1} was...{W41} a fried egg,{W7} I think?{F3}{W1}{W1}{W1}"
 
 @YUM_MW1_A:819 PLY aa0c5d0d
-
+"Hahaha, that's easy."
 
 @YUM_MW1_A:820 YUM b9432556
-
+"{V1938}{W6}Well,{W15} that was{W1} when{W1} I was{W2} a child."
 
 @YUM_MW1_A:822 PLY fd266a88
-
+"The miso soup you made was so good..."
 
 @YUM_MW1_A:823 YUM e5ed7988
-
+"{V1939}{W3}R-{W40}really?{W45} Thank you."
 
 @YUM_MW1_A:824 PLY 8688fc61
-
+"What's your favorite udon topping?"
 
 @YUM_MW1_A:825 YUM fbc9b219
-
+"{V1940}Udon topping?{W70} Fried{W5} tofu{W5}...{W12} I{W5} think?{F3}"
 
 @YUM_MW1_A:826 PLY 6483576f
-
+"Ah, kitsune udon. It's delicious."
 
 @YUM_MW1_A:827 YUM a10db2f8
-
+"{V1941}{W3}Yes.{W45} I like how the broth turns sweet."

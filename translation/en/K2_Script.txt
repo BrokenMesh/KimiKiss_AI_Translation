@@ -50,10 +50,10 @@ Michi
 Officer
 
 @K2_Script:50 - 6d2e25d8
-
+Extra 1
 
 @K2_Script:52 - 1fdd7689
-
+Extra 2
 
 @K2_Script:54 - 48ba681f
 Boy
@@ -62,25 +62,25 @@ Boy
 Girl
 
 @K2_Script:58 - b7488b6c
-
+???
 
 @K2_Script:75 SYS 1d18b56a
-
+Text is normally entered inside double quotes.
 
 @K2_Script:77 SYS 7bfa607c
-
+"System message: is it appearing one character at a time?"
 
 @K2_Script:78 SYS 8dc11826
-
+(Full-width brackets and quotation marks can be used too.)
 
 @K2_Script:191 - 191bf140
-
+"......"
 
 @K2_Script:192 PLY 4f1aad89
-
+"Huh...? No reaction...?"
 
 @K2_Script:240 - 95ede7d0
-
+{Ti1}Obtained the topic "
 
 @K2_Script:241 - d3e3a8b3
-
+".

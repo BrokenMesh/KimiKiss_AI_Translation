@@ -2,583 +2,583 @@
 # Format: docs/translation-format.md
 
 @PLY_KAZ:34 PLY 3d1b35e3
-
+(......)
 
 @PLY_KAZ:37 PLY 305a4ea0
-
+(..........)
 
 @PLY_KAZ:42 PLY afb0f94e
-
+(Hmm... It's too hot to sleep...)
 
 @PLY_KAZ:43 PLY b198a093
-
+(Maybe I'll turn on the A/C and sleep...)
 
 @PLY_KAZ:44.1 - 2401ea6d
-
+{Ti0}- Turn it on／- Leave it off
 
 @PLY_KAZ:45 PLY aa297cab
-
+(...It'll be easier to fall asleep with it on)
 
 @PLY_KAZ:46 SYS 5f6c50af
-
+{Ti0}{Ti2}Beep
 
 @PLY_KAZ:47 SYS 02bd5003
-
+{Ti0}{Ti2}Hmmmm...
 
 @PLY_KAZ:48 PLY 323badff
-
+(Ahh... that feels good. Now I can sleep...)
 
 @PLY_KAZ:49 PLY 9ef2e56c
-
+(I'd better not catch a cold. I'll tough it out and sleep)
 
 @PLY_KAZ:51 PLY bd13133c
-
+"Achoo! Achoo!"
 
 @PLY_KAZ:52 PLY 6b275c6e
-
+"*Sniff*..."
 
 @PLY_KAZ:53 PLY 3defd950
-
+(Ugh... my nose feels awful. I think I have a slight fever too...)
 
 @PLY_KAZ:54 PLY 396b7339
-
+(Did I catch a cold? I shouldn't have slept with the A/C on)
 
 @PLY_KAZ:55 PLY 6fa752a8
-
+"Hhh, haah. Hhh, haah."
 
 @PLY_KAZ:56 PLY cab20fbb
-
+(Mmm, the morning air is so refreshing)
 
 @PLY_KAZ:57 PLY 420e5562
-
+(My nose is clear again. I think my cold is completely gone)
 
 @PLY_KAZ:58 PLY 0f022e98
-
+(Good, good)
 
 @PLY_KAZ:59 PLY 9784de36
-
+"Hey, Hiiragi."
 
 @PLY_KAZ:73 AKI 7bcbed9f
-
+"{V0199}{W15}What's up,{W1} {Nm}?{W18} Need{W1} something?"
 
 @PLY_KAZ:74 PLY fd0d0d0d
-
+"I haven't seen Hoshino all morning. Do you know why?"
 
 @PLY_KAZ:76 AKI 3bdfb18c
-
+"{V0200}{W18}What,{W15} you{W2} don't know?{W60} They{W2} said so at morning homeroom.{W58} {F9}You're{W2} as{W15} spaced out as ever."
 
 @PLY_KAZ:77 PLY 2421b6b4
-
+"Ugh... is that so? Sorry."
 
 @PLY_KAZ:78 AKI 57695f6b
-
+"{V0201}{W18}A cold,{W8} a cold.{W90} Apparently she{W1} caught a nasty one{W36} and has a{W3} terrible fever."
 
 @PLY_KAZ:87 PLY 6d8be73c
-
+"{Ti0}What?! {Ti2}{W45}R-really?!"
 
 @PLY_KAZ:88 PLY d37dae18
-
+(No way... did I give it to her...?)
 
 @PLY_KAZ:89 AKI cca04a96
-
+"{V0202}{W15}What's wrong, {Nm}?{W22} You{W2} look{W2} guilty."
 
 @PLY_KAZ:90 PLY 31abe577
-
+"Ah... no, it's nothing. Thanks for telling me, Hiiragi."
 
 @PLY_KAZ:91 AKI d58c6e0f
-
+"{V0203}{W15}Don't mention it,{W15} it's nothing."
 
 @PLY_KAZ:93 AKI fc9313b6
-
+"{V0204}{W12}See you."
 
 @PLY_KAZ:95 PLY af342d3f
-
+(Hoshino... I'm worried...)
 
 @PLY_KAZ:96 PLY 3456e49d
-
+(I wonder if Narumi's in the Home Ec Room?)
 
 @PLY_KAZ:97 PLY fa69f0b3
-
+"Narumi. ...Huh? She's not here. Maybe in the back?"
 
 @PLY_KAZ:99 MAN 57ae20f0
-
+"{V0013}{W15}You...{W60} what do{W4} you want?"
 
 @PLY_KAZ:100 PLY 5c64393c
-
+"Ah, um... Manami. Where's Narumi?"
 
 @PLY_KAZ:101 MAN d842e652
-
+"{V0014}{W18}Narumi...{W58} absent...{W5}"
 
 @PLY_KAZ:102 PLY 752bc6cc
-
+"Huh? Why?"
 
 @PLY_KAZ:103 KAO e704f167
-
+"{V0015}{W15}Manami,{W24} what's{W3} wrong?"
 
 @PLY_KAZ:108 KAO 85d207d3
-
+"{V0016}{W15}Oh,{W30} it's{W4} you."
 
 @PLY_KAZ:109 PLY 9e242cd1
-
+"Why is Narumi out?"
 
 @PLY_KAZ:110 KAO 964c3302
-
+"{V0017}{W17}A cold,{W5} a cold.{W60} She caught a nasty one,{W15} and apparently{W1} she has a fever."
 
 @PLY_KAZ:111 - 0b1e9c7d
-
+Girl A
 
 @PLY_KAZ:113 MAN e62f7d77
-
+"{V5017}{W15}You...{W50} who are{W4} you?"
 
 @PLY_KAZ:114 PLY 5003590d
-
+"Huh? Who... well..."
 
 @PLY_KAZ:115 - f6468b35
-
+Girl B
 
 @PLY_KAZ:116 KAO 97683350
-
+"{V5016}{W15}Do you{W4} need{W25} something{W3} from{W3} the{W3} Udon{W3} Club?"
 
 @PLY_KAZ:117 PLY bafb1031
-
+(Ah... they're the Udon Club girls)
 
 @PLY_KAZ:118 PLY 95343c06
-
+"...Um, I'm a friend of Narumi's, {Nm}. Is Narumi here?"
 
 @PLY_KAZ:120 MAN b38a6e3e
-
+"{V5018}{W15}Narumi...{W45} absent...{W5}"
 
 @PLY_KAZ:121 KAO 571e81a9
-
+"{V5017}{W16}A{W2} cold,{W5} a{W2} cold.{W51} She caught{W2} a nasty one,{W15} and she{W3} has a fever."
 
 @PLY_KAZ:122 PLY f725dd6d
-
+"Oh..."
 
 @PLY_KAZ:124 MAN 5233f5d2
-
+"{V5019}{W15}R-Rukko,{W40} this{W1} person's{W35} face{W13} changed...{W4}{W4}"
 
 @PLY_KAZ:125 KAO 4c102a55
-
+"{V5018}{W15}Yeah..."
 
 @PLY_KAZ:126 KAO 6d8ac016
-
+"{V5019}{W15}You{W2} didn't{W43} give{W2} it{W1} to her, did you?"
 
 @PLY_KAZ:127 PLY 01e64db3
-
+"Uh, ugh..."
 
 @PLY_KAZ:128 KAO 4af74f41
-
+"{V5020}{W15}You did give it to her!?"
 
 @PLY_KAZ:129 PLY 4a4e1dbe
-
+"Maybe..."
 
 @PLY_KAZ:130 MAN dafc0932
-
+"{V5020}{W18}Terrible...person...{W1}{W1}"
 
 @PLY_KAZ:131 PLY ce52713a
-
+"S-sorry..."
 
 @PLY_KAZ:132 KAO d4979a4b
-
+"{V6001}{W15}What did you{W3} do{W3} to Narumi?!"
 
 @PLY_KAZ:133 PLY 3f7bb8c5
-
+"What do you mean, what..."
 
 @PLY_KAZ:135 MAN c11e6192
-
+"{V5022}{W15}Rukko,{W30} this{W4} person...{W39} unforgivable.{W5}"
 
 @PLY_KAZ:136 KAO 57936998
-
+"{V5021}{W15}Right!{W33} We{W3} have{W3} to{W6} scold him!"
 
 @PLY_KAZ:137 PLY 689082aa
-
+"I'll apologize to Narumi properly, so forgive me!"
 
 @PLY_KAZ:139 MAN 4162e696
-
+"{V5023}{W17}Unforgivable...{W6}{W1}"
 
 @PLY_KAZ:140 KAO 8a91ced6
-
+"{V5022}{W17}Unforgivable!{W6}{W1}"
 
 @PLY_KAZ:141 PLY be450c9b
-
+"...W-well, see you!"
 
 @PLY_KAZ:143 KAO 1afc0d90
-
+"{V5023}{W15}Hey!{W3} Don't run away!"
 
 @PLY_KAZ:146 SYS b902d975
-
+And so I fled from the Home Ec Room.
 
 @PLY_KAZ:147 PLY 162adb53
-
+(Narumi... I'm worried...)
 
 @PLY_KAZ:148 PLY 7953253d
-
+(Um... I wonder if Mao's around...)
 
 @PLY_KAZ:149 PLY 20dafe64
-
+"{Ts1}Hey, Mao..."
 
 @PLY_KAZ:150 TOM 42dd2006
-
+"{V0139}{W15}Oh,{W18} what's up, {Nm}?"
 
 @PLY_KAZ:151 PLY 1cbc9a7b
-
+"Ah... um, well... I was looking for Mizusawa..."
 
 @PLY_KAZ:152 TOM 14f88e8f
-
+"{V0140}{W15}Mizusawa?{W45} She's{W4} out{W4} with{W2} a{W2} cold.{W2}{W21}"
 
 @PLY_KAZ:153 PLY ec81e663
-
+"What? Really?"
 
 @PLY_KAZ:154 TOM e05eb133
-
+"{V0141}{W15}Apparently{W17} she caught a nasty one, and{W27} she has a{W3} terrible fever."
 
 @PLY_KAZ:155 PLY 406c5cef
-
+"R-really..."
 
 @PLY_KAZ:156 TOM 3e515f00
-
+"{V0142}{W15}What's wrong?{W17} You look{W2} uncomfortable."
 
 @PLY_KAZ:157 PLY e0ea568d
-
+"N-no, it's nothing. Well, excuse me."
 
 @PLY_KAZ:158 TOM e0867e8f
-
+"{V0143}{W15}Yes,{W15} see you{Ec}."
 
 @PLY_KAZ:159 PLY dc169953
-
+(Mao... I'm worried...)
 
 @PLY_KAZ:160 PLY 682dbc0a
-
+(Oh, the soccer club is practicing)
 
 @PLY_KAZ:161 PLY ba5b54bc
-
+(I wonder if Sakino's here?)
 
 @PLY_KAZ:162 PLY 82e5f4d8
-
+(...Huh? She's not here... Did she already go to the Swim Club? ...I'll check)
 
 @PLY_KAZ:163 PLY b3f13a08
-
+(Hmm... doesn't look like she's here)
 
 @PLY_KAZ:164 TOM a4b5b394
-
+"{V0144}{W15}Oh,{W20} what{W2} are you doing, {Nm}?"
 
 @PLY_KAZ:165 PLY 4c0ad888
-
+"Ah, Ms. Kawada, what happened to Sakino today?"
 
 @PLY_KAZ:166 TOM 2d033433
-
+"{V0145}{W15}Oh,{W8} Sakino?{W60} She's{W3} out{W3} today{W2} with{W2} a{W2} cold.{W27}"
 
 @PLY_KAZ:167 TOM 5e6ffdf6
-
+"{V0146}{W15}Apparently{W15} she caught a nasty one, and{W24} she has a{W3} terrible fever."
 
 @PLY_KAZ:168 TOM cc463048
-
+"{V0147}{W15}What's wrong?{W18} You look{W2} uncomfortable."
 
 @PLY_KAZ:169 TOM 7d63c1ce
-
+"{V0148}{W15}Yes,{W15} see you{Ec}."
 
 @PLY_KAZ:170 PLY bf68721c
-
+(Sakino... I'm worried...)
 
 @PLY_KAZ:171 PLY 3febbbe9
-
+(I wonder if Futami's here? She's always in the Science Prep Room at this time)
 
 @PLY_KAZ:172 PLY 4671d97b
-
+(Huh? She's not here...)
 
 @PLY_KAZ:173 PLY fb44f3e9
-
+(...It doesn't feel like she came here at all today...)
 
 @PLY_KAZ:174 PLY 746507d4
-
+(Does that mean she's absent? ...But she's been coming to school properly lately, so I doubt she's skipping)
 
 @PLY_KAZ:175 PLY 53586441
-
+(Ah! Don't tell me my cold got passed on to her)
 
 @PLY_KAZ:176 PLY fec074a7
-
+(...It must be. Because I did that even though I had a cold...)
 
 @PLY_KAZ:177 PLY 618f9d4e
-
+(Is Futami okay? I hope she's better tomorrow...)
 
 @PLY_KAZ:178 PLY 7ea0d6b6
-
+(...I wonder if Shijou's here. She's often in the Music Room at this time)
 
 @PLY_KAZ:179 PLY 604e0e63
-
+(Huh? She's not here... Maybe the music prep room?)
 
 @PLY_KAZ:180 PLY f1edf744
-
+(She's not here either...)
 
 @PLY_KAZ:181 PLY 12925799
-
+(Does that mean she's absent? ...Wait)
 
 @PLY_KAZ:182 PLY ebb524e7
-
+(Is Shijou okay? I hope she's better tomorrow...)
 
 @PLY_KAZ:183 PLY 89aea73d
-
+(......I hope her cold isn't bad. If she's out tomorrow too, I have to visit her)
 
 @PLY_KAZ:184 YUM b59b0aad
-
+"{V1345}{W15}Ah, {Nm}."
 
 @PLY_KAZ:186 PLY 52dbd58f
-
+"Ah, Hoshino! I was worried. Is your cold okay?"
 
 @PLY_KAZ:188 YUM 1e964ca1
-
+"{V1346}{W15}Yes,{W15} I'm completely{W3} better."
 
 @PLY_KAZ:189 YUM fbf3acfd
-
+"{V1347}{W15}Sorry,{W12} for making{W2} you{W3} worry."
 
 @PLY_KAZ:190 PLY 37557aea
-
+"No, it's not..."
 
 @PLY_KAZ:191 PLY 718e1b76
-
+"It's because I... had a cold and still talked with you for so long, and, um... did that..."
 
 @PLY_KAZ:192 YUM a4827c2c
-
+"{V1348}{W15}No,{W15} don't worry about it."
 
 @PLY_KAZ:194 YUM 50e3aa06
-
+"{V1349}{W15}I{W39} wanted{W6} to be with you too, {Nm}..."
 
 @PLY_KAZ:195 PLY 5128afa1
-
+"Hoshino..."
 
 @PLY_KAZ:196 YUM 98344860
-
+"{V1350}{W8}You look well too, {Nm},{W30} I'm glad."
 
 @PLY_KAZ:197 YUM 5bcacb7b
-
+"{V1351}{W12}Well, see you."
 
 @PLY_KAZ:198 PLY c95cf0e0
-
+"Yeah, see you."
 
 @PLY_KAZ:199 PLY 07f687fe
-
+(I'm glad... Hoshino is better...)
 
 @PLY_KAZ:200 NAR 59231218
-
+"{V1271}{W12}Ah!{W5} Senpai~!"
 
 @PLY_KAZ:201 PLY 122df4f6
-
+"Huh?"
 
 @PLY_KAZ:202 PLY f08945c5
-
+"Ah, Narumi!"
 
 @PLY_KAZ:203 NAR 3e781ba5
-
+"{V1272}{Ec}{W12}Ehehe,{W21} {Eo}what{W3} are you doing?"
 
 @PLY_KAZ:204 PLY 45abd49b
-
+"Narumi, is your cold really okay now?"
 
 @PLY_KAZ:205 NAR 83b87340
-
+"{V1273}{W15}Ah...{W45} Senpai,{W2} you{W2} knew?"
 
 @PLY_KAZ:206 PLY 9383f19c
-
+"Yeah. The two Udon Club girls told me."
 
 @PLY_KAZ:207 NAR ab701b71
-
+"{V1274}{W5}Sorry to worry you.{W27} I'm okay now."
 
 @PLY_KAZ:208 PLY f93664a0
-
+"No, I'm the one who should apologize. I had a cold and kept talking with you the whole time..."
 
 @PLY_KAZ:209 NAR 69f956f1
-
+"{V1275}{W12}No,{W15} it's my fault.{W30} {F6}{B}{r}{8}{0}{t}Because..."
 
 @PLY_KAZ:210 NAR 0d80b9d5
-
+"......"
 
 @PLY_KAZ:211 NAR f52ae4cd
-
+"{V1276}{W18}Besides,{W15} if{W5} it's{W5} Senpai's cold,{W24} I don't mind catching{W1} it at all!"
 
 @PLY_KAZ:212 PLY 65928068
-
+"Narumi..."
 
 @PLY_KAZ:213 NAR 27896063
-
+"{V1277}{Nm},{W15} I'm{W2} full{W2} of{W3} energy now,{W15} so please don't{W3} look like that."
 
 @PLY_KAZ:214 PLY 0aee7351
-
+"Yeah... I'm glad you got better."
 
 @PLY_KAZ:215 NAR 43195b41
-
+"{V1278}{W15}Well{W4} then,{W8} Senpai,{W21} excuse{W4} me.{W3}{W3}"
 
 @PLY_KAZ:216 PLY e03a6130
-
+"Yeah, see you."
 
 @PLY_KAZ:217 PLY daa7501f
-
+(I'm glad... Narumi is better...)
 
 @PLY_KAZ:218 MAO e4a4c3ef
-
+"{V1343}{W15}Oh, {Nn}!{W3} What are{W4} you up to?"
 
 @PLY_KAZ:219 PLY 71e15f05
-
+"Ah! Mao! Is your cold okay now?"
 
 @PLY_KAZ:220 MAO ea19b95d
-
+"{V1344}{W15}Huh?{W40} How do you know?"
 
 @PLY_KAZ:221 PLY f22ec5d0
-
+"Ms. Kawada told me. She said you had a high fever..."
 
 @PLY_KAZ:223 MAO 190af860
-
+"{V1345}{W15}Oh,{W33} I see."
 
 @PLY_KAZ:226 MAO fbb36843
-
+"{V1346}{W15}{Ts1}That Tomo...{W15} saying unnecessary{W2} things..."
 
 @PLY_KAZ:227 PLY 547944a8
-
+"Huh? What?"
 
 @PLY_KAZ:228 MAO 9cfdec71
-
+"{V1347}N{W8}o,{W5}{W30} nothing.{W6}"
 
 @PLY_KAZ:229 MAO 6c8a356b
-
+"{V1348}{W15}Sorry,{W30} I{W3} made{W3} you worry."
 
 @PLY_KAZ:231 MAO 30928ea5
-
+"{V1349}{W15}It's fine.{W30} I{W8} had{W2} fun too."
 
 @PLY_KAZ:232 MAO 4101735c
-
+"{V1350}{W15}You seem all better too, {Nn},{W21} that's good."
 
 @PLY_KAZ:233 PLY 80decc91
-
+"Mao..."
 
 @PLY_KAZ:234 MAO 8517032c
-
+"{V1351}{W15}Well,{W3} see you."
 
 @PLY_KAZ:235 PLY 2a7133fc
-
+"Yeah, see you, Mao."
 
 @PLY_KAZ:236 PLY 8a3dd4cc
-
+(Good... Mao is back to her old self...)
 
 @PLY_KAZ:237 ASU 9a53fd7e
-
+"{V1174}{W15}Oh, {Nm}!{Ti0} {Ti2}What are{W2} you up to?"
 
 @PLY_KAZ:238 PLY 2c4086c4
-
+"Oh! Sakino! Are you over your cold?"
 
 @PLY_KAZ:239 ASU 44510a50
-
+"{V1175}{W15}Huh? {W45}...Oh, yeah,{W15} I'm{W2} fine.{W60} {F2}I'm{W2} built{W2} tough,{W45} so{W2} after{W2} a day in bed, {Ec}I'm totally better."
 
 @PLY_KAZ:240 PLY 2888fee2
-
+"I see, that's good..."
 
 @PLY_KAZ:241 ASU f6650f86
-
+"{V1176}{W12}But,{W30} how did you{W3} know{W6} I was{W3} out sick?"
 
 @PLY_KAZ:242 PLY f2dedcde
-
+"I stopped by your club activities. And you weren't there..."
 
 @PLY_KAZ:243 ASU 6da5ddcb
-
+"{V1177}{W15}I{W5} see.{W60} Sorry for making{W3} you{W3} worry."
 
 @PLY_KAZ:244 PLY 044ccdec
-
+"No, it's not that... It's because I... talked so long with you while I had a cold, and, well..."
 
 @PLY_KAZ:245 ASU f48d6130
-
+"{V1178}{W15}Ahaha,{W45} {Eo}I don't usually{W2} catch colds{W4} easily,{W66} but this time{W3} I really caught it, huh."
 
 @PLY_KAZ:247 ASU 4d91c84c
-
+"{V1179}{W15}But,{W15} I'm all better{W3} now, so don't worry about it."
 
 @PLY_KAZ:248 PLY bad3355d
-
+"Okay..."
 
 @PLY_KAZ:249 ASU 514f1e89
-
+"{V1180}{W15}Well then,{W15} see you, {Nm}."
 
 @PLY_KAZ:250 PLY 6224bdbd
-
+"See you, Sakino."
 
 @PLY_KAZ:251 PLY f096fdb4
-
+(Good... Sakino is back to her old self...)
 
 @PLY_KAZ:252 ERI 9f6a0ce6
-
+"{V1220}{W18}Oh, {Nm}."
 
 @PLY_KAZ:253 PLY f19f2aa9
-
+"Oh, Futami! Are you over your cold?"
 
 @PLY_KAZ:254 ERI 917e860d
-
+"{V1221}{W15}Huh...{W45} H{W1}ow{W1} d{W1}id you{W30} know{W6} I caught{W3} a cold?"
 
 @PLY_KAZ:255 PLY 6da085cb
-
+"I didn't sense you in the Science Prep Room yesterday. So..."
 
 @PLY_KAZ:256 ERI 36a6c3a1
-
+"{V1222}{W15}I see...{W60} You're{W4} sharp."
 
 @PLY_KAZ:257 PLY 1b97585b
-
+"Sorry. It's because I... talked so long with you while I had a cold..."
 
 @PLY_KAZ:258 ERI d24bc36a
-
+"{V1223}{W12}It isn't your fault, {Nm}."
 
 @PLY_KAZ:259 ERI ecc08ba5
-
+"{V1224}{W15}So,{W15} don't worry about it."
 
 @PLY_KAZ:260 PLY 2ca64493
-
+"Futami..."
 
 @PLY_KAZ:261 ERI fcfe5532
-
+"{V1225}{W15}See you, {Nm}."
 
 @PLY_KAZ:262 PLY 208e49ab
-
+(Good... Futami is back to her old self...)
 
 @PLY_KAZ:263 MIT f2672ae4
-
+"{V1412}{W15}Oh,{W30} Master{W3}{W3}."
 
 @PLY_KAZ:264 MIT d3d472f0
-
+"{V1411}{W15}Oh, {Nm}."
 
 @PLY_KAZ:265 PLY 390ed669
-
+"Oh, Shijou! Are you over your cold?"
 
 @PLY_KAZ:266 MIT b16ec9ab
-
+"{V1413}{W15}Oh...{W75} How did you{W2} know?"
 
 @PLY_KAZ:267 PLY 399d6b30
-
+"I didn't sense you in the Music Room yesterday. So..."
 
 @PLY_KAZ:268 MIT a50112bd
-
+"{V1414}{W15}Oh..."
 
 @PLY_KAZ:269 MIT 815abe76
-
+"{V1415}{W15}I{W4} am{W4} sorry to have worried you.{W2}{W32} I am completely{W2} well{W1} now."
 
 @PLY_KAZ:270 PLY 74e30017
-
+"Really? Sorry, it's because I... talked so long with you while I had a cold..."
 
 @PLY_KAZ:272 MIT 5a97afe5
-
+"{V1416}{W15}No.{W30} Please do not trouble yourself."
 
 @PLY_KAZ:273 MIT eab3b6ae
-
+"{V1417}{W15}Being{W1} with{W3} you...{W52} I enjoyed{W2} it."
 
 @PLY_KAZ:274 PLY d4b0c6b0
-
+"Shijou."
 
 @PLY_KAZ:275 MIT c276ab95
-
+"{V1419}{W15}Master,{W3}{W4} are you all right{W3}{W2}?"
 
 @PLY_KAZ:276 MIT 6433c4ee
-
+"{V1418}{W8}{Nm},{W5} are you all{W3} right{W3}?"
 
 @PLY_KAZ:277 PLY a9c06b20
-
+"Yeah. I'm fine."
 
 @PLY_KAZ:278 MIT b603897e
-
+"{V1420}{W15}I am glad{W3}..."
 
 @PLY_KAZ:279 MIT 9bb5b1ec
-
+"{V1421}{W15}Well then,{W18} excuse{W3} me{W3}."
 
 @PLY_KAZ:280 PLY 29b86930
-
+(Good... Shijou is back to her old self...)

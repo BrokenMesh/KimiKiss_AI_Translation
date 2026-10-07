@@ -2,235 +2,235 @@
 # Format: docs/translation-format.md
 
 @MIT_KOK_B:17 PLY 0da29bf2
-
+(...Shijou should be in the Music Room.)
 
 @MIT_KOK_B:36 PLY d4b0c6b0
-
+"Shijou."
 
 @MIT_KOK_B:37 MIT e0f22383
-
+"{V1484}{W10}Ah, {Nm}."
 
 @MIT_KOK_B:40 PLY 0961581e
-
+"The school festival is really lively."
 
 @MIT_KOK_B:42 MIT bf370e14
-
+"{V1485}{W10}Yes,{W2} indeed.{W2}{W2}{W2}{W2}"
 
 @MIT_KOK_B:43 PLY f1ee000a
-
+"We have the whole day, so let's take our time looking around."
 
 @MIT_KOK_B:45 MIT 862ba319
-
+"{V1486}{W10}Yes."
 
 @MIT_KOK_B:50 SYS a3decbd9
-
+...And so, I toured the school festival with Shijou.
 
 @MIT_KOK_B:51 SYS 4361b0a3
-
+Every attraction was fun and made me happy, because we went around together.
 
 @MIT_KOK_B:52 SYS 77b9ed09
-
+...But once the school festival ends, Shijou will go to another man...
 
 @MIT_KOK_B:53 SYS 7835d943
-
+Thinking that, it hurt so much I felt my chest might burst...
 
 @MIT_KOK_B:54 PLY 4841a35a
-
+"The school festival is... almost over..."
 
 @MIT_KOK_B:57 MIT f809de54
-
+"{V1487}{W20}Yes, indeed..."
 
 @MIT_KOK_B:59 MIT 02bc889c
-
+"{V1488}...{W8}I wish{W3} it{W3} would last{W3} forever..."
 
 @MIT_KOK_B:60 PLY 122df4f6
-
+"Huh?"
 
 @MIT_KOK_B:62 MIT 5ead6204
-
+"{V1489}{W10}If{W3} the{W3} school{W3} festival{W5} never{W3} ended,{W60} {F6}{Eo}I{W3} could stay by your side,{W5} {W80}always, {Nm}..."
 
 @MIT_KOK_B:63 PLY 5248279b
-
+"Shijou..."
 
 @MIT_KOK_B:65 MIT f6116e5e
-
+"{V1490}{W5}...{W5}..."
 
 @MIT_KOK_B:67 MIT db632043
-
+"{Nm}{V1491}, {W15}shall{W3} we{W3} go to the Schoolyard?"
 
 @MIT_KOK_B:68 PLY 150ed083
-
+"The Schoolyard?"
 
 @MIT_KOK_B:70 MIT 4c8c83e5
-
+"{V1492}{W10}Yes.{W60} {Eo}There is a{W3} campfire.{W20} Please{W3} dance{W3} the{W5} folk{W5} dance{W8} with{W3} me."
 
 @MIT_KOK_B:71 PLY 691be845
-
+"A folk dance... Sounds good, let's go!"
 
 @MIT_KOK_B:72 SYS 64307299
-
+...And so the sun set, and the folk dance began.
 
 @MIT_KOK_B:76 MIT c5990560
-
+"{V1493}{W13}Today{W3} was{W5} a{W3} lot{W5} of{W3} fun."
 
 @MIT_KOK_B:77 PLY af85d10c
-
+"For me too..."
 
 @MIT_KOK_B:79 MIT 47651e1d
-
+"{V1494}{W10}This{W3} is{W3} the{W5} first time,{W5} {Nm},{W3} that I have been with you{W5} all day{W38} at{W5} school{W2}{W5}."
 
 @MIT_KOK_B:80 PLY bad3355d
-
+"Yeah..."
 
 @MIT_KOK_B:81 PLY ffa2a2eb
-
+(Shijou... She's so beautiful...)
 
 @MIT_KOK_B:83 PLY 634f9920
-
+"Ah..."
 
 @MIT_KOK_B:84 SYS 773752d4
-
+When I let go of her hand, Shijou moved on to the next boy...
 
 @MIT_KOK_B:85 SYS 9a081328
-
+Just like the situation between Shijou and me right now...
 
 @MIT_KOK_B:86 SYS 0fc8117d
-
+With a folk dance, if you wait one round, you can dance again. But the person you love, once you let go of her hand, never comes back...
 
 @MIT_KOK_B:87 SYS 1d8cc2da
-
+It's fine to be reckless, fine to trouble her. I...
 
 @MIT_KOK_B:89 MIT 0c96abd6
-
+"{V1517}{W13}Well then...{W105} I{W6} {W65}must go."
 
 @MIT_KOK_B:90 PLY 3e2516f7
-
+"I'll walk you."
 
 @MIT_KOK_B:91 MIT af815b4b
-
+"{V1518}{W10}Huh?"
 
 @MIT_KOK_B:92 PLY e56b6531
-
+"I want to be with you until the very last moment. Is that okay?"
 
 @MIT_KOK_B:93 MIT 1b800ab1
-
+"{V1519}{W13}Yes."
 
 @MIT_KOK_B:94 PLY 3d1b35e3
-
+(......)
 
 @MIT_KOK_B:95 PLY 283994e0
-
+(...Say it, say you like her!)
 
 @MIT_KOK_B:96 PLY a2700a08
-
+(Shijou, I like you!)
 
 @MIT_KOK_B:97 PLY 46cc03bc
-
+(...No good, the words won't come out...)
 
 @MIT_KOK_B:98 PLY 1b9ca5b2
-
+(I made up my mind to say it, but when the time comes, I just can't...)
 
 @MIT_KOK_B:99 PLY 27181f1f
-
+(This is already my last chance, and if this goes on...)
 
 @MIT_KOK_B:102 PLY d06484e6
-
+(I have to say it... I have to tell her how I feel... Shijou is leaving...)
 
 @MIT_KOK_B:103 MIT 03a62960
-
+"{Nm}, {V1520}{W8}I am sorry...{W65} I{W6} {W70}{Ec}must{W10} go now..."
 
 @MIT_KOK_B:104 PLY b2ecf847
-
+"Ugh..."
 
 @MIT_KOK_B:105 PLY 33a77480
-
+(Say it! Say it!)
 
 @MIT_KOK_B:106 PLY 092b86b0
-
+"S-Shijou! Don't go!"
 
 @MIT_KOK_B:107 MIT b1b91cdd
-
+"{V1521}{W10}Huh?"
 
 @MIT_KOK_B:108 PLY 49b87f77
-
+"Even if I say this... even if I say this... it may only trouble you, but..."
 
 @MIT_KOK_B:109 PLY 2e48e00c
-
+"I... I... I... you..."
 
 @MIT_KOK_B:110 PLY 58439244
-
+"I like you! I want you to stay by my side forever!"
 
 @MIT_KOK_B:111 MIT c6dae918
-
+"{V1522}{W10}Ah{W3}..."
 
 @MIT_KOK_B:112 MIT 1d5e4f75
-
+"{V1523}{W15}At last...{W90} you have{W5} finally said it."
 
 @MIT_KOK_B:113 MIT fc54fda6
-
+"{V1524}{W15}I{W6} {W80}believed{W5} that you would surely{W5} stop{W3} me,{W20} {Fe9m3}I did."
 
 @MIT_KOK_B:114 PLY 52b1157a
-
+"Shijou... I'm just an ordinary guy, so I may not measure up to the fiance your father chose in anything."
 
 @MIT_KOK_B:115 PLY ebb5f630
-
+"But I will never lose when it comes to my feelings for you! That much I'm sure of."
 
 @MIT_KOK_B:116 MIT 34c7eea1
-
+"{V1525}{W15}Yes.{W3}{W3}"
 
 @MIT_KOK_B:117 MIT 42aacc73
-
+"{V1526}{W13}For me,{W6} {W80}that{W3} alone{W5} is{W6} enough."
 
 @MIT_KOK_B:118 MIT 9d991456
-
+"{V1527}{W15}If{W3} you{W6} want{W5} me,{W55} I{W6} need{W3} nothing{W3} else.{W3}{W3}"
 
 @MIT_KOK_B:119 MIT a5eb8256
-
+"{V1528}{W15}It is enough if{W3} you keep me{W3} at your side.{W75} {Ec}Because..."
 
 @MIT_KOK_B:121 MIT 9724bd1d
-
+"{V1529}{W20}Because{W6} my{W8} only{W2} Master{W5} is{W5} you,{W5} you{W47} and{W5} you{W3} alone.{W5}{W5}"
 
 @MIT_KOK_B:122 PLY 3fa1f3ad
-
+"Shijou!"
 
 @MIT_KOK_B:123 MIT 219fcfef
-
+"{V1530}{W20}Master!{W2}{W4}{W4}"
 
 @MIT_KOK_B:127 PLY edb55fda
-
+"Mitsuki, I like you."
 
 @MIT_KOK_B:128 MIT 1725109b
-
+"{V1531}{W10}Ah{W12}...{W100} At last{W85} you call{W6} me{W10} Mitsuki{W5}{W10}...{W2}"
 
 @MIT_KOK_B:131 PLY 61bdf2c5
-
+"I can say it as many times as you like... Mitsuki, I like you."
 
 @MIT_KOK_B:132 MIT ceea99d8
-
+"{V1532}{W12}I{W6} like you very much too.{W15}{W5}{W2}{W2} {W65}Master...{W2}{W5}{W5}{W5}"
 
 @MIT_KOK_B:138 SYS 2e88e330
-
+{V5027}{c6}{W18}Time{W3} passed{W3} since then...{W27} By spring{W3} came,{W3}{W55} Father's{W3} anger{W3} had{W3} finally{W10} faded,{W45} and I{W6} now{W45} go{W3} to{W3} school{W3} happily{W3}{W48} with{W3} the boy{W3} I love{W3}{W3}{W3}.
 
 @MIT_KOK_B:139 SYS 0a9badd7
-
+{V5028}{c6}{W12}I gave up riding to school in the limousine,{W30} and every{W3} morning{W10} I{W3} walk{W42} to pick{W3} him{W3} up,{W6} day{W5} after{W3} day{W3}.{W3}
 
 @MIT_KOK_B:140 SYS e18e09b6
-
+{V5029}{c6}{W12}Father{W3} says,{W30} "{W5}You{W3} cannot{W3} manage{W3} a commoner's{W5} life,{W30}"{W10} {W10}but I{W6} {W40}will{W70} never leave{W70} the one I love,{W20} no matter{W3} what...
 
 @MIT_KOK_B:141 SYS 947c7d68
-
+{V5030}{c6}{W15}Just as the daughters{W3} of the Shijou{W5} family{W3} before me{W3} did,{W10} {W48}I will live{W3} for him...{W70} and{W5} with him{W3}...
 
 @MIT_KOK_B:143 SYS fea8fdf8
-
+{V5031}{c6}"{W7}Good morning,{W27} Master.{W3}{W3}{W3} {W38}Have you forgotten{W3} anything?{W3}"
 
 @MIT_KOK_B:144 SYS 002c09b5
-
+{V5032}{c6}"{W10}Today{W1} is{W3} another{W5} new{W3} day,{W3} is{W3} it not?"
 
 @MIT_KOK_B:145 SYS 73529db5
-
+{V5033}{c6}"{W15}If there is anything{W6} you want me to do, {W25}please tell me{W3} anything at all. {W45}I{W5} will{W5} do{W12} my{W5} best{W5}."
 
 @MIT_KOK_B:147 SYS 4b1d8335
-
+{V5034}{c6}"{W5}Because that is{W85} my{W6} {W8}happiness{W6}{W3}..."
 
 @MIT_KOK_B:148 SYS 1f542d57
-
+This hasn't been sorted into a file yet. Sorry about that...

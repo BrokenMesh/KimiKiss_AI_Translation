@@ -206,7 +206,7 @@
 "{V0147}{W15}K-{W60}kiss{W5}?!{W54} {Fe8}Of course it is{W6}!"
 
 @MEG_KIS_A:115 MEG 8a545c74
-"{V0148}{W15}Kissing{W3} is improper{W6} boy-girl{W4} fraternizing{W4}! {W30}{Eo}If you get caught,{W4} you're suspended!{W12} Suspended{W4}!"
+"{V0148}{W15}Kissing{W3} is improper{W6} boy-girl{W4} fraternizing{W4}! {W30}{Eo}If you{W4} get{W4} caught,{W4} you're{W4} suspended!{W12} Suspended{W4}!"
 
 @MEG_KIS_A:116 PLY b1b41286
 "What?! It's that serious an offense?!"

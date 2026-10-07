@@ -2,25 +2,25 @@
 # Format: docs/translation-format.md
 
 @ERI_MW3_A:10 PLY 407a550a
-
+(Futami...)
 
 @ERI_MW3_A:29 ERI 079a58d1
-
+"...{E}......{E}?"
 
 @ERI_MW3_A:30 PLY 9e21761b
-
+(I-I was fantasizing right in front of her...)
 
 @ERI_MW3_A:31 PLY f91b3fc4
-
+(Not good... I have to get a grip...)
 
 @ERI_MW3_A:32 PLY 0304f087
-
+(Huh...? What is this feeling...)
 
 @ERI_MW3_A:34 PLY 618d61ad
-
+(What...? Something is about to happen here...)
 
 @ERI_MW3_A:36 PLY 6f3c9fdd
-
+(Whoa!)
 
 @ERI_MW3_A:37 PLY 112e988a
-
+(Huh? What was I doing? I...)

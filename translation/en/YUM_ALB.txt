@@ -2,19 +2,19 @@
 # Format: docs/translation-format.md
 
 @YUM_ALB:85 PLY 97307e0e
-
+"Ah! Hoshino!"
 
 @YUM_ALB:87 YUM e77f4e95
-
+"{V0037}Huh?{W45} ...Oh,{W15} {Nm}."
 
 @YUM_ALB:88 PLY 8f7eb314
-
+"What are you doing?"
 
 @YUM_ALB:90 YUM dbfa3327
-
+"{V0038}{W15}I'm putting the returned books{W45} back where they belong."
 
 @YUM_ALB:91 PLY 2ae95ec7
-
+"I see. They look heavy. Want me to help?"
 
 @YUM_ALB:92 YUM ca36e3fa
-
+"{V0039}No,{W30} it's fine.{W20} I'm{W5} almost done."

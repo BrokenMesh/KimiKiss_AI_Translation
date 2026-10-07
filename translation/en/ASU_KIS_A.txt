@@ -2,997 +2,997 @@
 # Format: docs/translation-format.md
 
 @ASU_KIS_A:38 PLY e4cfa1fe
-
+"Sakino, can I ask you something?"
 
 @ASU_KIS_A:42 ASU dd34f8eb
-
+"{V0210}{W12}A{W3} question?{W50} Sure,{W19} {F3}what{W3} is it?"
 
 @ASU_KIS_A:44 PLY 85685a2b
-
+"It's kind of hard to ask..."
 
 @ASU_KIS_A:46 ASU f90d794d
-
+"{V0211}{W12}Hard to ask?"
 
 @ASU_KIS_A:47 PLY cc4af171
-
+"Yeah."
 
 @ASU_KIS_A:50 ASU ca4e4e84
-
+"{V0212}{W15}Hmm...{W81} I can't{W2} even{W2} imagine{W5} what{W2} it{W2} is,{W75} {Ec}{W5}{F9}{Eo}but{W5} anyway,{W10} go ahead and ask."
 
 @ASU_KIS_A:51 PLY 5b4bd151
-
+"R-really? Well then..."
 
 @ASU_KIS_A:52 PLY 599d7a42
-
+"Sakino, have you ever been in love?"
 
 @ASU_KIS_A:53 ASU 3a2ece42
-
+"{V0213}{W12}Huh?!"
 
 @ASU_KIS_A:57 ASU 3bd5c5cf
-
+"{V0214}{W10}W-{W45}why would you ask that?"
 
 @ASU_KIS_A:58 PLY 435935f6
-
+"N-no, it's just... you're so active, or so full of energy..."
 
 @ASU_KIS_A:59 PLY 630268cf
-
+"I got the feeling that kind of thing has nothing to do with you..."
 
 @ASU_KIS_A:60 ASU 0c11bfd0
-
+"{V0215}{W8}Th-{W40}that's not{W4} true.{W23} {Ec}I'm{W6} a girl{W1} too,{W6} you know.{W64} {F6}{Eo}I've even{W5} had{W5} a confession...{W56} before...{W50} actually..."
 
 @ASU_KIS_A:61 PLY 7e1085be
-
+"Huh! Really?!"
 
 @ASU_KIS_A:62 ASU f6c4f42a
-
+"{V0216}{W12}Yeah.{W95} {F9}...{W6}It was{W3} a{W6} girl,{W12} though..."
 
 @ASU_KIS_A:63 PLY 0c0625c8
-
+"A girl?"
 
 @ASU_KIS_A:64 PLY 8940c07c
-
+"Hahahahaha."
 
 @ASU_KIS_A:65 ASU 40a98279
-
+"{V0217}{W10}D-{W28}don't laugh{W3} so much,{W1} come{W1} on...{W5}"
 
 @ASU_KIS_A:66 PLY a5c5684b
-
+"Hahaha... sorry, sorry."
 
 @ASU_KIS_A:67 PLY ca39d489
-
+(She is the type girls would admire, after all...)
 
 @ASU_KIS_A:69 ASU e23ff410
-
+"{V0218}{W10}Every guy I get a little close to{W20} says the same{W3} thing.{W45} {Ec}{W5}{F9}{Eo}"You'll{W3} always{W5} be{W3} a{W3} friend.""
 
 @ASU_KIS_A:70 ASU b53863a8
-
+"{V0219}{W12}What{W1} is{W1} that{W1} supposed{W1} to mean,{W5} honestly..."
 
 @ASU_KIS_A:71 PLY 12ead286
-
+"Hmm..."
 
 @ASU_KIS_A:72.1 - 163c037b
-
+{Ti0}- I kind of understand that feeling／- I wouldn't say that／- That's the opposite of what he feels
 
 @ASU_KIS_A:73 PLY 1b67f19f
-
+"I kind of understand that feeling..."
 
 @ASU_KIS_A:74 ASU ab347a0f
-
+"{V0220}{W12}You{W3} do?{W25} Why?{W3}"
 
 @ASU_KIS_A:75 PLY 98d2d946
-
+"It's hard to say why, but somehow I get that feeling."
 
 @ASU_KIS_A:76 ASU c3387f50
-
+"{V0221}{W12}Hmm{W8}...{W8}{W8}"
 
 @ASU_KIS_A:77 PLY 6b8ddfe1
-
+"I wouldn't say that."
 
 @ASU_KIS_A:78 ASU 8b7b1359
-
+"{V0222}{W15}Oh?{W55} {F9}Then{W15} what would you say?"
 
 @ASU_KIS_A:79 PLY f2658ff2
-
+"I'd think, if we could just get closer..."
 
 @ASU_KIS_A:80 ASU e7202131
-
+"{Nm}{V0223}...{W3}Th{W1}an{W1}ks{W1}.{W1}"
 
 @ASU_KIS_A:81 PLY 32a33911
-
+"That's... the opposite of what he really feels."
 
 @ASU_KIS_A:82 ASU e2f0c6dd
-
+"{V0224}{W10}Huh?!"
 
 @ASU_KIS_A:83 PLY 8715fe3a
-
+"Maybe that guy liked you, Sakino? And so he said something he didn't mean..."
 
 @ASU_KIS_A:84 ASU 0dcdc677
-
+"{V0225}{W15}Hmm{W3}...{W3}{W50} it didn't{W3} feel{W3} like{W3} that,{W5} though?"
 
 @ASU_KIS_A:85 PLY e2d51d78
-
+"R-really? Hahaha..."
 
 @ASU_KIS_A:86 ASU 59bf5249
-
+"{V0226}{W12}Hey{W10},{W5} {Nm},{W5} let's{W5} shake{W2} hands."
 
 @ASU_KIS_A:87 PLY 1796a34e
-
+"Huh? Shake hands?"
 
 @ASU_KIS_A:88 ASU f53b106d
-
+"{V0227}{W12}Yeah.{W67} {Eo}Hold out your hand."
 
 @ASU_KIS_A:94 ASU 415f6aad
-
+"{V0228}{W12}Let's keep{W3} getting along, {Nm}."
 
 @ASU_KIS_A:95 PLY 803594cd
-
+"Likewise."
 
 @ASU_KIS_A:96 ASU 060cd0f8
-
+"{V0229}{W10}A{W3} handshake{W3} is{W40} a{W3} sign{W3} of friendship."
 
 @ASU_KIS_A:97 PLY 0880ae5c
-
+"I see... Yeah, that's true."
 
 @ASU_KIS_A:106 ASU 2bc4beab
-
+"{V0230}{W8}See you{W3} later."
 
 @ASU_KIS_A:107 PLY dac1331f
-
+"See you later."
 
 @ASU_KIS_A:109 PLY 9c0f1df1
-
+(A handshake is a sign of friendship, huh? That's so Sakino...)
 
 @ASU_KIS_A:110 PLY 5c4dfe87
-
+"Sakino, want to shake hands again?"
 
 @ASU_KIS_A:111 ASU b137a8bd
-
+"{V7500}Shake hands?{W50} Why?"
 
 @ASU_KIS_A:112 PLY 1afe7e6a
-
+"Hmm... no reason, really."
 
 @ASU_KIS_A:113 ASU 2278430d
-
+"{V7501}Okay...{W40} {Sp}that's weird."
 
 @ASU_KIS_A:114 PLY 7aa469c1
-
+"Hahaha..."
 
 @ASU_KIS_A:115 ASU f22203ba
-
+"{V7502}Here, shake.{W30} Is this okay?"
 
 @ASU_KIS_A:116 PLY 7d68aa58
-
+"Y-yeah..."
 
 @ASU_KIS_A:117 ASU a98f4ff1
-
+"{V7503}Hehe,{W40} see you{W5} later."
 
 @ASU_KIS_A:118 PLY 6224bdbd
-
+"See you later, Sakino."
 
 @ASU_KIS_A:120 ASU 2a45c66b
-
+"{V0231}{W12}Hey,{W5} {Nm},{W10} can{W3} I ask{W3} you something?"
 
 @ASU_KIS_A:121 PLY a70057b4
-
+"Huh? Sure?"
 
 @ASU_KIS_A:123 ASU 3fff162c
-
+"{Nm}, {V0235}{W20}have you...{W102} {Ec}{W5}{F9}{Eo}ever{W5} been{W53} in love?"
 
 @ASU_KIS_A:124 PLY 687af426
-
+"Huh? Th-that's what I asked you before, isn't it?"
 
 @ASU_KIS_A:126 ASU 2cf2d900
-
+"{V0236}{W12}Right.{W44} {Eo}That's why I wanted to ask you."
 
 @ASU_KIS_A:127 PLY e7c63180
-
+"...But when I asked, you didn't answer, Sakino."
 
 @ASU_KIS_A:128 ASU 3d81b075
-
+"{V0237}{W12}Huh?{W46} D-{W43}did I not?"
 
 @ASU_KIS_A:129 PLY 8422b3f8
-
+"You didn't."
 
 @ASU_KIS_A:130 PLY 9ed00bbe
-
+"If you tell me, I'll tell you. You're an athlete, so it has to be fair."
 
 @ASU_KIS_A:131 ASU eeeafeb5
-
+"{V0238}{W10}Ugh...{W70} you{W3} know{W5} where to hit me."
 
 @ASU_KIS_A:132 PLY a2283db5
-
+(That should make her give up on this question...)
 
 @ASU_KIS_A:133 ASU 040b0c92
-
+"{V0239}...{W6}I haven't."
 
 @ASU_KIS_A:134 PLY 122df4f6
-
+"Huh?"
 
 @ASU_KIS_A:135 ASU 5f77e92b
-
+"{V0240}{W12}Gee{W5}...{W55} I haven't.{W60} {Ec}I've never{W10} been in{W5} love{W5} yet..."
 
 @ASU_KIS_A:136 PLY df6b2731
-
+"I-I see..."
 
 @ASU_KIS_A:137 ASU 0f20e0bb
-
+"{V0241}{W15}So,{W35} what about you, {Nm}?{W45} {Ec}{W5}{F3}{Eo}Have you{W25} been in love?"
 
 @ASU_KIS_A:138 PLY 8f66644e
-
+"Ugh... I have, um... been in love, but I've never gone out with anyone."
 
 @ASU_KIS_A:139 PLY 060e156b
-
+(Sigh... what am I being made to say...)
 
 @ASU_KIS_A:140 ASU 04c99507
-
+"{V0242}{W10}I{W3} see{W3}.{W68} {F3}Since{W3} you've{W3} been{W3} in{W3} love,{W25} {Fe2m3}{Ec}you're{W6} a step{W8} ahead of me."
 
 @ASU_KIS_A:141 PLY ba084245
-
+"Hmm... maybe so..."
 
 @ASU_KIS_A:142 ASU d8eecef4
-
+"{V0243}{W12}Hehe...{W68} {F8}{Eo}Love,{W5} huh...{W75} I{W3} really{W18} don't{W3} get{W3} it.{W3}{W2}"
 
 @ASU_KIS_A:144 ASU 896da430
-
+"{V0244}{W10}......"
 
 @ASU_KIS_A:145 ASU 3e7d34e7
-
+"{V0245}{W5}...Oh!{W33} I know!{W7} {Nm},{W60} {F3}if you don't{W6} mind,{W50} would{W3} you{W3} be my{W17} love{W3} coach?"
 
 @ASU_KIS_A:146 PLY fb4f63d0
-
+"Huh?! A love coach?!"
 
 @ASU_KIS_A:147 ASU 0caeddf0
-
+"{V0246}{W10}Yeah."
 
 @ASU_KIS_A:148 PLY 9dee4d04
-
+"I-I can't, I don't know anything about romance either..."
 
 @ASU_KIS_A:149 ASU 4e953396
-
+"{V0247}{W12}But{W22} you{W6} know more than I do, right?"
 
 @ASU_KIS_A:150 PLY 3d4b76ea
-
+"Hmm... probably, I guess..."
 
 @ASU_KIS_A:152 ASU 9d8a5844
-
+"{V0248}{W5}Right!{W35} {Eo}That's just the right level!"
 
 @ASU_KIS_A:154 ASU e646efea
-
+"{V0249}{W5}I mean, look,{W38} if some amazing coach{W5} suddenly{W3} taught me,{W20} I just couldn't keep up, right?"
 
 @ASU_KIS_A:155 ASU 9b5095b9
-
+"{V0250}{W12}First,{W29} I need a coach{W3} who fits my own level."
 
 @ASU_KIS_A:156 ASU 908f237e
-
+"{V0251}{W12}So,{W10} Coach!{W10} Where{W3} do we start?{W25} {Ec}{W5}{F9}{Eo}The{W3} love{W3} feint?{W15} {F2}The free kick of love?"
 
 @ASU_KIS_A:157 PLY 67de02d6
-
+(She's got the wrong image in her head...)
 
 @ASU_KIS_A:158 PLY fd5aea79
-
+"...Sakino."
 
 @ASU_KIS_A:159 ASU 0bbaa0cf
-
+"{V0252}{W12}What?"
 
 @ASU_KIS_A:160 PLY 6cb76c6b
-
+"...When it comes to love lessons, doesn't it start with A?"
 
 @ASU_KIS_A:161 ASU 1a2ddc03
-
+"{V0253}{W12}Whaat?!{W18} A?!"
 
 @ASU_KIS_A:162 PLY 5791b6c8
-
+"Oh, you know it."
 
 @ASU_KIS_A:163 ASU 6b266996
-
+"{V0254}{W12}Of{W35} course I do,{W45} {Fe6}even{W7} I{W6} know...{W33} A, at least..."
 
 @ASU_KIS_A:164 ASU 583c7843
-
+"{V0255}{W10}A{W6} is...{W43} {Eh}a-{W65} {Ec}a kiss, right?"
 
 @ASU_KIS_A:165 PLY b6cc8474
-
+"Yeah, right."
 
 @ASU_KIS_A:166 ASU 0f14a4ad
-
+"{V0256}{W12}Coach!{W18} That's{W15} {Eo}way{W5} too high a level!"
 
 @ASU_KIS_A:167 PLY de10a91b
-
+"Hahaha, of course it is. Sorry, sorry, just kidding."
 
 @ASU_KIS_A:168 PLY 225eed83
-
+"I thought maybe you didn't even know the ABCs of love."
 
 @ASU_KIS_A:169 ASU 47056d25
-
+"{V0257}{W12}Gee{W5}...{W60} teasing{W5} me...{W80} {Ec}I'm{W6} being{W8} serious.{W3}{W3}{W2}{W2}"
 
 @ASU_KIS_A:170 PLY 681cfb44
-
+"Hmm... then, something before A..."
 
 @ASU_KIS_A:173 ASU 30568363
-
+"{V0258}{W5}...Before A,{W8} you said?"
 
 @ASU_KIS_A:174 PLY ddf7eb4c
-
+"How about shaking hands again?"
 
 @ASU_KIS_A:175 ASU 4f951c28
-
+"{V0259}{W12}I'm in!"
 
 @ASU_KIS_A:176 ASU 60b5434a
-
+"{V0260}{W10}Coach!{W10} I'm counting on you from now on!"
 
 @ASU_KIS_A:177 PLY 59b464a8
-
+"Hahaha."
 
 @ASU_KIS_A:178 ASU bba56628
-
+"{V0261}{W12}Well then,{W5} {Nm},{W10} {Ec}take care of me{W3} again!"
 
 @ASU_KIS_A:179 PLY 40ecdf50
-
+(A love coach... I'm the one who needs lessons.)
 
 @ASU_KIS_A:181 ASU 7d2e8dc4
-
+"{Nm}, {V0262}{W10}you{W3} remember{W3} the{W3} love coach{W3} thing,{W39} right?"
 
 @ASU_KIS_A:182 PLY 4b88b400
-
+"Huh? That's still going?"
 
 @ASU_KIS_A:183 ASU e8eb956e
-
+"{V0263}{W5}Of course!"
 
 @ASU_KIS_A:184 ASU c1613198
-
+"{V0264}{W12}From now on,{W48} teach me{W8} lots of things."
 
 @ASU_KIS_A:185 PLY 98d86410
-
+"Sakino..."
 
 @ASU_KIS_A:186 ASU 449c1498
-
+"{V0265}{W12}See you later,{W10} {Nm}.{W12} I had fun talking with you."
 
 @ASU_KIS_A:187 PLY 5eb864ba
-
+"Ah... Sakino..."
 
 @ASU_KIS_A:188 PLY ba59a03d
-
+(She's gone... She's so full of energy.)
 
 @ASU_KIS_A:189 ASU a1a9df92
-
+"{V0268}{W12}Hey, {Nm}."
 
 @ASU_KIS_A:190 PLY 3150f24e
-
+"What?"
 
 @ASU_KIS_A:191 ASU 72b92ca5
-
+"{V0269}{W12}That{W6} time{W30} we shared{W3} an umbrella,{W50} {Sp}that was embarrassing."
 
 @ASU_KIS_A:192 PLY 33360868
-
+"Huh? ...Was it that embarrassing?"
 
 @ASU_KIS_A:193 ASU a248fc6f
-
+"{V0270}{W10}Yeah.{W65} ...I'm{W25} still not used{W3} to romantic moods...{W8} {Ec}you{W3} know..."
 
 @ASU_KIS_A:194 ASU c25665cc
-
+"{V0271}{W12}I mean,{W48} {Nm}, your{W5} face{W3} was{W25} right there, so close.{W45} {Ec}{W5}{Fe6}{Eo}...I didn't{W3} know what{W3} to talk about,{W15} you know?"
 
 @ASU_KIS_A:195 PLY 8a9c62e2
-
+"Yeah. ...Me neither."
 
 @ASU_KIS_A:197 ASU 5fa3e235
-
+"{V0272}{W12}Love{W3} lessons{W5} are tough..."
 
 @ASU_KIS_A:198 PLY f372dde3
-
+"No, that wasn't a lesson..."
 
 @ASU_KIS_A:199 ASU d98fceed
-
+"{V0273}{W12}Then what was it?"
 
 @ASU_KIS_A:200 PLY 0d80b9d5
-
+"......"
 
 @ASU_KIS_A:201 ASU 01875fe8
-
+"{V0274}{W15}Hm?"
 
 @ASU_KIS_A:202 PLY d2cc490c
-
+"Well... you and I... are friends..."
 
 @ASU_KIS_A:203 ASU 59e045be
-
+"{V0275}{W12}What!"
 
 @ASU_KIS_A:204 PLY 634f9920
-
+"Ah..."
 
 @ASU_KIS_A:205 ASU eeadab5f
-
+"{V0276}{W12}I knew it,{W65} {Nm},{W42} you're going to tell me to stay friends too..."
 
 @ASU_KIS_A:206 PLY 595cbd24
-
+"N-no! That's not it! It's just that you're more amazing than I thought, and also..."
 
 @ASU_KIS_A:207 PLY 4588eb62
-
+"You don't have to rush into love so much, we can still be friends..."
 
 @ASU_KIS_A:208 ASU caf2519e
-
+"{V0277}{W15}Ugh{W5}...{W70} what's{W6} wrong{W8} with{W5} me?{W45} Everyone{W13} says{W3} friends,{W3} friends...{W55} {Ec}Do{W5} I{W8} have{W35} no{W3} charm?{W3}{W3}{W3}{W2}"
 
 @ASU_KIS_A:209 PLY dc67e3f4
-
+"That's not true! But... we can't suddenly become close..."
 
 @ASU_KIS_A:210 ASU cec77c76
-
+"{V0278}{W10}...Right,{W70} you're right.{W67} {Ec}Sorry,{W35} I really don't{W6} understand{W25} {Eo}that kind of thing."
 
 @ASU_KIS_A:211 ASU a0496c41
-
+"{V0279}{W12}Getting{W3} friendly,{W30} {Ec}then{W3} getting close...{W85} {Fe8m3}{Eo}I can't{W30} really tell{W5} where{W6} the line is."
 
 @ASU_KIS_A:212 ASU de35a1a2
-
+"{V0280}{W10}...So,{W23} if you don't mind,{W30} keep being my love coach."
 
 @ASU_KIS_A:213 ASU 8f4003e9
-
+"{V0281}{W12}I...{W83} want{W6} to get closer to you,{W30} {Nm}.{W55} {Ec}{W5}{Fe2m3}{Eo}Because{W60} I have fun with you!"
 
 @ASU_KIS_A:214 ASU 8242b697
-
+"{V0282}{W12}So,{W10} Coach!{W35} What do we do{W2} after the{W13} shared{W2} umbrella?{W45} {Fe8}The{W3} dribble{W3} of{W5} love?{W37} {F3}The triangle pass of love?"
 
 @ASU_KIS_A:215 PLY 200475b3
-
+(...W-what should I do?)
 
 @ASU_KIS_A:216.1 - c3821a02
-
+{Ti0}- Then, A...／- Then, a handshake...
 
 @ASU_KIS_A:217 PLY 29f5e241
-
+"Then, A..."
 
 @ASU_KIS_A:218 ASU 9f2cfbf1
-
+"{V0283}{W15}Whaat?!{W47} {Ec}{W5}{F9}{Eo}Th-{W45}that's impossible!"
 
 @ASU_KIS_A:219 PLY e07349c8
-
+"R-right..."
 
 @ASU_KIS_A:220 PLY a02c595f
-
+(Ugh... now it looks like I'm the one rushing into love...)
 
 @ASU_KIS_A:221 PLY 1896e89d
-
+"Then, a handshake..."
 
 @ASU_KIS_A:222 ASU bf637679
-
+"{V0284}{W12}Whaa{W2}at,{W42} another{W5} handshake?!{W2}"
 
 @ASU_KIS_A:223 PLY f03df99c
-
+"Even if you say that... what should I do..."
 
 @ASU_KIS_A:224 ASU b240c165
-
+"{V0285}...Fine,{W20} a{W8} handshake{W3} it{W3} is.{W60} {F3}I don't want you to hate me, {Nm}..."
 
 @ASU_KIS_A:225 ASU 6af7a0cc
-
+"{V0286}{W10}Hehe,{W48} a{W3} handshake{W3} isn't so bad, is it?"
 
 @ASU_KIS_A:226 PLY 851b6dc4
-
+"Yeah."
 
 @ASU_KIS_A:227 ASU 02b10715
-
+"{V0287}{W5}Let's keep up the good work, {Nm}."
 
 @ASU_KIS_A:228 PLY c94e8e1e
-
+"Yeah. Same here."
 
 @ASU_KIS_A:229 ASU 072ea1be
-
+"{V0288}{W12}Well,{W3} I'm{W25} off."
 
 @ASU_KIS_A:230 PLY d572cd93
-
+"Okay. See you, Sakino."
 
 @ASU_KIS_A:231 ASU 01a3067f
-
+"{V0289}{W12}See you, {Nm}."
 
 @ASU_KIS_A:232 ASU 2aab6c6b
-
+"{V0290}{W12}Hey, {Nm}."
 
 @ASU_KIS_A:233 PLY 2b3315bd
-
+"What is it, Sakino?"
 
 @ASU_KIS_A:234 ASU 723cfe38
-
+"{V0291}{W12}Can I ask{W3} you a question?{W35}"
 
 @ASU_KIS_A:235 PLY 9b856156
-
+"Sure?"
 
 @ASU_KIS_A:236 ASU d6603d8f
-
+"{V0292}{W8}Really?{W53} {F7}Then...{W3}"
 
 @ASU_KIS_A:238 ASU 8b3780ff
-
+"{V0293}{W12}{Nm},{W5} what{W52} kind of girl{W6} do{W3} you{W5} like?"
 
 @ASU_KIS_A:239 PLY 21e4acd1
-
+"Huh?!"
 
 @ASU_KIS_A:240 ASU a9c995f0
-
+"{V0294}{W12}You know,{W20} there{W3} are{W2} all kinds.{W45} {F3}Girls who{W3} are{W5} good{W5} at{W5} studying,{W28} {Fe2}or girls who{W5} are good at sports."
 
 @ASU_KIS_A:241 PLY 970e135c
-
+"Well..."
 
 @ASU_KIS_A:242.1 - b2257c13
-
+{Ti0}- A girl who's good at sports, maybe...／- A girl who's good at studying, maybe...／- A girl who's good at both, maybe...
 
 @ASU_KIS_A:243 PLY 91ece748
-
+"A girl who's good at sports, I guess."
 
 @ASU_KIS_A:244 ASU 8823d18c
-
+"{V0295}{W8}R-{W30}really?!"
 
 @ASU_KIS_A:245 ASU e1f5b781
-
+"{V0296}{W12}I'm{W16} good{W3} at{W3} sports!{W8}"
 
 @ASU_KIS_A:246 PLY a92db9ad
-
+"Y-yeah, I know."
 
 @ASU_KIS_A:247 PLY 849d85d1
-
+"A girl who's good at studying, I guess."
 
 @ASU_KIS_A:249 ASU d959f592
-
+"{V0297}{W12}I-{W65}I see..."
 
 @ASU_KIS_A:250 PLY cc5c374f
-
+"Oh... but I think a girl who's good at sports is nice too."
 
 @ASU_KIS_A:251 ASU 818d59c5
-
+"{V0298}{W12}R-{W50}really{W3}?!{W3}"
 
 @ASU_KIS_A:252 PLY ea8144ea
-
+"A girl who's good at both, maybe..."
 
 @ASU_KIS_A:253 ASU 67ec692f
-
+"{V0299}Huh?!"
 
 @ASU_KIS_A:254 ASU e7ac813e
-
+"{V0300}{W8}Y-{W38}you've{W3} got{W3} high{W5} standards..."
 
 @ASU_KIS_A:255 ASU 6c4a2560
-
+"{V0301}{W12}I guess{W3} I{W3} should{W5} study{W5} a little..."
 
 @ASU_KIS_A:256 PLY 15312fc6
-
+(Doesn't this mean she's really into me...? But with Sakino, I can never tell how serious she is...)
 
 @ASU_KIS_A:257 ASU fed27b6b
-
+"{V0302}{W13}Thanks{W3} for{W3} answering{W3} my question,{W13} {Ec}{Nm}.{W12} Well,{W10} see you!"
 
 @ASU_KIS_A:258 PLY ec4ea6bf
-
+"Oh, okay... see you."
 
 @ASU_KIS_A:259 ASU 72f06a4a
-
+"{V0303}{W12}What?"
 
 @ASU_KIS_A:260 PLY d9d11b4d
-
+"Well... I peeked in at soccer club practice the other day, and it was really lively. Did you score?"
 
 @ASU_KIS_A:261 ASU dcb8aac6
-
+"{V0304}{W12}Oh,{W32} you saw?{W45} {Fe3}Then{W17} did you see me land the Asuka Turn too?{F2}{Ec}"
 
 @ASU_KIS_A:262 PLY f596f20c
-
+"Huh? You did?"
 
 @ASU_KIS_A:263 ASU 37ff3887
-
+"{V0305}{W10}Oh...{W73} you didn't see that part,{W30} {Ec}what a shame..."
 
 @ASU_KIS_A:264 PLY abb98ab6
-
+"I see, you landed it... That's great."
 
 @ASU_KIS_A:265 ASU b5bbb1e2
-
+"{V0306}Yeah!"
 
 @ASU_KIS_A:266 ASU 457ad734
-
+"{V0307}{W12}Everyone was surprised.{W25} {Ec}They said it was amazing."
 
 @ASU_KIS_A:267 ASU b8f8d1ea
-
+"{V0308}{W18}So I told them.{W65} {Fe2m3}I said I{W5} managed it{W5} thanks to you, {Nm}."
 
 @ASU_KIS_A:268 PLY 5a0a97d6
-
+"What?! You said that?"
 
 @ASU_KIS_A:269 ASU eb494fe1
-
+"{V0309}Was that bad?"
 
 @ASU_KIS_A:270.1 - 64f55f58
-
+{Ti0}- No, it's fine...／- No, I'm happy／- Everyone's going to be jealous...
 
 @ASU_KIS_A:271 PLY 0a56d179
-
+"No, it's fine... What I did was only a tiny thing, so you didn't need to say anything..."
 
 @ASU_KIS_A:272 ASU 3641c1c8
-
+"{V0310}{W12}N{W2}o{W2}.{W42} {Eo}I want to tell everyone{W40} the Asuka Turn was born from{W6} me{W6} and {Nm},{W28} {Fe2}the{W3} two of us{W6} together,{W35} {W5}
 
 @ASU_KIS_A:273 PLY 72c54e75
-
+"No, I'm happy."
 
 @ASU_KIS_A:274 ASU 749fb534
-
+"{V0311}{W12}Really?{W20} {Ec}Good.{W3}{W3}"
 
 @ASU_KIS_A:275 ASU 215aef4c
-
+"{V0312}{W12}I{W54} want to tell everyone{W35} the Asuka Turn was born{W6} from{W8} me and {Nm},{W23} {Fe2}the{W3} two of us,{W33} {W3}together."
 
 @ASU_KIS_A:276 PLY e9bf03f5
-
+"Everyone's going to be jealous..."
 
 @ASU_KIS_A:277 ASU fc0bc11b
-
+"{V0313}{W12}Oh...{W45} {Ec}{W5}{F9}{Eo}sorry,{W5} was that{W3} a{W8} bother?"
 
 @ASU_KIS_A:278 PLY ae3874ee
-
+"N-no, not at all."
 
 @ASU_KIS_A:279 PLY 653b0670
-
+"If it's fine with you, Sakino, then..."
 
 @ASU_KIS_A:280 ASU 24b6871d
-
+"{V0314}{W12}You know...{W10}"
 
 @ASU_KIS_A:281 ASU 2ec401d4
-
+"{V0315}{W12}I want to tell everyone{W48} the Asuka Turn was born{W6} from{W5} me and {Nm},{W28} {Fe2}the{W3} two of us,{W35} {W5}together."
 
 @ASU_KIS_A:282 ASU f846098f
-
+"{V0316}{W12}That it was born because I met you, {Nm}..."
 
 @ASU_KIS_A:283 ASU e4db8c2d
-
+"{V0317}{Nm}..."
 
 @ASU_KIS_A:284 ASU 24539cbb
-
+"{V0318}{W12}I{W85} really am grateful{W5} to you, {Nm}..."
 
 @ASU_KIS_A:285 PLY 3f5903cd
-
+"It's nothing..."
 
 @ASU_KIS_A:286 ASU 5099cfe6
-
+"{V0319}{W18}No,{W63} {Eo}it's{W3} more{W3} than gratitude...{W79} something{W3} more{W3} precious...{W103} {Fe6}Maybe,{W62} it's{W3} feelings I never knew{W3} before...{W105} {Ec}that make me look at you{W60} like this."
 
 @ASU_KIS_A:287 ASU 4da70c3e
-
+"{V0320}{W12}Yeah,{W75} nobody{W8} is{W5} watching{W5}...{W28} right?"
 
 @ASU_KIS_A:288 PLY bb7e51c0
-
+"W-what's wrong?"
 
 @ASU_KIS_A:289 ASU 31b41235
-
+"{V0321}{W15}Coach...{W95} teach me..."
 
 @ASU_KIS_A:290 ASU 1db38a9f
-
+"{V0322}{W12}I{W6}...{W95} don't know what to say{W63} at a time like this..."
 
 @ASU_KIS_A:291 PLY 7cb658b8
-
+"Huh...?"
 
 @ASU_KIS_A:292 ASU 71095de4
-
+"{V0323}{W15}Kiss...{W80} me..."
 
 @ASU_KIS_A:293 PLY 6783394f
-
+"Are you sure?"
 
 @ASU_KIS_A:294 ASU 505e02de
-
+"{V0324}Yeah..."
 
 @ASU_KIS_A:302 ASU a72c986a
-
+"{V0325}{W12}Ah..."
 
 @ASU_KIS_A:303 PLY d3c264f8
-
+(Sakino...)
 
 @ASU_KIS_A:304 PLY 6b61b5d4
-
+(I really do...)
 
 @ASU_KIS_A:305 PLY bbbb75f4
-
+(She smells like the pool...)
 
 @ASU_KIS_A:306 PLY 94b27436
-
+(She smells like the schoolyard...)
 
 @ASU_KIS_A:309 ASU 2fa53f52
-
+"{V0326}{W23}...{W23}..."
 
 @ASU_KIS_A:310 ASU 472ab7c3
-
+"{V0327}{W12}Hehe,{W90} {Eo}we{W5} kissed...{W47} didn't{W5} we?{W32}"
 
 @ASU_KIS_A:311 PLY bad3355d
-
+"Yeah..."
 
 @ASU_KIS_A:312 ASU 6aa7bc59
-
+"{V0328}{W20}...{W20}..."
 
 @ASU_KIS_A:313 ASU cba3f05e
-
+"{V0329}{W13}Heh,{W148} {F3}{Eo}somehow{W3} it's{W5} more{W3} embarrassing{W60} {Fe8}afterward{W3} than{W5} before."
 
 @ASU_KIS_A:314 PLY 511b320d
-
+"Y-yeah."
 
 @ASU_KIS_A:315 ASU 1f71f504
-
+"{V0330}{W12}...{W3}..."
 
 @ASU_KIS_A:316 ASU 6a7b4bd0
-
+"{V0331}{W18}Come{W5} on...{W60} say{W3} something,{W5} {Nm}."
 
 @ASU_KIS_A:317 PLY 16731cdc
-
+"Y-you first..."
 
 @ASU_KIS_A:318 ASU da122f7f
-
+"{V0332}...Hehe,{W65} {Eo}this{W8} feels{W8} kind{W8} of{W3} weird.{W3}{W3}{W5}{W5}"
 
 @ASU_KIS_A:319 PLY 03ebb905
-
+"Hahaha, yeah."
 
 @ASU_KIS_A:320 ASU 0279615e
-
+"{V0333}{W12}Hey,{W10} {Nm},{W35} are you free{W10} this weekend?"
 
 @ASU_KIS_A:321 PLY 9d23c296
-
+"Yeah, I'm free. Why?"
 
 @ASU_KIS_A:322 ASU a6834e5a
-
+"{V0334}{W12}Then{W28} {F3}{F}want to go{W3} to{W3} the{W3} beach{W3} with me?{W48} There's a beach volleyball tournament."
 
 @ASU_KIS_A:323 PLY a96e2e23
-
+"Beach volleyball? I've never played."
 
 @ASU_KIS_A:325 ASU f5ef1248
-
+"{V0335}{W8}It's{W3} fine{W5}.{W27} {Fe3}Tournament{W3} or not,{W3} {W10}it's{W3} just{W2} an event{W2} for boy-girl pairs.{W5} {W50}{F2}{Ec}The{W5} prize{W3} is{W18} an{W3} Okinawa{W3} trip{W3} for two{W3}!"
 
 @ASU_KIS_A:326 PLY 987b6781
-
+"An Okinawa trip for two?! Th-that means, just the two of us?!"
 
 @ASU_KIS_A:327 ASU da9fe186
-
+"{V0336}{W12}If we{W3} win, yeah.{W45} {Sp}{Ec}{W5}{F7}{Eo}I don't{W5} think we will, though..."
 
 @ASU_KIS_A:328 PLY 7c10e64e
-
+"N-no, you never know until we try! Let's do our best! We're totally winning!"
 
 @ASU_KIS_A:329 ASU 35f0f43d
-
+"{V0337}{W12}Ahaha,{W45} {Eo}that's{W10} the{W10} spirit!"
 
 @ASU_KIS_A:330 ASU e0953b21
-
+"{V7905}{W10}Then,{W27} Sunday,{W33} 9{W1} a.m.{W33} in{W1} front{W2} of{W3} the{W3} station?{W15} Does that work?"
 
 @ASU_KIS_A:331 PLY a8f1e068
-
+"Okay. Got it."
 
 @ASU_KIS_A:333 ASU f140ccf1
-
+"{V0339}{W12}Hehe,{W68} I'm{W5} looking{W5} forward{W3} to it.{W70} {F2}{Ec}See you."
 
 @ASU_KIS_A:334 PLY c75c06d3
-
+"Yeah, see you."
 
 @ASU_KIS_A:335 ASU db59ba84
-
+"{V0344}{W12}Hey, {Nm}."
 
 @ASU_KIS_A:336 ASU 0e8edd74
-
+"{V0345}{W12}I can't wait{W33} for the beach!"
 
 @ASU_KIS_A:337 ASU 492f6439
-
+"{V0346}{W12}Let's do our best{W3} and win the{W3} beach volleyball."
 
 @ASU_KIS_A:338 PLY e3f8be68
-
+"Yeah, let's."
 
 @ASU_KIS_A:339 ASU 77c5ae60
-
+"{V0347}{W15}Still...{W35} {Ec}{W5}{F7}{Eo}if{W2} it{W2} were{W2} beach{W2} soccer,{W2} I'm{W2} sure{W5} we{W5} could{W3} definitely{W3} win."
 
 @ASU_KIS_A:340 ASU 84456f8b
-
+"{V0348}{W10}But{W15} I'm{W3} pretty{W3} good{W3} at{W8} volleyball in{W3} gym{W3} class too,{W10} {Fe2}so I think we can{W5} go pretty{W3} far.{W5}"
 
 @ASU_KIS_A:341 PLY 626b30ba
-
+"If we win, it's Okinawa... I want to go."
 
 @ASU_KIS_A:342 ASU 1cdd67ae
-
+"{V0349}{W12}Hehe,{W30} {Eo}let's{W3} do{W3} our{W3} best."
 
 @ASU_KIS_A:343 ASU ca673dc4
-
+"{V0350}{W12}See you, {Nm}."
 
 @ASU_KIS_A:344 PLY e03a6130
-
+"Yeah, see you."
 
 @ASU_KIS_A:345 ASU 2542fdc5
-
+"{V5064}{W12}What?"
 
 @ASU_KIS_A:346 PLY 3f0ee07d
-
+"Sorry I couldn't make it last weekend... If it's okay, want to go to the beach this time?"
 
 @ASU_KIS_A:347 ASU ff507622
-
+"{V5065}Ah..."
 
 @ASU_KIS_A:348 PLY 7c690bc5
-
+"...But the beach volleyball tournament is already over, so there's nothing we can do, right?"
 
 @ASU_KIS_A:349 ASU 43475d2f
-
+"{V5066}{W12}Actually,{W3} that's...{W3}{W3}"
 
 @ASU_KIS_A:350 ASU 38ccae73
-
+"{V5067}{W10}I heard the wind was too strong{W10} for{W3} beach{W3} volleyball,{W50} {F3}so{W3} the{W3} tournament{W3} got{W3} postponed{W3} by{W5} a week."
 
 @ASU_KIS_A:351 PLY e957e661
-
+"Oh, really?!"
 
 @ASU_KIS_A:352 ASU 05db48b2
-
+"{V5068}{W12}Yeah.{W30} Lucky, right?"
 
 @ASU_KIS_A:353 ASU c77dd088
-
+"...{Nm}, {V5069}{W8}can{W6} you{W3} definitely{W3} make{W3} it{W5} this{W5} weekend?"
 
 @ASU_KIS_A:354 PLY aa84666c
-
+"Of course! I'll definitely be there!"
 
 @ASU_KIS_A:355 ASU 385a15b9
-
+"{V5070}{W12}Then{W30} let's do our best and win."
 
 @ASU_KIS_A:356 PLY 6010a92c
-
+"Great... Then, Sunday at 9, meet in front of the station?"
 
 @ASU_KIS_A:357 ASU fb190ff9
-
+"{V5071}{W13}Okay."
 
 @ASU_KIS_A:358 ASU 6ca834a8
-
+"{V5072}{W12}Hehe,{W13} I'm{W3} looking{W3} forward{W3} to it.{W30} {Ec}See you."
 
 @ASU_KIS_A:359 ASU 5c63c9aa
-
+"{V5073}{W12}What?"
 
 @ASU_KIS_A:360 PLY bf929ece
-
+"I couldn't make it last weekend, but if you're okay with it, want to go to the beach with me this weekend?"
 
 @ASU_KIS_A:361 ASU ce620a0c
-
+"{V5074}{W13}Ah..."
 
 @ASU_KIS_A:362 ASU 0a3c1d2b
-
+"{V5075}{W12}Sorry,{W25} I couldn't go{W6} last time{W3} because{W6} of{W3} my schedule...{W8}"
 
 @ASU_KIS_A:363 PLY 50f2557e
-
+"Don't worry about it."
 
 @ASU_KIS_A:364 PLY 7465af32
-
+"Oh... but the beach volleyball tournament is over, so is there any point in going to the beach now?"
 
 @ASU_KIS_A:365 ASU e4b9de97
-
+"{V5076}{W12}Actually,{W6} that's...{W3}{W3}"
 
 @ASU_KIS_A:366 ASU 92857be8
-
+"{V5077}{W10}I heard the wind was too{W5} strong{W15} for{W3} beach{W3} volleyball,{W37} {F3}so{W3} the{W3} tournament{W3} got{W3} postponed{W3} by{W3} a{W5} week."
 
 @ASU_KIS_A:367 ASU 16dd91e5
-
+"{V5078}{W12}Yeah.{W30} {Eo}Lucky, right?"
 
 @ASU_KIS_A:368 PLY b11e2022
-
+"Then let's go this weekend, shall we?"
 
 @ASU_KIS_A:369 ASU f7775385
-
+"{V5079}{W12}Yeah!{W3} I want to!"
 
 @ASU_KIS_A:370 ASU 37fe7236
-
+"{V5080}{W12}Yeah,{W3} sure."
 
 @ASU_KIS_A:371 ASU d6457c78
-
+"{V5081}{Ec}{W10}Hehe,{W25} {Eo}I'm looking{W3} forward to it."
 
 @ASU_KIS_A:372 ASU 7aeb8a16
-
+"{V5082}{W12}See you."
 
 @ASU_KIS_A:373 ASU 9b356390
-
+"{V0351}{W12}What?"
 
 @ASU_KIS_A:374 PLY f052aaf1
-
+"Well... how do I put this..."
 
 @ASU_KIS_A:375 ASU 6a498f89
-
+"{V0352}{W15}Hm?"
 
 @ASU_KIS_A:376 PLY e058c151
-
+(Sakino... Should I tell her how I feel now...?)
 
 @ASU_KIS_A:377 PLY 56418a99
-
+(Surely Sakino feels the same about me...)
 
 @ASU_KIS_A:378 PLY bda9b3fd
-
+(...But she's someone special, aiming for the pro league in Italy...)
 
 @ASU_KIS_A:379 PLY 35fef354
-
+(And I'm just an ordinary guy you could find anywhere... We're not a match, are we?)
 
 @ASU_KIS_A:380 PLY 2511d282
-
+(But just watching over her... I can't...)
 
 @ASU_KIS_A:381 ASU 11038f62
-
+"{V0353}{W12}Hey, {Nm}."
 
 @ASU_KIS_A:382 PLY c7f32ff4
-
+"Ah... W-what?"
 
 @ASU_KIS_A:383 ASU 2fa7d2c6
-
+"{V0354}{W12}The school{W3} festival{W3} is{W3} coming{W3} up soon.{W40} What are you doing, {Nm}?"
 
 @ASU_KIS_A:384 PLY 10ae27b8
-
+"I haven't decided yet. Why?"
 
 @ASU_KIS_A:385 ASU a48ec065
-
+"{V0355}{W12}I see.{W75} Then{W15} want to cheer{W3} on{W3} the soccer club{W3} together?"
 
 @ASU_KIS_A:386 PLY d00b36d9
-
+"Cheer?"
 
 @ASU_KIS_A:387 ASU 38f700d9
-
+"{V0356}{W12}Yeah.{W60} Kibito{W3} Commercial,{W3} a top-eight{W3} national{W3} power,{W20} {W3}{W5}is{W5} coming{W5} for an invitational{W6} match."
 
 @ASU_KIS_A:388 PLY d4cd3c17
-
+"Oh, right, the soccer club plays a match at the school festival every year, doesn't it?"
 
 @ASU_KIS_A:389 ASU 46e0510b
-
+"{V0357}{W12}Yeah."
 
 @ASU_KIS_A:390 ASU a509d3d2
-
+"{V0358}{W10}This{W3} year's{W3} opponent{W3} is{W3} especially{W3} strong,{W25} so{W3} everyone's{W5} fired up."
 
 @ASU_KIS_A:391 PLY 551f3675
-
+"I see. ...But cheer together? Can't you play, Sakino?"
 
 @ASU_KIS_A:392 ASU 1a721c49
-
+"{V0359}{W12}Oh,{W30} {Ec}me?{W6} No{W5} way!{W35} {Eo}Not official,{W15} but{W3} it's{W3} a{W3} match{W3} with{W3} a{W5} powerhouse.{W28} {F8}I{W5} can't play..."
 
 @ASU_KIS_A:393 PLY 308d3155
-
+"I see... That's too bad."
 
 @ASU_KIS_A:394 ASU b06eb1e4
-
+"{V0360}{W15}B{W8}ut{W8}...{W63} if I got{W3} to play,{W5} {Ec}{W5}{Fe3}{Eo}I'd be so happy.{W77} {W1}Maybe{W1} I{W2} won't{W2} measure up,{W30} {Fe2}but I want to test{W3} my{W5} strength{W6}..."
 
 @ASU_KIS_A:395 PLY 7f268c9c
-
+"I get it. I'll cheer for you."
 
 @ASU_KIS_A:396 ASU 02b9d909
-
+"{V0361}{W15}Thank you..."
 
 @ASU_KIS_A:398 ASU ac9180cb
-
+"{V0362}{W12}I{W10}...{W90} if you're{W3} watching{W3} over me, {Nm},{W45} I feel like I can do anything..."
 
 @ASU_KIS_A:399 PLY 5e807dfd
-
+(Watching over her... huh...)
 
 @ASU_KIS_A:400 ASU 06e0f626
-
+"{V0363}{W12}Hey,{W120} hold me tight.{W110} So I'll{W6} find{W10} my{W3} courage.{W70} {F9}{Eh}So I... {W50}won't lose..."
 
 @ASU_KIS_A:405 PLY 4fc31779
-
+"You can do it, Sakino. Do your best."
 
 @ASU_KIS_A:406 ASU df09063d
-
+"{V0364}{W12}Yeah..."
 
 @ASU_KIS_A:410 ASU 4d89b03f
-
+"{V0365}{W13}Thank you, {Nm}."
 
 @ASU_KIS_A:411 ASU ba2be53f
-
+"{V0366}...{W10}Well,{W20} I'm{W11} going now."
 
 @ASU_KIS_A:412 PLY 1a17a932
-
+"Okay. I'll always be watching over you."
 
 @ASU_KIS_A:413 ASU 0d97c33d
-
+"{V0367}Thanks!"
 
 @ASU_KIS_A:414 PLY 829182a9
-
+(Is this... really okay...?)
 
 @ASU_KIS_A:415 ASU b730af0c
-
+"{V0368}{W12}What?"
 
 @ASU_KIS_A:416 PLY abfec4d3
-
+"I hope you get to play in the match. I'm cheering for you."
 
 @ASU_KIS_A:417 ASU a16aa287
-
+"{V0369}{W12}Thanks.{W35} {Ec}{W5}{F9}{Eo}...But{W20} I probably won't get to play."
 
 @ASU_KIS_A:418 ASU f092aa75
-
+"{V0370}{W12}As long as{W3} everyone does their best{W6} for my share too,{W30}{W10} {Ec}that's enough for me."
 
 @ASU_KIS_A:419 ASU e157c1b7
-
+"{V0371}...{W10}But you know,{W60} {Ec}{W5}{F7}{Eo}when I think about what if I{W3} did play,{W30} {Ec}my heart pounds."
 
 @ASU_KIS_A:420 ASU 267786b8
-
+"{V0372}{W12}I want to{W3} try{W5} the{W3} Asuka{W3} Turn{W5} we perfected together,{W25} {Nm},{W30} {Fe8}on Kibito Commercial."
 
 @ASU_KIS_A:421 PLY 0275bd8a
-
+"...It'll work, for sure. I'm cheering for you."
 
 @ASU_KIS_A:422 ASU 09bb140c
-
+"{V0373}{W12}Yeah,{W30} thank you."
 
 @ASU_KIS_A:423 ASU 6e38e0d9
-
+"{V0374}{W12}Well, I'm{W6} off,{W5} okay?"
 
 @ASU_KIS_A:424 ASU 7244f621
-
+"{V0375}{W12}During{W3} the match,{W56} stay by my side!"
 
 @ASU_KIS_A:425 PLY 98adcd37
-
+"Hey, welcome to the No Way House. Yeah, it's KIS A."

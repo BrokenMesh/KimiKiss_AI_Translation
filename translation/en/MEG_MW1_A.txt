@@ -2,292 +2,292 @@
 # Format: docs/translation-format.md
 
 @MEG_MW1_A:38 PLY 2333e391
-
+"About school life, I think..."
 
 @MEG_MW1_A:40 PLY 68f7773e
-
+"About the other day..."
 
 @MEG_MW1_A:41 PLY 4d18425f
-
+"Have you heard this? I saw it on TV..."
 
 @MEG_MW1_A:42 PLY 5f622be4
-
+"Someone devoting themselves to club activities..."
 
 @MEG_MW1_A:43 PLY 23f3cd08
-
+"Our uniform is supposedly famous around here for being cute..."
 
 @MEG_MW1_A:44 PLY faacb3b6
-
+"It's because you're here, Kuryuu, that our Discipline Committee..."
 
 @MEG_MW1_A:45 PLY ce9f4121
-
+"About the school rules, I think..."
 
 @MEG_MW1_A:46 PLY 51d95ee2
-
+"A teacher's job is..."
 
 @MEG_MW1_A:47 PLY aa08ea3b
-
+"Transferring schools is..."
 
 @MEG_MW1_A:48 PLY d67a2285
-
+"Daily studying is..."
 
 @MEG_MW1_A:49 PLY 1653e6f0
-
+"Grades matter, but there's something even more important..."
 
 @MEG_MW1_A:50 PLY ef2534e2
-
+"When I think about entrance exams..."
 
 @MEG_MW1_A:51 PLY 9f4a2404
-
+"Italian is surprisingly close to home..."
 
 @MEG_MW1_A:52 PLY d00aabb9
-
+"The other day, in gym class..."
 
 @MEG_MW1_A:53 PLY ea76b86f
-
+"Swimming class is..."
 
 @MEG_MW1_A:54 PLY 60314f97
-
+"You're so athletic, Kuryuu, you could surely do any sport..."
 
 @MEG_MW1_A:55 PLY 4ed6da95
-
+"About dance, I think..."
 
 @MEG_MW1_A:56 PLY a62d45fd
-
+"I heard something the other day..."
 
 @MEG_MW1_A:57 PLY d3d2c576
-
+"There was this late-night show the other day..."
 
 @MEG_MW1_A:58 PLY 810c7e8c
-
+"I happened to read something the other day..."
 
 @MEG_MW1_A:59 PLY af5b8fa5
-
+"The sale season is coming up soon, but..."
 
 @MEG_MW1_A:60 PLY 03da7007
-
+"Speaking of fashion..."
 
 @MEG_MW1_A:61 PLY a8eda72b
-
+"Accessories are surely..."
 
 @MEG_MW1_A:62 PLY 5d899985
-
+"I don't really understand makeup, but..."
 
 @MEG_MW1_A:63 PLY 1f94f226
-
+"You in a swimsuit, Kuryuu..."
 
 @MEG_MW1_A:64 PLY 8ef19850
-
+"About women's swimsuits, I think..."
 
 @MEG_MW1_A:65 PLY dbe3a72d
-
+"I ate something the other day..."
 
 @MEG_MW1_A:66 PLY 3a2b9079
-
+"Speaking of the latest popular sweets..."
 
 @MEG_MW1_A:67 PLY 3a414ec2
-
+"Speaking of drinks..."
 
 @MEG_MW1_A:68 PLY b9f43601
-
+"A girl who's good at home cooking..."
 
 @MEG_MW1_A:69 PLY bcf3a17d
-
+"Udon has been trendy lately, but..."
 
 @MEG_MW1_A:70 PLY 9806f55e
-
+"Potato chips come in so many flavors, but..."
 
 @MEG_MW1_A:71 PLY 50884ed0
-
+"A regular lifestyle is..."
 
 @MEG_MW1_A:72 PLY 8386eb14
-
+"Girls worry about their weight, but..."
 
 @MEG_MW1_A:73 PLY 1ca118db
-
+"You in gym clothes, Kuryuu..."
 
 @MEG_MW1_A:74 PLY 976ed9bc
-
+"You in a school swimsuit, Kuryuu..."
 
 @MEG_MW1_A:75 PLY 24b04fce
-
+"Your figure, Kuryuu..."
 
 @MEG_MW1_A:76 PLY 7e117b12
-
+"About love, I think..."
 
 @MEG_MW1_A:77 PLY 16905b13
-
+"Kuryuu, the truth is, I..."
 
 @MEG_MW1_A:78 PLY 9ee79b7c
-
+"Guys get, like, their hearts pounding over a girl's little gestures... I mean..."
 
 @MEG_MW1_A:79 PLY 0ab2b591
-
+"I can't know what's ahead, but surely..."
 
 @MEG_MW1_A:80 PLY cba8931e
-
+"This is from when I was little..."
 
 @MEG_MW1_A:81 PLY c15e7152
-
+"Your good points, Kuryuu, are..."
 
 @MEG_MW1_A:82 MEG aad30d03
-
+"{V5019}Eh..."
 
 @MEG_MW1_A:87 MEG b5e8ead5
-
+"{V5020}O-{W40}of course not.{W30} Honestly."
 
 @MEG_MW1_A:88 PLY a861de20
-
+"I-is that so..."
 
 @MEG_MW1_A:91 MEG 5bde544d
-
+"{V5021}Eh..."
 
 @MEG_MW1_A:92 MEG 9749d31e
-
+"{V5022}Th-{W40}thank you...{W65} {Ec}You really{W30} pay{W10} attention..."
 
 @MEG_MW1_A:93 PLY 1e7f8ab0
-
+"Kuryuu..."
 
 @MEG_MW1_A:97 SYS 9b3cbf89
-
+{Ti0}{Ti2}Stare......
 
 @MEG_MW1_A:98 MEG 796f25ba
-
+"{V5023}......"
 
 @MEG_MW1_A:99 MEG 0465cf12
-
+"{V5024}I see,{W40} looking people in the eye when you talk{W5} is a good thing.{Ec}"
 
 @MEG_MW1_A:100 PLY 603c29f3
-
+(No, I didn't mean to stare like that...)
 
 @MEG_MW1_A:102 MEG 4988048d
-
+"{V5026}Eh..."
 
 @MEG_MW1_A:103 MEG ab6e5c4f
-
+"{V5027}Hey...{W40} don't{W5} stare at me so much..."
 
 @MEG_MW1_A:104 PLY 28e8605b
-
+"Kuryuu."
 
 @MEG_MW1_A:105 MEG 0472d9d3
-
+"{V5028}What?"
 
 @MEG_MW1_A:107 SYS a77d0776
-
+{Ti0}Smile!
 
 @MEG_MW1_A:108 MEG e9d86829
-
+"{V5029}{E}......"
 
 @MEG_MW1_A:109 MEG 35f85b2b
-
+"{V5030}What a feeble{W15} smile{W5}.{W55} {Ec}A man shouldn't grin so{W10} carelessly{W5}.{Eo}"
 
 @MEG_MW1_A:110 PLY 6c1b2754
-
+"S-sorry."
 
 @MEG_MW1_A:111 MEG 60acac38
-
+"{V5031}What?"
 
 @MEG_MW1_A:116 MEG f6c92941
-
+"{V5032}{E}......"
 
 @MEG_MW1_A:118 MEG fc36b28a
-
+"{V5033}W-{W30}what, smiling out of nowhere...{W40} You're throwing me{W5} off."
 
 @MEG_MW1_A:119 PLY 7bcaa667
-
+(Okay, I'll make a cool face and nail it!)
 
 @MEG_MW1_A:120 MEG 1d4325aa
-
+"{V5034}What?"
 
 @MEG_MW1_A:121 SYS c2ab9f12
-
+{Ti0}Sharp!
 
 @MEG_MW1_A:122 MEG 2a927fc4
-
+"{V5035}Ah..."
 
 @MEG_MW1_A:123 MEG 9f877931
-
+"{V5036}Oh,{W40} so you can make a serious face too."
 
 @MEG_MW1_A:124 MEG f45bd040
-
+"{V5037}You should always look like that."
 
 @MEG_MW1_A:125 PLY 6a0ce4d0
-
+(Okay, I'll take the plunge and her hand...)
 
 @MEG_MW1_A:129 SYS 1ffe4b9d
-
+{T0.0}Squeeze
 
 @MEG_MW1_A:135 MEG f1134be6
-
+"{V5038}Wah!"
 
 @MEG_MW1_A:136 MEG bfb18172
-
+"{V5039}H-{W30}hey!{W5} What do you think you're doing, all of a sudden!"
 
 @MEG_MW1_A:137 MEG f10731e3
-
+"{V5040}Honestly...{W40} I can't let{W5} my guard down..."
 
 @MEG_MW1_A:140 MEG 47e36c10
-
+"{V5041}Eh..."
 
 @MEG_MW1_A:143 MEG 02bbd046
-
+"{V5042}{Sp}Really...{W75} I{W5} suppose it can't be helped."
 
 @MEG_MW1_A:146 PLY 4cb02bc7
-
+(Ah... she squeezed back.)
 
 @MEG_MW1_A:147 MEG 0d80b9d5
-
+"......"
 
 @MEG_MW1_A:148 MEG 414258fe
-
+"{V0725}Hmm,{W40} that's{W5} a pretty good{W5} story."
 
 @MEG_MW1_A:149 MEG 1efc82cd
-
+"{V0726}Hmm,{W40} I didn't know that.{W30} {Ec}You say some good things, {Nm}.{Eo}"
 
 @MEG_MW1_A:150 MEG e31232f7
-
+"{V0729}I see...{W50} you may be right, {Nm}."
 
 @MEG_MW1_A:151 MEG 589ad4a2
-
+"{V0730}Yes,{W30} I like it too."
 
 @MEG_MW1_A:152 MEG f5b433d1
-
+"{V0731}Right.{W35} If that's the case,{W5} I like it too."
 
 @MEG_MW1_A:153 MEG e8fb7046
-
+"{V0732}You say good things,{W25} I think better of you now.{Ec}"
 
 @MEG_MW1_A:154 MEG fcf316e3
-
+"{V0735}Right,{W25} having fun is what matters most!"
 
 @MEG_MW1_A:155 MEG 449441f5
-
+"{V0736}Hehe,{W40} you{W20} say some funny things,{W5} {Nm}."
 
 @MEG_MW1_A:156 MEG 88c9e069
-
+"{V0737}Oh,{W30} I know that one.{W5} It's funny,{W5} isn't it?"
 
 @MEG_MW1_A:157 MEG 4afb377a
-
+"{V0738}Oh?{W50} Is it{W5} really{W5} that funny?{W40} How surprising."
 
 @MEG_MW1_A:158 MEG a34d88b1
-
+"{V0739}Hehe,{W30} that really happened?{W60} {Eo}How funny."
 
 @MEG_MW1_A:159 MEG 082d4624
-
+"{V5014}W-{W40}well!{W30} I won't fall for flattery like that!"
 
 @MEG_MW1_A:160 MEG c441b24f
-
+"{V5015}H-{W40}hey...{W30} don't{W5} say strange things..."
 
 @MEG_MW1_A:161 MEG 134d1949
-
+"{V5017}H-how indecent!{W40} {Ec}Saying things like that is why I call you feeble!{W10}{Eo}"
 
 @MEG_MW1_A:162 MEG e3f2c2cd
-
+"{V5018}Geez!{W20} Pervert!{W15} Lecher!"
 
 @MEG_MW1_A:164 MEG 729d8524
-
+"{V0746}What a{W5} boring{W5} story..."
 
 @MEG_MW1_A:165 MEG 816fb2df
-
+"{V0747}{W5}Who cares about that!"
 
 @MEG_MW1_A:166 MEG 268293bf
-
+"{V0748}Hmm...{W55} Is that so?{W55} I've never thought much about it."

@@ -2,79 +2,79 @@
 # Format: docs/translation-format.md
 
 @Succession:18 - bb8baa06
-
+Transfer save data from "KimiKiss"?\nIs that okay?
 
 @Succession:26.1 - 8874353d
-
+No PlayStation 2 memory card (8MB)\nis properly inserted in\nMEMORY CARD slot 1.
 
 @Succession:26.2 - bd8f7857
-
+The PlayStation 2 memory card (8MB)\nin MEMORY CARD slot 1\nis not formatted.
 
 @Succession:26.3 - 88111472
-
+The PlayStation 2 memory card (8MB)\nin MEMORY CARD slot 1\ndoes not have enough free space.
 
 @Succession:26.4 - 8df6b1ac
-
+The PlayStation 2 memory card (8MB)\nin MEMORY CARD slot 1\ndoes not have enough free space.\nCreating save data requires at least 240 KB of free space.
 
 @Succession:26.5 - 6fb42231
-
+The PlayStation 2 memory card (8MB)\nin MEMORY CARD slot 1\nhas no "KimiKiss PLUS" save data.
 
 @Succession:26.6 - 848671ce
-
+The PlayStation 2 memory card (8MB)\nin MEMORY CARD slot 1\nhas no "KimiKiss" save data.
 
 @Succession:26.7 - 9c37465c
-
+The PlayStation 2 memory card (8MB)\nin MEMORY CARD slot 1\nis not formatted.\nFormat it now?
 
 @Succession:26.8 - a9bf9417
-
+Formatting the PlayStation 2 memory card (8MB)\nin MEMORY CARD slot 1.\nDo not turn off or reset the PlayStation 2,\nor insert or remove memory cards (PS2)\nor controllers.
 
 @Succession:26.9 - 9e0d1d59
-
+Format failed.
 
 @Succession:26.10 - 871af71c
-
+Creating save data on the PlayStation 2 memory card (8MB)\nin MEMORY CARD slot 1.\nDo not turn off or reset the PlayStation 2,\nor insert or remove memory cards (PS2)\nor controllers.
 
 @Succession:26.11 - 5f17fb05
-
+Saved data already exists.\nOverwrite it?
 
 @Succession:26.12 - 329b32ed
-
+Save complete.
 
 @Succession:26.13 - dcf537f5
-
+Save failed.
 
 @Succession:26.14 - 221b3703
-
+Data will be loaded from the PlayStation 2 memory card (8MB)\nin MEMORY CARD slot 1.\nUnsaved data will be lost. Is that okay?
 
 @Succession:26.15 - 99a2c169
-
+Loading.\nDo not turn off or reset the PlayStation 2,\nor insert or remove memory cards (PS2)\nor controllers.
 
 @Succession:26.16 - 365f9690
-
+Load complete.
 
 @Succession:26.17 - de8efd75
-
+Load failed.
 
 @Succession:26.18 - ef688be2
-
+Checking save data on the PlayStation 2 memory card (8MB)\nin MEMORY CARD slot 1.\nDo not turn off or reset the PlayStation 2,\nor insert or remove memory cards (PS2)\nor controllers.
 
 @Succession:26.19 - f00cd9c5
-
+To save "KimiKiss PLUS" data, you need a\nPlayStation 2 memory card (8MB)\nwith at least 240 KB of free space.\nStart the game anyway?
 
 @Succession:26.20 - 80ad7f36
-
+Settings have been changed.\nSave them?
 
 @Succession:26.21 - 1e842499
-
+Save clear data?
 
 @Succession:26.22 - 01cce3f7
-
+System data loaded.
 
 @Succession:43 - b17957df
-
+Save data transfer complete.
 
 @Succession:44 - 4dd618a5
-
+Save data transfer failed.
 
 @Succession:46 - e597ea03
-
+"KimiKiss PLUS" save data already exists.\nTransferring will overwrite the current save data.\nIs that okay?
