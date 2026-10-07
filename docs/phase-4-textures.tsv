@@ -1,0 +1,110 @@
+filename	dimensions	class	visible_text	location/use
+GRAPH0_0001.png	80x32	TEXT	食べ物	Food menu
+GRAPH0_0002.png	112x40	TEXT	水合費	Fee label
+GRAPH0_0009.png	80x32	TEXT	校庭	School yard
+GRAPH0_0012.png	112x32	TEXT	履歴	History menu
+GRAPH0_0014.png	96x32	TEXT	読書	Reading
+GRAPH0_0015.png	16x16	TEXT	菜々	Character name
+GRAPH0_0016.png	112x32	TEXT	テスト	Test
+GRAPH0_0023.png	144x56	TEXT	おまかせ	Auto
+GRAPH0_0024.png	64x128	TEXT	アルバム	Album
+GRAPH0_0028.png	112x64	TEXT	昼休み	Lunch break
+GRAPH0_0031.png	112x40	TEXT	親備室	Health room
+GRAPH0_0034.png	96x32	TEXT	食事	Meal
+GRAPH0_0035.png	80x32	TEXT	食べ物	Food
+GRAPH0_0036.png	96x32	TEXT	成績	Grades
+GRAPH0_0037.png	64x72	TEXT	理科	Science
+GRAPH0_0038.png	112x32	TEXT	アルバム	Album
+GRAPH0_0039.png	64x64	TEXT	1年	Grade 1
+GRAPH0_0041.png	328x32	TEXT	ストーリーイベントを見よう!	Watch story event
+GRAPH0_0045.png	200x80	TEXT	次へ進む/決定	Continue/Decide
+GRAPH0_0046.png	112x32	TEXT	セーブ	Save
+GRAPH0_0048.png	40x32	TEXT	あり	Yes
+GRAPH0_0052.png	80x32	TEXT	運動	Sports
+GRAPH0_0055.png	16x24	TEXT	テラス	Terrace
+GRAPH0_0062.png	184x208	TEXT	おまかせ	Auto
+GRAPH0_0321.png	48x24	TEXT	はじい	Begin
+GRAPH0_0330.png	96x32	TEXT	菜々	Character
+GRAPH0_0331.png	112x40	TEXT	親備室	Health room
+GRAPH0_0332.png	24x32	TEXT	なし	None
+GRAPH0_0333.png	80x32	TEXT	保健	Health
+GRAPH0_0335.png	96x32	TEXT	食べ物	Food
+GRAPH0_0336.png	64x64	TEXT	成績	Grades
+GRAPH0_0337.png	80x32	TEXT	理科	Science
+GRAPH0_0340.png	112x32	TEXT	しおり	Bookmark
+GRAPH0_0341.png	328x32	TEXT	初期設定に戻す	Reset to default
+GRAPH0_0342.png	144x32	TEXT	自動文字送り	Auto advance
+GRAPH0_0343.png	40x48	TEXT	X	Cancel/Close
+GRAPH0_0345.png	64x24	TEXT	終メニュー	End menu
+GRAPH0_0346.png	560x112	UNSURE		Gray bar
+GRAPH0_0347.png	96x56	TEXT	レベルアップ!!	Level up!!
+GRAPH0_0350.png	112x32	TEXT	セーブ	Save
+GRAPH0_0351.png	40x32	TEXT	電備室	Prep room
+GRAPH0_0352.png	112x40	TEXT	3-C	Class 3-C
+GRAPH0_0353.png	184x208	TEXT	花壇	Flower bed
+GRAPH0_0354.png	112x40	TEXT	花壇	Flower bed
+GRAPH0_0360.png	80x32	TEXT	食堂	Cafeteria
+GRAPH0_0361.png	96x32	TEXT	体	Body
+GRAPH0_0362.png	96x32	TEXT	噛德	Kanda
+GRAPH0_0363.png	16x16	UNSURE		Color palette
+GRAPH0_0364.png	128x40	TEXT	KimiKiss	Title/Logo
+GRAPH0_0365.png	560x112	TEXT	食べ物	Food
+GRAPH0_0366.png	48x24	TEXT	決定	Confirm
+GRAPH0_0367.png	96x32	TEXT	見つめる	Gaze at
+GRAPH0_0368.png	64x64	TEXT	なし	None
+GRAPH0_0375.png	80x32	TEXT	楠葉	Kusuba
+GRAPH0_0376.png	112x64	TEXT	休み2	Break 2
+GRAPH0_0378.png	16x24	TEXT	2年	Grade 2
+GRAPH0_0379.png	24x32	TEXT	おしゃべり	Chat
+GRAPH0_0380.png	96x32	TEXT	世間話	Gossip
+GRAPH0_0381.png	8x16	UNSURE		Solid color
+GRAPH0_0386.png	96x32	TEXT	星乃裕美	Character name
+GRAPH0_0387.png	112x40	TEXT	昼休み	Lunch break
+GRAPH0_0388.png	80x32	TEXT	おしゃべり	Chat
+GRAPH0_0390.png	96x32	TEXT	自宅学習	Home study
+GRAPH0_0391.png	32x32	TEXT	理科	Science
+GRAPH0_0392.png	64x72	TEXT	つづきから	Continue from
+GRAPH0_0393.png	112x32	TEXT	つづきから	Continue from
+GRAPH0_0394.png	24x32	TEXT	2	2 label
+GRAPH0_0395.png	328x32	TEXT	好感度アップじゃわりました!♡	Affection up!
+GRAPH0_0397.png	16x16	TEXT	熱定	Heated/Confirm
+GRAPH0_0421.png	96x32	TEXT	援強	Support
+GRAPH0_0422.png	48x24	TEXT	再生	Replay
+GRAPH0_0424.png	112x32	TEXT	全賃	All rent/lease
+GRAPH0_0426.png	64x24	TEXT	いいえ	No
+GRAPH0_0429.png	112x32	TEXT	菜々	Character
+GRAPH0_0430.png	96x72	TEXT	食堂	Cafeteria
+GRAPH0_0432.png	112x40	TEXT	体育館	Gymnasium
+GRAPH0_0433.png	80x32	TEXT	おしゃべり	Chat
+GRAPH0_0434.png	16x24	UNSURE		Shoes
+GRAPH0_0436.png	216x96	TEXT	体育館	Gymnasium
+GRAPH0_0437.png	96x32	TEXT	フォション	Fashion
+GRAPH0_0438.png	112x32	TEXT	英数記号	English/Numbers
+GRAPH0_0439.png	96x72	TEXT	家庭科室	Home ec room
+GRAPH0_0441.png	80x32	TEXT	絶強	Absolute
+GRAPH0_0442.png	72x80	UNSURE		Empty bar
+GRAPH0_0447.png	96x32	TEXT	手を握る	Hold hands
+GRAPH0_0449.png	80x64	TEXT	音楽	Music
+GRAPH0_0451.png	48x24	TEXT	編集	Edit
+GRAPH0_0453.png	392x320	TEXT	〜 an epilogue 〜	Epilogue text
+GRAPH0_0476.png	96x32	TEXT	他の話	Other story
+GRAPH0_0477.png	72x80	TEXT	3年	Grade 3
+GRAPH0_0481.png	112x64	TEXT	花壇	Flower bed
+GRAPH0_0483.png	48x24	TEXT	良る	Good/OK
+GRAPH0_0486.png	328x32	TEXT	好きなら告白してみよう!♡	Confess!
+GRAPH0_0487.png	112x32	TEXT	吹野明日美	Character name
+GRAPH0_0489.png	112x40	TEXT	1-A	Class 1-A
+GRAPH0_0491.png	80x32	TEXT	絶強	Absolute
+GRAPH0_0492.png	64x128	TEXT	読書	Reading
+GRAPH0_0493.png	112x40	TEXT	2-C	Class 2-C
+GRAPH0_0496.png	112x40	TEXT	食堂	Cafeteria
+GRAPH0_0500.png	112x32	TEXT	漢字	Kanji
+GRAPH0_0502.png	24x32	TEXT	部話	Chat
+GRAPH0_0526.png	96x32	TEXT	健康	Health
+GRAPH0_0527.png	80x32	TEXT	理科	Science
+GRAPH0_0529.png	96x32	TEXT	手料理	Cooking
+GRAPH0_0532.png	80x32	TEXT	行動	Action
+GRAPH0_0537.png	80x24	TEXT	パターン	Pattern
+GRAPH0_0539.png	112x32	TEXT	星乃裕美	Character name
+GRAPH0_0542.png	48x24	TEXT	観察	Observation
+GRAPH0_0551.png	80x32	TEXT	文字速度	Text speed
