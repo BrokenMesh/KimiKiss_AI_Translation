@@ -2,631 +2,631 @@
 # Format: docs/translation-format.md
 
 @NAN_SEV_A:30 PLY 0a8eb042
-
+(Hm? Isn't that...)
 
 @NAN_SEV_A:49 PLY bb970906
-
+"Nana, what are you doing?"
 
 @NAN_SEV_A:63 NAN bc5154a9
-
+"{V0050}Whoa!{W35} Big Bro!"
 
 @NAN_SEV_A:64 PLY 9f465110
-
+"Hm? What did you just hide behind your back?"
 
 @NAN_SEV_A:66 NAN ff0b51ce
-
+"{V0051}N-{W30}nothing.{W20} I didn't hide anything."
 
 @NAN_SEV_A:67 PLY dcba96db
-
+"Liar. You were reading something, weren't you? What was it?"
 
 @NAN_SEV_A:70 NAN a8c4d68d
-
+"{V0052}Um...{W75} well...{W75} a love letter{W5}{W5}{W5}"
 
 @NAN_SEV_A:71 PLY 21e4acd1
-
+"What?!"
 
 @NAN_SEV_A:72 NAN 3908d442
-
+"{V0053}This morning,{W50} it was{W5} inside my desk{W35}.{F3}"
 
 @NAN_SEV_A:73 PLY eed847b2
-
+"R-really...? There are some weirdos out there, sending a love letter to you."
 
 @NAN_SEV_A:74 NAN 79bd65b6
-
+"{V0054}Hmph,{W65} Nana{W3} is actually{W3} pretty popular, you know.{W40} It's just that you don't know, Big Bro."
 
 @NAN_SEV_A:75 PLY b9d37d51
-
+"Yeah, yeah, sure. We'll say that's true."
 
 @NAN_SEV_A:77 NAN d6aee8c0
-
+"{V0055}Geez,{W55} treating me like a kid~!{W50} {Eo}I'm only one year younger than you, Big Bro, you know."
 
 @NAN_SEV_A:78 PLY ff512f93
-
+"Well... that's true."
 
 @NAN_SEV_A:79 PLY 4f958f73
-
+"So who is it? The sender."
 
 @NAN_SEV_A:80 NAN f1637fe2
-
+"{V0056}{W10}A boy{W15} from the class{W15} next door.{W50} {F3}He's pretty good-looking,{W35} and with the girls in my class too,{W40} he's popular{W10}, I think."
 
 @NAN_SEV_A:81 PLY 2b35b7a1
-
+"R-really..."
 
 @NAN_SEV_A:82 NAN a512d1c1
-
+"{V0057}Does it bother you,{W30} Big Bro?"
 
 @NAN_SEV_A:83 PLY 674300fe
-
+"O-of course not. ...It's just, you should think carefully before you reply."
 
 @NAN_SEV_A:84 NAN 1bc5d18d
-
+"{V0058}Yeah,{W35} you're right.{W35} I will!"
 
 @NAN_SEV_A:88 NAN 820d7f9b
-
+"{V0059}See you,{W10} Big Bro."
 
 @NAN_SEV_A:89 PLY 3695183e
-
+"Yeah, see you."
 
 @NAN_SEV_A:91 PLY dba8893d
-
+(Nana getting a love letter... Before I knew it, she's at that age...)
 
 @NAN_SEV_A:100 PLY eb7ff0c0
-
+(Hm? Who's that over there...)
 
 @NAN_SEV_A:114 PLY d1cc3239
-
+(Nana...)
 
 @NAN_SEV_A:115 PLY 4a1b8cc1
-
+(When did her legs get so pretty...)
 
 @NAN_SEV_A:118 PLY 2cc67d3d
-
+(...What am I thinking about my own sister?!)
 
 @NAN_SEV_A:119 PLY 2142bcb2
-
+"H-hey, Nana. What are you doing?"
 
 @NAN_SEV_A:121 NAN 4bbb4904
-
+"{V0060}Oh,{W50} Big Bro{W5}"
 
 @NAN_SEV_A:122 NAN 81bae9eb
-
+"{V0061}We did the long jump{W15} in PE,{W35} {Ec}{W5}{F9}{Eo}so my legs got covered in sand."
 
 @NAN_SEV_A:123 NAN 7dab60e4
-
+"{V0062}It wouldn't come off when I brushed it with my hand,{W33} {Ec}so I was washing it with water."
 
 @NAN_SEV_A:124 PLY edfbbcbc
-
+"H-hmm... I see."
 
 @NAN_SEV_A:125 PLY a289bbcb
-
+"Feel fresh now?"
 
 @NAN_SEV_A:126 NAN 352edcfd
-
+"{V0063}{W5}Yeah!"
 
 @NAN_SEV_A:128 NAN 851c2843
-
+"{V0064}See you,{W10} Big Bro."
 
 @NAN_SEV_A:129 PLY fdca08e5
-
+"Oh... yeah, see you."
 
 @NAN_SEV_A:130 PLY abb36ed0
-
+(This is bad... I'm not myself today. My heart's pounding just from looking at my sister's legs...)
 
 @NAN_SEV_A:134 PLY 3e175b66
-
+(Phew... good, nobody's here...)
 
 @NAN_SEV_A:135 PLY d2a19878
-
+(Ugh... what's wrong with me...)
 
 @NAN_SEV_A:136 PLY a2961c44
-
+(Thinking my sister's legs are pretty... getting flustered touching her back...)
 
 @NAN_SEV_A:137 PLY d28f7a8a
-
+(Have I lost my mind?)
 
 @NAN_SEV_A:139 PLY b37fd536
-
+(Ever since then, Nana's every little gesture and expression gets to me, and I can't even look her in the eye...)
 
 @NAN_SEV_A:140 PLY 48f065aa
-
+(Ah... this is bad. I'm hopeless. I can't even talk to Nana normally anymore...)
 
 @NAN_SEV_A:141 NAN a59c0853
-
+"{V0065}Big Bro,{W50} what are you doing?"
 
 @NAN_SEV_A:142 PLY 122df4f6
-
+"Huh?"
 
 @NAN_SEV_A:143 PLY edb9278d
-
+"Whoa! N-Nana!"
 
 @NAN_SEV_A:145 NAN 3a64c50c
-
+"{V0066}{W10}W-{W30}what's wrong?{W25} {Sp}{Fe9m6}Why are you so startled?"
 
 @NAN_SEV_A:146 PLY 6538d724
-
+"Oh, no... it's nothing... I was just thinking about something."
 
 @NAN_SEV_A:147 NAN 744c012d
-
+"{V0067}Thinking{W10} about something?{W70} Is it{W45} something important?{F3}"
 
 @NAN_SEV_A:148 PLY d2351470
-
+"...It's nothing."
 
 @NAN_SEV_A:149 NAN 6b13526e
-
+"{V0068}No,{W35} tell Nana about it.{W60} Maybe I can be of{W5} help to you, Big Bro."
 
 @NAN_SEV_A:150 PLY f314e182
-
+(Sigh... if I could, I wouldn't be in this mess...)
 
 @NAN_SEV_A:151 PLY f8d6c370
-
+"I said it's nothing."
 
 @NAN_SEV_A:152 NAN 250a668c
-
+"{V0069}Mmm,{W60} is it something{W5} you can't{W5} tell Nana?"
 
 @NAN_SEV_A:153 PLY 68e66e6f
-
+"...It's something I can't tell you."
 
 @NAN_SEV_A:154 NAN 7eb5bdf6
-
+"{V0070}Aah,{W50} Big Bro,{W10} that's so mean!{W25} You think{W3} I can't{W5} be of help{W5}, don't you?"
 
 @NAN_SEV_A:155 NAN 1235ea34
-
+"{V0071}{W5}You're right,{W10} I might not be able to help{W5}, but{W70} {F9}I can at least,{W25} for your sake, Big Bro,{W25} think about a lot of things..."
 
 @NAN_SEV_A:156 PLY 435b5724
-
+"{Ts3}I said it's nothing!"
 
 @NAN_SEV_A:157 NAN 183ac7c7
-
+"{V0072}Huh..."
 
 @NAN_SEV_A:158 NAN 0d80b9d5
-
+"......"
 
 @NAN_SEV_A:159 PLY b1cb387e
-
+"Ah... S-sorry for yelling."
 
 @NAN_SEV_A:160 NAN 59fcec6d
-
+"{V0073}N-{W25}no,{W50} it's okay.{W55} {Eh}I was just{W2} startled..."
 
 @NAN_SEV_A:161 NAN 626e9885
-
+"{V0074}Sorry,{W30} Big Bro.{W50} {F9}{Eo}Nana{W30} was being a busybody{W3}, huh."
 
 @NAN_SEV_A:162 NAN 42029e93
-
+"{V0075}Well,{W50} I'm going now...{Ec}"
 
 @NAN_SEV_A:163 PLY f7da55ba
-
+"Ah, Nana..."
 
 @NAN_SEV_A:164 PLY 08ae3538
-
+(Ugh... I yelled at Nana. I didn't mean to hurt her... Sorry, Nana.)
 
 @NAN_SEV_A:165 PLY 09139bc8
-
+(Hmm... there's nothing in particular to do...)
 
 @NAN_SEV_A:168 AKI c042ff42
-
+"{Nm}, {V0069}what{W3} are you spacing out for?"
 
 @NAN_SEV_A:169 PLY 7eb51788
-
+"Oh, Hiiragi. I was just thinking how bored I am."
 
 @NAN_SEV_A:170 AKI 026f14f4
-
+"{V0070}I see.{W50} {Eh}Then it's perfect timing.{W35} {Eo}You've got a cute{W3} visitor{W2}."
 
 @NAN_SEV_A:171 PLY e9a8a8c6
-
+"A cute one?"
 
 @NAN_SEV_A:173 NAN f5380652
-
+"{V0076}Ehehe,{W50} Big Bro!"
 
 @NAN_SEV_A:174 PLY a6af49b8
-
+"N-Nana..."
 
 @NAN_SEV_A:175 AKI e2727ffe
-
+"{V0071}Later,{W35} take your time."
 
 @NAN_SEV_A:176 PLY f9c3b916
-
+"Ah, Hiiragi... He's gone, huh..."
 
 @NAN_SEV_A:177 PLY 722f115e
-
+(I wish he'd stayed...)
 
 @NAN_SEV_A:178 NAN 07fb9790
-
+"{V0077}Hey, hey,{W30} Big Bro!{W10} Listen, listen!{W25} Nana{W20} got a whole{W25} 95{W5} points{W5}...{W15} on the quiz after summer vacation!{Ec}"
 
 @NAN_SEV_A:179 PLY dbf0f501
-
+"I see..."
 
 @NAN_SEV_A:180 NAN 232dcf2d
-
+"{V0078}All you{W5} can say{W5} is,{W20} 'I{W3} see'...{W75} {Sp}Is that all?"
 
 @NAN_SEV_A:181 NAN f0073018
-
+"{V0079}Mmm,{W80} you could{W2} praise me more{W3}, you know."
 
 @NAN_SEV_A:182 PLY e86ee093
-
+"Y-you did great, didn't you?"
 
 @NAN_SEV_A:183 NAN 80427311
-
+"{V0080}......"
 
 @NAN_SEV_A:184 NAN 2bde21e4
-
+"{V0081}...Big Bro,{W55} lately{W10} you've been{W5} kind of weird.{W50} {F9}You're acting{W15} so distant..."
 
 @NAN_SEV_A:185 PLY 72d7237e
-
+"N-no, that's not true..."
 
 @NAN_SEV_A:186 NAN 387b6550
-
+"{V0082}No!{W15} {Ec}It is true!{W30} Something's different!{W40} {Eo}Nana can tell!"
 
 @NAN_SEV_A:187 PLY 20a22d57
-
+"{Ts3}S-stop being so persistent! Enough, okay?! Go back to your own classroom!"
 
 @NAN_SEV_A:189 NAN 35b166e8
-
+"{V0083}Huh..."
 
 @NAN_SEV_A:190 PLY 634f9920
-
+"Ah..."
 
 @NAN_SEV_A:191 NAN f2f742f4
-
+"{V0084}O-{W60}okay,{W70} I'll go back.{W90} {Fe9}Sorry,{W15} Big Bro.{W50} For barging in{W5} so suddenly..."
 
 @NAN_SEV_A:192 NAN 6854aaa5
-
+"{V0085}Sniff...{W85} I thought you'd praise{W5} me..."
 
 @NAN_SEV_A:193 PLY 2154d773
-
+(Ugh... I did it again... Sorry, Nana...)
 
 @NAN_SEV_A:194 PLY 2093e0ba
-
+(What on earth should I do...)
 
 @NAN_SEV_A:195 PLY dcd2ed1f
-
+(Good... nobody's here...)
 
 @NAN_SEV_A:196 PLY 87eb7a6a
-
+(Ah... this is bad. I'm hopeless...)
 
 @NAN_SEV_A:197 PLY c14544a3
-
+(I start seeing Nana as a girl, and then all I do is hurt her...)
 
 @NAN_SEV_A:198 PLY 2ffba4ae
-
+(Don't tell me I... like Nana?)
 
 @NAN_SEV_A:199 PLY 358c2f14
-
+(No way! Not that! Ugh... Impossible... impossible... {Ts1}I'd like to think so...)
 
 @NAN_SEV_A:200 PLY fa2605fd
-
+(Ugh... cute Nana. My sister, Nana... {Ts1}Your big brother is... your big brother is...)
 
 @NAN_SEV_A:203 AKI d7eae058
-
+"{Nm}, {V0072}what are you doing{W5} in a place like this?"
 
 @NAN_SEV_A:204 PLY af40900f
-
+"Oh, Hiiragi."
 
 @NAN_SEV_A:205 AKI 186d50ec
-
+"{V0073}...Is something{W30} troubling you?"
 
 @NAN_SEV_A:206 PLY 9e040418
-
+"Can you tell?"
 
 @NAN_SEV_A:207 AKI 5d16ecef
-
+"{V0074}Yeah,{W45} {Ec}just from the way you've been acting.{W80} {Eo}...{W5}It's about your sister Nana, isn't it?"
 
 @NAN_SEV_A:208 PLY a10b1ac6
-
+"H-how did you know?!"
 
 @NAN_SEV_A:209 AKI 942a403c
-
+"{V0075}It's written on your face.{W70} Lately,{W30} you two talk in class a lot.{W50} {Eh}Siblings chatting at school{W3} is rare."
 
 @NAN_SEV_A:210 PLY 99277bbf
-
+"Ugh... so you saw right through me..."
 
 @NAN_SEV_A:211 AKI 4b15dec3
-
+"{V0076}Well,{W45} but,{W15} there's nothing to worry about.{W30} {F9}{Eo}With a sister that cute,{W5} it's only natural."
 
 @NAN_SEV_A:212 PLY c2a9ccd8
-
+"Huh? Natural? Really?! Is that normal in general?!"
 
 @NAN_SEV_A:213 AKI 5a926d5c
-
+"{V0077}Yeah,{W45} don't worry,{W35} {Eo}you're{W5} normal."
 
 @NAN_SEV_A:214 AKI e7b611e6
-
+"{V0078}Anyone{W3} would agonize over it,{W3} I think."
 
 @NAN_SEV_A:215 PLY 5a31b14a
-
+"So that's how it was... I'm normal. Thanks, Hiiragi. What a relief..."
 
 @NAN_SEV_A:216 AKI e0a1fb38
-
+"{V0079}You're worried, right?{W55} {Ec}About some{W3} pest latching onto your sister.{W40} {Eo}As her brother,{W15} you can't relax."
 
 @NAN_SEV_A:217 AKI ff5dec1f
-
+"{V0080}Huh?{W10} Wait...{W45} that's not what you're worried about?"
 
 @NAN_SEV_A:218 PLY bd9117d6
-
+"O-oh, no, that's it. I'm so worried that some pest might latch on. Hahaha..."
 
 @NAN_SEV_A:219 AKI ff79507a
-
+"{V0081}See you, {Nm}.{W10} {Ec}Don't take it too hard."
 
 @NAN_SEV_A:220 PLY cca7f034
-
+"Yeah, I know."
 
 @NAN_SEV_A:221 PLY 52bbf64b
-
+(A pest, huh... If only my trouble were that ordinary...)
 
 @NAN_SEV_A:222 PLY 3aab7075
-
+(Sigh... I'm the pest.)
 
 @NAN_SEV_A:223 PLY d5a7652f
-
+(Now then, PE next. Gym clothes, gym clothes...)
 
 @NAN_SEV_A:224 PLY c70948dc
-
+"Ah!"
 
 @NAN_SEV_A:225 AKI ba441401
-
+"{V0082}What's wrong, {Nm}?"
 
 @NAN_SEV_A:226 PLY 55b2a006
-
+"Oh no, I forgot my gym clothes... That's odd, I was sure I'd brought them..."
 
 @NAN_SEV_A:227 AKI 66ef7602
-
+"{V0083}Clumsy{W5}, aren't you.{W50} {Eo}Why not hurry{W3} and borrow some{W3} from the next class?"
 
 @NAN_SEV_A:228 PLY 5683b953
-
+"Right, I'll do that."
 
 @NAN_SEV_A:229 NAN 719741d8
-
+"{V0086}Big{W3} Bro{W5}~{W3}!"
 
 @NAN_SEV_A:231 PLY a975af59
-
+"Oh, it's Nana. Sorry, but I don't have time for you. I have to hurry to the next class..."
 
 @NAN_SEV_A:233 NAN 3c5a8375
-
+"{V0087}Is{W3} that{W3} okay{W3}?{W25} Brushing me off{W5} like{W3} that.{W35} I think{W5} you'll regret it{W3}..."
 
 @NAN_SEV_A:234 PLY d9372ba1
-
+"Why?"
 
 @NAN_SEV_A:236 NAN 795dba01
-
+"{V0088}Look,{W35} your gym clothes{W3}{W3}.{W45} You left them{W3} sitting at the entrance{Ec}"
 
 @NAN_SEV_A:237 PLY 712b6e36
-
+"Oh! Thanks, Nana!"
 
 @NAN_SEV_A:238 PLY 9e25d33f
-
+"I see, I set them down when I put on my shoes and forgot all about them."
 
 @NAN_SEV_A:239 NAN 5f74c24d
-
+"{V0089}Geez,{W30} you're so careless."
 
 @NAN_SEV_A:240 PLY 29d2ca2b
-
+"You saved me, Nana."
 
 @NAN_SEV_A:242 PLY 68c23403
-
+"Here's your reward."
 
 @NAN_SEV_A:245 SYS fba82b7a
-
+{Ti0}／                                    Poke!
 
 @NAN_SEV_A:247 NAN 57cbbe9f
-
+"{V0090}Aaah!{W20} A forehead poke!{W25} A forehead poke~!"
 
 @NAN_SEV_A:248 NAN e2d08be6
-
+"{V0091}Ehehe,{W30} I'm glad,{W30} Big Bro's{W5} back{W5} to normal."
 
 @NAN_SEV_A:249 PLY 751e2fea
-
+"Sorry, Nana. I've been acting a bit strange lately, haven't I."
 
 @NAN_SEV_A:250 NAN f5bbc284
-
+"{V0092}No,{W40} not at all.{W50} No matter what happens,{W30} Big Bro is,{W15} Big Bro."
 
 @NAN_SEV_A:251 PLY 40c7ce75
-
+"Nana..."
 
 @NAN_SEV_A:252 NAN 0350f66e
-
+"{V0093}Ehehe,{W60} Big Bro."
 
 @NAN_SEV_A:253 AKI d25067ea
-
+"{V0084}Ahem,{W60} you two.{W40} We'd like to change soon,{W30} {Ec}if that's okay?"
 
 @NAN_SEV_A:254 PLY 7b09a50d
-
+"Ah! Th-that's right! Nana, hurry out of the classroom! You're making all the guys uncomfortable!"
 
 @NAN_SEV_A:255 NAN a68c38fc
-
+"{V0094}O-{W10}okay!{W30} See you! Big Bro!"
 
 @NAN_SEV_A:256 AKI 6c525397
-
+"{V0085}Good grief,{W65} {Eh}close siblings{W3} can be a nuisance{W30} sometimes{Ec}"
 
 @NAN_SEV_A:257 PLY 319a30de
-
+"Sorry..."
 
 @NAN_SEV_A:258 AKI 1ae96dea
-
+"{V0086}Hahaha,{W83} no need to apologize.{W33} Let's hurry up and change,{W12} and get to the schoolyard."
 
 @NAN_SEV_A:259 PLY c028a083
-
+"Right."
 
 @NAN_SEV_A:260 PLY f0d4c392
-
+(Hmm... there's nothing to do.)
 
 @NAN_SEV_A:261 PLY 75659ff7
-
+(Guess I'll sit down and space out...)
 
 @NAN_SEV_A:272 SYS f1f87269
-
+{Ti0}／{Ts4}     {Ti1}{As1}{b60}Th{Ti0}ump!{As0}{b0}
 
 @NAN_SEV_A:273 NAN 15bbc82c
-
+"{V0095}Boo!"
 
 @NAN_SEV_A:274 PLY ffc5cdbf
-
+"Whoa!"
 
 @NAN_SEV_A:275 NAN 266bbd88
-
+"{V0096}Big Bro,{W30} what are you doing?"
 
 @NAN_SEV_A:276 PLY 1f0faffe
-
+"N-Nana! That's dangerous!"
 
 @NAN_SEV_A:277 NAN 47f5c4cb
-
+"{V0097}Ehehe,{W43} {Eo}it's your fault{W5} for spacing out."
 
 @NAN_SEV_A:278 PLY 4d53629b
-
+"Honestly, doing childish stuff like that..."
 
 @NAN_SEV_A:279 NAN 736c7081
-
+"{V0098}Hmph,{W55} Nana{W13} is not{W3} a{W3} kid!"
 
 @NAN_SEV_A:280 PLY 38a598e3
-
+"Grown-ups don't pull pranks like this."
 
 @NAN_SEV_A:282 NAN b7aa1a41
-
+"{V0099}Ugh...{W60} I see,{W43} {Sp}being a grown-up{W5} is hard, huh."
 
 @NAN_SEV_A:283 PLY 617ee4e7
-
+"Hard... I wonder..."
 
 @NAN_SEV_A:284 NAN af7a487f
-
+"{V0100}Hey, hey, Big Bro,{W40} next{W3} break too,{W45} take me somewhere{W5}, okay{Ec}?"
 
 @NAN_SEV_A:285 PLY 846d02f2
-
+"Next one? Hmm, next is winter break..."
 
 @NAN_SEV_A:286 NAN 64d1296f
-
+"{V0101}Awww,{W40} that's so far away~.{W55} {F6}You promised{W3} you'd cherish Nana{W5}, and yet~!"
 
 @NAN_SEV_A:287 PLY d10c29c7
-
+"This isn't a desert island, you know."
 
 @NAN_SEV_A:288 NAN 71aa1629
-
+"{V0102}So mean~~!{W45} You have to cherish me even if it's not a desert island!{W25} I'm your one and only sister!{Ec}"
 
 @NAN_SEV_A:289 PLY 7f9c57eb
-
+"Yeah, yeah, right."
 
 @NAN_SEV_A:291 NAN 4c4e969b
-
+"{V0103}Mmm...{W70}{E}{5}{Ec}{F9}{Eo}Well{W3} then,{W45} when winter break{W5} comes,{W30} take me somewhere{W3}, okay?"
 
 @NAN_SEV_A:292 PLY c73b25c6
-
+"Right. I'll think about it."
 
 @NAN_SEV_A:293 NAN 4767c101
-
+"{V0104}Definitely{W3}, you hear~!{Ec}"
 
 @NAN_SEV_A:294 PLY 69c71150
-
+(Hahaha... she's gone. Nana's so cute.)
 
 @NAN_SEV_A:295 PLY e719cb97
-
+"Hey, Nana. What are you doing?"
 
 @NAN_SEV_A:297 NAN 35df2441
-
+"{V0105}Oh,{W35} Big Bro{F3}"
 
 @NAN_SEV_A:298 NAN 5dc131f8
-
+"{V0106}Naru and I{W3} were drinking juice{W3} and chatting."
 
 @NAN_SEV_A:299 PLY 696225c1
-
+"I see."
 
 @NAN_SEV_A:300 NAN af6114d4
-
+"{V0107}Hey, hey,{W40} Naru{W35} is so funny{W3}, you{W2} know~.{W30} {Eo}Just now, too~..."
 
 @NAN_SEV_A:301 PLY 0bf1d664
-
+(...Come to think of it, Nana got that love letter.)
 
 @NAN_SEV_A:302 PLY 705fb024
-
+(What did she do about a reply...)
 
 @NAN_SEV_A:303 NAN 1a26874e
-
+"{V0108}...is what happened.{W30} {Eo}Typical Naru, right~?"
 
 @NAN_SEV_A:304 NAN 716f3029
-
+"{V0109}...Huh?{W40} Big Bro,{W40} are you listening?"
 
 @NAN_SEV_A:305 PLY 0c3e3535
-
+"Sorry, I was thinking about something."
 
 @NAN_SEV_A:306 NAN 8325c573
-
+"{V0110}Geez,{W40} I went to the trouble{W3} of telling you a funny story{W25}, too~!"
 
 @NAN_SEV_A:307 PLY ef586f43
-
+"Sorry, sorry."
 
 @NAN_SEV_A:308 PLY 28e9d664
-
+"More importantly, Nana... what did you do about replying to that love letter?"
 
 @NAN_SEV_A:309 NAN 287276cb
-
+"{V0111}Huh?{W65} {F3}...Does it{W5} bother you?"
 
 @NAN_SEV_A:310 PLY e9faf072
-
+"Of course it does. You're my sister."
 
 @NAN_SEV_A:312 NAN 3a76c131
-
+"{V0112}I guess so.{W65} {Eo}I'm your sister{W3}, after all."
 
 @NAN_SEV_A:313 NAN 368c2c32
-
+"{V0113}...You know,{W70} ages ago{W20} I turned him down{Ec}"
 
 @NAN_SEV_A:314 PLY 53e4db35
-
+"R-really? ...Why?"
 
 @NAN_SEV_A:315 NAN 263278cd
-
+"{V0114}Hmm...{W80} I'm not{W10} sure{Sp}{F9}"
 
 @NAN_SEV_A:316 PLY 7f50113f
-
+"Not sure?"
 
 @NAN_SEV_A:317 NAN b30892b5
-
+"{V0115}That boy,{W10} well,{W40} he's popular,{W40} and he's good-looking too, but..."
 
 @NAN_SEV_A:318 NAN 33d25b22
-
+"{V0116}But that{W3} doesn't mean{W30} I have to fall for him{Ec}..."
 
 @NAN_SEV_A:319 NAN cb024d78
-
+"{V0117}I was happy to get the letter,{W30} {F9}but after that,{W28} I didn't know what to do{W10}, really..."
 
 @NAN_SEV_A:320 NAN 86003f26
-
+"{V0118}Maybe,{W30} it's too early{W45} for me yet,{W3} I think{Ec}"
 
 @NAN_SEV_A:321 PLY 876a2929
-
+"I see..."
 
 @NAN_SEV_A:322 NAN 97efd7cb
-
+"{V0119}Are you relieved?"
 
 @NAN_SEV_A:323 PLY 6a3a84db
-
+"W-why would I be relieved?!"
 
 @NAN_SEV_A:324 NAN ba64e79d
-
+"{V0120}Ehehe,{W50} {Eo}just a feeling."
 
 @NAN_SEV_A:325 NAN f720e326
-
+"{V0121}...Until you{W40} get a girlfriend,{W5} Big Bro,{W40} {Ec}I won't get a boyfriend~!"
 
 @NAN_SEV_A:326 PLY 118f65d3
-
+"If you say that and I never get one, what then?"
 
 @NAN_SEV_A:327 NAN b80a6a91
-
+"{V0122}Then,{W30} I won't either!"
 
 @NAN_SEV_A:328 PLY 2d1d561f
-
+"Honestly, you're not going to start saying 'I'll marry Big Bro!' like when you were little, are you?"
 
 @NAN_SEV_A:329 NAN b7cafec8
-
+"{V0123}Ehehe,{W43} {Sp}that's, um,{W10} too much..."
 
 @NAN_SEV_A:330 PLY d8e9bbe4
-
+"Hahaha, yeah, no way."
 
 @NAN_SEV_A:331 NAN 7a33272e
-
+"{V0124}But..."
 
 @NAN_SEV_A:332 PLY 1716f86b
-
+"But?"
 
 @NAN_SEV_A:333 NAN 78334f8c
-
+"{V0125}If I weren't your sister, Big Bro,{W20} I'd have definitely{W15} become your bride{F9}"
 
 @NAN_SEV_A:334 PLY a3821f73
-
+"Hahaha, thanks."
 
 @NAN_SEV_A:335 NAN 1ab6c734
-
+"{V0127}See you,{W10} Big Bro."

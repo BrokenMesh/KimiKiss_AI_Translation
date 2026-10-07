@@ -2,238 +2,238 @@
 # Format: docs/translation-format.md
 
 @ASU_TFO:41 ASU 77a759ee
-
+"{V0639}Morning, {Nm}..."
 
 @ASU_TFO:43 PLY b681e81b
-
+"Ah! S-Sakino!"
 
 @ASU_TFO:46 ASU 06282cd2
-
+"{V7001}{W5}What{W5} on earth happened?{W80} We had a promise,{W50} and you didn't show up..."
 
 @ASU_TFO:47 PLY 2f6431a9
-
+"Sorry... Sakino."
 
 @ASU_TFO:48 PLY b8491b67
-
+"Um... something urgent came up, and I ended up having to go over there."
 
 @ASU_TFO:49 PLY a6046099
-
+"I meant to tell you, Sakino, but I couldn't manage to find you..."
 
 @ASU_TFO:50 ASU 2e9053d3
-
+"{V0641}Ah...{W70} I see,{W35} {Ec}{W5}{Fe9}{Eo}so that's what happened."
 
 @ASU_TFO:53 ASU 4dc43f43
-
+"{V0642}Oh, I see,{W25} then it can't be helped.{W80} {Ec}That's a relief.{W70} {Eo}I thought something had happened,{W30} so I was a little worried."
 
 @ASU_TFO:54 PLY ababb9b9
-
+"Sorry for making you worry..."
 
 @ASU_TFO:55 ASU 41d97a25
-
+"{V0643}No.{W30} It's me,{W50} for saying odd things{W5} first thing in the morning,{W20} I'm sorry."
 
 @ASU_TFO:58 ASU e957a40f
-
+"{V0644}Well, let's go, {Nm}."
 
 @ASU_TFO:59 PLY bad3355d
-
+"Yeah..."
 
 @ASU_TFO:63 PLY 870f0120
-
+(This is bad, I can't keep doing this...)
 
 @ASU_TFO:64 ASU 90f169d6
-
+"{V0591}Morning, {Nm}..."
 
 @ASU_TFO:68 ASU 54f770ca
-
+"{V7000}...We{W5} promised{W5} to{W5} go{W5} home together,{W86} and you go home with another girl, {W60}{Ec}I can't believe it."
 
 @ASU_TFO:69 PLY 0927a4d2
-
+"Sorry, Sakino..."
 
 @ASU_TFO:70 ASU 31d70e12
-
+"{V0593}What{W3} do you have{W3} to say for yourself?"
 
 @ASU_TFO:71 PLY 7e59bca6
-
+"Sorry. I... forgot about our promise, Sakino..."
 
 @ASU_TFO:72 ASU 5575d7e4
-
+"{V0594}Huh?{W52} You forgot?"
 
 @ASU_TFO:73 PLY ea8f8c15
-
+"Yeah... I forgot..."
 
 @ASU_TFO:74 ASU 6da362d5
-
+"{V0595}Ah..."
 
 @ASU_TFO:75 ASU bb626b0c
-
+"{V0596}R-{W30}right...{W52} you forgot.{W65} {Ec}Oh well,{W35}{W3} then it{W3} can't be helped."
 
 @ASU_TFO:76 ASU ee1369b2
-
+"{V0597}Anyone can forget things sometimes..."
 
 @ASU_TFO:77 PLY 44a3429a
-
+"...Sorry, Sakino. I'll never do that again. So please, just this once, forgive me."
 
 @ASU_TFO:78 ASU 884fa947
-
+"{Nm}..."
 
 @ASU_TFO:79 ASU 48fd6bce
-
+"{V0599}Don't apologize so much.{W25} {Ec}{W5}{F3}{Eo}You didn't mean any harm, right?{W32} {Fe2}I{W2} don't mind it anymore."
 
 @ASU_TFO:80 ASU 6124714b
-
+"{V0600}Come on, let's go, {Nm}.{W25} {Ec}{W5}{Fe9}{Eo}Sorry for bringing this up first thing in the morning,{W10} talking like this."
 
 @ASU_TFO:81 PLY 98d86410
-
+"Sakino..."
 
 @ASU_TFO:82 SYS d0786ee7
-
+...And so, Sakino forgave me.
 
 @ASU_TFO:83 SYS 7b9b407d
-
+What a fool I am, promising to go home with two girls...
 
 @ASU_TFO:84 ASU 159846fc
-
+"{V0632}Morning, {Nm}..."
 
 @ASU_TFO:85 ASU 22fff361
-
+"{V0633}I shouldn't have trusted you,{W50} {Nm}..."
 
 @ASU_TFO:86 PLY f725dd6d
-
+"Huh..."
 
 @ASU_TFO:89 ASU 9407ab8c
-
+"{V0634}You're a terrible person,{W10} {Nm}.{W95} {Ec}{W5}{F6}{Eo}Just because{W15} I'm clueless{W5} about love...{W40} {Ec}{W5}{F8}{Eo}to think you'd deceive me."
 
 @ASU_TFO:90 ASU 81e7a151
-
+"{V0604}That girl is really pretty.{W50} {Eh}And,{W35} she seems so quiet,{W35} and kind..."
 
 @ASU_TFO:91 ASU acabec78
-
+"{V0605}I'm{W3} nothing like her..."
 
 @ASU_TFO:92 ASU 117dc9de
-
+"{V0606}That girl,{W40}{W2} she's{W2} in{W3} Year 1, right?{W75} {Ec}{W5}{Fe6}{Eo}Small,{W30} and so cute..."
 
 @ASU_TFO:93 ASU 73f60e94
-
+"{V0607}I'm nothing like her..."
 
 @ASU_TFO:94 ASU ea9b6940
-
+"{V0608}That person,{W50} she's Mizusawa{W5} from Year 3, right?{W65} She's beautiful{W10} and famous, isn't she?"
 
 @ASU_TFO:95 ASU 95676faa
-
+"{V0609}Fair-skinned,{W50} a great figure,{W40} {Eh}so feminine..."
 
 @ASU_TFO:96 ASU 867acc71
-
+"{V0610}I'm nothing like her..."
 
 @ASU_TFO:97 ASU 09f89b9f
-
+"{V0611}That girl,{W30} she's Futami, right?{W60} {Ec}She's really{W5} smart,{W40} and famous{W10}, isn't she?"
 
 @ASU_TFO:98 ASU d9bd6939
-
+"{V0612}...I knew it. {Nm}, you{W20} like girls{W10} who are smart, huh?"
 
 @ASU_TFO:99 ASU 049ea094
-
+"{V0613}Someone like me,{W40} from the start{W10} I don't stand a chance..."
 
 @ASU_TFO:100 ASU 4883c2f7
-
+"{V0614}That girl,{W45} she's the famous young lady,{W10} Shijou, right?"
 
 @ASU_TFO:101 ASU 80f8614e
-
+"{V0615}Neat and refined,{W5} graceful,{W20} so delicate...{W30} {Ec}I'm nothing like her{W10}..."
 
 @ASU_TFO:102 ASU 4e54fffa
-
+"{V0617}That girl,{W60} she's from the Discipline Committee,{W10} Kuryuu, right?"
 
 @ASU_TFO:103 ASU 9ceb7f65
-
+"{V0618}Serious,{W10} and cute,{W65} and what's more,{W5} a judo{W5} black belt..."
 
 @ASU_TFO:104 ASU 092314c7
-
+"{V0619}I'm{W5} nothing like her..."
 
 @ASU_TFO:105 PLY f9e80cfe
-
+"Sakino, I'm sorry. I..."
 
 @ASU_TFO:107 ASU 2572ab64
-
+"{V0620}Don't make excuses!"
 
 @ASU_TFO:108 ASU 7ebf16b6
-
+"{V0621}No matter how{W5} dense I am...{W80} {Ec}I won't{W10} be fooled again!"
 
 @ASU_TFO:109 ASU eb6bc824
-
+"{V0622}Don't{W2} ever{W2} talk to me again!{Eo}"
 
 @ASU_TFO:110 ASU d07149f4
-
+"{V0623}Goodbye!"
 
 @ASU_TFO:111 PLY 34bde391
-
+"Ah... Sakino...!"
 
 @ASU_TFO:112 PLY 471fac2d
-
+(...I've done something I can't take back...)
 
 @ASU_TFO:113 PLY 60f1a751
-
+(Sakino... I'm sorry...)
 
 @ASU_TFO:114 ASU 772b21d6
-
+"{V0635}Morning, {Nm}..."
 
 @ASU_TFO:115 ASU a48f08bd
-
+"{V0636}I shouldn't have trusted you,{W30} {Nm}..."
 
 @ASU_TFO:116 ASU 8e3c91f5
-
+"{V0637}You're a terrible{W3} person,{W5} {Nm}.{W75} {Ec}{W5}{F6}{Eo}Just because{W10} I'm clueless{W2} about love...{W25} {Ec}to think you'd deceive me."
 
 @ASU_TFO:117 ASU e13a2cf6
-
+"{V0638}And on top of that,{W35} a different girl from the other day...{W45} {Ec}{W5}{Fe9}{Eo}I can't believe it!"
 
 @ASU_TFO:118 PLY 0ceaf3ba
-
+"Sakino... I..."
 
 @ASU_TFO:119 ASU 47de43fb
-
+"{V0523}No matter how{W3} dense I am...{W75} I won't{W5} be fooled again!"
 
 @ASU_TFO:120 ASU 462c591f
-
+"{V0524}I...{W50} {Nm}, I can't{W60} be good friends with you{W5} anymore..."
 
 @ASU_TFO:121 ASU ad186d44
-
+"{V0525}Never{W5} talk to me again!"
 
 @ASU_TFO:122 ASU e7057b40
-
+"{V0526}Goodbye!"
 
 @ASU_TFO:123 PLY aa968cf8
-
+"Ah! Sakino!"
 
 @ASU_TFO:124 PLY e0164981
-
+(I'm... I'm hopeless. Unable to choose just one, wishy-washy, dragging it out until now...)
 
 @ASU_TFO:125 PLY 4de7c50b
-
+(I'm... I'm...)
 
 @ASU_TFO:126 ASU 912e7d01
-
+"{V0601}Morning, {Nm}..."
 
 @ASU_TFO:127 ASU 80f486bf
-
+"{V0602}Surely,{W20} you're not going to say{W15} you forgot our promise,{W25} are you?"
 
 @ASU_TFO:128 ASU 59b75bd3
-
+"{V0603}You're a terrible person,{W15}{W5} {Nm}.{W95} {Ec}{W5}{F6}{Eo}Just because{W5} I'm clueless{W3} about love...{W45} going off with another{W3} girl..."
 
 @ASU_TFO:129 ASU ebed44fa
-
+"{V0624}Morning, {Nm}..."
 
 @ASU_TFO:130 ASU 320809bb
-
+"{V0625}Surely,{W5} you're not going to say{W5} you forgot our promise,{W10} are you?"
 
 @ASU_TFO:131 ASU a5541915
-
+"{V0626}You're a terrible person,{W5} {Nm}.{W85} {Ec}{W5}{F6}{Eo}Just because{W5} I'm clueless about love...{W60} {Ec}going off with another{W3} girl..."
 
 @ASU_TFO:132 ASU 82beb072
-
+"{V0627}And on top of that,{W65} a different girl{W5} from the other day...{W38} {Ec}{W5}{Fe9}{Eo}I can't{W2} believe it!"
 
 @ASU_TFO:133 ASU 65a05a39
-
+"{V0628}I've had enough!{W40} I don't want to hear any excuses!"
 
 @ASU_TFO:134 ASU 49fedf21
-
+"{V0630}Never talk to me again!"
 
 @ASU_TFO:135 ASU 19911a49
-
+"{V0631}Goodbye!"

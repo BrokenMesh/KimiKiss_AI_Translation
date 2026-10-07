@@ -11,7 +11,7 @@
 "{V1444}{W10}All{W2}{W2} your{W1} stories,{W2}{W1} Senpai,{W25} are{W10} so {Ec}interesting."
 
 @NAR_MED:49 NAR ab8e0665
-"{V1445}Your{W5}{W5} stories,{W5}{W5} Senpai,{W30} are all{W10} such wonderful stories.{W38} {Ec}{B60}They make my heart pound."
+"{V1445}Your{W5}{W5} stories,{W5}{W5} Senpai,{W30} are all{W10} such wonderful stories.{W38} {Ec}{B60}They make my heartbeat race."
 
 @NAR_MED:51 NAR 115b6e74
 "{V1446}Ehehe,{W2}{W2}{W25} {Eo}they're all such fun stories."
@@ -56,13 +56,13 @@ And so, the two of us had a fun time together.
 "Huh? R-really...?"
 
 @NAR_MED:72 NAR 89bed008
-"{V1451}Yes.{W5}{W20} You're really wonderful.{W55} Just looking at you {Ec}makes my heart pound."
+"{V1451}Yes.{W5}{W20} You're really wonderful.{W55} Just looking at you {Ec}makes my heartbeat race."
 
 @NAR_MED:73 PLY 6442e32f
 "Th-thanks..."
 
 @NAR_MED:74 PLY 0d30e523
-(Ugh... now my heart's pounding too, and I can't tell what's going on anymore.)
+(Ugh... now my heartbeat's racing too, and I can't tell what's going on anymore.)
 
 @NAR_MED:76 NAR f057e121
 "{V1452}{W10}Senpai{W10},{W40} I{W15}...{W45} my chest just won't get any bigger!"
@@ -107,7 +107,7 @@ And so, the two of us had a fun time together.
 "What?"
 
 @NAR_MED:98 NAR be97601a
-"{V2676}{W10}Somehow,{W40} my heart is pounding so much it's a real struggle..."
+"{V2676}{W10}Somehow,{W40} my heartbeat is racing so much it's a real struggle..."
 
 @NAR_MED:99 PLY 122df4f6
 "Huh?"
