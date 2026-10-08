@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KimiKiss English Patch (PS2 English Translation)</title>
+<meta name="description" content="English translation patch for KimiKiss (キミキス, Kimi Kiss) on PlayStation 2: the full script, menus, name entry and images. Free xdelta patch for your own dump of SLPS-25850 (eb!Kore+), playable in PCSX2.">
+<link rel="canonical" href="https://brokenmesh.github.io/KimiKiss_AI_Translation/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="KimiKiss English Patch (PS2 English Translation)">
+<meta property="og:description" content="Fan translation of KimiKiss (キミキス) for PlayStation 2 into English: full script, menus and images. xdelta patch, plays in PCSX2.">
+<meta property="og:url" content="https://brokenmesh.github.io/KimiKiss_AI_Translation/">
+<meta property="og:image" content="https://brokenmesh.github.io/KimiKiss_AI_Translation/social-preview.png">
+<meta property="og:image:width" content="1280">
+<meta property="og:image:height" content="640">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "KimiKiss English Patch",
+  "alternateName": ["KimiKiss English Translation", "Kimi Kiss English patch", "キミキス 英語化パッチ"],
+  "description": "Fan English translation patch for the PlayStation 2 game KimiKiss (キミキス, SLPS-25850).",
+  "codeRepository": "https://github.com/BrokenMesh/KimiKiss_AI_Translation",
+  "license": "https://opensource.org/licenses/MIT",
+  "inLanguage": "en"
+}
+</script>
+<style>
+:root { --bg:#fdf1da; --card:#fffaf0; --ink:#46343c; --muted:#6e5a62; --accent:#d9475f; --line:#ead9bd; }
+@media (prefers-color-scheme: dark) {
+  :root { --bg:#1f1a1c; --card:#2a2326; --ink:#f3e8ea; --muted:#c3b3b8; --accent:#f27a8f; --line:#41363a; }
+}
+* { box-sizing:border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif; }
+main { max-width:760px; margin:0 auto; padding:32px 16px 48px; }
+img.logo { display:block; width:100%; max-width:480px; height:auto; margin:0 auto 8px; }
+h1 { font-size:1.9rem; line-height:1.25; text-align:center; margin:8px 0 4px; }
+.sub { text-align:center; color:var(--muted); margin:0 0 24px; }
+.buttons { display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin:0 0 28px; }
+.buttons a { padding:10px 18px; border-radius:8px; text-decoration:none; font-weight:600; border:2px solid var(--accent); color:var(--accent); }
+.buttons a.primary { background:var(--accent); color:#fff; }
+section { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:16px 20px; margin:0 0 16px; }
+h2 { font-size:1.15rem; margin:0 0 8px; }
+code { font-size:.9em; overflow-wrap:anywhere; }
+a { color:var(--accent); }
+ol, ul { padding-left:1.3em; margin:0; }
+footer { color:var(--muted); font-size:.85rem; text-align:center; margin-top:24px; }
+</style>
+</head>
+<body>
+<main>
+<img class="logo" src="logo.png" alt="KimiKiss logo" width="480" height="120">
+<h1>KimiKiss English Patch</h1>
+<p class="sub">Fan English translation of <strong>KimiKiss</strong> (キミキス, Enterbrain) for PlayStation 2.<br>Full script of about 35,000 lines, all routes, menus, name entry, save screens and in-game images.</p>
+
+<div class="buttons">
+  <a class="primary" href="https://github.com/BrokenMesh/KimiKiss_AI_Translation/raw/main/release/KimiKiss_EN.xdelta">Download the patch (.xdelta)</a>
+  <a href="https://github.com/BrokenMesh/KimiKiss_AI_Translation">Source on GitHub</a>
+  <a href="https://discord.gg/MXaM8ekzu">Discord</a>
+</div>
+
+<section>
+<h2>Status</h2>
+<p>Test release. The translation was produced with AI assistance and spot-checked, not yet read through by a human editor. The first days were played in PCSX2 without problems; later routes are not fully checked. Reports and fixes are welcome.</p>
+</section>
+
+<section>
+<h2>What you need</h2>
+<ul>
+<li>Your own dump of the disc: eb!Kore+ KimiKiss, serial <strong>SLPS-25850</strong>, 1,267,597,312 bytes, SHA-1 <code>40a70c43ef4c57b8bcdfeab3814437c3eaf4821c</code>. The patch does not work on other editions.</li>
+<li>An xdelta patcher (xdeltaUI, Delta Patcher or <code>xdelta3</code>).</li>
+<li>PCSX2.</li>
+</ul>
+</section>
+
+<section>
+<h2>How to patch</h2>
+<ol>
+<li>Check the SHA-1 of your ISO (<code>certutil -hashfile KimiKiss.iso SHA1</code> on Windows, <code>sha1sum KimiKiss.iso</code> elsewhere).</li>
+<li>Download <code>KimiKiss_EN.xdelta</code>.</li>
+<li>Apply it: source = your ISO, patch = <code>KimiKiss_EN.xdelta</code>, output = <code>KimiKiss_EN.iso</code>.</li>
+<li>Start <code>KimiKiss_EN.iso</code> in PCSX2.</li>
+</ol>
+<p>Building the patch from source and changing the translation are described in the <a href="https://github.com/BrokenMesh/KimiKiss_AI_Translation#readme">README</a> and <a href="https://github.com/BrokenMesh/KimiKiss_AI_Translation/blob/main/HOW_TO_TRANSLATE.md">How to translate</a>.</p>
+</section>
+
+<footer>Unofficial fan project, not affiliated with or endorsed by Enterbrain or any rights holder of KimiKiss. No game data is distributed; you need your own copy of the game.</footer>
+</main>
+</body>
+</html>
