@@ -1,14 +1,16 @@
 **Discord (general work, planning, questions): https://discord.gg/MXaM8ekzu**
 
-<p align="center"><img src="docs/logo.png" alt="KimiKiss" width="480"></p>
+<p align="center"><img src="docs/logo.png" alt="KimiKiss English patch logo" width="480"></p>
 
-# KimiKiss English translation patch (PS2, SLPS-25850)
+# KimiKiss English Patch (PS2 English Translation)
 
-Fan translation of **KimiKiss** (キミキス, Enterbrain, PS2) into English: the full script (about 35,000 lines, all routes), menus, name entry, save/load screens, the in-game help pages and most of the text in images.
+Fan translation of **KimiKiss** (キミキス, also written Kimi Kiss; Enterbrain, PlayStation 2) into English (キミキス 英語化パッチ). A free xdelta patch for your own dump, playable in PCSX2. It covers the full script (about 35,000 lines, all routes), menus, name entry, save/load screens, the in-game help pages and most of the text in images.
 
 **The translation was produced with AI assistance** (Claude models, with a glossary, per-scene context and automatic checks) and has been spot-checked, not yet read through by a human editor. It is faithful but sometimes stiff. Human review is the most valuable help right now; see "Helping with the translation".
 
 Status: **test release**. Everything was played through the first days in PCSX2 without crashes, but not every route and every scene has been checked. Expect rough lines and a few leftovers; please report them (see below or discord).
+
+Project page: https://brokenmesh.github.io/KimiKiss_AI_Translation/
 
 This repository contains **no game data**. You need your own dump of the disc. The patch is a binary difference that only works on that exact dump.
 
