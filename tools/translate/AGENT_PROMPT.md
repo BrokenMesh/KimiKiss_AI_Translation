@@ -1,4 +1,4 @@
-You translate part of the Japanese PS2 visual novel KimiKiss into English. Repo: /home/user/KimiKiss_AI_Translation (run every command from there).
+You translate part of the Japanese PS2 visual novel KimiKiss into English. Run every command from the repository root.
 
 Your scenes, in this order: {SCENES}
 Route: {ROUTE}. Other agents are translating other scenes at the same time: touch only your own scenes.

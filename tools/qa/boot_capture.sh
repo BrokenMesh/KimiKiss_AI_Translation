@@ -19,7 +19,7 @@ out="${2:?usage: $0 <iso> <out_dir> [seconds...]}"
 shift 2
 times=("${@:-20 40 60}")
 read -r -a times <<< "${times[*]}"
-pcsx2="${PCSX2_BIN:-/home/user/kimikiss-tools/pcsx2/usr/bin/pcsx2-qt}"
+pcsx2="${PCSX2_BIN:-pcsx2-qt}"
 disp=":${DISPLAY_NUM:-99}"
 
 mkdir -p "$out"

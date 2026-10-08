@@ -2,7 +2,11 @@
 # Build a patched disc image from the clean ISO.
 #
 # Usage: tools/build/build.sh <clean.iso> <out.iso> [text_dir] [trans_dir]
+#        tools/build/build.sh --text-only <clean.iso>     only extract the Japanese text into text/
+#                                                         (what translators need to run the checks)
 #
+#   out.iso    default build/KimiKiss_EN.iso; a bare name is put in build/. The patch is written next
+#              to it as <out.iso>.xdelta. --no-xdelta (or KIMIKISS_NO_XDELTA=1) skips the patch.
 #   text_dir   Japanese records (default: text/, local, gitignored). May also be a directory that
 #              already carries "translation" fields (a prepared or test directory).
 #   trans_dir  English translation store (default: translation/en, committed). A line there wins
@@ -26,7 +30,7 @@
 #    descriptors.
 # 7. Runs tools/qa/check_iso_udf.py on the result; the build fails if the
 #    ISO9660 and UDF trees disagree or any UDF tag/CRC is invalid.
-# 8. Writes out.iso.xdelta (clean ISO -> out.iso) when xdelta3 is installed, and checks that
+# 8. Writes out.iso.xdelta (clean ISO -> out.iso) unless --no-xdelta, and checks that
 #    applying it to the clean ISO reproduces out.iso byte for byte. The xdelta is the only
 #    artifact meant for distribution (the ISO itself is never published).
 # Output: the steps print one line each; everything else goes to build/build.log, whose tail is
@@ -37,12 +41,35 @@
 set -euo pipefail
 cd "$(dirname "$0")/../.."
 
-iso="${1:?usage: $0 <clean.iso> <out.iso> [text_dir] [trans_dir]}"
-out="${2:?usage: $0 <clean.iso> <out.iso> [text_dir] [trans_dir]}"
-text_dir="${3:-text}"
-trans_dir="${4:-translation/en}"
+text_only=0
+no_xdelta=0
+[[ "${KIMIKISS_NO_XDELTA:-}" == 1 ]] && no_xdelta=1
+args=()
+for a in "$@"; do
+  case "$a" in
+    --text-only) text_only=1 ;;
+    --no-xdelta|KIMIKISS_NO_XDELTA=1) no_xdelta=1 ;;
+    -*|*=*) echo "ERROR: unexpected argument '$a'. Options: --no-xdelta (skip the .xdelta), --text-only." >&2; exit 2 ;;
+    *) args+=("$a") ;;
+  esac
+done
+usage="usage: $0 [--no-xdelta] <clean.iso> [out.iso] [text_dir] [trans_dir]   |   $0 --text-only <clean.iso>"
+iso="${args[0]:?$usage}"
+if (( text_only )); then
+  out=build/unused.iso
+  text_dir="${args[1]:-text}"
+  trans_dir="translation/en"
+else
+  out="${args[1]:-KimiKiss_EN.iso}"
+  text_dir="${args[2]:-text}"
+  trans_dir="${args[3]:-translation/en}"
+  # A bare file name goes into build/, so the ISO and its .xdelta always land together there.
+  case "$out" in */*|*\\*) ;; *) out="build/$out" ;; esac
+  case "$(printf %s "$out" | tr 'A-Z' 'a-z')" in *.iso) ;; *) echo "ERROR: the output name '$out' must end in .iso (a second argument that is not a file name?). $usage" >&2; exit 2 ;; esac
+fi
 work=build/work
-mkdir -p build
+mkdir -p build "$(dirname "$out")"
+rm -f "$out.xdelta"     # never leave a patch from an earlier build next to a new image
 log=build/build.log
 : > "$log"
 
@@ -60,8 +87,8 @@ fi
 
 [[ -f "$iso" ]] || die "source ISO not found: $iso"
 for tool in sha1sum cmp; do command -v "$tool" >/dev/null || die "$tool not found (use Git Bash or WSL on Windows)"; done
-if ! command -v xdelta3 >/dev/null && [[ "${KIMIKISS_NO_XDELTA:-}" != 1 ]]; then
-  die "xdelta3 not found, so no distributable patch can be written. Install it (Linux: apt install xdelta3; Windows: xdelta3 .exe from https://github.com/jmacd/xdelta-gpl/releases, put it on PATH), or set KIMIKISS_NO_XDELTA=1 to build only the ISO."
+if (( ! text_only && ! no_xdelta )) && ! command -v xdelta3 >/dev/null; then
+  die "xdelta3 not found, so no distributable patch can be written. Install it (Linux: apt install xdelta3; Windows: xdelta3 .exe from https://github.com/jmacd/xdelta-gpl/releases, put it on PATH), or add --no-xdelta to build only the ISO."
 fi
 
 # Runs one build step quietly: a title line on screen, the details in build/build.log.
@@ -94,6 +121,10 @@ if [[ ! -d "$text_dir" ]]; then
 else
   step_n=$((step_n + 1))
 fi
+if (( text_only )); then
+  echo; echo "OK: Japanese text is in $text_dir/ (local only; never commit it). Next: python3 tools/qa/check_translation.py $text_dir"
+  exit 0
+fi
 # Merge Japanese (text_dir) with the English store (D-022) and word-wrap (D-021): dialogue and
 # dialog lines get ／ / \n breaks.
 step "merging the translation and word-wrapping" "${PY[@]}" tools/translate/batch.py prepare "$text_dir" "$work/text" --trans "$trans_dir"
@@ -109,7 +140,7 @@ import overrides
 d = overrides.default_dir()
 n = sum(len(v) for v in overrides.find().values())
 print(f'hand-made textures: {n} PNG(s) from {d}' if n else
-      f'hand-made textures: none (put GRAPHn_NNNN.png files in {d}); the release xdelta includes the maintainers set')
+      f'hand-made textures: none found in {d} (the project set is the texture_overrides/ folder of the repository)')
 "
 step "drawing the English font and textures" bash -c '
   set -e
@@ -128,16 +159,21 @@ step "writing the patched disc image" "${PY[@]}" tools/build/iso_patch.py "$iso"
 step "checking the disc structure" "${PY[@]}" tools/qa/check_iso_udf.py "$out"
 
 # The distributable: an xdelta from the clean ISO, verified by applying it.
-if command -v xdelta3 >/dev/null; then
+if (( ! no_xdelta )); then
   step "writing and verifying the xdelta patch" bash -c '
     set -e
-    xdelta3 -e -9 -f -s "$1" "$2" "$2.xdelta"
+    xdelta3 -e -9 -f -A= -s "$1" "$2" "$2.xdelta"
     xdelta3 -d -f -s "$1" "$2.xdelta" "$3/verify.iso"
     cmp "$2" "$3/verify.iso"
     rm -f "$3/verify.iso"' _ "$iso" "$out" "$work"
 fi
 
 echo
-echo "OK: patched image  $out"
-[[ -f "$out.xdelta" ]] && echo "OK: patch for sharing  $out.xdelta ($(stat -c %s "$out.xdelta") bytes; apply it to the original dump)"
+mib() { echo $(( $1 / 1048576 )); }
+echo "OK: created the ISO     $out ($(stat -c %s "$out") bytes, $(mib "$(stat -c %s "$out")") MiB)"
+if [[ -f "$out.xdelta" ]]; then
+  echo "OK: created the patch   $out.xdelta ($(stat -c %s "$out.xdelta") bytes; share this file, never the ISO)"
+else
+  echo "(no .xdelta written: --no-xdelta)"
+fi
 echo "Details: $log"

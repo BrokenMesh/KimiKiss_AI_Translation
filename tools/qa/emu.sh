@@ -17,7 +17,7 @@
 set -euo pipefail
 EMU_DIR="${EMU_DIR:-/tmp/kimikiss-emu}"
 DISPLAY_NUM="${DISPLAY_NUM:-98}"
-PCSX2_BIN="${PCSX2_BIN:-/home/user/kimikiss-tools/pcsx2/usr/bin/pcsx2-qt}"
+PCSX2_BIN="${PCSX2_BIN:-pcsx2-qt}"   # set PCSX2_BIN to the full path if it is not on PATH
 export DISPLAY=":$DISPLAY_NUM" XDG_RUNTIME_DIR="${XDG_RUNTIME_DIR:-/tmp/pcsx2-runtime}"
 mkdir -p "$EMU_DIR" "$XDG_RUNTIME_DIR"; chmod 700 "$XDG_RUNTIME_DIR"
 

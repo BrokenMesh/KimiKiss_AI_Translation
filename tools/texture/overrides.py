@@ -3,10 +3,11 @@
 
 Usage: overrides.py check [overrides_dir] [orig_graph_dir]
 
-Where they live. The PNGs are derived from the game's art, so they stay outside
-the repository, like the ISO (D-001): $KIMIKISS_OVERRIDES, else
+Where they live (D-031). The hand-made PNGs of the project are committed in
+<repo>/texture_overrides/ (they are edited artwork, never the original textures).
+The directory searched is $KIMIKISS_OVERRIDES, else <repo>/texture_overrides, else
 <repo>/../kimikiss-private/texture_overrides (or $KIMIKISS_PRIVATE_DIR/texture_overrides).
-A directory inside the repository is refused unless git ignores it (build/).
+Any other directory inside the repository is refused unless git ignores it (build/).
 
 Names. GRAPH0_0453.png = entry 453 of GRAPH0.ARC, GRAPH1_0058.png = entry 58 of
 GRAPH1.ARC, the names `tools/extract/tim2.py topng` exports use. Every *.png in
@@ -65,11 +66,11 @@ class OverrideError(Exception):
 
 
 def default_dir():
-    """$KIMIKISS_OVERRIDES, else <repo>/texture_overrides (ignored by git), else ../kimikiss-private/texture_overrides."""
+    """$KIMIKISS_OVERRIDES, else <repo>/texture_overrides, else ../kimikiss-private/texture_overrides."""
     d = os.environ.get('KIMIKISS_OVERRIDES')
     if d:
         return d
-    local = os.path.join(REPO, 'texture_overrides')   # git-ignored, next to build.bat
+    local = os.path.join(REPO, 'texture_overrides')   # committed, next to build.bat
     if os.path.isdir(local):
         return local
     private = os.environ.get('KIMIKISS_PRIVATE_DIR') or os.path.join(os.path.dirname(REPO), 'kimikiss-private')
@@ -80,14 +81,16 @@ def _check_outside_repo(directory):
     real = os.path.realpath(directory)
     if os.path.commonpath([real, REPO]) != REPO:
         return
+    if real == os.path.join(REPO, 'texture_overrides'):
+        return   # the project's own hand-made textures (D-031)
     try:
         ignored = subprocess.run(['git', '-C', REPO, 'check-ignore', '-q', real],
                                  stderr=subprocess.DEVNULL).returncode == 0
     except OSError:
         ignored = real.startswith(os.path.join(REPO, 'build') + os.sep)
     if not ignored:
-        raise OverrideError(f'{directory} is inside the repository and not ignored by git: hand-edited textures '
-                            'are game art and must stay outside (default ../kimikiss-private/texture_overrides, '
+        raise OverrideError(f'{directory} is inside the repository and not ignored by git: textures other than '
+                            'the project\'s texture_overrides/ must stay outside (default ../kimikiss-private/texture_overrides, '
                             'or set KIMIKISS_OVERRIDES)')
 
 

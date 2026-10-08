@@ -1,10 +1,11 @@
 @echo off
 rem Windows entry point for tools\build\build.sh (needs Git for Windows, Python 3, xdelta3; see docs\GETTING_STARTED.md).
-rem Usage: build.bat "C:\path\to\KimiKiss dump.iso" [output.iso]
+rem Usage: build.bat "C:\path\to\KimiKiss dump.iso" [output.iso] [--no-xdelta]
+rem Output: build\KimiKiss_EN.iso and build\KimiKiss_EN.iso.xdelta (a bare output name goes into build\).
 setlocal
 cd /d "%~dp0"
 if "%~1"=="" (
-  echo Usage: build.bat "C:\path\to\KimiKiss dump.iso" [output.iso]
+  echo Usage: build.bat "C:\path\to\KimiKiss dump.iso" [output.iso] [--no-xdelta]
   exit /b 2
 )
 set "GITBASH="
@@ -15,7 +16,5 @@ if not defined GITBASH (
   echo Git for Windows was not found. Install it from https://git-scm.com/download/win and run this again.
   exit /b 1
 )
-set "OUT=%~2"
-if "%OUT%"=="" set "OUT=build/KimiKiss_EN.iso"
-"%GITBASH%" tools/build/build.sh "%~1" "%OUT%"
+"%GITBASH%" tools/build/build.sh %*
 exit /b %ERRORLEVEL%
