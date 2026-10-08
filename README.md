@@ -8,7 +8,7 @@ Fan translation of **KimiKiss** (キミキス, Enterbrain, PS2) into English: th
 
 **The translation was produced with AI assistance** (Claude models, with a glossary, per-scene context and automatic checks) and has been spot-checked, not yet read through by a human editor. It is faithful but sometimes stiff. Human review is the most valuable help right now; see "Helping with the translation".
 
-Status: **test release**. Everything was played through the first days in PCSX2 without crashes, but not every route and every scene has been checked. Expect rough lines and a few leftovers; please report them (see below).
+Status: **test release**. Everything was played through the first days in PCSX2 without crashes, but not every route and every scene has been checked. Expect rough lines and a few leftovers; please report them (see below or discord).
 
 This repository contains **no game data**. You need your own dump of the disc. The patch is a binary difference that only works on that exact dump.
 
