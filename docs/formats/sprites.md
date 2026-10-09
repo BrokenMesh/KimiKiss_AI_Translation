@@ -16,7 +16,7 @@ The size at which a script `Sprite` is drawn comes from a table in the executabl
 | 20 | f32 | h: height, also the height on screen |
 | 24 | u32 | `0x100` or `0x101` |
 | 28 | u32 | 0..3 (unknown; 3 for `kaiwa/` records) |
-| 32 | u32 | `0xffffffff`, or 0 for records with a texture offset |
+| 32 | u32 | `0xffffffff`, or 0 for some records with non-zero x, y |
 
 - The texture is looked up by the name plus `.tm2` (hash in [arc.md](arc.md)).
 - The quad is centred on the position given to `setPos:`. Checked in PCSX2 with record 121 (`menu_set2`, the settings label "Rumble" at x 412):
