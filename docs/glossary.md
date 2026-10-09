@@ -23,7 +23,7 @@ Counts are occurrences in `text/*.json` after removing `{..}` codes and `／`; t
 - Stammer: initial letter + hyphen, one repeat ("S-sorry", "I-it's"), only where the Japanese repeats the sound. `{W n}` splits are timing, not stammer.
 - Speech in straight double quotes, thoughts in (parentheses), narration bare. Use "?!" for exclamation-question marks, never more than two marks in a row.
 - School terms: school festival, Topic Bag, Discipline Committee, Library Committee, Year 1/2/3, Class 2-A, Infirmary, Schoolyard, Gym.
-- Tabs and labels follow `labels.tsv` ("Back Lot"); prose may say "behind the school".
+- Tabs and labels follow `textures.toml` ("Back Lot"); prose may say "behind the school".
 - Mao's surname is printed 水〆 in the text; write Mizusawa.
 - Speaker plates are fixed (section 2); do not repeat the speaker's name in the line. Plates are at most 115 px.
 - Credits are not translated: `StaffRoll` and the `GUN_PRO` credit rows are `translate: false` in `limits.json`. The player-name "and" line stays translatable.
@@ -51,14 +51,14 @@ Counts are occurrences in `text/*.json` after removing `{..}` codes and `／`; t
 
 | id | topic | decision | evidence |
 |---|---|---|---|
-| D1 | Name order | **Family-given** everywhere a full name is printed ("Sakino Asuka", "Futami Eriko", "Satonaka Narumi"). Full names are rare (introductions), so this costs no extra effort. The seven name plates in `labels.tsv` (entries 72, 128, 180, 233, 292, 487, 539) are family-given and the name-entry screen is surname first ({Nm} then {Nn}). Spoken address is nearly always a bare surname or given name (D3). | Surname+san appears 2,432 times; a full name only in introductions (ASU_DEA:126, ERI_DEA:34, MIT_DEA:77, NAR_DEA:61, MEG_DEA:46-47). |
+| D1 | Name order | **Family-given** everywhere a full name is printed ("Sakino Asuka", "Futami Eriko", "Satonaka Narumi"). Full names are rare (introductions), so this costs no extra effort. The seven name plates in `textures.toml` (entries 72, 128, 180, 233, 292, 487, 539) are family-given and the name-entry screen is surname first ({Nm} then {Nn}). Spoken address is nearly always a bare surname or given name (D3). | Surname+san appears 2,432 times; a full name only in introductions (ASU_DEA:126, ERI_DEA:34, MIT_DEA:77, NAR_DEA:61, MEG_DEA:46-47). |
 | D2 | Romanization rule | **Hepburn, ASCII only, long vowels spelled as the kana, the way the English anime database (MyAnimeList) spells them: おう/おお -> ou/oo, うう -> uu, えい -> ei.** Results: Shijou, Yuumi, Kuryuu, Kouichi; names without a long vowel stay Mao, Eriko, Narumi, Asuka, Nana. No macrons, because the English font is ASCII only (D-012). The default player name is **Aihara Kouichi** (this replaces the shorter D-016 default): `GameParam:166` Aihara, `GameParam:167` Kouichi, `K2_Script:13` Aihara. | Rubies in text: しじょう, ゆうみ, くりゅう. MyAnimeList: Yuumi Hoshino, Mitsuki Shijou, Megumi Kuryuu, Kouichi Sanada. Manga volume title "Mitsuki Shijyo" shows publishers vary. |
 | D3 | Honorifics | **Omitted**, as in most anime subtitles. Name + さん/君/ちゃん/様 -> the bare name. 先生 attached to a name -> "Mr. <surname>" or "Ms. <surname>" by the character's sex (Kawada: "Ms. Kawada"). A standalone 先生 used as a form of address may stay "Sensei". Name + 先輩 -> the bare name. Everything else follows D5. | Counts: surname+さん 2,432; ちゃん 1,906; 君 991 (892 as {Nm}君); 先輩 797; 先生 314. Bare names are also cheaper in the 552 px lines. |
-| D4 | Megumi / Megumu | **Kuryuu Megumu.** Translate the gag as written: the player reads her name as Megumi, she answers "It's Megumu, not Megumi!" (MEG_DEA:46-67, MEG_KIS_A:37). Translate, do not localize. | Ruby on 恵 is めぐむ in her own line (MEG_DEA:47); the ja.wikipedia entry says she calls herself めぐむ because she dislikes the registered めぐみ. `labels.tsv` entry 72 said "Kuriu Megumi" and now says "Kuryuu Megumu". |
+| D4 | Megumi / Megumu | **Kuryuu Megumu.** Translate the gag as written: the player reads her name as Megumi, she answers "It's Megumu, not Megumi!" (MEG_DEA:46-67, MEG_KIS_A:37). Translate, do not localize. | Ruby on 恵 is めぐむ in her own line (MEG_DEA:47); the ja.wikipedia entry says she calls herself めぐむ because she dislikes the registered めぐみ. `textures.toml` entry 72 said "Kuriu Megumi" and now says "Kuryuu Megumu". |
 | D5 | Special address forms | Keep only the forms that fit English and that anime subtitles commonly keep. ご主人様 -> **Master** (Mitsuki, 201 of 242 uses). Narumi's standalone 先輩 -> **Senpai**. 摩央姉ちゃん -> **Mao** ("Mao-nee" is too foreign; 627 uses by the player); a bare 姉ちゃん -> "sis" only where the line needs it. お兄ちゃん (Nana, 375) -> "big brother" in prose and **Big Bro** as a direct address. トモちゃん -> **Tomo** (Mao's nickname for Kawada, who objects). Other nicknames keep the name part and drop the suffix (Naru, Mana, Rukko, Eri). Eriko and Hiiragi call the player by bare {Nm}; Mao by bare {Nn} (264). | `{Nm}`/`{Nn}` are patched slots (8 + 8 characters, D-016), so bare names are cheap. |
 | D6 | Sound effects, laughs, tilde | **Translate to English interjections** (table below). Romanized Japanese SFX only for the two signature laughs, "Ehehe" and "Fufu". Narration onomatopoeia becomes English words (Thud, Crash). Tilde ～ (3,874 uses): drop by default, keep a trailing "~" only for Mao, Nana and Narumi when the line is playful; stretch a vowel ("Sooo") only for emphasis. | フフ(ッ) 633 uses, エヘヘ 231, クスッ 207. |
 | D7 | Ellipsis, stammer, quotes | **Ellipsis:** "..." for … (15,627 uses) and "......" for …… (824). **Stammer:** initial letter + hyphen, one repeat ("S-sorry", "I-it's"), only where the Japanese has そ、そんな style repeats (about 1,800 lines, PLY and YUM most). **Speech** in straight double quotes (「」 -> "..."), **thoughts** in parentheses as in the Japanese (（） -> (...)), narration bare. Keep ?! and !? as "?!"; never stack more than two marks. {W..} waits and voice codes stay where the text allows. | The `{W n}` splits inside words (`見{W2}る{W2}か{W2}ら`) are voice timing, not stammering; do not render them as hyphens. |
-| D8 | School and game terms | **school festival**, **Topic Bag** (labels entry 319; not "deck"), **Discipline Committee** (風紀委員), **Library Committee**, **Year 1/2/3** and **Class 2-A** (2年A組), **Infirmary**, **Schoolyard**, **Gym**. Tab texts stay as in `labels.tsv`; prose may use the longer natural phrase ("behind the school" for 校舎裏, which is "Back Lot" on the tab). | See section 3. |
+| D8 | School and game terms | **school festival**, **Topic Bag** (labels entry 319; not "deck"), **Discipline Committee** (風紀委員), **Library Committee**, **Year 1/2/3** and **Class 2-A** (2年A組), **Infirmary**, **Schoolyard**, **Gym**. Tab texts stay as in `textures.toml`; prose may use the longer natural phrase ("behind the school" for 校舎裏, which is "Back Lot" on the tab). | See section 3. |
 | D9 | Speaker plates | **Surname plates as in the original** (Nana and Gunpei are given names, like the original; KEI's plate is the role, Officer). The indent after a plate is **raised to 5 cells = 115 px and line 1 starts at that column** (script patches `Parson.message1.asm` and `TextWindow.output0.asm`, D-023). A plate must measure at most 115 px with `tools/font/en_widths.json` at scale 1.0. The only surname that does not fit is Kobayakawa (138 px), so MIC uses the given name **Michi** (58 px). Widest plates: Mizusawa 107 px, Satonaka 100 px. The final plate for every slot is in the plate table in section 2. EX1, EX2 and ETC: check in emulator. | Plates are the K2_Script labels (section 2). |
 | D10 | Credits and dev memos | **Credits stay in Japanese.** `tools/reinsert/limits.json` has `translate: false` (note "credits stay Japanese, glossary D10") for 144 `StaffRoll` records (every record except `StaffRoll:23`, the player-name "and" line, and `StaffRoll:25`, a blank spacer line, which stay translatable) and for the 91 credit rows `GUN_PRO:29` to `GUN_PRO:119` (all staff, cast and music credits inside the GUN_PRO scene). **Dev memos** (about 35 lines in MAO_PRO, ERI_PRO, YUM_KIS_A, ASU_PRO, NAR_KIS_A such as "LV2 kiss, all outfits, with or without mob") are not story text: translate literally, last priority. | Credits contain misprints (水〆 for 水澤, 池〆 for 池澤, 明日夏 for 明日香) that stay as they are. |
 | D11 | Tone per heroine | See the table below. | Counts from the speaker lines. |
@@ -178,25 +178,25 @@ Japanese form with its count, then the English that results (honorifics omitted,
 
 ### Name forms table
 
-| JA | EN | n (unique) | labels.tsv | note |
+| JA | EN | n (unique) | textures.toml | note |
 |---|---|---:|---|---|
 | 摩央 | Mao | 667 (578) |  | given name; the player says 摩央姉ちゃん, written just "Mao" (D5) |
 | 二見 | Futami | 623 (481) |  | ruby ふたみ |
 | 星乃 | Hoshino | 603 (521) |  | Yuumi's family name; K2 plate 星　乃 -> Hoshino |
 | なるみ | Narumi | 593 (497) |  | given name; なるみちゃん is written "Narumi" (D3) |
-| 祇条 | Shijou | 565 (472) |  | ruby しじょう; labels.tsv entry 233 now 'Shijou Mitsuki' (was 'Gijo Mizuki') |
+| 祇条 | Shijou | 565 (472) |  | ruby しじょう; textures.toml entry 233 now 'Shijou Mitsuki' (was 'Gijo Mizuki') |
 | 咲野 | Sakino | 535 (448) |  | ruby さきの |
 | 菜々 | Nana | 444 (400) | Nana | little sister; family name is the player's surname {Nm} |
-| 栗生 | Kuryuu | 178 (152) |  | ruby くりゅう; labels.tsv entry 72 now 'Kuryuu Megumu' (was 'Kuriu Megumi') |
+| 栗生 | Kuryuu | 178 (152) |  | ruby くりゅう; textures.toml entry 72 now 'Kuryuu Megumu' (was 'Kuriu Megumi') |
 | 川田 | Kawada | 136 (120) |  | teacher; reading かわだ from ja.wikipedia (no ruby in text) |
 | 柊 | Hiiragi | 82 (74) |  | ruby ひいらぎ; called bare 柊 by the player and Eriko |
 | 水〆 | Mizusawa | 37 (35) |  | in-game spelling of 水澤 (〆 stands in for the missing glyph) |
 | 瑛理 | Eri | 35 (33) |  | short form: 瑛理ちゃん (classmates), えりちゃん (her mother); suffix dropped |
-| 深月 | Mitsuki | 33 (28) |  | given name, ruby みつき; labels.tsv entry 233 was 'Mizuki' (wrong) |
+| 深月 | Mitsuki | 33 (28) |  | given name, ruby みつき; textures.toml entry 233 was 'Mizuki' (wrong) |
 | 瑛理子 | Eriko | 31 (29) |  | given name, ruby えりこ |
 | 明日夏 | Asuka | 30 (30) |  | given name, ruby あすか (the credits misprint 明日香) |
 | 里仲 | Satonaka | 26 (22) |  | Narumi's and Gunpei's family name; ruby さとなか (shop 里なか is the same name) |
-| 結美 | Yuumi | 22 (22) |  | given name, ruby ゆうみ (YUM_DEA); labels.tsv entry 539 now 'Hoshino Yuumi' (was 'Yumi') |
+| 結美 | Yuumi | 22 (22) |  | given name, ruby ゆうみ (YUM_DEA); textures.toml entry 539 now 'Hoshino Yuumi' (was 'Yumi') |
 | 愛美 | Manami | 8 (5) |  | nickname まなちゃん used by Narumi, written "Mana" |
 | めぐみ | Megumi | 7 (7) |  | the misreading everyone makes; kept as the gag (D4) |
 | 明良 | Akira | 6 (6) |  | given name, ruby あきら |
@@ -220,7 +220,7 @@ Japanese form with its count, then the English that results (honorifics omitted,
 
 ### Places
 
-| JA | EN | n (unique) | labels.tsv | note |
+| JA | EN | n (unique) | textures.toml | note |
 |---|---|---:|---|---|
 | プール | Pool | 138 (123) | Pool | labels: Pool |
 | 教室 | classroom | 116 (113) |  |  |
@@ -262,7 +262,7 @@ Japanese form with its count, then the English that results (honorifics omitted,
 
 ### School terms and game terms
 
-| JA | EN | n (unique) | labels.tsv | note |
+| JA | EN | n (unique) | textures.toml | note |
 |---|---|---:|---|---|
 | 先輩 | Senpai | 797 (660) |  | Narumi's standalone address for the player: "Senpai" (D5). After a name (明日夏先輩, {Nm}先輩) the suffix is dropped (D3) |
 | 先生 | teacher | 314 (287) | Teacher | after a name "Mr."/"Ms." + surname (D3); standalone address may be "Sensei"; common noun "teacher"; labels topic: Teacher |
@@ -323,15 +323,15 @@ Japanese form with its count, then the English that results (honorifics omitted,
 | テンション | Tension | 1 (1) |  | dev label |
 | リンゴ | Ringo | 1 (1) |  | Mitsuki's family dog |
 
-**Topic names.** The 44 topic names in `WadaiTable` (世間話 ... カミカゼ) all have a label in `labels.tsv` and the English already agrees (Small Talk, Clubs, Uniform, Committee, Rules, Teacher, Transfer, Home Study, Grades, Exams, Italian, P.E., Swimming, Sports, Dance, Music, Video, Reading, Shopping, Fashion, Accessories, Makeup, Swimsuit, Meal, Sweets, Drinks, Cooking, Udon, Junk Food, Health, Diet, Body, Love, Private, Naughty, Future, Past, Praise, Gaze, Smile, Act Cool, Hold Hands, Kamikaze). Without a label: ハズレ (WadaiTable 0.0.0, proposed **Miss**) and the six attribute words 平凡 / 真面目 / 活発 / エッチ / 食い道楽 / おしゃれ (proposed **Ordinary / Serious / Lively / Naughty / Foodie / Stylish**; only Naughty and Stylish are labelled). `docs/phase-4-system-text.md` says the topic icons are graphics, so these strings may never be shown.
+**Topic names.** The 44 topic names in `WadaiTable` (世間話 ... カミカゼ) all have a label in `textures.toml` and the English already agrees (Small Talk, Clubs, Uniform, Committee, Rules, Teacher, Transfer, Home Study, Grades, Exams, Italian, P.E., Swimming, Sports, Dance, Music, Video, Reading, Shopping, Fashion, Accessories, Makeup, Swimsuit, Meal, Sweets, Drinks, Cooking, Udon, Junk Food, Health, Diet, Body, Love, Private, Naughty, Future, Past, Praise, Gaze, Smile, Act Cool, Hold Hands, Kamikaze). Without a label: ハズレ (WadaiTable 0.0.0, proposed **Miss**) and the six attribute words 平凡 / 真面目 / 活発 / エッチ / 食い道楽 / おしゃれ (proposed **Ordinary / Serious / Lively / Naughty / Foodie / Stylish**; only Naughty and Stylish are labelled). `docs/phase-4-system-text.md` says the topic icons are graphics, so these strings may never be shown.
 
-### Conflicts and checks against `labels.tsv`
+### Conflicts and checks against `textures.toml`
 
 | entry | label before | label now (glossary) | verdict |
 |---|---|---|---|
-| 233 祇条 深月 | Gijo Mizuki | **Shijou Mitsuki** | Fixed in `labels.tsv`: wrong reading (しじょう みつき from ruby). Texture to redraw. |
-| 72 栗生 恵 | Kuriu Megumi | **Kuryuu Megumu** | Fixed in `labels.tsv`: wrong (くりゅう めぐむ). D4. Texture to redraw. |
-| 539 星乃 結美 | Hoshino Yumi | **Hoshino Yuumi** | Fixed in `labels.tsv` (D2). Texture to redraw. |
+| 233 祇条 深月 | Gijo Mizuki | **Shijou Mitsuki** | Fixed in `textures.toml`: wrong reading (しじょう みつき from ruby). Texture to redraw. |
+| 72 栗生 恵 | Kuriu Megumi | **Kuryuu Megumu** | Fixed in `textures.toml`: wrong (くりゅう めぐむ). D4. Texture to redraw. |
+| 539 星乃 結美 | Hoshino Yumi | **Hoshino Yuumi** | Fixed in `textures.toml` (D2). Texture to redraw. |
 | 128 / 180 / 292 / 487 | Futami Eriko, Satonaka Narumi, Mizusawa Mao, Sakino Asuka | same | OK for D1 = family-given and D2. |
 | 16 / 429 菜々 | Nana (REVIEW) | Nana | OK; REVIEW cleared (her surname is the player's {Nm}). |
 | 2 校舎裏 | Back Lot (REVIEW) | tab "Back Lot", prose "behind the school" | Compatible (D8). |

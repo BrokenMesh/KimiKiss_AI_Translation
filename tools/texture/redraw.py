@@ -1,36 +1,18 @@
 #!/usr/bin/env python3
 """Replace the Japanese text in GRAPH0.ARC textures with English (D-019).
 
-Usage: redraw.py <GRAPH0.ARC> <out_dir> [--preview DIR] [--debug] [--only N,N,...]
+Usage: redraw.py <orig GRAPH/GRAPH0.ARC> <out_dir> [--preview DIR] [--debug] [--only N,N,...]
 
-For every label in labels.tsv the original TIM2 entry is decoded, the Japanese
+For every texture of translation/textures.toml the original TIM2 entry is decoded, the Japanese
 text is erased, the English text is drawn in the same style and the picture is
 re-quantized to the texture's own palette. Palette, size and every pixel
 outside the text boxes stay as they were, so the new TIM2 has the same length
 and the ARC offsets do not move.
 
-Inputs (both tracked, neither contains image data):
-  labels.tsv  entry, japanese, english, notes. "|" in english is a line break.
-              Several rows with the same entry are the lines of one texture,
-              in the order of layout.tsv's `line` column.
-  layout.tsv  entry, line, bg, box, align, opts. Only needed when the label
-              is not plain text on a transparent background filling the whole
-              texture.
-                bg    how the background is told from the text, a comma list of
-                      T (alpha 0), mode (the most frequent colour in the box),
-                      ring (the colours that make up the box's outline) and
-                      rgb:RRGGBB (one palette colour), e.g. "mode,T".
-                box   x0,y0,x1,y1 (end exclusive): the area the old text sits
-                      in and the new text may use. "auto": the whole
-                      texture, or for bg=mode the bounding box of the
-                      background colour (a button's interior).
-                align t (centre on the old text), c (centre of the box).
-                opts  key=value;... : font (Inter weight), smax (largest size
-                      in px), xmin/xmax (clip the auto box), fill=RRGGBB (force
-                      the fill colour), outline=RRGGBB,.. (ring colours, fill
-                      outwards), rings=N (at most N outline rings), squeeze=F (narrowest horizontal
-                      squeeze, default 0.85; 1 = never squeeze),
-                      style=plain|outline|shadow, shadow=dx,dy.
+Input: translation/textures.toml (tracked, no image data; format at the top of
+the file, read by texdefs.py). Each line has a box (where the old text is and the
+new may go), a background rule (how the text is told from the background), an
+alignment and optional style settings.
 
 Method: the pixels in the box that are not background are the old text.
 Their style is read from the palette colours: the colour of the thickest part
@@ -74,33 +56,11 @@ def font_file(weight):
     raise SystemExit(f'Inter-{weight}.otf not found (set INTER_DIR)')
 
 
-def read_tsv(path):
-    rows, head = [], None
-    for line in open(path, encoding='utf-8').read().split('\n'):
-        if not line or line.startswith('#'):
-            continue
-        cols = line.split('\t')
-        if head is None:
-            head = cols
-            continue
-        cols += [''] * (len(head) - len(cols))
-        rows.append(dict(zip(head, cols)))
-    return rows
-
-
-def load_labels(path=os.path.join(HERE, 'labels.tsv'), layout=os.path.join(HERE, 'layout.tsv')):
-    """-> {entry: [line dict]} with labels joined to their layout."""
-    lay = {(int(r['entry']), int(r['line'])): r for r in read_tsv(layout)}
-    out = {}
-    for r in read_tsv(path):
-        e = int(r['entry'])
-        n = len(out.setdefault(e, []))
-        l = lay.get((e, n), {})
-        opts = dict(kv.split('=', 1) for kv in l.get('opts', '').split(';') if kv)
-        out[e].append({'entry': e, 'line': n, 'japanese': r['japanese'], 'english': r['english'],
-                       'notes': r['notes'], 'bg': l.get('bg', 'T'), 'box': l.get('box', 'auto'),
-                       'align': l.get('align', 't') or 't', 'opts': opts})
-    return out
+def load_labels(path=None):
+    """-> {entry: [line dict]} from translation/textures.toml (texdefs.py)."""
+    import texdefs
+    d = texdefs.load(path) if path else texdefs.load()
+    return {e: t['lines'] for e, t in d['textures'].items()}
 
 
 # ---------------------------------------------------------------- bitmap helpers
@@ -470,10 +430,12 @@ def draw_text(tex, box, idx_sub, info, line, report):
     report.update(size=size, squeeze=round(sq, 2), weight=weight, outline=depth,
                   shadow=sh and sh[:2])
     cx = (x0 + (tb[0] + tb[2]) / 2) if line['align'] == 't' else (x0 + x1) / 2
-    cy = y0 + (fb[1] + fb[3]) / 2 if line['align'] == 't' else (y0 + y1) / 2
+    cy = y0 + (fb[1] + fb[3]) / 2 if line['align'] in 'tl' else (y0 + y1) / 2
     cap = size * CAP
     base_y = cy + cap / 2 - (len(lines) - 1) * pitch / 2
     ox = int(round(cx - (ink[0] + ink[2]) / 2))
+    if line['align'] == 'l':                   # ink starts at the box's left edge (after outline/shadow room)
+        ox = x0 + pl + 1 - ink[0]
     oy = int(round(base_y - base0))
     ox = min(max(ox, x0 + pl + 1 - ink[0]), x1 - pr - 1 - ink[2])
     oy = min(max(oy, y0 + pt - ink[1]), y1 - pb - ink[3])
@@ -555,16 +517,29 @@ def redraw_texture(blob, lines, debug=None):
 
 # ---------------------------------------------------------------- driver
 
-def redraw_arc(arc_data, entries=None, preview=None, debug=False, skip=()):
-    """-> ({entry: new TIM2 bytes}, [reports]); entries in `skip` (hand-made overrides) are left out."""
-    labels = load_labels()
+def redraw_arc(arc_data, entries=None, preview=None, debug=False, skip=(), defs=None):
+    """-> ({entry: new TIM2 bytes}, [reports]); entries in `skip` (hand-made overrides) are left out.
+
+    arc_data must already have the larger canvases of defs['sprites'] (sprites.grow_archive).
+    """
+    import texdefs
+    defs = defs or texdefs.load()
     a = arc.parse(arc_data)
     new, reports = {}, []
-    for e, lines in sorted(labels.items()):
+    for e, t in sorted(defs['textures'].items()):
+        lines = t['lines']
         if (entries and e not in entries) or e in skip:
             continue
+        if e >= a['count']:
+            raise texdefs.TexDefError(f'texture {e}: GRAPH0 has {a["count"]} entries')
         ent = a['entries'][e]
         blob = arc_data[ent['offset']:ent['offset'] + ent['size']]
+        if blob[:4] != b'TIM2':
+            raise texdefs.TexDefError(f'texture {e}: not a TIM2 texture')
+        tt = tim2.parse(blob)
+        if t['size'] and tuple(t['size']) != (tt['w'], tt['h']):
+            raise texdefs.TexDefError(f'texture {e}: size = {list(t["size"])} in textures.toml, the texture is '
+                                      f'[{tt["w"]}, {tt["h"]}] (a [[sprite]] block changes it); fix `size` and the boxes')
         dbg = [] if debug else None
         out, rep = redraw_texture(blob, lines, dbg)
         new[e] = out
@@ -635,7 +610,14 @@ def main():
         sys.exit(__doc__)
     src, out_dir = args
     only = {int(v) for v in opts['--only'].split(',')} if opts['--only'] else None
-    new, reports = redraw_arc(open(src, 'rb').read(), only, opts['--preview'], debug)
+    import sprites
+    import texdefs
+    defs = texdefs.load()
+    data = open(src, 'rb').read()
+    if defs['sprites']:                         # larger canvases need the executable next to GRAPH/
+        elf = open(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(src))), 'SLPS_258.50'), 'rb').read()
+        data = sprites.grow_archive(data, sprites.resolve(elf, data, defs['sprites'])[0])
+    new, reports = redraw_arc(data, only, opts['--preview'], debug, defs=defs)
     if opts['--preview']:
         make_sheets(opts['--preview'])
     os.makedirs(out_dir, exist_ok=True)

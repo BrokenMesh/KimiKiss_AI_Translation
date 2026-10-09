@@ -261,3 +261,33 @@ Full English build (`build/full_en.iso`) in PCSX2, 2026-10-07: new game, prologu
 - **Alternatives not taken:** only lowering the top margin (to 10) would also centre the block but leaves 14 px at the edges; only lowering the pitch to 36 would crowd the lines.
 - **Tests:** `test_patches_jp.py` compares `putChar:`/`output` between the original and the patched scripts; it now pins `marginY`/`pitchY` to the original values so that comparison is not affected by this intended change.
 - **Verified** in PCSX2 v2.9.108 with three 3-line boxes ("Oh, so your grandpa eats hamburger steak too.", "Senpai, I don't really get what you're talking about...", "Oh, it's almost time for class. I'll be going now, Senpai."): equal space above and below, no overlap. Release patch regenerated and checked with `xdelta3 -d` + `cmp`.
+
+## D-035: Texture text in one readable file; sprites can be made larger
+
+- **Report (Discord tester):** the settings panel was not uniform. "BGM" kept the original thin Latin art, "Rumble" and "Wall paper" were squeezed into 40 x 32 (hand-drawn at 10 px), "Text Speed" and "Voice" were bold with an outline. Cause: the labels are separate textures of 40 or 80 px, and the redraw had to fit the English into those sizes.
+- **Can a picture be larger on screen?** Yes, for textures drawn through the executable's sprite table. Found:
+  - `Sprite new: id, ...` (script) draws record `id` of a 152-record table at `0x001df1f0` in `SLPS_258.50`. Each record holds a name pattern, a u, v, w, h rectangle, and flags. The on-screen size is the record's w x h, not the TIM2 size: in PCSX2, an 80-px texture in the 40-px Rumble record was cut to "Text S".
+  - With the record set to 80, the whole texture showed, centred on the old centre (x 412).
+  - The archive's name hash is `h = c0; h = h*0x3FAD + c` over `"<name>.tm2"` (`0x00176ea0`). With it, 490 of the 551 GRAPH0 entries get their name from the strings in the executable. For example, Rumble is `sysgraph/menu_set2`, record 121, entry 459. Format: `docs/formats/sprites.md`.
+  - `LoadGraph0` allocates each entry from the ARC directory, so entries may change length. In PCSX2, a GRAPH0 with longer entries (offsets moved) loads and runs.
+- **How:** a `[[sprite]]` block (record name, new size) in `translation/textures.toml`. The build:
+  1. pads every texture of that record to the new size around its centre (the old picture stays in place on screen; the new room is on each side);
+  2. repacks `GRAPH0.ARC` with the new lengths; hashes, buckets and entry order are kept;
+  3. writes the new w, h into the record (`elf_patch.py`, `tools/texture/sprites.py`).
+
+  A record is refused if it takes part of a larger texture (u, v not 0) or if several records share its name. A number pattern (`icon_wadai/it%03d`) resizes every texture of the family. Scripts are not changed. Moving a sprite would need a `setPos:` patch per call site; centred growth plus a box inside the larger canvas covers the label cases.
+- **Readable source:** `tools/texture/labels.tsv` and `layout.tsv` are replaced by `translation/textures.toml`, read by `tools/texture/texdefs.py`.
+  - The file has one `[[texture]]` block per texture (entry, name, size, note) with one `[[texture.line]]` per text (`japanese`, `english`, optional `box`, `background`, `align`, `font`, `max_size`, ...).
+  - It is sorted by name, under section headings by screen (topic names, map tags, settings panel, ...). The format is documented at the top of the file.
+  - Options have names instead of codes: `background = ["commonest"]` for `mode`, `"transparent"` for `T`, colours as `"#ffbd65"`. A line break is `\n`.
+  - Unknown keys, bad values, a `size` that does not match the texture and a `name` that does not hash to the entry are errors.
+  - The conversion produced byte-identical `GRAPH0.ARC`/`PAC` to the previous build. New option: `align = "left"` (text starts at the box's left edge).
+- **Settings panel (first use):**
+  - Records menu_set2/3/4/8/9 (Rumble, Voice, BGM, Wallpaper, Text Speed) grow to 120 x 32, which gives 80 px from the common left edge (Text Speed: 100 px).
+  - menu_set6/7 (Yes, None) grow to 64 x 32.
+  - All rows, the values and "Reset to Default" are drawn left-aligned (values centred) in Inter SemiBold 16 px with a 1-px shadow, the original white-on-dark style; nothing is squeezed. BGM is now redrawn too, as "BGM".
+  - "Wall paper" is now "Wallpaper" on one line.
+  - The hand-drawn `texture_overrides/GRAPH0_0459.png` and `GRAPH0_0351.png` (40 x 32) are removed; they remain in git history. An override of a larger sprite must have the larger size; `sprites.py export <entry> <png>` writes the template.
+  - Verified in PCSX2 (Rumble toggled Yes/None).
+- **Cost:** `GRAPH0.ARC` grows by 11.5 KB, so `iso_patch.py` relocates it to the free sectors after the last file. The xdelta grows from 2.92 MB to 4.17 MB, because xdelta3 does not match data that moved about 1.2 GB.
+- **Tests:** `test_graph0_textures.py` checks the padding (cropping gives the original), hashes and buckets, names and sizes. `test_graph_overrides.py` reads each built directory and checks that an old-size PNG for a larger sprite is refused.

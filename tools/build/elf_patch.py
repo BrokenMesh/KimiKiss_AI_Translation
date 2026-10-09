@@ -4,6 +4,10 @@
   elf_patch.py <clean SLPS_258.50> <out SLPS_258.50> [patch_dir]
   elf_patch.py --assemble [patch_dir]     regenerate each patch's "hex" from its .s (needs llvm-mc)
 
+Then the [[sprite]] blocks of translation/textures.toml (D-035) are written into the
+sprite table (tools/texture/sprites.py; the original GRAPH/GRAPH0.ARC next to the clean
+executable is read to check them).
+
 patch_dir/patches.json lists {name, vaddr, size, orig_sha1, source, hex}. A patch replaces
 `size` bytes at `vaddr`; the original bytes there must hash to `orig_sha1`, so a patch never
 lands on a different executable. The new code is padded with nops to `size`. The file size
@@ -67,7 +71,26 @@ def main():
             sys.exit(f"error: {p['name']}: bad code length {len(code)}")
         elf[off:off + size] = code + NOP * ((size - len(code)) // 4)
         print(f"{p['name']}: {vaddr:#010x} {len(code)}/{size} bytes")
+    sprite_sizes(src, elf)
     open(out, 'wb').write(elf)
+
+
+def sprite_sizes(src, elf):
+    """Larger sprite canvases from translation/textures.toml (D-035)."""
+    sys.path[:0] = [os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'texture')]
+    import sprites
+    import texdefs
+    try:
+        wanted = texdefs.load()['sprites']
+        if not wanted:
+            return
+        graph0 = os.path.join(os.path.dirname(os.path.abspath(src)), 'GRAPH', 'GRAPH0.ARC')
+        _, records = sprites.resolve(bytes(elf), open(graph0, 'rb').read(), wanted)
+        sprites.patch_elf(elf, records)
+    except (texdefs.TexDefError, sprites.SpriteError) as e:
+        sys.exit(f'error: {e}')
+    for r, (w, h) in records:
+        print(f"sprite {r['id']} {r['name']}: {r['w']:g} x {r['h']:g} -> {w} x {h}")
 
 
 if __name__ == '__main__':

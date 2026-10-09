@@ -2,17 +2,21 @@
 """Rebuild GRAPH0.ARC/PAC with the English font and the redrawn textures (D-019).
 
 Usage: apply_graph0.py <orig GRAPH0.ARC> <out GRAPH0.ARC> <out GRAPH0.PAC>
-                       [--no-textures] [--overrides DIR] [--report report.json]
+                       [--no-textures] [--overrides DIR] [--report report.json] [--elf SLPS_258.50]
 
 One pass over the original archive:
+  * the textures of every [[sprite]] block of translation/textures.toml are
+    padded to their larger canvas (sprites.py, D-035); the archive is repacked
+    with the new entry lengths. --elf names the original executable (default:
+    SLPS_258.50 next to the GRAPH directory), which holds the sprite table;
   * entry 77 (dialogue font): English glyphs, as tools/font/apply_en_font.py;
-  * every texture of tools/texture/labels.tsv: Japanese text replaced by
+  * every texture of translation/textures.toml: Japanese text replaced by
     English (redraw.py);
   * every GRAPH0_NNNN.png of the overrides directory (hand-edited textures,
     overrides.py, D-020; $KIMIKISS_OVERRIDES or ../kimikiss-private/texture_overrides)
     replaces its entry instead of the automatic redraw.
-Each replaced entry keeps its exact length (same palette, same size), so no ARC
-offset or size changes, and every other entry stays byte-identical; both are
+Apart from the larger canvases, each replaced entry keeps its exact length (same
+palette, same size), and every other entry stays byte-identical; both are
 checked before anything is written. The engine reads the ARC header as the
 directory and the LZSS-compressed PAC as the data (LoadGraph0, 0x00104410), so
 both files are written.
@@ -56,19 +60,30 @@ def check_untouched(orig, new, changed):
         raise ValueError(f'entries changed that should not: {bad[:10]}')
 
 
-def build(orig, textures=True, found=None):
+def build(orig, textures=True, found=None, elf=None):
     """-> (new ARC bytes, set of changed entries, texture reports)
 
     found: {entry: PNG path} of GRAPH0 overrides (None = none); they replace the
-    redraw of their entry.
+    redraw of their entry. elf: the original executable (needed only when
+    textures.toml has [[sprite]] blocks).
     """
+    defs = None
+    if textures:
+        import sprites
+        import texdefs
+        defs = texdefs.load()
+        if defs['sprites']:
+            if elf is None:
+                raise texdefs.TexDefError('textures.toml resizes sprites; the executable is needed (--elf)')
+            sizes, _ = sprites.resolve(elf, orig, defs['sprites'])
+            orig = sprites.grow_archive(orig, sizes)
     data = apply_en_font.patch_font(orig, apply_en_font.load_cells())
     changed, reports = {apply_en_font.FONT_ENTRY}, []
     if textures:
         import overrides
         import redraw
         ov, ov_infos = overrides.convert(orig, 'GRAPH0', found or {})
-        blobs, reports = redraw.redraw_arc(orig, skip=set(ov))
+        blobs, reports = redraw.redraw_arc(orig, skip=set(ov), defs=defs)
         if apply_en_font.FONT_ENTRY in blobs:
             raise ValueError('a label points at the font entry')
         blobs.update(ov)
@@ -93,17 +108,24 @@ def main():
         i = args.index('--report')
         report = args[i + 1]
         del args[i:i + 2]
+    elf_path = None
+    if '--elf' in args:
+        i = args.index('--elf')
+        elf_path = args[i + 1]
+        del args[i:i + 2]
     if len(args) != 3:
         sys.exit(__doc__)
     src, out_arc, out_pac = args
+    elf_path = elf_path or os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(src))), 'SLPS_258.50')
     found = {}
     try:
         if textures:
             import overrides
             found = overrides.find(ov_dir).get('GRAPH0', {})
-        data, changed, reports = build(open(src, 'rb').read(), textures, found)
+        elf = open(elf_path, 'rb').read() if os.path.exists(elf_path) else None
+        data, changed, reports = build(open(src, 'rb').read(), textures, found, elf)
     except Exception as e:
-        if type(e).__name__ != 'OverrideError':
+        if type(e).__name__ not in ('OverrideError', 'TexDefError', 'SpriteError'):
             raise
         sys.exit(f'error: {e}')
     for r in reports:
