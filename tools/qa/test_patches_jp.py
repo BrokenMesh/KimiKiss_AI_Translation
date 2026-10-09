@@ -452,6 +452,13 @@ def _put_codes(data):
 EN_CODES = [encoding.code_of(ch) for ch in 'Wi.l, mAg?']
 
 
+def _orig_geometry(vm, tw):
+    # TextWindow>>initialize: is patched to a tighter line pitch (D-034); pin the original values so these
+    # cases compare putChar:/output alone.
+    vm.set_ivar(tw, 'marginY', 18.0)
+    vm.set_ivar(tw, 'pitchY', 44.0)
+
+
 @scenarios('TextWindow.putChar/1')
 def _tw_cases(data):
     key = 'TextWindow.putChar/1'
@@ -461,6 +468,7 @@ def _tw_cases(data):
     def run_for(codes, scl_idx, starts):
         def run(vm):
             tw = vm.new('TextWindow')
+            _orig_geometry(vm, tw)
             sc = SCALES[scl_idx]
             vm.set_ivar(tw, 'fontSclW', sc)
             vm.set_ivar(tw, 'fontSclH', sc)
@@ -487,6 +495,7 @@ def _tw_cases(data):
     def e2e(texts, english):
         def run(vm):
             tw = vm.new('TextWindow')
+            _orig_geometry(vm, tw)
             queue = vm.get_ivar(tw, 'putQueue')
             res = []
             for t in texts:
