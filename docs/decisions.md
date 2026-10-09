@@ -291,3 +291,15 @@ Full English build (`build/full_en.iso`) in PCSX2, 2026-10-07: new game, prologu
   - Verified in PCSX2 (Rumble toggled Yes/None).
 - **Cost:** `GRAPH0.ARC` grows by 11.5 KB, so `iso_patch.py` relocates it to the free sectors after the last file. The xdelta grows from 2.92 MB to 4.17 MB, because xdelta3 does not match data that moved about 1.2 GB.
 - **Tests:** `test_graph0_textures.py` checks the padding (cropping gives the original), hashes and buckets, names and sizes. `test_graph_overrides.py` reads each built directory and checks that an old-size PNG for a larger sprite is refused.
+
+## D-036: Texture text made consistent (audit and fix pass)
+
+- **Request:** after D-035, one agent lists every place where the English in pictures is inconsistent; a second agent fixes them.
+- **Audit:** `docs/texture-audit.md`, 43 issues (T-001 to T-043) from before/after sheets of all 217 redrawn textures and the hand-made overrides, each with the entries, what is wrong and a proposed `textures.toml` change. It also states the conventions per screen (one font, size range, outline or shadow, colours).
+- **Fix pass:** only `translation/textures.toml` changed; sprites, overrides and the settings-panel blocks of D-035 are untouched. 24 issues fixed, 4 partly, 10 not fixed (in-game check, wording kept, or hand-made override), 4 not needed. One line per issue is in the "Outcome (fix pass)" section of the audit.
+  - Families now share one style: topic names, area and period choices (black text, white outline, as in the original art), location plates (explicit outline colour), conversation categories (shared colours per pair, common box), map hint banners, girls menu (white with a drop shadow, as the original), buttons.
+  - Boxes were fitted so that the redraw no longer erases plate outlines, frames or icons (Garden/Gym plates, hint banners, weekdays).
+  - Wording: 227 "Let's go on an after-school date!" → "Go on an after-school date!", 94 "The school festival is this weekend!" → "School festival this weekend!" (both were squeezed below the size of their neighbours). 347 is `"LEVEL\n  UP!!"`: the leading spaces centre the second line.
+- **Open (needs a human or an in-game check):** the hand-made overrides 262 and 289 are byte-identical to the original Japanese art (T-037), other overrides T-038 to T-041; the left edge of 342 "Auto Advance" (T-029); Yes/None vs On/Off (T-030); calendar word order "4 Day" (T-043, the number is a separate sprite); a few names and tags stay below 16 px (Hoshino, Kuryuu, Music Room, Science Lab) unless their sprite grows.
+- **Known tool limits found:** `x_min`/`x_max` with the default alignment shifts the text right (use `align = "centre"`); a `commonest` box touching the frame erases the frame.
+- **Checked:** all test suites pass; PCSX2 night menu and settings panel unchanged in layout; before/after sheets of every changed texture reviewed. Release xdelta 4.23 MB, verified against the built ISO.

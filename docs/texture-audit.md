@@ -238,3 +238,63 @@ The ten categories have a normal picture (named, entries 248 ... 532) and a high
 ## Count by priority
 
 High: T-001, T-002, T-008, T-011, T-012, T-014, T-016, T-020, T-025, T-029, T-032, T-035, T-037. Medium: T-003, T-004, T-009, T-010, T-013, T-017, T-021, T-022, T-023, T-024, T-026, T-027, T-030, T-033, T-038, T-039, T-040, T-042. Low: T-005, T-006, T-007, T-015, T-018, T-019, T-028, T-031, T-034, T-036, T-041, T-043. T-036 and T-006 need no change; they are listed only to prevent wasted work.
+
+## Outcome (fix pass)
+
+Date: 2026-10-09. All edits are in `translation/textures.toml`. Previews of the result: `qa/fix_all/` (all 217 textures, 16 sheets). Sizes below are the measured `font_px` of the preview. Entries that have a hand-made override in `texture_overrides/` were not touched (their toml blocks have no effect in the build).
+
+Counts: fixed 24, partly fixed 4 (T-007, T-010, T-024, T-029), not fixed 10 (T-005, T-018, T-028, T-030, T-037 to T-041, T-043), not needed 4 (T-006, T-015, T-034, T-036). T-042 is a pointer to T-014 and T-029 and is not counted.
+
+- **T-001** fixed. All 45 topic lines: `outline = ["#101010"]`, `rings = 2`. The hand-set `font`, `squeeze` and `rings` of 447 are gone. Crisp black edge on every picture.
+- **T-002** fixed. `max_size = 22`, `squeeze = 0.8` on all 45. Result: 40 pictures at 22 px, long words smaller: Accessories 17.5, Home Study 18.5, Hold Hands 19, Committee 20, Escape 21, Junk Food 21, Swimming 21, Small Talk 21.5.
+- **T-003** fixed (font, squeeze and rings removed from 447; all topics now use 2 rings).
+- **T-004** fixed. `box = [3, 0, 93, 32]` on all 45. Exception 390 Home Study: `box = [2, 0, 95, 32]`, because the old outline reaches x = 94 and a stray line stayed at the right edge with the proposed box.
+- **T-005** not fixed. "Escape" is kept. エスケープ sits next to アタック ("Attack", topic 533) and both are named together as icons on the help pages (decisions.md, phase 6 notes). It looks like a conversation action, not "skipping class", so "Skip Class" is not clearly better and was not applied. The REVIEW note stays.
+- **T-006** not needed.
+- **T-007** partly fixed. `max_size = 17`; "Day" is now 17 px. The word order ("2 Day") is still wrong, see T-043.
+- **T-008** fixed. `max_size = 22`, `squeeze = 0.8`. Year 1/2/3, Music, Gym, Garden, Library, Rooftop, Science at 22; Home Ec 20.5, Infirmary 19.5, Cafeteria 19, Schoolyard 15.5.
+- **T-009** fixed, with one finding. `rings = 2`, `box = [2, 0, 78, 32]`. The original art is black text with a white outline. The auto read gave white text with a black outline on Year 1/2/3 and a thin grey outline on the others. All 13 now have `fill = "#090808"`, `outline = ["#ffffff", "#ffffff", "#ffffff"]`.
+- **T-010** partly fixed. 269, 376, 28: `max_size = 17`, `squeeze = 0.85` (not 0.9: at 0.9 Break 2 fell to 16 px). Break 1, Break 2 and Lunch are 17 px. 215 (override) is unchanged, see T-039.
+- **T-011** fixed. All 24: `max_size = 17`, `squeeze = 0.8`, `rings = 1`, `shadow = [0, 2]`. Seven tags were limited by their box, so the box was widened to the right end of the orange strip: 145, 273, 110 `[34, 4, 108, 37]`; 331 `[40, 5, 108, 36]`; 80, 472, 519 `[40, 4, 108, 37]`; 507 `[38, 4, 106, 37]` (the old Fence text started at x = 39 and left a stray line). Result 14.5 to 17 px: Music Room and Science Lab 14.5, Prep Room 15, Schoolyard 15.5, Bookshelf 16, the rest 17.
+- **T-012** fixed. All 22 plates without override: `max_size = 18`, `squeeze = 0.75`, `rings = 1`, `shadow = [1, 1]`, `fill = "#ffffff"` and an explicit `outline = ["#2e2220"]` (the dark colour the original text uses). Without the explicit colour 119 had no outline and 481 had one. Pairs are identical.
+- **T-013** fixed. Home Ec 15, Rooftop and Science 16 to 16.5, Cafeteria 16.5, Garden 16, Library, Year and Music 18, Gym 18. No flag left on these plates.
+- **T-014** fixed (check in game). 119 and 481 Garden: `box = [9, 31, 58, 57]`, `max_size = 16` (the proposed `[8, 32, 54, 56]` still erased the white outline at the bottom; the plate face is x 9..58, y 31..56). 10 and 436 Gym: the notch came from erasing the corner of the neighbouring tile and the bottom outline. Both now have `box = [126, 3, 205, 31]` and a `background` list that includes the tile colours (10: `["commonest", "#15b5ff", "#06329a"]`; 436: `["commonest", "#b3fdb7", "#509356", "#7b442c"]`); this is better than `x_min = 124`. 513 and 153 Rooftop: `box = [8, 16, 59, 44]`; the plate corner is intact in the preview. The Garden word ends about 1 px from the tile.
+- **T-015** not needed.
+- **T-016** fixed. `font`, hand-set `fill`, `outline`, `squeeze`, `max_size` removed on 248, 150, 190, 433. Because the auto read gave different colours for the two states, the three pairs that differed got the same explicit colours: School Life (248, 295) white with `["#6bb9c7", "#2d7786"]` (cyan), Beauty (150, 190) white with `["#96caa9", "#4a7058"]` (green), Stylish (388, 433) white with `["#b08ab2", "#090909"]` (pink, then black). The other seven pairs keep the colours read from the picture (they match).
+- **T-017** fixed. All 20: `max_size = 22`, `squeeze = 0.8`, `rings = 2`, `shadow = [0, 1]`, plus `box = [3, 0, 77, 32]` so that nothing touches the edge (Beauty did). Result: 22 px for Food, Sports, Beauty, Leisure, Effect, Stylish, Study, Action; Romance 19; School Life 16 (long word).
+- **T-018** not fixed (wording kept). "Beauty" kept. "Exercise" for 運動 was tried and undone: at 20.5 px with squeeze 0.81 and two rings the letters run together. 運動 stays "Sports" (same word as topic 417). Use "Exercise" only with a wider sprite.
+- **T-019** fixed. `outline = ["#1c3aa8"]`, `rings = 2`, `align = "centre"`. A line cannot be centred on its own, so the second line is written with two leading spaces: `english = "LEVEL\n  UP!!"`. 21 px kept.
+- **T-020** fixed, with a change. All seven: `align = "centre"`, `max_size = 17`, `squeeze = 0.85`, `rings = 2`, `shadow = [0, 1]`, `x_max` removed. Boxes: `[8, 4, 276, 28]` for 395, 227, 341, 486 (icon on the right) and `[8, 4, 320, 28]` for 41, 536, 94. The proposed `[8, 0, 282, 32]` erased the frame (rows 0 to 3 and 28 to 31) and cut the heart of 395; the icon starts at x = 279. All seven are 17 px.
+- **T-021** fixed. 227 "Go on an after-school date!", 94 "School festival this weekend!".
+- **T-022** fixed. 124, 545, 23: `max_size = 30`, `shadow = [0, 2]`, `rings = 0`; 545 also `box = [40, 6, 180, 48]`. All three are 30 px (Main Menu 0.87 squeeze).
+- **T-023** fixed. 102: `shadow = [0, 2]`, `rings = 0`, `box = [45, 6, 138, 46]`, `max_size = 22` (21.5 px). The fill was already the same pink as Album (`#d2a2a1`), so no `fill` key. It is still the palest of the four because the strokes are thin.
+- **T-024** partly fixed (7 of 10, the overrides 180, 292, 128 are not touched). Keys: `fill = "#ffffff"`, `style = "shadow"`, `rings = 0`, `shadow = [1, 1]`, `max_size = 16`, `squeeze = 0.85`, `x_min = 9`, `x_max = 105`, `align = "centre"`. This differs from the proposal (`rings = 1`, `shadow = [0, 1]`): the original plates are white text with a drop shadow, and an outline made the names heavy. Sizes: Everyone, Nana, Other 16, Sakino 16, Shijou 15.5, Hoshino 14.5, Kuryuu 13.5. Nothing touches the plate frame now. `align = "centre"` is needed: with `x_min` and the default alignment "Other" moved 12 px to the right (see new problems).
+- **T-025** fixed. 279, 393, 38, 224, 340, 535, 278: `fill = "#ffffff"`, `style = "shadow"`, `rings = 0`, `shadow = [2, 2]`, `max_size = 17`, `squeeze = 0.85`. All 17 px; 535 and 278 identical.
+- **T-026** fixed. 500, 61, 247, 438, 12 with the same keys as T-025. All 17 px.
+- **T-027** fixed. 401, 46, 230, 350, 547, 105 with the same keys as T-025. The three plain ones also have `align = "left"` and `box = [2, 0, 110, 32]` (old text started at x = 2 or 3). All 17 px.
+- **T-028** not fixed. Needs an in-game check of whether しおり and セーブ are shown in the same menu. 401 stays "Save" (D-029).
+- **T-029** partly fixed. 342: `font = "SemiBold"`, `max_size = 16`, `style = "shadow"`, `shadow = [1, 1]`, `align = "left"`, `box = [0, 0, 144, 32]` (16 px, left edge at the sprite's left edge, the same place the other rows start in their original sprites). Whether the 144 px sprite is drawn at the same x as the other rows is not known from the files; it needs an in-game check. 402 is a reference block and was not changed (its text starts about 10 px in).
+- **T-030** not fixed. 48 and 232 are reference blocks (D-035) and must not change. The wording "Yes/None" versus "On/Off" needs an in-game check of the rows that use these values.
+- **T-031** fixed. 16, 122, 319, 285 with the keys of T-025. 154 (Settings plate) got them too because it is the same plate family. All 17 px. Wording: no action.
+- **T-032** fixed. 68 Settings and 542 Observe: `max_size = 15`, `squeeze = 0.7`; both 15 px (was 12.4). The alternatives "Setup" and "Look" were not needed.
+- **T-033** fixed, with a change. All 20: `max_size = 18`, `squeeze = 0.8`, `fill = "#ffffff"`, `outline = ["#0b537a", "#0b537a"]`, `rings = 2` (not 1: the original art has a 2 px dark-blue outline, and one ring looked thin). Yes and No are both 18 px; Pattern and Scroll 18; Delete 18 at squeeze 0.8. 68 and 542 stay at 15 (T-032).
+- **T-034** not needed ("Memo" kept).
+- **T-035** fixed. All seven: `max_size = 22`, `squeeze = 0.8`, `rings = 1`, plus `style = "outline"`, `outline = ["#1c739c"]`, `fill = "#ffffff"` (Sat had a shadow, the others none) and `box = [1, 0, 40, 48]` (the kanji outline reaches x = 1 and x = 39 and left stray lines with a narrower box). Sizes: Wed 19.5, Mon 21, Thu, Sun, Tue, Sat and Fri 22.
+- **T-036** not needed.
+- **T-037** not fixed (hand-made override, needs an artist).
+- **T-038** not fixed (override, needs an artist).
+- **T-039** not fixed (override 215; the toml block exists).
+- **T-040** not fixed (overrides 223, 336, 311, 418). Their toml blocks were left as they were. See the new problem about their boxes.
+- **T-041** not fixed (overrides 180, 292, 128). The toml blocks of the other seven names in T-024 are done.
+- **T-042** see T-014 (fixed, check in game) and T-029 (check in game).
+- **T-043** not fixed (the number sprite is separate).
+
+### New problems noticed
+
+1. The toml blocks of the four overridden map plates (223, 336 Infirmary; 311, 418 Schoolyard) erase part of the plate outline at the left and bottom when drawn (they would show 10 to 13 px text). If one of the overrides is ever removed, their boxes must be fixed first (same method as 119: box inside the plate face).
+2. `redraw.py`: with `x_min` or `x_max` and the default alignment ("old-text"), the English is placed too far right (186 "Other" moved about 12 px). `align = "centre"` avoids it. The cause was not investigated.
+3. A `commonest` box that touches the picture frame erases the frame (seen on the hint banners, rows 0 to 3 and 28 to 31). Keep boxes inside the face.
+4. The weekday and topic pictures need the box to cover the old outline completely (x = 1 and 39 of 40, x = 94 of 96), or a stray line stays.
+5. 453 (map overview, override) is still flagged by the preview ("background differs left/right"); unchanged.
+6. 347 now uses leading spaces in the English text to centre "UP!!". If a tool trims the text, the line goes back to the left.
+7. Several name plates (Hoshino 14.5, Kuryuu 13.5) and the long area tags (Music Room, Science Lab 14.5) are still below 16 px; a wider sprite would be needed to raise them.

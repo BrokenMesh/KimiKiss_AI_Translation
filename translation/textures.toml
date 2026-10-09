@@ -104,6 +104,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "世間話"
 english = "Small Talk"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 503
@@ -112,6 +117,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "部活"
 english = "Clubs"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 140
@@ -120,6 +130,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "制服"
 english = "Uniform"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 330
@@ -129,6 +144,11 @@ size = [96, 32]
 japanese = "委員"
 english = "Committee"
 note = "REVIEW"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 445
@@ -137,6 +157,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "校則"
 english = "Rules"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 84
@@ -145,6 +170,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "先生"
 english = "Teacher"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 277
@@ -154,6 +184,11 @@ size = [96, 32]
 japanese = "転校"
 english = "Transfer"
 note = "REVIEW: changing schools"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 390
@@ -162,6 +197,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "自宅学習"
 english = "Home Study"
+box = [2, 0, 95, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 36
@@ -170,6 +210,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "成績"
 english = "Grades"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 357
@@ -179,6 +224,11 @@ size = [96, 32]
 japanese = "受験"
 english = "Exams"
 note = "REVIEW: entrance exams"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 476
@@ -187,6 +237,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "イタリア語"
 english = "Italian"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 116
@@ -195,6 +250,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "体育"
 english = "P.E."
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 310
@@ -203,6 +263,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "水泳"
 english = "Swimming"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 417
@@ -211,6 +276,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "スポーツ"
 english = "Sports"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 64
@@ -219,6 +289,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "ダンス"
 english = "Dance"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 177
@@ -227,6 +302,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "音楽"
 english = "Music"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 362
@@ -236,6 +316,11 @@ size = [96, 32]
 japanese = "映像"
 english = "Video"
 note = "REVIEW"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 14
@@ -244,6 +329,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "読書"
 english = "Reading"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 120
@@ -252,6 +342,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "ショッピング"
 english = "Shopping"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 437
@@ -260,6 +355,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "ファッション"
 english = "Fashion"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 78
@@ -268,6 +368,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "アクセサリー"
 english = "Accessories"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 199
@@ -276,6 +381,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "化粧"
 english = "Makeup"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 386
@@ -285,6 +395,11 @@ size = [96, 32]
 japanese = "水着"
 english = "Swimsuit"
 note = "the old TSV read this as a character name"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 34
@@ -293,6 +408,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "食事"
 english = "Meal"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 149
@@ -301,6 +421,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "甘いもの"
 english = "Sweets"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 335
@@ -309,6 +434,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "ドリンク"
 english = "Drinks"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 529
@@ -317,6 +447,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "手料理"
 english = "Cooking"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 89
@@ -325,6 +460,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "うどん"
 english = "Udon"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 284
@@ -333,6 +473,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "ジャンクフード"
 english = "Junk Food"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 526
@@ -341,6 +486,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "健康"
 english = "Health"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 172
@@ -349,6 +499,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "ダイエット"
 english = "Diet"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 361
@@ -358,6 +513,11 @@ size = [96, 32]
 japanese = "体"
 english = "Body"
 note = "REVIEW: single-kanji stat name"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 479
@@ -366,6 +526,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "恋"
 english = "Love"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 118
@@ -374,6 +539,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "プライベート"
 english = "Private"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 315
@@ -383,6 +553,11 @@ size = [96, 32]
 japanese = "エッチ"
 english = "Naughty"
 note = "REVIEW"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 421
@@ -391,6 +566,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "将来"
 english = "Future"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 66
@@ -400,6 +580,11 @@ size = [96, 32]
 japanese = "昔"
 english = "Past"
 note = "REVIEW: topic"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 256
@@ -408,6 +593,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "ほめる"
 english = "Praise"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 367
@@ -416,6 +606,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "見つめる"
 english = "Gaze"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 144
@@ -424,6 +619,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "微笑む"
 english = "Smile"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 253
@@ -432,6 +632,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "かっこつける"
 english = "Act Cool"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 447
@@ -440,9 +645,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "手を握る"
 english = "Hold Hands"
-rings = 1
-squeeze = 1
-font = "SemiBold"
+rings = 2
+squeeze = 0.8
+box = [3, 0, 93, 32]
+max_size = 22
+outline = ["#101010"]
 
 [[texture]]
 entry = 86
@@ -452,6 +659,11 @@ size = [96, 32]
 japanese = "カミカゼ"
 english = "Kamikaze"
 note = "REVIEW: item or topic name, kept as is"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 203
@@ -461,6 +673,11 @@ size = [96, 32]
 japanese = "エスケープ"
 english = "Escape"
 note = "REVIEW: skipping class"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 [[texture]]
 entry = 533
@@ -469,6 +686,11 @@ size = [96, 32]
 [[texture.line]]
 japanese = "アタック"
 english = "Attack"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
 
 # ==============================================================================
 # Map screen: calendar (idou/calendar_base)
@@ -484,6 +706,7 @@ english = "Day"
 note = "REVIEW: day counter \"2 日め (Tue)\"; the number sprite stays left of this word, so it reads \"2 Day (Tue)\""
 background = ["commonest"]
 box = [54, 20, 88, 44]
+max_size = 17
 
 # ==============================================================================
 # Map screen: area and period choices (idou/choiceNN, idou/choice_N)
@@ -496,6 +719,12 @@ size = [80, 32]
 [[texture.line]]
 japanese = "1年"
 english = "Year 1"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
 
 [[texture]]
 entry = 384
@@ -504,6 +733,12 @@ size = [80, 32]
 [[texture.line]]
 japanese = "2年"
 english = "Year 2"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
 
 [[texture]]
 entry = 33
@@ -512,6 +747,12 @@ size = [80, 32]
 [[texture.line]]
 japanese = "3年"
 english = "Year 3"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
 
 [[texture]]
 entry = 220
@@ -520,6 +761,12 @@ size = [80, 32]
 [[texture.line]]
 japanese = "図書"
 english = "Library"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
 
 [[texture]]
 entry = 333
@@ -529,6 +776,12 @@ size = [80, 32]
 japanese = "保健"
 english = "Infirmary"
 note = "REVIEW: shown in the period slot as the chosen place; \"Health\" in the first pass"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
 
 [[texture]]
 entry = 527
@@ -537,6 +790,12 @@ size = [80, 32]
 [[texture.line]]
 japanese = "理科"
 english = "Science"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
 
 [[texture]]
 entry = 173
@@ -545,6 +804,12 @@ size = [80, 32]
 [[texture.line]]
 japanese = "家庭"
 english = "Home Ec"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
 
 [[texture]]
 entry = 282
@@ -553,6 +818,12 @@ size = [80, 32]
 [[texture.line]]
 japanese = "音楽"
 english = "Music"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
 
 [[texture]]
 entry = 480
@@ -561,6 +832,12 @@ size = [80, 32]
 [[texture.line]]
 japanese = "屋上"
 english = "Rooftop"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
 
 [[texture]]
 entry = 170
@@ -569,6 +846,12 @@ size = [80, 32]
 [[texture.line]]
 japanese = "体育館"
 english = "Gym"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
 
 [[texture]]
 entry = 360
@@ -577,6 +860,12 @@ size = [80, 32]
 [[texture.line]]
 japanese = "食堂"
 english = "Cafeteria"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
 
 [[texture]]
 entry = 9
@@ -585,6 +874,12 @@ size = [80, 32]
 [[texture.line]]
 japanese = "校庭"
 english = "Schoolyard"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
 
 [[texture]]
 entry = 117
@@ -593,6 +888,12 @@ size = [80, 32]
 [[texture.line]]
 japanese = "花壇"
 english = "Garden"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
 
 [[texture]]
 entry = 269
@@ -604,6 +905,8 @@ english = "Break 1"
 note = "period tab"
 background = ["commonest"]
 box = [3, 2, 58, 23]
+squeeze = 0.85
+max_size = 17
 
 [[texture]]
 entry = 376
@@ -615,6 +918,8 @@ english = "Break 2"
 note = "CHECK-ART: tab overlaps the panel border (teal dash under the old text removed)"
 background = ["commonest"]
 box = [3, 2, 58, 23]
+squeeze = 0.85
+max_size = 17
 
 [[texture]]
 entry = 28
@@ -626,6 +931,8 @@ english = "Lunch"
 note = "\"Lunch Break\" does not fit the tab; CHECK-ART: tab overlaps the panel border"
 background = ["commonest"]
 box = [3, 2, 59, 23]
+squeeze = 0.85
+max_size = 17
 
 [[texture]]
 entry = 215
@@ -652,6 +959,10 @@ english = "Year 1 Hall"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
 box = [32, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 411
@@ -664,6 +975,11 @@ note = "map tag"
 background = ["commonest"]
 box = [12, 7, 60, 37]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 57
@@ -676,6 +992,11 @@ note = "map tag"
 background = ["commonest"]
 box = [12, 7, 60, 37]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 549
@@ -687,6 +1008,10 @@ english = "Year 2 Hall"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
 box = [32, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 111
@@ -699,6 +1024,11 @@ note = "map tag"
 background = ["commonest"]
 box = [21, 5, 71, 34]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 306
@@ -711,6 +1041,11 @@ note = "map tag"
 background = ["commonest"]
 box = [21, 5, 71, 34]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 163
@@ -722,6 +1057,10 @@ english = "Year 3 Hall"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
 box = [32, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 358
@@ -734,6 +1073,11 @@ note = "map tag"
 background = ["commonest"]
 box = [12, 6, 66, 33]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 477
@@ -745,6 +1089,11 @@ english = "Year 3"
 background = ["commonest"]
 box = [9, 4, 68, 31]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 406
@@ -756,6 +1105,10 @@ english = "Library"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
 box = [36, 4, 104, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 519
@@ -766,7 +1119,11 @@ japanese = "本棚"
 english = "Bookshelf"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
-box = [40, 4, 104, 37]
+box = [40, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 524
@@ -779,6 +1136,11 @@ note = "map tag"
 background = ["commonest"]
 box = [22, 5, 75, 34]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 171
@@ -791,6 +1153,11 @@ note = "map tag"
 background = ["commonest"]
 box = [22, 5, 75, 34]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 31
@@ -802,6 +1169,10 @@ english = "Infirmary"
 note = "nurse's office; the old TSV read 親備室"
 background = ["transparent", "#ffbd65"]
 box = [36, 4, 100, 36]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 217
@@ -813,6 +1184,10 @@ english = "Bed"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
 box = [40, 4, 104, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 223
@@ -847,7 +1222,11 @@ japanese = "理科室"
 english = "Science Lab"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
-box = [36, 4, 104, 37]
+box = [34, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 472
@@ -858,7 +1237,11 @@ japanese = "準備室"
 english = "Prep Room"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
-box = [40, 4, 104, 37]
+box = [40, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 392
@@ -870,6 +1253,11 @@ english = "Science"
 background = ["commonest"]
 box = [6, 39, 59, 65]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 37
@@ -881,6 +1269,11 @@ english = "Science"
 background = ["commonest"]
 box = [5, 37, 59, 65]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 440
@@ -892,6 +1285,10 @@ english = "Home Ec"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
 box = [32, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 80
@@ -902,7 +1299,11 @@ japanese = "準備室"
 english = "Prep Room"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
-box = [40, 4, 104, 37]
+box = [40, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 88
@@ -915,6 +1316,11 @@ note = "map tag"
 background = ["commonest"]
 box = [11, 7, 65, 35]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 283
@@ -927,6 +1333,11 @@ note = "map tag"
 background = ["commonest"]
 box = [11, 7, 65, 35]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 145
@@ -937,7 +1348,11 @@ japanese = "音楽室"
 english = "Music Room"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
-box = [36, 4, 104, 37]
+box = [34, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 331
@@ -947,7 +1362,11 @@ size = [112, 40]
 japanese = "準備室"
 english = "Prep Room"
 background = ["transparent", "#ffbd65"]
-box = [40, 5, 102, 36]
+box = [40, 5, 108, 36]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 258
@@ -960,6 +1379,11 @@ note = "map tag"
 background = ["commonest"]
 box = [7, 4, 62, 34]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 449
@@ -971,6 +1395,11 @@ english = "Music"
 background = ["commonest"]
 box = [6, 4, 64, 31]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 387
@@ -981,6 +1410,10 @@ japanese = "屋上"
 english = "Rooftop"
 background = ["transparent", "#ffbd65"]
 box = [42, 4, 104, 36]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 507
@@ -991,7 +1424,11 @@ japanese = "フェンス"
 english = "Fence"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
-box = [40, 4, 104, 37]
+box = [38, 4, 106, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 513
@@ -1002,8 +1439,13 @@ japanese = "屋上"
 english = "Rooftop"
 note = "map tag"
 background = ["commonest"]
-box = [8, 16, 59, 46]
+box = [8, 16, 59, 44]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 153
@@ -1014,8 +1456,13 @@ japanese = "屋上"
 english = "Rooftop"
 note = "map tag"
 background = ["commonest"]
-box = [8, 16, 59, 46]
+box = [8, 16, 59, 44]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 236
@@ -1027,6 +1474,10 @@ english = "Walkway"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
 box = [32, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 432
@@ -1037,6 +1488,10 @@ japanese = "体育館"
 english = "Gym"
 background = ["transparent", "#ffbd65"]
 box = [40, 4, 104, 36]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 75
@@ -1048,6 +1503,10 @@ english = "Pool"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
 box = [40, 4, 104, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 436
@@ -1057,10 +1516,14 @@ size = [216, 96]
 japanese = "体育館"
 english = "Gym"
 note = "map tag; \"Gymnasium\" is too wide for it"
-background = ["commonest"]
-box = [121, 3, 206, 31]
+background = ["commonest", "#b3fdb7", "#509356", "#7b442c"]
+box = [126, 3, 205, 31]
 fill = "#ffffff"
-shadow = [1,1]
+shadow = [1, 1]
+max_size = 18
+squeeze = 0.75
+rings = 1
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 10
@@ -1070,9 +1533,14 @@ size = [216, 96]
 japanese = "体育館"
 english = "Gym"
 note = "map tag, highlighted state"
-background = ["commonest"]
-box = [120, 3, 209, 31]
+background = ["commonest", "#15b5ff", "#06329a"]
+box = [126, 3, 205, 31]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 496
@@ -1083,6 +1551,10 @@ japanese = "食堂"
 english = "Cafeteria"
 background = ["transparent", "#ffbd65"]
 box = [38, 4, 104, 38]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 56
@@ -1094,6 +1566,10 @@ english = "Terrace"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
 box = [40, 4, 104, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 241
@@ -1105,6 +1581,10 @@ english = "Fountain"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
 box = [40, 4, 104, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 60
@@ -1117,6 +1597,11 @@ note = "map tag"
 background = ["commonest"]
 box = [9, 49, 70, 79]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 246
@@ -1129,6 +1614,11 @@ note = "map tag"
 background = ["commonest"]
 box = [9, 49, 70, 79]
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 110
@@ -1139,7 +1629,11 @@ japanese = "校庭"
 english = "Schoolyard"
 note = "location panel"
 background = ["transparent", "#ffbd65"]
-box = [36, 4, 104, 37]
+box = [34, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 311
@@ -1175,6 +1669,10 @@ english = "Garden"
 note = "REVIEW: 花壇 = flower bed; \"Garden\" fits the map tag"
 background = ["transparent", "#ffbd65"]
 box = [38, 4, 104, 36]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 2
@@ -1186,6 +1684,10 @@ english = "Back Lot"
 note = "REVIEW: literally \"behind the school building\""
 background = ["transparent", "#ffbd65"]
 box = [40, 5, 102, 36]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
 
 [[texture]]
 entry = 481
@@ -1196,8 +1698,13 @@ japanese = "花壇"
 english = "Garden"
 note = "REVIEW: same place as entry 354"
 background = ["commonest"]
-box = [7, 30, 60, 56]
+box = [9, 31, 58, 57]
 fill = "#ffffff"
+max_size = 16
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 [[texture]]
 entry = 119
@@ -1208,8 +1715,13 @@ japanese = "花壇"
 english = "Garden"
 note = "map tag"
 background = ["commonest"]
-box = [8, 30, 60, 60]
+box = [9, 31, 58, 57]
 fill = "#ffffff"
+max_size = 16
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
 
 # ==============================================================================
 # Map screen: dialog (idou/idoudialog)
@@ -1253,10 +1765,13 @@ size = [80, 32]
 [[texture.line]]
 japanese = "学校生活"
 english = "School Life"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 fill = "#ffffff"
-outline = ["#090909"]
-squeeze = 1
-font = "SemiBold"
+outline = ["#6bb9c7", "#2d7786"]
 
 [[texture]]
 entry = 441
@@ -1265,6 +1780,11 @@ size = [80, 32]
 [[texture.line]]
 japanese = "勉強"
 english = "Study"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 
 [[texture]]
 entry = 81
@@ -1273,6 +1793,11 @@ size = [80, 32]
 [[texture.line]]
 japanese = "運動"
 english = "Sports"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 
 [[texture]]
 entry = 200
@@ -1281,6 +1806,11 @@ size = [80, 32]
 [[texture.line]]
 japanese = "娯楽"
 english = "Leisure"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 
 [[texture]]
 entry = 388
@@ -1290,6 +1820,13 @@ size = [80, 32]
 japanese = "おしゃれ"
 english = "Stylish"
 note = "REVIEW: おしゃれ (fashion sense)"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+fill = "#ffffff"
+outline = ["#b08ab2", "#090909"]
 
 [[texture]]
 entry = 35
@@ -1298,6 +1835,11 @@ size = [80, 32]
 [[texture.line]]
 japanese = "食べ物"
 english = "Food"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 
 [[texture]]
 entry = 150
@@ -1307,10 +1849,13 @@ size = [80, 32]
 japanese = "美容健康"
 english = "Beauty"
 note = "REVIEW: 美容健康 = beauty and health"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 fill = "#ffffff"
-outline = ["#1a3a32"]
-squeeze = 1
-font = "SemiBold"
+outline = ["#96caa9", "#4a7058"]
 
 [[texture]]
 entry = 337
@@ -1319,6 +1864,11 @@ size = [80, 32]
 [[texture.line]]
 japanese = "恋愛"
 english = "Romance"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 
 [[texture]]
 entry = 532
@@ -1327,6 +1877,11 @@ size = [80, 32]
 [[texture.line]]
 japanese = "行動"
 english = "Action"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 
 [[texture]]
 entry = 221
@@ -1335,6 +1890,11 @@ size = [80, 32]
 [[texture.line]]
 japanese = "効果"
 english = "Effect"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 
 # ==============================================================================
 # Level-up banner (sysgraph/levelup)
@@ -1346,11 +1906,14 @@ name = "sysgraph/levelup"
 size = [96, 56]
 [[texture.line]]
 japanese = "レベル|アップ!!"
-english = "LEVEL\nUP!!"
+english = "LEVEL\n  UP!!"
 note = "two lines in an oval"
 background = ["commonest", "transparent"]
 box = [14, 4, 90, 50]
 font = "BoldItalic"
+outline = ["#1c3aa8"]
+rings = 2
+align = "centre"
 
 # ==============================================================================
 # Map overview (sysgraph/map)
@@ -1396,7 +1959,12 @@ japanese = "好感度ゲージをあげよう！"
 english = "Raise the affection gauge!"
 note = "hint banner"
 background = ["commonest"]
-x_max = 276
+box = [8, 4, 276, 28]
+align = "centre"
+max_size = 17
+squeeze = 0.85
+rings = 2
+shadow = [0, 1]
 
 [[texture]]
 entry = 41
@@ -1407,6 +1975,12 @@ japanese = "ストーリーイベントを見よう！"
 english = "Watch the story event!"
 note = "hint banner"
 background = ["commonest"]
+box = [8, 4, 320, 28]
+align = "centre"
+max_size = 17
+squeeze = 0.85
+rings = 2
+shadow = [0, 1]
 
 [[texture]]
 entry = 227
@@ -1414,10 +1988,15 @@ name = "sysgraph/map_h2"
 size = [328, 32]
 [[texture.line]]
 japanese = "下校デートをしよう！"
-english = "Let's go on an after-school date!"
+english = "Go on an after-school date!"
 note = "hint banner"
 background = ["commonest"]
-x_max = 283
+box = [8, 4, 276, 28]
+align = "centre"
+max_size = 17
+squeeze = 0.85
+rings = 2
+shadow = [0, 1]
 
 [[texture]]
 entry = 341
@@ -1428,7 +2007,12 @@ japanese = "アタックを成功させよう！"
 english = "Make your attack a success!"
 note = "hint banner"
 background = ["commonest"]
-x_max = 283
+box = [8, 4, 276, 28]
+align = "centre"
+max_size = 17
+squeeze = 0.85
+rings = 2
+shadow = [0, 1]
 
 [[texture]]
 entry = 536
@@ -1439,6 +2023,12 @@ japanese = "週末に休日デートがあるぞ！"
 english = "Holiday date this weekend!"
 note = "hint banner"
 background = ["commonest"]
+box = [8, 4, 320, 28]
+align = "centre"
+max_size = 17
+squeeze = 0.85
+rings = 2
+shadow = [0, 1]
 
 [[texture]]
 entry = 94
@@ -1446,9 +2036,15 @@ name = "sysgraph/map_h5"
 size = [328, 32]
 [[texture.line]]
 japanese = "今週末は学園祭だ！"
-english = "The school festival is this weekend!"
+english = "School festival this weekend!"
 note = "hint banner"
 background = ["commonest"]
+box = [8, 4, 320, 28]
+align = "centre"
+max_size = 17
+squeeze = 0.85
+rings = 2
+shadow = [0, 1]
 
 [[texture]]
 entry = 486
@@ -1459,7 +2055,12 @@ japanese = "好きな話題が変わりました"
 english = "Favorite topic changed!"
 note = "hint banner"
 background = ["commonest"]
-x_max = 281
+box = [8, 4, 276, 28]
+align = "centre"
+max_size = 17
+squeeze = 0.85
+rings = 2
+shadow = [0, 1]
 
 # ==============================================================================
 # Album menu (sysgraph/menu_alubum)
@@ -1474,6 +2075,9 @@ japanese = "アルバム"
 english = "Album"
 background = ["commonest"]
 box = [40, 6, 154, 46]
+max_size = 30
+shadow = [0, 2]
+rings = 0
 
 # ==============================================================================
 # Girls menu (sysgraph/menu_girlN)
@@ -1488,6 +2092,15 @@ japanese = "全員"
 english = "Everyone"
 note = "REVIEW"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [1, 1]
+max_size = 16
+squeeze = 0.85
+x_min = 9
+x_max = 105
+align = "centre"
 
 [[texture]]
 entry = 539
@@ -1498,6 +2111,15 @@ japanese = "星乃 結美"
 english = "Hoshino Yuumi"
 note = "glossary D1/D2: family-given, Hepburn long vowels"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [1, 1]
+max_size = 16
+squeeze = 0.85
+x_min = 9
+x_max = 105
+align = "centre"
 
 [[texture]]
 entry = 180
@@ -1528,6 +2150,15 @@ japanese = "咲野 明日夏"
 english = "Sakino Asuka"
 note = "glossary D1/D2: family-given, Hepburn long vowels"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [1, 1]
+max_size = 16
+squeeze = 0.85
+x_min = 9
+x_max = 105
+align = "centre"
 
 [[texture]]
 entry = 128
@@ -1548,6 +2179,15 @@ japanese = "祇条 深月"
 english = "Shijou Mitsuki"
 note = "glossary D1/D2: family-given, Hepburn long vowels (was Gijo Mizuki, wrong reading)"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [1, 1]
+max_size = 16
+squeeze = 0.85
+x_min = 9
+x_max = 105
+align = "centre"
 
 [[texture]]
 entry = 429
@@ -1558,6 +2198,15 @@ japanese = "菜々"
 english = "Nana"
 note = "given name only (surname is the player's {Nm}); glossary D1"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [1, 1]
+max_size = 16
+squeeze = 0.85
+x_min = 9
+x_max = 105
+align = "centre"
 
 [[texture]]
 entry = 72
@@ -1568,6 +2217,15 @@ japanese = "栗生 恵"
 english = "Kuryuu Megumu"
 note = "glossary D1/D2/D4: family-given, Hepburn long vowels; Megumu, not Megumi"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [1, 1]
+max_size = 16
+squeeze = 0.85
+x_min = 9
+x_max = 105
+align = "centre"
 
 [[texture]]
 entry = 186
@@ -1577,6 +2235,15 @@ size = [112, 32]
 japanese = "その他"
 english = "Other"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [1, 1]
+max_size = 16
+squeeze = 0.85
+x_min = 9
+x_max = 105
+align = "centre"
 
 # ==============================================================================
 # Menu label (sysgraph/menu_jo0)
@@ -1590,6 +2257,12 @@ size = [112, 32]
 japanese = "情報"
 english = "Info"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 # ==============================================================================
 # Main menu (sysgraph/menu_main, menu_mainN)
@@ -1604,7 +2277,10 @@ japanese = "メインメニュー"
 english = "Main Menu"
 note = "main menu header"
 background = ["commonest"]
-box = [40, 6, 186, 48]
+box = [40, 6, 180, 48]
+max_size = 30
+shadow = [0, 2]
+rings = 0
 
 [[texture]]
 entry = 279
@@ -1615,6 +2291,12 @@ japanese = "はじめから"
 english = "New Game"
 note = "main menu"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 393
@@ -1624,6 +2306,12 @@ size = [112, 32]
 japanese = "つづきから"
 english = "Continue"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 38
@@ -1633,6 +2321,12 @@ size = [112, 32]
 japanese = "アルバム"
 english = "Album"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 224
@@ -1642,6 +2336,12 @@ size = [112, 32]
 japanese = "おまけ"
 english = "Extras"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 340
@@ -1651,6 +2351,12 @@ size = [112, 32]
 japanese = "オプション"
 english = "Options"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 535
@@ -1661,6 +2367,12 @@ japanese = "ひきつぎ"
 english = "Carry Over"
 note = "REVIEW: main menu"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 # ==============================================================================
 # Name entry and history tabs (sysgraph/menu_nameN)
@@ -1674,6 +2386,12 @@ size = [112, 32]
 japanese = "漢字"
 english = "Kanji"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 61
@@ -1683,6 +2401,12 @@ size = [112, 32]
 japanese = "ひらがな"
 english = "Hiragana"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 247
@@ -1692,6 +2416,12 @@ size = [112, 32]
 japanese = "カタカナ"
 english = "Katakana"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 438
@@ -1702,6 +2432,12 @@ japanese = "英数記号"
 english = "ABC 123"
 note = "REVIEW: name-entry tab for letters, digits and symbols"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 12
@@ -1711,6 +2447,12 @@ size = [112, 32]
 japanese = "履歴"
 english = "History"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 # ==============================================================================
 # Extras menu (sysgraph/menu_omake)
@@ -1726,6 +2468,9 @@ english = "Extras"
 note = "extras/bonus menu; the old TSV read おまかせ"
 background = ["commonest"]
 box = [30, 5, 134, 50]
+max_size = 30
+shadow = [0, 2]
+rings = 0
 
 # ==============================================================================
 # Settings panel (sysgraph/menu_setN)
@@ -1740,6 +2485,12 @@ japanese = "設定"
 english = "Settings"
 note = "main menu item, highlighted state"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 342
@@ -1748,6 +2499,13 @@ size = [144, 32]
 [[texture.line]]
 japanese = "自動文字送り"
 english = "Auto Advance"
+note = "settings row"
+font = "SemiBold"
+max_size = 16
+style = "shadow"
+shadow = [1, 1]
+align = "left"
+box = [0, 0, 144, 32]
 
 [[texture]]
 entry = 459
@@ -1876,6 +2634,12 @@ japanese = "しおり"
 english = "Save"
 note = "night room menu: opens the save/load/title submenu (D-029)"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 46
@@ -1885,6 +2649,12 @@ size = [112, 32]
 japanese = "セーブ"
 english = "Save"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 230
@@ -1894,6 +2664,12 @@ size = [112, 32]
 japanese = "ロード"
 english = "Load"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 350
@@ -1902,6 +2678,14 @@ size = [112, 32]
 [[texture.line]]
 japanese = "セーブ"
 english = "Save"
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+align = "left"
+box = [2, 0, 110, 32]
 
 [[texture]]
 entry = 547
@@ -1910,6 +2694,14 @@ size = [112, 32]
 [[texture.line]]
 japanese = "ロード"
 english = "Load"
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+align = "left"
+box = [2, 0, 110, 32]
 
 [[texture]]
 entry = 105
@@ -1918,6 +2710,14 @@ size = [112, 32]
 [[texture.line]]
 japanese = "タイトルへ"
 english = "To Title"
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+align = "left"
+box = [2, 0, 110, 32]
 
 # ==============================================================================
 # Night room menu (sysgraph/menu_yoruN)
@@ -1932,6 +2732,12 @@ japanese = "菜々"
 english = "Girls"
 note = "night room menu: opens the heroine relationship chart (was \"Nana\", D-029)"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 122
@@ -1941,6 +2747,12 @@ size = [112, 32]
 japanese = "寝る"
 english = "Sleep"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 319
@@ -1951,6 +2763,12 @@ japanese = "話題袋"
 english = "Topic Bag"
 note = "REVIEW"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 # ==============================================================================
 # Buttons and small labels (sysgraph/txt_NNN)
@@ -1964,6 +2782,10 @@ size = [48, 24]
 japanese = "決定"
 english = "OK"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 483
@@ -1973,6 +2795,10 @@ size = [48, 24]
 japanese = "戻る"
 english = "Back"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 125
@@ -1982,6 +2808,10 @@ size = [48, 24]
 japanese = "消す"
 english = "Erase"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 321
@@ -1990,6 +2820,11 @@ size = [48, 24]
 [[texture.line]]
 japanese = "はい"
 english = "Yes"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+fill = "#ffffff"
 
 [[texture]]
 entry = 426
@@ -1999,6 +2834,10 @@ size = [64, 24]
 japanese = "いいえ"
 english = "No"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 68
@@ -2009,6 +2848,10 @@ japanese = "設定"
 english = "Settings"
 note = "button guide; 48 px wide"
 fill = "#ffffff"
+max_size = 15
+squeeze = 0.7
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 261
@@ -2019,6 +2862,10 @@ japanese = "ヒント"
 english = "Hint"
 note = "button guide"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 369
@@ -2028,6 +2875,10 @@ size = [48, 24]
 japanese = "次へ"
 english = "Next"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 17
@@ -2037,6 +2888,10 @@ size = [64, 24]
 japanese = "テスト"
 english = "Test"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 451
@@ -2046,6 +2901,10 @@ size = [48, 24]
 japanese = "編集"
 english = "Edit"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 90
@@ -2055,6 +2914,10 @@ size = [80, 24]
 japanese = "名前変更"
 english = "Rename"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 206
@@ -2064,6 +2927,10 @@ size = [48, 24]
 japanese = "削除"
 english = "Delete"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 398
@@ -2073,6 +2940,10 @@ size = [48, 24]
 japanese = "決定"
 english = "OK"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 44
@@ -2082,6 +2953,10 @@ size = [48, 24]
 japanese = "戻る"
 english = "Back"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 345
@@ -2092,6 +2967,10 @@ japanese = "枠メモ"
 english = "Memo"
 note = "REVIEW: first kanji hard to read (枠 or 終)"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 542
@@ -2101,6 +2980,10 @@ size = [48, 24]
 japanese = "観察"
 english = "Observe"
 fill = "#ffffff"
+max_size = 15
+squeeze = 0.7
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 100
@@ -2110,6 +2993,10 @@ size = [48, 24]
 japanese = "移動"
 english = "Move"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 422
@@ -2119,6 +3006,10 @@ size = [48, 24]
 japanese = "再生"
 english = "Play"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 537
@@ -2128,6 +3019,10 @@ size = [80, 24]
 japanese = "パターン"
 english = "Pattern"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 [[texture]]
 entry = 179
@@ -2137,6 +3032,10 @@ size = [80, 24]
 japanese = "スクロール"
 english = "Scroll"
 fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
 
 # ==============================================================================
 # Textures whose name is not in the executable
@@ -2148,6 +3047,11 @@ size = [80, 32]
 [[texture.line]]
 japanese = "食べ物"
 english = "Food"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 
 [[texture]]
 entry = 21
@@ -2156,6 +3060,13 @@ size = [40, 48]
 japanese = "日"
 english = "Sun"
 note = "weekday (日 = Sunday)"
+max_size = 22
+squeeze = 0.8
+rings = 1
+box = [1, 0, 40, 48]
+style = "outline"
+outline = ["#1c739c"]
+fill = "#ffffff"
 
 [[texture]]
 entry = 45
@@ -2181,6 +3092,11 @@ size = [80, 32]
 [[texture.line]]
 japanese = "運動"
 english = "Sports"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 
 [[texture]]
 entry = 79
@@ -2189,6 +3105,13 @@ size = [40, 48]
 japanese = "水"
 english = "Wed"
 note = "weekday (水 = Wednesday)"
+max_size = 22
+squeeze = 0.8
+rings = 1
+box = [1, 0, 40, 48]
+style = "outline"
+outline = ["#1c739c"]
+fill = "#ffffff"
 
 [[texture]]
 entry = 102
@@ -2198,7 +3121,10 @@ japanese = "壁紙"
 english = "Wallpaper"
 note = "settings row (bubble)"
 background = ["commonest"]
-box = [45, 6, 128, 46]
+box = [45, 6, 138, 46]
+shadow = [0, 2]
+rings = 0
+max_size = 22
 
 [[texture]]
 entry = 190
@@ -2207,10 +3133,13 @@ size = [80, 32]
 japanese = "美容健康"
 english = "Beauty"
 note = "REVIEW"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 fill = "#ffffff"
-outline = ["#101830"]
-squeeze = 1
-font = "SemiBold"
+outline = ["#96caa9", "#4a7058"]
 
 [[texture]]
 entry = 219
@@ -2219,6 +3148,13 @@ size = [40, 48]
 japanese = "月"
 english = "Mon"
 note = "weekday (月 = Monday)"
+max_size = 22
+squeeze = 0.8
+rings = 1
+box = [1, 0, 40, 48]
+style = "outline"
+outline = ["#1c739c"]
+fill = "#ffffff"
 
 [[texture]]
 entry = 238
@@ -2226,6 +3162,11 @@ size = [80, 32]
 [[texture.line]]
 japanese = "娯楽"
 english = "Leisure"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 
 [[texture]]
 entry = 250
@@ -2234,6 +3175,13 @@ size = [40, 48]
 japanese = "土"
 english = "Sat"
 note = "weekday (土 = Saturday)"
+max_size = 22
+squeeze = 0.8
+rings = 1
+box = [1, 0, 40, 48]
+style = "outline"
+outline = ["#1c739c"]
+fill = "#ffffff"
 
 [[texture]]
 entry = 266
@@ -2241,6 +3189,11 @@ size = [80, 32]
 [[texture.line]]
 japanese = "効果"
 english = "Effect"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 
 [[texture]]
 entry = 278
@@ -2250,6 +3203,12 @@ japanese = "ひきつぎ"
 english = "Carry Over"
 note = "REVIEW: main menu, carry over save data"
 background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
 
 [[texture]]
 entry = 295
@@ -2257,6 +3216,13 @@ size = [80, 32]
 [[texture.line]]
 japanese = "学校生活"
 english = "School Life"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+fill = "#ffffff"
+outline = ["#6bb9c7", "#2d7786"]
 
 [[texture]]
 entry = 343
@@ -2265,6 +3231,13 @@ size = [40, 48]
 japanese = "火"
 english = "Tue"
 note = "weekday (火 = Tuesday)"
+max_size = 22
+squeeze = 0.8
+rings = 1
+box = [1, 0, 40, 48]
+style = "outline"
+outline = ["#1c739c"]
+fill = "#ffffff"
 
 [[texture]]
 entry = 375
@@ -2272,6 +3245,11 @@ size = [80, 32]
 [[texture.line]]
 japanese = "恋愛"
 english = "Romance"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 
 [[texture]]
 entry = 423
@@ -2280,6 +3258,13 @@ size = [40, 48]
 japanese = "木"
 english = "Thu"
 note = "weekday (木 = Thursday)"
+max_size = 22
+squeeze = 0.8
+rings = 1
+box = [1, 0, 40, 48]
+style = "outline"
+outline = ["#1c739c"]
+fill = "#ffffff"
 
 [[texture]]
 entry = 433
@@ -2288,11 +3273,13 @@ size = [80, 32]
 japanese = "おしゃれ"
 english = "Stylish"
 note = "REVIEW; CHECK-ART: 80x32, heavy outline"
-max_size = 14
-font = "SemiBold"
+max_size = 22
+squeeze = 0.8
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 fill = "#ffffff"
-outline = ["#090909"]
-squeeze = 1
+outline = ["#b08ab2", "#090909"]
 
 [[texture]]
 entry = 457
@@ -2301,6 +3288,13 @@ size = [40, 48]
 japanese = "金"
 english = "Fri"
 note = "weekday (金 = Friday)"
+max_size = 22
+squeeze = 0.8
+rings = 1
+box = [1, 0, 40, 48]
+style = "outline"
+outline = ["#1c739c"]
+fill = "#ffffff"
 
 [[texture]]
 entry = 491
@@ -2308,6 +3302,11 @@ size = [80, 32]
 [[texture.line]]
 japanese = "勉強"
 english = "Study"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
 
 [[texture]]
 entry = 499
@@ -2315,3 +3314,8 @@ size = [80, 32]
 [[texture.line]]
 japanese = "行動"
 english = "Action"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
