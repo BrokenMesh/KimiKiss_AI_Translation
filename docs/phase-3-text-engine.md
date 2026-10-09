@@ -106,7 +106,7 @@ These draw `FontChar` sprites with their own fixed-pitch layout and need the sam
 Build: `tools/qa/make_en_test_text.py text build/test/text`, then `tools/build/build.sh <clean.iso> build/test/kimikiss_en_test.iso build/test/text`. Played in PCSX2 via `tools/qa/emu.sh`: New Game → default name → prologue. Screenshots are in `qa/` (gitignored).
 
 - **Boot:** the patched image boots. `GRAPH0.PAC` was relocated to LBA 608695, and the font and UI load from it. This confirms that files can be relocated through the ISO9660 directory.
-- **Rendering:** English glyphs are legible, spaced by the width table, sit on the Japanese baseline, and mix correctly with Japanese (`「キス」？`).
+- **Rendering:** English glyphs are legible, spaced by the width table, and mix correctly with Japanese (`「キス」？`). (They first sat on the Japanese baseline; D-033 moved them 3 px up so descenders are not cut.)
 - **Wrapping:**
   - The word-wrapped line breaks at the inserted `／` and fits in 3 lines.
   - The unbroken over-long word is broken by the patched per-character overflow test at the right edge.
