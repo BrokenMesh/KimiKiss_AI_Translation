@@ -10,8 +10,8 @@ The size at which a script `Sprite` is drawn comes from a table in the executabl
 |---|---|---|
 | 0 | u32 | pointer to the name (pattern), e.g. `sysgraph/menu_set2`, `icon_wadai/it%03d`; 0 for record 0 (a full-screen 640 x 448 entry) |
 | 4 | u32 | 1 when the name has a number field (`%1d`, `%03d`, ...) filled in by the caller |
-| 8 | f32 | u: left edge of the rectangle in the texture |
-| 12 | f32 | v: top edge |
+| 8 | f32 | x: unknown; 0 for most records |
+| 12 | f32 | y: unknown; 0 for most records |
 | 16 | f32 | w: width, also the width on screen |
 | 20 | f32 | h: height, also the height on screen |
 | 24 | u32 | `0x100` or `0x101` |
@@ -23,7 +23,8 @@ The size at which a script `Sprite` is drawn comes from a table in the executabl
   - width 40 with an 80-px texture: the left 40 px are shown;
   - width 80: the whole texture, from x 372 to 452.
 - `Sprite >> setTexRect:` (argc 4: u, v, w, h) changes the rectangle at run time; the name-entry cursor uses it.
-- Some records take part of a shared texture (`sysgraph/maru128` at 512, 320; `sysgraph/cursor_base` at 416, 288). Some patterns are listed several times with different sizes (`sysgraph/txt_%03d`: 24 x 32, 32 x 24, 48 x 24, 64 x 24, 80 x 24).
+- x, y are not offsets into the texture: `kaiwa/rireki%03d` (40 x 32 textures) has 512, 176. The non-zero values (`sysgraph/maru128` 512, 320; `icon_wadai/it%03d` 64, 160; `idou/choice%02d` 176, 256) all fall inside 640 x 448 and may be a fixed place in video memory; not confirmed. The resizer refuses these records because a larger size there is untested.
+- Some patterns are listed several times with different sizes (`sysgraph/txt_%03d`: 24 x 32, 32 x 24, 48 x 24, 64 x 24, 80 x 24); the resizer refuses them too.
 
 ## Tools
 

@@ -15,7 +15,8 @@ Names. The GRAPH archives store no names, only a hash of "<name>.tm2"
 
 Sprite table. `Sprite new: id, ...` (script) draws record `id` of a table of 152
 records of 36 bytes at 0x001df1f0: name pattern pointer, u32 flag (1 = the name has a
-number in it), float u, v, w, h (the texture rectangle; w x h is the size on screen),
+number in it), float x, y (unknown; 0 for most records, not a texture offset), w, h
+(the size on screen),
 u32 0x100, u32, u32 -1. The quad is centred on the sprite's position (checked in
 PCSX2 with menu_set2: width 40 -> 80 grows 20 px to each side). The texture's own
 TIM2 size is not used for the quad: a wider TIM2 with the old record is cut off.
@@ -25,8 +26,8 @@ w x h. The build then (1) pads every archive texture of that record to the new s
 around its centre, so the old picture stays where it was on screen, (2) repacks
 GRAPH0.ARC with the new entry lengths (the engine allocates each entry from the ARC
 directory, LoadGraph0 0x00104410, so lengths may change) and (3) writes the new w, h
-into the record. Records with a texture offset (u, v not 0) or a number pattern whose
-textures are not all in GRAPH0 are refused.
+into the record. Records with x, y not 0 (meaning unknown, untested) or a name that
+several records share are refused.
 """
 import itertools
 import os
@@ -181,8 +182,8 @@ def resolve(elf, arc_data, sizes):
                               'resizing one of them is not supported')
         r = recs[0]
         if r['u'] or r['v']:
-            raise SpriteError(f'[[sprite]] {name!r}: the record takes a {r["w"]:g} x {r["h"]:g} part of a larger '
-                              'texture (u, v not 0); not supported')
+            raise SpriteError(f'[[sprite]] {name!r}: the record has the unexplained values {r["u"]:g}, {r["v"]:g} '
+                              '(docs/formats/sprites.md); resizing it is untested and not supported')
         names = expand(name) if r['pattern'] else [name]
         hits = [by_hash[name_hash(n)] for n in names if name_hash(n) in by_hash]
         if not hits:

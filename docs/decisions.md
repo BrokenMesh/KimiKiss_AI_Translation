@@ -266,7 +266,7 @@ Full English build (`build/full_en.iso`) in PCSX2, 2026-10-07: new game, prologu
 
 - **Report (Discord tester):** the settings panel was not uniform. "BGM" kept the original thin Latin art, "Rumble" and "Wall paper" were squeezed into 40 x 32 (hand-drawn at 10 px), "Text Speed" and "Voice" were bold with an outline. Cause: the labels are separate textures of 40 or 80 px, and the redraw had to fit the English into those sizes.
 - **Can a picture be larger on screen?** Yes, for textures drawn through the executable's sprite table. Found:
-  - `Sprite new: id, ...` (script) draws record `id` of a 152-record table at `0x001df1f0` in `SLPS_258.50`. Each record holds a name pattern, a u, v, w, h rectangle, and flags. The on-screen size is the record's w x h, not the TIM2 size: in PCSX2, an 80-px texture in the 40-px Rumble record was cut to "Text S".
+  - `Sprite new: id, ...` (script) draws record `id` of a 152-record table at `0x001df1f0` in `SLPS_258.50`. Each record holds a name pattern, two floats of unknown use (0 for most records), the size w x h, and flags. The on-screen size is the record's w x h, not the TIM2 size: in PCSX2, an 80-px texture in the 40-px Rumble record was cut to "Text S".
   - With the record set to 80, the whole texture showed, centred on the old centre (x 412).
   - The archive's name hash is `h = c0; h = h*0x3FAD + c` over `"<name>.tm2"` (`0x00176ea0`). With it, 490 of the 551 GRAPH0 entries get their name from the strings in the executable. For example, Rumble is `sysgraph/menu_set2`, record 121, entry 459. Format: `docs/formats/sprites.md`.
   - `LoadGraph0` allocates each entry from the ARC directory, so entries may change length. In PCSX2, a GRAPH0 with longer entries (offsets moved) loads and runs.
@@ -275,7 +275,7 @@ Full English build (`build/full_en.iso`) in PCSX2, 2026-10-07: new game, prologu
   2. repacks `GRAPH0.ARC` with the new lengths; hashes, buckets and entry order are kept;
   3. writes the new w, h into the record (`elf_patch.py`, `tools/texture/sprites.py`).
 
-  A record is refused if it takes part of a larger texture (u, v not 0) or if several records share its name. A number pattern (`icon_wadai/it%03d`) resizes every texture of the family. Scripts are not changed. Moving a sprite would need a `setPos:` patch per call site; centred growth plus a box inside the larger canvas covers the label cases.
+  A record is refused if its two unknown floats are not 0 (untested) or if several records share its name. A number pattern (`icon_wadai/it%03d`) resizes every texture of the family. Scripts are not changed. Moving a sprite would need a `setPos:` patch per call site; centred growth plus a box inside the larger canvas covers the label cases.
 - **Readable source:** `tools/texture/labels.tsv` and `layout.tsv` are replaced by `translation/textures.toml`, read by `tools/texture/texdefs.py`.
   - The file has one `[[texture]]` block per texture (entry, name, size, note) with one `[[texture.line]]` per text (`japanese`, `english`, optional `box`, `background`, `align`, `font`, `max_size`, ...).
   - It is sorted by name, under section headings by screen (topic names, map tags, settings panel, ...). The format is documented at the top of the file.
