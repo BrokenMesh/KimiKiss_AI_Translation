@@ -31,7 +31,7 @@ BACKGROUND = {'transparent': 'T', 'commonest': 'mode', 'edge': 'ring'}
 ALIGN = {'old-text': 't', 'centre': 'c', 'left': 'l'}
 TEXTURE_KEYS = {'entry', 'name', 'size', 'note', 'line'}
 LINE_KEYS = {'japanese', 'english', 'note', 'background', 'box', 'align', 'font', 'max_size', 'squeeze',
-             'fill', 'outline', 'rings', 'style', 'shadow', 'x_min', 'x_max'}
+             'fill', 'outline', 'rings', 'style', 'shadow', 'move', 'x_min', 'x_max'}
 SPRITE_KEYS = {'name', 'size', 'note'}
 STYLES = {'auto', 'plain', 'outline', 'shadow'}
 FONTS = {'SemiBold', 'Bold', 'BoldItalic'}          # the Inter files in tools/font
@@ -115,6 +115,9 @@ def _line(entry, k, raw, where):
     if 'shadow' in raw:
         dx, dy = _ints(raw['shadow'], 2, f'{where}: shadow')
         opts['shadow'] = f'{dx},{dy}'
+    if 'move' in raw:
+        dx, dy = _ints(raw['move'], 2, f'{where}: move')
+        opts['move'] = f'{dx},{dy}'
     for key, o in (('x_min', 'xmin'), ('x_max', 'xmax')):
         if key in raw:
             if not isinstance(raw[key], int):

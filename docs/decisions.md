@@ -303,3 +303,10 @@ Full English build (`build/full_en.iso`) in PCSX2, 2026-10-07: new game, prologu
 - **Open (needs a human or an in-game check):** the hand-made overrides 262 and 289 are byte-identical to the original Japanese art (T-037), other overrides T-038 to T-041; the left edge of 342 "Auto Advance" (T-029); Yes/None vs On/Off (T-030); calendar word order "4 Day" (T-043, the number is a separate sprite); a few names and tags stay below 16 px (Hoshino, Kuryuu, Music Room, Science Lab) unless their sprite grows.
 - **Known tool limits found:** `x_min`/`x_max` with the default alignment shifts the text right (use `align = "centre"`); a `commonest` box touching the frame erases the frame.
 - **Checked:** all test suites pass; PCSX2 night menu and settings panel unchanged in layout; before/after sheets of every changed texture reviewed. Release xdelta 4.23 MB, verified against the built ISO.
+
+## D-037: Weekday on the calendar moved down 9 px
+
+- **Report (Discord tester):** on the map screen and night menu the date "4 Day (Thu)" did not fit: "Thu" sat in the upper half of the brackets and stuck out of the orange shape.
+- **Cause:** the weekday is its own 40 x 48 texture (entries 21, 79, 219, 250, 343, 423, 457), drawn over the brackets that are part of `idou/calendar_base`. The redraw centred the English on the centre of the old kanji, but 木 filled the whole bracket height, so the 16-px-high "Thu" ended in the upper half. Measured in PCSX2: "Thu" on screen row 44, "Day", the digit and the bracket bottoms on row 54.
+- **Change:** new optional key `move = [dx, dy]` in `translation/textures.toml` (`texdefs.py`, `redraw.py`): the new text moves by that many pixels from where `align` puts it and still stays inside the box. The erase box is unchanged, so the whole old text is still removed. The seven weekday blocks have `move = [0, 9]`; "Thu" now ends on row 53, inside the orange shape and centred in the brackets. Texture rows map 1:1 to screen rows here.
+- **Checked:** PCSX2 night menu before/after; all test suites pass; release xdelta 4.24 MB, verified against the built ISO.

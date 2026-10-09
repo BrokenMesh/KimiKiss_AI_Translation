@@ -38,6 +38,8 @@
 #   rings     at most this many outline rings.
 #   style     "auto", "plain", "outline" or "shadow".
 #   shadow    [dx, dy] shadow offset.
+#   move      [dx, dy]: move the new text right / down by this many pixels from where
+#             `align` puts it (it stays inside the box).
 #   x_min, x_max  clip the default box on the left / right.
 #
 # [[sprite]] blocks make a picture larger on screen (D-035):
@@ -3060,6 +3062,7 @@ size = [40, 48]
 japanese = "日"
 english = "Sun"
 note = "weekday (日 = Sunday)"
+move = [0, 9]
 max_size = 22
 squeeze = 0.8
 rings = 1
@@ -3105,6 +3108,7 @@ size = [40, 48]
 japanese = "水"
 english = "Wed"
 note = "weekday (水 = Wednesday)"
+move = [0, 9]
 max_size = 22
 squeeze = 0.8
 rings = 1
@@ -3148,6 +3152,7 @@ size = [40, 48]
 japanese = "月"
 english = "Mon"
 note = "weekday (月 = Monday)"
+move = [0, 9]
 max_size = 22
 squeeze = 0.8
 rings = 1
@@ -3175,6 +3180,7 @@ size = [40, 48]
 japanese = "土"
 english = "Sat"
 note = "weekday (土 = Saturday)"
+move = [0, 9]
 max_size = 22
 squeeze = 0.8
 rings = 1
@@ -3231,6 +3237,7 @@ size = [40, 48]
 japanese = "火"
 english = "Tue"
 note = "weekday (火 = Tuesday)"
+move = [0, 9]
 max_size = 22
 squeeze = 0.8
 rings = 1
@@ -3258,6 +3265,7 @@ size = [40, 48]
 japanese = "木"
 english = "Thu"
 note = "weekday (木 = Thursday)"
+move = [0, 9]
 max_size = 22
 squeeze = 0.8
 rings = 1
@@ -3288,6 +3296,7 @@ size = [40, 48]
 japanese = "金"
 english = "Fri"
 note = "weekday (金 = Friday)"
+move = [0, 9]
 max_size = 22
 squeeze = 0.8
 rings = 1

@@ -437,6 +437,9 @@ def draw_text(tex, box, idx_sub, info, line, report):
     if line['align'] == 'l':                   # ink starts at the box's left edge (after outline/shadow room)
         ox = x0 + pl + 1 - ink[0]
     oy = int(round(base_y - base0))
+    if 'move' in opts:                         # nudge the text; it still stays inside the box
+        mdx, mdy = (int(v) for v in opts['move'].split(','))
+        ox, oy = ox + mdx, oy + mdy
     ox = min(max(ox, x0 + pl + 1 - ink[0]), x1 - pr - 1 - ink[2])
     oy = min(max(oy, y0 + pt - ink[1]), y1 - pb - ink[3])
     cov = np.zeros((bh, bw))
