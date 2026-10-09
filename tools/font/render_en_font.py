@@ -15,7 +15,9 @@ import sys
 from PIL import Image, ImageDraw, ImageFont
 
 GW, GH = 24, 28
-BASELINE = 23    # last pixel row of capitals, as in the Japanese font's Latin (row 24)
+BASELINE = 20    # last pixel row of capitals; 3 px above the Japanese Latin (row 24) so
+                 # descenders end on row 25 like the Japanese glyphs (D-033)
+LAST_ROW = 25    # lowest ink row; the game does not show row 27 of a cell (D-033)
 LEFT = 1         # pen x at the start of the cell
 TRACKING = 0     # extra pixels per advance
 
@@ -33,8 +35,10 @@ def main():
         ImageDraw.Draw(cell).text((LEFT, BASELINE + 1 - ascent), ch, font=font, fill=255)
         bbox = font.getbbox(ch)
         ink = cell.getbbox()
-        if ink and (ink[0] == 0 and LEFT + bbox[0] < 0 or ink[2] >= GW or ink[1] == 0 or ink[3] >= GH + 1):
-            print(f'warning: {ch!r} touches the cell edge: {ink}', file=sys.stderr)
+        top = BASELINE + 1 - ascent + bbox[1]
+        bottom = BASELINE + 1 - ascent + bbox[3] - 1
+        if ink and (ink[0] == 0 and LEFT + bbox[0] < 0 or ink[2] >= GW or top < 0 or bottom > LAST_ROW):
+            print(f'warning: {ch!r} is clipped: ink rows {top}..{bottom}, cell rows 0..{LAST_ROW}', file=sys.stderr)
         sheet.paste(cell, (i * GW, 0))
         widths[ch] = round(font.getlength(ch)) + TRACKING
     q = bytes(round(v * 15 / 255) for v in sheet.tobytes())

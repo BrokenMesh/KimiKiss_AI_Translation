@@ -1,15 +1,20 @@
 #!/usr/bin/env python3
-"""Check the GRAPH0 rewrite (font + redrawn textures, D-019).
+"""Check the GRAPH0 rewrite (font + redrawn textures, D-019; larger canvases, D-035).
 
 Usage: test_graph0_textures.py <orig GRAPH0.ARC> [built GRAPH0.PAC]
 
-Builds the patched archive in memory and requires:
-  * same length and same ARC directory; every entry outside {font, labelled
-    textures} is byte-identical to the original;
-  * a redrawn texture keeps its TIM2 header, palette and size, differs from the
-    original only inside its label boxes, and does change there;
+Reads translation/textures.toml and the original executable next to the GRAPH
+directory, builds the patched archive in memory and requires:
+  * the [[sprite]] blocks: every texture of a resized record is the original padded
+    around its centre (cropping it back gives the original pixels), the archive is
+    otherwise the original (same entry order, hashes and buckets);
+  * same directory as that grown archive; every entry outside {font, labelled
+    textures} is byte-identical to it;
+  * a redrawn texture keeps its TIM2 header, palette and size, differs only inside
+    its label boxes, and does change there;
   * the build is deterministic (two runs give the same bytes);
-  * labels are printable ASCII and point at TIM2 entries;
+  * labels are printable ASCII and point at TIM2 entries; `name` hashes to the
+    entry's ARC hash, `size` is the texture's size;
   * if a built PAC is given, it decompresses to the built archive (the engine
     reads the PAC).
 """
@@ -23,6 +28,8 @@ import apply_graph0  # noqa: E402
 import arc  # noqa: E402
 import lzss  # noqa: E402
 import redraw  # noqa: E402
+import sprites  # noqa: E402
+import texdefs  # noqa: E402
 import tim2  # noqa: E402
 
 
@@ -35,11 +42,32 @@ def main():
             fails.append(msg)
             print('FAIL', msg)
 
-    new, changed, _ = apply_graph0.build(orig)
-    again, _, _ = apply_graph0.build(orig)
+    elf = open(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(sys.argv[1]))), 'SLPS_258.50'), 'rb').read()
+    defs = texdefs.load()
+    sizes, _ = sprites.resolve(elf, orig, defs['sprites'])
+    base = sprites.grow_archive(orig, sizes)
+    a0, a = arc.parse(orig), arc.parse(base)
+    check([(e['index'], e['hash'], e['flag']) for e in a0['entries']] == [(e['index'], e['hash'], e['flag']) for e in a['entries']]
+          and base[:8 + 4 * a['count']] == orig[:8 + 4 * a0['count']], 'growing changed hashes or buckets')
+    for e0, e in zip(a0['entries'], a['entries']):
+        o, g = (d[x['offset']:x['offset'] + x['size']] for d, x in ((orig, e0), (base, e)))
+        if e['index'] not in sizes:
+            check(o == g, f'entry {e["index"]} changed by growing')
+            continue
+        to, tg = tim2.parse(o), tim2.parse(g)
+        dx, dy = (tg['w'] - to['w']) // 2, (tg['h'] - to['h']) // 2
+        crop = b''.join(tg['indices'][(y + dy) * tg['w'] + dx:(y + dy) * tg['w'] + dx + to['w']] for y in range(to['h']))
+        check((tg['w'], tg['h']) == sizes[e['index']] and crop == to['indices'] and tg['palette'] == to['palette'],
+              f'entry {e["index"]}: padded texture is not the original centred in {sizes[e["index"]]}')
+    names = sprites.entry_names(elf, orig)
+    for i, t in defs['textures'].items():
+        if t['name']:
+            check(names.get(i) == t['name'], f'texture {i}: name {t["name"]!r}, the entry is {names.get(i)!r}')
+    new, changed, _ = apply_graph0.build(orig, elf=elf)
+    again, _, _ = apply_graph0.build(orig, elf=elf)
     check(new == again, 'build is not deterministic')
-    a = arc.parse(orig)
-    check(len(new) == len(orig), 'archive length changed')
+    check(len(new) == len(base) and arc.parse(new)['entries'] == a['entries'], 'archive directory differs from the grown one')
+    orig = base
     labels = redraw.load_labels()
     check(changed == {apply_graph0.apply_en_font.FONT_ENTRY} | set(labels), 'changed set != font + labels')
     same = 0
@@ -59,6 +87,8 @@ def main():
             check(all(0x20 <= ord(c) < 0x7F for c in l['english'].replace('|', ' ')),
                   f'entry {i}: english is not ASCII')
         to, tn = tim2.parse(o), tim2.parse(n)
+        size = defs['textures'][i]['size']
+        check(size is None or tuple(size) == (to['w'], to['h']), f'entry {i}: size = {size} but the texture is {to["w"]} x {to["h"]}')
         check(tn['palette'] == to['palette'] and tn['header'] == to['header']
               and (tn['w'], tn['h']) == (to['w'], to['h']), f'entry {i}: header/palette/size differ')
         tex = redraw.Tex(o)

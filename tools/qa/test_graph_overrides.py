@@ -45,6 +45,8 @@ import arc  # noqa: E402
 import lzss  # noqa: E402
 import overrides  # noqa: E402
 import redraw  # noqa: E402
+import sprites  # noqa: E402
+import texdefs  # noqa: E402
 import tim2  # noqa: E402
 import numpy as np  # noqa: E402
 from PIL import Image  # noqa: E402
@@ -182,20 +184,33 @@ def _run(graph_dir, work):
 
     # 3. GRAPH0 build: override replaces the entry and the redraw of a labelled entry
     orig0 = bytes(arcs['GRAPH0'][0])
-    base, base_changed, _ = apply_graph0.build(orig0)
-    new, changed, reports = apply_graph0.build(orig0, True, found['GRAPH0'])
+    elf = open(os.path.join(os.path.dirname(os.path.abspath(graph_dir)), 'SLPS_258.50'), 'rb').read()
+    base, base_changed, _ = apply_graph0.build(orig0, elf=elf)
+    new, changed, reports = apply_graph0.build(orig0, True, found['GRAPH0'], elf)
     check(changed == base_changed | {plain0}, 'GRAPH0 changed set != base + plain override')
-    a0 = arcs['GRAPH0'][1]
-    for e in a0['entries']:
+    an, ab = arc.parse(new), arc.parse(base)       # larger sprites (D-035) move offsets: read each directory
+    for e in an['entries']:
         i = e['index']
-        got = entry_blob(new, a0, i)
+        got = entry_blob(new, an, i)
         if i in conv['GRAPH0']:
             check(got == conv['GRAPH0'][i], f'GRAPH0 {i}: not the converted override')
         else:
-            check(got == entry_blob(base, a0, i), f'GRAPH0 {i}: differs from the build without overrides')
-    check(entry_blob(new, a0, labelled) != entry_blob(base, a0, labelled), 'labelled entry still redrawn')
+            check(got == entry_blob(base, ab, i), f'GRAPH0 {i}: differs from the build without overrides')
+    check(entry_blob(new, an, labelled) != entry_blob(base, ab, labelled), 'labelled entry still redrawn')
     check(sum(1 for r in reports if r.get('override')) == 2, 'override reports missing')
-    check(new == apply_graph0.build(orig0, True, found['GRAPH0'])[0], 'override build is not deterministic')
+    check(new == apply_graph0.build(orig0, True, found['GRAPH0'], elf)[0], 'override build is not deterministic')
+    # an override of a resized sprite's texture must have the larger size
+    defs = texdefs.load()
+    grown = sorted(sprites.resolve(elf, orig0, defs['sprites'])[0])
+    if grown:
+        g = grown[0]
+        small = os.path.join(work, 'small.png')
+        open(small, 'wb').write(tim2.to_png(tim2.parse(entry_blob(arcs['GRAPH0'][0], arcs['GRAPH0'][1], g))))
+        try:
+            apply_graph0.build(orig0, True, {g: small}, elf)
+            check(False, f'GRAPH0 {g}: an override of the old size was accepted for a larger sprite')
+        except overrides.OverrideError as e:
+            check('[[sprite]]' in str(e), f'GRAPH0 {g}: unclear refusal: {e}')
     out_arc, out_pac = os.path.join(work, 'g0.arc'), os.path.join(work, 'g0.pac')
     r = subprocess.run([sys.executable, os.path.join(TOOLS, 'texture', 'apply_graph0.py'),
                         os.path.join(graph_dir, 'GRAPH0.ARC'), out_arc, out_pac, '--overrides', d],

@@ -243,3 +243,70 @@ Full English build (`build/full_en.iso`) in PCSX2, 2026-10-07: new game, prologu
 - **Goal:** the repository should come up for searches such as "KimiKiss translation", "KimiKiss English patch" and "キミキス 英語化パッチ".
 - **In the repository:** the README heading is now "KimiKiss English Patch (PS2 English Translation)" and its first paragraph names the variants (KimiKiss, キミキス, Kimi Kiss, PlayStation 2, xdelta, PCSX2, 英語化パッチ). `docs/index.html` is a one-page project site for GitHub Pages (title, meta description, Open Graph tags, schema.org `SoftwareSourceCode`, download link to `release/KimiKiss_EN.xdelta`), with `docs/sitemap.xml`. `docs/.nojekyll` turns Jekyll off, so the other Markdown files in `docs/` are served as plain files and Liquid-like text in them (for example `{{-100,...}}` in `phase-4-name-entry.md`) cannot break the Pages build. `docs/social-preview.png` (1280x640, made from `docs/logo.png` with Inter and IPAGothic) is the image for link previews.
 - **Owner-only steps, in GitHub settings (no tool here can do them):** repository description, topics, website, social preview upload, enable Pages (branch `main`, folder `/docs`), a GitHub Release with the xdelta attached. The page and sitemap use the URL `brokenmesh.github.io/KimiKiss_AI_Translation/`; if the repository is renamed, those URLs in `docs/index.html`, `docs/sitemap.xml` and the README must be updated (GitHub redirects the repository URL but not the Pages URL).
+
+## D-033: Descenders (g, j, p, q, y) were cut off
+
+- **Report (Discord tester):** the lower part of `g` was missing in dialogue ("Good night", "Big Bro").
+- **Cause:** the English glyphs were drawn with the capitals' last row at 23, the row of the Japanese font's own Latin letters. Inter SemiBold at 22 px reaches 5 px below the baseline, so `g j p q y , ; @ |` ended on rows 27–28 of the 24 x 28 cell. Row 28 does not exist, and row 27 is not shown on screen: no glyph of the original Japanese font uses it (4,384 glyphs, lowest ink row 26; 3,008 end on row 25).
+- **Fix:** `tools/font/render_en_font.py` draws the capitals' last row at 20 (`BASELINE = 20`), so all ink lies on rows 0–25, the same band as the Japanese glyphs. `render_en_font.py` now warns about any glyph with ink outside rows 0..25. Only `|` loses one top row; it does not appear in the translation. Widths are unchanged, so wrapping and layout do not move. English text sits 3 px higher than before; lines are 44 px apart, so nothing collides.
+- **Not done:** a second sprite per character for the descender (the tester's alternative). The 28-px cell already has room; only the placement was wrong, so no script or ELF change is needed.
+- **Verified** in PCSX2 v2.9.108: "isn't a good time.", "I'll be going now.", "particular", "Load complete." show full `g`, `y`, `p` and commas. All 8 test suites pass. The release patch is regenerated and reproduces the built ISO (`xdelta3 -d` + `cmp`); the ISO differs from the previous release in 860,454 bytes because `GRAPH0.PAC` is LZSS-compressed, so the font change shifts everything after the font entry.
+
+## D-034: Dialogue box line pitch 44 → 40, top margin 18 → 16
+
+- **Report (Discord tester):** with three lines in the box, the third line nearly touches the bottom frame.
+- **Measured** (PCSX2 capture, 640 x 480; the game's 448 lines are scaled by 1.071): the frame's inner area is game y 53..190. Line centres are `posY + marginY + pitchY/2 + k·pitchY` = 84, 128, 172. English ink spans rows 5..25 of the 28-px cell (capitals to descenders, D-033), so the block ran from 75 to 183: 22 px free above the first line, 7 px below the third. The Japanese glyphs fill the cell more evenly, so the original constants looked balanced for Japanese only.
+- **Fix:** `patches/scripts/TextWindow.initialize7.asm` sets `pitchY` 40 and `marginY` 16 (two constants; the method is otherwise the original). Line centres are now 80, 120, 160; the block runs 71..171, about 18 px free above and below. Between one line's descenders and the next line's capitals there are 20 px, the same gap the Japanese text had at pitch 44. The choice menu uses the same pitch and stays readable (42 capture px between options).
+- **Scope:** `TextWindow` is created once (`Parson.messWin`, via `initialize` with no arguments), and no script calls `pitchY:` or `setMargin:`, so only the dialogue box and its choice list change. The backlog (`LogLine`) has its own geometry and is unchanged.
+- **Alternatives not taken:** only lowering the top margin (to 10) would also centre the block but leaves 14 px at the edges; only lowering the pitch to 36 would crowd the lines.
+- **Tests:** `test_patches_jp.py` compares `putChar:`/`output` between the original and the patched scripts; it now pins `marginY`/`pitchY` to the original values so that comparison is not affected by this intended change.
+- **Verified** in PCSX2 v2.9.108 with three 3-line boxes ("Oh, so your grandpa eats hamburger steak too.", "Senpai, I don't really get what you're talking about...", "Oh, it's almost time for class. I'll be going now, Senpai."): equal space above and below, no overlap. Release patch regenerated and checked with `xdelta3 -d` + `cmp`.
+
+## D-035: Texture text in one readable file; sprites can be made larger
+
+- **Report (Discord tester):** the settings panel was not uniform. "BGM" kept the original thin Latin art, "Rumble" and "Wall paper" were squeezed into 40 x 32 (hand-drawn at 10 px), "Text Speed" and "Voice" were bold with an outline. Cause: the labels are separate textures of 40 or 80 px, and the redraw had to fit the English into those sizes.
+- **Can a picture be larger on screen?** Yes, for textures drawn through the executable's sprite table. Found:
+  - `Sprite new: id, ...` (script) draws record `id` of a 152-record table at `0x001df1f0` in `SLPS_258.50`. Each record holds a name pattern, two floats of unknown use (0 for most records), the size w x h, and flags. The on-screen size is the record's w x h, not the TIM2 size: in PCSX2, an 80-px texture in the 40-px Rumble record was cut to "Text S".
+  - With the record set to 80, the whole texture showed, centred on the old centre (x 412).
+  - The archive's name hash is `h = c0; h = h*0x3FAD + c` over `"<name>.tm2"` (`0x00176ea0`). With it, 490 of the 551 GRAPH0 entries get their name from the strings in the executable. For example, Rumble is `sysgraph/menu_set2`, record 121, entry 459. Format: `docs/formats/sprites.md`.
+  - `LoadGraph0` allocates each entry from the ARC directory, so entries may change length. In PCSX2, a GRAPH0 with longer entries (offsets moved) loads and runs.
+- **How:** a `[[sprite]]` block (record name, new size) in `translation/textures.toml`. The build:
+  1. pads every texture of that record to the new size around its centre (the old picture stays in place on screen; the new room is on each side);
+  2. repacks `GRAPH0.ARC` with the new lengths; hashes, buckets and entry order are kept;
+  3. writes the new w, h into the record (`elf_patch.py`, `tools/texture/sprites.py`).
+
+  A record is refused if its two unknown floats are not 0 (untested) or if several records share its name. A number pattern (`icon_wadai/it%03d`) resizes every texture of the family. Scripts are not changed. Moving a sprite would need a `setPos:` patch per call site; centred growth plus a box inside the larger canvas covers the label cases.
+- **Readable source:** `tools/texture/labels.tsv` and `layout.tsv` are replaced by `translation/textures.toml`, read by `tools/texture/texdefs.py`.
+  - The file has one `[[texture]]` block per texture (entry, name, size, note) with one `[[texture.line]]` per text (`japanese`, `english`, optional `box`, `background`, `align`, `font`, `max_size`, ...).
+  - It is sorted by name, under section headings by screen (topic names, map tags, settings panel, ...). The format is documented at the top of the file.
+  - Options have names instead of codes: `background = ["commonest"]` for `mode`, `"transparent"` for `T`, colours as `"#ffbd65"`. A line break is `\n`.
+  - Unknown keys, bad values, a `size` that does not match the texture and a `name` that does not hash to the entry are errors.
+  - The conversion produced byte-identical `GRAPH0.ARC`/`PAC` to the previous build. New option: `align = "left"` (text starts at the box's left edge).
+- **Settings panel (first use):**
+  - Records menu_set2/3/4/8/9 (Rumble, Voice, BGM, Wallpaper, Text Speed) grow to 120 x 32, which gives 80 px from the common left edge (Text Speed: 100 px).
+  - menu_set6/7 (Yes, None) grow to 64 x 32.
+  - All rows, the values and "Reset to Default" are drawn left-aligned (values centred) in Inter SemiBold 16 px with a 1-px shadow, the original white-on-dark style; nothing is squeezed. BGM is now redrawn too, as "BGM".
+  - "Wall paper" is now "Wallpaper" on one line.
+  - The hand-drawn `texture_overrides/GRAPH0_0459.png` and `GRAPH0_0351.png` (40 x 32) are removed; they remain in git history. An override of a larger sprite must have the larger size; `sprites.py export <entry> <png>` writes the template.
+  - Verified in PCSX2 (Rumble toggled Yes/None).
+- **Cost:** `GRAPH0.ARC` grows by 11.5 KB, so `iso_patch.py` relocates it to the free sectors after the last file. The xdelta grows from 2.92 MB to 4.17 MB, because xdelta3 does not match data that moved about 1.2 GB.
+- **Tests:** `test_graph0_textures.py` checks the padding (cropping gives the original), hashes and buckets, names and sizes. `test_graph_overrides.py` reads each built directory and checks that an old-size PNG for a larger sprite is refused.
+
+## D-036: Texture text made consistent (audit and fix pass)
+
+- **Request:** after D-035, one agent lists every place where the English in pictures is inconsistent; a second agent fixes them.
+- **Audit:** `docs/texture-audit.md`, 43 issues (T-001 to T-043) from before/after sheets of all 217 redrawn textures and the hand-made overrides, each with the entries, what is wrong and a proposed `textures.toml` change. It also states the conventions per screen (one font, size range, outline or shadow, colours).
+- **Fix pass:** only `translation/textures.toml` changed; sprites, overrides and the settings-panel blocks of D-035 are untouched. 24 issues fixed, 4 partly, 10 not fixed (in-game check, wording kept, or hand-made override), 4 not needed. One line per issue is in the "Outcome (fix pass)" section of the audit.
+  - Families now share one style: topic names, area and period choices (black text, white outline, as in the original art), location plates (explicit outline colour), conversation categories (shared colours per pair, common box), map hint banners, girls menu (white with a drop shadow, as the original), buttons.
+  - Boxes were fitted so that the redraw no longer erases plate outlines, frames or icons (Garden/Gym plates, hint banners, weekdays).
+  - Wording: 227 "Let's go on an after-school date!" → "Go on an after-school date!", 94 "The school festival is this weekend!" → "School festival this weekend!" (both were squeezed below the size of their neighbours). 347 is `"LEVEL\n  UP!!"`: the leading spaces centre the second line.
+- **Open (needs a human or an in-game check):** the hand-made overrides 262 and 289 are byte-identical to the original Japanese art (T-037), other overrides T-038 to T-041; the left edge of 342 "Auto Advance" (T-029); Yes/None vs On/Off (T-030); calendar word order "4 Day" (T-043, the number is a separate sprite); a few names and tags stay below 16 px (Hoshino, Kuryuu, Music Room, Science Lab) unless their sprite grows.
+- **Known tool limits found:** `x_min`/`x_max` with the default alignment shifts the text right (use `align = "centre"`); a `commonest` box touching the frame erases the frame.
+- **Checked:** all test suites pass; PCSX2 night menu and settings panel unchanged in layout; before/after sheets of every changed texture reviewed. Release xdelta 4.23 MB, verified against the built ISO.
+
+## D-037: Weekday on the calendar moved down 9 px
+
+- **Report (Discord tester):** on the map screen and night menu the date "4 Day (Thu)" did not fit: "Thu" sat in the upper half of the brackets and stuck out of the orange shape.
+- **Cause:** the weekday is its own 40 x 48 texture (entries 21, 79, 219, 250, 343, 423, 457), drawn over the brackets that are part of `idou/calendar_base`. The redraw centred the English on the centre of the old kanji, but 木 filled the whole bracket height, so the 16-px-high "Thu" ended in the upper half. Measured in PCSX2: "Thu" on screen row 44, "Day", the digit and the bracket bottoms on row 54.
+- **Change:** new optional key `move = [dx, dy]` in `translation/textures.toml` (`texdefs.py`, `redraw.py`): the new text moves by that many pixels from where `align` puts it and still stays inside the box. The erase box is unchanged, so the whole old text is still removed. The seven weekday blocks have `move = [0, 9]`; "Thu" now ends on row 53, inside the orange shape and centred in the brackets. Texture rows map 1:1 to screen rows here.
+- **Checked:** PCSX2 night menu before/after; all test suites pass; release xdelta 4.24 MB, verified against the built ISO.

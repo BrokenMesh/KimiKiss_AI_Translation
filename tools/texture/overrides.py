@@ -29,7 +29,9 @@ ARC offsets do not move:
     index; every other pixel gets the nearest of the palette entries the
     original picture uses (premultiplied RGB + alpha, the quantizer of redraw.py)
     and fully clear pixels the most common clear entry.
-An override replaces the automatic redraw (labels.tsv) of its entry.
+An override replaces the automatic redraw (translation/textures.toml) of its entry.
+A texture that a [[sprite]] block of textures.toml makes larger (D-035) needs a PNG
+of the larger size (`sprites.py export` writes a template).
 
 Refused with an explanation: wrong size, entry not in the archive, entry that
 is not a TIM2 (GRAPH0 396, the float records of GRAPH2), the generated font
@@ -162,8 +164,11 @@ def to_tim2(png_path, blob, label=''):
     except Exception as e:                                  # noqa: BLE001 - Pillow raises many types
         raise OverrideError(f'{label}: cannot read PNG ({e})') from e
     if im.size != (w, h):
-        raise OverrideError(f'{label}: PNG is {im.size[0]} x {im.size[1]}, the texture is {w} x {h}; '
-                            'the size must not change')
+        hint = 'the size must not change'
+        if im.size[0] <= w and im.size[1] <= h:
+            hint += (' (if a [[sprite]] block of translation/textures.toml makes the texture larger (D-035), '
+                     'draw on a template from `python3 tools/texture/sprites.py export <entry> <file.png>`)')
+        raise OverrideError(f'{label}: PNG is {im.size[0]} x {im.size[1]}, the texture is {w} x {h}; ' + hint)
     n = len(t['palette'])
     pal = np.array(t['palette'], np.int64)
     scaled = bool((pal[:, 3] <= 0x80).all())                # D-008: alpha scaled 0x80 -> 255 when all <= 0x80

@@ -66,6 +66,22 @@ Rules, the short version:
 
 Full details: [docs/translation-format.md](docs/translation-format.md) and [tools/translate/TRANSLATOR.md](tools/translate/TRANSLATOR.md).
 
+### Text in pictures (menus, buttons, map tags)
+
+Menu and button labels are pictures. Their English is in [translation/textures.toml](translation/textures.toml), one block per picture, grouped by screen:
+
+```toml
+[[texture]]
+entry = 459
+name = "sysgraph/menu_set2"
+size = [120, 32]
+[[texture.line]]
+japanese = "振動"
+english = "Rumble"
+```
+
+Change `english` and nothing else unless the result does not fit. The other keys (box, alignment, font size, larger sprites) are explained at the top of the file. `python3 tools/texture/texdefs.py check` reports mistakes. To see the result without a full build, run `python3 tools/texture/redraw.py build/orig/GRAPH/GRAPH0.ARC build/tex_out --preview qa/tex --only 459`; it writes the original and the new picture side by side to `qa/tex/GRAPH0_0459.png`.
+
 ## 5. Validate
 
 ```sh
@@ -83,4 +99,4 @@ The build takes about a minute. Start `build/test.iso` in PCSX2 and go to the sc
 
 ## 7. Send it in
 
-Open a pull request. It should touch only `translation/en/`, with no `text/`, no ISO and no files from the game. Alternatively, open an issue with the scene id and the new line.
+Open a pull request. It should touch only `translation/en/` (and `translation/textures.toml` for picture text), with no `text/`, no ISO and no files from the game. Alternatively, open an issue with the scene id and the new line.

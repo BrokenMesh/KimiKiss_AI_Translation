@@ -1,0 +1,3330 @@
+# English text of the game's pictures (GRAPH0 textures). The build erases the Japanese
+# text of each texture below and draws the English in its place (tools/texture/redraw.py,
+# decisions D-019 and D-035). Hand-made PNGs in texture_overrides/ take precedence over
+# a block here (D-020, D-031).
+#
+# One [[texture]] block per texture, sorted by name so the parts of one screen are
+# together. Look at a texture with:
+#   python3 tools/texture/redraw.py build/orig/GRAPH/GRAPH0.ARC build/tex_out --preview qa/tex --only 459
+# (qa/tex/GRAPH0_0459.png: original left, result right; --debug marks the detected text)
+#
+#   entry     GRAPH0 entry number (the NNNN of GRAPH0_NNNN.png). Required.
+#   name      the texture's name in the game (for reference; checked by the tests).
+#   size      [width, height] in pixels (for reference; checked by the build). Coordinates
+#             below count from the top left corner, x to the right, y down.
+#   note      free text about the whole texture.
+#
+# One [[texture.line]] per piece of text, in the order of the texture:
+#   japanese  the Japanese text on the original picture. Required.
+#   english   the English text. "\n" starts a new line inside the same box. Required.
+#   note      free text. REVIEW = the translation is uncertain, CHECK-ART = look at the result.
+# Optional, only when the defaults do not work:
+#   box       [left, top, right, bottom], right and bottom exclusive: where the old text is
+#             and where the new text may go. Default: the whole texture, or with
+#             background = "commonest" the area of that colour (a button's face).
+#   background  how text is told from background, a list of
+#             "transparent" (clear pixels), "commonest" (the most frequent colour in the box),
+#             "edge" (the colours along the box's border) and colours "#rrggbb".
+#             Default ["transparent"].
+#   align     "old-text" (default: centred where the Japanese text was), "centre" (centre
+#             of the box) or "left" (starts at the left edge of the box).
+#   font      "SemiBold", "Bold" or "BoldItalic" (Inter). Default: Bold with an outline
+#             or shadow, else SemiBold.
+#   max_size  largest text height in pixels (default: from the Japanese text).
+#   squeeze   narrowest horizontal squeeze before the size drops, 0.5 to 1 (default 0.85).
+#   fill      text colour "#rrggbb" (default: from the Japanese text).
+#   outline   ring colours from the text outwards, e.g. ["#0b537a"] (default: read from the
+#             picture).
+#   rings     at most this many outline rings.
+#   style     "auto", "plain", "outline" or "shadow".
+#   shadow    [dx, dy] shadow offset.
+#   move      [dx, dy]: move the new text right / down by this many pixels from where
+#             `align` puts it (it stays inside the box).
+#   x_min, x_max  clip the default box on the left / right.
+#
+# [[sprite]] blocks make a picture larger on screen (D-035):
+#   name      the sprite-table record, e.g. "sysgraph/menu_set2" (list them with
+#             python3 tools/texture/sprites.py table build/orig/SLPS_258.50)
+#   size      the new [width, height]. Each texture of the record grows by the same amount
+#             on every side (even numbers), so the old picture stays where it was and the
+#             new room is left and right (above and below) of it. Boxes and `size` of the
+#             texture blocks then count in the larger picture. Only records the build can
+#             check are allowed (tools/texture/sprites.py says why when one is refused).
+#   note      free text.
+
+# ==============================================================================
+# Larger sprites (D-035)
+# ==============================================================================
+
+# Settings panel: the labels share a left edge; Rumble, Voice, BGM and Wallpaper were 40 px
+# wide, Text Speed 80, so the English had to shrink or squeeze. At 120 x 32, centred where
+# they were, there are 80 px (Text Speed: 100 px) right of the common left edge, short of
+# the value column.
+[[sprite]]
+name = "sysgraph/menu_set2"
+size = [120, 32]
+note = "Rumble"
+
+[[sprite]]
+name = "sysgraph/menu_set3"
+size = [120, 32]
+note = "Voice"
+
+[[sprite]]
+name = "sysgraph/menu_set4"
+size = [120, 32]
+note = "BGM"
+
+[[sprite]]
+name = "sysgraph/menu_set6"
+size = [64, 32]
+note = "Yes (value, centred on its old place)"
+
+[[sprite]]
+name = "sysgraph/menu_set7"
+size = [64, 32]
+note = "None (value, centred on its old place)"
+
+[[sprite]]
+name = "sysgraph/menu_set8"
+size = [120, 32]
+note = "Wallpaper"
+
+[[sprite]]
+name = "sysgraph/menu_set9"
+size = [120, 32]
+note = "Text Speed"
+
+# ==============================================================================
+# Topic names (icon_wadai/itNNN)
+# ==============================================================================
+
+[[texture]]
+entry = 380
+name = "icon_wadai/it001"
+size = [96, 32]
+[[texture.line]]
+japanese = "世間話"
+english = "Small Talk"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 503
+name = "icon_wadai/it002"
+size = [96, 32]
+[[texture.line]]
+japanese = "部活"
+english = "Clubs"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 140
+name = "icon_wadai/it003"
+size = [96, 32]
+[[texture.line]]
+japanese = "制服"
+english = "Uniform"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 330
+name = "icon_wadai/it004"
+size = [96, 32]
+[[texture.line]]
+japanese = "委員"
+english = "Committee"
+note = "REVIEW"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 445
+name = "icon_wadai/it005"
+size = [96, 32]
+[[texture.line]]
+japanese = "校則"
+english = "Rules"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 84
+name = "icon_wadai/it006"
+size = [96, 32]
+[[texture.line]]
+japanese = "先生"
+english = "Teacher"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 277
+name = "icon_wadai/it007"
+size = [96, 32]
+[[texture.line]]
+japanese = "転校"
+english = "Transfer"
+note = "REVIEW: changing schools"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 390
+name = "icon_wadai/it008"
+size = [96, 32]
+[[texture.line]]
+japanese = "自宅学習"
+english = "Home Study"
+box = [2, 0, 95, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 36
+name = "icon_wadai/it009"
+size = [96, 32]
+[[texture.line]]
+japanese = "成績"
+english = "Grades"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 357
+name = "icon_wadai/it010"
+size = [96, 32]
+[[texture.line]]
+japanese = "受験"
+english = "Exams"
+note = "REVIEW: entrance exams"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 476
+name = "icon_wadai/it011"
+size = [96, 32]
+[[texture.line]]
+japanese = "イタリア語"
+english = "Italian"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 116
+name = "icon_wadai/it012"
+size = [96, 32]
+[[texture.line]]
+japanese = "体育"
+english = "P.E."
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 310
+name = "icon_wadai/it013"
+size = [96, 32]
+[[texture.line]]
+japanese = "水泳"
+english = "Swimming"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 417
+name = "icon_wadai/it014"
+size = [96, 32]
+[[texture.line]]
+japanese = "スポーツ"
+english = "Sports"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 64
+name = "icon_wadai/it015"
+size = [96, 32]
+[[texture.line]]
+japanese = "ダンス"
+english = "Dance"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 177
+name = "icon_wadai/it016"
+size = [96, 32]
+[[texture.line]]
+japanese = "音楽"
+english = "Music"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 362
+name = "icon_wadai/it017"
+size = [96, 32]
+[[texture.line]]
+japanese = "映像"
+english = "Video"
+note = "REVIEW"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 14
+name = "icon_wadai/it018"
+size = [96, 32]
+[[texture.line]]
+japanese = "読書"
+english = "Reading"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 120
+name = "icon_wadai/it019"
+size = [96, 32]
+[[texture.line]]
+japanese = "ショッピング"
+english = "Shopping"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 437
+name = "icon_wadai/it020"
+size = [96, 32]
+[[texture.line]]
+japanese = "ファッション"
+english = "Fashion"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 78
+name = "icon_wadai/it021"
+size = [96, 32]
+[[texture.line]]
+japanese = "アクセサリー"
+english = "Accessories"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 199
+name = "icon_wadai/it022"
+size = [96, 32]
+[[texture.line]]
+japanese = "化粧"
+english = "Makeup"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 386
+name = "icon_wadai/it023"
+size = [96, 32]
+[[texture.line]]
+japanese = "水着"
+english = "Swimsuit"
+note = "the old TSV read this as a character name"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 34
+name = "icon_wadai/it024"
+size = [96, 32]
+[[texture.line]]
+japanese = "食事"
+english = "Meal"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 149
+name = "icon_wadai/it025"
+size = [96, 32]
+[[texture.line]]
+japanese = "甘いもの"
+english = "Sweets"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 335
+name = "icon_wadai/it026"
+size = [96, 32]
+[[texture.line]]
+japanese = "ドリンク"
+english = "Drinks"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 529
+name = "icon_wadai/it027"
+size = [96, 32]
+[[texture.line]]
+japanese = "手料理"
+english = "Cooking"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 89
+name = "icon_wadai/it028"
+size = [96, 32]
+[[texture.line]]
+japanese = "うどん"
+english = "Udon"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 284
+name = "icon_wadai/it029"
+size = [96, 32]
+[[texture.line]]
+japanese = "ジャンクフード"
+english = "Junk Food"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 526
+name = "icon_wadai/it030"
+size = [96, 32]
+[[texture.line]]
+japanese = "健康"
+english = "Health"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 172
+name = "icon_wadai/it031"
+size = [96, 32]
+[[texture.line]]
+japanese = "ダイエット"
+english = "Diet"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 361
+name = "icon_wadai/it032"
+size = [96, 32]
+[[texture.line]]
+japanese = "体"
+english = "Body"
+note = "REVIEW: single-kanji stat name"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 479
+name = "icon_wadai/it033"
+size = [96, 32]
+[[texture.line]]
+japanese = "恋"
+english = "Love"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 118
+name = "icon_wadai/it034"
+size = [96, 32]
+[[texture.line]]
+japanese = "プライベート"
+english = "Private"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 315
+name = "icon_wadai/it035"
+size = [96, 32]
+[[texture.line]]
+japanese = "エッチ"
+english = "Naughty"
+note = "REVIEW"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 421
+name = "icon_wadai/it036"
+size = [96, 32]
+[[texture.line]]
+japanese = "将来"
+english = "Future"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 66
+name = "icon_wadai/it037"
+size = [96, 32]
+[[texture.line]]
+japanese = "昔"
+english = "Past"
+note = "REVIEW: topic"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 256
+name = "icon_wadai/it038"
+size = [96, 32]
+[[texture.line]]
+japanese = "ほめる"
+english = "Praise"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 367
+name = "icon_wadai/it039"
+size = [96, 32]
+[[texture.line]]
+japanese = "見つめる"
+english = "Gaze"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 144
+name = "icon_wadai/it040"
+size = [96, 32]
+[[texture.line]]
+japanese = "微笑む"
+english = "Smile"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 253
+name = "icon_wadai/it041"
+size = [96, 32]
+[[texture.line]]
+japanese = "かっこつける"
+english = "Act Cool"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 447
+name = "icon_wadai/it042"
+size = [96, 32]
+[[texture.line]]
+japanese = "手を握る"
+english = "Hold Hands"
+rings = 2
+squeeze = 0.8
+box = [3, 0, 93, 32]
+max_size = 22
+outline = ["#101010"]
+
+[[texture]]
+entry = 86
+name = "icon_wadai/it043"
+size = [96, 32]
+[[texture.line]]
+japanese = "カミカゼ"
+english = "Kamikaze"
+note = "REVIEW: item or topic name, kept as is"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 203
+name = "icon_wadai/it044"
+size = [96, 32]
+[[texture.line]]
+japanese = "エスケープ"
+english = "Escape"
+note = "REVIEW: skipping class"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+[[texture]]
+entry = 533
+name = "icon_wadai/it052"
+size = [96, 32]
+[[texture.line]]
+japanese = "アタック"
+english = "Attack"
+box = [3, 0, 93, 32]
+max_size = 22
+squeeze = 0.8
+outline = ["#101010"]
+rings = 2
+
+# ==============================================================================
+# Map screen: calendar (idou/calendar_base)
+# ==============================================================================
+
+[[texture]]
+entry = 151
+name = "idou/calendar_base"
+size = [160, 120]
+[[texture.line]]
+japanese = "日め"
+english = "Day"
+note = "REVIEW: day counter \"2 日め (Tue)\"; the number sprite stays left of this word, so it reads \"2 Day (Tue)\""
+background = ["commonest"]
+box = [54, 20, 88, 44]
+max_size = 17
+
+# ==============================================================================
+# Map screen: area and period choices (idou/choiceNN, idou/choice_N)
+# ==============================================================================
+
+[[texture]]
+entry = 272
+name = "idou/choice01"
+size = [80, 32]
+[[texture.line]]
+japanese = "1年"
+english = "Year 1"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
+
+[[texture]]
+entry = 384
+name = "idou/choice02"
+size = [80, 32]
+[[texture.line]]
+japanese = "2年"
+english = "Year 2"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
+
+[[texture]]
+entry = 33
+name = "idou/choice03"
+size = [80, 32]
+[[texture.line]]
+japanese = "3年"
+english = "Year 3"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
+
+[[texture]]
+entry = 220
+name = "idou/choice04"
+size = [80, 32]
+[[texture.line]]
+japanese = "図書"
+english = "Library"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
+
+[[texture]]
+entry = 333
+name = "idou/choice05"
+size = [80, 32]
+[[texture.line]]
+japanese = "保健"
+english = "Infirmary"
+note = "REVIEW: shown in the period slot as the chosen place; \"Health\" in the first pass"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
+
+[[texture]]
+entry = 527
+name = "idou/choice06"
+size = [80, 32]
+[[texture.line]]
+japanese = "理科"
+english = "Science"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
+
+[[texture]]
+entry = 173
+name = "idou/choice07"
+size = [80, 32]
+[[texture.line]]
+japanese = "家庭"
+english = "Home Ec"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
+
+[[texture]]
+entry = 282
+name = "idou/choice08"
+size = [80, 32]
+[[texture.line]]
+japanese = "音楽"
+english = "Music"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
+
+[[texture]]
+entry = 480
+name = "idou/choice09"
+size = [80, 32]
+[[texture.line]]
+japanese = "屋上"
+english = "Rooftop"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
+
+[[texture]]
+entry = 170
+name = "idou/choice10"
+size = [80, 32]
+[[texture.line]]
+japanese = "体育館"
+english = "Gym"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
+
+[[texture]]
+entry = 360
+name = "idou/choice11"
+size = [80, 32]
+[[texture.line]]
+japanese = "食堂"
+english = "Cafeteria"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
+
+[[texture]]
+entry = 9
+name = "idou/choice12"
+size = [80, 32]
+[[texture.line]]
+japanese = "校庭"
+english = "Schoolyard"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
+
+[[texture]]
+entry = 117
+name = "idou/choice13"
+size = [80, 32]
+[[texture.line]]
+japanese = "花壇"
+english = "Garden"
+max_size = 22
+squeeze = 0.8
+rings = 2
+box = [2, 0, 78, 32]
+fill = "#090808"
+outline = ["#ffffff", "#ffffff", "#ffffff"]
+
+[[texture]]
+entry = 269
+name = "idou/choice_1"
+size = [112, 64]
+[[texture.line]]
+japanese = "休み1"
+english = "Break 1"
+note = "period tab"
+background = ["commonest"]
+box = [3, 2, 58, 23]
+squeeze = 0.85
+max_size = 17
+
+[[texture]]
+entry = 376
+name = "idou/choice_2"
+size = [112, 64]
+[[texture.line]]
+japanese = "休み2"
+english = "Break 2"
+note = "CHECK-ART: tab overlaps the panel border (teal dash under the old text removed)"
+background = ["commonest"]
+box = [3, 2, 58, 23]
+squeeze = 0.85
+max_size = 17
+
+[[texture]]
+entry = 28
+name = "idou/choice_3"
+size = [112, 64]
+[[texture.line]]
+japanese = "昼休み"
+english = "Lunch"
+note = "\"Lunch Break\" does not fit the tab; CHECK-ART: tab overlaps the panel border"
+background = ["commonest"]
+box = [3, 2, 59, 23]
+squeeze = 0.85
+max_size = 17
+
+[[texture]]
+entry = 215
+name = "idou/choice_4"
+size = [112, 64]
+[[texture.line]]
+japanese = "放課後"
+english = "After School"
+note = "period tab; falls back to \"After\" if it will not fit"
+background = ["commonest"]
+box = [3, 2, 60, 23]
+
+# ==============================================================================
+# Map screen: place tags (idou/eriaNNmN, idou/eriaNNsN; NN = area)
+# ==============================================================================
+
+[[texture]]
+entry = 294
+name = "idou/eria01m0"
+size = [112, 40]
+[[texture.line]]
+japanese = "1年廊下"
+english = "Year 1 Hall"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [32, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 411
+name = "idou/eria01s0"
+size = [128, 56]
+[[texture.line]]
+japanese = "1年"
+english = "Year 1"
+note = "map tag"
+background = ["commonest"]
+box = [12, 7, 60, 37]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 57
+name = "idou/eria01s1"
+size = [128, 56]
+[[texture.line]]
+japanese = "1年"
+english = "Year 1"
+note = "map tag"
+background = ["commonest"]
+box = [12, 7, 60, 37]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 549
+name = "idou/eria02m0"
+size = [112, 40]
+[[texture.line]]
+japanese = "2年廊下"
+english = "Year 2 Hall"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [32, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 111
+name = "idou/eria02s0"
+size = [80, 80]
+[[texture.line]]
+japanese = "2年"
+english = "Year 2"
+note = "map tag"
+background = ["commonest"]
+box = [21, 5, 71, 34]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 306
+name = "idou/eria02s1"
+size = [80, 80]
+[[texture.line]]
+japanese = "2年"
+english = "Year 2"
+note = "map tag"
+background = ["commonest"]
+box = [21, 5, 71, 34]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 163
+name = "idou/eria03m0"
+size = [112, 40]
+[[texture.line]]
+japanese = "3年廊下"
+english = "Year 3 Hall"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [32, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 358
+name = "idou/eria03s0"
+size = [72, 80]
+[[texture.line]]
+japanese = "3年"
+english = "Year 3"
+note = "map tag"
+background = ["commonest"]
+box = [12, 6, 66, 33]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 477
+name = "idou/eria03s1"
+size = [72, 80]
+[[texture.line]]
+japanese = "3年"
+english = "Year 3"
+background = ["commonest"]
+box = [9, 4, 68, 31]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 406
+name = "idou/eria04m0"
+size = [112, 40]
+[[texture.line]]
+japanese = "図書室"
+english = "Library"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [36, 4, 104, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 519
+name = "idou/eria04m1"
+size = [112, 40]
+[[texture.line]]
+japanese = "本棚"
+english = "Bookshelf"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [40, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 524
+name = "idou/eria04s0"
+size = [96, 72]
+[[texture.line]]
+japanese = "図書"
+english = "Library"
+note = "map tag"
+background = ["commonest"]
+box = [22, 5, 75, 34]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 171
+name = "idou/eria04s1"
+size = [96, 72]
+[[texture.line]]
+japanese = "図書"
+english = "Library"
+note = "map tag"
+background = ["commonest"]
+box = [22, 5, 75, 34]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 31
+name = "idou/eria05m0"
+size = [112, 40]
+[[texture.line]]
+japanese = "保健室"
+english = "Infirmary"
+note = "nurse's office; the old TSV read 親備室"
+background = ["transparent", "#ffbd65"]
+box = [36, 4, 100, 36]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 217
+name = "idou/eria05m1"
+size = [112, 40]
+[[texture.line]]
+japanese = "ベッド"
+english = "Bed"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [40, 4, 104, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 223
+name = "idou/eria05s0"
+size = [64, 64]
+[[texture.line]]
+japanese = "保健"
+english = "Infirmary"
+note = "map tag; same place as 保健室 (31)"
+background = ["commonest"]
+box = [5, 33, 59, 61]
+fill = "#ffffff"
+
+[[texture]]
+entry = 336
+name = "idou/eria05s1"
+size = [64, 64]
+[[texture.line]]
+japanese = "保健"
+english = "Infirmary"
+note = "map tag; same place as 保健室 (31); \"Health\" in the first pass"
+background = ["commonest"]
+box = [5, 33, 59, 61]
+fill = "#ffffff"
+
+[[texture]]
+entry = 273
+name = "idou/eria06m0"
+size = [112, 40]
+[[texture.line]]
+japanese = "理科室"
+english = "Science Lab"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [34, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 472
+name = "idou/eria06m1"
+size = [112, 40]
+[[texture.line]]
+japanese = "準備室"
+english = "Prep Room"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [40, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 392
+name = "idou/eria06s0"
+size = [64, 72]
+[[texture.line]]
+japanese = "理科"
+english = "Science"
+background = ["commonest"]
+box = [6, 39, 59, 65]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 37
+name = "idou/eria06s1"
+size = [64, 72]
+[[texture.line]]
+japanese = "理科"
+english = "Science"
+background = ["commonest"]
+box = [5, 37, 59, 65]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 440
+name = "idou/eria07m0"
+size = [112, 40]
+[[texture.line]]
+japanese = "家庭科室"
+english = "Home Ec"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [32, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 80
+name = "idou/eria07m1"
+size = [112, 40]
+[[texture.line]]
+japanese = "準備室"
+english = "Prep Room"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [40, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 88
+name = "idou/eria07s0"
+size = [96, 72]
+[[texture.line]]
+japanese = "家庭"
+english = "Home Ec"
+note = "map tag"
+background = ["commonest"]
+box = [11, 7, 65, 35]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 283
+name = "idou/eria07s1"
+size = [96, 72]
+[[texture.line]]
+japanese = "家庭"
+english = "Home Ec"
+note = "map tag"
+background = ["commonest"]
+box = [11, 7, 65, 35]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 145
+name = "idou/eria08m0"
+size = [112, 40]
+[[texture.line]]
+japanese = "音楽室"
+english = "Music Room"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [34, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 331
+name = "idou/eria08m1"
+size = [112, 40]
+[[texture.line]]
+japanese = "準備室"
+english = "Prep Room"
+background = ["transparent", "#ffbd65"]
+box = [40, 5, 108, 36]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 258
+name = "idou/eria08s0"
+size = [80, 64]
+[[texture.line]]
+japanese = "音楽"
+english = "Music"
+note = "map tag"
+background = ["commonest"]
+box = [7, 4, 62, 34]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 449
+name = "idou/eria08s1"
+size = [80, 64]
+[[texture.line]]
+japanese = "音楽"
+english = "Music"
+background = ["commonest"]
+box = [6, 4, 64, 31]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 387
+name = "idou/eria09m0"
+size = [112, 40]
+[[texture.line]]
+japanese = "屋上"
+english = "Rooftop"
+background = ["transparent", "#ffbd65"]
+box = [42, 4, 104, 36]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 507
+name = "idou/eria09m1"
+size = [112, 40]
+[[texture.line]]
+japanese = "フェンス"
+english = "Fence"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [38, 4, 106, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 513
+name = "idou/eria09s0"
+size = [168, 64]
+[[texture.line]]
+japanese = "屋上"
+english = "Rooftop"
+note = "map tag"
+background = ["commonest"]
+box = [8, 16, 59, 44]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 153
+name = "idou/eria09s1"
+size = [168, 64]
+[[texture.line]]
+japanese = "屋上"
+english = "Rooftop"
+note = "map tag"
+background = ["commonest"]
+box = [8, 16, 59, 44]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 236
+name = "idou/eria10m0"
+size = [112, 40]
+[[texture.line]]
+japanese = "渡り廊下"
+english = "Walkway"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [32, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 432
+name = "idou/eria10m1"
+size = [112, 40]
+[[texture.line]]
+japanese = "体育館"
+english = "Gym"
+background = ["transparent", "#ffbd65"]
+box = [40, 4, 104, 36]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 75
+name = "idou/eria10m2"
+size = [112, 40]
+[[texture.line]]
+japanese = "プール"
+english = "Pool"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [40, 4, 104, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 436
+name = "idou/eria10s0"
+size = [216, 96]
+[[texture.line]]
+japanese = "体育館"
+english = "Gym"
+note = "map tag; \"Gymnasium\" is too wide for it"
+background = ["commonest", "#b3fdb7", "#509356", "#7b442c"]
+box = [126, 3, 205, 31]
+fill = "#ffffff"
+shadow = [1, 1]
+max_size = 18
+squeeze = 0.75
+rings = 1
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 10
+name = "idou/eria10s1"
+size = [216, 96]
+[[texture.line]]
+japanese = "体育館"
+english = "Gym"
+note = "map tag, highlighted state"
+background = ["commonest", "#15b5ff", "#06329a"]
+box = [126, 3, 205, 31]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 496
+name = "idou/eria11m0"
+size = [112, 40]
+[[texture.line]]
+japanese = "食堂"
+english = "Cafeteria"
+background = ["transparent", "#ffbd65"]
+box = [38, 4, 104, 38]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 56
+name = "idou/eria11m1"
+size = [112, 40]
+[[texture.line]]
+japanese = "テラス"
+english = "Terrace"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [40, 4, 104, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 241
+name = "idou/eria11m2"
+size = [112, 40]
+[[texture.line]]
+japanese = "噴水"
+english = "Fountain"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [40, 4, 104, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 60
+name = "idou/eria11s0"
+size = [184, 112]
+[[texture.line]]
+japanese = "食堂"
+english = "Cafeteria"
+note = "map tag"
+background = ["commonest"]
+box = [9, 49, 70, 79]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 246
+name = "idou/eria11s1"
+size = [184, 112]
+[[texture.line]]
+japanese = "食堂"
+english = "Cafeteria"
+note = "map tag"
+background = ["commonest"]
+box = [9, 49, 70, 79]
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 110
+name = "idou/eria12m0"
+size = [112, 40]
+[[texture.line]]
+japanese = "校庭"
+english = "Schoolyard"
+note = "location panel"
+background = ["transparent", "#ffbd65"]
+box = [34, 4, 108, 37]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 311
+name = "idou/eria12s0"
+size = [144, 88]
+[[texture.line]]
+japanese = "校庭"
+english = "Schoolyard"
+note = "map tag"
+background = ["commonest"]
+box = [80, 55, 132, 85]
+fill = "#ffffff"
+
+[[texture]]
+entry = 418
+name = "idou/eria12s1"
+size = [144, 88]
+[[texture.line]]
+japanese = "校庭"
+english = "Schoolyard"
+note = "map tag"
+background = ["commonest"]
+box = [80, 55, 132, 85]
+fill = "#ffffff"
+
+[[texture]]
+entry = 354
+name = "idou/eria13m0"
+size = [112, 40]
+[[texture.line]]
+japanese = "花壇"
+english = "Garden"
+note = "REVIEW: 花壇 = flower bed; \"Garden\" fits the map tag"
+background = ["transparent", "#ffbd65"]
+box = [38, 4, 104, 36]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 2
+name = "idou/eria13m1"
+size = [112, 40]
+[[texture.line]]
+japanese = "校舎裏"
+english = "Back Lot"
+note = "REVIEW: literally \"behind the school building\""
+background = ["transparent", "#ffbd65"]
+box = [40, 5, 102, 36]
+max_size = 17
+squeeze = 0.8
+rings = 1
+shadow = [0, 2]
+
+[[texture]]
+entry = 481
+name = "idou/eria13s0"
+size = [112, 64]
+[[texture.line]]
+japanese = "花壇"
+english = "Garden"
+note = "REVIEW: same place as entry 354"
+background = ["commonest"]
+box = [9, 31, 58, 57]
+fill = "#ffffff"
+max_size = 16
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+[[texture]]
+entry = 119
+name = "idou/eria13s1"
+size = [112, 64]
+[[texture.line]]
+japanese = "花壇"
+english = "Garden"
+note = "map tag"
+background = ["commonest"]
+box = [9, 31, 58, 57]
+fill = "#ffffff"
+max_size = 16
+squeeze = 0.75
+rings = 1
+shadow = [1, 1]
+outline = ["#2e2220"]
+
+# ==============================================================================
+# Map screen: dialog (idou/idoudialog)
+# ==============================================================================
+
+[[texture]]
+entry = 304
+name = "idou/idoudialog"
+size = [480, 80]
+[[texture.line]]
+japanese = "移動エリアを決定しますか？"
+english = "Go to this area?"
+note = "dialog panel, line 1 of 3"
+background = ["commonest"]
+box = [100, 12, 476, 46]
+[[texture.line]]
+japanese = "決定"
+english = "OK"
+note = "dialog panel, line 2 of 3"
+background = ["commonest"]
+box = [176, 45, 232, 75]
+fill = "#ffffff"
+outline = ["#0b537a", "#0b537a", "#0b537a"]
+[[texture.line]]
+japanese = "戻る"
+english = "Back"
+note = "dialog panel, line 3 of 3"
+background = ["commonest"]
+box = [304, 45, 358, 75]
+fill = "#ffffff"
+outline = ["#0b537a", "#0b537a", "#0b537a"]
+
+# ==============================================================================
+# Conversation: topic categories (kaiwa/wtNNN)
+# ==============================================================================
+
+[[texture]]
+entry = 248
+name = "kaiwa/wt001"
+size = [80, 32]
+[[texture.line]]
+japanese = "学校生活"
+english = "School Life"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+fill = "#ffffff"
+outline = ["#6bb9c7", "#2d7786"]
+
+[[texture]]
+entry = 441
+name = "kaiwa/wt002"
+size = [80, 32]
+[[texture.line]]
+japanese = "勉強"
+english = "Study"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+
+[[texture]]
+entry = 81
+name = "kaiwa/wt003"
+size = [80, 32]
+[[texture.line]]
+japanese = "運動"
+english = "Sports"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+
+[[texture]]
+entry = 200
+name = "kaiwa/wt004"
+size = [80, 32]
+[[texture.line]]
+japanese = "娯楽"
+english = "Leisure"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+
+[[texture]]
+entry = 388
+name = "kaiwa/wt005"
+size = [80, 32]
+[[texture.line]]
+japanese = "おしゃれ"
+english = "Stylish"
+note = "REVIEW: おしゃれ (fashion sense)"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+fill = "#ffffff"
+outline = ["#b08ab2", "#090909"]
+
+[[texture]]
+entry = 35
+name = "kaiwa/wt006"
+size = [80, 32]
+[[texture.line]]
+japanese = "食べ物"
+english = "Food"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+
+[[texture]]
+entry = 150
+name = "kaiwa/wt007"
+size = [80, 32]
+[[texture.line]]
+japanese = "美容健康"
+english = "Beauty"
+note = "REVIEW: 美容健康 = beauty and health"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+fill = "#ffffff"
+outline = ["#96caa9", "#4a7058"]
+
+[[texture]]
+entry = 337
+name = "kaiwa/wt008"
+size = [80, 32]
+[[texture.line]]
+japanese = "恋愛"
+english = "Romance"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+
+[[texture]]
+entry = 532
+name = "kaiwa/wt009"
+size = [80, 32]
+[[texture.line]]
+japanese = "行動"
+english = "Action"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+
+[[texture]]
+entry = 221
+name = "kaiwa/wt010"
+size = [80, 32]
+[[texture.line]]
+japanese = "効果"
+english = "Effect"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+
+# ==============================================================================
+# Level-up banner (sysgraph/levelup)
+# ==============================================================================
+
+[[texture]]
+entry = 347
+name = "sysgraph/levelup"
+size = [96, 56]
+[[texture.line]]
+japanese = "レベル|アップ!!"
+english = "LEVEL\n  UP!!"
+note = "two lines in an oval"
+background = ["commonest", "transparent"]
+box = [14, 4, 90, 50]
+font = "BoldItalic"
+outline = ["#1c3aa8"]
+rings = 2
+align = "centre"
+
+# ==============================================================================
+# Map overview (sysgraph/map)
+# ==============================================================================
+
+[[texture]]
+entry = 453
+name = "sysgraph/map"
+size = [392, 320]
+[[texture.line]]
+japanese = "スキ"
+english = "LIKE"
+note = "REVIEW: small italic caption on art; CHECK-ART: caption over heart/note art, smeared background"
+background = ["#f09eaa", "#f6cfd3", "#ed8898", "#ed7c8d", "#f4979f"]
+box = [34, 129, 100, 146]
+fill = "#ffffff"
+outline = ["#e28153"]
+rings = 1
+font = "BoldItalic"
+max_size = 14
+[[texture.line]]
+japanese = "ナカヨシ"
+english = "FRIENDS"
+note = "REVIEW: small italic caption on art; CHECK-ART: caption over heart/note art, smeared background"
+background = ["#f09eaa", "#f6cfd3", "#b1b5a6", "#ed8898", "#f1b6be"]
+box = [234, 129, 332, 146]
+fill = "#ffffff"
+outline = ["#e28153"]
+rings = 1
+font = "BoldItalic"
+max_size = 14
+
+# ==============================================================================
+# Map hint banners (sysgraph/map_hN)
+# ==============================================================================
+
+[[texture]]
+entry = 395
+name = "sysgraph/map_h0"
+size = [328, 32]
+[[texture.line]]
+japanese = "好感度ゲージをあげよう！"
+english = "Raise the affection gauge!"
+note = "hint banner"
+background = ["commonest"]
+box = [8, 4, 276, 28]
+align = "centre"
+max_size = 17
+squeeze = 0.85
+rings = 2
+shadow = [0, 1]
+
+[[texture]]
+entry = 41
+name = "sysgraph/map_h1"
+size = [328, 32]
+[[texture.line]]
+japanese = "ストーリーイベントを見よう！"
+english = "Watch the story event!"
+note = "hint banner"
+background = ["commonest"]
+box = [8, 4, 320, 28]
+align = "centre"
+max_size = 17
+squeeze = 0.85
+rings = 2
+shadow = [0, 1]
+
+[[texture]]
+entry = 227
+name = "sysgraph/map_h2"
+size = [328, 32]
+[[texture.line]]
+japanese = "下校デートをしよう！"
+english = "Go on an after-school date!"
+note = "hint banner"
+background = ["commonest"]
+box = [8, 4, 276, 28]
+align = "centre"
+max_size = 17
+squeeze = 0.85
+rings = 2
+shadow = [0, 1]
+
+[[texture]]
+entry = 341
+name = "sysgraph/map_h3"
+size = [328, 32]
+[[texture.line]]
+japanese = "アタックを成功させよう！"
+english = "Make your attack a success!"
+note = "hint banner"
+background = ["commonest"]
+box = [8, 4, 276, 28]
+align = "centre"
+max_size = 17
+squeeze = 0.85
+rings = 2
+shadow = [0, 1]
+
+[[texture]]
+entry = 536
+name = "sysgraph/map_h4"
+size = [328, 32]
+[[texture.line]]
+japanese = "週末に休日デートがあるぞ！"
+english = "Holiday date this weekend!"
+note = "hint banner"
+background = ["commonest"]
+box = [8, 4, 320, 28]
+align = "centre"
+max_size = 17
+squeeze = 0.85
+rings = 2
+shadow = [0, 1]
+
+[[texture]]
+entry = 94
+name = "sysgraph/map_h5"
+size = [328, 32]
+[[texture.line]]
+japanese = "今週末は学園祭だ！"
+english = "School festival this weekend!"
+note = "hint banner"
+background = ["commonest"]
+box = [8, 4, 320, 28]
+align = "centre"
+max_size = 17
+squeeze = 0.85
+rings = 2
+shadow = [0, 1]
+
+[[texture]]
+entry = 486
+name = "sysgraph/map_h7"
+size = [328, 32]
+[[texture.line]]
+japanese = "好きな話題が変わりました"
+english = "Favorite topic changed!"
+note = "hint banner"
+background = ["commonest"]
+box = [8, 4, 276, 28]
+align = "centre"
+max_size = 17
+squeeze = 0.85
+rings = 2
+shadow = [0, 1]
+
+# ==============================================================================
+# Album menu (sysgraph/menu_alubum)
+# ==============================================================================
+
+[[texture]]
+entry = 124
+name = "sysgraph/menu_alubum"
+size = [160, 56]
+[[texture.line]]
+japanese = "アルバム"
+english = "Album"
+background = ["commonest"]
+box = [40, 6, 154, 46]
+max_size = 30
+shadow = [0, 2]
+rings = 0
+
+# ==============================================================================
+# Girls menu (sysgraph/menu_girlN)
+# ==============================================================================
+
+[[texture]]
+entry = 424
+name = "sysgraph/menu_girl0"
+size = [112, 32]
+[[texture.line]]
+japanese = "全員"
+english = "Everyone"
+note = "REVIEW"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [1, 1]
+max_size = 16
+squeeze = 0.85
+x_min = 9
+x_max = 105
+align = "centre"
+
+[[texture]]
+entry = 539
+name = "sysgraph/menu_girl1"
+size = [112, 32]
+[[texture.line]]
+japanese = "星乃 結美"
+english = "Hoshino Yuumi"
+note = "glossary D1/D2: family-given, Hepburn long vowels"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [1, 1]
+max_size = 16
+squeeze = 0.85
+x_min = 9
+x_max = 105
+align = "centre"
+
+[[texture]]
+entry = 180
+name = "sysgraph/menu_girl2"
+size = [112, 32]
+[[texture.line]]
+japanese = "里仲 なるみ"
+english = "Satonaka Narumi"
+note = "glossary D1/D2: family-given, Hepburn long vowels"
+background = ["commonest"]
+
+[[texture]]
+entry = 292
+name = "sysgraph/menu_girl3"
+size = [112, 32]
+[[texture.line]]
+japanese = "水澤 摩央"
+english = "Mizusawa Mao"
+note = "glossary D1/D2: family-given, Hepburn long vowels"
+background = ["commonest"]
+
+[[texture]]
+entry = 487
+name = "sysgraph/menu_girl4"
+size = [112, 32]
+[[texture.line]]
+japanese = "咲野 明日夏"
+english = "Sakino Asuka"
+note = "glossary D1/D2: family-given, Hepburn long vowels"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [1, 1]
+max_size = 16
+squeeze = 0.85
+x_min = 9
+x_max = 105
+align = "centre"
+
+[[texture]]
+entry = 128
+name = "sysgraph/menu_girl5"
+size = [112, 32]
+[[texture.line]]
+japanese = "二見 瑛理子"
+english = "Futami Eriko"
+note = "glossary D1/D2: family-given, Hepburn long vowels"
+background = ["commonest"]
+
+[[texture]]
+entry = 233
+name = "sysgraph/menu_girl6"
+size = [112, 32]
+[[texture.line]]
+japanese = "祇条 深月"
+english = "Shijou Mitsuki"
+note = "glossary D1/D2: family-given, Hepburn long vowels (was Gijo Mizuki, wrong reading)"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [1, 1]
+max_size = 16
+squeeze = 0.85
+x_min = 9
+x_max = 105
+align = "centre"
+
+[[texture]]
+entry = 429
+name = "sysgraph/menu_girl7"
+size = [112, 32]
+[[texture.line]]
+japanese = "菜々"
+english = "Nana"
+note = "given name only (surname is the player's {Nm}); glossary D1"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [1, 1]
+max_size = 16
+squeeze = 0.85
+x_min = 9
+x_max = 105
+align = "centre"
+
+[[texture]]
+entry = 72
+name = "sysgraph/menu_girl8"
+size = [112, 32]
+[[texture.line]]
+japanese = "栗生 恵"
+english = "Kuryuu Megumu"
+note = "glossary D1/D2/D4: family-given, Hepburn long vowels; Megumu, not Megumi"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [1, 1]
+max_size = 16
+squeeze = 0.85
+x_min = 9
+x_max = 105
+align = "centre"
+
+[[texture]]
+entry = 186
+name = "sysgraph/menu_girl9"
+size = [112, 32]
+[[texture.line]]
+japanese = "その他"
+english = "Other"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [1, 1]
+max_size = 16
+squeeze = 0.85
+x_min = 9
+x_max = 105
+align = "centre"
+
+# ==============================================================================
+# Menu label (sysgraph/menu_jo0)
+# ==============================================================================
+
+[[texture]]
+entry = 285
+name = "sysgraph/menu_jo0"
+size = [112, 32]
+[[texture.line]]
+japanese = "情報"
+english = "Info"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+# ==============================================================================
+# Main menu (sysgraph/menu_main, menu_mainN)
+# ==============================================================================
+
+[[texture]]
+entry = 545
+name = "sysgraph/menu_main"
+size = [192, 56]
+[[texture.line]]
+japanese = "メインメニュー"
+english = "Main Menu"
+note = "main menu header"
+background = ["commonest"]
+box = [40, 6, 180, 48]
+max_size = 30
+shadow = [0, 2]
+rings = 0
+
+[[texture]]
+entry = 279
+name = "sysgraph/menu_main0"
+size = [112, 32]
+[[texture.line]]
+japanese = "はじめから"
+english = "New Game"
+note = "main menu"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 393
+name = "sysgraph/menu_main1"
+size = [112, 32]
+[[texture.line]]
+japanese = "つづきから"
+english = "Continue"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 38
+name = "sysgraph/menu_main2"
+size = [112, 32]
+[[texture.line]]
+japanese = "アルバム"
+english = "Album"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 224
+name = "sysgraph/menu_main3"
+size = [112, 32]
+[[texture.line]]
+japanese = "おまけ"
+english = "Extras"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 340
+name = "sysgraph/menu_main4"
+size = [112, 32]
+[[texture.line]]
+japanese = "オプション"
+english = "Options"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 535
+name = "sysgraph/menu_main5"
+size = [112, 32]
+[[texture.line]]
+japanese = "ひきつぎ"
+english = "Carry Over"
+note = "REVIEW: main menu"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+# ==============================================================================
+# Name entry and history tabs (sysgraph/menu_nameN)
+# ==============================================================================
+
+[[texture]]
+entry = 500
+name = "sysgraph/menu_name0"
+size = [112, 32]
+[[texture.line]]
+japanese = "漢字"
+english = "Kanji"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 61
+name = "sysgraph/menu_name1"
+size = [112, 32]
+[[texture.line]]
+japanese = "ひらがな"
+english = "Hiragana"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 247
+name = "sysgraph/menu_name2"
+size = [112, 32]
+[[texture.line]]
+japanese = "カタカナ"
+english = "Katakana"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 438
+name = "sysgraph/menu_name3"
+size = [112, 32]
+[[texture.line]]
+japanese = "英数記号"
+english = "ABC 123"
+note = "REVIEW: name-entry tab for letters, digits and symbols"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 12
+name = "sysgraph/menu_name4"
+size = [112, 32]
+[[texture.line]]
+japanese = "履歴"
+english = "History"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+# ==============================================================================
+# Extras menu (sysgraph/menu_omake)
+# ==============================================================================
+
+[[texture]]
+entry = 23
+name = "sysgraph/menu_omake"
+size = [144, 56]
+[[texture.line]]
+japanese = "おまけ"
+english = "Extras"
+note = "extras/bonus menu; the old TSV read おまかせ"
+background = ["commonest"]
+box = [30, 5, 134, 50]
+max_size = 30
+shadow = [0, 2]
+rings = 0
+
+# ==============================================================================
+# Settings panel (sysgraph/menu_setN)
+# ==============================================================================
+
+[[texture]]
+entry = 154
+name = "sysgraph/menu_set0"
+size = [112, 32]
+[[texture.line]]
+japanese = "設定"
+english = "Settings"
+note = "main menu item, highlighted state"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 342
+name = "sysgraph/menu_set1"
+size = [144, 32]
+[[texture.line]]
+japanese = "自動文字送り"
+english = "Auto Advance"
+note = "settings row"
+font = "SemiBold"
+max_size = 16
+style = "shadow"
+shadow = [1, 1]
+align = "left"
+box = [0, 0, 144, 32]
+
+[[texture]]
+entry = 459
+name = "sysgraph/menu_set2"
+size = [120, 32]
+note = "Settings rows: Text Speed, Rumble, BGM, Voice, Wallpaper share one style and left edge (D-035)"
+[[texture.line]]
+japanese = "振動"
+english = "Rumble"
+note = "settings row"
+box = [40, 0, 120, 32]
+align = "left"
+font = "SemiBold"
+max_size = 16
+style = "shadow"
+shadow = [1, 1]
+
+[[texture]]
+entry = 291
+name = "sysgraph/menu_set4"
+size = [120, 32]
+[[texture.line]]
+japanese = "BGM"
+english = "BGM"
+note = "settings row; the original is Latin, redrawn only for the same style as the other rows"
+box = [40, 0, 120, 32]
+align = "left"
+font = "SemiBold"
+max_size = 16
+style = "shadow"
+shadow = [1, 1]
+
+[[texture]]
+entry = 95
+name = "sysgraph/menu_set3"
+size = [120, 32]
+[[texture.line]]
+japanese = "音声"
+english = "Voice"
+note = "settings row"
+box = [40, 0, 120, 32]
+align = "left"
+font = "SemiBold"
+max_size = 16
+style = "shadow"
+shadow = [1, 1]
+
+[[texture]]
+entry = 402
+name = "sysgraph/menu_set5"
+size = [144, 32]
+[[texture.line]]
+japanese = "初期設定に戻す"
+english = "Reset to Default"
+note = "settings row"
+font = "SemiBold"
+max_size = 16
+style = "shadow"
+shadow = [1, 1]
+
+[[texture]]
+entry = 48
+name = "sysgraph/menu_set6"
+size = [64, 32]
+[[texture.line]]
+japanese = "あり"
+english = "Yes"
+note = "REVIEW: あり/なし option value (with/without)"
+font = "SemiBold"
+max_size = 16
+style = "shadow"
+shadow = [1, 1]
+
+[[texture]]
+entry = 232
+name = "sysgraph/menu_set7"
+size = [64, 32]
+[[texture.line]]
+japanese = "なし"
+english = "None"
+font = "SemiBold"
+max_size = 16
+style = "shadow"
+shadow = [1, 1]
+
+[[texture]]
+entry = 351
+name = "sysgraph/menu_set8"
+size = [120, 32]
+[[texture.line]]
+japanese = "壁紙"
+english = "Wallpaper"
+note = "settings row"
+box = [40, 0, 120, 32]
+align = "left"
+font = "SemiBold"
+max_size = 16
+style = "shadow"
+shadow = [1, 1]
+
+[[texture]]
+entry = 551
+name = "sysgraph/menu_set9"
+size = [120, 32]
+[[texture.line]]
+japanese = "文字速度"
+english = "Text Speed"
+note = "settings row"
+box = [20, 0, 120, 32]
+align = "left"
+font = "SemiBold"
+max_size = 16
+style = "shadow"
+shadow = [1, 1]
+
+# ==============================================================================
+# Save and load menu (sysgraph/menu_sioN)
+# ==============================================================================
+
+[[texture]]
+entry = 401
+name = "sysgraph/menu_sio0"
+size = [112, 32]
+[[texture.line]]
+japanese = "しおり"
+english = "Save"
+note = "night room menu: opens the save/load/title submenu (D-029)"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 46
+name = "sysgraph/menu_sio1"
+size = [112, 32]
+[[texture.line]]
+japanese = "セーブ"
+english = "Save"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 230
+name = "sysgraph/menu_sio2"
+size = [112, 32]
+[[texture.line]]
+japanese = "ロード"
+english = "Load"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 350
+name = "sysgraph/menu_sio3"
+size = [112, 32]
+[[texture.line]]
+japanese = "セーブ"
+english = "Save"
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+align = "left"
+box = [2, 0, 110, 32]
+
+[[texture]]
+entry = 547
+name = "sysgraph/menu_sio4"
+size = [112, 32]
+[[texture.line]]
+japanese = "ロード"
+english = "Load"
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+align = "left"
+box = [2, 0, 110, 32]
+
+[[texture]]
+entry = 105
+name = "sysgraph/menu_sio5"
+size = [112, 32]
+[[texture.line]]
+japanese = "タイトルへ"
+english = "To Title"
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+align = "left"
+box = [2, 0, 110, 32]
+
+# ==============================================================================
+# Night room menu (sysgraph/menu_yoruN)
+# ==============================================================================
+
+[[texture]]
+entry = 16
+name = "sysgraph/menu_yoru0"
+size = [112, 32]
+[[texture.line]]
+japanese = "菜々"
+english = "Girls"
+note = "night room menu: opens the heroine relationship chart (was \"Nana\", D-029)"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 122
+name = "sysgraph/menu_yoru1"
+size = [112, 32]
+[[texture.line]]
+japanese = "寝る"
+english = "Sleep"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 319
+name = "sysgraph/menu_yoru2"
+size = [112, 32]
+[[texture.line]]
+japanese = "話題袋"
+english = "Topic Bag"
+note = "REVIEW"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+# ==============================================================================
+# Buttons and small labels (sysgraph/txt_NNN)
+# ==============================================================================
+
+[[texture]]
+entry = 366
+name = "sysgraph/txt_001"
+size = [48, 24]
+[[texture.line]]
+japanese = "決定"
+english = "OK"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 483
+name = "sysgraph/txt_002"
+size = [48, 24]
+[[texture.line]]
+japanese = "戻る"
+english = "Back"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 125
+name = "sysgraph/txt_003"
+size = [48, 24]
+[[texture.line]]
+japanese = "消す"
+english = "Erase"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 321
+name = "sysgraph/txt_004"
+size = [48, 24]
+[[texture.line]]
+japanese = "はい"
+english = "Yes"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+fill = "#ffffff"
+
+[[texture]]
+entry = 426
+name = "sysgraph/txt_005"
+size = [64, 24]
+[[texture.line]]
+japanese = "いいえ"
+english = "No"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 68
+name = "sysgraph/txt_006"
+size = [48, 24]
+[[texture.line]]
+japanese = "設定"
+english = "Settings"
+note = "button guide; 48 px wide"
+fill = "#ffffff"
+max_size = 15
+squeeze = 0.7
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 261
+name = "sysgraph/txt_007"
+size = [64, 24]
+[[texture.line]]
+japanese = "ヒント"
+english = "Hint"
+note = "button guide"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 369
+name = "sysgraph/txt_008"
+size = [48, 24]
+[[texture.line]]
+japanese = "次へ"
+english = "Next"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 17
+name = "sysgraph/txt_009"
+size = [64, 24]
+[[texture.line]]
+japanese = "テスト"
+english = "Test"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 451
+name = "sysgraph/txt_011"
+size = [48, 24]
+[[texture.line]]
+japanese = "編集"
+english = "Edit"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 90
+name = "sysgraph/txt_012"
+size = [80, 24]
+[[texture.line]]
+japanese = "名前変更"
+english = "Rename"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 206
+name = "sysgraph/txt_013"
+size = [48, 24]
+[[texture.line]]
+japanese = "削除"
+english = "Delete"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 398
+name = "sysgraph/txt_014"
+size = [48, 24]
+[[texture.line]]
+japanese = "決定"
+english = "OK"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 44
+name = "sysgraph/txt_015"
+size = [48, 24]
+[[texture.line]]
+japanese = "戻る"
+english = "Back"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 345
+name = "sysgraph/txt_017"
+size = [64, 24]
+[[texture.line]]
+japanese = "枠メモ"
+english = "Memo"
+note = "REVIEW: first kanji hard to read (枠 or 終)"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 542
+name = "sysgraph/txt_018"
+size = [48, 24]
+[[texture.line]]
+japanese = "観察"
+english = "Observe"
+fill = "#ffffff"
+max_size = 15
+squeeze = 0.7
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 100
+name = "sysgraph/txt_019"
+size = [48, 24]
+[[texture.line]]
+japanese = "移動"
+english = "Move"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 422
+name = "sysgraph/txt_020"
+size = [48, 24]
+[[texture.line]]
+japanese = "再生"
+english = "Play"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 537
+name = "sysgraph/txt_021"
+size = [80, 24]
+[[texture.line]]
+japanese = "パターン"
+english = "Pattern"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 179
+name = "sysgraph/txt_022"
+size = [80, 24]
+[[texture.line]]
+japanese = "スクロール"
+english = "Scroll"
+fill = "#ffffff"
+max_size = 18
+squeeze = 0.8
+rings = 2
+outline = ["#0b537a", "#0b537a"]
+
+# ==============================================================================
+# Textures whose name is not in the executable
+# ==============================================================================
+
+[[texture]]
+entry = 1
+size = [80, 32]
+[[texture.line]]
+japanese = "食べ物"
+english = "Food"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+
+[[texture]]
+entry = 21
+size = [40, 48]
+[[texture.line]]
+japanese = "日"
+english = "Sun"
+note = "weekday (日 = Sunday)"
+move = [0, 9]
+max_size = 22
+squeeze = 0.8
+rings = 1
+box = [1, 0, 40, 48]
+style = "outline"
+outline = ["#1c739c"]
+fill = "#ffffff"
+
+[[texture]]
+entry = 45
+size = [200, 80]
+[[texture.line]]
+japanese = "次へ進む"
+english = "Next"
+note = "line 1 of 2"
+background = ["commonest"]
+box = [40, 8, 172, 45]
+[[texture.line]]
+japanese = "決定"
+english = "OK"
+note = "line 2 of 2 (beside the button icon)"
+background = ["commonest"]
+box = [101, 45, 152, 72]
+fill = "#ffffff"
+outline = ["#0b537a", "#0b537a", "#0b537a"]
+
+[[texture]]
+entry = 52
+size = [80, 32]
+[[texture.line]]
+japanese = "運動"
+english = "Sports"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+
+[[texture]]
+entry = 79
+size = [40, 48]
+[[texture.line]]
+japanese = "水"
+english = "Wed"
+note = "weekday (水 = Wednesday)"
+move = [0, 9]
+max_size = 22
+squeeze = 0.8
+rings = 1
+box = [1, 0, 40, 48]
+style = "outline"
+outline = ["#1c739c"]
+fill = "#ffffff"
+
+[[texture]]
+entry = 102
+size = [144, 56]
+[[texture.line]]
+japanese = "壁紙"
+english = "Wallpaper"
+note = "settings row (bubble)"
+background = ["commonest"]
+box = [45, 6, 138, 46]
+shadow = [0, 2]
+rings = 0
+max_size = 22
+
+[[texture]]
+entry = 190
+size = [80, 32]
+[[texture.line]]
+japanese = "美容健康"
+english = "Beauty"
+note = "REVIEW"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+fill = "#ffffff"
+outline = ["#96caa9", "#4a7058"]
+
+[[texture]]
+entry = 219
+size = [40, 48]
+[[texture.line]]
+japanese = "月"
+english = "Mon"
+note = "weekday (月 = Monday)"
+move = [0, 9]
+max_size = 22
+squeeze = 0.8
+rings = 1
+box = [1, 0, 40, 48]
+style = "outline"
+outline = ["#1c739c"]
+fill = "#ffffff"
+
+[[texture]]
+entry = 238
+size = [80, 32]
+[[texture.line]]
+japanese = "娯楽"
+english = "Leisure"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+
+[[texture]]
+entry = 250
+size = [40, 48]
+[[texture.line]]
+japanese = "土"
+english = "Sat"
+note = "weekday (土 = Saturday)"
+move = [0, 9]
+max_size = 22
+squeeze = 0.8
+rings = 1
+box = [1, 0, 40, 48]
+style = "outline"
+outline = ["#1c739c"]
+fill = "#ffffff"
+
+[[texture]]
+entry = 266
+size = [80, 32]
+[[texture.line]]
+japanese = "効果"
+english = "Effect"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+
+[[texture]]
+entry = 278
+size = [112, 32]
+[[texture.line]]
+japanese = "ひきつぎ"
+english = "Carry Over"
+note = "REVIEW: main menu, carry over save data"
+background = ["commonest"]
+fill = "#ffffff"
+style = "shadow"
+rings = 0
+shadow = [2, 2]
+max_size = 17
+squeeze = 0.85
+
+[[texture]]
+entry = 295
+size = [80, 32]
+[[texture.line]]
+japanese = "学校生活"
+english = "School Life"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+fill = "#ffffff"
+outline = ["#6bb9c7", "#2d7786"]
+
+[[texture]]
+entry = 343
+size = [40, 48]
+[[texture.line]]
+japanese = "火"
+english = "Tue"
+note = "weekday (火 = Tuesday)"
+move = [0, 9]
+max_size = 22
+squeeze = 0.8
+rings = 1
+box = [1, 0, 40, 48]
+style = "outline"
+outline = ["#1c739c"]
+fill = "#ffffff"
+
+[[texture]]
+entry = 375
+size = [80, 32]
+[[texture.line]]
+japanese = "恋愛"
+english = "Romance"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+
+[[texture]]
+entry = 423
+size = [40, 48]
+[[texture.line]]
+japanese = "木"
+english = "Thu"
+note = "weekday (木 = Thursday)"
+move = [0, 9]
+max_size = 22
+squeeze = 0.8
+rings = 1
+box = [1, 0, 40, 48]
+style = "outline"
+outline = ["#1c739c"]
+fill = "#ffffff"
+
+[[texture]]
+entry = 433
+size = [80, 32]
+[[texture.line]]
+japanese = "おしゃれ"
+english = "Stylish"
+note = "REVIEW; CHECK-ART: 80x32, heavy outline"
+max_size = 22
+squeeze = 0.8
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+fill = "#ffffff"
+outline = ["#b08ab2", "#090909"]
+
+[[texture]]
+entry = 457
+size = [40, 48]
+[[texture.line]]
+japanese = "金"
+english = "Fri"
+note = "weekday (金 = Friday)"
+move = [0, 9]
+max_size = 22
+squeeze = 0.8
+rings = 1
+box = [1, 0, 40, 48]
+style = "outline"
+outline = ["#1c739c"]
+fill = "#ffffff"
+
+[[texture]]
+entry = 491
+size = [80, 32]
+[[texture.line]]
+japanese = "勉強"
+english = "Study"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]
+
+[[texture]]
+entry = 499
+size = [80, 32]
+[[texture.line]]
+japanese = "行動"
+english = "Action"
+squeeze = 0.8
+max_size = 22
+rings = 2
+shadow = [0, 1]
+box = [3, 0, 77, 32]

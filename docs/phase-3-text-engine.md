@@ -55,12 +55,12 @@ From `TextWindow >> initialize` (no arguments) and the defaults in `initialize:`
 | posX, posY | −293, 44 |
 | width, height | 586, 156 |
 | fontW, fontH | 24, 28 |
-| marginX, marginY | 17, 18 |
-| pitchX, pitchY | −1, 44 |
+| marginX, marginY | 17, 18 (marginY patched to 16, D-034) |
+| pitchX, pitchY | −1, 44 (patched to 40, D-034) |
 | font scale | 1.0 (table `0.5/0.75/1/1.25/1.5`, selected by command 0) |
 
 - The usable line width is `586 − 2·17 = 552` px. At the 23 px advance that is 24 full-width characters.
-- Lines are 44 px apart, and 3 lines fit in the box.
+- Lines are 44 px apart (40 since D-034), and 3 lines fit in the box. The first line's centre is `posY + marginY + pitchY/2`.
 - After the speaker name, `putIndent: 4` indents continuation lines by `4·23 = 92` px.
 
 ## Glyph lookup and cache
@@ -106,7 +106,7 @@ These draw `FontChar` sprites with their own fixed-pitch layout and need the sam
 Build: `tools/qa/make_en_test_text.py text build/test/text`, then `tools/build/build.sh <clean.iso> build/test/kimikiss_en_test.iso build/test/text`. Played in PCSX2 via `tools/qa/emu.sh`: New Game → default name → prologue. Screenshots are in `qa/` (gitignored).
 
 - **Boot:** the patched image boots. `GRAPH0.PAC` was relocated to LBA 608695, and the font and UI load from it. This confirms that files can be relocated through the ISO9660 directory.
-- **Rendering:** English glyphs are legible, spaced by the width table, sit on the Japanese baseline, and mix correctly with Japanese (`「キス」？`).
+- **Rendering:** English glyphs are legible, spaced by the width table, and mix correctly with Japanese (`「キス」？`). (They first sat on the Japanese baseline; D-033 moved them 3 px up so descenders are not cut.)
 - **Wrapping:**
   - The word-wrapped line breaks at the inserted `／` and fits in 3 lines.
   - The unbroken over-long word is broken by the patched per-character overflow test at the right edge.
