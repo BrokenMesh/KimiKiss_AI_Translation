@@ -8,7 +8,7 @@
 "Ah! N-Narumi!"
 
 @NAR_TFO:50 NAR fad5b785
-"{V7804}{W10}We had{W5} a promise{W15} to go home together,{W35} so what{M} happened{M}?{W50} {Fe6}{M}I...{W40}{M}waited {M}the {M}whole {M}time, {M}you know{Mc}"
+"{V7804}{W10}We had{W5} a promise{W15} to go home together,{W35} so what{M} happened{M}?{W50} {Fe6}{M}I...{W40}{M} waited {M}the {M}whole {M}time, {M}you know{Mc}"
 
 @NAR_TFO:51 PLY cce38622
 "S-sorry, Narumi."

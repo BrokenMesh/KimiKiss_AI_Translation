@@ -50,7 +50,7 @@
 "Futami, the lens cap is still on."
 
 @ERI_KOK_B:69 ERI e06d6c40
-"{V1356}{W15}{B100}Ah...{W48}{W21}{W5}{W5}You're right."
+"{V1356}{W15}{B100}Ah...{W48}{W21}{W5}{W5} You're right."
 
 @ERI_KOK_B:70 ERI 6ce19070
 "{V1357}{W13}{Fe9}{W1}{W2}{W1}{W3}Of course the screen is black{W30} {Eh}{Fm3}{B60}{W2}{W1}{W2}{W1}{W1}{W1}{W3}if the lens cap is on.{W42}{Ec}{B40} Heh,{W36} honestly,{W27}{W7} me..."
@@ -59,7 +59,7 @@
 "Futami... are you bad with cameras?"
 
 @ERI_KOK_B:73 ERI 55a9d003
-"{V1358}{W16}Yes,{W54}{Fe6m4}{W2}{W2}{W18}{W1}{W1}{W1}{W1}{W1}{W1}{W6}{W5}for some reason I'm hopeless with this sort of thing."
+"{V1358}{W16}Yes,{W54}{Fe6m4}{W2}{W2}{W18}{W1}{W1}{W1}{W1}{W1}{W1}{W6}{W5} for some reason I'm hopeless with this sort of thing."
 
 @ERI_KOK_B:74 PLY 876a2929
 "I see..."
@@ -95,7 +95,7 @@
 "Hmm... so an IQ of 190 isn't much use in real life."
 
 @ERI_KOK_B:86 ERI 645b893e
-"{V1364}{W15}Ugh...{W66}{W5}{W1}{W32}{W1}{W1}{W1}that's a real{W3} shock...{W63}{Eh}{W9}{W1}{W48}{W4}{W4}{W4}{W33}{W4}{W1}{W1}{W4}Am I just useless{W1} in real life?"
+"{V1364}{W15}Ugh...{W66}{W5}{W1}{W32}{W1}{W1}{W1} that's a real{W3} shock...{W63}{Eh}{W9}{W1}{W48}{W4}{W4}{W4}{W33}{W4}{W1}{W1}{W4} Am I just useless{W1} in real life?"
 
 @ERI_KOK_B:87 PLY ff763c73
 "Maybe."
@@ -176,7 +176,7 @@
 "Huh?"
 
 @ERI_KOK_B:128 NAR e58b1bad
-"{V1385}{W10}{W30}Four{W1}{W2}times...?"
+"{V1385}{W10}{W30}Four{W1}{W2} times...?"
 
 @ERI_KOK_B:129 ERI 171f3d8e
 "{V1371}{W8}Two!"
@@ -218,7 +218,7 @@
 (Futami... calling it a memory...)
 
 @ERI_KOK_B:155 ERI 285d132e
-"{V1376}{W12}{Eh}{W1}{W1}{W1}{W1}{W51}{W4}{W5}{W4}{W1}{W1}{W1}I will never forget today.{W63}{Fm6}{W1}{W1}{W1}{W1}The others,{W70} {F3}{Eo}{Nm}{W3}{W1}too..."
+"{V1376}{W12}{Eh}{W1}{W1}{W1}{W1}{W51}{W4}{W5}{W4}{W1}{W1}{W1}I will never forget today.{W63}{Fm6}{W1}{W1}{W1}{W1} The others,{W70} {F3}{Eo}{Nm}{W3}{W1}too..."
 
 @ERI_KOK_B:156 PLY 058402b3
 "Futami, want to stop by the park on the way home? There's something I want to tell you."
@@ -287,7 +287,7 @@
 "Why?"
 
 @ERI_KOK_B:183 ERI 4d6ed687
-"{V1387}{W12}{Fe4m8}Because{W45} I cannot stay by your side.{W46}{Eh}{Fe2m4} I want to be beside you, but...{W63}{Ec}{W1}{W1}{W1}I{W1} cannot..."
+"{V1387}{W12}{Fe4m8}Because{W45} I cannot stay by your side.{W46}{Eh}{Fe2m4} I want to be beside you, but...{W63}{Ec}{W1}{W1}{W1} I{W1} cannot..."
 
 @ERI_KOK_B:184 ERI 9714bb95
 "{V1388}{W15}{Eh}{W3}{W4}I had never thought about the future.{W45}{Fe6m3}{W4}{W47}{W2}{W2}{W1}{W1}{W2} More than that,{W75}{Ec}{Fm6}{W1} I wanted to disappear somewhere..."

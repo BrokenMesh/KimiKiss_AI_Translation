@@ -285,6 +285,27 @@ def check_glossary(res, ctx, rec):
             res.warn('GLOSSARY', f'"{t["ja"]}" should appear as "{t["en"]}"' + (f' ({t["note"]})' if t['note'] else ''))
 
 
+# Short words that never form one English word when written together (issue #9: "Icandopretty" when
+# the waits of the Japanese were put between words instead of spaces).
+JOIN_WORDS = set("""the you to my and is it of in at on me we do so she was are be for with that this what can not but
+just your have don't i'm it's that's how why who when where there here very really all if or no yes from about like
+want know will would""".split())
+
+
+def joined_words(tr):
+    """Pairs of common words with control codes and no space between them ("can{W2}do")."""
+    out = []
+    for tok in tr.split(' '):
+        vis = re.split(r'(?:\{[^{}]*\})+', tok)
+        for a, b in zip(vis, vis[1:]):
+            left, right = re.sub(r'^[^A-Za-z]+', '', a), re.sub(r"[^A-Za-z']+$", '', b)
+            if (re.fullmatch(r"[A-Za-z']+", left) and re.fullmatch(r"[A-Za-z']+", right)
+                    and left.lower() in JOIN_WORDS and right.lower() in JOIN_WORDS
+                    and (left + right).lower() != 'cannot'):
+                out.append(f'{left}+{right}')
+    return out
+
+
 def check_suspicious(res, rec, tr, lim):
     plain = rules.BRACED.sub('', tr)
     if plain.strip(' 　') == '' and rules.BRACED.sub('', rec['text']).strip(' 　') != '':
@@ -293,6 +314,10 @@ def check_suspicious(res, rec, tr, lim):
         res.fail('UNTRANSLATED', 'translation is identical to the Japanese')
     if '  ' in plain:
         res.warn('DOUBLE_SPACE', 'double space')
+    joined = joined_words(tr)
+    if joined:
+        res.warn('WORDS_JOINED', 'words run together around control codes (add a space after the code): '
+                 + ', '.join(joined))
     if tr != tr.strip(' ') and lim['kind'] not in ('fragment', 'single'):
         res.warn('EDGE_SPACE', 'leading or trailing space')
     if plain.count('"') % 2:

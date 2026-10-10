@@ -662,7 +662,7 @@
 "{V2019}{W8}{Ec}The Dis{W3}ci{W1}pli{W1}ne{W3} Committee,{W33} {Eo}obviously. Isn't it?"
 
 @ERI_MW2_A:287 ERI c9b0ca91
-"{V2020}{W8}{Ec}{F9}That{W5} meddlesome girl{W2} in{W3} particular{W35} is{W7} my{W2} {Eo}na{W3}me{W3}sis."
+"{V2020}{W8}{Ec}{F9}That{W5} meddlesome girl{W2} in{W3} particular{W35} is{W7} my{W2} {Eo}ne{W3}me{W3}sis."
 
 @ERI_MW2_A:288 PLY 4a746a52
 "If you made the school rules, Futami, what would they be?"

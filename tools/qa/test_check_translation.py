@@ -323,6 +323,10 @@ class Misc(Base):
         self.assertIn(('FAIL', 'EMPTY'), self.levels(self.run_check(mk('Scene:1', 'あ', translation='  '))))
         self.assertIn(('FAIL', 'UNTRANSLATED'), self.levels(self.run_check(mk('Scene:1', 'abc', translation='abc'))))
         self.assertIn(('WARN', 'DOUBLE_SPACE'), self.levels(self.run_check(mk('Scene:1', 'あ', translation='a  b'))))
+        self.assertIn(('WARN', 'WORDS_JOINED'),
+                      self.levels(self.run_check(mk('Scene:1', 'あ', translation='"I{W2}can{W2}do it"'))))
+        for ok in ('"I{W2} can{W2} do it"', '"Be{W1}cause{W2} of{W1}ten"', '"can{W1}not"', '"T-{W3}that\'s it"'):
+            self.assertNotIn(('WARN', 'WORDS_JOINED'), self.levels(self.run_check(mk('Scene:1', 'あ', translation=ok))))
         self.assertIn(('WARN', 'QUOTES'), self.levels(self.run_check(mk('Scene:1', 'あ', translation='"a'))))
         self.assertIn(('WARN', 'BRACKETS'), self.levels(self.run_check(mk('Scene:1', 'あ', translation='(a'))))
         self.assertIn(('WARN', 'NO_LETTERS'), self.levels(self.run_check(mk('Scene:1', 'あ', translation='...'))))

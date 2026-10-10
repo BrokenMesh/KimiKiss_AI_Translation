@@ -17,7 +17,7 @@
 "I think that's really... nice about you, but it seems like you never get any closer to everyone in class..."
 
 @YUM_KIS_B:52 YUM bc458c4d
-"{V0553}{W5}M-{W37}mm...{W53}{Fe7}{Eo}You're{W4} right.{W4}{W64}{Ec}{W5}{Fe6}{Eo} What should I do?"
+"{V0553}{W5}M-{W37}mm...{W53}{Fe7}{Eo} You're{W4} right.{W4}{W64}{Ec}{W5}{Fe6}{Eo} What should I do?"
 
 @YUM_KIS_B:53 PLY 39134502
 (What should she do? Ugh... oops, I hadn't thought that far ahead...)
@@ -44,7 +44,7 @@
 "R-really? I get how you feel, but I think you're still fine..."
 
 @YUM_KIS_B:64 YUM e3a9ac93
-"{V0558}{W4}M-{W45}mm...{W57}I'll try..."
+"{V0558}{W4}M-{W45}mm...{W57} I'll try..."
 
 @YUM_KIS_B:69 YUM d7282f47
 "{V0559}{W5}I-{W74}is this enough?"
@@ -374,7 +374,7 @@
 (A kiss in that outfit is just impossible, no matter what...)
 
 @YUM_KIS_B:207 YUM afa9ba83
-"{V0613}{W4}M{W1}m...{W82}{W1}{W1}Okay."
+"{V0613}{W4}M{W1}m...{W82}{W1}{W1} Okay."
 
 @YUM_KIS_B:208 YUM 0a64c796
 "{V0614}{W5}Ah..."
@@ -425,7 +425,7 @@
 "H-Hoshino..."
 
 @YUM_KIS_B:224 YUM c1a7e685
-"{V0623}{W9}Mm...{W79}thank you..."
+"{V0623}{W9}Mm...{W79} thank you..."
 
 @YUM_KIS_B:225 PLY 2f71a0f1
 "Hoshino, did something happen?"

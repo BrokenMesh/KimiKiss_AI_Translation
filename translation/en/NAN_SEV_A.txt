@@ -503,7 +503,7 @@
 "Yeah, yeah, right."
 
 @NAN_SEV_A:291 NAN 4c4e969b
-"{V0103}Mmm...{W70}{E}{5}{Ec}{F9}{Eo}Well{W3} then,{W45} when winter break{W5} comes,{W30} take me somewhere{W3}, okay?"
+"{V0103}Mmm...{W70}{E}{5}{Ec}{F9}{Eo} Well{W3} then,{W45} when winter break{W5} comes,{W30} take me somewhere{W3}, okay?"
 
 @NAN_SEV_A:292 PLY c73b25c6
 "Right. I'll think about it."

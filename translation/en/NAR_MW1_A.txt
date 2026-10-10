@@ -380,7 +380,7 @@
 "{V1528}{W5}Ehehe,{W3} {W30}no,{W3} {W3}I{W3} {W3}don't.{W2}"
 
 @NAR_MW1_A:188 NAR 5615d287
-"{V1529}{W15}I {W3}hate{W3} {W3}studying...{W40}really."
+"{V1529}{W15}I {W3}hate{W3} {W3}studying...{W40} really."
 
 @NAR_MW1_A:189 PLY 679bc389
 "Preparing and reviewing every night..."

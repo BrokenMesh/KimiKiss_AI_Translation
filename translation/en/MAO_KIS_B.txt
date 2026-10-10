@@ -749,7 +749,7 @@
 "Don't laugh about it again, Mao."
 
 @MAO_KIS_B:351 MAO ccf1eb12
-"{V0697}Ahaha...{W105}{Ec}{W5}{Fe9}{Eo}sorry, sorry."
+"{V0697}Ahaha...{W105}{Ec}{W5}{Fe9}{Eo} sorry, sorry."
 
 @MAO_KIS_B:352 MAO 6612e887
 "{V0698}{W10}What? {W60}Do you want to{W50} try again?"

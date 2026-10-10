@@ -1409,7 +1409,7 @@ Shijou was so efficient that there was almost nothing left for me to do.
 "Want me to scare you again?"
 
 @MIT_FEV:646 MIT 2679e30e
-"{V1369}{W10}P-{W80}please{W3}...{W55}do{W5}so{W5}...{W35}{Ec}{F5} hic."
+"{V1369}{W10}P-{W80}please{W3}...{W55}do{W5} so{W5}...{W35}{Ec}{F5} hic."
 
 @MIT_FEV:647 MIT 870c48c2
 "{V1370}{W10}......"
@@ -1559,7 +1559,7 @@ Clunk!
 "{V1383}{W15}But{W55} I{W3} sense{W15} someone{W2}{W8}..."
 
 @MIT_FEV:721 MIT b218c171
-"{V1384}{W10}Mr.{W8}{W8}Sensei{W8}!"
+"{V1384}{W10}Mr.{W8}{W8} Sensei{W8}!"
 
 @MIT_FEV:722 PLY 2e47b50b
 (T-this is bad!)
@@ -1580,7 +1580,7 @@ Clunk!
 "It's a long story, but I was napping in here and before I knew it, class had started."
 
 @MIT_FEV:728 MIT ba8cc5e1
-"{V1388}{W17}I{W1}{W1}see{W1}{W1}{W1}.{W1}"
+"{V1388}{W17}I{W1}{W1} see{W1}{W1}{W1}.{W1}"
 
 @MIT_FEV:729 MIT 1d816049
 "{V1389}{W15}But{W25} if you are in{W3} there,{W20} you cannot{W5} complain{W6} if{W5} people suspect you{W12} of{W5} something{W1}{W1} improper."
@@ -1655,7 +1655,7 @@ Clunk!
 "?"
 
 @MIT_FEV:754 MIT d6ab2e05
-"{V1401}{W10}We{W1}are{W1}quite{W1}{W5}late{W4}{W5} for{W4} school{W9}{W1}{W1}{W1}{W1}{W1}.{W50}{Sp} If we do not{W18} hurry{W4}{W1}{W1}{W1}{W1}{W1} we will{W1} be{W1}{W4} tardy{W1}{W1}."
+"{V1401}{W10}We{W1} are{W1} quite{W1}{W5} late{W4}{W5} for{W4} school{W9}{W1}{W1}{W1}{W1}{W1}.{W50}{Sp} If we do not{W18} hurry{W4}{W1}{W1}{W1}{W1}{W1} we will{W1} be{W1}{W4} tardy{W1}{W1}."
 
 @MIT_FEV:755 MIT d8a83de8
 "{V1402}{W10}{Ec}Hehe,{W3}{W3}{W3}{W35}{Eo} come,{W25} let{W3} us hurry."

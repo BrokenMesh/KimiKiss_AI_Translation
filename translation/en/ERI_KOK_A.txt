@@ -149,7 +149,7 @@
 "It's fine, look!"
 
 @ERI_KOK_A:143 SYS 854a81fc
-{Ti0}Bam!{W85}{Ts4}Thump!
+{Ti0}Bam!{W85}{Ts4} Thump!
 
 @ERI_KOK_A:145 ERI d8e1495c
 "{V1297}{W15}Eek!"

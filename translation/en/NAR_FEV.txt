@@ -11,19 +11,19 @@
 Girl A
 
 @NAR_FEV:94 MAN 39d1354b
-"{V5000}{W6}Who{W1}are{W1}you?{W47}"
+"{V5000}{W6}Who{W1} are{W1} you?{W47}"
 
 @NAR_FEV:95 PLY e03b8681
 "Oh, sorry. I thought Narumi might be here..."
 
 @NAR_FEV:99 MAN 80799f57
-"{V5001}{W6}Do{W3}you{W3}want{W3}something{W4}with{W3}Narumi?{W2}{W3}"
+"{V5001}{W6}Do{W3} you{W3} want{W3} something{W4} with{W3} Narumi?{W2}{W3}"
 
 @NAR_FEV:100 PLY c1d5ca56
 "Well... not really something..."
 
 @NAR_FEV:103 MAN df7c506f
-"{V5002}{W6}Nothing?{W4}{W3}{W3} {W59}Suspicious{W4}{W4}guy...{W3}{W4}"
+"{V5002}{W6}Nothing?{W4}{W3}{W3} {W59}Suspicious{W4}{W4} guy...{W3}{W4}"
 
 @NAR_FEV:104 - f6468b35
 Girl B
@@ -32,13 +32,13 @@ Girl B
 "{V5000}{W6}Manami,{W3}{W28} what's wrong?"
 
 @NAR_FEV:109 MAN 7932c6e6
-"{V5003}{W6}Rukko...{W3}{W3}{W1}{W25}this{W2}guy{W2}is{W56}suspicious{W6}{W4}{W1}{Eh}"
+"{V5003}{W6}Rukko...{W3}{W3}{W1}{W25} this{W2} guy{W2} is{W56} suspicious{W6}{W4}{W1}{Eh}"
 
 @NAR_FEV:110 PLY 5fc5e379
 "I-is that so? If anything, you two are the..."
 
 @NAR_FEV:114 KAO 52522a8b
-"{V5001}{W8}You're{W6}right.{W6}{W42} He{W2}looks{W2}suspicious{W2}just{W2}by{W3}looking{W3}at{W2}him.{W2}{W2}{Eh}"
+"{V5001}{W8}You're{W6} right.{W6}{W42} He{W2} looks{W2} suspicious{W2} just{W2} by{W3} looking{W3} at{W2} him.{W2}{W2}{Eh}"
 
 @NAR_FEV:115 PLY 7aa469c1
 "Hahaha..."
@@ -53,7 +53,7 @@ Girl B
 "Oh, Narumi. Thank goodness~! Tell them about me. They keep saying I'm suspicious and won't listen."
 
 @NAR_FEV:124 NAR 0105e0ec
-"{V0988}{W8}S-{W15}sorry.{W2}{W3}{W2}{W3} {W27}Mana,{W8} Rukko, look,{W20} it's{W1} {Nm}{W1}that{W1}I{W1}always{W3}talk{W1}about.{W1}{W1}{W2}{W2}{W1}"
+"{V0988}{W8}S-{W15}sorry.{W2}{W3}{W2}{W3} {W27}Mana,{W8} Rukko, look,{W20} it's{W1} {Nm}{W1}that{W1} I{W1} always{W3} talk{W1} about.{W1}{W1}{W2}{W2}{W1}"
 
 @NAR_FEV:125 MAN a4a1c84c
 "{V5004}{W4}Oh,{W2}{W30} I see..."
@@ -65,7 +65,7 @@ Girl B
 "{V0989}{W4}Geez,{W2}{W32} come on,{W2}{W13} introduce{W2}yourselves.{W2}{W3}{W3}{W1}"
 
 @NAR_FEV:128 MAN dc7c9c3c
-"{V5005}{W5}Year{W8}1-{W7}C,{W50} Hiba{W3}{W4}Manami...{W4}{W2}"
+"{V5005}{W5}Year{W8}1-{W7}C,{W50} Hiba{W3}{W4} Manami...{W4}{W2}"
 
 @NAR_FEV:129 KAO 1f418e5f
 "{V5003}{W3}Year{W5}1-{W5}B,{W2}{W26} Yuzuki{W3}{W3}Kaoruko.{W5}{W3}"
@@ -74,16 +74,16 @@ Girl B
 "Um, I'm {Nm} {Nn}."
 
 @NAR_FEV:131 NAR 417b3d32
-"{V0990}{W6}Mana{W1}and{W2}Rukko{W1}give{W2}me{W29}really{W3}great{W3}advice.{W2}{W2}{W2}{W2}"
+"{V0990}{W6}Mana{W1} and{W2} Rukko{W1} give{W2} me{W29} really{W3} great{W3} advice.{W2}{W2}{W2}{W2}"
 
 @NAR_FEV:133 MAN 3e7bde8c
-"{V0000}{W7}Narumi,{W29} did{W1}you{W1}add{W1}the{W2}powder{W3}from{W3}the{W2}charred{W2}lizard...{W3}{W17}?"
+"{V0000}{W7}Narumi,{W29} did{W1} you{W1} add{W1} the{W2} powder{W3} from{W3} the{W2} charred{W2} lizard...{W3}{W17}?"
 
 @NAR_FEV:134 NAR d420f270
 "{V0991}{W3}Yes,{W25} I put it in {W2}as a {W1}secret ingredient."
 
 @NAR_FEV:135 KAO 6da9df09
-"{V0000}{W7}What{W1}about{W1}the{W1}bananas{W1}I{W1}brought?{W1}"
+"{V0000}{W7}What{W1} about{W1} the{W1} bananas{W1} I{W1} brought?{W1}"
 
 @NAR_FEV:136 NAR 7cc7d466
 "{V0992}{W8}I {W1}made {W1}them {W1}into {W1}fritters {W1}and {W1}put {W1}them on top."
@@ -92,7 +92,7 @@ Girl B
 "{V0001}{W6}Nice {W3}job{W3}...{W1}"
 
 @NAR_FEV:138 KAO 55637303
-"{V0001}{W9}Let's{W2}taste{W2}it{W2}right{W3}now!{W2}{W2}"
+"{V0001}{W9}Let's{W2} taste{W2} it{W2} right{W3} now!{W2}{W2}"
 
 @NAR_FEV:139 NAR a3a318e3
 "{V0993}Would you like some too, {Nm}?{W1}{W2}{W2}{W1}{Ec}"
@@ -101,10 +101,10 @@ Girl B
 "Hahaha... You all eat it. I'll have some next time."
 
 @NAR_FEV:141 NAR 93649c41
-"{V0994}{W9}Oh,{W1}okay...{W1}{W1}{W1}{W33} what{W3}a{W3}shame.{W1}"
+"{V0994}{W9}Oh,{W1} okay...{W1}{W1}{W1}{W33} what{W3} a{W3} shame.{W1}"
 
 @NAR_FEV:142 KAO df01ec74
-"{V0002}{W4}Come{W1}on,{W25} let's go, Narumi."
+"{V0002}{W4}Come{W1} on,{W25} let's go, Narumi."
 
 @NAR_FEV:144 NAR 0899ea85
 "{V0995}{W3}O-{W5}okay..."
@@ -128,13 +128,13 @@ Girl B
 "{V0998}{Mc}{W5}Ehe{W2}he,{W2} {W20}people {W1}often {W1}tell {W1}me that."
 
 @NAR_FEV:160 NAR bf82990a
-"{V0999}{W9}I{W38}love{W3}PE!{W3}{W3}{W2}{W2}{W2}{W2}{W2}"
+"{V0999}{W9}I{W38} love{W3} PE!{W3}{W3}{W2}{W2}{W2}{W2}{W2}"
 
 @NAR_FEV:161 PLY 5d337c26
 "You seem like it."
 
 @NAR_FEV:162 NAR a972db5c
-"{V1000}{W9}I{W2}can{W2}do{W1}pretty{W1}much{W1}any{W1}ball{W1}sport,{W2}{W1}{W1}{W35} {F3}I'm{W2}fast{W1}at{W1}running,{W1}{W19} {Ec}and{W1}I'm{W1}good{W1}at{W1}jumping{W1}too...{W2}{W1}{W1}{W1}{W1}{W1}{W1}"
+"{V1000}{W9}I{W2} can{W2} do{W1} pretty{W1} much{W1} any{W1} ball{W1} sport,{W2}{W1}{W1}{W35} {F3}I'm{W2} fast{W1} at{W1} running,{W1}{W19} {Ec}and{W1} I'm{W1} good{W1} at{W1} jumping{W1} too...{W2}{W1}{W1}{W1}{W1}{W1}{W1}"
 
 @NAR_FEV:163 NAR c822345f
 "{V1001}{W9}But..."
@@ -143,49 +143,49 @@ Girl B
 "But?"
 
 @NAR_FEV:165 NAR 70725757
-"{V1002}{W9}There's{W1}just{W1}one{W1}thing,{W7}I'm{W1}bad{W1}at...{W1}"
+"{V1002}{W9}There's{W1} just{W1} one{W1} thing,{W7} I'm{W1} bad{W1} at...{W1}"
 
 @NAR_FEV:166 PLY ffdb76bd
 "Oh really? What?"
 
 @NAR_FEV:167 NAR 7743af21
-"{V1003}{W9}The{W3}bar{W3}flip.{W2}{W3}{W3} {W60}No{W3}matter{W2}how{W3}much{W3}I{W2}practice,{W2}I{W2}can't{W1}do{W1}it...{W1}{W1}"
+"{V1003}{W9}The{W3} bar{W3} flip.{W2}{W3}{W3} {W60}No{W3} matter{W2} how{W3} much{W3} I{W2} practice,{W2} I{W2} can't{W1} do{W1} it...{W1}{W1}"
 
 @NAR_FEV:168 PLY 958aa3f7
 "I see, the bar flip... Some kids are good at PE but can't do a bar flip."
 
 @NAR_FEV:169 NAR 9710bb4e
-"{V1004}{W4}Ugh...{W4}{W3}{W60} that's{W2}{W2}me.{W1}{W3}{W1}"
+"{V1004}{W4}Ugh...{W4}{W3}{W60} that's{W2}{W2} me.{W1}{W3}{W1}"
 
 @NAR_FEV:170 NAR 9514b3ea
-"{V1005}{W8}In{W5}elementary{W5}school,{W5}{W4}{W5}{W27} I{W4}wrapped{W4}my{W4}gym{W4}clothes{W3}around{W3}the{W3}bar{W3}to{W3}fake{W5}it.{W3}{W2}{W3}{W2}{W3}{W2}{W2}"
+"{V1005}{W8}In{W5} elementary{W5} school,{W5}{W4}{W5}{W27} I{W4} wrapped{W4} my{W4} gym{W4} clothes{W3} around{W3} the{W3} bar{W3} to{W3} fake{W5} it.{W3}{W2}{W3}{W2}{W3}{W2}{W2}"
 
 @NAR_FEV:171 PLY 59b464a8
 "Hahaha."
 
 @NAR_FEV:172 NAR 7808064f
-"{V1006}{Nm},{W2}{W2}{W26} can{W2}you{W1}do{W1}a{W1}bar{W1}flip?{W1}{W1}{W1}"
+"{V1006}{Nm},{W2}{W2}{W26} can{W2} you{W1} do{W1} a{W1} bar{W1} flip?{W1}{W1}{W1}"
 
 @NAR_FEV:173 PLY 7ceb62d5
 "I can, why?"
 
 @NAR_FEV:174 NAR 9d719c0b
-"{V1007}{W5}Then,{W26} please{W1}teach{W2}me{W1}sometime!{W1}{W1}{W1}{W1}{W20} Please!{W1}{W1}"
+"{V1007}{W5}Then,{W26} please{W1} teach{W2} me{W1} sometime!{W1}{W1}{W1}{W1}{W20} Please!{W1}{W1}"
 
 @NAR_FEV:175 PLY bbfa7a8c
 "Sure. If I'll do."
 
 @NAR_FEV:176 NAR e26a968b
-"{V1008}{W5}Yay{W5}{W5}{W5}~!{W4} {W23}It's{W3}a{W3}promise,{W1}okay{W1}~!{W1}"
+"{V1008}{W5}Yay{W5}{W5}{W5}~!{W4} {W23}It's{W3} a{W3} promise,{W1} okay{W1}~!{W1}"
 
 @NAR_FEV:177 PLY ba59a03d
 (She's gone... So full of energy.)
 
 @NAR_FEV:179 NAR b9344465
-"{V1009}{W4}Ah...{W26}Nana,{W2}{W2}{W2}{W2} {W23}don't{W3}move{W2}{W1}{W5}{W3}{W2}{W2}{W2}"
+"{V1009}{W4}Ah...{W26} Nana,{W2}{W2}{W2}{W2} {W23}don't{W3} move{W2}{W1}{W5}{W3}{W2}{W2}{W2}"
 
 @NAR_FEV:180 NAN a7ca45cf
-"{V0538}{W9}Sor{W2}ry{W2}~,{W2}Naru.{W2}{W35} I{W2}won't{W2}move{W3}anymore,{W1}{W1}{W33}promise...{W2}{W2}{W1}"
+"{V0538}{W9}Sor{W2}ry{W2}~,{W2} Naru.{W2}{W35} I{W2} won't{W2} move{W3} anymore,{W1}{W1}{W33} promise...{W2}{W2}{W1}"
 
 @NAR_FEV:181 PLY dfb6f0e8
 (Hm? That's Nana and Narumi's voices...)
@@ -203,10 +203,10 @@ Girl B
 "{V1011}{W4}Oh,{W8} sorry!"
 
 @NAR_FEV:186 NAN 0d96f9a8
-"{V0541}{W8}Be{W2}more{W2}gen{W3}tle{W1}~{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
+"{V0541}{W8}Be{W2} more{W2} gen{W3}tle{W1}~{W1}{W1}{W1}{W1}{W1}{W1}{W1}"
 
 @NAR_FEV:187 NAR 5c6d37e4
-"{V1012}{W3}Okay,{W17} you're{W2}right...{W1}{W1}{W1}"
+"{V1012}{W3}Okay,{W17} you're{W2} right...{W1}{W1}{W1}"
 
 @NAR_FEV:188 PLY 36b0b1e7
 (W-what on earth are they doing?!)
@@ -215,7 +215,7 @@ Girl B
 "Nana! Narumi!"
 
 @NAR_FEV:190 NAN a20352f0
-"{V0542}{W4}Oh,{W39} {F2}Big{W2}Bro{W2}{W1}{W1}"
+"{V0542}{W4}Oh,{W39} {F2}Big{W2} Bro{W2}{W1}{W1}"
 
 @NAR_FEV:191 NAR cb7cbd2d
 "{V1013}{W7}{Nm}{F2}!"
@@ -224,7 +224,7 @@ Girl B
 "What are you doing in a place like this?!"
 
 @NAR_FEV:193 NAN 06306143
-"{V0543}{W7}What{W29}{W3}do{W44}you{W3}mean?{W2}She{W3}was{W1}doing{W1}my{W1}hair{W1}for{W1}me,{W1}{W1}{W1}{W1}{W1}"
+"{V0543}{W7}What{W29}{W3} do{W44} you{W3} mean?{W2} She{W3} was{W1} doing{W1} my{W1} hair{W1} for{W1} me,{W1}{W1}{W1}{W1}{W1}"
 
 @NAR_FEV:194 PLY dd27d2cd
 "Huh? R-really?"
@@ -266,7 +266,7 @@ Girl B
 "{V0548}{W6}Big Bro,{W34} see you~!"
 
 @NAR_FEV:208 NAR 76de7fca
-"{V1018}{W10}Senpai,{W22} see{W1}you{W3}~{W3}later!"
+"{V1018}{W10}Senpai,{W22} see{W1} you{W3}~{W3} later!"
 
 @NAR_FEV:210 PLY 747ac4a6
 (...I've got nothing to do, so maybe I'll go see the Swim Club practice...)
@@ -284,13 +284,13 @@ Girl B
 "Oh, Hoshino. There you are."
 
 @NAR_FEV:218 YUM 15b509de
-"{Nm}, {V1330}{W7}what{W1}is{W1}it?{W1}"
+"{Nm}, {V1330}{W7}what{W1} is{W1} it?{W1}"
 
 @NAR_FEV:219 PLY 82647a41
 "Is this maybe yours, Hoshino?"
 
 @NAR_FEV:221 YUM 8827ca68
-"{V1331}{W5}No,{W4}{W4}{W28} it's{W3}not{W1}mine.{W1}{W1}{W1}"
+"{V1331}{W5}No,{W4}{W4}{W28} it's{W3} not{W1} mine.{W1}{W1}{W1}"
 
 @NAR_FEV:222 PLY 67919fb4
 "R-right."
@@ -311,7 +311,7 @@ Girl B
 "Oh, Narumi. There you are."
 
 @NAR_FEV:229 NAR b343af1e
-"{V1019}{W5}Oh,{W18} {Nm}!{W20} Do{W3}you{W2}need{W1}something?{W2}"
+"{V1019}{W5}Oh,{W18} {Nm}!{W20} Do{W3} you{W2} need{W1} something?{W2}"
 
 @NAR_FEV:230 PLY 10059526
 "I picked this up a while ago. Isn't it yours, Narumi?"
@@ -332,16 +332,16 @@ Girl B
 "The walkway leading to the Gym."
 
 @NAR_FEV:236 NAR b979e957
-"{V1023}{W6}Oh{W2}...{W33}it{W2}must{W2}have{W5}been{W2}then{W2}{W3}..."
+"{V1023}{W6}Oh{W2}...{W33} it{W2} must{W2} have{W5} been{W2} then{W2}{W3}..."
 
 @NAR_FEV:237 NAR dd17ddce
-"{V1024}{W6}Ehe{W2}he,{W2}{W34} at{W3}lunch{W3}break{W2}{W17}I{W2}was{W2}running{W3}around{W1}there{W3}with{W3}my{W3}friends.{W2}{W2}{W2}{W3}{W1}{W1}{W1}{W1}"
+"{V1024}{W6}Ehe{W2}he,{W2}{W34} at{W3} lunch{W3} break{W2}{W17} I{W2} was{W2} running{W3} around{W1} there{W3} with{W3} my{W3} friends.{W2}{W2}{W2}{W3}{W1}{W1}{W1}{W1}"
 
 @NAR_FEV:238 PLY adaeb24e
 "Hahaha, I see."
 
 @NAR_FEV:239 NAR e138b285
-"{V1025}{W2}Senpai,{W2}{W45} thank{W1}you{W1}for{W1}finding{W1}it.{W2}{W1}{W1}{W1}{W1}{W1}{W1}"
+"{V1025}{W2}Senpai,{W2}{W45} thank{W1} you{W1} for{W1} finding{W1} it.{W2}{W1}{W1}{W1}{W1}{W1}{W1}"
 
 @NAR_FEV:240 NAR 2e5d2a39
 "{V1026}{W5}This {W1}key {W1}chain {W2}is {W2}very {W1}dear {W2}to {W1}me,{W27} I {W1}really {W}love {W1}it, {W1}it's {W1}my {W1}favorite {W1}one {W1}ever."
@@ -383,7 +383,7 @@ Girl B
 "{Nn}..."
 
 @NAR_FEV:261 MAO 8cd206f7
-"{V1087}{W4}Don't{W3}scare{W3}me{W3}like{W3}that,{W3}{W3}{W3}{W3}{W1}{W7}geez.{W2}{W45} {Fe8}{Eo}We{W3} almost collided."
+"{V1087}{W4}Don't{W3} scare{W3} me{W3} like{W3} that,{W3}{W3}{W3}{W3}{W1}{W7} geez.{W2}{W45} {Fe8}{Eo}We{W3} almost collided."
 
 @NAR_FEV:262 PLY 6c1b2754
 "S-sorry."
@@ -401,13 +401,13 @@ Girl B
 "Oh... no, I picked this up a while ago. Isn't it yours, Mao?"
 
 @NAR_FEV:268 MAO 06b13e41
-"{V1090}{W5}What{W26}is this?"
+"{V1090}{W5}What{W26} is this?"
 
 @NAR_FEV:269 PLY 38b07ef3
 "An udon key chain?"
 
 @NAR_FEV:270 MAO fcc82716
-"{V1091}{W4}I{W6}can{W6}see{W6}that{W1}myself."
+"{V1091}{W4}I{W6} can{W6} see{W6} that{W1} myself."
 
 @NAR_FEV:271 MAO b9a13e3e
 "{V1092}{W7}Do you{W4} think{W36} I'd{W1} put{W1} something{W1} like{W1} that on my phone?"
@@ -416,7 +416,7 @@ Girl B
 "...Probably not?"
 
 @NAR_FEV:273 MAO 5b14777f
-"{V1093}{W8}No,{W1}I{W1}wouldn't.{W1}{W40} {Fe9}{Eo}You don't understand me at all."
+"{V1093}{W8}No,{W1} I{W1} wouldn't.{W1}{W40} {Fe9}{Eo}You don't understand me at all."
 
 @NAR_FEV:275 MAO 035843dc
 "{V1094}{W4}See you."
@@ -428,22 +428,22 @@ Girl B
 "Oh, Sakino. There you are."
 
 @NAR_FEV:278 ASU 9f8a68a3
-"{V0933}{W4}Oh,{W4} {Nm}.{W5} {F3}What's{W1}up?"
+"{V0933}{W4}Oh,{W4} {Nm}.{W5} {F3}What's{W1} up?"
 
 @NAR_FEV:279 PLY 46266d2a
 "I picked this up a while ago. Isn't it yours, Sakino?"
 
 @NAR_FEV:280 ASU e0c0d4cf
-"{V0934}{W4}Aha{W8}ha,{W8}{W37} it's{W1}an{W1}udon{W1}key chain.{W38} {Ec}It{W5}looks{W5}just{W5}like{W5}the{W5}real{W5}thing!"
+"{V0934}{W4}Aha{W8}ha,{W8}{W37} it's{W1} an{W1} udon{W1} key chain.{W38} {Ec}It{W5} looks{W5} just{W5} like{W5} the{W5} real{W5} thing!"
 
 @NAR_FEV:281 ASU 3b0a670a
-"{V0935}{W4}But{W1}it's{W32}not{W3}mine.{W1}"
+"{V0935}{W4}But{W1} it's{W32} not{W3} mine.{W1}"
 
 @NAR_FEV:282 ASU 6410e31e
-"{V0936}{W6}Looking{W1}at{W1}it{W1}makes{W1}me{W1}crave{W15}udon,{W2}{W1}{W1} {W53}{Ec}{W5}{F7}{Eo}maybe{W2}I'll{W2}grab{W1}some{W1}after{W1}club{W1}activities{W12}end.{W1}{W1}{W1}{W1}{W1}{W1}"
+"{V0936}{W6}Looking{W1} at{W1} it{W1} makes{W1} me{W1} crave{W15} udon,{W2}{W1}{W1} {W53}{Ec}{W5}{F7}{Eo}maybe{W2} I'll{W2} grab{W1} some{W1} after{W1} club{W1} activities{W12} end.{W1}{W1}{W1}{W1}{W1}{W1}"
 
 @NAR_FEV:283 ASU 5da317df
-"{V0937}{W7}I hope{W3}you{W3}find{W12} the owner.{W40} {Fe2}{Ec}Well,{W12} see you."
+"{V0937}{W7}I hope{W3} you{W3} find{W12} the owner.{W40} {Fe2}{Ec}Well,{W12} see you."
 
 @NAR_FEV:284 PLY 96b91d51
 "Do your best at club."
@@ -461,7 +461,7 @@ Girl B
 "I picked this up a moment ago. Isn't it yours, Futami?"
 
 @NAR_FEV:289 ERI d237e5f2
-"{V0997}{W7}A{W1} cup{W1} ud{W1}on{W1} key{W1}chain..."
+"{V0997}{W7}A{W1} cup{W1} ud{W1}on{W1} key{W1} chain..."
 
 @NAR_FEV:290 PLY 4f4ef72f
 "Well, it doesn't have to be cup udon..."
@@ -491,7 +491,7 @@ Girl B
 "I picked this up a moment ago. Isn't it yours, Shijou?"
 
 @NAR_FEV:300 MIT a7dcfa70
-"{V1174}{W3}An{W3}udon{W3}{W3} key{W4}chain...{W3}{W4}{W3}{W2}{W2} {W67}{F3}It's{W3} so{W2} small,{W2} yet{W1} it's{W2} very{W1} well{W1} made.{W1}{W1}{W1}{W1}{W1}{W1} {W35}{F4}Even{W2} the{W2} fried{W1} tofu{W1} looks{W1} real{W2}{W4}{W4}{W2}{W2}{W2}{W2}{W1}"
+"{V1174}{W3}An{W3} udon{W3}{W3} key{W4} chain...{W3}{W4}{W3}{W2}{W2} {W67}{F3}It's{W3} so{W2} small,{W2} yet{W1} it's{W2} very{W1} well{W1} made.{W1}{W1}{W1}{W1}{W1}{W1} {W35}{F4}Even{W2} the{W2} fried{W1} tofu{W1} looks{W1} real{W2}{W4}{W4}{W2}{W2}{W2}{W2}{W1}"
 
 @NAR_FEV:301 PLY 1b758669
 "Hahaha, it does."
@@ -917,10 +917,10 @@ Both
 (Uoooooooh!{As0}{b128}{As0}{b0})
 
 @NAR_FEV:477 NAR 42d4c582
-"{V1069}{W3}Huff{W29}huff{W30}huff{W30}huff{W1}"
+"{V1069}{W3}Huff{W29} huff{W30} huff{W30} huff{W1}"
 
 @NAR_FEV:478 NAN 33d512ea
-"{V0570}{W9}Huff{W3}{W22}huff{W3}{W35}huff{W4}{W56}huff{W8}"
+"{V0570}{W9}Huff{W3}{W22} huff{W3}{W35} huff{W4}{W56} huff{W8}"
 
 @NAR_FEV:479 NAR b0ad57a4
 "{V1070}{W9}It's{W5} super{W5} heavy,{W4} Nana~{W3}{W2}{W1}"
@@ -953,10 +953,10 @@ Both
 ({As0}{b255}Full power, everything I've got!{A}{s}{b0})
 
 @NAR_FEV:490 NAR 574b8648
-"{V1074}Huff{W26}huff{W1}{W16}huff{W1}{W21}huff{W1}"
+"{V1074}Huff{W26} huff{W1}{W16} huff{W1}{W21} huff{W1}"
 
 @NAR_FEV:491 NAN 496784ce
-"{V0575}Huff{W65}huff{W72}huff{W3}{W70}huff{W5}"
+"{V0575}Huff{W65} huff{W72} huff{W3}{W70} huff{W5}"
 
 @NAR_FEV:492 PLY 9e2aebed
 (Huff, huff, huff, huff)

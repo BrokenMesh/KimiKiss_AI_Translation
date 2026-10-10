@@ -121,6 +121,7 @@ Console: one block per record that is not PASS (`-v` prints PASS too): status, i
 | `TRANSLATE_FALSE` | FAIL | translation on a record that must not be translated |
 | `SRC_STALE` | WARN | the hash in the store header differs from the current Japanese: the English was written against another line |
 | `DOUBLE_SPACE`, `EDGE_SPACE`, `QUOTES`, `BRACKETS`, `NO_LETTERS`, `IDEOGRAPHIC_SPACE`, `NO_LIMIT` | WARN | suspicious |
+| `WORDS_JOINED` | WARN | two common words joined by control codes with no space (`can{W2}do`); put a space after the code (D-039) |
 
 ## Rules for the translator
 

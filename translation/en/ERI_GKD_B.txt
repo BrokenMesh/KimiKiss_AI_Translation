@@ -131,7 +131,7 @@
 "Oh, that way is..."
 
 @ERI_GKD_B:105 ERI 4c9dbbcc
-"{V0816}{W8}{S}Ah...{W81}{Fe1}the{W1} back{W4} alley{W3} a{W3}gain{W9}...{W1}"
+"{V0816}{W8}{S}Ah...{W81}{Fe1} the{W1} back{W4} alley{W3} a{W3}gain{W9}...{W1}"
 
 @ERI_GKD_B:106 PLY 8940c07c
 "Hahahahaha."

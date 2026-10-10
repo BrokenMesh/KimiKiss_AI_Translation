@@ -14,7 +14,7 @@
 "The school festival is really lively."
 
 @MIT_KOK_A:42 MIT bf370e14
-"{V1485}{W10}Yes,{W2}{W2}indeed.{W2}{W2}{W2}"
+"{V1485}{W10}Yes,{W2}{W2} indeed.{W2}{W2}{W2}"
 
 @MIT_KOK_A:43 PLY f1ee000a
 "We have the whole day, so let's take our time and look around."
@@ -41,13 +41,13 @@ The thought was painful and agonizing, as if my heart would burst...
 "{V1487}{W20}Yes, it is..."
 
 @MIT_KOK_A:59 MIT 02bc889c
-"{V1488}...{W8}I wish{W3}it{W3}could last{W3}forever..."
+"{V1488}...{W8}I wish{W3} it{W3} could last{W3} forever..."
 
 @MIT_KOK_A:60 PLY 122df4f6
 "Huh?"
 
 @MIT_KOK_A:62 MIT 5ead6204
-"{V1489}{W10}If{W3}the{W3}school{W3}festival{W5}never{W3}ended,{W60}{F6}{Eo} I{W3} could stay by your side,{W5} {Nm},{W80} always..."
+"{V1489}{W10}If{W3} the{W3} school{W3} festival{W5} never{W3} ended,{W60}{F6}{Eo} I{W3} could stay by your side,{W5} {Nm},{W80} always..."
 
 @MIT_KOK_A:63 PLY 5248279b
 "Shijou..."
@@ -56,13 +56,13 @@ The thought was painful and agonizing, as if my heart would burst...
 "{V1490}{W5}...{W5}..."
 
 @MIT_KOK_A:67 MIT db632043
-"{Nm}{V1491},{W15} would{W3}you{W3}like to go to the Schoolyard?"
+"{Nm}{V1491},{W15} would{W3} you{W3} like to go to the Schoolyard?"
 
 @MIT_KOK_A:68 PLY 150ed083
 "The Schoolyard?"
 
 @MIT_KOK_A:70 MIT 4c8c83e5
-"{V1492}{W10}Yes.{W60}{Eo} There is a{W3} campfire.{W20} Please{W3}dance{W5} the{W5} folk{W3} dance{W8}with{W3}me."
+"{V1492}{W10}Yes.{W60}{Eo} There is a{W3} campfire.{W20} Please{W3} dance{W5} the{W5} folk{W3} dance{W8} with{W3} me."
 
 @MIT_KOK_A:71 PLY 691be845
 "The folk dance... Sounds good, let's go!"
@@ -71,13 +71,13 @@ The thought was painful and agonizing, as if my heart would burst...
 ...And so the sun set, and the folk dance began.
 
 @MIT_KOK_A:76 MIT c5990560
-"{V1493}{W13}Today{W3}was{W5}a{W3} lot{W5}of{W3}fun."
+"{V1493}{W13}Today{W3} was{W5} a{W3} lot{W5} of{W3} fun."
 
 @MIT_KOK_A:77 PLY af85d10c
 "For me too..."
 
 @MIT_KOK_A:79 MIT 47651e1d
-"{V1494}{W10}Being{W3}with{W3}you{W5}at school,{W5}{Nm},{W5}all day{W3}is{W38}a{W5}first{W2}for me."
+"{V1494}{W10}Being{W3} with{W3} you{W5} at school,{W5}{Nm},{W5} all day{W3} is{W38} a{W5} first{W2} for me."
 
 @MIT_KOK_A:80 PLY bad3355d
 "Yeah..."
@@ -167,7 +167,7 @@ Even if it's unreasonable, even if it troubles her. I will...
 "{V1504}{W10}I am sorry to have kept you waiting."
 
 @MIT_KOK_A:114 MIT d90459c7
-"{V1505}{W13}When{W6} I think of{W3} Father,{W3}{W3}who{W8} raised{W8}me,{W60}{Ec} my{W8} heart{W10} wavers{W5} no{W3} matter what..."
+"{V1505}{W13}When{W6} I think of{W3} Father,{W3}{W3} who{W8} raised{W8} me,{W60}{Ec} my{W8} heart{W10} wavers{W5} no{W3} matter what..."
 
 @MIT_KOK_A:115 PLY 2706a804
 "It's okay... It's enough that you came..."
@@ -239,7 +239,7 @@ Even if it's unreasonable, even if it troubles her. I will...
 {V5032}{c6}"{W10}Another day{W1} begins,{W3}{W3}{W5}{W3} {W3}does it not?"
 
 @MIT_KOK_A:153 SYS 73529db5
-{V5033}{c6}"{W15}If there is anything{W6} you would like{W3} me to do,{W25} please tell me.{W45} I will do{W5}my{W5}very{W12}best.{W5}{W5}"
+{V5033}{c6}"{W15}If there is anything{W6} you would like{W3} me to do,{W25} please tell me.{W45} I will do{W5} my{W5} very{W12} best.{W5}{W5}"
 
 @MIT_KOK_A:154 SYS 4b1d8335
 {V5034}{c6}"{W5}Because that is{W85} my{W6}{W8} happiness{W6}{W3}..."

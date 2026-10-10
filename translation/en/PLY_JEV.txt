@@ -137,7 +137,7 @@
 "Phew... it finally stopped. That scared me."
 
 @PLY_JEV:109 NAN 50458340
-"{V0875}B{W10}B{W15}Big...{W35}{Ts3}Big Bro~~!!"
+"{V0875}B{W10}B{W15}Big...{W35}{Ts3} Big Bro~~!!"
 
 @PLY_JEV:119 PLY e52a54e7
 "Ah, Nana!"

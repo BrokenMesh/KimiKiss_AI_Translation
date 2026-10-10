@@ -47,7 +47,7 @@
 "Even if you say that, we can't go back now."
 
 @NAR_DAT_A:102 NAR ec355836
-"{V0915}{Eo}{F6}{W8}No~{W8}way~{W8}!"
+"{V0915}{Eo}{F6}{W8}No~{W8} way~{W8}!"
 
 @NAR_DAT_A:103 PLY 2de3f668
 "I'm with you, so it's fine. Come on, let's go."
