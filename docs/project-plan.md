@@ -24,7 +24,7 @@ This is **not** a full decompilation. Decompile only the code paths that handle 
 | Resource | Use |
 |---|---|
 | https://github.com/21-ko/AMAGAMI-translation-tools | MIT. Tools for Amagami (same developer, 2009); folders `scf/`, `tm2/`, `img/`. It has no README, so read the code. This is the primary hypothesis for the formats. |
-| Ni-shi-shi Translations' Amagami English patch (PS2/PSP, v1.0.0, Dec 2023) | Strategic reference. It was split into 3 patches because of space limits, and it has known backlog crashes on PS2. Expect the same pressures here. |
+| Ni-shi-shi Translations' Amagami English patch (PS2/PSP, v1.0.0, Dec 2023) | Strategic reference. Each of the 3 releases (original PS2, EbiKore+ PS2, PSP) has 3 xdelta files: Ai/Haruka, Rihoko/Sae, Tsukasa/Kaoru. Only the conversations are split, events are translated in all three; their readme blames "some sort of engine limitation with certain files and their storage sizes". PS2 backlog crashes and slowdowns stay open; EbiKore+ Mahjong and Omake were disabled for space. Their tool (amg-codec-tool-new, `doc/amg_doc.tex`) writes English as full-width Shift-JIS (0x8260-0x829A), 2 bytes per letter. In KimiKiss the same kind of text cost 4 bytes per character in the VM object space until D-027; that is the likely cause, not confirmed on Amagami. |
 | Amagami Vita English patch (Spazzery's Temple, 2025) | It ported Ni-shi-shi's documentation and code changes, which is evidence that code-level patches exist in this engine family. |
 | https://github.com/bethington/ghidra-mcp | Ghidra over MCP. Use it for string search, cross-references, decompilation, renaming, and commenting. |
 | PCSX2 (Qt build) | Emulator for runtime verification. |
