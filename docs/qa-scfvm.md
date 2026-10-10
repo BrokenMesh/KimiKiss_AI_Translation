@@ -31,6 +31,8 @@ python3 tools/qa/test_patches_jp.py build/work/script_orig --only TextLine -v
 7. Text constants are shared mutable `String`s (as in the engine). Constant types 0/2/4 are read as nil/false/true (no game code pushes them).
 8. A `34 n` primitive reached in a class that is neither stubbed nor native is logged like a stub call and a warning is recorded (`vm.warnings`).
 9. No time and no threads: `sleep` returns at once, `Thread` is a stub, nothing runs concurrently.
+10. On the class side, `push_ivar n` / `store_ivar n` address class variable n (the `fields2` id) of the method's class or a superclass. `GameParam class >> init` stores the `autoSkip` setting with `store_ivar 18`, and `restoreSystemData:` reads the same slot with `push_classvar GameParam 18` (D-038).
+11. `Integer rnd: n` answers `vm.rnd(n)`, by default 0 (assumed range 0..n-1). Tests set `vm.rnd` to choose the rolls (`tools/qa/test_easy_mode.py`).
 
 ## Writing a scenario
 

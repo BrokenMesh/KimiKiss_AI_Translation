@@ -15,6 +15,7 @@ if [[ -d build/work/script_orig && -f build/orig/SCRIPT.IMG ]]; then
   run $py tools/qa/test_scfasm_roundtrip.py build/work/script_orig
   run $py tools/qa/test_scfvm.py build/work/script_orig
   run $py tools/qa/test_patches_jp.py build/work/script_orig
+  run $py tools/qa/test_easy_mode.py build/work/script_orig
   run $py tools/qa/test_text_roundtrip.py build/orig/SCRIPT.IMG
   run $py tools/qa/test_graph0_textures.py build/orig/GRAPH/GRAPH0.ARC
   run $py tools/qa/test_graph_overrides.py build/orig/GRAPH

@@ -2351,7 +2351,8 @@ name = "sysgraph/menu_main4"
 size = [112, 32]
 [[texture.line]]
 japanese = "オプション"
-english = "Options"
+english = "Easy Mode"
+note = "Unused in the original game; the title-menu item that opens the Easy Mode panel (D-038)."
 background = ["commonest"]
 fill = "#ffffff"
 style = "shadow"
