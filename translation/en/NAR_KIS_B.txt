@@ -8,7 +8,7 @@
 "Hm?"
 
 @NAR_KIS_B:43 NAR 15a912eb
-"{V0478}{W15}Talking{W3}{W3}with{W5}you{W6} is{W25} {Fe2}so much{W3} fun,{W3} Senpai{W3}."
+"{V0478}{W15}Talking{W3}{W3} with{W5} you{W6} is{W25} {Fe2}so much{W3} fun,{W3} Senpai{W3}."
 
 @NAR_KIS_B:44 PLY 3548d996
 "Is it?"
@@ -83,7 +83,7 @@
 "{V0490}{W15}{B100}{Fe2m3}Thank you."
 
 @NAR_KIS_B:80 NAR 8753dc43
-"{V0491}{W12}Chomp{W3}{W3}{W3},{W20} {Fe4}munch{W3}munch{W3}...{W3}{W3}"
+"{V0491}{W12}Chomp{W3}{W3}{W3},{W20} {Fe4}munch{W3} munch{W3}...{W3}{W3}"
 
 @NAR_KIS_B:81 PLY f31c2e12
 "Ah...!"

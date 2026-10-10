@@ -476,7 +476,7 @@ The dumplings were delicious.
 (H-hurry, shove anything embarrassing deep into the closet!)
 
 @NAR_GKD_B:238 SYS 96c22667
-{Ts2}Rustle{Ts1}-bustle...{W45}{As1}{b155}{Ts3}Thud!{As0}{b0} {W60}{Ts1}Rattle...{W15}{Ts3}{As1}{b5}Crash{As0}{b0}!
+{Ts2}Rustle{Ts1}-bustle...{W45}{As1}{b155}{Ts3} Thud!{As0}{b0} {W60}{Ts1}Rattle...{W15}{Ts3}{As1}{b5} Crash{As0}{b0}!
 
 @NAR_GKD_B:239 PLY c9c88ba0
 "Huff, huff... I-I think that's good enough..."

@@ -356,7 +356,7 @@
 "{V2012}Eh..."
 
 @YUM_MW2_A:164 YUM 903d0199
-"{V2013}{W3}That{W4}{W4}kind{W4} of talk...{W48} I don't really understand."
+"{V2013}{W3}That{W4}{W4} kind{W4} of talk...{W48} I don't really understand."
 
 @YUM_MW2_A:165 PLY 7ce3fbd8
 "Hoshino, what's your dream for the future?"

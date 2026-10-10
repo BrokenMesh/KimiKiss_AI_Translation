@@ -32,7 +32,7 @@
 "I only did what anyone would."
 
 @ASU_KIS_B:56 ASU 6e328e5e
-"{V0380}{F4}{W12}As{W2}{W2}ex{W2}pected{W2} of you~! {W37}You re{W3}ally are{W3} different~!{Fe2m3}{Ec}"
+"{V0380}{F4}{W12}As{W2}{W2} ex{W2}pected{W2} of you~! {W37}You re{W3}ally are{W3} different~!{Fe2m3}{Ec}"
 
 @ASU_KIS_B:57 PLY 7aa469c1
 "Hahaha..."

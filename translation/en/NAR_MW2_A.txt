@@ -1517,7 +1517,7 @@ Treated as a missing number.
 "{V2260}{W8}You want to hide{W3}{W3} that{W3} you failed,{W8}{W25} but everyone{W2} finds out..."
 
 @NAR_MW2_A:573 NAR 0e9ab9b3
-"{V2261}{W8}So,{W3}Senpai,{W3}{W20} {Ec}so that doesn't happen,{W10} please{W3} teach{W3} me{W10} how{W3} to study{W3} soon{W2}~"
+"{V2261}{W8}So,{W3} Senpai,{W3}{W20} {Ec}so that doesn't happen,{W10} please{W3} teach{W3} me{W10} how{W3} to study{W3} soon{W2}~"
 
 @NAR_MW2_A:574 PLY de586e38
 "Sure, next time."

@@ -257,7 +257,7 @@ Mama
 "{V0737}{W8}{F6}{Ec}Yes,{W42} I know.{W60} {Eo}That is why{W33} I did not ride the swing."
 
 @ERI_GKD_A:155 ERI 3af9cd2f
-"{V0738}{W12}There{W8} is{W1} no{W8} doubt{W1} she{W4} was{W4} wor{W1}ried{W1} about{W1} my{W3} body.{W30} {Ec}A{W69} little{W18} over{W4}done, though."
+"{V0738}{W12}There{W8} is{W1} no{W8} doubt{W1} she{W4} was{W4} wor{W1}ried{W1} about{W1} my{W3} body.{W30} {Ec}A{W69} little{W18} over{W4} done, though."
 
 @ERI_GKD_A:156 PLY b7df7664
 "That's awful."
@@ -266,7 +266,7 @@ Mama
 "{V0739}{Ec}{Fe4m3}...{W3}But{W30} it's fine."
 
 @ERI_GKD_A:158 ERI ef4956bb
-"{V0740}{W12}{Eh}{Fe9m3}There{W9} is{W2} no{W9} doubt{W2} she{W5} was{W5} wor{W2}ried{W2} about{W2} my{W30} body.{W90} {Ec}{F3}A{W1} little{W1} over{W1}done,{W1} though.{W1}{W1}{W1}{W1}{W1}{W4}{W3}"
+"{V0740}{W12}{Eh}{Fe9m3}There{W9} is{W2} no{W9} doubt{W2} she{W5} was{W5} wor{W2}ried{W2} about{W2} my{W30} body.{W90} {Ec}{F3}A{W1} little{W1} over{W1} done,{W1} though.{W1}{W1}{W1}{W1}{W1}{W4}{W3}"
 
 @ERI_GKD_A:159 PLY ad90864b
 "Futami as a child, huh... What kind of kid were you?"

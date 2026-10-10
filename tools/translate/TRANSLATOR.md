@@ -47,7 +47,7 @@ Write anything the reviewer must know (a pun you could not keep, an unclear refe
 
 ## Control codes `{...}`
 
-Every braced token in the Japanese must appear in the English, spelled exactly the same. They are not text and take no space.
+Every braced token in the Japanese must appear in the English, spelled exactly the same. They are not text and draw nothing, so they never replace a space: keep the normal spaces between English words, `I{W2} can{W2} do it`, never `I{W2}can{W2}do it` (that shows as "Icandoit"; D-039).
 
 | Code | Meaning | Where it goes in English |
 |---|---|---|

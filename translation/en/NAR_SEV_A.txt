@@ -188,7 +188,7 @@
 "I prefer older girls, if anything..."
 
 @NAR_SEV_A:139 NAR b92b044a
-"{V0090}{W5}Oh...{W61}{Ec}{W5}{F6}{Eo}Is{W3} that{W3} so..."
+"{V0090}{W5}Oh...{W61}{Ec}{W5}{F6}{Eo} Is{W3} that{W3} so..."
 
 @NAR_SEV_A:140 PLY c5668c5e
 "Ah... but I have a little sister, so I'm probably more used to talking to younger girls..."
