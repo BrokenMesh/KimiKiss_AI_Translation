@@ -10,7 +10,7 @@ One file per replaced method, in the assembler syntax of `tools/reinsert/scfasm.
 
 A file headed `; add: <Class> <method> argc=<n> table=...` adds a new method instead and has no `original-sha1`.
 
-`tools/reinsert/apply_script_patches.py <script_dir> patches/scripts` applies them during the build. `@EN_WIDTHS` expands to the width table from `tools/font/en_widths.json`; `@EN_SYMBOLS` to the int table that maps full-width symbols 0x8140-0x819E to English codes (name entry, D-016). Original bytecode can be listed with `tools/extract/scfdis.py <Class>.scf <method>`; the new bytecode is the assembled patch.
+`tools/reinsert/apply_script_patches.py <script_dir> patches/scripts` applies them during the build. `push_const en:"..."` is an English string in the D-012 codes (`tools/reinsert/en_text.py`). `@EN_WIDTHS` expands to the width table from `tools/font/en_widths.json`; `@EN_SYMBOLS` to the int table that maps full-width symbols 0x8140-0x819E to English codes (name entry, D-016). Original bytecode can be listed with `tools/extract/scfdis.py <Class>.scf <method>`; the new bytecode is the assembled patch.
 
 | Patch | Original | New | Reason |
 |---|---|---|---|
@@ -40,6 +40,13 @@ A file headed `; add: <Class> <method> argc=<n> table=...` adds a new method ins
 | `Parson.message1.asm` | 518 bytes | 528 bytes | Indent after a speaker plate 5 cells (115 px) instead of 4 (92 px), so English surname plates fit (glossary D9, D-023); first calls `messWin pageFor:` (D-024) |
 | `TextWindow.pageFor1.asm` | new | 97 bytes | Clears the window first when the message's rows (`／` + 1) do not fit the rows left on the page; scene scripts stack short messages on one 3-row page (D-024) |
 | `TextWindow.output0.asm` | 231 bytes | 288 bytes | The indent command also moves the pen: line 1 of a spoken line starts at the indent column like lines 2-3, or 6 px after a wider plate (D-023) |
+| `GameParam.easyFlags0.asm`, `easy1`, `setEasyFlags1` (class side) | new | 39 / 14 / 6 bytes | Easy Mode switches: an Integer bitmask in class variable 18 (`autoSkip`, saved in the system data, never read by the game); nil or a Boolean reads as 0 (D-038) |
+| `Favor.addTension1`, `addInterest1`, `downFeel0`, `downInterest0`, `addBad1`; `TensionGauge.addTension1` | 16 / 71 / 69 / 48 / 35; 22 bytes | + about 15 each | Easy Mode "No Losses" (bit 1): a flag test in front of the original method drops decreases (D-038) |
+| `Parson.checkInterest0`; `MatchHistory.checkLose3`, `checkLose4`; `TensionGauge.getTension0` | 53; 73 / 70; 7 bytes | 68; +12 each; 24 bytes | Easy Mode "Fewer Rejections" (bit 2): roll with interest + 3, no bored/leave endings, tension tests see +32 (D-038) |
+| `GameParam.checkFirst0`, `checkSecond0` (class side) | 12 bytes each | about 75 bytes | Easy Mode "Easier Meetings" (bit 4): re-roll the encounter table up to 8 times until a met girl (D-038) |
+| `GameParam.useAttack0`, `getAttack0`; `TopicPlayer.getRemainder0` (class side) | 22 / 6; 65 bytes | +12 each; 102 bytes | Easy Mode "More Tries" (bit 8): the Attack is not used up, an empty topic deck is dealt again (D-038) |
+| `MainMenu.makeMenu0`, `scriptMain0`, `menuTex1` | 169 / 1432 bytes, new | 179 / 1481 / 45 bytes | Title menu command 6 "Easy Mode" after Settings (sprite 114 n 4, `menu_main4`), opens the panel (D-038) |
+| `Configuration.easyMode1`, `easyRowY1`, `easyShow3` | new | 902 / 15 / 96 bytes | The Easy Mode panel: DialogBox, TextLine labels, On/Off cross-fade, pad loop, save prompt through ConfigSave (D-038) |
 
 ## Textures
 

@@ -529,6 +529,7 @@ class VM:
         self.warnings = []
         self._defs = {}
         self._classvars = {}
+        self.rnd = lambda n: 0
         self._symbols = {}
         self._classes = {}
         self._serial = 0
@@ -939,6 +940,8 @@ class VM:
                         if a[0] >= len(temps):
                             self._bad(cur, f'push_temp {a[0]} but only {len(temps)} temps')
                         stack.append(temps[a[0]])
+                    elif op == 0x20 and class_side:
+                        stack.append(self._classvars.get(self._cvar_key(defcls, a[0], cur)))
                     elif op == 0x20:
                         if ncls is None or not ncls.has_ivar_id(a[0]):
                             self._bad(cur, f'push_ivar {a[0]}: receiver {recv!r} has no such instance variable')
@@ -968,6 +971,8 @@ class VM:
                         if a[0] >= len(temps):
                             self._bad(cur, f'store_temp {a[0]} but only {len(temps)} temps')
                         temps[a[0]] = stack.pop()
+                    elif op == 0x21 and class_side:
+                        self._classvars[self._cvar_key(defcls, a[0], cur)] = stack.pop()
                     elif op == 0x21:
                         if ncls is None or not ncls.has_ivar_id(a[0]):
                             self._bad(cur, f'store_ivar {a[0]}: receiver {recv!r} has no such instance variable')
@@ -1069,6 +1074,14 @@ class VM:
         e = VMError(msg)
         e.pc = pc
         raise e
+
+    def _cvar_key(self, defcls, i, pc):
+        """Class side: push_ivar/store_ivar n address class variable n (fields2 id) of the defining class
+        or a superclass (GameParam class>>init stores autoSkip with store_ivar 18)."""
+        for c in defcls.chain():
+            if i in c.fields2:
+                return (c.name, i)
+        self._bad(pc, f'class-side ivar {i}: {defcls.name} has no class variable {i}')
 
     def _primitive(self, recv, defcls, meth, args, class_side):
         """`34 n` reached in a class that has no Python native: log it like a stub call."""
@@ -1296,6 +1309,12 @@ def _array_equals(vm, r, a):
 @native('Array', 'i', 'clone', 0)
 def _array_clone(vm, r, a):
     return VArray(r.items)
+
+
+@native('Integer', 'c', 'rnd', 1)
+def _integer_rnd(vm, r, a):
+    """`Integer rnd: n` (0..n-1 assumed). Tests set vm.rnd to a function n -> value; default 0."""
+    return vm.rnd(a[0])
 
 
 def main():

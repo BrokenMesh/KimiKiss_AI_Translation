@@ -689,7 +689,9 @@ _NAME_WHY = 'name entry changes Japanese behaviour on purpose (3 -> 8 slots, D-0
 UNTESTED_WHY = {
     'NameEntry': _NAME_WHY, 'NameEntryEdit': _NAME_WHY, 'NameEntryList': _NAME_WHY,
     'ShioriData': 'serialize/cut keep the 256-byte slot header (D-016): no Japanese-identity form, needs a spec scenario',
-    'GameParam': 'name-entry work (D-016): no scenario yet', 'K2_Script': 'name-entry work (D-016): no scenario yet',
+    'GameParam': 'name entry (D-016) / easy mode (D-038, see test_easy_mode.py)', 'K2_Script': 'name-entry work (D-016): no scenario yet',
+    **{c: 'easy mode (D-038): no text drawing; checked by test_easy_mode.py'
+       for c in ('Favor', 'MatchHistory', 'TensionGauge', 'TopicPlayer')},
 }
 
 

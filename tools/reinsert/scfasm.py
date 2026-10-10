@@ -5,6 +5,7 @@ Syntax, one instruction per line (`;` starts a comment, `name:` is a label):
 
   push_ivar 32            push_temp 0        push_int -3
   push_const "text"       push_const #sym    push_const class:FontChar
+  push_const en:"Easy Mode"   (English: D-012 codes 0x8540.., as in translated text)
   push_const int:256      push_const float:2.0   push_const idx:12
   push_classvar class:Parson 7
   send 1 #put             send_super 0 #initialize
@@ -28,7 +29,9 @@ import struct
 import sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'extract'))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import scfdis  # noqa: E402
+import en_text  # noqa: E402
 
 BY_NAME = {}
 for code, (name, spec) in scfdis.OPS.items():
@@ -57,6 +60,8 @@ class Pool:
             return int(tok[4:], 0)
         if tok.startswith('"'):
             return self.index((5, tok[1:-1].encode('cp932')))
+        if tok.startswith('en:"'):
+            return self.index((5, en_text.encode_translation(tok[4:-1])))
         if tok.startswith('#'):
             return self.index((7, tok[1:].encode('ascii')))
         if tok.startswith('class:'):
@@ -70,7 +75,7 @@ class Pool:
 
 def tokenize(line):
     line = re.sub(r'\s*;(?=(?:[^"]*"[^"]*")*[^"]*$).*', '', line)  # comment outside quotes
-    return re.findall(r'"[^"]*"|\S+', line.replace(',', ' '))
+    return [t for t in re.findall(r'(?:en:)?"[^"]*"|[^\s,]+', line)]
 
 
 def assemble(text, constants):

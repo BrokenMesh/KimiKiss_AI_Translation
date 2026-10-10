@@ -45,6 +45,10 @@ The build checks your ISO's checksum first, never writes to it, prints one line 
 
 Step-by-step with all prerequisites and common errors: **[docs/GETTING_STARTED.md](docs/GETTING_STARTED.md)**.
 
+## Easy Mode (optional)
+
+The title menu has an **Easy Mode** item with four switches, all off by default: **No Losses** (a bad conversation or a declined girl never lowers her mood, notes or interest), **Fewer Rejections** (she agrees to talk more often and does not walk off), **Easier Meetings** (girls you have met turn up more often on the map) and **More Tries** (the daily invite/kiss Attack and the topic deck do not run out). Both the love and the friendship routes stay reachable. Details: [docs/easy-mode.md](docs/easy-mode.md).
+
 ## Reporting bugs
 
 Open an issue, or write on the Discord. Include: where in the game (day, location, scene), a screenshot, your PCSX2 version, and whether you used the release patch or your own build. Typical findings: leftover Japanese, clipped or overlapping text, a wrong name, a crash or hang, a picture that is still Japanese.
