@@ -122,6 +122,7 @@ Console: one block per record that is not PASS (`-v` prints PASS too): status, i
 | `SRC_STALE` | WARN | the hash in the store header differs from the current Japanese: the English was written against another line |
 | `DOUBLE_SPACE`, `EDGE_SPACE`, `QUOTES`, `BRACKETS`, `NO_LETTERS`, `IDEOGRAPHIC_SPACE`, `NO_LIMIT` | WARN | suspicious |
 | `WORDS_JOINED` | WARN | two common words joined by control codes with no space (`can{W2}do`); put a space after the code (D-039) |
+| `CARD_TEXT_LONG` | WARN | a memory-card ConfirmDialog message longer than its Japanese; these show over the save/load list and too many characters overflow the draw packet pool (D-040) |
 
 ## Rules for the translator
 

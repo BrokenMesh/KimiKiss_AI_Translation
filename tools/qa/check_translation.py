@@ -314,6 +314,14 @@ def check_suspicious(res, rec, tr, lim):
         res.fail('UNTRANSLATED', 'translation is identical to the Japanese')
     if '  ' in plain:
         res.warn('DOUBLE_SPACE', 'double space')
+    ja_plain = rules.BRACED.sub('', rec['text'])
+    if lim['kind'] == 'confirm' and ('ＭＥＭＯＲＹ' in ja_plain or 'メモリーカード' in ja_plain):
+        n_en, n_ja = len(plain.replace('\n', '')), len(ja_plain.replace('\n', ''))
+        if n_en > n_ja:
+            # Shown over the save/load slot list, the heaviest screen; every character is a sprite drawn
+            # twice from a fixed 512 KB packet pool, and running it out froze the save (issue #9, D-040).
+            res.warn('CARD_TEXT_LONG', f'memory card message has {n_en} characters, the Japanese {n_ja}; '
+                     'keep it at most as long as the Japanese')
     joined = joined_words(tr)
     if joined:
         res.warn('WORDS_JOINED', 'words run together around control codes (add a space after the code): '
