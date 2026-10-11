@@ -520,8 +520,46 @@ def _tw_cases(data):
                summary=lambda vm, r: 'end curX/curY: ' + ' '.join(f'({x:g},{y:g})' for x, y in r)),
           Case(key, 'en widths @ line start', run_for(EN_CODES, 2, [-276.0]), lang='en', summary=summary),
           Case(key, 'en wrap at the right edge', run_for(EN_CODES, 2, [right - 12.0, right - 5.0, right]),
-               lang='en', summary=lambda vm, r: 'curX/curY after: ' + ' '.join(f'({x:g},{y:g})' for x, y in r[:9]))]
+               lang='en', summary=lambda vm, r: 'curX/curY after: ' + ' '.join(f'({x:g},{y:g})' for x, y in r[:9])),
+          Case(key, 'en space advances without a sprite', _space_run('TextWindow'), lang='en',
+               oracle=_space_oracle, summary=lambda vm, r: f'glyph objects {r[0]}, curX {r[1]:g}')]
     return ja, en
+
+
+SPACE_TEXT = 'a b  c'
+
+
+def _space_run(cls):
+    # D-042: an English space (0x8540) moves the cursor but creates no FontChar sprite.
+    def run(vm):
+        if cls == 'TextWindow':
+            obj = vm.new('TextWindow')
+            _orig_geometry(vm, obj)
+            vm.set_ivar(obj, 'curX', -276.0)
+            vm.set_ivar(obj, 'curY', 84.0)
+            for c in en_codes(SPACE_TEXT):
+                vm.send(obj, 'putChar', [c])
+            return [vm.send(vm.get_ivar(obj, 'fontList'), 'length'), vm.get_ivar(obj, 'curX')]
+        obj = vm.new_object('LogLine')
+        vm.set_ivar(obj, 'fList', vm.new('Vector', 80))
+        vm.set_ivar(obj, 'nofLine', 1)
+        for name, v in (('posX', -276.0), ('posY', 100.0), ('curX', -276.0), ('curY', 120.0), ('pitchX', -1.0),
+                        ('indent', 0), ('fClut', 0), ('fSclW', 1.0), ('fSclH', 1.0), ('rCurX', -276.0)):
+            vm.set_classvar('LogLine', name, v)
+        for c in en_codes(SPACE_TEXT):
+            vm.send(obj, 'putChar', [c])
+        return [vm.send(vm.get_ivar(obj, 'fList'), 'length'), vm.get_classvar('LogLine', 'curX')]
+    return run
+
+
+def _space_oracle(res):
+    want_n = sum(1 for ch in SPACE_TEXT if ch != ' ')
+    want_x = -276.0 + sum(float(WIDTHS[ch]) for ch in SPACE_TEXT)
+    if res[0] != want_n:
+        return f'{res[0]} glyph objects for {SPACE_TEXT!r}, want {want_n} (spaces must not be drawn)'
+    if not scfvm.values_equal(res[1], want_x, F32_TOL * 4):
+        return f'curX {res[1]} != {want_x}'
+    return None
 
 
 @scenarios('LogLine.putChar/1')
@@ -579,7 +617,9 @@ def _ll_cases(data):
           Case(key, 'en widths @ line start', run_for(EN_CODES, 1, [-276.0]), lang='en',
                summary=lambda vm, r: 'curX after each: ' + ' '.join(f'{x:g}' for x, _ in r)),
           Case(key, 'en wrap at the right edge', run_for(EN_CODES, 1, [right - 9.0, right - 3.0]), lang='en',
-               summary=lambda vm, r: 'curX/curY after: ' + ' '.join(f'({x:g},{y:g})' for x, y in r[:9]))]
+               summary=lambda vm, r: 'curX/curY after: ' + ' '.join(f'({x:g},{y:g})' for x, y in r[:9])),
+          Case(key, 'en space advances without a sprite', _space_run('LogLine'), lang='en',
+               oracle=_space_oracle, summary=lambda vm, r: f'glyph objects {r[0]}, curX {r[1]:g}')]
     return ja, en
 
 

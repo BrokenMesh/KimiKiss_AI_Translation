@@ -3,6 +3,10 @@
 ; reason: backlog counterpart of TextWindow.putChar.asm. Same rule: English
 ;   codes 0x8540-0x859F use the width table, all other codes keep the
 ;   original 24*fSclW (+ pitchX) advance and the original right edge 276.
+;   An English space (0x8540) only advances, as in TextWindow.putChar.asm:
+;   a backlog screen holds up to three pages, and every glyph sprite costs a
+;   handle and draw packets from fixed pools (D-042). fList is only iterated
+;   (fade, move, destruct), never indexed.
 ; temps: 0 = code, 1 = width used by the wrap test, 2 = advance
 ; LogLine class variables: 4 posX, 5 posY, 6 curX, 7 curY, 8 pitchX,
 ;   10 fClut, 11 fSclW, 12 fSclH; ivar 3 fList
@@ -44,6 +48,12 @@ measured:
         send 0 #crlf
         pop
 draw:
+        push_temp 0
+        push_const int:0x8540
+        op =
+        jump_if_false sprite
+        jump advance
+sprite:
         push_ivar 3
         push_const class:FontCharEx
         push_temp 0
@@ -67,6 +77,7 @@ draw:
         send 2 #setPos
         send 1 #put
         pop
+advance:
         push_classvar class:LogLine 6
         push_temp 2
         op +

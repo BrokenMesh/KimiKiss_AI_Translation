@@ -22,6 +22,7 @@
 - [phase-4-textures.md](phase-4-textures.md), [phase-4-textures.tsv](phase-4-textures.tsv): text in images and the hand-made texture mechanism.
 - [phase-4-name-entry.md](phase-4-name-entry.md), [phase-4-system-text.md](phase-4-system-text.md), [phase-4-elf-strings.md](phase-4-elf-strings.md): name entry, system text limits, hard-coded strings in the executable.
 - [size-budget.md](size-budget.md): space and memory limits on disc, in the executable and in the VM.
+- [overflow-audit.md](overflow-audit.md): every fixed pool and buffer that longer text uses, what happens when it runs out, and what guards it.
 - [qa-scfvm.md](qa-scfvm.md): the offline script interpreter used by the tests.
 
 ## History

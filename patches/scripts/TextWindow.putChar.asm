@@ -4,6 +4,10 @@
 ;   0x8540-0x859F advance by the width table; every other code keeps the
 ;   original fixed advance fontW*fontSclW + pitchX and the original wrap
 ;   test, so Japanese renders exactly as before.
+;   An English space (0x8540) only advances: it has no pixels, and a sprite
+;   for it would cost a sprite handle and two draw packets per frame from
+;   the fixed pools (D-040, D-041, D-042). fontList is only appended to,
+;   faded and erased, never indexed, so skipping an entry is safe.
 ; temps: 0 = code, 1 = width used by the wrap test, 2 = advance
 ; ivars: 0 layer, 1 posX, 3 width, 5 marginX, 7 pitchX, 9 fontW,
 ;   11 fontSclW, 12 fontSclH, 16 fontClut, 17 fontFade, 18 fontList,
@@ -50,6 +54,12 @@ measured:
         send 0 #crlf
         pop
 draw:
+        push_temp 0
+        push_const int:0x8540
+        op =
+        jump_if_false sprite
+        jump advance
+sprite:
         push_ivar 18
         push_const class:FontChar
         push_temp 0
@@ -74,6 +84,7 @@ draw:
         send 3 #fade
         send 1 #put
         pop
+advance:
         push_ivar 32
         push_temp 2
         op +
