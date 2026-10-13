@@ -369,3 +369,17 @@ Full English build (`build/full_en.iso`) in PCSX2, 2026-10-07: new game, prologu
 - **Verified:** `test_patches_jp.py` has a new case for each method (`'a b  c'` gives 3 glyph objects, and the cursor ends at the sum of the six widths). It fails on the previous patch (6 objects) and passes now. In PCSX2 with the issue #9 save: Day 8 dialogue and the backlog show words spaced and wrapped exactly as before. Over six rounds of play with the backlog opened, the D-041 sink was never written.
 - **Release patch** regenerated (4,245,238 bytes). It reproduces the built ISO (`xdelta3 -d`, then `cmp`).
 
+
+## D-043: Easy Mode freeze report (not reproduced)
+
+- **Report (2026-10-13, Discord tester, photo of a TV, build not stated):** title menu with six items (New Game, Continue, Carry Over, Album, Settings, Easy Mode), cursor on Easy Mode; "it froze after selecting it". In the photo the other items are not dimmed. The menu dims them over the frames after circle (`CommandMenu >> disable`), so if the photo shows the frozen screen, the game stopped before the panel drew its first frame: between circle and the first `fade`/`sleep` in `Configuration >> easyMode:`. The same tester's earlier reports (issue #9, D-040, the D-041 rooftop freeze) were on PS2 and PS3 hardware.
+- **Checked:** `CommandMenu` sizes its icon array from the command count, and `MainMenu >> scriptMain` dispatches by command id, not by row. Six items were already possible in the original game (Album plus Extras). Nothing in the menu or the panel has a fixed size that a sixth row could overflow. `Configuration new` (a `K2_Script`) allocates nothing before the panel.
+- **Tried in PCSX2, all without a fault:**
+  - The release build on a card holding the reporter's own issue #9 system data (Album unlocked, `autoSkip` false), from a fresh boot.
+  - The same after Save → To Title from the Day 7 night menu (`RoomMenu` RestartException).
+  - The D-038 release patch (the first one with Easy Mode).
+  - The release build with EE cache emulation on.
+  - The full panel flow on the release build: open, switch No Losses on, close, "Settings have been changed" prompt, Yes, "Save complete.", back to the menu.
+  - Resources with the panel open after the title return: draw pool 416 KB free, 337 handles, sprite pool 266 KB, VM 0.32 MB.
+  - The panel code (`Configuration.easyMode1`, `MainMenu.makeMenu0`/`scriptMain0`, `GameParam` easy methods) has not changed since D-038.
+- **Status:** open. Needed from the reporter: which patch (download date or file size), console and loader (OPL version and mode), whether it happens every time and from a fresh boot, whether Settings opens normally, and the current memory card save.
