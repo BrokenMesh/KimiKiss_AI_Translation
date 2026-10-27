@@ -382,4 +382,13 @@ Full English build (`build/full_en.iso`) in PCSX2, 2026-10-07: new game, prologu
   - The full panel flow on the release build: open, switch No Losses on, close, "Settings have been changed" prompt, Yes, "Save complete.", back to the menu.
   - Resources with the panel open after the title return: draw pool 416 KB free, 337 handles, sprite pool 266 KB, VM 0.32 MB.
   - The panel code (`Configuration.easyMode1`, `MainMenu.makeMenu0`/`scriptMain0`, `GameParam` easy methods) has not changed since D-038.
+- **Save-state sweep (2026-10-27).** The system block (offset `0x32000` of the 215,040-byte save file) was decoded, changed and re-serialised. The round trip is byte-exact and the block has no checksum. Each variant was written onto a copy of the test card. A script then drove PCSX2 through boot, the title menu, opening Easy Mode, switching No Losses on, closing, Yes on the save prompt, and back to the menu, reading the screen after each step.
+  - **Pass (panel opens, switch flips, save completes, menu responds):**
+    - menu shapes: the reporter's data (6 items); Album and Extras both unlocked (7 items, which only the patched menu can have); Extras only (6); nothing unlocked (5); everything unlocked (7);
+    - `autoSkip` (the Easy Mode bits) as 15, nil, a String, a Float, an Array, -1 and `0x7fffffff`;
+    - only 8 of the 13 system entries; Album flags as Strings;
+    - an unformatted card ("Format it now?", Yes, "Save complete.");
+    - no card: the save prompt repeats after "No memory card", and No returns to the menu, which is how the game's own settings save prompt (ConfigSave) works.
+  - **Hang before the title menu (white screen after Press Start):** a config array with one entry, malformed clear records (`clFlag` entries of length 1), 10,240 random bytes, an all-zero block, and a block cut off at 3,000 bytes. The untouched Japanese ISO hangs the same way with these cards and boots normally with the reporter's card, so this is the original loader (`restoreSystemData:` and `numOfClear` index without checks). It is not the reported fault: the report shows the title menu on screen.
+  - No variant reproduces a freeze on selecting Easy Mode.
 - **Status:** open. Needed from the reporter: which patch (download date or file size), console and loader (OPL version and mode), whether it happens every time and from a fresh boot, whether Settings opens normally, and the current memory card save.
